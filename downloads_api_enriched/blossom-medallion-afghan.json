@@ -2,13 +2,27 @@
   "id": 7492659,
   "name": "Blossom Medallion Afghan",
   "permalink": "blossom-medallion-afghan",
-  "url": "https://www.ilikecrochet.com/magazine/crochet-afghan-patterns/blossom-medallion-afghan/?t=79329",
-  "designer_name": null,
+  "url": "https://www.ravelry.com/patterns/library/blossom-medallion-afghan",
+  "external_url": "https://www.ilikecrochet.com/magazine/crochet-afghan-patterns/blossom-medallion-afghan/?t=79329",
+  "designer_name": "YellowBlueDesign by Olya Mikesh",
   "project_type": "Blanket",
   "fiber_art": "Crochet",
   "yarn_weight": "Aran",
-  "materials": [],
-  "stitches_used": [],
+  "materials": [
+    {
+      "fiber": "Uptown Worsted",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Double crochet (dc)",
+    "Granny",
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Tapestry crochet"
+  ],
   "hook_sizes_mm": [
     5.0
   ],
@@ -18,6 +32,8 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 99,
-  "projects_count": 1
+  "favorites_count": 137,
+  "projects_count": 1,
+  "free_ravelry_download": false,
+  "download_url": "https://www.ilikecrochet.com/magazine/crochet-afghan-patterns/blossom-medallion-afghan/?t=79329"
 }

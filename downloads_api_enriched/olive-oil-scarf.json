@@ -2,13 +2,25 @@
   "id": 7492830,
   "name": "Olive Oil Scarf",
   "permalink": "olive-oil-scarf",
-  "url": "https://youtu.be/PQxpjKS1nkw",
-  "designer_name": null,
+  "url": "https://www.ravelry.com/patterns/library/olive-oil-scarf",
+  "external_url": "https://youtu.be/PQxpjKS1nkw",
+  "designer_name": "Yarn Doc",
   "project_type": "Scarf",
   "fiber_art": "Crochet",
   "yarn_weight": "Any gauge - designed for any gauge",
-  "materials": [],
-  "stitches_used": [],
+  "materials": [
+    {
+      "fiber": "Maia",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Charted"
+  ],
   "hook_sizes_mm": [
     4.0
   ],
@@ -18,6 +30,14 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 38,
-  "projects_count": 1
+  "favorites_count": 54,
+  "projects_count": 1,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/115520/1048694",
+  "pdf": {
+    "filename": "Olive_Oil_Scarf_Pattern.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\Olive_Oil_Scarf_Pattern.pdf",
+    "url": "https://pdf.ravelrycache.com/YarnDocEllen/2115313/Olive_Oil_Scarf_Pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768318170&Signature=paV%2B5VzFsO0ACawgbdC%2BcG%2BiY8w%3D&key_expires=1768318170&key=7fiqA-B1Ijz5Yfo58G960Q",
+    "size_bytes": 8476771
+  }
 }

@@ -2,13 +2,32 @@
   "id": 7457452,
   "name": "Wheat Stitch™ Beanie",
   "permalink": "wheat-stitchtm-beanie",
-  "url": "https://brianakdesigns.com/wheat-stitch-crochet-beanie/",
-  "designer_name": null,
+  "url": "https://www.ravelry.com/patterns/library/wheat-stitchtm-beanie",
+  "external_url": "https://brianakdesigns.com/wheat-stitch-crochet-beanie/",
+  "designer_name": "Briana K Designs",
   "project_type": "Child",
   "fiber_art": "Crochet",
   "yarn_weight": "Worsted",
-  "materials": [],
-  "stitches_used": [],
+  "materials": [
+    {
+      "fiber": "Playful",
+      "pct": null
+    },
+    {
+      "fiber": "Supreme Worsted",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Slip stitch (sl st)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "Seamless",
+    "Worked flat"
+  ],
   "hook_sizes_mm": [
     4.0,
     5.0
@@ -16,9 +35,11 @@
   "needle_sizes_mm": [],
   "published": "2025/08/01",
   "sizes_available": "Newborn (Baby, Toddler, Child, Teen) (Adult Small, Medium, Large)",
-  "rating_average": 4.818181818181818,
-  "rating_count": 33,
-  "difficulty_average": 2.7333333333333334,
-  "favorites_count": 2400,
-  "projects_count": 191
+  "rating_average": 4.823529411764706,
+  "rating_count": 34,
+  "difficulty_average": 2.774193548387097,
+  "favorites_count": 2447,
+  "projects_count": 198,
+  "free_ravelry_download": false,
+  "download_url": "http://www.ravelry.com/purchase/briana-k-designs/1021034"
 }

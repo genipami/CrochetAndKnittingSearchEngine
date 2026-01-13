@@ -2,13 +2,19 @@
   "id": 7492901,
   "name": "Legend of Zelda Chu Chu Beanie",
   "permalink": "legend-of-zelda-chu-chu-beanie",
-  "url": "",
-  "designer_name": null,
+  "url": "https://www.ravelry.com/patterns/library/legend-of-zelda-chu-chu-beanie",
+  "external_url": "",
+  "designer_name": "thecraftypiggy",
   "project_type": "Hat",
   "fiber_art": "Crochet",
   "yarn_weight": "Any gauge - designed for any gauge",
   "materials": [],
-  "stitches_used": [],
+  "stitches_used": [
+    "Double crochet (dc)",
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [],
   "hook_sizes_mm": [
     4.0,
     6.0
@@ -19,6 +25,14 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 11,
-  "projects_count": 0
+  "favorites_count": 25,
+  "projects_count": 0,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/115540/1048753",
+  "pdf": {
+    "filename": "Chu_Chu_Beanie.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\Chu_Chu_Beanie.pdf",
+    "url": "https://pdf.ravelrycache.com/thecraftypiggy/2115438/Chu_Chu_Beanie.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768318168&Signature=XKG%2BH%2BWnqyZiKOQeU3oipYlZnC0%3D&key_expires=1768318168&key=UncxRoign2SELspOPv6K0Q",
+    "size_bytes": 175054
+  }
 }

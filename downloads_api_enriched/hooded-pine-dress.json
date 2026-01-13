@@ -2,13 +2,25 @@
   "id": 7492271,
   "name": "Hooded Pine Dress",
   "permalink": "hooded-pine-dress",
-  "url": "",
-  "designer_name": null,
+  "url": "https://www.ravelry.com/patterns/library/hooded-pine-dress",
+  "external_url": "",
+  "designer_name": "Karmen Režek",
   "project_type": "Dress/Suit",
   "fiber_art": "Crochet",
   "yarn_weight": "Sport",
-  "materials": [],
-  "stitches_used": [],
+  "materials": [
+    {
+      "fiber": "Friends Cotton 8/6",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Double crochet (dc)",
+    "Half double crochet (hdc)"
+  ],
+  "techniques_used": [
+    "Seamed"
+  ],
   "hook_sizes_mm": [
     4.0,
     5.0
@@ -19,6 +31,8 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 265,
-  "projects_count": 2
+  "favorites_count": 313,
+  "projects_count": 2,
+  "free_ravelry_download": false,
+  "download_url": null
 }

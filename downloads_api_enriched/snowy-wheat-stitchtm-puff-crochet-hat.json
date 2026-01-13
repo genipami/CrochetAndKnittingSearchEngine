@@ -2,22 +2,38 @@
   "id": 7379294,
   "name": "Snowy Wheat Stitch™ Puff Crochet Hat",
   "permalink": "snowy-wheat-stitchtm-puff-crochet-hat",
-  "url": "https://brianakdesigns.com/snowy-puff-crochet-hat-pattern/",
-  "designer_name": null,
+  "url": "https://www.ravelry.com/patterns/library/snowy-wheat-stitchtm-puff-crochet-hat",
+  "external_url": "https://brianakdesigns.com/snowy-puff-crochet-hat-pattern/",
+  "designer_name": "Briana K Designs",
   "project_type": "Child",
   "fiber_art": "Crochet",
   "yarn_weight": "Worsted",
-  "materials": [],
-  "stitches_used": [],
+  "materials": [
+    {
+      "fiber": "Color Theory",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Puff stitch",
+    "Single crochet (sc)",
+    "Slip stitch (sl st)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Seamed"
+  ],
   "hook_sizes_mm": [
     5.0
   ],
   "needle_sizes_mm": [],
   "published": "2024/10/01",
   "sizes_available": "Newborn (Baby, Toddler, Child, Teen) (Adult Small, Medium, Large)",
-  "rating_average": 4.784172661870503,
-  "rating_count": 139,
-  "difficulty_average": 2.9615384615384617,
-  "favorites_count": 8596,
-  "projects_count": 598
+  "rating_average": 4.787234042553192,
+  "rating_count": 141,
+  "difficulty_average": 2.9618320610687023,
+  "favorites_count": 8701,
+  "projects_count": 610,
+  "free_ravelry_download": false,
+  "download_url": "http://www.ravelry.com/purchase/briana-k-designs/960043"
 }

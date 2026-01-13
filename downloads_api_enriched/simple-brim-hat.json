@@ -2,13 +2,22 @@
   "id": 7492481,
   "name": "Simple Brim Hat",
   "permalink": "simple-brim-hat",
-  "url": "",
-  "designer_name": null,
+  "url": "https://www.ravelry.com/patterns/library/simple-brim-hat",
+  "external_url": "",
+  "designer_name": "Juan Ramon - (Juan The Yarn Addict)",
   "project_type": "Hat",
   "fiber_art": "Crochet",
   "yarn_weight": "Aran",
-  "materials": [],
+  "materials": [
+    {
+      "fiber": "Basix Worsted Value",
+      "pct": null
+    }
+  ],
   "stitches_used": [],
+  "techniques_used": [
+    "In the round"
+  ],
   "hook_sizes_mm": [
     6.0
   ],
@@ -18,6 +27,14 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 21,
-  "projects_count": 0
+  "favorites_count": 31,
+  "projects_count": 0,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/105459/1048418",
+  "pdf": {
+    "filename": "Simple_Brim_Hat_Final.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\Simple_Brim_Hat_Final.pdf",
+    "url": "https://pdf.ravelrycache.com/JuanTheYarnAddict/2114824/Simple_Brim_Hat_Final.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768318178&Signature=HFOReK6aaQqfD5KYct%2F5A0bqnqM%3D&key_expires=1768318178&key=tuemKOlMaiEmSvb90PmSFg",
+    "size_bytes": 673082
+  }
 }
