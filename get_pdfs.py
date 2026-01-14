@@ -35,7 +35,7 @@ AUTH = OAuth1(CONSUMER_KEY, CONSUMER_SECRET, ACCESS_TOKEN, ACCESS_SECRET)
 # Paths (pdfs folder sibling to downloads_api_enriched)
 # -----------------------------
 ROOT_DIR       = pathlib.Path(".").resolve()
-METADATA_DIR   = ROOT_DIR / "downloads_api_enriched"
+METADATA_DIR   = ROOT_DIR / "metadata"
 PDF_DIR        = ROOT_DIR / "pdfs"
 PDF_DIR.mkdir(parents=True, exist_ok=True)
 

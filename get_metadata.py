@@ -50,7 +50,7 @@ DETAIL_URL = (
 YARN_URL = f"{BASE}/yarns/{{id}}.json"
 
 INPUT_FILE = "patterns_with_ids.txt"
-OUT_DIR = pathlib.Path("downloads_api_enriched")
+OUT_DIR = pathlib.Path("metadata")
 OUT_DIR.mkdir(exist_ok=True)
 CSV_PATH = OUT_DIR / "metadata_enriched.csv"
 
