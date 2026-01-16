@@ -1,0 +1,62 @@
+# ------------------------------
+# Python
+# ------------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code folders
+.vscode/
+
+# ------------------------------
+# Project-specific paths
+# ------------------------------
+
+# Local dataset (PDFs)
+pdfs/
+*.pdf
+
+# Compressed archives (datasets, releases)
+*.zip
+*.7z
+*.tar
+*.tar.gz
+
+# Local extracted data, embeddings, etc.
+extracted_text/
+embeddings/
+data/
+dataset/
+outputs/
+
+# Temporary folders
+tmp/
+temp/
+
+# ------------------------------
+# OS files
+# ------------------------------
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# ------------------------------
+# Git / LFS
+# ------------------------------
+
+.gitattributes.lock
