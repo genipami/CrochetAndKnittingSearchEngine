@@ -1,0 +1,43 @@
+{
+  "id": 917482,
+  "name": "Easy Does It DK",
+  "permalink": "easy-does-it-dk",
+  "url": "https://www.ravelry.com/patterns/library/easy-does-it-dk",
+  "external_url": "",
+  "designer_name": "Aimee Pelletier",
+  "project_type": "Shawl/Wrap",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "Giardino",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Garter stitch",
+    "Single crochet (sc)"
+  ],
+  "techniques_used": [
+    "Seamless"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.5
+  ],
+  "published": "2019/04/01",
+  "sizes_available": "80\" long x 12\" deep at center",
+  "rating_average": 4.902439024390244,
+  "rating_count": 41,
+  "difficulty_average": 1.7297297297297298,
+  "favorites_count": 1521,
+  "projects_count": 181,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/21377/524862",
+  "pdf": {
+    "filename": "917482.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\917482.pdf",
+    "url": "https://pdf.ravelrycache.com/darnknitanyway/962786/DKA_Pattern_Easy_does_it_DK_2019.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479991&Signature=tYJPNrrHMNrHqOfN1LI8Y6TmPIk%3D&key_expires=1768479991&key=MpyVULWz5gqTipKu_THIqA",
+    "size_bytes": 137083
+  }
+}

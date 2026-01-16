@@ -1,0 +1,46 @@
+{
+  "id": 7370910,
+  "name": "Main Street Headband",
+  "permalink": "main-street-headband",
+  "url": "https://www.ravelry.com/patterns/library/main-street-headband",
+  "external_url": "",
+  "designer_name": "Kelly Meneely",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "Under the Rainbow 2-Ply DK",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Garter stitch",
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Blocking",
+    "Seamed",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.0
+  ],
+  "published": "2024/09/01",
+  "sizes_available": "One Size (customizable)",
+  "rating_average": 4.75,
+  "rating_count": 20,
+  "difficulty_average": 1.5,
+  "favorites_count": 961,
+  "projects_count": 104,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/77725/952978",
+  "pdf": {
+    "filename": "7370910.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7370910.pdf",
+    "url": "https://pdf.ravelrycache.com/LiftBridgeYarns/1890604/Main_Street_Headband.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481638&Signature=c5OsIu6DIl%2Fqs7vnjES08rKnsGI%3D&key_expires=1768481638&key=9vo1rv3LdH0gns2CoFJ63A",
+    "size_bytes": 1281567
+  }
+}

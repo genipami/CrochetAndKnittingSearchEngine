@@ -20,7 +20,8 @@
     "Treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamed"
+    "Seamed",
+    "Written"
   ],
   "hook_sizes_mm": [
     3.75
@@ -31,8 +32,14 @@
   "rating_average": 4.777777777777778,
   "rating_count": 27,
   "difficulty_average": 3.259259259259259,
-  "favorites_count": 3489,
+  "favorites_count": 3495,
   "projects_count": 120,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/93264/927705"
+  "download_url": "http://www.ravelry.com/dls/93264/927705",
+  "pdf": {
+    "filename": "7337743.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7337743.pdf",
+    "url": "https://pdf.ravelrycache.com/maecrochetss/2074297/Butterfly_Top_Pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481618&Signature=ibpad2MnCxrvU5170JXmeAO936U%3D&key_expires=1768481618&key=Oq7R4UlBXdsbVtqPnwCnIA",
+    "size_bytes": 21650270
+  }
 }

@@ -1,0 +1,55 @@
+{
+  "id": 1181998,
+  "name": "Norway Pine Hat",
+  "permalink": "norway-pine-hat",
+  "url": "https://www.ravelry.com/patterns/library/norway-pine-hat",
+  "external_url": "",
+  "designer_name": "Sarah Rody",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Rios",
+      "pct": null
+    },
+    {
+      "fiber": "Superwash Merino",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Cable",
+    "Moss/Linen stitch",
+    "Ribbing",
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "Cables",
+    "Charted",
+    "In the round",
+    "Seamless"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.75,
+    4.5
+  ],
+  "published": "2021/10/01",
+  "sizes_available": "Adult medium",
+  "rating_average": 4.796407185628743,
+  "rating_count": 167,
+  "difficulty_average": 3.694267515923567,
+  "favorites_count": 8030,
+  "projects_count": 708,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/77870/729923",
+  "pdf": {
+    "filename": "1181998.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1181998.pdf",
+    "url": "https://pdf.ravelrycache.com/srody/1389250/NorwayPine.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482125&Signature=3AFe3MsV%2F8HMHl1KSAvT0W4tOHY%3D&key_expires=1768482125&key=Lnt9pDC19-Xipgs7QKDnsA",
+    "size_bytes": 4898886
+  }
+}

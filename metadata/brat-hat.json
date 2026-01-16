@@ -1,0 +1,53 @@
+{
+  "id": 7361345,
+  "name": "brat hat",
+  "permalink": "brat-hat",
+  "url": "https://www.ravelry.com/patterns/library/brat-hat",
+  "external_url": "",
+  "designer_name": "Stranded by the Sea",
+  "project_type": "Child",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Mysticeti",
+      "pct": null
+    },
+    {
+      "fiber": "Narwhal",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "In the round",
+    "Kitchener stitch",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.0,
+    5.0,
+    5.5,
+    6.0
+  ],
+  "published": "2024/08/01",
+  "sizes_available": "XS (S, M, L, XL, XXL)",
+  "rating_average": 4.857142857142857,
+  "rating_count": 14,
+  "difficulty_average": 1.6666666666666667,
+  "favorites_count": 932,
+  "projects_count": 60,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/78296/945494",
+  "pdf": {
+    "filename": "7361345.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7361345.pdf",
+    "url": "https://pdf.ravelrycache.com/StrandedbytheSea/1873105/brat_hat_letter_v_20240801.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479213&Signature=wo4gHlmCyWCg8w1H4y6kcQ%2FbVRQ%3D&key_expires=1768479213&key=p7F2N1UI6R9x_3TuncQZ7A",
+    "size_bytes": 263430
+  }
+}

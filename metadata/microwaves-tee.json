@@ -1,0 +1,45 @@
+{
+  "id": 7461863,
+  "name": "Microwaves Tee",
+  "permalink": "microwaves-tee",
+  "url": "https://www.ravelry.com/patterns/library/microwaves-tee",
+  "external_url": "",
+  "designer_name": "Manon Lefeuvre",
+  "project_type": "Tee",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Bulky",
+  "materials": [
+    {
+      "fiber": "Cloud",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Stockinette stitch"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Raglan",
+    "Top-down"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    5.0,
+    6.0
+  ],
+  "published": "2025/09/01",
+  "sizes_available": "XS, S, M, L, XL, XXL",
+  "rating_average": 4.714285714285714,
+  "rating_count": 7,
+  "difficulty_average": 2.5714285714285716,
+  "favorites_count": 2250,
+  "projects_count": 50,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/113444/1024198",
+  "pdf": {
+    "filename": "7461863.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7461863.pdf",
+    "url": "https://pdf.ravelrycache.com/eatyourfiberzz/2057308/MicrowavesTee_V1_ENG.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481736&Signature=khKRfHwe1N3%2BMINXw2JuFzv5d%2BQ%3D&key_expires=1768481736&key=WLYq8VDXxNfSxDYxCezX0g",
+    "size_bytes": 4643169
+  }
+}

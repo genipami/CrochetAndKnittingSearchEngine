@@ -1,0 +1,48 @@
+{
+  "id": 1300429,
+  "name": "The Cloud Hat",
+  "permalink": "the-cloud-hat",
+  "url": "https://www.ravelry.com/patterns/library/the-cloud-hat",
+  "external_url": "",
+  "designer_name": "The Lamb & Kid Designs",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Aran",
+  "materials": [
+    {
+      "fiber": "Big Birdie",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Ribbing",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "In the round",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.5,
+    5.5
+  ],
+  "published": "2023/01/01",
+  "sizes_available": "Small (Large)",
+  "rating_average": 4.90625,
+  "rating_count": 32,
+  "difficulty_average": 1.6666666666666667,
+  "favorites_count": 1769,
+  "projects_count": 181,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/90709/828316",
+  "pdf": {
+    "filename": "1300429.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1300429.pdf",
+    "url": "https://pdf.ravelrycache.com/TheLambAndKid/2089701/tlk_the-cloud-hat_v2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483590&Signature=0vrwNijacvSxUbraAnqhnU53eWU%3D&key_expires=1768483590&key=lhRuaydtsTXBS8bDmiFDoA",
+    "size_bytes": 2919685
+  }
+}

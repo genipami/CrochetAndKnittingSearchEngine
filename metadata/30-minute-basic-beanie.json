@@ -31,8 +31,14 @@
   "rating_average": 4.707182320441989,
   "rating_count": 181,
   "difficulty_average": 1.6590909090909092,
-  "favorites_count": 7599,
+  "favorites_count": 7602,
   "projects_count": 910,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/3817/413093"
+  "download_url": "http://www.ravelry.com/dls/3817/413093",
+  "pdf": {
+    "filename": "770048.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\770048.pdf",
+    "url": "https://pdf.ravelrycache.com/pixiebellshop/998561/30minutebasicbeanie.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478566&Signature=%2B0Z3mHnbWYp%2BeC4Nztff7nZMgyg%3D&key_expires=1768478566&key=hrCwLShfPAJdSnU48hr8NQ",
+    "size_bytes": 172682
+  }
 }

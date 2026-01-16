@@ -1,0 +1,59 @@
+{
+  "id": 7482281,
+  "name": "Reliable Raglan",
+  "permalink": "reliable-raglan",
+  "url": "https://www.ravelry.com/patterns/library/reliable-raglan",
+  "external_url": "",
+  "designer_name": "Friday Knits",
+  "project_type": "Pullover",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "Purely Merino DK",
+      "pct": null
+    },
+    {
+      "fiber": "Simply Cotton DK",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "1x1 rib",
+    "Lace",
+    "Ribbing",
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Lace",
+    "Raglan",
+    "Seamless",
+    "Short rows",
+    "Stranded colorwork",
+    "Top-down",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.5,
+    4.0
+  ],
+  "published": "2025/11/01",
+  "sizes_available": "XS (S, M, L, XL) (2XL, 3XL, 4XL, 5XL)",
+  "rating_average": 0,
+  "rating_count": null,
+  "difficulty_average": 0,
+  "favorites_count": 2807,
+  "projects_count": 27,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/82899/1040573",
+  "pdf": {
+    "filename": "7482281.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7482281.pdf",
+    "url": "https://pdf.ravelrycache.com/FridayKnitsStudio/2114893/Reliable_Raglan_byFridayKnits.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482681&Signature=baxOQpo2cnapvoM9MNQ3z5qG5Cs%3D&key_expires=1768482681&key=ADtZWI7y6WU63QgqOGQDgg",
+    "size_bytes": 3305207
+  }
+}

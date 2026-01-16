@@ -1,0 +1,58 @@
+{
+  "id": 7371051,
+  "name": "See My Vest - Worsted",
+  "permalink": "see-my-vest---worsted",
+  "url": "https://www.ravelry.com/patterns/library/see-my-vest---worsted",
+  "external_url": "",
+  "designer_name": "Emily Bolduan",
+  "project_type": "Vest",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Dooish in the Oil",
+      "pct": null
+    },
+    {
+      "fiber": "Heirloom Merino Fleck 8ply",
+      "pct": null
+    },
+    {
+      "fiber": "Woolly 8ply",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Lace",
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Lace",
+    "Seamless",
+    "Top-down",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.5,
+    4.5
+  ],
+  "published": "2024/09/01",
+  "sizes_available": "XS (S, M, L, XL, 2XL, 3XL, 4XL, 5XL)",
+  "rating_average": 4.790909090909091,
+  "rating_count": 110,
+  "difficulty_average": 2.4622641509433962,
+  "favorites_count": 7952,
+  "projects_count": 511,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/63586/953099",
+  "pdf": {
+    "filename": "7371051.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7371051.pdf",
+    "url": "https://pdf.ravelrycache.com/hellomakermaker/1890960/Maker_Maker_See_My_Vest_Worsted_-_V1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482925&Signature=VJxJZj7xq6OlDn%2B7wJl7H5pC53U%3D&key_expires=1768482925&key=O76_ooRRi3J7sbCOBixoAA",
+    "size_bytes": 3291818
+  }
+}

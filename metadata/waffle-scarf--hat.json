@@ -1,0 +1,49 @@
+{
+  "id": 1075500,
+  "name": "Waffle Scarf & Hat",
+  "permalink": "waffle-scarf--hat",
+  "url": "https://www.ravelry.com/patterns/library/waffle-scarf--hat",
+  "external_url": "",
+  "designer_name": "Andrea Leek",
+  "project_type": "Scarf",
+  "fiber_art": "Crochet",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "Special Double Knit",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Back post stitch",
+    "Double crochet (dc)",
+    "Front post stitch",
+    "Single crochet (sc)",
+    "Treble crochet (tr)",
+    "Waffle"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Written"
+  ],
+  "hook_sizes_mm": [
+    4.5,
+    5.0
+  ],
+  "needle_sizes_mm": [],
+  "published": "2020/10/01",
+  "sizes_available": "",
+  "rating_average": 4.5,
+  "rating_count": 8,
+  "difficulty_average": 3.0,
+  "favorites_count": 795,
+  "projects_count": 53,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/65803/645600",
+  "pdf": {
+    "filename": "1075500.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1075500.pdf",
+    "url": "https://pdf.ravelrycache.com/Andrearleek/1205328/Infinity_Scarf_and_Matching_Hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484047&Signature=7vxc%2F7X5nWcq9VOYjjyOMpjc5Zo%3D&key_expires=1768484047&key=9AdXnoboaD91xEfuKsYbIQ",
+    "size_bytes": 1842979
+  }
+}

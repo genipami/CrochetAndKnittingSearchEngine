@@ -1,0 +1,49 @@
+{
+  "id": 794404,
+  "name": "Ginnel",
+  "permalink": "ginnel",
+  "url": "https://www.ravelry.com/patterns/library/ginnel",
+  "external_url": "",
+  "designer_name": "Claire Walls",
+  "project_type": "Mittens/Gloves",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Bulky",
+  "materials": [
+    {
+      "fiber": "Ecological Wool®",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Broken rib",
+    "Cable",
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Blocking",
+    "Cables",
+    "In the round",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    5.5
+  ],
+  "published": "2017/12/01",
+  "sizes_available": "Extra Small (Small, Medium, Large, Extra Large)",
+  "rating_average": 4.592592592592593,
+  "rating_count": 81,
+  "difficulty_average": 2.25974025974026,
+  "favorites_count": 3833,
+  "projects_count": 350,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/59257/431931",
+  "pdf": {
+    "filename": "794404.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\794404.pdf",
+    "url": "https://pdf.ravelrycache.com/FlossiKnits/771340/Ginnel_final.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480604&Signature=ThjIuKvuQXSmLP7R9k%2B8PA5htLU%3D&key_expires=1768480604&key=ohm8DFRKTfR_XKJ-kouZ2Q",
+    "size_bytes": 6742167
+  }
+}

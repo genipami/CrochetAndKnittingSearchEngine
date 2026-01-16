@@ -14,7 +14,8 @@
     "Treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamless"
+    "Seamless",
+    "Written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [],
@@ -26,5 +27,11 @@
   "favorites_count": 63,
   "projects_count": 0,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/32755/1048321"
+  "download_url": "http://www.ravelry.com/dls/32755/1048321",
+  "pdf": {
+    "filename": "7492348.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7492348.pdf",
+    "url": "https://pdf.ravelrycache.com/Lovelyloop17/2114657/Radiant_Soul_Afghan.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482626&Signature=OkeWejll%2FJapgo6nQ8S0%2FlHTlYs%3D&key_expires=1768482626&key=O877FqtJCGLYHR0c0w3f4g",
+    "size_bytes": 680728
+  }
 }

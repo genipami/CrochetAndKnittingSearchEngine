@@ -1,0 +1,44 @@
+{
+  "id": 7314143,
+  "name": "Basic unisex socks",
+  "permalink": "basic-unisex-socks",
+  "url": "https://www.ravelry.com/patterns/library/basic-unisex-socks",
+  "external_url": "",
+  "designer_name": "Yulia Ilinkova",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "Wooltime",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.0
+  ],
+  "published": "2024/02/01",
+  "sizes_available": "S size (6.5-7 size foot around the ball and all sizes foo length",
+  "rating_average": 4.636363636363637,
+  "rating_count": 22,
+  "difficulty_average": 2.0526315789473686,
+  "favorites_count": 2745,
+  "projects_count": 93,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/84955/908603",
+  "pdf": {
+    "filename": "7314143.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7314143.pdf",
+    "url": "https://pdf.ravelrycache.com/CozySocksStore/1786198/Basic_unisex_socks.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479004&Signature=RlcQrWr0qB%2F7%2B0lSD4UDX%2B%2BRodg%3D&key_expires=1768479004&key=MZUU_iErvcR-CYoL5u-ttA",
+    "size_bytes": 672451
+  }
+}

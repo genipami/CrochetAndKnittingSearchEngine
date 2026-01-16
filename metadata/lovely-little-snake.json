@@ -20,7 +20,8 @@
     "Treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round"
+    "In the round",
+    "Written"
   ],
   "hook_sizes_mm": [
     6.0
@@ -31,8 +32,14 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 76,
+  "favorites_count": 77,
   "projects_count": 0,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/114629/1048160"
+  "download_url": "http://www.ravelry.com/dls/114629/1048160",
+  "pdf": {
+    "filename": "7492153.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7492153.pdf",
+    "url": "https://pdf.ravelrycache.com/QuantumCr0chet/2114368/No-Sew_Snake_Crochet_Pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481558&Signature=Hf81h9EWITHhxd9S%2B%2FtGo76Brss%3D&key_expires=1768481558&key=RVAIuliw-N6zQCstoSm-Nw",
+    "size_bytes": 2836044
+  }
 }

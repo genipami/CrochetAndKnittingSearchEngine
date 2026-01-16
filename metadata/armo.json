@@ -1,0 +1,50 @@
+{
+  "id": 7302355,
+  "name": "Armo",
+  "permalink": "armo",
+  "url": "https://www.ravelry.com/patterns/library/armo",
+  "external_url": "https://payhip.com/b/WcCIM",
+  "designer_name": "Tiina Kuu",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "4-fädig",
+      "pct": null
+    },
+    {
+      "fiber": "DROPS Fabel",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Charted",
+    "Stranded colorwork",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.0,
+    2.5
+  ],
+  "published": "2023/12/01",
+  "sizes_available": "small, medium/large, extra-large",
+  "rating_average": 4.888888888888889,
+  "rating_count": 9,
+  "difficulty_average": 4.0,
+  "favorites_count": 2192,
+  "projects_count": 62,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/11173/899848",
+  "pdf": {
+    "filename": "7302355.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7302355.pdf",
+    "url": "https://pdf.ravelrycache.com/TiiQ/1766249/Armo_en_ver1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478816&Signature=yecx5YuluQ%2F%2Bv6KOGdt9Gv4t%2FSo%3D&key_expires=1768478816&key=-CP7GTCytPYBGcKnwfPwig",
+    "size_bytes": 508920
+  }
+}

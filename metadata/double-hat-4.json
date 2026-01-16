@@ -1,0 +1,52 @@
+{
+  "id": 7485511,
+  "name": "Double Hat",
+  "permalink": "double-hat-4",
+  "url": "https://www.ravelry.com/patterns/library/double-hat-4",
+  "external_url": "",
+  "designer_name": "SuviKnits",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "Merino",
+      "pct": null
+    },
+    {
+      "fiber": "Soft Silk Mohair",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Lace",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Lace",
+    "Modular",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.5
+  ],
+  "published": "2025/12/01",
+  "sizes_available": "One size, adjustable (tips in pattern)",
+  "rating_average": 4.913043478260869,
+  "rating_count": 23,
+  "difficulty_average": 1.85,
+  "favorites_count": 9019,
+  "projects_count": 130,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/1682/1043271",
+  "pdf": {
+    "filename": "7485511.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7485511.pdf",
+    "url": "https://pdf.ravelrycache.com/SuvisDesigns/2102428/Double_hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479948&Signature=NVpkQg5n6AAkNtQaNUrDKzr6mKk%3D&key_expires=1768479948&key=9pqZw06cQM0eRVb3jNB8vQ",
+    "size_bytes": 288102
+  }
+}

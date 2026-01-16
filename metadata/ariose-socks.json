@@ -1,0 +1,51 @@
+{
+  "id": 1283641,
+  "name": "Ariose Socks",
+  "permalink": "ariose-socks",
+  "url": "https://www.ravelry.com/patterns/library/ariose-socks",
+  "external_url": "",
+  "designer_name": "Lisa Schmidt",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Meilenweit Soja",
+      "pct": null
+    },
+    {
+      "fiber": "Sockenwolle High Twist 4-fach",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Charted",
+    "In the round",
+    "Kitchener stitch",
+    "Lace",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.5
+  ],
+  "published": "2022/10/01",
+  "sizes_available": "36-42",
+  "rating_average": 4.733333333333333,
+  "rating_count": 45,
+  "difficulty_average": 3.25,
+  "favorites_count": 5706,
+  "projects_count": 239,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/89046/814438",
+  "pdf": {
+    "filename": "1283641.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1283641.pdf",
+    "url": "https://pdf.ravelrycache.com/lisafalalana/1572289/Ariose_Socks_V1.301022.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478813&Signature=cs2d4b919ZajmEhh9MvmcSeCbSs%3D&key_expires=1768478813&key=6MNv_qK0nx3ffvWmkC4wBQ",
+    "size_bytes": 1041983
+  }
+}

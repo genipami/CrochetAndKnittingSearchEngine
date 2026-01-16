@@ -1,0 +1,48 @@
+{
+  "id": 7431138,
+  "name": "Tibby",
+  "permalink": "tibby-3",
+  "url": "https://www.ravelry.com/patterns/library/tibby-3",
+  "external_url": "",
+  "designer_name": "Janna Ford",
+  "project_type": "Bag",
+  "fiber_art": "Crochet",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "Palet",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Double crochet (dc)",
+    "Single crochet (sc)",
+    "Slip stitch (sl st)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Blocking",
+    "Bottom-up",
+    "In the round",
+    "Seamless"
+  ],
+  "hook_sizes_mm": [
+    3.5
+  ],
+  "needle_sizes_mm": [],
+  "published": "2025/05/01",
+  "sizes_available": "",
+  "rating_average": 4.5,
+  "rating_count": 4,
+  "difficulty_average": 2.75,
+  "favorites_count": 444,
+  "projects_count": 16,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/106070/1000857",
+  "pdf": {
+    "filename": "7431138.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7431138.pdf",
+    "url": "https://pdf.ravelrycache.com/PetrichorLace/2003966/Tibby-v3.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483732&Signature=vwsnCkLWI4VIvbFKVyFKn9A0a1g%3D&key_expires=1768483732&key=yXuRptByHBqy8Hcg3pLmCw",
+    "size_bytes": 287864
+  }
+}

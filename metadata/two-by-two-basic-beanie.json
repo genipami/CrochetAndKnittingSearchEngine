@@ -1,0 +1,54 @@
+{
+  "id": 491918,
+  "name": "Two by Two Basic Beanie",
+  "permalink": "two-by-two-basic-beanie",
+  "url": "https://www.ravelry.com/patterns/library/two-by-two-basic-beanie",
+  "external_url": "http://www.pyrrhadesigns.com/2014/05/17/crafting-thursdays-on-saturday-all-about-hats/",
+  "designer_name": "Kate Strikker",
+  "project_type": "Child",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "Luxury 8 ply",
+      "pct": null
+    },
+    {
+      "fiber": "Tosh DK",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "Charted",
+    "In the round",
+    "Seamless",
+    "Stranded colorwork",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.5,
+    4.0
+  ],
+  "published": "2014/05/01",
+  "sizes_available": "baby, toddler, younger child, older child, small adult, large adult",
+  "rating_average": 4.676923076923077,
+  "rating_count": 130,
+  "difficulty_average": 1.6721311475409837,
+  "favorites_count": 1849,
+  "projects_count": 664,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/21692/212462",
+  "pdf": {
+    "filename": "491918.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\491918.pdf",
+    "url": "https://pdf.ravelrycache.com/pyrrha/359209/Two_by_Two_Basic_Beanie.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483929&Signature=bRw7m%2B0bTrmYuDSP7b%2F0joNWmlg%3D&key_expires=1768483929&key=hsFdvoYN8Dt775TGR52CMQ",
+    "size_bytes": 418551
+  }
+}

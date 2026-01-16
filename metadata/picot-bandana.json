@@ -18,7 +18,9 @@
     "Single crochet (sc)",
     "Treble crochet (tr)"
   ],
-  "techniques_used": [],
+  "techniques_used": [
+    "Written"
+  ],
   "hook_sizes_mm": [
     5.0
   ],
@@ -28,8 +30,8 @@
   "rating_average": 4.906976744186046,
   "rating_count": 43,
   "difficulty_average": 2.3902439024390243,
-  "favorites_count": 3765,
-  "projects_count": 155,
+  "favorites_count": 3768,
+  "projects_count": 156,
   "free_ravelry_download": false,
   "download_url": "http://www.ravelry.com/purchase/the-turtle-trunk/858953"
 }

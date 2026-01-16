@@ -1,0 +1,49 @@
+{
+  "id": 7291251,
+  "name": "Bescarfed scarf",
+  "permalink": "bescarfed-scarf",
+  "url": "https://www.ravelry.com/patterns/library/bescarfed-scarf",
+  "external_url": "",
+  "designer_name": "Marina Morozova",
+  "project_type": "Scarf",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Any gauge - designed for any gauge",
+  "materials": [
+    {
+      "fiber": "Cashmere 10",
+      "pct": null
+    },
+    {
+      "fiber": "DROPS Fabel",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)"
+  ],
+  "techniques_used": [
+    "Charted",
+    "Worked flat",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.0,
+    4.0
+  ],
+  "published": "2023/11/01",
+  "sizes_available": "",
+  "rating_average": 4.636363636363637,
+  "rating_count": 22,
+  "difficulty_average": 2.5,
+  "favorites_count": 3335,
+  "projects_count": 99,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/102946/890849",
+  "pdf": {
+    "filename": "7291251.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7291251.pdf",
+    "url": "https://pdf.ravelrycache.com/MoozaMari/1745397/BESCARFED_scarf.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479101&Signature=Fdzr7fKgooDaanLXb9gtdh7Zcb4%3D&key_expires=1768479101&key=95qwuGC2cbVW42uPl9O81A",
+    "size_bytes": 3677286
+  }
+}

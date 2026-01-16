@@ -1,0 +1,48 @@
+{
+  "id": 7333521,
+  "name": "Sous l’Océan",
+  "permalink": "sous-locean",
+  "url": "https://www.ravelry.com/patterns/library/sous-locean",
+  "external_url": "",
+  "designer_name": "JuliaM Tricote",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Belle",
+      "pct": null
+    },
+    {
+      "fiber": "Cognac",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Stranded colorwork"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.25,
+    2.75
+  ],
+  "published": "2024/04/01",
+  "sizes_available": "S, M, L, XL",
+  "rating_average": 4.785714285714286,
+  "rating_count": 14,
+  "difficulty_average": 3.8333333333333335,
+  "favorites_count": 2795,
+  "projects_count": 77,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/105569/927464",
+  "pdf": {
+    "filename": "7333521.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7333521.pdf",
+    "url": "https://pdf.ravelrycache.com/JuliaM-Tricote/1831085/Sous_lOcean.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483270&Signature=kKve%2FMZWYxwl%2FW%2FbcGBQNzRFW5g%3D&key_expires=1768483270&key=aoeHEqrAiXP9qzF82TWjuQ",
+    "size_bytes": 10863784
+  }
+}

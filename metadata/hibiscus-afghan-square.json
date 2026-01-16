@@ -29,8 +29,14 @@
   "rating_average": 4.666666666666667,
   "rating_count": 9,
   "difficulty_average": 3.375,
-  "favorites_count": 517,
+  "favorites_count": 519,
   "projects_count": 30,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/15999/984370"
+  "download_url": "http://www.ravelry.com/dls/15999/984370",
+  "pdf": {
+    "filename": "7409449.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7409449.pdf",
+    "url": "https://pdf.ravelrycache.com/JulieAnny/1969525/Hibiscus_Afghan_Square_v5.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480889&Signature=MTFHQq%2FTzhDtSC6siPAw4xqlfT8%3D&key_expires=1768480889&key=qoxGj12vS6yH9J9Ak3GaBw",
+    "size_bytes": 1334233
+  }
 }

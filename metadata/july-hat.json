@@ -1,0 +1,49 @@
+{
+  "id": 945155,
+  "name": "July Hat",
+  "permalink": "july-hat",
+  "url": "https://www.ravelry.com/patterns/library/july-hat",
+  "external_url": "",
+  "designer_name": "Courtney Kelley",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Germantown",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Blocking",
+    "Bottom-up",
+    "Charted",
+    "In the round",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.5,
+    5.0
+  ],
+  "published": "2019/07/01",
+  "sizes_available": "18.5” (47 cm) circumference, unstretched, 8.75” (22.5 cm) height.",
+  "rating_average": 4.607142857142857,
+  "rating_count": 224,
+  "difficulty_average": 2.211267605633803,
+  "favorites_count": 10273,
+  "projects_count": 928,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/13463/544021",
+  "pdf": {
+    "filename": "945155.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\945155.pdf",
+    "url": "https://pdf.ravelrycache.com/KelbourneWoolens/998142/Year_of_Hats_July_Hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481126&Signature=iqNoRMTdzbFuNpSZFontgW42n6Q%3D&key_expires=1768481126&key=V4-_ucQtyiiyhMZeXR9aGw",
+    "size_bytes": 1877610
+  }
+}

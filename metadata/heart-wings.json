@@ -26,8 +26,8 @@
     "Bottom-up",
     "Charted",
     "Mosaic",
-    "Overlay crochet",
-    "Tapestry crochet"
+    "Tapestry crochet",
+    "Written"
   ],
   "hook_sizes_mm": [
     5.0
@@ -41,5 +41,11 @@
   "favorites_count": 18,
   "projects_count": 5,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/80903/1047513"
+  "download_url": "http://www.ravelry.com/dls/80903/1047513",
+  "pdf": {
+    "filename": "7491196.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7491196.pdf",
+    "url": "https://pdf.ravelrycache.com/ashleeslint/2112836/HeartWingsTunisianTutorialAshleeBrotzell.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480808&Signature=EPUrUeyrPX3n6s8gP8yP1Fxx61Y%3D&key_expires=1768480808&key=oJFr2rhcdCDFVaIGSkedAg",
+    "size_bytes": 1203884
+  }
 }

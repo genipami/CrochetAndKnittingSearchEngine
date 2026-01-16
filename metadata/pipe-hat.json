@@ -1,0 +1,47 @@
+{
+  "id": 7494814,
+  "name": "Pipe hat",
+  "permalink": "pipe-hat",
+  "url": "https://www.ravelry.com/patterns/library/pipe-hat",
+  "external_url": "",
+  "designer_name": "Veronika Stoncus",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Aran",
+  "materials": [
+    {
+      "fiber": "DROPS Nepal",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Cable",
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "Cables",
+    "In the round"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    5.0
+  ],
+  "published": "2026/01/01",
+  "sizes_available": "head measurement: (cm) (53-56) 57-60",
+  "rating_average": 0,
+  "rating_count": null,
+  "difficulty_average": 0,
+  "favorites_count": 242,
+  "projects_count": 3,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/82234/1049987",
+  "pdf": {
+    "filename": "7494814.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7494814.pdf",
+    "url": "https://pdf.ravelrycache.com/stoncusknit/2118567/pipe_hat_by_Stoncusknit_2026_january.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482428&Signature=Lp4t7v3U5AlA5Z9PAXDYzCikvo0%3D&key_expires=1768482428&key=9BQHH9Kpb5kN6NwlcFyppw",
+    "size_bytes": 861387
+  }
+}

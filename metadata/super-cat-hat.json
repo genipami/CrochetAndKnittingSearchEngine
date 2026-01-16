@@ -1,0 +1,47 @@
+{
+  "id": 708033,
+  "name": "Super Cat Hat",
+  "permalink": "super-cat-hat",
+  "url": "https://www.ravelry.com/patterns/library/super-cat-hat",
+  "external_url": "http://www.kniftyknittings.com/post/69013927150/super-cat-hat-free-pattern",
+  "designer_name": "Destiny Meyer",
+  "project_type": "Child",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Bulky",
+  "materials": [
+    {
+      "fiber": "Wool Ease Thick & Quick",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "In the round",
+    "Kitchener stitch",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    10.0
+  ],
+  "published": "2016/11/01",
+  "sizes_available": "Child [Adult]",
+  "rating_average": 4.757575757575758,
+  "rating_count": 495,
+  "difficulty_average": 1.4989939637826961,
+  "favorites_count": 5524,
+  "projects_count": 2049,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/10945/367691",
+  "pdf": {
+    "filename": "708033.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\708033.pdf",
+    "url": "https://pdf.ravelrycache.com/kniftyknittings/646087/Super_Cat_Hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483484&Signature=iHcUUTAmUOoa8vOwRO9IipLOQq4%3D&key_expires=1768483484&key=d2_kqm31gqjtAc5z5a_xfg",
+    "size_bytes": 213299
+  }
+}

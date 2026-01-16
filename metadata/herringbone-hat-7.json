@@ -1,0 +1,47 @@
+{
+  "id": 700444,
+  "name": "Herringbone Hat",
+  "permalink": "herringbone-hat-7",
+  "url": "https://www.ravelry.com/patterns/library/herringbone-hat-7",
+  "external_url": "",
+  "designer_name": "Anne Mizoguchi",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "Looped Yarn Works Dupont Circle DK",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "Colorwork",
+    "In the round",
+    "Seamless",
+    "Stranded colorwork"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.5,
+    4.0
+  ],
+  "published": "2016/10/01",
+  "sizes_available": "Baby (Child, Adult)",
+  "rating_average": 4.63671875,
+  "rating_count": 256,
+  "difficulty_average": 2.8924302788844622,
+  "favorites_count": 11388,
+  "projects_count": 1052,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/16060/361428",
+  "pdf": {
+    "filename": "700444.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\700444.pdf",
+    "url": "https://pdf.ravelrycache.com/annemade/634357/HerringboneHatPattern_2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480877&Signature=UL7HEHRNFirbgdVwvvYXjNq%2FQFU%3D&key_expires=1768480877&key=uGmWIPh6gGdPPgJruNfjqQ",
+    "size_bytes": 948406
+  }
+}

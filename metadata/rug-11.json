@@ -1,0 +1,47 @@
+{
+  "id": 785512,
+  "name": "Rug",
+  "permalink": "rug-11",
+  "url": "https://www.ravelry.com/patterns/library/rug-11",
+  "external_url": "https://youtu.be/hoHC_dg3sjU",
+  "designer_name": "Junko Okamoto",
+  "project_type": "Pullover",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Bulky",
+  "materials": [
+    {
+      "fiber": "Artisan TUI",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Seamless",
+    "Short rows",
+    "Stranded colorwork",
+    "Top-down"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    5.5
+  ],
+  "published": null,
+  "sizes_available": "One size",
+  "rating_average": 4.749582637729549,
+  "rating_count": 599,
+  "difficulty_average": 3.3602811950790863,
+  "favorites_count": 20548,
+  "projects_count": 1807,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/52421/425095",
+  "pdf": {
+    "filename": "785512.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\785512.pdf",
+    "url": "https://pdf.ravelrycache.com/JunkoOkamoto/757968/Rug_Ravelry_Release_2017.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482806&Signature=7uIrQcvbWdOckSowW05w4Ku%2F8mA%3D&key_expires=1768482806&key=TNXjvcLdESOcKLve9Jl6Lg",
+    "size_bytes": 5245504
+  }
+}

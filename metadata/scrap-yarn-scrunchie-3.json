@@ -1,0 +1,52 @@
+{
+  "id": 1345221,
+  "name": "Scrap Yarn Scrunchie",
+  "permalink": "scrap-yarn-scrunchie-3",
+  "url": "https://www.ravelry.com/patterns/library/scrap-yarn-scrunchie-3",
+  "external_url": "",
+  "designer_name": "Cozy yarn",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Tosh DK",
+      "pct": null
+    },
+    {
+      "fiber": "Tosh Merino Light",
+      "pct": null
+    },
+    {
+      "fiber": "Woolcycle Sport",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)"
+  ],
+  "techniques_used": [
+    "In the round"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.0,
+    4.5,
+    5.0
+  ],
+  "published": "2023/07/01",
+  "sizes_available": "one size",
+  "rating_average": 4.545454545454546,
+  "rating_count": 11,
+  "difficulty_average": 2.090909090909091,
+  "favorites_count": 1739,
+  "projects_count": 75,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/59472/863644",
+  "pdf": {
+    "filename": "1345221.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1345221.pdf",
+    "url": "https://pdf.ravelrycache.com/cozy-yarn/1683472/Scrap_Yarn_Scrunchie.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482892&Signature=CCjhzUtlTYGHDPFXqeX7d9BCM4s%3D&key_expires=1768482892&key=YO3h1JJeVypvyCiJC-hWVg",
+    "size_bytes": 1219014
+  }
+}

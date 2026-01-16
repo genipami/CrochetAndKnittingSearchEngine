@@ -1,0 +1,54 @@
+{
+  "id": 7479010,
+  "name": "Pocket Edition",
+  "permalink": "pocket-edition-2",
+  "url": "https://www.ravelry.com/patterns/library/pocket-edition-2",
+  "external_url": "",
+  "designer_name": "Sonder Yarn Co.",
+  "project_type": "Pullover",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Sport",
+  "materials": [
+    {
+      "fiber": "Halo",
+      "pct": null
+    },
+    {
+      "fiber": "Haven",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Lace",
+    "Ribbing",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Blocking",
+    "In the round",
+    "Lace",
+    "Raglan",
+    "Top-down"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.5,
+    4.0
+  ],
+  "published": "2025/11/01",
+  "sizes_available": "43.5 (47.25, 50.25, 54) (56.25, 59.5, 61.75, 64.75)” ",
+  "rating_average": 5.0,
+  "rating_count": 3,
+  "difficulty_average": 1.6666666666666667,
+  "favorites_count": 3792,
+  "projects_count": 35,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/92316/1037901",
+  "pdf": {
+    "filename": "7479010.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7479010.pdf",
+    "url": "https://pdf.ravelrycache.com/SonderYarnCo/2090148/Pocket_Edition_-_FINAL_V1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482473&Signature=sZEZaduvdZcX%2BCMYsGzSWzuuZDM%3D&key_expires=1768482473&key=ALl9t1m7af0fKUHsDt_y1g",
+    "size_bytes": 2073039
+  }
+}

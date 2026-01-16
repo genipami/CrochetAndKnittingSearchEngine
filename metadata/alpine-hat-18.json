@@ -1,0 +1,50 @@
+{
+  "id": 1072494,
+  "name": "Alpine Hat",
+  "permalink": "alpine-hat-18",
+  "url": "https://www.ravelry.com/patterns/library/alpine-hat-18",
+  "external_url": "https://blueskyfibers.com/product/alpine-hat/",
+  "designer_name": "Karnina Marie",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "Woolstok Bundle",
+      "pct": null
+    },
+    {
+      "fiber": "Woolstok Worsted",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Alpine stitch",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.0,
+    4.5
+  ],
+  "published": "2020/09/01",
+  "sizes_available": "One",
+  "rating_average": 4.9523809523809526,
+  "rating_count": 42,
+  "difficulty_average": 2.1951219512195124,
+  "favorites_count": 1552,
+  "projects_count": 234,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/8201/642942",
+  "pdf": {
+    "filename": "1072494.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1072494.pdf",
+    "url": "https://pdf.ravelrycache.com/BlueSkyFibers/1199569/BSF_Comp_AlpineHat_WEB.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478716&Signature=4qMvicmaDc29oFcviuxRMMBZfiE%3D&key_expires=1768478716&key=OIlDMPGIL4cZYaI9lH_cEw",
+    "size_bytes": 750618
+  }
+}

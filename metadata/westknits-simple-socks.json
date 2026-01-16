@@ -1,0 +1,59 @@
+{
+  "id": 1342465,
+  "name": "Westknits Simple Socks",
+  "permalink": "westknits-simple-socks",
+  "url": "https://www.ravelry.com/patterns/library/westknits-simple-socks",
+  "external_url": "",
+  "designer_name": "Stephen West",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Merino Super Sock",
+      "pct": null
+    },
+    {
+      "fiber": "Pasture Sock",
+      "pct": null
+    },
+    {
+      "fiber": "Sock",
+      "pct": null
+    },
+    {
+      "fiber": "Zauberball ® Crazy",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Garter stitch",
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Blocking",
+    "Top-down",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.25
+  ],
+  "published": "2023/06/01",
+  "sizes_available": "1 (2, 3, 4, 5)",
+  "rating_average": 4.929411764705883,
+  "rating_count": 85,
+  "difficulty_average": 2.45679012345679,
+  "favorites_count": 6653,
+  "projects_count": 536,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/5579/861439",
+  "pdf": {
+    "filename": "1342465.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1342465.pdf",
+    "url": "https://pdf.ravelrycache.com/westknits/1705649/Westknits_Simple_Socks_3.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484126&Signature=q3MP%2BSETpmQ7tuNcxVU2gYET7rA%3D&key_expires=1768484126&key=obmCmfQFHXM1DRzHKKLzQA",
+    "size_bytes": 4452717
+  }
+}

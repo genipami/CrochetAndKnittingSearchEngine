@@ -20,10 +20,14 @@
   ],
   "stitches_used": [
     "Granny",
+    "Lace",
     "Single crochet (sc)",
     "Treble crochet (tr)"
   ],
-  "techniques_used": [],
+  "techniques_used": [
+    "Lace",
+    "Written"
+  ],
   "hook_sizes_mm": [
     5.0
   ],
@@ -33,7 +37,7 @@
   "rating_average": 4.966666666666667,
   "rating_count": 30,
   "difficulty_average": 2.033333333333333,
-  "favorites_count": 8079,
+  "favorites_count": 8095,
   "projects_count": 229,
   "free_ravelry_download": false,
   "download_url": "https://sarahmaker.com/crochet-sunburst-granny-square/"

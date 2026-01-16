@@ -1,0 +1,46 @@
+{
+  "id": 707632,
+  "name": "PussyHat Project",
+  "permalink": "pussyhat-project",
+  "url": "https://www.ravelry.com/patterns/library/pussyhat-project",
+  "external_url": "https://www.pussyhatproject.com",
+  "designer_name": "Kat Coyle",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Aran",
+  "materials": [
+    {
+      "fiber": "Worsted",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Double crochet (dc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "Seamed",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    5.0
+  ],
+  "published": "2016/11/01",
+  "sizes_available": "medium",
+  "rating_average": 4.631639281620176,
+  "rating_count": 2617,
+  "difficulty_average": 1.375319459656809,
+  "favorites_count": 14763,
+  "projects_count": 13058,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/44/369996",
+  "pdf": {
+    "filename": "707632.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\707632.pdf",
+    "url": "https://pdf.ravelrycache.com/katcoyle/650358/PussyProjectPDF4pages11-26.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482592&Signature=WIrbKBMGUTuj1D94dZdrjELEBCk%3D&key_expires=1768482592&key=mIvAt-hmL48IIRZ6-jyu2w",
+    "size_bytes": 5763934
+  }
+}

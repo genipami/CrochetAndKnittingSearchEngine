@@ -1,0 +1,52 @@
+{
+  "id": 895040,
+  "name": "January Hat",
+  "permalink": "january-hat-5",
+  "url": "https://www.ravelry.com/patterns/library/january-hat-5",
+  "external_url": "",
+  "designer_name": "Courtney Kelley",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Germantown",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Bobble",
+    "Cable",
+    "Ribbing",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Blocking",
+    "Bottom-up",
+    "Cables",
+    "Charted",
+    "In the round",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.0,
+    4.5
+  ],
+  "published": "2019/01/01",
+  "sizes_available": "16.25\" (41.25 cm) circumference, ",
+  "rating_average": 4.290657439446367,
+  "rating_count": 289,
+  "difficulty_average": 4.87719298245614,
+  "favorites_count": 17032,
+  "projects_count": 1102,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/13463/507942",
+  "pdf": {
+    "filename": "895040.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\895040.pdf",
+    "url": "https://pdf.ravelrycache.com/KelbourneWoolens/1330989/Year_of_Hats_January_Hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481061&Signature=bjOK%2BAuu4GfILGaYrChfpXsOxss%3D&key_expires=1768481061&key=ppuQsykAO5vkWqTrWu8m9Q",
+    "size_bytes": 2542385
+  }
+}

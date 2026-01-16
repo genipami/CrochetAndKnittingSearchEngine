@@ -1,0 +1,59 @@
+{
+  "id": 1184577,
+  "name": "ShareCare Hat",
+  "permalink": "sharecare-hat",
+  "url": "https://www.ravelry.com/patterns/library/sharecare-hat",
+  "external_url": "",
+  "designer_name": "Raina K",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "DROPS Karisma",
+      "pct": null
+    },
+    {
+      "fiber": "DROPS Lima",
+      "pct": null
+    },
+    {
+      "fiber": "Rios",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Brioche stitch",
+    "Ribbing",
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "Brioche",
+    "Charted",
+    "In the round",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.0,
+    3.5
+  ],
+  "published": "2021/10/01",
+  "sizes_available": "adaptable",
+  "rating_average": 4.880952380952381,
+  "rating_count": 42,
+  "difficulty_average": 4.0,
+  "favorites_count": 4769,
+  "projects_count": 160,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/53911/732076",
+  "pdf": {
+    "filename": "1184577.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1184577.pdf",
+    "url": "https://pdf.ravelrycache.com/Lellekas1/1393785/ShareCare_Hat__Ravelry.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482929&Signature=dGrStCjBaSZijSFI3Mr6OIPZh2g%3D&key_expires=1768482929&key=KqwfCtxWgNNrU7FBwbbh9w",
+    "size_bytes": 1594438
+  }
+}

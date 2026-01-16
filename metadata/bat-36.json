@@ -1,0 +1,52 @@
+{
+  "id": 1352514,
+  "name": "Bat",
+  "permalink": "bat-36",
+  "url": "https://www.ravelry.com/patterns/library/bat-36",
+  "external_url": "",
+  "designer_name": "Claire Garland",
+  "project_type": "Toys",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Sport",
+  "materials": [
+    {
+      "fiber": "DROPS Alpaca",
+      "pct": null
+    },
+    {
+      "fiber": "DROPS Kid-Silk",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Lace",
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Lace",
+    "Modular",
+    "Short rows",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.0
+  ],
+  "published": "2023/08/01",
+  "sizes_available": "13cm/ 5in tall",
+  "rating_average": 4.709677419354839,
+  "rating_count": 31,
+  "difficulty_average": 5.344827586206897,
+  "favorites_count": 5182,
+  "projects_count": 88,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/18463/869314",
+  "pdf": {
+    "filename": "1352514.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1352514.pdf",
+    "url": "https://pdf.ravelrycache.com/dotpebbles/1696854/BAT.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479009&Signature=aCPvUEmQp6zkh%2FBFTqyKtAGUnQ4%3D&key_expires=1768479009&key=ZMpUPrwBygtpYkNZCeVUdw",
+    "size_bytes": 2240419
+  }
+}

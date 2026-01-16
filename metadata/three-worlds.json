@@ -1,0 +1,51 @@
+{
+  "id": 7330569,
+  "name": "Three Worlds",
+  "permalink": "three-worlds",
+  "url": "https://www.ravelry.com/patterns/library/three-worlds",
+  "external_url": "",
+  "designer_name": "Lena Trost",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Fine Sock",
+      "pct": null
+    },
+    {
+      "fiber": "Jawoll Superwash 75/25",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Ribbing",
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Charted",
+    "Colorwork",
+    "Stranded colorwork"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.0
+  ],
+  "published": "2024/04/01",
+  "sizes_available": "S (M, L)",
+  "rating_average": 4.75,
+  "rating_count": 12,
+  "difficulty_average": 6.642857142857143,
+  "favorites_count": 1886,
+  "projects_count": 87,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/96761/949124",
+  "pdf": {
+    "filename": "7330569.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7330569.pdf",
+    "url": "https://pdf.ravelrycache.com/FraeuleinWollig/1881495/Three_Worlds_1.4__Stand_13.3._after_TE_.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483720&Signature=vVATVxVPZtbsujzBquCMOESwGgo%3D&key_expires=1768483720&key=tmqqtDcRDJXUXK2FdBrFRw",
+    "size_bytes": 20185291
+  }
+}

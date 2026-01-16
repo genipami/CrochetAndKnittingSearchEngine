@@ -19,7 +19,8 @@
     "Treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round"
+    "In the round",
+    "Written"
   ],
   "hook_sizes_mm": [
     5.5
@@ -30,8 +31,14 @@
   "rating_average": 4.888888888888889,
   "rating_count": 9,
   "difficulty_average": 2.142857142857143,
-  "favorites_count": 1005,
+  "favorites_count": 1007,
   "projects_count": 39,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/5810/1009900"
+  "download_url": "http://www.ravelry.com/dls/5810/1009900",
+  "pdf": {
+    "filename": "7442894.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7442894.pdf",
+    "url": "https://pdf.ravelrycache.com/MelindaMiller/2025012/Sweetbriar_Afghan_Square.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483495&Signature=Cz6AJsc7Eniz8KLNefnKb0Dt71s%3D&key_expires=1768483495&key=FbdfTg-rFdXDGR2hM8oYWg",
+    "size_bytes": 802048
+  }
 }

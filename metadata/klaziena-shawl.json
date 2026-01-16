@@ -27,11 +27,14 @@
     }
   ],
   "stitches_used": [
+    "Lace",
     "Single crochet (sc)",
     "Treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted"
+    "Charted",
+    "Lace",
+    "Written"
   ],
   "hook_sizes_mm": [
     3.5
@@ -42,7 +45,7 @@
   "rating_average": 4.819277108433735,
   "rating_count": 498,
   "difficulty_average": 3.7979166666666666,
-  "favorites_count": 29881,
+  "favorites_count": 29887,
   "projects_count": 1755,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/66405/442635"

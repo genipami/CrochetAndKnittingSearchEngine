@@ -1,0 +1,45 @@
+{
+  "id": 1309179,
+  "name": "Janne Yoga Socks",
+  "permalink": "janne-yoga-socks",
+  "url": "https://www.ravelry.com/patterns/library/janne-yoga-socks",
+  "external_url": "",
+  "designer_name": "Bella Helms",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "Arwetta",
+      "pct": null
+    },
+    {
+      "fiber": "Merino Twist Sock",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.5
+  ],
+  "published": "2023/02/01",
+  "sizes_available": "One size - length is customizable",
+  "rating_average": 4.8125,
+  "rating_count": 16,
+  "difficulty_average": 2.2,
+  "favorites_count": 1590,
+  "projects_count": 74,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/88891/835409",
+  "pdf": {
+    "filename": "1309179.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1309179.pdf",
+    "url": "https://pdf.ravelrycache.com/quasigerade/1618372/20230204_JanneYogaSocks_English.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481058&Signature=DrWekoti4jMn48g3SHhAD3tRRlY%3D&key_expires=1768481058&key=K7FIskeIBrOAL4IElAqNdA",
+    "size_bytes": 1102655
+  }
+}

@@ -17,12 +17,15 @@
   "stitches_used": [
     "Double crochet (dc)",
     "Granny",
+    "Lace",
     "Single crochet (sc)",
     "Treble crochet (tr)"
   ],
   "techniques_used": [
     "In the round",
-    "Seamed"
+    "Lace",
+    "Seamed",
+    "Written"
   ],
   "hook_sizes_mm": [
     3.75
@@ -33,7 +36,7 @@
   "rating_average": 4.75,
   "rating_count": 16,
   "difficulty_average": 3.6,
-  "favorites_count": 2176,
+  "favorites_count": 2182,
   "projects_count": 80,
   "free_ravelry_download": false,
   "download_url": "https://www.expressionfiberarts.com/products/increscent.html"

@@ -1,0 +1,44 @@
+{
+  "id": 7341318,
+  "name": "Louvely Socks",
+  "permalink": "louvely-socks",
+  "url": "https://www.ravelry.com/patterns/library/louvely-socks",
+  "external_url": "",
+  "designer_name": "Anaïs Louve",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Feezy Feet",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Short rows",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.5
+  ],
+  "published": "2024/05/01",
+  "sizes_available": "1 / 2 / 3 (4 / 5 / 6) [7 / 8]",
+  "rating_average": 4.666666666666667,
+  "rating_count": 9,
+  "difficulty_average": 3.0,
+  "favorites_count": 644,
+  "projects_count": 56,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/71898/930102",
+  "pdf": {
+    "filename": "7341318.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7341318.pdf",
+    "url": "https://pdf.ravelrycache.com/AnaisLouve/1837415/Louvely_Socks_FR.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481544&Signature=p1J6jZQigkiXnycuThaTf3%2FgAXo%3D&key_expires=1768481544&key=dqui1muwc9Isfy7dGnk0AQ",
+    "size_bytes": 2184596
+  }
+}

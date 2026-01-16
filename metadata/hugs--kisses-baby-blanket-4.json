@@ -18,7 +18,9 @@
     "Bobble",
     "Treble crochet (tr)"
   ],
-  "techniques_used": [],
+  "techniques_used": [
+    "Written"
+  ],
   "hook_sizes_mm": [
     5.0
   ],
@@ -28,7 +30,7 @@
   "rating_average": 4.844783715012722,
   "rating_count": 393,
   "difficulty_average": 3.297587131367292,
-  "favorites_count": 22100,
+  "favorites_count": 22108,
   "projects_count": 1801,
   "free_ravelry_download": false,
   "download_url": "http://thecrochetcrowd.com/crochet-hugs-kisses-baby-blanket-pattern-tutorial/"

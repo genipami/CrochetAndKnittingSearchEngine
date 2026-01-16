@@ -1,0 +1,53 @@
+{
+  "id": 886676,
+  "name": "Heritage Sock",
+  "permalink": "heritage-sock",
+  "url": "https://www.ravelry.com/patterns/library/heritage-sock",
+  "external_url": "",
+  "designer_name": "Rachel Nutting",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Sock Weight Merino",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Cable",
+    "Lace",
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Cables",
+    "Charted",
+    "In the round",
+    "Kitchener stitch",
+    "Lace",
+    "Seamless",
+    "Top-down",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.25
+  ],
+  "published": "2018/12/01",
+  "sizes_available": "Adult Small, Medium, Large",
+  "rating_average": 4.82,
+  "rating_count": 50,
+  "difficulty_average": 2.8666666666666667,
+  "favorites_count": 3869,
+  "projects_count": 202,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/33649/500769",
+  "pdf": {
+    "filename": "886676.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\886676.pdf",
+    "url": "https://pdf.ravelrycache.com/ZenFibers/1058716/Heritage_Sock_Pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480857&Signature=tKYTCZWI476t2Q71E4%2B2SgZetjE%3D&key_expires=1768480857&key=TULpOiH9o5uBKSwYZvvvjQ",
+    "size_bytes": 566452
+  }
+}

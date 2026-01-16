@@ -1,0 +1,47 @@
+{
+  "id": 7494361,
+  "name": "Lulu",
+  "permalink": "lulu-32",
+  "url": "https://www.ravelry.com/patterns/library/lulu-32",
+  "external_url": "",
+  "designer_name": "eigene Schult",
+  "project_type": "Other",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Extrafeine Sockenwolle 4-fach",
+      "pct": null
+    },
+    {
+      "fiber": "Opal 4-fach | 4-ply",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.5,
+    3.5,
+    4.0
+  ],
+  "published": "2026/01/01",
+  "sizes_available": "S/M/L",
+  "rating_average": 0,
+  "rating_count": null,
+  "difficulty_average": 0,
+  "favorites_count": 101,
+  "projects_count": 4,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/111812/1049738",
+  "pdf": {
+    "filename": "7494361.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7494361.pdf",
+    "url": "https://pdf.ravelrycache.com/eigeneSchult/2117759/Lulu.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481587&Signature=amdvi%2BTwB3I7hksKveu7GzmwkOk%3D&key_expires=1768481587&key=7p5zO0__e1_1JAKrNXs5Tw",
+    "size_bytes": 2227242
+  }
+}

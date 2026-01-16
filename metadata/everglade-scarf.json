@@ -19,7 +19,8 @@
     "Treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up"
+    "Bottom-up",
+    "Written"
   ],
   "hook_sizes_mm": [
     8.0
@@ -33,5 +34,11 @@
   "favorites_count": 48,
   "projects_count": 0,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/93264/1048257"
+  "download_url": "http://www.ravelry.com/dls/93264/1048257",
+  "pdf": {
+    "filename": "7492281.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7492281.pdf",
+    "url": "https://pdf.ravelrycache.com/maecrochetss/2114560/EvergladeScarfPattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480156&Signature=rJe7I9Og6ArO3nt59OSvhlJq%2Bf4%3D&key_expires=1768480156&key=TYTVasbxuMAfhURpva6WRw",
+    "size_bytes": 9041839
+  }
 }

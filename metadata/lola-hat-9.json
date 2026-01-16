@@ -1,0 +1,48 @@
+{
+  "id": 7408668,
+  "name": "Lola Hat",
+  "permalink": "lola-hat-9",
+  "url": "https://www.ravelry.com/patterns/library/lola-hat-9",
+  "external_url": "https://toksknits.com/products/lola-hat",
+  "designer_name": "ToksKnits",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "DROPS Lima",
+      "pct": null
+    },
+    {
+      "fiber": "Soft Silk Mohair",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "2x2 rib",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.5
+  ],
+  "published": "2025/02/01",
+  "sizes_available": "S (M)",
+  "rating_average": 4.857142857142857,
+  "rating_count": 7,
+  "difficulty_average": 2.0,
+  "favorites_count": 886,
+  "projects_count": 17,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/92034/983743",
+  "pdf": {
+    "filename": "7408668.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7408668.pdf",
+    "url": "https://pdf.ravelrycache.com/ToksKnits/1961993/Lola_Hat_EN_1.0.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481505&Signature=MHRum%2FQ1LmhRRjMnuMShE2CpFGU%3D&key_expires=1768481505&key=OzwFLg7eMgnkxGTF44tijQ",
+    "size_bytes": 1198783
+  }
+}

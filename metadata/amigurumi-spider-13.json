@@ -30,7 +30,8 @@
     "Treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamless"
+    "Seamless",
+    "Written"
   ],
   "hook_sizes_mm": [
     4.0,
@@ -42,8 +43,14 @@
   "rating_average": 4.853658536585366,
   "rating_count": 164,
   "difficulty_average": 2.2012987012987013,
-  "favorites_count": 16071,
+  "favorites_count": 16078,
   "projects_count": 586,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/91281/729268"
+  "download_url": "http://www.ravelry.com/dls/91281/729268",
+  "pdf": {
+    "filename": "1181106.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1181106.pdf",
+    "url": "https://pdf.ravelrycache.com/Chickinsoodlenoop/2039315/Amigurumi_Spider_Pattern_Ravelry.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478720&Signature=jdNWzl%2FLuYbny0%2BCeS5OKbMFDTQ%3D&key_expires=1768478720&key=jOWlj2rfb4_Zuo4LbASulw",
+    "size_bytes": 2350330
+  }
 }

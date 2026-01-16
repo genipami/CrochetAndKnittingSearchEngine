@@ -1,0 +1,48 @@
+{
+  "id": 913487,
+  "name": "Lyne Socks",
+  "permalink": "lyne-socks",
+  "url": "https://www.ravelry.com/patterns/library/lyne-socks",
+  "external_url": "",
+  "designer_name": "Dawn Henderson",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Merino Super Sock",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Ribbing",
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Blocking",
+    "In the round",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.25,
+    2.75
+  ],
+  "published": "2019/03/01",
+  "sizes_available": "1 (2)",
+  "rating_average": 4.771317829457364,
+  "rating_count": 258,
+  "difficulty_average": 3.119148936170213,
+  "favorites_count": 10287,
+  "projects_count": 1004,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/73382/522063",
+  "pdf": {
+    "filename": "913487.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\913487.pdf",
+    "url": "https://pdf.ravelrycache.com/dawnlandix/957563/lynesocks1.0.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481596&Signature=%2FwSreT6eP673sUVH6LCexEwvHpo%3D&key_expires=1768481596&key=GCqh4Tf3eyGzjDGzbJ7Klg",
+    "size_bytes": 3601056
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": 7382005,
+  "name": "First Snowflake",
+  "permalink": "first-snowflake",
+  "url": "https://www.ravelry.com/patterns/library/first-snowflake",
+  "external_url": "https://www.instagram.com/wpiatkijempizze/",
+  "designer_name": "Magdalena Małek",
+  "project_type": "Home",
+  "fiber_art": "Crochet",
+  "yarn_weight": "Lace",
+  "materials": [
+    {
+      "fiber": "Babylo 10",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Double crochet (dc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round"
+  ],
+  "hook_sizes_mm": [
+    2.0
+  ],
+  "needle_sizes_mm": [],
+  "published": "2024/11/01",
+  "sizes_available": "",
+  "rating_average": 4.75,
+  "rating_count": 4,
+  "difficulty_average": 6.0,
+  "favorites_count": 391,
+  "projects_count": 16,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/108457/962354",
+  "pdf": {
+    "filename": "7382005.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7382005.pdf",
+    "url": "https://pdf.ravelrycache.com/wpiatkijempizze/1910969/first_snowflake_PL.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480370&Signature=Z%2B5Sr%2BxaGXBxUeasBMcilJR%2F%2FWA%3D&key_expires=1768480370&key=wnO6UAc8yVFrBHtNQRoHOg",
+    "size_bytes": 9427577
+  }
+}

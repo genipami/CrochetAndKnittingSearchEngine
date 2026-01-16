@@ -1,0 +1,43 @@
+{
+  "id": 7288719,
+  "name": "WWW Hat",
+  "permalink": "www-hat-3",
+  "url": "https://www.ravelry.com/patterns/library/www-hat-3",
+  "external_url": "",
+  "designer_name": "blanchn",
+  "project_type": "Hat",
+  "fiber_art": "Crochet",
+  "yarn_weight": "Bulky",
+  "materials": [
+    {
+      "fiber": "Inspired",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Cluster stitch",
+    "V-stitch"
+  ],
+  "techniques_used": [
+    "Top-down"
+  ],
+  "hook_sizes_mm": [
+    5.5
+  ],
+  "needle_sizes_mm": [],
+  "published": "2023/11/01",
+  "sizes_available": "adult with 21 inches circumference head",
+  "rating_average": 4.375,
+  "rating_count": 8,
+  "difficulty_average": 3.375,
+  "favorites_count": 1318,
+  "projects_count": 76,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/3168/888904",
+  "pdf": {
+    "filename": "7288719.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7288719.pdf",
+    "url": "https://pdf.ravelrycache.com/blanchn/1894397/WWW_Hat_v5.1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484255&Signature=8bk86ZnTN8d7DhSYogmnOIuU8e0%3D&key_expires=1768484255&key=ZeNGkXQWGIjSFVTOpnIYwA",
+    "size_bytes": 1393627
+  }
+}

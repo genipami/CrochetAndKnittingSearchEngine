@@ -1,0 +1,48 @@
+{
+  "id": 685211,
+  "name": "Decathlon",
+  "permalink": "decathlon",
+  "url": "https://www.ravelry.com/patterns/library/decathlon",
+  "external_url": "",
+  "designer_name": "Sue Grandfield",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Pure 100% Merino Superwash",
+      "pct": null
+    },
+    {
+      "fiber": "Sockenwolle 80/20 Twin",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Garter stitch",
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.5
+  ],
+  "published": "2016/08/01",
+  "sizes_available": "S/M/L/XL [7,7.5,8,8.5\"], [17.75,10,20.25,21.5cm]",
+  "rating_average": 4.753694581280788,
+  "rating_count": 203,
+  "difficulty_average": 2.1145833333333335,
+  "favorites_count": 5886,
+  "projects_count": 1003,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/2525/349989",
+  "pdf": {
+    "filename": "685211.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\685211.pdf",
+    "url": "https://pdf.ravelrycache.com/RiotousAssembly/613654/Decathlon_Socks.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479856&Signature=94cI4N5K4badLVKAPjON2XjP4ng%3D&key_expires=1768479856&key=--d9EZBpjOIDEfEEO99kSw",
+    "size_bytes": 222603
+  }
+}

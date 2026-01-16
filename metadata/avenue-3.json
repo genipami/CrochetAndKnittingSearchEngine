@@ -1,0 +1,46 @@
+{
+  "id": 7282604,
+  "name": "Avenue",
+  "permalink": "avenue-3",
+  "url": "https://www.ravelry.com/patterns/library/avenue-3",
+  "external_url": "",
+  "designer_name": "Galt House of Yarn",
+  "project_type": "Scarf",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Superfine Fingering",
+      "pct": null
+    },
+    {
+      "fiber": "Tilia",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Garter stitch",
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.5
+  ],
+  "published": "2023/10/01",
+  "sizes_available": "",
+  "rating_average": 4.911764705882353,
+  "rating_count": 34,
+  "difficulty_average": 1.7272727272727273,
+  "favorites_count": 1897,
+  "projects_count": 126,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/63466/884108",
+  "pdf": {
+    "filename": "7282604.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7282604.pdf",
+    "url": "https://pdf.ravelrycache.com/AnneVasic/1730275/Avenue_Scarf_v1.1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478866&Signature=7Zxj60gjUphT1KL%2BoGx7vH3TE24%3D&key_expires=1768478866&key=qTSHFWNMbGrt3UFwnCa-rA",
+    "size_bytes": 902992
+  }
+}

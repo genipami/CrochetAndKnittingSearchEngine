@@ -1,0 +1,48 @@
+{
+  "id": 896973,
+  "name": "Bynx Hat",
+  "permalink": "bynx-hat",
+  "url": "https://www.ravelry.com/patterns/library/bynx-hat",
+  "external_url": "",
+  "designer_name": "Hayley Quinn",
+  "project_type": "Child",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "Merino DK",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Cable",
+    "Ribbing",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "Cables",
+    "In the round"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.0,
+    4.5
+  ],
+  "published": "2019/01/01",
+  "sizes_available": "Child, Adult",
+  "rating_average": 4.888,
+  "rating_count": 125,
+  "difficulty_average": 2.8260869565217392,
+  "favorites_count": 5185,
+  "projects_count": 442,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/73103/509409",
+  "pdf": {
+    "filename": "896973.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\896973.pdf",
+    "url": "https://pdf.ravelrycache.com/lochknits/1194571/Bynx_Hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479292&Signature=8%2BJdCZJZVPxfQdtYc0mfeIGIt9E%3D&key_expires=1768479292&key=C0yQm6T2CcSEuu1kAj9NdA",
+    "size_bytes": 1957786
+  }
+}

@@ -1,4 +1,3 @@
-
 # pip install requests requests-oauthlib
 import webbrowser
 from requests_oauthlib import OAuth1Session
@@ -11,8 +10,7 @@ REQUEST_TOKEN_URL = "https://www.ravelry.com/oauth/request_token"
 AUTHORIZE_URL     = "https://www.ravelry.com/oauth/authorize"
 ACCESS_TOKEN_URL  = "https://www.ravelry.com/oauth/access_token"
 
-# Use a local server or a custom URI scheme you control
-CALLBACK_URI = "http://127.0.0.1:9876/callback"  # or "myapp://callback"
+CALLBACK_URI = "http://127.0.0.1:9876/callback" 
 
 # 1) Obtain an unauthorized request token, *including* oauth_callback
 oauth = OAuth1Session(CONSUMER_KEY, client_secret=CONSUMER_SECRET, callback_uri=CALLBACK_URI)

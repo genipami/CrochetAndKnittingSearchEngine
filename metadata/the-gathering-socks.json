@@ -1,0 +1,62 @@
+{
+  "id": 7334115,
+  "name": "The Gathering Socks",
+  "permalink": "the-gathering-socks",
+  "url": "https://www.ravelry.com/patterns/library/the-gathering-socks",
+  "external_url": "",
+  "designer_name": "Mary Pat McGurk",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Sassy Sock",
+      "pct": null
+    },
+    {
+      "fiber": "Socks Yeah!",
+      "pct": null
+    },
+    {
+      "fiber": "Sprout Sock",
+      "pct": null
+    },
+    {
+      "fiber": "Stroll Fingering",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Garter stitch",
+    "Slip stitch (sl st)",
+    "Stockinette stitch",
+    "Treble crochet (tr)",
+    "Twisted stitch"
+  ],
+  "techniques_used": [
+    "Charted",
+    "In the round",
+    "Kitchener stitch",
+    "Mosaic",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.25
+  ],
+  "published": "2024/04/01",
+  "sizes_available": "Small, Medium, Large",
+  "rating_average": 4.1688311688311686,
+  "rating_count": 77,
+  "difficulty_average": 6.025974025974026,
+  "favorites_count": 766,
+  "projects_count": 534,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/71400/932832",
+  "pdf": {
+    "filename": "7334115.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7334115.pdf",
+    "url": "https://pdf.ravelrycache.com/bikewi/1843783/The_Gathering_Socks_v1.5____04-03-24.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483621&Signature=0uqxVaK%2Fv0sv%2FA5Cg7nVwIatsF4%3D&key_expires=1768483621&key=NQSe7PJsfjWl6mA8ejeGJA",
+    "size_bytes": 12850060
+  }
+}

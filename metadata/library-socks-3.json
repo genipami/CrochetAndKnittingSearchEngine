@@ -1,0 +1,46 @@
+{
+  "id": 923292,
+  "name": "Library Socks",
+  "permalink": "library-socks-3",
+  "url": "https://www.ravelry.com/patterns/library/library-socks-3",
+  "external_url": "",
+  "designer_name": "The Kitchen Sink Shop",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Turtle Socks",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Kitchener stitch",
+    "Short rows",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.25
+  ],
+  "published": "2019/04/01",
+  "sizes_available": "Adult Medium",
+  "rating_average": 4.799450549450549,
+  "rating_count": 364,
+  "difficulty_average": 2.189111747851003,
+  "favorites_count": 7881,
+  "projects_count": 1775,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/73541/529389",
+  "pdf": {
+    "filename": "923292.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\923292.pdf",
+    "url": "https://pdf.ravelrycache.com/KitchenSinkShop/968871/Library_Socks_FINAL.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481418&Signature=JL6rlgJ%2BeQ1SRH6pLRlCCTfI0J0%3D&key_expires=1768481418&key=hol3-LB62-RlNGnzVD6z4Q",
+    "size_bytes": 764471
+  }
+}

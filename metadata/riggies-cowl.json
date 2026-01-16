@@ -1,0 +1,48 @@
+{
+  "id": 7388887,
+  "name": "Riggies Cowl",
+  "permalink": "riggies-cowl",
+  "url": "https://www.ravelry.com/patterns/library/riggies-cowl",
+  "external_url": "",
+  "designer_name": "Gudrun Johnston",
+  "project_type": "Shawl/Wrap",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Shetland Spindrift",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Garter stitch",
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Seamed",
+    "Three-needle bind-off",
+    "Worked flat",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.0
+  ],
+  "published": "2024/11/01",
+  "sizes_available": "Two Sizes (see notes)",
+  "rating_average": 4.933333333333334,
+  "rating_count": 15,
+  "difficulty_average": 2.066666666666667,
+  "favorites_count": 2084,
+  "projects_count": 99,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/460/967971",
+  "pdf": {
+    "filename": "7388887.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7388887.pdf",
+    "url": "https://pdf.ravelrycache.com/Gudrun/1924378/Riggies_Cowl.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482716&Signature=m7DuiAM26uO%2Bt2CsH%2FwCC02hf6s%3D&key_expires=1768482716&key=c6equ33A5HKkFWEnKMv6yQ",
+    "size_bytes": 531101
+  }
+}

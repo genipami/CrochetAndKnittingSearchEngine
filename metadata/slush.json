@@ -1,0 +1,54 @@
+{
+  "id": 708154,
+  "name": "Slush",
+  "permalink": "slush",
+  "url": "https://www.ravelry.com/patterns/library/slush",
+  "external_url": "",
+  "designer_name": "Allison O'Mahony",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Bulky",
+  "materials": [
+    {
+      "fiber": "Wool Ease Thick & Quick",
+      "pct": null
+    },
+    {
+      "fiber": "Wool Ease Thick & Quick (Tweeds)",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Blocking",
+    "Bottom-up",
+    "Charted",
+    "In the round",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    8.0,
+    9.0
+  ],
+  "published": "2016/11/01",
+  "sizes_available": "S/M and M/L",
+  "rating_average": 4.813559322033898,
+  "rating_count": 236,
+  "difficulty_average": 1.7256637168141593,
+  "favorites_count": 5156,
+  "projects_count": 851,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/23853/367780",
+  "pdf": {
+    "filename": "708154.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\708154.pdf",
+    "url": "https://pdf.ravelrycache.com/Kniterations/1746502/SLUSH_v1.3.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483119&Signature=yOaXg%2F4p8x43ygd9t0GJufOJcYw%3D&key_expires=1768483119&key=cwG050XuTsj0HGUGQ8VegA",
+    "size_bytes": 4485568
+  }
+}

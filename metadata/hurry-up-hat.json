@@ -1,0 +1,50 @@
+{
+  "id": 1077451,
+  "name": "Hurry Up Hat",
+  "permalink": "hurry-up-hat",
+  "url": "https://www.ravelry.com/patterns/library/hurry-up-hat",
+  "external_url": "",
+  "designer_name": "Lynette Meek",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Bulky",
+  "materials": [
+    {
+      "fiber": "DROPS Andes",
+      "pct": null
+    },
+    {
+      "fiber": "DROPS Snow",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "In the round",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    8.0
+  ],
+  "published": "2020/10/01",
+  "sizes_available": "One size",
+  "rating_average": 4.903225806451613,
+  "rating_count": 62,
+  "difficulty_average": 1.6140350877192982,
+  "favorites_count": 1916,
+  "projects_count": 235,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/6280/647236",
+  "pdf": {
+    "filename": "1077451.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1077451.pdf",
+    "url": "https://pdf.ravelrycache.com/LeTissier/1234522/Hurry_Up_Hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480972&Signature=%2FwqVHNA44D8BI7snFzWtxV58T%2Fo%3D&key_expires=1768480972&key=1ekgyrGT9_KJQE1OaMsiZw",
+    "size_bytes": 1407348
+  }
+}

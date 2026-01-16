@@ -1,0 +1,52 @@
+{
+  "id": 1166168,
+  "name": "Biggie Braids Beanie",
+  "permalink": "biggie-braids-beanie",
+  "url": "https://www.ravelry.com/patterns/library/biggie-braids-beanie",
+  "external_url": "",
+  "designer_name": "Taylor LaRocco",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Bulky",
+  "materials": [
+    {
+      "fiber": "Rasta",
+      "pct": null
+    },
+    {
+      "fiber": "Wool Ease Thick & Quick",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Cable",
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "Cables",
+    "In the round",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    8.0,
+    9.0
+  ],
+  "published": "2021/08/01",
+  "sizes_available": "Adult",
+  "rating_average": 4.8431372549019605,
+  "rating_count": 51,
+  "difficulty_average": 2.4375,
+  "favorites_count": 1864,
+  "projects_count": 194,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/88921/717896",
+  "pdf": {
+    "filename": "1166168.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1166168.pdf",
+    "url": "https://pdf.ravelrycache.com/MindfulArtworks/1364716/TheBiggieBraidsBeanie.FinalFINALVersion__1_.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479121&Signature=m6f6GI0ehCfj4IhwPHSvn1ag%2FEE%3D&key_expires=1768479121&key=EXIBh2vAhjGsjJJE35YnxQ",
+    "size_bytes": 340785
+  }
+}

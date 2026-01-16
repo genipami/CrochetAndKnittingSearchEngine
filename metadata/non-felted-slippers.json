@@ -1,0 +1,45 @@
+{
+  "id": 228593,
+  "name": "Non-felted Slippers",
+  "permalink": "non-felted-slippers",
+  "url": "https://www.ravelry.com/patterns/library/non-felted-slippers",
+  "external_url": "",
+  "designer_name": "Yuko Nakamura",
+  "project_type": "Other",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Bulky",
+  "materials": [
+    {
+      "fiber": "Yorkshire Tweed Chunky",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Seamed",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    5.5
+  ],
+  "published": "2011/02/01",
+  "sizes_available": "",
+  "rating_average": 4.488815244407622,
+  "rating_count": 1207,
+  "difficulty_average": 2.220048899755501,
+  "favorites_count": 37084,
+  "projects_count": 4665,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/16342/57991",
+  "pdf": {
+    "filename": "228593.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\228593.pdf",
+    "url": "https://pdf.ravelrycache.com/YukoNakamura/86712/nonfeltedslippers.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482103&Signature=1t0wUCS626lmavM61AMNCZjThiM%3D&key_expires=1768482103&key=i9tnto17Asai5RuVZZm_Jg",
+    "size_bytes": 91295
+  }
+}

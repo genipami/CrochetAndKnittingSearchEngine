@@ -1,0 +1,49 @@
+{
+  "id": 142270,
+  "name": "Podster Gloves",
+  "permalink": "podster-gloves",
+  "url": "https://www.ravelry.com/patterns/library/podster-gloves",
+  "external_url": "",
+  "designer_name": "Glenna C.",
+  "project_type": "Mittens/Gloves",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Purple Label Cashmere Sock",
+      "pct": null
+    },
+    {
+      "fiber": "Smooshy 100% Merino",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "In the round",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.5
+  ],
+  "published": "2009/09/01",
+  "sizes_available": "S(L)",
+  "rating_average": 4.3061224489795915,
+  "rating_count": 490,
+  "difficulty_average": 4.0686070686070686,
+  "favorites_count": 9529,
+  "projects_count": 1967,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/72/22771",
+  "pdf": {
+    "filename": "142270.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\142270.pdf",
+    "url": "https://pdf.ravelrycache.com/GlennaC/317574/Podsters-Dec30-13-PDF.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482477&Signature=uVX4RcFp00%2FzHT5HxBS1s%2BXppYo%3D&key_expires=1768482477&key=zYDsz5Eo-MKA3Wo9lIOkmw",
+    "size_bytes": 1366757
+  }
+}

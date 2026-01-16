@@ -1,0 +1,54 @@
+{
+  "id": 784852,
+  "name": "Irma Hat",
+  "permalink": "irma-hat",
+  "url": "https://www.ravelry.com/patterns/library/irma-hat",
+  "external_url": "",
+  "designer_name": "Aneta Gasiorowska",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "DROPS Lima",
+      "pct": null
+    },
+    {
+      "fiber": "Rios",
+      "pct": null
+    },
+    {
+      "fiber": "Unique",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Stockinette stitch"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "In the round",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.5,
+    4.5
+  ],
+  "published": "2017/10/01",
+  "sizes_available": "One size, adjustable according to instructions.",
+  "rating_average": 4.574358974358974,
+  "rating_count": 585,
+  "difficulty_average": 2.89126559714795,
+  "favorites_count": 19872,
+  "projects_count": 2388,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/39521/424421",
+  "pdf": {
+    "filename": "784852.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\784852.pdf",
+    "url": "https://pdf.ravelrycache.com/agasi/756564/IrmaHat2017_v1.0.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481026&Signature=t7Mn0wrFDevmZeQhr%2BBHTSHpVS8%3D&key_expires=1768481026&key=aCPeB6rye2T3PZdhCV13AA",
+    "size_bytes": 1354966
+  }
+}

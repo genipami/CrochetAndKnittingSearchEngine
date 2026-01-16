@@ -1,0 +1,46 @@
+{
+  "id": 7338820,
+  "name": "Double Double Hat",
+  "permalink": "double-double-hat",
+  "url": "https://www.ravelry.com/patterns/library/double-double-hat",
+  "external_url": "",
+  "designer_name": "Winter's Weather Knits",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Merino",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.75
+  ],
+  "published": "2024/05/01",
+  "sizes_available": "Preemie (Baby, Toddler, Child) {Teen, Adult S, Adult L}",
+  "rating_average": 4.636363636363637,
+  "rating_count": 22,
+  "difficulty_average": 2.55,
+  "favorites_count": 2894,
+  "projects_count": 161,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/60657/927878",
+  "pdf": {
+    "filename": "7338820.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7338820.pdf",
+    "url": "https://pdf.ravelrycache.com/jxypoh/1832028/Double_Double_Hat_Pattern_-_Winter_s_Weather_Knits.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479945&Signature=gzrOX2fHgG3OpDz%2Fe2x8eM%2BQZKk%3D&key_expires=1768479945&key=sT3Fs9EMXC0-GN81xnNdNw",
+    "size_bytes": 4470433
+  }
+}

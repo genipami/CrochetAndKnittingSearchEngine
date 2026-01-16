@@ -22,7 +22,9 @@
   "techniques_used": [
     "Charted",
     "In the round",
-    "Worked flat"
+    "Lace",
+    "Worked flat",
+    "Written"
   ],
   "hook_sizes_mm": [
     4.0
@@ -30,11 +32,17 @@
   "needle_sizes_mm": [],
   "published": "2024/08/01",
   "sizes_available": "",
-  "rating_average": 4.85,
-  "rating_count": 20,
-  "difficulty_average": 2.3,
-  "favorites_count": 1268,
-  "projects_count": 57,
+  "rating_average": 4.857142857142857,
+  "rating_count": 21,
+  "difficulty_average": 2.3333333333333335,
+  "favorites_count": 1270,
+  "projects_count": 58,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/105663/947242"
+  "download_url": "http://www.ravelry.com/dls/105663/947242",
+  "pdf": {
+    "filename": "7363647.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7363647.pdf",
+    "url": "https://pdf.ravelrycache.com/loupystudio/1881028/bonnetguide2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479824&Signature=BWiv5GKikApHKY5Q4EZQbcEaGZw%3D&key_expires=1768479824&key=OELSiPvFuXVXHgAS0PuYWg",
+    "size_bytes": 2473352
+  }
 }

@@ -1,0 +1,48 @@
+{
+  "id": 1365434,
+  "name": "Mosaic Dishcloth",
+  "permalink": "mosaic-dishcloth-4",
+  "url": "https://www.ravelry.com/patterns/library/mosaic-dishcloth-4",
+  "external_url": "",
+  "designer_name": "Bart Larsen",
+  "project_type": "Dishcloth",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Dishie",
+      "pct": null
+    },
+    {
+      "fiber": "Sugar'n Cream The Original (Solids)",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Garter stitch",
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Mosaic"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.5
+  ],
+  "published": "2023/09/01",
+  "sizes_available": "10 inch square",
+  "rating_average": 4.764705882352941,
+  "rating_count": 17,
+  "difficulty_average": 2.8,
+  "favorites_count": 1879,
+  "projects_count": 84,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/26969/879044",
+  "pdf": {
+    "filename": "1365434.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1365434.pdf",
+    "url": "https://pdf.ravelrycache.com/astropc/1726044/Mosaic_Dishcloth_1-4_Rev_3.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481923&Signature=F3EfsdsfaXQQuDVSrZoaZu%2B5ylg%3D&key_expires=1768481923&key=Fj-h3J3Bx8RmvCSbEQTtPA",
+    "size_bytes": 1714811
+  }
+}

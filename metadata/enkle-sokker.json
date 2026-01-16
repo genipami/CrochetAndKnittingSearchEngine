@@ -1,0 +1,48 @@
+{
+  "id": 7313889,
+  "name": "Enkle sokker",
+  "permalink": "enkle-sokker",
+  "url": "https://www.ravelry.com/patterns/library/enkle-sokker",
+  "external_url": "",
+  "designer_name": "Heidi Aas",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "4-fädig Color",
+      "pct": null
+    },
+    {
+      "fiber": "Arwetta",
+      "pct": null
+    },
+    {
+      "fiber": "Tilia",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.0
+  ],
+  "published": "2024/02/01",
+  "sizes_available": "1",
+  "rating_average": 5.0,
+  "rating_count": 4,
+  "difficulty_average": 0,
+  "favorites_count": 151,
+  "projects_count": 62,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/85019/908414",
+  "pdf": {
+    "filename": "7313889.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7313889.pdf",
+    "url": "https://pdf.ravelrycache.com/heidiaas07/1885968/Enkle_sokker_korrigert_10.09.2024.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480128&Signature=iPYRP7v2IHrPSSXUiKda0ihd7Is%3D&key_expires=1768480128&key=hiTJ_Xjyojxaxk9_6PNcTg",
+    "size_bytes": 452241
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 917966,
+  "name": "Magic Number Blanket",
+  "permalink": "magic-number-blanket",
+  "url": "https://www.ravelry.com/patterns/library/magic-number-blanket",
+  "external_url": "",
+  "designer_name": "Helen Cosgrove-Davies",
+  "project_type": "Blanket",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "Yowza Mini",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Garter stitch",
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.0
+  ],
+  "published": "2019/04/01",
+  "sizes_available": "22\" square (easily adapted to use up your yarn)",
+  "rating_average": 4.828571428571428,
+  "rating_count": 70,
+  "difficulty_average": 1.7692307692307692,
+  "favorites_count": 3552,
+  "projects_count": 339,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/29017/525205",
+  "pdf": {
+    "filename": "917966.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\917966.pdf",
+    "url": "https://pdf.ravelrycache.com/kibbin/960614/Magic_Number_Blanket.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481628&Signature=k2ELjLo2sGfVVNKObmQf1L3kFdE%3D&key_expires=1768481628&key=ACg6yfWPzZYKVeFqU1wW6g",
+    "size_bytes": 1545360
+  }
+}

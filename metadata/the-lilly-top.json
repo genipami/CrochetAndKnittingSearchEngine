@@ -18,7 +18,9 @@
     "Double crochet (dc)",
     "Single crochet (sc)"
   ],
-  "techniques_used": [],
+  "techniques_used": [
+    "Written"
+  ],
   "hook_sizes_mm": [
     5.0
   ],
@@ -28,7 +30,7 @@
   "rating_average": 4.816326530612245,
   "rating_count": 49,
   "difficulty_average": 2.3617021276595747,
-  "favorites_count": 3574,
+  "favorites_count": 3578,
   "projects_count": 220,
   "free_ravelry_download": false,
   "download_url": "http://www.ravelry.com/purchase/passioknit-goods/739259"

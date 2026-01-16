@@ -17,7 +17,9 @@
   "stitches_used": [
     "Granny"
   ],
-  "techniques_used": [],
+  "techniques_used": [
+    "Written"
+  ],
   "hook_sizes_mm": [
     8.0
   ],
@@ -27,7 +29,7 @@
   "rating_average": 4.836065573770492,
   "rating_count": 61,
   "difficulty_average": 1.639344262295082,
-  "favorites_count": 3642,
+  "favorites_count": 3645,
   "projects_count": 359,
   "free_ravelry_download": false,
   "download_url": "http://annabooshouse.blogspot.co.uk/2016/11/granny-wrap-stylecraft-blog-tour.html"

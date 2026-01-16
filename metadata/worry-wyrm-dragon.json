@@ -12,12 +12,16 @@
   "stitches_used": [
     "Double crochet (dc)",
     "Half double crochet (hdc)",
+    "Lace",
     "Popcorn",
     "Single crochet (sc)",
     "Slip stitch (sl st)",
     "Treble crochet (tr)"
   ],
-  "techniques_used": [],
+  "techniques_used": [
+    "Lace",
+    "Written"
+  ],
   "hook_sizes_mm": [
     3.5
   ],
@@ -27,8 +31,14 @@
   "rating_average": 4.638461538461539,
   "rating_count": 130,
   "difficulty_average": 3.1587301587301586,
-  "favorites_count": 10141,
-  "projects_count": 491,
+  "favorites_count": 10147,
+  "projects_count": 492,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/104268/908383"
+  "download_url": "http://www.ravelry.com/dls/104268/908383",
+  "pdf": {
+    "filename": "7313851.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7313851.pdf",
+    "url": "https://pdf.ravelrycache.com/ThaliaEvansArt/1785655/worry_wyrm_pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484247&Signature=I5zPtpsjFBxRB0WtgH8BqNA6HDY%3D&key_expires=1768484247&key=uYIIvpvA5F9ApgmbLiiISw",
+    "size_bytes": 1838154
+  }
 }

@@ -1,0 +1,48 @@
+{
+  "id": 1062698,
+  "name": "I'm So Basic Socks",
+  "permalink": "im-so-basic-socks",
+  "url": "https://www.ravelry.com/patterns/library/im-so-basic-socks",
+  "external_url": "",
+  "designer_name": "Summer Lee",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Sturdy Sock",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Blocking",
+    "In the round",
+    "Kitchener stitch",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.25
+  ],
+  "published": "2020/08/01",
+  "sizes_available": "S (7\" or 17.75cm) M (8\" or 20.25cm) L (9\" or 23cm) XL (10\" or 25.5cm) measuring the circumference around the ball of the foot",
+  "rating_average": 4.863204096561814,
+  "rating_count": 1367,
+  "difficulty_average": 2.448221343873518,
+  "favorites_count": 43407,
+  "projects_count": 9852,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/79598/634788",
+  "pdf": {
+    "filename": "1062698.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1062698.pdf",
+    "url": "https://pdf.ravelrycache.com/summerleigh/1181643/SOS_Basic_Sock.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481002&Signature=v3FphGwN3IoO%2FJDZpgsNoCOgpQU%3D&key_expires=1768481002&key=wFNZr7dlXqFmMFLJ35-UoQ",
+    "size_bytes": 12361471
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": 630535,
+  "name": "Backcountry Hat",
+  "permalink": "backcountry-hat",
+  "url": "https://www.ravelry.com/patterns/library/backcountry-hat",
+  "external_url": "http://www.lunagreyfiberarts.com/collections/patterns/products/backcountry-hat-pattern",
+  "designer_name": "Jackie Vlcek",
+  "project_type": "Child",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Bulky",
+  "materials": [
+    {
+      "fiber": "Apollo",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Ribbing",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "In the round",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.5,
+    5.5
+  ],
+  "published": "2015/12/01",
+  "sizes_available": "Baby, Toddler, Child, Adult Small, Adult Medium, Adult Large",
+  "rating_average": 4.7560975609756095,
+  "rating_count": 123,
+  "difficulty_average": 1.6638655462184875,
+  "favorites_count": 3676,
+  "projects_count": 673,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/38743/308915",
+  "pdf": {
+    "filename": "630535.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\630535.pdf",
+    "url": "https://pdf.ravelrycache.com/Jeex64/537491/Backcountry_Hat_Pattern_Revised.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478924&Signature=NVqnMeR0TVsnQn9q36332TWBhJQ%3D&key_expires=1768478924&key=EMXYLreRrbImVWzb6NcCyA",
+    "size_bytes": 1286789
+  }
+}

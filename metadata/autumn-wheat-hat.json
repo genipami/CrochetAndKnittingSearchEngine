@@ -15,10 +15,13 @@
     }
   ],
   "stitches_used": [
+    "Ribbing",
     "Single crochet (sc)",
     "Treble crochet (tr)"
   ],
-  "techniques_used": [],
+  "techniques_used": [
+    "Written"
+  ],
   "hook_sizes_mm": [
     5.0
   ],
@@ -28,7 +31,7 @@
   "rating_average": 4.5,
   "rating_count": 32,
   "difficulty_average": 2.2758620689655173,
-  "favorites_count": 6389,
+  "favorites_count": 6391,
   "projects_count": 235,
   "free_ravelry_download": false,
   "download_url": "http://www.ravelry.com/purchase/briana-k-designs/892222"

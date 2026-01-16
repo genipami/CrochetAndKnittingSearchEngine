@@ -1,0 +1,54 @@
+{
+  "id": 7457101,
+  "name": "Monjos",
+  "permalink": "monjos",
+  "url": "https://www.ravelry.com/patterns/library/monjos",
+  "external_url": "",
+  "designer_name": "eigene Schult",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Aktiv 4-fach Uni",
+      "pct": null
+    },
+    {
+      "fiber": "Extrafeine Sockenwolle 4-fach",
+      "pct": null
+    },
+    {
+      "fiber": "Opal 4-fach | 4-ply",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Seamless",
+    "Short rows",
+    "Top-down"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.5
+  ],
+  "published": "2025/08/01",
+  "sizes_available": "S/M/L",
+  "rating_average": 4.5,
+  "rating_count": 8,
+  "difficulty_average": 2.2857142857142856,
+  "favorites_count": 305,
+  "projects_count": 43,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/111812/1020754",
+  "pdf": {
+    "filename": "7457101.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7457101.pdf",
+    "url": "https://pdf.ravelrycache.com/eigeneSchult/2051781/Monjos.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481895&Signature=8BBPvUxExwmns8XTEy9GUjxctys%3D&key_expires=1768481895&key=Wp8w6xWdpGZ2wJku2K8yNw",
+    "size_bytes": 5497947
+  }
+}

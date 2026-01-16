@@ -1,0 +1,54 @@
+{
+  "id": 994875,
+  "name": "Snadi Sweater",
+  "permalink": "snadi-sweater",
+  "url": "https://www.ravelry.com/patterns/library/snadi-sweater",
+  "external_url": "",
+  "designer_name": "Johanna Ylistö",
+  "project_type": "Home",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Merino Sock",
+      "pct": null
+    },
+    {
+      "fiber": "Premium Merino Yak 4-fädig / 4-Ply",
+      "pct": null
+    },
+    {
+      "fiber": "Premium Silk 4-fädig | 4-ply",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Raglan",
+    "Seamless",
+    "Top-down",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.25
+  ],
+  "published": "2020/01/01",
+  "sizes_available": "One size",
+  "rating_average": 4.828571428571428,
+  "rating_count": 70,
+  "difficulty_average": 2.8636363636363638,
+  "favorites_count": 3255,
+  "projects_count": 342,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/47784/580890",
+  "pdf": {
+    "filename": "994875.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\994875.pdf",
+    "url": "https://pdf.ravelrycache.com/Hippusia/1072642/snadi_sweater__2_-compressed.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483147&Signature=E%2FtE%2F1kq1pptdvlaqAYfwEBbKww%3D&key_expires=1768483147&key=ekiGWKmDMW-vOjeWBRygqQ",
+    "size_bytes": 280595
+  }
+}

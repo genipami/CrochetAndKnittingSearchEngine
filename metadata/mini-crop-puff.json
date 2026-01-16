@@ -1,0 +1,47 @@
+{
+  "id": 1289236,
+  "name": "Mini Crop Puff",
+  "permalink": "mini-crop-puff",
+  "url": "https://www.ravelry.com/patterns/library/mini-crop-puff",
+  "external_url": "",
+  "designer_name": "Geraldine Yang",
+  "project_type": "Home",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Fingering Singles",
+      "pct": null
+    },
+    {
+      "fiber": "The Wandering Flock Baby Paca",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Puff stitch"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Top-down"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.25
+  ],
+  "published": null,
+  "sizes_available": "OS",
+  "rating_average": 4.854838709677419,
+  "rating_count": 62,
+  "difficulty_average": 2.4098360655737703,
+  "favorites_count": 3995,
+  "projects_count": 371,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/78509/819103",
+  "pdf": {
+    "filename": "1289236.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1289236.pdf",
+    "url": "https://pdf.ravelrycache.com/TheWanderingflock/1582357/Mini_Crop_Puff_Sweater.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481790&Signature=8JZ%2Fdyhyyr%2Bpyfny%2F42pGikiwNU%3D&key_expires=1768481790&key=p6K7X3X9kaOfVPdA4us3mQ",
+    "size_bytes": 980975
+  }
+}

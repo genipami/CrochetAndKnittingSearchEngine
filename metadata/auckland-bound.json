@@ -1,0 +1,54 @@
+{
+  "id": 904990,
+  "name": "Auckland Bound",
+  "permalink": "auckland-bound",
+  "url": "https://www.ravelry.com/patterns/library/auckland-bound",
+  "external_url": "",
+  "designer_name": "Maddy Moe",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "Cozy DK",
+      "pct": null
+    },
+    {
+      "fiber": "Merino DK",
+      "pct": null
+    },
+    {
+      "fiber": "Tosh Vintage",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Broken rib",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "In the round",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.25,
+    3.75
+  ],
+  "published": "2019/02/01",
+  "sizes_available": "17.5 (20, 22.5) inch circumference",
+  "rating_average": 4.757142857142857,
+  "rating_count": 70,
+  "difficulty_average": 2.3484848484848486,
+  "favorites_count": 3090,
+  "projects_count": 331,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/62513/515625",
+  "pdf": {
+    "filename": "904990.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\904990.pdf",
+    "url": "https://pdf.ravelrycache.com/moemr/1491127/Auckland_Bound_v2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478847&Signature=ObKxb%2Bx5qN3o6DXus6lmE2wNwok%3D&key_expires=1768478847&key=MDcJzjsOr_RYBfbYZQa0cQ",
+    "size_bytes": 322954
+  }
+}

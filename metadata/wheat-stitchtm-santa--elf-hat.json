@@ -23,7 +23,8 @@
     "Bottom-up",
     "Charted",
     "In the round",
-    "Seamless"
+    "Seamless",
+    "Written"
   ],
   "hook_sizes_mm": [
     4.0,
@@ -32,9 +33,9 @@
   "needle_sizes_mm": [],
   "published": "2025/12/01",
   "sizes_available": "Newborn (Baby, Toddler, Child, Teen) (Adult Small, Medium, Large)",
-  "rating_average": 0,
-  "rating_count": null,
-  "difficulty_average": 0,
+  "rating_average": 4.666666666666667,
+  "rating_count": 3,
+  "difficulty_average": 2.6666666666666665,
   "favorites_count": 393,
   "projects_count": 10,
   "free_ravelry_download": false,

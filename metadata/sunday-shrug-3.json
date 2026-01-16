@@ -1,0 +1,48 @@
+{
+  "id": 1311081,
+  "name": "Sunday Shrug",
+  "permalink": "sunday-shrug-3",
+  "url": "https://www.ravelry.com/patterns/library/sunday-shrug-3",
+  "external_url": "",
+  "designer_name": "Jackie Rose",
+  "project_type": "Shawl/Wrap",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Bulky",
+  "materials": [
+    {
+      "fiber": "Big Birdie",
+      "pct": null
+    },
+    {
+      "fiber": "Monstro",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "1x1 rib",
+    "Ribbing",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    10.0
+  ],
+  "published": "2023/02/01",
+  "sizes_available": "one size",
+  "rating_average": 4.6875,
+  "rating_count": 32,
+  "difficulty_average": 1.9655172413793103,
+  "favorites_count": 2119,
+  "projects_count": 160,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/98168/836969",
+  "pdf": {
+    "filename": "1311081.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1311081.pdf",
+    "url": "https://pdf.ravelrycache.com/dominirose/1621859/Sunday_Shrug__1_.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483464&Signature=Te0Aw%2FisO%2BvkYN6yfdLAyp8iihw%3D&key_expires=1768483464&key=WLmxql98W-Tog36E-QYBbA",
+    "size_bytes": 40768
+  }
+}

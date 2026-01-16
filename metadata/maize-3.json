@@ -1,0 +1,46 @@
+{
+  "id": 437532,
+  "name": "Maize",
+  "permalink": "maize-3",
+  "url": "https://www.ravelry.com/patterns/library/maize-3",
+  "external_url": "http://tincanknits.com/pattern-SC-maize.html",
+  "designer_name": "tincanknits",
+  "project_type": "Mittens/Gloves",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Superwash Worsted",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Reverse stockinette",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.0
+  ],
+  "published": "2013/09/01",
+  "sizes_available": "Toddler (Child, Adult S, M, L)",
+  "rating_average": 4.656540607563546,
+  "rating_count": 1613,
+  "difficulty_average": 2.2103559870550162,
+  "favorites_count": 27766,
+  "projects_count": 6881,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/23602/175849",
+  "pdf": {
+    "filename": "437532.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\437532.pdf",
+    "url": "https://pdf.ravelrycache.com/tincanknits/1818156/MAIZE-tincanknits.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481640&Signature=Fi16nnzoUIEvdjRvlIcXsl7G2BU%3D&key_expires=1768481640&key=mRL7B1-nnIaY4IoSsxUoCw",
+    "size_bytes": 3319691
+  }
+}

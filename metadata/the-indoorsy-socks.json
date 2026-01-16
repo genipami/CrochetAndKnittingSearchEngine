@@ -1,0 +1,48 @@
+{
+  "id": 1292642,
+  "name": "The Indoorsy Socks",
+  "permalink": "the-indoorsy-socks",
+  "url": "https://www.ravelry.com/patterns/library/the-indoorsy-socks",
+  "external_url": "",
+  "designer_name": "Sonder Yarn Co.",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Halo",
+      "pct": null
+    },
+    {
+      "fiber": "Sunday Morning 4 Ply (Fingering)",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Lace",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Lace"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.0
+  ],
+  "published": "2022/11/01",
+  "sizes_available": "",
+  "rating_average": 4.867647058823529,
+  "rating_count": 68,
+  "difficulty_average": 2.3174603174603177,
+  "favorites_count": 7358,
+  "projects_count": 428,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/92316/821653",
+  "pdf": {
+    "filename": "1292642.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1292642.pdf",
+    "url": "https://pdf.ravelrycache.com/SonderYarnCo/1588701/THE_INDOORSY_SOCKS_-_FINAL.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483644&Signature=5GvHFzGUv52M0MlvDJyI51uiL%2BE%3D&key_expires=1768483644&key=gb-SzJwLiMDPMMYg_ffH8A",
+    "size_bytes": 1835385
+  }
+}

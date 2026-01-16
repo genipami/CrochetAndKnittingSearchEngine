@@ -17,6 +17,7 @@
   "stitches_used": [
     "Double crochet (dc)",
     "Half double crochet (hdc)",
+    "Lace",
     "Single crochet (sc)",
     "Slip stitch (sl st)",
     "Treble crochet (tr)"
@@ -24,7 +25,9 @@
   "techniques_used": [
     "Bottom-up",
     "In the round",
-    "Seamed"
+    "Lace",
+    "Seamed",
+    "Written"
   ],
   "hook_sizes_mm": [
     5.0,

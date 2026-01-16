@@ -1,0 +1,51 @@
+{
+  "id": 533248,
+  "name": "Favorite Socks",
+  "permalink": "favorite-socks-2",
+  "url": "https://www.ravelry.com/patterns/library/favorite-socks-2",
+  "external_url": "",
+  "designer_name": "Kristin Lehrer",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Blitzed",
+      "pct": null
+    },
+    {
+      "fiber": "Footsie",
+      "pct": null
+    },
+    {
+      "fiber": "Lush",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Stockinette stitch"
+  ],
+  "techniques_used": [
+    "In the round"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.5
+  ],
+  "published": "2014/11/01",
+  "sizes_available": "Adult Small (Medium, Large)",
+  "rating_average": 4.737024221453288,
+  "rating_count": 578,
+  "difficulty_average": 2.549348230912477,
+  "favorites_count": 9703,
+  "projects_count": 3541,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/11161/241583",
+  "pdf": {
+    "filename": "533248.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\533248.pdf",
+    "url": "https://pdf.ravelrycache.com/voolenvine/1323032/Voolenvine_FavoriteSocks_2021_V2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480308&Signature=adc7xERGd7zSLGbpoK1t9t5pv5w%3D&key_expires=1768480308&key=ULROiUNshRclBIUTqlkusg",
+    "size_bytes": 1614803
+  }
+}

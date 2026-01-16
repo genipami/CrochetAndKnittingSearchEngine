@@ -18,13 +18,16 @@
     "Bobble",
     "Double crochet (dc)",
     "Half double crochet (hdc)",
+    "Lace",
     "Single crochet (sc)",
     "Slip stitch (sl st)",
     "Treble crochet (tr)"
   ],
   "techniques_used": [
     "In the round",
-    "Tapestry crochet"
+    "Lace",
+    "Mattress stitch",
+    "Written"
   ],
   "hook_sizes_mm": [
     4.0,
@@ -36,7 +39,7 @@
   "rating_average": 4.683333333333334,
   "rating_count": 60,
   "difficulty_average": 4.566037735849057,
-  "favorites_count": 14034,
+  "favorites_count": 14036,
   "projects_count": 246,
   "free_ravelry_download": false,
   "download_url": "http://www.ravelry.com/purchase/hooked-by-kati-designs/811394"

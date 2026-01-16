@@ -1,0 +1,51 @@
+{
+  "id": 7438952,
+  "name": "labubu bunny",
+  "permalink": "labubu-bunny",
+  "url": "https://www.ravelry.com/patterns/library/labubu-bunny",
+  "external_url": "",
+  "designer_name": "Julia Kor",
+  "project_type": "Toys",
+  "fiber_art": "Crochet",
+  "yarn_weight": "Bulky",
+  "materials": [
+    {
+      "fiber": "Dolphin Baby",
+      "pct": null
+    },
+    {
+      "fiber": "Little Bunny",
+      "pct": null
+    },
+    {
+      "fiber": "Parfait Chunky",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Written"
+  ],
+  "hook_sizes_mm": [
+    4.0
+  ],
+  "needle_sizes_mm": [],
+  "published": "2025/06/01",
+  "sizes_available": "20 cm = 8 in",
+  "rating_average": 5.0,
+  "rating_count": 3,
+  "difficulty_average": 2.3333333333333335,
+  "favorites_count": 329,
+  "projects_count": 10,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/76640/1006563",
+  "pdf": {
+    "filename": "7438952.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7438952.pdf",
+    "url": "https://pdf.ravelrycache.com/Fionadolls/2017945/labubu_crochet_pattern_Fionadolls.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481271&Signature=5%2FcMrSau7Uc7pDM0bVE%2Bp6G%2FTr8%3D&key_expires=1768481271&key=bXbo-KN0pgwEgAR8mCrU0g",
+    "size_bytes": 8685254
+  }
+}

@@ -15,8 +15,10 @@
     "Treble crochet (tr)"
   ],
   "techniques_used": [
+    "Cables",
     "In the round",
-    "Top-down"
+    "Top-down",
+    "Written"
   ],
   "hook_sizes_mm": [
     5.0,
@@ -28,8 +30,14 @@
   "rating_average": 4.615921214608124,
   "rating_count": 2437,
   "difficulty_average": 2.4094063222821895,
-  "favorites_count": 34208,
-  "projects_count": 9203,
+  "favorites_count": 34226,
+  "projects_count": 9204,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/15646/263524"
+  "download_url": "http://www.ravelry.com/dls/15646/263524",
+  "pdf": {
+    "filename": "36299.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\36299.pdf",
+    "url": "https://pdf.ravelrycache.com/Rheatheylia/453206/divine_hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479928&Signature=YjLIqTdf9IzV3bWbVD13XdB289E%3D&key_expires=1768479928&key=T6TmHaujcYpawTvPJqcaQQ",
+    "size_bytes": 925865
+  }
 }

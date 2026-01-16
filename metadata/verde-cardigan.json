@@ -1,0 +1,49 @@
+{
+  "id": 1023879,
+  "name": "Verde Cardigan",
+  "permalink": "verde-cardigan",
+  "url": "https://www.ravelry.com/patterns/library/verde-cardigan",
+  "external_url": "",
+  "designer_name": "Claudia Quintanilla - EweKnit Toronto",
+  "project_type": "Child",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "Superwash DK",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Garter stitch",
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Raglan",
+    "Short rows",
+    "Top-down",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.5
+  ],
+  "published": "2020/03/01",
+  "sizes_available": "0-3 mo (3-6 mo, 6-12 mo, 12-18 mo, Child 2, Child 4)",
+  "rating_average": 4.745664739884393,
+  "rating_count": 173,
+  "difficulty_average": 2.6645962732919255,
+  "favorites_count": 9536,
+  "projects_count": 824,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/33050/604422",
+  "pdf": {
+    "filename": "1023879.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1023879.pdf",
+    "url": "https://pdf.ravelrycache.com/EweKnitToronto/1123188/verde_cardigan_v2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484002&Signature=af2gSzrZb2DXCqwJIIJBNON8eAo%3D&key_expires=1768484002&key=98Roa-QLKlsPjKjKB_gyoQ",
+    "size_bytes": 1216320
+  }
+}

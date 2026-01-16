@@ -1,0 +1,48 @@
+{
+  "id": 1368311,
+  "name": "Fable (fake cable) Socks",
+  "permalink": "fable-fake-cable-socks",
+  "url": "https://www.ravelry.com/patterns/library/fable-fake-cable-socks",
+  "external_url": "",
+  "designer_name": "Cissy Tang",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Sock",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "2x2 rib",
+    "Cable",
+    "Ribbing",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Blocking",
+    "Cables",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.0,
+    2.25
+  ],
+  "published": "2023/09/01",
+  "sizes_available": "Woman's Medium (64 stitches)",
+  "rating_average": 4.764705882352941,
+  "rating_count": 17,
+  "difficulty_average": 2.764705882352941,
+  "favorites_count": 2396,
+  "projects_count": 75,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/102218/881950",
+  "pdf": {
+    "filename": "1368311.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1368311.pdf",
+    "url": "https://pdf.ravelrycache.com/Dotcardigan/1725507/Faux_Cable_Socks_v1.1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480252&Signature=i03EUKHPZm6TE23FvoiK5HHLjes%3D&key_expires=1768480252&key=NMt9JBzmzFzqHJZ3maAFuw",
+    "size_bytes": 739015
+  }
+}

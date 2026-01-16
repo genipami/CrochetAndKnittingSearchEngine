@@ -1,0 +1,62 @@
+{
+  "id": 1031789,
+  "name": "Fleur",
+  "permalink": "fleur-30",
+  "url": "https://www.ravelry.com/patterns/library/fleur-30",
+  "external_url": "",
+  "designer_name": "Espace Tricot",
+  "project_type": "Shawl/Wrap",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "Fluff",
+      "pct": null
+    },
+    {
+      "fiber": "Grace",
+      "pct": null
+    },
+    {
+      "fiber": "Halo",
+      "pct": null
+    },
+    {
+      "fiber": "Merino DK",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Bobble",
+    "Garter stitch",
+    "Lace",
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Blocking",
+    "Lace",
+    "Seamless",
+    "Top-down",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    5.0
+  ],
+  "published": "2020/05/01",
+  "sizes_available": "One Size: 76\" x 25\"",
+  "rating_average": 4.896860986547085,
+  "rating_count": 223,
+  "difficulty_average": 2.234146341463415,
+  "favorites_count": 15286,
+  "projects_count": 845,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/25132/610307",
+  "pdf": {
+    "filename": "1031789.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1031789.pdf",
+    "url": "https://pdf.ravelrycache.com/EspaceTricot/1251237/FLEUR2VERS_EN.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480438&Signature=Fjne6XQapBKPaipUmcuWRZ7S07U%3D&key_expires=1768480438&key=WeJxTnR3YNbIdyK_uA5CKg",
+    "size_bytes": 3173882
+  }
+}

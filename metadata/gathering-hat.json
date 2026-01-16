@@ -1,0 +1,47 @@
+{
+  "id": 983162,
+  "name": "Gathering Hat",
+  "permalink": "gathering-hat",
+  "url": "https://www.ravelry.com/patterns/library/gathering-hat",
+  "external_url": "https://www.spinnery.com/shop/patterns/hats/gathering-hat-282/",
+  "designer_name": "Kate Salomon",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Bulky",
+  "materials": [
+    {
+      "fiber": "Capricorn",
+      "pct": null
+    },
+    {
+      "fiber": "Yarn Over",
+      "pct": null
+    }
+  ],
+  "stitches_used": [],
+  "techniques_used": [
+    "Bottom-up",
+    "Charted",
+    "In the round",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    6.0
+  ],
+  "published": "2019/11/01",
+  "sizes_available": "One size fits most adults - 18”/ 45 cm circumference and 8 ½”/ 21 cm deep ",
+  "rating_average": 4.650793650793651,
+  "rating_count": 63,
+  "difficulty_average": 2.6666666666666665,
+  "favorites_count": 2004,
+  "projects_count": 276,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/4637/572240",
+  "pdf": {
+    "filename": "983162.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\983162.pdf",
+    "url": "https://pdf.ravelrycache.com/KateSalomon/1054234/Gatheringhat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480578&Signature=6Y5VPcxyuma%2B5Mto2KLJQHMXalk%3D&key_expires=1768480578&key=O-ANtTagQcpgBNEUBwJIMg",
+    "size_bytes": 656597
+  }
+}

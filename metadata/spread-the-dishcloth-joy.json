@@ -18,8 +18,13 @@
       "pct": null
     }
   ],
-  "stitches_used": [],
-  "techniques_used": [],
+  "stitches_used": [
+    "Lace"
+  ],
+  "techniques_used": [
+    "Lace",
+    "Written"
+  ],
   "hook_sizes_mm": [
     5.0
   ],
@@ -29,8 +34,14 @@
   "rating_average": 4.850746268656716,
   "rating_count": 201,
   "difficulty_average": 1.6595744680851063,
-  "favorites_count": 12186,
+  "favorites_count": 12189,
   "projects_count": 1060,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/70612/475389"
+  "download_url": "http://www.ravelry.com/dls/70612/475389",
+  "pdf": {
+    "filename": "852594.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\852594.pdf",
+    "url": "https://pdf.ravelrycache.com/CarefulsCrochet/1069015/Spread_the_Dishcloth_Joy_Pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483298&Signature=s8eRKiYESstWPC%2FyIDUbMhrDmzw%3D&key_expires=1768483298&key=5NgZefjP_IfwaVbQRHu38g",
+    "size_bytes": 1398102
+  }
 }

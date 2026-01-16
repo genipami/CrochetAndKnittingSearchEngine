@@ -1,0 +1,51 @@
+{
+  "id": 7483299,
+  "name": "Smallidays",
+  "permalink": "smallidays",
+  "url": "https://www.ravelry.com/patterns/library/smallidays",
+  "external_url": "",
+  "designer_name": "Stephanie Lotven",
+  "project_type": "Home",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "Simply Spectacular DK Smalls",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Garter stitch",
+    "Lace",
+    "Ribbing",
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Blocking",
+    "In the round",
+    "Lace",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.75
+  ],
+  "published": "2025/12/01",
+  "sizes_available": "ORNAMENT SIZE",
+  "rating_average": 5.0,
+  "rating_count": 6,
+  "difficulty_average": 2.6666666666666665,
+  "favorites_count": 1093,
+  "projects_count": 40,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/37638/1041408",
+  "pdf": {
+    "filename": "7483299.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7483299.pdf",
+    "url": "https://pdf.ravelrycache.com/needlesandyarn/2098238/Smallidays_Ornaments.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483128&Signature=IYtCHOFRk9Q0S01KAHVKvKJRUJc%3D&key_expires=1768483128&key=GqSxP5mCD9I4jJ0o7S2g3Q",
+    "size_bytes": 12383049
+  }
+}

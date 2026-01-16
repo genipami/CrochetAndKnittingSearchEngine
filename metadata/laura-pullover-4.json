@@ -1,0 +1,57 @@
+{
+  "id": 7354274,
+  "name": "Laura Pullover",
+  "permalink": "laura-pullover-4",
+  "url": "https://www.ravelry.com/patterns/library/laura-pullover-4",
+  "external_url": "https://thelambandkid.com",
+  "designer_name": "The Lamb & Kid Designs",
+  "project_type": "Pullover",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Birdie",
+      "pct": null
+    },
+    {
+      "fiber": "Dyed in the Wool",
+      "pct": null
+    },
+    {
+      "fiber": "Elmer Fingering",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Ribbing",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Blocking",
+    "In the round",
+    "Raglan",
+    "Top-down",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.75,
+    4.5
+  ],
+  "published": "2024/07/01",
+  "sizes_available": "35.5 (39, 42.5, 46, 50, 53.5, 58, 61.5, 64)\"",
+  "rating_average": 4.9245283018867925,
+  "rating_count": 53,
+  "difficulty_average": 2.4130434782608696,
+  "favorites_count": 5588,
+  "projects_count": 229,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/91137/940412",
+  "pdf": {
+    "filename": "7354274.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7354274.pdf",
+    "url": "https://pdf.ravelrycache.com/TheLambAndKid/1861591/TLK_LauraPullover_Final.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481339&Signature=km251DOzeMcd01wJjS9EBqlPW%2BA%3D&key_expires=1768481339&key=Nes3nmwRLcxUdV7gaYKD0Q",
+    "size_bytes": 5213484
+  }
+}

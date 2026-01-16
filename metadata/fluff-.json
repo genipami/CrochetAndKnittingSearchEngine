@@ -1,0 +1,49 @@
+{
+  "id": 421285,
+  "name": "Fluff !",
+  "permalink": "fluff-",
+  "url": "https://www.ravelry.com/patterns/library/fluff-",
+  "external_url": "",
+  "designer_name": "Susan Ashcroft",
+  "project_type": "Scarf",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Lace",
+  "materials": [
+    {
+      "fiber": "Kidsilk Haze Stripe",
+      "pct": null
+    },
+    {
+      "fiber": "Mohair Luxe Dégradé",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Lace",
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Lace",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    5.0
+  ],
+  "published": "2013/07/01",
+  "sizes_available": "adjustable to suit your taste or available yarn",
+  "rating_average": 4.740963855421687,
+  "rating_count": 166,
+  "difficulty_average": 1.694915254237288,
+  "favorites_count": 6752,
+  "projects_count": 717,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/16192/165271",
+  "pdf": {
+    "filename": "421285.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\421285.pdf",
+    "url": "https://pdf.ravelrycache.com/stitchnerd/270819/fluff_-_July_28th.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480457&Signature=PilNp5rNUMyufuXDGv1NuTXLc%2F4%3D&key_expires=1768480457&key=DpuCfL580E7ZgzS2ogY7Wg",
+    "size_bytes": 448870
+  }
+}

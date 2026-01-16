@@ -1,0 +1,57 @@
+{
+  "id": 1141252,
+  "name": "Cozy Chillin' Socks",
+  "permalink": "cozy-chillin-socks",
+  "url": "https://www.ravelry.com/patterns/library/cozy-chillin-socks",
+  "external_url": "https://finickycreations.com/all-products/ols/products/cozy-chillin-socks",
+  "designer_name": "Finicky Creations",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "220 Superwash®",
+      "pct": null
+    },
+    {
+      "fiber": "Chroma Worsted",
+      "pct": null
+    },
+    {
+      "fiber": "Natural Alpaca Tweed",
+      "pct": null
+    },
+    {
+      "fiber": "Wool of the Andes Worsted",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Stockinette stitch"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.75
+  ],
+  "published": "2021/05/01",
+  "sizes_available": "S to XL",
+  "rating_average": 4.666666666666667,
+  "rating_count": 33,
+  "difficulty_average": 2.375,
+  "favorites_count": 2352,
+  "projects_count": 247,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/64159/698637",
+  "pdf": {
+    "filename": "1141252.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1141252.pdf",
+    "url": "https://pdf.ravelrycache.com/FinickyCreations/1322341/Cozy_Chillin__Socks.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479719&Signature=PJVcV9xecQ5sW3coOb8hCMf6Wo8%3D&key_expires=1768479719&key=VShUd0wGg3_S3lUAXt2buA",
+    "size_bytes": 2283254
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": 1128707,
+  "name": "Iris Shawl",
+  "permalink": "iris-shawl-8",
+  "url": "https://www.ravelry.com/patterns/library/iris-shawl-8",
+  "external_url": "",
+  "designer_name": "Danielle Comeau",
+  "project_type": "Shawl/Wrap",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Cumulus",
+      "pct": null
+    },
+    {
+      "fiber": "Cumulus Rainbow",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Garter stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    6.0
+  ],
+  "published": "2021/04/01",
+  "sizes_available": "One Size",
+  "rating_average": 4.872727272727273,
+  "rating_count": 55,
+  "difficulty_average": 1.7551020408163265,
+  "favorites_count": 1701,
+  "projects_count": 181,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/1799/688460",
+  "pdf": {
+    "filename": "1128707.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1128707.pdf",
+    "url": "https://pdf.ravelrycache.com/spun/1299572/Iris-Final.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481021&Signature=VyVC%2B9Dcaw1VgFYsumiK3kgGRno%3D&key_expires=1768481021&key=tkJXGT5vPCuMsGkI31uNcg",
+    "size_bytes": 2389726
+  }
+}

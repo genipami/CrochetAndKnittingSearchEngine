@@ -1,0 +1,44 @@
+{
+  "id": 1198321,
+  "name": "Brioche Cat Hat",
+  "permalink": "brioche-cat-hat",
+  "url": "https://www.ravelry.com/patterns/library/brioche-cat-hat",
+  "external_url": "",
+  "designer_name": "Natasha Sills",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Merinosaurus Worsted",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "Brioche",
+    "In the round"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.5
+  ],
+  "published": "2021/12/01",
+  "sizes_available": "adjustable",
+  "rating_average": 4.735294117647059,
+  "rating_count": 34,
+  "difficulty_average": 2.8125,
+  "favorites_count": 3677,
+  "projects_count": 230,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/1023/743681",
+  "pdf": {
+    "filename": "1198321.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1198321.pdf",
+    "url": "https://pdf.ravelrycache.com/GrittyKnits/1418939/Brioche_Cat_Hat_by_Natasha_Sills.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479231&Signature=%2BLJA6JEMRtNjB0r%2FbjzD5HlW0bo%3D&key_expires=1768479231&key=yUMu5E5gSiBdlDPNJk9Fqg",
+    "size_bytes": 3098440
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": 942929,
+  "name": "Ball Band",
+  "permalink": "ball-band",
+  "url": "https://www.ravelry.com/patterns/library/ball-band",
+  "external_url": "",
+  "designer_name": "Jennifer Lassonde",
+  "project_type": "Home",
+  "fiber_art": "Crochet",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Re-Up (Cotton)",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Double crochet (dc)",
+    "Single crochet (sc)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "In the round",
+    "Written"
+  ],
+  "hook_sizes_mm": [
+    3.75,
+    4.25
+  ],
+  "needle_sizes_mm": [],
+  "published": "2019/07/01",
+  "sizes_available": "One size (easily customizable)",
+  "rating_average": 5.0,
+  "rating_count": 22,
+  "difficulty_average": 1.7727272727272727,
+  "favorites_count": 971,
+  "projects_count": 133,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/43605/542493",
+  "pdf": {
+    "filename": "942929.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\942929.pdf",
+    "url": "https://pdf.ravelrycache.com/BostonJen/995123/Ball_Band_24_oz_v07.06.19.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478931&Signature=0QaJEwJubYK9c%2BuJCd6Llm4x4yg%3D&key_expires=1768478931&key=RA4dM7nzSrVCnm6UFyen2Q",
+    "size_bytes": 403713
+  }
+}

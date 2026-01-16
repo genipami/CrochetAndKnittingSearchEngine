@@ -14,7 +14,8 @@
     "Treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamless"
+    "Seamless",
+    "Written"
   ],
   "hook_sizes_mm": [
     3.5,
@@ -29,5 +30,11 @@
   "favorites_count": 1113,
   "projects_count": 64,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/62978/970689"
+  "download_url": "http://www.ravelry.com/dls/62978/970689",
+  "pdf": {
+    "filename": "7392108.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7392108.pdf",
+    "url": "https://pdf.ravelrycache.com/CraftyIntentions/2036245/EN_Free_Beaded_Mobius_Fidget_Pattern_by_Crafty_Intentions.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479033&Signature=vdb76ZOemHtt2hhOq9UNTzWK400%3D&key_expires=1768479033&key=8vrLWHI6lijG5kFl8s9hNA",
+    "size_bytes": 1017959
+  }
 }

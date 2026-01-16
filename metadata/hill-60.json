@@ -1,0 +1,52 @@
+{
+  "id": 830709,
+  "name": "Hill 60",
+  "permalink": "hill-60",
+  "url": "https://www.ravelry.com/patterns/library/hill-60",
+  "external_url": "",
+  "designer_name": "Galt House of Yarn",
+  "project_type": "Child",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Cascade 220®",
+      "pct": null
+    },
+    {
+      "fiber": "Luxury Collection Pure Wool Superwash",
+      "pct": null
+    },
+    {
+      "fiber": "Ultra Alpaca",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.5
+  ],
+  "published": "2018/04/01",
+  "sizes_available": "Baby, Child, Adult",
+  "rating_average": 4.8428571428571425,
+  "rating_count": 210,
+  "difficulty_average": 1.9086294416243654,
+  "favorites_count": 4793,
+  "projects_count": 883,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/63466/459080",
+  "pdf": {
+    "filename": "830709.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\830709.pdf",
+    "url": "https://pdf.ravelrycache.com/AnneVasic/826618/Hill_60_v1.3.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480895&Signature=vl%2FpLDysYgH%2FvwJarvvgbAwZVYA%3D&key_expires=1768480895&key=VwjO7kHbMsb1vMsQW6v4YQ",
+    "size_bytes": 801444
+  }
+}

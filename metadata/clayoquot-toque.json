@@ -1,0 +1,48 @@
+{
+  "id": 514614,
+  "name": "Clayoquot Toque",
+  "permalink": "clayoquot-toque",
+  "url": "https://www.ravelry.com/patterns/library/clayoquot-toque",
+  "external_url": "",
+  "designer_name": "tincanknits",
+  "project_type": "Child",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "Merino Twist DK",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "Charted",
+    "Stranded colorwork",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.5,
+    4.0
+  ],
+  "published": "2014/09/01",
+  "sizes_available": "Newborn (Baby, Toddler, Child, Adult S, M, L)",
+  "rating_average": 4.79667063020214,
+  "rating_count": 841,
+  "difficulty_average": 2.897597977243995,
+  "favorites_count": 12860,
+  "projects_count": 3026,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/23602/228009",
+  "pdf": {
+    "filename": "514614.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\514614.pdf",
+    "url": "https://pdf.ravelrycache.com/tincanknits/1210546/CLAYOQUOTTOQUE-tincanknits.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479577&Signature=aHpMZBM4u0aj8hs8nlG0fkt15YY%3D&key_expires=1768479577&key=GL5k_T8QRNx_j3_iSvQOBA",
+    "size_bytes": 1280161
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": 1069823,
+  "name": "Bynx Cowl",
+  "permalink": "bynx-cowl",
+  "url": "https://www.ravelry.com/patterns/library/bynx-cowl",
+  "external_url": "",
+  "designer_name": "Hayley Quinn",
+  "project_type": "Shawl/Wrap",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "Merino DK",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Cable",
+    "Ribbing",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "Cables",
+    "Charted",
+    "In the round",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.0,
+    4.5
+  ],
+  "published": "2020/09/01",
+  "sizes_available": "Child, Adult",
+  "rating_average": 4.884615384615385,
+  "rating_count": 52,
+  "difficulty_average": 2.92,
+  "favorites_count": 3045,
+  "projects_count": 209,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/73103/640537",
+  "pdf": {
+    "filename": "1069823.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1069823.pdf",
+    "url": "https://pdf.ravelrycache.com/lochknits/1194570/Bynx_Cowl.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479289&Signature=w3YcECR%2FmMcT9h3aFujMy8P4T6U%3D&key_expires=1768479289&key=_36h5gNfxx6DN3dq33yIJA",
+    "size_bytes": 1731133
+  }
+}

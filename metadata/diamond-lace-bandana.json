@@ -14,8 +14,13 @@
       "pct": null
     }
   ],
-  "stitches_used": [],
-  "techniques_used": [],
+  "stitches_used": [
+    "Lace"
+  ],
+  "techniques_used": [
+    "Lace",
+    "Written"
+  ],
   "hook_sizes_mm": [
     5.0
   ],
@@ -25,7 +30,7 @@
   "rating_average": 4.804878048780488,
   "rating_count": 41,
   "difficulty_average": 3.0526315789473686,
-  "favorites_count": 2607,
+  "favorites_count": 2610,
   "projects_count": 140,
   "free_ravelry_download": false,
   "download_url": "https://vivcrochets.com/diamond-lace-crochet-bandana-free-pattern-tutorial/"

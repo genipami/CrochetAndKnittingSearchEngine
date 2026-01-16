@@ -1,0 +1,52 @@
+{
+  "id": 1186003,
+  "name": "Birch Shortie Sock",
+  "permalink": "birch-shortie-sock",
+  "url": "https://www.ravelry.com/patterns/library/birch-shortie-sock",
+  "external_url": "",
+  "designer_name": "Rachel Nutting",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Squish Wish Sock",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Cable",
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Cables",
+    "Charted",
+    "In the round",
+    "Kitchener stitch",
+    "Seamless",
+    "Short rows",
+    "Top-down",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.25
+  ],
+  "published": "2021/10/01",
+  "sizes_available": "Adult Small, Medium, Large",
+  "rating_average": 4.739130434782608,
+  "rating_count": 69,
+  "difficulty_average": 2.90625,
+  "favorites_count": 4757,
+  "projects_count": 347,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/33649/733283",
+  "pdf": {
+    "filename": "1186003.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1186003.pdf",
+    "url": "https://pdf.ravelrycache.com/RachelNutting/1396624/Birch_Shortie_Sock_Pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479126&Signature=FU5eFmevwyFvN%2FMPfwQfb7tnNtQ%3D&key_expires=1768479126&key=64SEhVL260zqeoVTQOf0Vg",
+    "size_bytes": 18451430
+  }
+}

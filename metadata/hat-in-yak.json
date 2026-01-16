@@ -1,0 +1,47 @@
+{
+  "id": 1256976,
+  "name": "Hat in Yak",
+  "permalink": "hat-in-yak",
+  "url": "https://www.ravelry.com/patterns/library/hat-in-yak",
+  "external_url": "",
+  "designer_name": "Andra Asars",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Aran",
+  "materials": [
+    {
+      "fiber": "Yak",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Blocking",
+    "Bottom-up",
+    "In the round",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.5,
+    5.0
+  ],
+  "published": "2022/07/01",
+  "sizes_available": "Adult M/L ",
+  "rating_average": 4.826086956521739,
+  "rating_count": 23,
+  "difficulty_average": 1.75,
+  "favorites_count": 691,
+  "projects_count": 108,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/31223/792360",
+  "pdf": {
+    "filename": "1256976.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1256976.pdf",
+    "url": "https://pdf.ravelrycache.com/roentgen/1525659/hat_in_yak.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480782&Signature=O%2Br8OEeR%2BVuNamP8j8UVTUbjhBs%3D&key_expires=1768480782&key=JjGXt-_Du0laPrABLyhcpg",
+    "size_bytes": 882110
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": 1222072,
+  "name": "Sonder Socks",
+  "permalink": "sonder-socks",
+  "url": "https://www.ravelry.com/patterns/library/sonder-socks",
+  "external_url": "",
+  "designer_name": "Sonder Yarn Co.",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Sock",
+      "pct": null
+    },
+    {
+      "fiber": "Yak Sock",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.25
+  ],
+  "published": "2022/02/01",
+  "sizes_available": "1 (2, 3, 4, 5)",
+  "rating_average": 4.72,
+  "rating_count": 25,
+  "difficulty_average": 2.2916666666666665,
+  "favorites_count": 2583,
+  "projects_count": 141,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/92316/762568",
+  "pdf": {
+    "filename": "1222072.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1222072.pdf",
+    "url": "https://pdf.ravelrycache.com/SonderYarnCo/1459569/SONDER_SOCKS_-_FINAL_-_March_1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483257&Signature=VdM9eKElMUDIWmTvIfgML5XrRHs%3D&key_expires=1768483257&key=eF4NS-zMNKBTNab3GJmdXQ",
+    "size_bytes": 2704790
+  }
+}

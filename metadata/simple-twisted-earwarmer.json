@@ -19,7 +19,9 @@
     "Half double crochet (hdc)",
     "Treble crochet (tr)"
   ],
-  "techniques_used": [],
+  "techniques_used": [
+    "Written"
+  ],
   "hook_sizes_mm": [
     5.0
   ],
@@ -29,8 +31,8 @@
   "rating_average": 4.884353741496598,
   "rating_count": 294,
   "difficulty_average": 1.6395759717314489,
-  "favorites_count": 13362,
-  "projects_count": 1175,
+  "favorites_count": 13366,
+  "projects_count": 1177,
   "free_ravelry_download": false,
   "download_url": "https://yarnandchai.com/simple-twisted-earwarmer/"
 }

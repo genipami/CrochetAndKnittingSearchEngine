@@ -18,10 +18,13 @@
     "Double crochet (dc)",
     "Half double crochet (hdc)",
     "Moss/Linen stitch",
+    "Ribbing",
     "Single crochet (sc)",
     "Slip stitch (sl st)"
   ],
-  "techniques_used": [],
+  "techniques_used": [
+    "Written"
+  ],
   "hook_sizes_mm": [
     4.0
   ],
@@ -31,7 +34,7 @@
   "rating_average": 4.725,
   "rating_count": 40,
   "difficulty_average": 2.4523809523809526,
-  "favorites_count": 2434,
+  "favorites_count": 2436,
   "projects_count": 153,
   "free_ravelry_download": false,
   "download_url": "https://hayhaycrochet.com/crochet-patterns/accessories/crochet-fingerless-gloves/"

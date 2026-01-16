@@ -1,0 +1,48 @@
+{
+  "id": 1085213,
+  "name": "Color Palette Socks",
+  "permalink": "color-palette-socks-2",
+  "url": "https://www.ravelry.com/patterns/library/color-palette-socks-2",
+  "external_url": "",
+  "designer_name": "Laura Moorats",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Arwetta",
+      "pct": null
+    },
+    {
+      "fiber": "Sock",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Stockinette stitch"
+  ],
+  "techniques_used": [
+    "Charted",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.5
+  ],
+  "published": "2020/11/01",
+  "sizes_available": "Women's Medium",
+  "rating_average": 4.858880778588808,
+  "rating_count": 411,
+  "difficulty_average": 2.411764705882353,
+  "favorites_count": 30823,
+  "projects_count": 2443,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/85345/653575",
+  "pdf": {
+    "filename": "1085213.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1085213.pdf",
+    "url": "https://pdf.ravelrycache.com/laurelknitss/1222143/Color_Palette_Socks.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479638&Signature=%2BbHLmRu3cRbXph%2BdzMd3X3GaQTY%3D&key_expires=1768479638&key=LzKM2tOgKnqcf_iBliJ5iA",
+    "size_bytes": 626143
+  }
+}

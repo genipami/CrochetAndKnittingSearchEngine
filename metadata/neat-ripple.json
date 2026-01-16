@@ -10,7 +10,9 @@
   "yarn_weight": "DK",
   "materials": [],
   "stitches_used": [],
-  "techniques_used": [],
+  "techniques_used": [
+    "Written"
+  ],
   "hook_sizes_mm": [
     4.0
   ],
@@ -20,7 +22,7 @@
   "rating_average": 4.819013394315583,
   "rating_count": 3061,
   "difficulty_average": 2.098355471220746,
-  "favorites_count": 35298,
+  "favorites_count": 35300,
   "projects_count": 11019,
   "free_ravelry_download": false,
   "download_url": "https://attic24.co.uk/patterns/blankets/ripple-blanket/"

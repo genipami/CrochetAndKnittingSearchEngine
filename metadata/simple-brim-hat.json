@@ -16,7 +16,8 @@
   ],
   "stitches_used": [],
   "techniques_used": [
-    "In the round"
+    "In the round",
+    "Written"
   ],
   "hook_sizes_mm": [
     6.0
@@ -30,5 +31,11 @@
   "favorites_count": 32,
   "projects_count": 0,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/105459/1048418"
+  "download_url": "http://www.ravelry.com/dls/105459/1048418",
+  "pdf": {
+    "filename": "7492481.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7492481.pdf",
+    "url": "https://pdf.ravelrycache.com/JuanTheYarnAddict/2114824/Simple_Brim_Hat_Final.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482954&Signature=ySYwvmFtF27I50KhWa66zeBV2rU%3D&key_expires=1768482954&key=rjxIrllmvKXHcgc8CXSylg",
+    "size_bytes": 673082
+  }
 }

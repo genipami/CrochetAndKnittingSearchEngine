@@ -1,0 +1,45 @@
+{
+  "id": 1309513,
+  "name": "Basic Mitten for Beginners",
+  "permalink": "basic-mitten-for-beginners",
+  "url": "https://www.ravelry.com/patterns/library/basic-mitten-for-beginners",
+  "external_url": "",
+  "designer_name": "Jackie Henderson",
+  "project_type": "Mittens/Gloves",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Aran",
+  "materials": [
+    {
+      "fiber": "Yarn ID",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.0
+  ],
+  "published": "2023/02/01",
+  "sizes_available": "Women's and Men's",
+  "rating_average": 4.894736842105263,
+  "rating_count": 38,
+  "difficulty_average": 2.4871794871794872,
+  "favorites_count": 1928,
+  "projects_count": 200,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/48117/835682",
+  "pdf": {
+    "filename": "1309513.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1309513.pdf",
+    "url": "https://pdf.ravelrycache.com/Jjhende/2102160/Basic_Mitten_Pattern_v2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478994&Signature=0WpVlfRzaVoA49V3tMpiFGohMqg%3D&key_expires=1768478994&key=BHEFTIG0M9x-QTTIo6qysw",
+    "size_bytes": 643027
+  }
+}

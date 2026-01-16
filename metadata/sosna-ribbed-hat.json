@@ -1,0 +1,47 @@
+{
+  "id": 1340709,
+  "name": "Sosna Ribbed Hat",
+  "permalink": "sosna-ribbed-hat",
+  "url": "https://www.ravelry.com/patterns/library/sosna-ribbed-hat",
+  "external_url": "",
+  "designer_name": "Edward Lopi",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "Scout",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "1x1 rib",
+    "Ribbing",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Blocking",
+    "In the round",
+    "Top-down",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.75
+  ],
+  "published": "2023/06/01",
+  "sizes_available": "Adult, XL",
+  "rating_average": 4.916666666666667,
+  "rating_count": 12,
+  "difficulty_average": 2.7,
+  "favorites_count": 1108,
+  "projects_count": 72,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/61398/860168",
+  "pdf": {
+    "filename": "1340709.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1340709.pdf",
+    "url": "https://pdf.ravelrycache.com/sosnaknits/1675621/SosnaRibbedHat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483268&Signature=ArcD7yyue3YOPL1iLHYAA708LP8%3D&key_expires=1768483268&key=xgXaJ86GeNcWy5oCsVq4aQ",
+    "size_bytes": 762185
+  }
+}

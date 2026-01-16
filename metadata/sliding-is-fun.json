@@ -1,0 +1,45 @@
+{
+  "id": 1135384,
+  "name": "Sliding is fun",
+  "permalink": "sliding-is-fun",
+  "url": "https://www.ravelry.com/patterns/library/sliding-is-fun",
+  "external_url": "",
+  "designer_name": "srossinifaust",
+  "project_type": "Blanket",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Aran",
+  "materials": [
+    {
+      "fiber": "Cumulus",
+      "pct": null
+    },
+    {
+      "fiber": "Cumulus Rainbow",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    5.0
+  ],
+  "published": "2021/04/01",
+  "sizes_available": "26\" x 29\"",
+  "rating_average": 4.92,
+  "rating_count": 175,
+  "difficulty_average": 1.7454545454545454,
+  "favorites_count": 6660,
+  "projects_count": 848,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/21377/693764",
+  "pdf": {
+    "filename": "1135384.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1135384.pdf",
+    "url": "https://pdf.ravelrycache.com/darnknitanyway/1311338/DKA_Sliding_is_fun_4_26_21_Final.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483096&Signature=KvslDhDmzcs2c7hD1alfSyfzU0k%3D&key_expires=1768483096&key=y1lRDpm_oOin-5kNdETYRg",
+    "size_bytes": 222915
+  }
+}

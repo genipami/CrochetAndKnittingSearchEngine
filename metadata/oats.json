@@ -1,0 +1,49 @@
+{
+  "id": 426232,
+  "name": "Oats",
+  "permalink": "oats",
+  "url": "https://www.ravelry.com/patterns/library/oats",
+  "external_url": "http://tincanknits.com/pattern-SC-oats.html",
+  "designer_name": "tincanknits",
+  "project_type": "Shawl/Wrap",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Aran",
+  "materials": [
+    {
+      "fiber": "Green Label Aran Weight",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.75,
+    3.5,
+    4.0,
+    5.0
+  ],
+  "published": "2013/07/01",
+  "sizes_available": "Child (Adult Short, Adult Long)",
+  "rating_average": 4.717293233082707,
+  "rating_count": 665,
+  "difficulty_average": 1.5580693815987934,
+  "favorites_count": 7727,
+  "projects_count": 2387,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/23602/168262",
+  "pdf": {
+    "filename": "426232.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\426232.pdf",
+    "url": "https://pdf.ravelrycache.com/tincanknits/1805472/OATS-tincanknits.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482160&Signature=IWA4jSL1lvv97DhSWQBgUGv5hEY%3D&key_expires=1768482160&key=vrSHnzJSAIqkCaseBJOKsg",
+    "size_bytes": 3564542
+  }
+}

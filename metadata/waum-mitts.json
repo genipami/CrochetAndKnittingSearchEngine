@@ -1,0 +1,44 @@
+{
+  "id": 814952,
+  "name": "Waum Mitts",
+  "permalink": "waum-mitts",
+  "url": "https://www.ravelry.com/patterns/library/waum-mitts",
+  "external_url": "",
+  "designer_name": "Tracy Hill",
+  "project_type": "Mittens/Gloves",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Classic Wool Worsted",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "In the round"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.75
+  ],
+  "published": "2018/02/01",
+  "sizes_available": "Small, Medium, Large",
+  "rating_average": 4.7207207207207205,
+  "rating_count": 111,
+  "difficulty_average": 2.4038461538461537,
+  "favorites_count": 3816,
+  "projects_count": 530,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/27233/447424",
+  "pdf": {
+    "filename": "814952.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\814952.pdf",
+    "url": "https://pdf.ravelrycache.com/spinlady35/1067840/Waum_Mitts_v.3_1-1-2020.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484089&Signature=EsvHCR0M0ArAeP2hRN3EaWWsckc%3D&key_expires=1768484089&key=oMiy7j-u6WSo2viAN43cxQ",
+    "size_bytes": 917906
+  }
+}

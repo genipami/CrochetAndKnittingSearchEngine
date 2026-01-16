@@ -1,0 +1,46 @@
+{
+  "id": 794938,
+  "name": "Rafa's Hat",
+  "permalink": "rafas-hat",
+  "url": "https://www.ravelry.com/patterns/library/rafas-hat",
+  "external_url": "",
+  "designer_name": "Joji Locatelli",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Lush Worsted",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "1x1 rib",
+    "Ribbing",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "In the round",
+    "Seamless"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.75
+  ],
+  "published": "2017/12/01",
+  "sizes_available": "Small (Medium, Large)",
+  "rating_average": 4.796648044692738,
+  "rating_count": 895,
+  "difficulty_average": 1.8154205607476634,
+  "favorites_count": 16523,
+  "projects_count": 3567,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/2541/432395",
+  "pdf": {
+    "filename": "794938.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\794938.pdf",
+    "url": "https://pdf.ravelrycache.com/jojilocat/772387/Rafa_s_Hat_by_Joji.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482628&Signature=4Gox9ZI5v7C%2FY9zgKLVk65vyFTY%3D&key_expires=1768482628&key=47Nl2GzLhVKIIpdooomkbg",
+    "size_bytes": 1028264
+  }
+}

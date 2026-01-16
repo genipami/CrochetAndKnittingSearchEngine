@@ -1,0 +1,46 @@
+{
+  "id": 1265409,
+  "name": "Worsted Helical Hat",
+  "permalink": "worsted-helical-hat",
+  "url": "https://www.ravelry.com/patterns/library/worsted-helical-hat",
+  "external_url": "",
+  "designer_name": "Andromeda W. Unsure",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Rios",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "In the round",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.75,
+    4.0
+  ],
+  "published": "2022/08/01",
+  "sizes_available": "",
+  "rating_average": 4.75,
+  "rating_count": 16,
+  "difficulty_average": 2.5625,
+  "favorites_count": 863,
+  "projects_count": 113,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/96198/798986",
+  "pdf": {
+    "filename": "1265409.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1265409.pdf",
+    "url": "https://pdf.ravelrycache.com/andromedaunsure/1540034/Updated_Helical_Hat_Knitting_Pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484250&Signature=3rCDx48ElUfTO6HTz6p69wyodgo%3D&key_expires=1768484250&key=pbMmPhROZhbfVdHPVbTTow",
+    "size_bytes": 163432
+  }
+}

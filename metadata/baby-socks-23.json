@@ -1,0 +1,46 @@
+{
+  "id": 501448,
+  "name": "Baby Socks",
+  "permalink": "baby-socks-23",
+  "url": "https://www.ravelry.com/patterns/library/baby-socks-23",
+  "external_url": "",
+  "designer_name": "Kate Atherley",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Painter's Palette Premium Merino (KPPPM)",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Seamless",
+    "Top-down",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.5
+  ],
+  "published": "2014/07/01",
+  "sizes_available": "Newborn (6 months, 9-12 months)",
+  "rating_average": 4.861185983827493,
+  "rating_count": 742,
+  "difficulty_average": 2.2769010043041606,
+  "favorites_count": 11468,
+  "projects_count": 3362,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/2453/219601",
+  "pdf": {
+    "filename": "501448.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\501448.pdf",
+    "url": "https://pdf.ravelrycache.com/wisehilda/372876/BabySock_KateAtherley.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478904&Signature=%2BIBM8JQAdLKdIBomfIPgeBS00%2Bk%3D&key_expires=1768478904&key=t-_ulBxpL1rFWdbZQcKjAA",
+    "size_bytes": 235275
+  }
+}

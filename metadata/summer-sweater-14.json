@@ -1,0 +1,52 @@
+{
+  "id": 1343128,
+  "name": "Summer Sweater",
+  "permalink": "summer-sweater-14",
+  "url": "https://www.ravelry.com/patterns/library/summer-sweater-14",
+  "external_url": "https://kelbournewoolens.com/product/summer-sweater-pattern/",
+  "designer_name": "Courtney Kelley",
+  "project_type": "Tee",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "Mojave",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Ribbing",
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Blocking",
+    "In the round",
+    "Lace",
+    "Raglan",
+    "Seamless",
+    "Top-down",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.25,
+    3.75
+  ],
+  "published": "2023/06/01",
+  "sizes_available": "38.25 (42.25, 46, 50, 54.25, 58.5, 62.75. 66)” [97 (107.5, 117, 127, 138, 148.5, 159.5, 167.5) cm] finished bust.",
+  "rating_average": 4.611111111111111,
+  "rating_count": 36,
+  "difficulty_average": 3.27027027027027,
+  "favorites_count": 4501,
+  "projects_count": 182,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/13463/862028",
+  "pdf": {
+    "filename": "1343128.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1343128.pdf",
+    "url": "https://pdf.ravelrycache.com/KelbourneWoolens/1679811/Kelbourne_Woolens_Summer_Sweater.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483440&Signature=%2FXIOcnVq2ckO368%2FDS40H0YUclA%3D&key_expires=1768483440&key=BvdbiHLMFkNd2pGdZHjUMw",
+    "size_bytes": 2177532
+  }
+}

@@ -40,8 +40,14 @@
   "rating_average": 4.896551724137931,
   "rating_count": 29,
   "difficulty_average": 1.75,
-  "favorites_count": 2795,
-  "projects_count": 157,
+  "favorites_count": 2799,
+  "projects_count": 158,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/99003/869029"
+  "download_url": "http://www.ravelry.com/dls/99003/869029",
+  "pdf": {
+    "filename": "1352152.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1352152.pdf",
+    "url": "https://pdf.ravelrycache.com/elderfloweryc/1696131/GrannyStitchBandana_PATTERN.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480700&Signature=sCMsKPHV7yqcsUgg9dP1Xh%2FxXe0%3D&key_expires=1768480700&key=L3Xfh2E9yJ8cmeWqdtGPoQ",
+    "size_bytes": 27430912
+  }
 }

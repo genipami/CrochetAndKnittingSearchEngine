@@ -1,0 +1,47 @@
+{
+  "id": 726439,
+  "name": "Lola Hat",
+  "permalink": "lola-hat-4",
+  "url": "https://www.ravelry.com/patterns/library/lola-hat-4",
+  "external_url": "",
+  "designer_name": "Erin Gates",
+  "project_type": "Child",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "I Love This Yarn! Solids",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "In the round",
+    "Kitchener stitch",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.75,
+    4.5
+  ],
+  "published": "2017/02/01",
+  "sizes_available": "Newborn, Baby, Child, Adult",
+  "rating_average": 4.654205607476635,
+  "rating_count": 107,
+  "difficulty_average": 1.8265306122448979,
+  "favorites_count": 5170,
+  "projects_count": 543,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/52214/381222",
+  "pdf": {
+    "filename": "726439.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\726439.pdf",
+    "url": "https://pdf.ravelrycache.com/ErinGates/1409414/Lola_Hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481503&Signature=V5%2BHT%2FLGECZZF%2BTvvnDulyLoCpc%3D&key_expires=1768481503&key=UsyrFEGg8C3S4qXnjBGpew",
+    "size_bytes": 1349529
+  }
+}

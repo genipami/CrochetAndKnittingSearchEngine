@@ -1,0 +1,47 @@
+{
+  "id": 1202599,
+  "name": "Viima Beanie",
+  "permalink": "viima-beanie",
+  "url": "https://www.ravelry.com/patterns/library/viima-beanie",
+  "external_url": "",
+  "designer_name": "Veera Välimäki",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Bulky",
+  "materials": [
+    {
+      "fiber": "Suoma Chunky",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Ribbing",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Blocking",
+    "Bottom-up",
+    "In the round",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    8.0
+  ],
+  "published": "2021/12/01",
+  "sizes_available": "1 (2)",
+  "rating_average": 4.792207792207792,
+  "rating_count": 77,
+  "difficulty_average": 2.0405405405405403,
+  "favorites_count": 4452,
+  "projects_count": 426,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/9502/746608",
+  "pdf": {
+    "filename": "1202599.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1202599.pdf",
+    "url": "https://pdf.ravelrycache.com/veera/1425260/Viima_Beanie.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484023&Signature=BPEyBAc9z5zJSRUQyu27OVNPGK0%3D&key_expires=1768484023&key=h_L3X9D0N1nOZ594nY0RWw",
+    "size_bytes": 2005652
+  }
+}

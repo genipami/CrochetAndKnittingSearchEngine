@@ -1,0 +1,57 @@
+{
+  "id": 7357735,
+  "name": "Chaussettes Alpaga",
+  "permalink": "chaussettes-alpaga",
+  "url": "https://www.ravelry.com/patterns/library/chaussettes-alpaga",
+  "external_url": "",
+  "designer_name": "Noemie Jelly",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Alpaca Soxx 4-ply hand dyed",
+      "pct": null
+    },
+    {
+      "fiber": "Jawoll Silk",
+      "pct": null
+    },
+    {
+      "fiber": "Jawoll Superwash 75/25",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Double crochet (dc)",
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Charted",
+    "In the round",
+    "Seamless",
+    "Short rows",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.25
+  ],
+  "published": "2024/07/01",
+  "sizes_available": " Pointures 30 à 45",
+  "rating_average": 4.7272727272727275,
+  "rating_count": 11,
+  "difficulty_average": 2.5,
+  "favorites_count": 960,
+  "projects_count": 59,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/88809/942868",
+  "pdf": {
+    "filename": "7357735.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7357735.pdf",
+    "url": "https://pdf.ravelrycache.com/YouKnitToLearn/1867211/YKTL_chaussettes_alpaga_V1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479418&Signature=CLFLDdFFiihvMPPS5r5BdiLrggU%3D&key_expires=1768479418&key=4nAqSuNrI83U_-yN6-K5lQ",
+    "size_bytes": 5309947
+  }
+}

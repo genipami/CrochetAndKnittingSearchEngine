@@ -1,0 +1,64 @@
+{
+  "id": 426231,
+  "name": "Barley worsted",
+  "permalink": "barley-worsted",
+  "url": "https://www.ravelry.com/patterns/library/barley-worsted",
+  "external_url": "https://www.tincanknits.com/pattern/barley?g=2",
+  "designer_name": "tincanknits",
+  "project_type": "Child",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Cashmerino Worsted",
+      "pct": null
+    },
+    {
+      "fiber": "Gilliatt",
+      "pct": null
+    },
+    {
+      "fiber": "Merino Aran",
+      "pct": null
+    },
+    {
+      "fiber": "Shelter",
+      "pct": null
+    },
+    {
+      "fiber": "Tosh Vintage",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "In the round",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.0,
+    5.0
+  ],
+  "published": "2013/07/01",
+  "sizes_available": "Newborn (Baby,Toddler, Child, Adult S, M, L)",
+  "rating_average": 4.751935534839627,
+  "rating_count": 6329,
+  "difficulty_average": 1.7082533589251438,
+  "favorites_count": 49257,
+  "projects_count": 29863,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/23602/168261",
+  "pdf": {
+    "filename": "426231.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\426231.pdf",
+    "url": "https://pdf.ravelrycache.com/tincanknits/1765002/BARLEY-tincanknits.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478970&Signature=8rjiZNj84h8JLRVTKPTRNDY7kX8%3D&key_expires=1768478970&key=TzJr7AjsCWWN1QaqWO17oA",
+    "size_bytes": 3277080
+  }
+}

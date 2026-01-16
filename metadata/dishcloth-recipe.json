@@ -1,0 +1,52 @@
+{
+  "id": 851008,
+  "name": "Dishcloth Recipe",
+  "permalink": "dishcloth-recipe",
+  "url": "https://www.ravelry.com/patterns/library/dishcloth-recipe",
+  "external_url": "",
+  "designer_name": "Robin Wiest",
+  "project_type": "Dishcloth",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Dishie Multi",
+      "pct": null
+    },
+    {
+      "fiber": "I Love This Cotton! Print",
+      "pct": null
+    },
+    {
+      "fiber": "Sugar'n Cream The Original (Ombres)",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Seamless",
+    "Short rows",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.5
+  ],
+  "published": "2018/07/01",
+  "sizes_available": "",
+  "rating_average": 4.93,
+  "rating_count": 100,
+  "difficulty_average": 1.6041666666666667,
+  "favorites_count": 3026,
+  "projects_count": 655,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/44758/474135",
+  "pdf": {
+    "filename": "851008.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\851008.pdf",
+    "url": "https://pdf.ravelrycache.com/Sit-N-Spin/858210/Dishcloth_Recipe.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479914&Signature=tDOeCRgAqNJPFPtKgc%2BDY6bwP4E%3D&key_expires=1768479914&key=7bXL-rLkg0EmtQh75Inn-w",
+    "size_bytes": 26524777
+  }
+}

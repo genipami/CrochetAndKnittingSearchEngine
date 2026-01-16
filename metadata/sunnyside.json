@@ -1,0 +1,47 @@
+{
+  "id": 241733,
+  "name": "Sunnyside",
+  "permalink": "sunnyside",
+  "url": "https://www.ravelry.com/patterns/library/sunnyside",
+  "external_url": "",
+  "designer_name": "Tanis Lavallee",
+  "project_type": "Baby",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Purple Label Cashmere Sock",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Cable",
+    "Lace",
+    "Single crochet (sc)",
+    "Stockinette stitch"
+  ],
+  "techniques_used": [
+    "Cables",
+    "Lace",
+    "Top-down"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.5
+  ],
+  "published": "2011/04/01",
+  "sizes_available": "3-6 (6-12, 12-18, 18-24) months",
+  "rating_average": 4.441365979381444,
+  "rating_count": 1552,
+  "difficulty_average": 3.196805111821086,
+  "favorites_count": 24726,
+  "projects_count": 5672,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/5968/64462",
+  "pdf": {
+    "filename": "241733.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\241733.pdf",
+    "url": "https://pdf.ravelrycache.com/tanisfiberarts/890542/BabySunnsyide.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483479&Signature=2y5dpThgEvtpVyvWrEaZWzhqw%2FQ%3D&key_expires=1768483479&key=Ekb8IJy95eGfrccaVOemAw",
+    "size_bytes": 817842
+  }
+}

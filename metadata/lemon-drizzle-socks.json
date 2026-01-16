@@ -1,0 +1,49 @@
+{
+  "id": 1159111,
+  "name": "Lemon Drizzle Socks",
+  "permalink": "lemon-drizzle-socks",
+  "url": "https://www.ravelry.com/patterns/library/lemon-drizzle-socks",
+  "external_url": "",
+  "designer_name": "Debbie Ford",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Imperial Sock",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Granny",
+    "Lace",
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Charted",
+    "Kitchener stitch",
+    "Lace",
+    "Top-down",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.25
+  ],
+  "published": "2021/07/01",
+  "sizes_available": "Adult - Small (Medium, Large)",
+  "rating_average": 4.914285714285715,
+  "rating_count": 35,
+  "difficulty_average": 2.764705882352941,
+  "favorites_count": 2111,
+  "projects_count": 146,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/81820/717303",
+  "pdf": {
+    "filename": "1159111.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1159111.pdf",
+    "url": "https://pdf.ravelrycache.com/DinkyDebbie/1361950/Lemon_Drizzle_Socks_published_copy.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481378&Signature=ubDwSjP5vF6ZOI8buayY8snZ1HY%3D&key_expires=1768481378&key=PeaEbMycbZRFAe5abUKrVw",
+    "size_bytes": 389723
+  }
+}

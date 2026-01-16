@@ -1,0 +1,46 @@
+{
+  "id": 2665,
+  "name": "Entrelac Scarf",
+  "permalink": "entrelac-scarf",
+  "url": "https://www.ravelry.com/patterns/library/entrelac-scarf",
+  "external_url": "",
+  "designer_name": "Allison LoCicero",
+  "project_type": "Scarf",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Aran",
+  "materials": [
+    {
+      "fiber": "Silk Garden",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Garter stitch",
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Entrelac",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    5.0
+  ],
+  "published": "2006/10/01",
+  "sizes_available": "one size",
+  "rating_average": 4.586863106200123,
+  "rating_count": 1629,
+  "difficulty_average": 3.4041479820627805,
+  "favorites_count": 22949,
+  "projects_count": 4704,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/4545/32317",
+  "pdf": {
+    "filename": "2665.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\2665.pdf",
+    "url": "https://pdf.ravelrycache.com/allisonlovesyarn/130568/EntrelacScarf.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480130&Signature=fWn%2BC8TknDbYK1h1wpTZUfTTKpQ%3D&key_expires=1768480130&key=wRThXVyt8G9GNK2KSVJ0mQ",
+    "size_bytes": 206231
+  }
+}

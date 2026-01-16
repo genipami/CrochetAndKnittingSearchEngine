@@ -1,0 +1,50 @@
+{
+  "id": 766620,
+  "name": "Stash Basket",
+  "permalink": "stash-basket-9",
+  "url": "https://www.ravelry.com/patterns/library/stash-basket-9",
+  "external_url": "",
+  "designer_name": "Emily Bolduan",
+  "project_type": "Home",
+  "fiber_art": "Crochet",
+  "yarn_weight": "Bulky",
+  "materials": [
+    {
+      "fiber": "Cottonwood",
+      "pct": null
+    },
+    {
+      "fiber": "Woolly 8ply",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Double crochet (dc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "In the round",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [
+    5.0
+  ],
+  "needle_sizes_mm": [],
+  "published": "2017/08/01",
+  "sizes_available": "Small (Large)",
+  "rating_average": 4.762711864406779,
+  "rating_count": 59,
+  "difficulty_average": 1.9830508474576272,
+  "favorites_count": 4330,
+  "projects_count": 232,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/63586/410522",
+  "pdf": {
+    "filename": "766620.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\766620.pdf",
+    "url": "https://pdf.ravelrycache.com/hellomakermaker/1203359/Maker_Maker_Stash_Basket.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483357&Signature=dlSZPuBWKQI8sCi%2Fx8lraeiQ%2B7c%3D&key_expires=1768483357&key=_-XSM4KB7F34yZupLnHdkQ",
+    "size_bytes": 873776
+  }
+}

@@ -33,7 +33,8 @@
   "techniques_used": [
     "In the round",
     "Seamless",
-    "Top-down"
+    "Top-down",
+    "Written"
   ],
   "hook_sizes_mm": [
     2.5,
@@ -45,8 +46,14 @@
   "rating_average": 4.857142857142857,
   "rating_count": 42,
   "difficulty_average": 2.6153846153846154,
-  "favorites_count": 5255,
+  "favorites_count": 5259,
   "projects_count": 119,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/72444/877923"
+  "download_url": "http://www.ravelry.com/dls/72444/877923",
+  "pdf": {
+    "filename": "1364061.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1364061.pdf",
+    "url": "https://pdf.ravelrycache.com/amigurumi-advent/1716260/SchoolOfMagic5_2023_Frog_Freebie_V0.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483773&Signature=9ndUmGiytGPHOIEhCUl1j%2BDui7E%3D&key_expires=1768483773&key=JBVlF1Pum0yndI-r9rsyVA",
+    "size_bytes": 2384465
+  }
 }

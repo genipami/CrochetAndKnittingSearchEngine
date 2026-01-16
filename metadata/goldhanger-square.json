@@ -17,7 +17,9 @@
   "stitches_used": [
     "Single crochet (sc)"
   ],
-  "techniques_used": [],
+  "techniques_used": [
+    "Written"
+  ],
   "hook_sizes_mm": [
     4.5
   ],
@@ -27,8 +29,14 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 117,
+  "favorites_count": 118,
   "projects_count": 13,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/10525/1039572"
+  "download_url": "http://www.ravelry.com/dls/10525/1039572",
+  "pdf": {
+    "filename": "7483198.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7483198.pdf",
+    "url": "https://pdf.ravelrycache.com/tiggerbee/2093935/Goldhanger_square_Dec25_v1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480640&Signature=ilVTZaPjZSa0t0joDNgY4dFg%2BMs%3D&key_expires=1768480640&key=UP6ErSPG0DUYCBYMkfJDRg",
+    "size_bytes": 2963990
+  }
 }

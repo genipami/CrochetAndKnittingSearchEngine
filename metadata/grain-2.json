@@ -1,0 +1,48 @@
+{
+  "id": 714565,
+  "name": "Grain",
+  "permalink": "grain-2",
+  "url": "https://www.ravelry.com/patterns/library/grain-2",
+  "external_url": "http://tincanknits.com/pattern-SC-grain.html",
+  "designer_name": "tincanknits",
+  "project_type": "Shawl/Wrap",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Any gauge - designed for any gauge",
+  "materials": [
+    {
+      "fiber": "Cashmere Aran",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Garter stitch",
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Seamless",
+    "Top-down",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.5,
+    4.5,
+    5.5
+  ],
+  "published": "2016/12/01",
+  "sizes_available": "Finished shawl measures 63\" across and 23\" deep",
+  "rating_average": 4.855072463768116,
+  "rating_count": 345,
+  "difficulty_average": 1.777456647398844,
+  "favorites_count": 9531,
+  "projects_count": 1282,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/23602/372520",
+  "pdf": {
+    "filename": "714565.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\714565.pdf",
+    "url": "https://pdf.ravelrycache.com/tincanknits/1177329/GRAIN-tincanknits.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480676&Signature=ERqVHtUXAYpHASZcFf73%2BQN1cys%3D&key_expires=1768480676&key=i4Np_FVrjdsSUrCmNkIiRA",
+    "size_bytes": 1706119
+  }
+}

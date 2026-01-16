@@ -1,0 +1,52 @@
+{
+  "id": 816327,
+  "name": "Pedestrian",
+  "permalink": "pedestrian-2",
+  "url": "https://www.ravelry.com/patterns/library/pedestrian-2",
+  "external_url": "",
+  "designer_name": "Veronica Ory",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Hot Shot",
+      "pct": null
+    },
+    {
+      "fiber": "Yummy 3-Ply",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Ribbing",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Kitchener stitch",
+    "Top-down",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.25,
+    2.75
+  ],
+  "published": "2018/03/01",
+  "sizes_available": "56, 60, 64, 68, and 72 stitches; finished size determined by gauge",
+  "rating_average": 4.851851851851852,
+  "rating_count": 27,
+  "difficulty_average": 2.625,
+  "favorites_count": 1106,
+  "projects_count": 312,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/5404/448449",
+  "pdf": {
+    "filename": "816327.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\816327.pdf",
+    "url": "https://pdf.ravelrycache.com/GoldenIris/804722/Pedestrian_-_a_basic_sock_pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482306&Signature=oDTvETbFKx9CK86IFg4QeaGoBfA%3D&key_expires=1768482306&key=_9N08QV2nbm8ItfBCbYTlg",
+    "size_bytes": 1086772
+  }
+}

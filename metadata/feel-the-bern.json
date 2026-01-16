@@ -1,0 +1,51 @@
+{
+  "id": 1106957,
+  "name": "Feel the Bern",
+  "permalink": "feel-the-bern",
+  "url": "https://www.ravelry.com/patterns/library/feel-the-bern",
+  "external_url": "",
+  "designer_name": "Caitlin Hunter",
+  "project_type": "Pullover",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Nest Worsted",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Ribbing",
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Blocking",
+    "Colorwork",
+    "In the round",
+    "Seamless",
+    "Short rows",
+    "Stranded colorwork"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.75,
+    4.5
+  ],
+  "published": "2021/01/01",
+  "sizes_available": "1 (2, 3, 4, 5, 6) {7, 8, 9, 10) Finished circumference at bust: 32 (36, 40, 44, 48, 52) {56, 60, 64, 68}”  [81.5 (91.5, 101.5, 112, 122, 132) {142, 152.5, 162.5, 172.5) cm] ",
+  "rating_average": 4.775700934579439,
+  "rating_count": 321,
+  "difficulty_average": 3.3627118644067795,
+  "favorites_count": 11116,
+  "projects_count": 1060,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/55642/670887",
+  "pdf": {
+    "filename": "1106957.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1106957.pdf",
+    "url": "https://pdf.ravelrycache.com/boylandknitworks/1260474/feel_the_bern_final_1.0.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480325&Signature=QbfgRegbNTtQZV2d367pRKVhr6s%3D&key_expires=1768480325&key=McwgTTaeuT2HfdsnX-VCzw",
+    "size_bytes": 4634877
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": 1206464,
+  "name": "Wister Hat",
+  "permalink": "wister-hat",
+  "url": "https://www.ravelry.com/patterns/library/wister-hat",
+  "external_url": "http://kelbournewoolens.com/product/year-of-bulky-hats-kit-wister/",
+  "designer_name": "Courtney Kelley",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Bulky",
+  "materials": [
+    {
+      "fiber": "Germantown Bulky",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Cable",
+    "Slip stitch (sl st)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Blocking",
+    "Bottom-up",
+    "Cables",
+    "Charted",
+    "In the round",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    5.0,
+    6.0
+  ],
+  "published": "2022/01/01",
+  "sizes_available": "18.25 (46.5 cm) circumference, unstretched; 9” (23 cm) height.",
+  "rating_average": 4.765625,
+  "rating_count": 192,
+  "difficulty_average": 2.88,
+  "favorites_count": 8751,
+  "projects_count": 906,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/13463/749524",
+  "pdf": {
+    "filename": "1206464.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1206464.pdf",
+    "url": "https://pdf.ravelrycache.com/KelbourneWoolens/1453058/Year_Of_Bulky_Hats_Wister_Hat_2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484181&Signature=ep81mpu%2FwAPU1%2Fs9wXl4Cdzo7Jo%3D&key_expires=1768484181&key=lRHdy7jW8I6ijXVD5CMAmA",
+    "size_bytes": 1273327
+  }
+}

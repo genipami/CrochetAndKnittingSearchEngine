@@ -1,0 +1,48 @@
+{
+  "id": 983,
+  "name": "Charade",
+  "permalink": "charade",
+  "url": "https://www.ravelry.com/patterns/library/charade",
+  "external_url": "",
+  "designer_name": "Sandra Park",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Signature Superwash Sock",
+      "pct": null
+    },
+    {
+      "fiber": "Variegated Sock",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Kitchener stitch",
+    "Top-down"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.25
+  ],
+  "published": "2009/01/01",
+  "sizes_available": "Woman's size 8-9",
+  "rating_average": 4.417561591914088,
+  "rating_count": 1583,
+  "difficulty_average": 2.2890282131661444,
+  "favorites_count": 12490,
+  "projects_count": 4570,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/110/1284",
+  "pdf": {
+    "filename": "983.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\983.pdf",
+    "url": "https://pdf.ravelrycache.com/Sandra/1144/charade_revised.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479413&Signature=qvHh3JX8wfQOi4WbROdr9kgCmig%3D&key_expires=1768479413&key=FJ-VKwdHNW4t2wz1dk7qSw",
+    "size_bytes": 105005
+  }
+}

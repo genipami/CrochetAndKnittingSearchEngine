@@ -1,0 +1,48 @@
+{
+  "id": 294917,
+  "name": "Brick",
+  "permalink": "brick-2",
+  "url": "https://www.ravelry.com/patterns/library/brick-2",
+  "external_url": "",
+  "designer_name": "Clare Lee",
+  "project_type": "Pullover",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Shelter",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Raglan",
+    "Seamless",
+    "Top-down",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.5,
+    5.5
+  ],
+  "published": null,
+  "sizes_available": "XS, S, M, L, 1X, 2X, 3X",
+  "rating_average": 4.50730411686587,
+  "rating_count": 753,
+  "difficulty_average": 2.5212903225806453,
+  "favorites_count": 34518,
+  "projects_count": 3087,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/25682/90416",
+  "pdf": {
+    "filename": "294917.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\294917.pdf",
+    "url": "https://pdf.ravelrycache.com/claras/158226/Brick_1.7.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479223&Signature=y9M%2FoPhHv7kbsoWT5CmkEstEhtQ%3D&key_expires=1768479223&key=wCtltAgTv2hUsSeamIua_g",
+    "size_bytes": 1652367
+  }
+}

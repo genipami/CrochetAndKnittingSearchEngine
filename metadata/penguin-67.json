@@ -20,7 +20,7 @@
   "techniques_used": [
     "Charted",
     "In the round",
-    "Tapestry crochet"
+    "Written"
   ],
   "hook_sizes_mm": [
     4.0
@@ -34,5 +34,11 @@
   "favorites_count": 4187,
   "projects_count": 504,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/71531/514884"
+  "download_url": "http://www.ravelry.com/dls/71531/514884",
+  "pdf": {
+    "filename": "904002.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\904002.pdf",
+    "url": "https://pdf.ravelrycache.com/jtiiine/1157891/woobles_penguin_pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482322&Signature=zctuQDNSVD0vDQD642%2FsfjFryeQ%3D&key_expires=1768482322&key=i13q2SYDR_sI9mWN3k1oDw",
+    "size_bytes": 1084109
+  }
 }

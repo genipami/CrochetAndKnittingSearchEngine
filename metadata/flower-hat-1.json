@@ -1,0 +1,48 @@
+{
+  "id": 7490314,
+  "name": "Flower Hat #1",
+  "permalink": "flower-hat-1",
+  "url": "https://www.ravelry.com/patterns/library/flower-hat-1",
+  "external_url": "",
+  "designer_name": "Madelyn Bren",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Classic Wool Worsted",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "Charted",
+    "Colorwork",
+    "In the round",
+    "Stranded colorwork",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.5
+  ],
+  "published": "2025/12/01",
+  "sizes_available": "",
+  "rating_average": 0,
+  "rating_count": null,
+  "difficulty_average": 0,
+  "favorites_count": 822,
+  "projects_count": 7,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/115341/1046987",
+  "pdf": {
+    "filename": "7490314.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7490314.pdf",
+    "url": "https://pdf.ravelrycache.com/madelynbmaddy/2112674/FlowerHatPattern.3.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480448&Signature=rmWgVgyRYUGad7PGQuHDpKuLbX8%3D&key_expires=1768480448&key=LGVo3F2q09wL-VSS1l856w",
+    "size_bytes": 441587
+  }
+}

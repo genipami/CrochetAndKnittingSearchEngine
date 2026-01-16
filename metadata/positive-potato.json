@@ -17,7 +17,8 @@
   "stitches_used": [],
   "techniques_used": [
     "In the round",
-    "Top-down"
+    "Top-down",
+    "Written"
   ],
   "hook_sizes_mm": [
     3.25
@@ -28,8 +29,14 @@
   "rating_average": 4.926829268292683,
   "rating_count": 41,
   "difficulty_average": 1.8974358974358974,
-  "favorites_count": 3407,
+  "favorites_count": 3408,
   "projects_count": 189,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/98668/853105"
+  "download_url": "http://www.ravelry.com/dls/98668/853105",
+  "pdf": {
+    "filename": "1309249.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1309249.pdf",
+    "url": "https://pdf.ravelrycache.com/Munchi8175/1659038/Positive_Potato_.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482539&Signature=WMtfHERYl3VtkZVeDgu8esuXs%2Fg%3D&key_expires=1768482539&key=sbwybKPyRFNc1RfmS7kkug",
+    "size_bytes": 671024
+  }
 }

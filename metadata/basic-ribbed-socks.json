@@ -1,0 +1,46 @@
+{
+  "id": 3156,
+  "name": "Basic Ribbed Socks",
+  "permalink": "basic-ribbed-socks",
+  "url": "https://www.ravelry.com/patterns/library/basic-ribbed-socks",
+  "external_url": "http://kateatherley.blogspot.com.au/search?q=basic+ribbed",
+  "designer_name": "Kate Atherley",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Merino 2/6",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Lace",
+    "Ribbing",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Lace",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.5
+  ],
+  "published": "2006/04/01",
+  "sizes_available": "",
+  "rating_average": 4.500351370344343,
+  "rating_count": 2846,
+  "difficulty_average": 2.4473333333333334,
+  "favorites_count": 26218,
+  "projects_count": 14208,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/2453/12117",
+  "pdf": {
+    "filename": "3156.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\3156.pdf",
+    "url": "https://pdf.ravelrycache.com/kateatherley/2056537/Atherley_Basic_Ribbed_Sock_v202203.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478998&Signature=qsuyq5eJSP6pOyCyweBEkNvmwjs%3D&key_expires=1768478998&key=l16fiF0u-lENYJ-XIbzXWQ",
+    "size_bytes": 1760994
+  }
+}

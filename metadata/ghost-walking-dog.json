@@ -15,7 +15,9 @@
     }
   ],
   "stitches_used": [],
-  "techniques_used": [],
+  "techniques_used": [
+    "Written"
+  ],
   "hook_sizes_mm": [
     3.5
   ],
@@ -25,7 +27,7 @@
   "rating_average": 4.888888888888889,
   "rating_count": 18,
   "difficulty_average": 2.8,
-  "favorites_count": 3126,
+  "favorites_count": 3130,
   "projects_count": 79,
   "free_ravelry_download": false,
   "download_url": "http://www.ravelry.com/purchase/once-upon-a-cheerio-designs/952257"

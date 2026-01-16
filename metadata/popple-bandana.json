@@ -1,0 +1,56 @@
+{
+  "id": 7340805,
+  "name": "Popple Bandana",
+  "permalink": "popple-bandana",
+  "url": "https://www.ravelry.com/patterns/library/popple-bandana",
+  "external_url": "https://thelambandkid.com",
+  "designer_name": "The Lamb & Kid Designs",
+  "project_type": "Scarf",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Birdie",
+      "pct": null
+    },
+    {
+      "fiber": "Elmer Fingering",
+      "pct": null
+    },
+    {
+      "fiber": "Elmer Tweed Fingering",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Slip stitch (sl st)",
+    "Slip stitch texture",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Blocking",
+    "Bottom-up",
+    "Mosaic",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.0
+  ],
+  "published": "2024/05/01",
+  "sizes_available": "One size.",
+  "rating_average": 4.857142857142857,
+  "rating_count": 21,
+  "difficulty_average": 2.857142857142857,
+  "favorites_count": 5015,
+  "projects_count": 128,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/91137/929711",
+  "pdf": {
+    "filename": "7340805.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7340805.pdf",
+    "url": "https://pdf.ravelrycache.com/TheLambAndKid/2054529/tlk_PoppleBandana_v2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482520&Signature=8wIVsp3MttkXIcujclIvaFryF2g%3D&key_expires=1768482520&key=9wkjCi9O9bJ8YVvHx-GQbw",
+    "size_bytes": 2024472
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 321018,
+  "name": "Aramis",
+  "permalink": "aramis-2",
+  "url": "https://www.ravelry.com/patterns/library/aramis-2",
+  "external_url": "",
+  "designer_name": "Caoua Coffee",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Tosh Sock",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Charted",
+    "In the round"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.25
+  ],
+  "published": "2012/05/01",
+  "sizes_available": "men's",
+  "rating_average": 4.650406504065041,
+  "rating_count": 369,
+  "difficulty_average": 2.3549295774647887,
+  "favorites_count": 6818,
+  "projects_count": 1220,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/2834/103908",
+  "pdf": {
+    "filename": "321018.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\321018.pdf",
+    "url": "https://pdf.ravelrycache.com/CaouaCoffee/162586/Aramis_musketeer_socks_v1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478796&Signature=SFQ06WGAkFEvgOsmWq%2BLrtpaEaI%3D&key_expires=1768478796&key=uzZi7NuWvw5W2zMUha3yqg",
+    "size_bytes": 3593743
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": 7377562,
+  "name": "A Simple Affair",
+  "permalink": "a-simple-affair",
+  "url": "https://www.ravelry.com/patterns/library/a-simple-affair",
+  "external_url": "",
+  "designer_name": "Sonder Yarn Co.",
+  "project_type": "Shawl/Wrap",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Lace",
+  "materials": [
+    {
+      "fiber": "Halo",
+      "pct": null
+    },
+    {
+      "fiber": "Haven",
+      "pct": null
+    },
+    {
+      "fiber": "Sunday Morning 4 Ply (Fingering)",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Eyelet lace",
+    "Garter stitch",
+    "Lace",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Blocking",
+    "Lace",
+    "Top-down"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.5,
+    5.0
+  ],
+  "published": "2024/10/01",
+  "sizes_available": "",
+  "rating_average": 4.961538461538462,
+  "rating_count": 26,
+  "difficulty_average": 1.9565217391304348,
+  "favorites_count": 6602,
+  "projects_count": 110,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/92316/958542",
+  "pdf": {
+    "filename": "7377562.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7377562.pdf",
+    "url": "https://pdf.ravelrycache.com/SonderYarnCo/1903030/A_SIMPLE_AFFAIR_-_FINAL.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478615&Signature=ueCUQRI4%2BG%2Bb6d2Di7SUkVDhH1s%3D&key_expires=1768478615&key=0JnxBh2n8-C0tr4E7seG4w",
+    "size_bytes": 1831521
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": 7321923,
+  "name": "The Brioche Beanie",
+  "permalink": "the-brioche-beanie",
+  "url": "https://www.ravelry.com/patterns/library/the-brioche-beanie",
+  "external_url": "",
+  "designer_name": "Marte Kamperud",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Sport",
+  "materials": [
+    {
+      "fiber": "Alpaca Silver",
+      "pct": null
+    },
+    {
+      "fiber": "Cool Wool",
+      "pct": null
+    },
+    {
+      "fiber": "DROPS Baby Merino",
+      "pct": null
+    },
+    {
+      "fiber": "DROPS Brushed Alpaca Silk",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Brioche stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "Brioche",
+    "In the round",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.5,
+    4.0
+  ],
+  "published": "2024/03/01",
+  "sizes_available": "S/M (M/L)",
+  "rating_average": 4.857142857142857,
+  "rating_count": 14,
+  "difficulty_average": 4.5,
+  "favorites_count": 2362,
+  "projects_count": 75,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/104784/914881",
+  "pdf": {
+    "filename": "7321923.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7321923.pdf",
+    "url": "https://pdf.ravelrycache.com/nanneknitwear/1979455/The_Brioche_Beanie_-_English_Knitting_Pattern_by_nanneknitwear.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483585&Signature=TqJhbxH8hFIZx%2FAlQIRTyxPJHDE%3D&key_expires=1768483585&key=0Wmifa106K9RmZZrd35gvw",
+    "size_bytes": 933351
+  }
+}

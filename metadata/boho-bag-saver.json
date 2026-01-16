@@ -22,7 +22,9 @@
     "Treble crochet (tr)",
     "V-stitch"
   ],
-  "techniques_used": [],
+  "techniques_used": [
+    "Written"
+  ],
   "hook_sizes_mm": [
     5.0
   ],
@@ -32,8 +34,8 @@
   "rating_average": 4.822916666666667,
   "rating_count": 96,
   "difficulty_average": 2.5806451612903225,
-  "favorites_count": 9642,
-  "projects_count": 403,
+  "favorites_count": 9646,
+  "projects_count": 404,
   "free_ravelry_download": false,
   "download_url": "http://www.ravelry.com/purchase/days-crochet-nc/621909"
 }

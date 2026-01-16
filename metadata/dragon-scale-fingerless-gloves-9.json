@@ -27,7 +27,8 @@
   ],
   "techniques_used": [
     "In the round",
-    "Seamless"
+    "Seamless",
+    "Written"
   ],
   "hook_sizes_mm": [
     3.5
@@ -38,8 +39,14 @@
   "rating_average": 4.676966292134831,
   "rating_count": 356,
   "difficulty_average": 3.334319526627219,
-  "favorites_count": 23105,
+  "favorites_count": 23113,
   "projects_count": 1446,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/65489/484197"
+  "download_url": "http://www.ravelry.com/dls/65489/484197",
+  "pdf": {
+    "filename": "864326.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\864326.pdf",
+    "url": "https://pdf.ravelrycache.com/TheYarnivoreUK/952259/Dragon_Scale_Gloves_Adult_pattern_v2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479961&Signature=fH38w%2BqZudd2Bx7%2Bo1aKvaYpIGY%3D&key_expires=1768479961&key=Pb1GsA_G8Pip10Xc7Zvgiw",
+    "size_bytes": 254282
+  }
 }

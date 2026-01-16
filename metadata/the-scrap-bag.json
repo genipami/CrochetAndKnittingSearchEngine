@@ -1,0 +1,64 @@
+{
+  "id": 1264477,
+  "name": "The Scrap Bag",
+  "permalink": "the-scrap-bag",
+  "url": "https://www.ravelry.com/patterns/library/the-scrap-bag",
+  "external_url": "",
+  "designer_name": "Anabelle Chan",
+  "project_type": "Bag",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Alpaca 2",
+      "pct": null
+    },
+    {
+      "fiber": "DROPS Baby Merino",
+      "pct": null
+    },
+    {
+      "fiber": "DROPS Brushed Alpaca Silk",
+      "pct": null
+    },
+    {
+      "fiber": "Silk Mohair",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Lace",
+    "Puff stitch",
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "In the round",
+    "Lace",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [
+    2.5
+  ],
+  "needle_sizes_mm": [
+    3.0
+  ],
+  "published": "2022/08/01",
+  "sizes_available": "S(M)L",
+  "rating_average": 4.818181818181818,
+  "rating_count": 22,
+  "difficulty_average": 2.1818181818181817,
+  "favorites_count": 5425,
+  "projects_count": 164,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/96146/798227",
+  "pdf": {
+    "filename": "1264477.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1264477.pdf",
+    "url": "https://pdf.ravelrycache.com/shecraftslove/1538243/The_Scrap_Bag.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483674&Signature=OJ2dpOoj1armdDu1jgbBTnm4ZRI%3D&key_expires=1768483674&key=_WhoNODWLyWkzRtob1f4dQ",
+    "size_bytes": 4320969
+  }
+}

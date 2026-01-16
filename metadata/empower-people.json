@@ -1,0 +1,45 @@
+{
+  "id": 1047981,
+  "name": "emPower People",
+  "permalink": "empower-people",
+  "url": "https://www.ravelry.com/patterns/library/empower-people",
+  "external_url": "",
+  "designer_name": "Casapinka",
+  "project_type": "Shawl/Wrap",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "SW Merino DK",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Double crochet (dc)",
+    "Garter stitch",
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Blocking"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.5
+  ],
+  "published": "2020/07/01",
+  "sizes_available": "Cat - large man",
+  "rating_average": 4.8354430379746836,
+  "rating_count": 632,
+  "difficulty_average": 1.63884430176565,
+  "favorites_count": 8028,
+  "projects_count": 2165,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/14258/623360",
+  "pdf": {
+    "filename": "1047981.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1047981.pdf",
+    "url": "https://pdf.ravelrycache.com/casapinka/1157783/Empowerpeopleknitpattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480117&Signature=3AXEyF6uMd44HsHMADeSFF7y85E%3D&key_expires=1768480117&key=VIHjHIpPBHTAaMLkeQUndA",
+    "size_bytes": 379895
+  }
+}

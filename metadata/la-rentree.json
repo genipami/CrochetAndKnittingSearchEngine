@@ -1,0 +1,49 @@
+{
+  "id": 7370896,
+  "name": "La Rentrée",
+  "permalink": "la-rentree",
+  "url": "https://www.ravelry.com/patterns/library/la-rentree",
+  "external_url": "",
+  "designer_name": "Sonder Yarn Co.",
+  "project_type": "Pullover",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "Halo",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Lace",
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Blocking",
+    "In the round",
+    "Lace",
+    "Top-down"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.0,
+    4.5
+  ],
+  "published": "2024/09/01",
+  "sizes_available": "41.25 (44.75, 46.75, 51.5) (54, 55.25, 57.25) (61.5, 65.75, 72)\"",
+  "rating_average": 4.641025641025641,
+  "rating_count": 39,
+  "difficulty_average": 2.4864864864864864,
+  "favorites_count": 16428,
+  "projects_count": 251,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/92316/952966",
+  "pdf": {
+    "filename": "7370896.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7370896.pdf",
+    "url": "https://pdf.ravelrycache.com/SonderYarnCo/1890582/La_Rentree_V.1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481268&Signature=2QglnJPQvDYYitcnb7SFy8JYIzY%3D&key_expires=1768481268&key=WSj-SH5moJT6k1ksK07_-w",
+    "size_bytes": 2639689
+  }
+}

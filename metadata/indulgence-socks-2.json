@@ -1,0 +1,49 @@
+{
+  "id": 1220587,
+  "name": "Indulgence Socks",
+  "permalink": "indulgence-socks-2",
+  "url": "https://www.ravelry.com/patterns/library/indulgence-socks-2",
+  "external_url": "",
+  "designer_name": "ZwitchZ",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "DROPS Kid-Silk",
+      "pct": null
+    },
+    {
+      "fiber": "Palette",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.5,
+    3.0
+  ],
+  "published": "2022/02/01",
+  "sizes_available": "1 (2) 3 (4)",
+  "rating_average": 4.525,
+  "rating_count": 40,
+  "difficulty_average": 2.6470588235294117,
+  "favorites_count": 6686,
+  "projects_count": 283,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/76835/761257",
+  "pdf": {
+    "filename": "1220587.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1220587.pdf",
+    "url": "https://pdf.ravelrycache.com/ZwitchZ/1461274/Indulgence_Socks_ZwitchZ_1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481008&Signature=ouqM40MHR1q2CVX4hY8uzyr4BIw%3D&key_expires=1768481008&key=AFo9ZMm9NSYaOjsC7w3Mjw",
+    "size_bytes": 3313387
+  }
+}

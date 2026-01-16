@@ -1,0 +1,49 @@
+{
+  "id": 437525,
+  "name": "Rye worsted",
+  "permalink": "rye-worsted",
+  "url": "https://www.ravelry.com/patterns/library/rye-worsted",
+  "external_url": "https://tincanknits.com/pattern/rye?g=1",
+  "designer_name": "tincanknits",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Plucky Sweater DK",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Kitchener stitch",
+    "Seamless",
+    "Short rows",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.25,
+    3.75
+  ],
+  "published": "2013/09/01",
+  "sizes_available": "Newborn (Baby, Toddler, Child, Adult S, M, L)",
+  "rating_average": 4.73250699720112,
+  "rating_count": 2501,
+  "difficulty_average": 2.295993458708095,
+  "favorites_count": 42721,
+  "projects_count": 10914,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/23602/175845",
+  "pdf": {
+    "filename": "437525.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\437525.pdf",
+    "url": "https://pdf.ravelrycache.com/tincanknits/1806886/RYE-WORSTED-tincanknits.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482826&Signature=t88fR5Hesd9Sv0%2B8xIKc9N2E4Oc%3D&key_expires=1768482826&key=DvPTIkjRKQ4a81dk0-n0aA",
+    "size_bytes": 3699979
+  }
+}

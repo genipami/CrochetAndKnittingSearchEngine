@@ -1,0 +1,46 @@
+{
+  "id": 1276893,
+  "name": "Bewind Hat",
+  "permalink": "bewind-hat",
+  "url": "https://www.ravelry.com/patterns/library/bewind-hat",
+  "external_url": "http://yarnhero.com",
+  "designer_name": "Lynnell Koser",
+  "project_type": "Child",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Merge Worsted",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Ribbing",
+    "Treble crochet (tr)",
+    "Twisted stitch"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Seamless"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.75,
+    4.5
+  ],
+  "published": "2022/10/01",
+  "sizes_available": "Child (Adult S/M, Adult L, Adult XL)",
+  "rating_average": 4.873949579831932,
+  "rating_count": 119,
+  "difficulty_average": 2.537037037037037,
+  "favorites_count": 4221,
+  "projects_count": 571,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/7186/808922",
+  "pdf": {
+    "filename": "1276893.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1276893.pdf",
+    "url": "https://pdf.ravelrycache.com/yarnhero/1560227/bewind_hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479110&Signature=kiuneGIiea%2FYX5kwnFCGcH6Ys%2BE%3D&key_expires=1768479110&key=7Pv5xHh0ZacHYAEjpA31_w",
+    "size_bytes": 911399
+  }
+}

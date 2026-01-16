@@ -27,7 +27,8 @@
     "Slip stitch (sl st)"
   ],
   "techniques_used": [
-    "Top-down"
+    "Top-down",
+    "Written"
   ],
   "hook_sizes_mm": [
     4.5,
@@ -39,8 +40,14 @@
   "rating_average": 5.0,
   "rating_count": 3,
   "difficulty_average": 3.0,
-  "favorites_count": 2454,
+  "favorites_count": 2455,
   "projects_count": 166,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/78093/863348"
+  "download_url": "http://www.ravelry.com/dls/78093/863348",
+  "pdf": {
+    "filename": "1344796.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1344796.pdf",
+    "url": "https://pdf.ravelrycache.com/CuddlyCrafts/1682831/Brain_Eater_Fish_Hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479205&Signature=SykJqXiX396WHZAYM1UlzYW4aLI%3D&key_expires=1768479205&key=RgUoSEQHsq73MgNHDROD1g",
+    "size_bytes": 368869
+  }
 }

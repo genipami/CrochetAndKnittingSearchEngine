@@ -1,0 +1,54 @@
+{
+  "id": 1260581,
+  "name": "Ribbed Beanie",
+  "permalink": "ribbed-beanie-43",
+  "url": "https://www.ravelry.com/patterns/library/ribbed-beanie-43",
+  "external_url": "",
+  "designer_name": "Emily Bolduan",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "Eva",
+      "pct": null
+    },
+    {
+      "fiber": "Organic Merino 8 ply DK",
+      "pct": null
+    },
+    {
+      "fiber": "Woolly 8ply",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "2x2 rib",
+    "Ribbing",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.5
+  ],
+  "published": "2022/08/01",
+  "sizes_available": "Adult (approx 52cm head circumference)",
+  "rating_average": 4.761904761904762,
+  "rating_count": 105,
+  "difficulty_average": 1.836734693877551,
+  "favorites_count": 6153,
+  "projects_count": 578,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/63586/795259",
+  "pdf": {
+    "filename": "1260581.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1260581.pdf",
+    "url": "https://pdf.ravelrycache.com/hellomakermaker/1531751/Maker_Maker_Ribbed_Beanie.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482699&Signature=PkbPHvyyV4ufRIONQOsFNE8NqcQ%3D&key_expires=1768482699&key=CMoFRbWR2mrnVgZ1FcsCxg",
+    "size_bytes": 776895
+  }
+}

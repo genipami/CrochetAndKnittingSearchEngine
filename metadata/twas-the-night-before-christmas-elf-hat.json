@@ -18,7 +18,8 @@
     "Double crochet (dc)"
   ],
   "techniques_used": [
-    "Bottom-up"
+    "Bottom-up",
+    "Written"
   ],
   "hook_sizes_mm": [
     5.0
@@ -29,8 +30,14 @@
   "rating_average": 5.0,
   "rating_count": 4,
   "difficulty_average": 3.0,
-  "favorites_count": 327,
+  "favorites_count": 328,
   "projects_count": 12,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/41442/1041038"
+  "download_url": "http://www.ravelry.com/dls/41442/1041038",
+  "pdf": {
+    "filename": "7482887.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7482887.pdf",
+    "url": "https://pdf.ravelrycache.com/dragonbird/2097468/Twas_the_night_before_christmas_elf_hat_FINAL.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483899&Signature=W7819AiO%2BdOWifJmnxcSFCUvBoY%3D&key_expires=1768483899&key=G5OsoI_v7IYTVaDopFNwHw",
+    "size_bytes": 459361
+  }
 }

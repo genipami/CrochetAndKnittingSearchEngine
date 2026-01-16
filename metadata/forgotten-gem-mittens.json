@@ -1,0 +1,55 @@
+{
+  "id": 7491700,
+  "name": "Forgotten Gem Mittens",
+  "permalink": "forgotten-gem-mittens",
+  "url": "https://www.ravelry.com/patterns/library/forgotten-gem-mittens",
+  "external_url": "",
+  "designer_name": "Helen Bingham",
+  "project_type": "Mittens/Gloves",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Bighorn Sock",
+      "pct": null
+    },
+    {
+      "fiber": "Highwood Sock",
+      "pct": null
+    },
+    {
+      "fiber": "Pintler Sock",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "2x2 rib",
+    "Garter stitch",
+    "Moss/Linen stitch",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.25
+  ],
+  "published": "2026/01/01",
+  "sizes_available": "Small, Medium and Large",
+  "rating_average": 0,
+  "rating_count": null,
+  "difficulty_average": 0,
+  "favorites_count": 1496,
+  "projects_count": 6,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/3457/1047868",
+  "pdf": {
+    "filename": "7491700.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7491700.pdf",
+    "url": "https://pdf.ravelrycache.com/Needlerunner/2113670/hbd.mitten.forgottengemmitten.docx__2_.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480477&Signature=2z5TcLlewE7X6dLMxHH%2BshEHVl4%3D&key_expires=1768480477&key=iZAcQKQ6p2ueS_uZlNwlQQ",
+    "size_bytes": 1575829
+  }
+}

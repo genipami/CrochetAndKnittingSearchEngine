@@ -1,0 +1,46 @@
+{
+  "id": 1229185,
+  "name": "The Til",
+  "permalink": "the-til",
+  "url": "https://www.ravelry.com/patterns/library/the-til",
+  "external_url": "",
+  "designer_name": "Sonder Yarn Co.",
+  "project_type": "Shawl/Wrap",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Sunday Morning 4 Ply (Fingering)",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Garter stitch",
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Modular",
+    "Short rows",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.0
+  ],
+  "published": "2022/03/01",
+  "sizes_available": "One size",
+  "rating_average": 4.861111111111111,
+  "rating_count": 36,
+  "difficulty_average": 2.0303030303030303,
+  "favorites_count": 4651,
+  "projects_count": 127,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/92316/768653",
+  "pdf": {
+    "filename": "1229185.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1229185.pdf",
+    "url": "https://pdf.ravelrycache.com/SonderYarnCo/1472616/The_TIL_-_FINAL.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483691&Signature=AIgJpj%2F4ynlYVlNng4dNuHCPOy0%3D&key_expires=1768483691&key=BicDNy_7bXWdBK7UOXTZIA",
+    "size_bytes": 1586574
+  }
+}

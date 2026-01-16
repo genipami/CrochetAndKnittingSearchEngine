@@ -1,0 +1,45 @@
+{
+  "id": 568452,
+  "name": "Jasmine Scarf",
+  "permalink": "jasmine-scarf-3",
+  "url": "https://www.ravelry.com/patterns/library/jasmine-scarf-3",
+  "external_url": "https://www.purlsoho.com/create/2015/03/25/jasmine-scarf/",
+  "designer_name": "Purl Soho",
+  "project_type": "Scarf",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Flax Down",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Cables",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.0
+  ],
+  "published": "2015/03/01",
+  "sizes_available": "9½ x 60 (80) inches",
+  "rating_average": 4.615984405458089,
+  "rating_count": 513,
+  "difficulty_average": 2.810246679316888,
+  "favorites_count": 45638,
+  "projects_count": 1983,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/39500/268117",
+  "pdf": {
+    "filename": "568452.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\568452.pdf",
+    "url": "https://pdf.ravelrycache.com/purlsoho/461349/Purl_Soho_Purl_Bee-Jasmine_Scarf-French.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481064&Signature=mar4CiSV1yNqQ3CwGd468q4XYqg%3D&key_expires=1768481064&key=olN_FRfo0tuAahYdTuc6bg",
+    "size_bytes": 312936
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": 1294985,
+  "name": "Boyfriend Hat",
+  "permalink": "boyfriend-hat-9",
+  "url": "https://www.ravelry.com/patterns/library/boyfriend-hat-9",
+  "external_url": "",
+  "designer_name": "Andrea Riddle",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Bulky",
+  "materials": [
+    {
+      "fiber": "Chunky",
+      "pct": null
+    },
+    {
+      "fiber": "Noventa",
+      "pct": null
+    },
+    {
+      "fiber": "The Chubster",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Lace",
+    "Ribbing",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Lace"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    6.5,
+    8.0
+  ],
+  "published": "2022/12/01",
+  "sizes_available": "Adult",
+  "rating_average": 4.824324324324325,
+  "rating_count": 74,
+  "difficulty_average": 1.7428571428571429,
+  "favorites_count": 3063,
+  "projects_count": 402,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/59777/823798",
+  "pdf": {
+    "filename": "1294985.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1294985.pdf",
+    "url": "https://pdf.ravelrycache.com/TheYarnClub/1599737/Boyfriend_Hat_v3.docx.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479202&Signature=QqRGaxxntU6WEMi4zk3sbhZpKF0%3D&key_expires=1768479202&key=jDOMlrM70p5DNv7D3SmVNg",
+    "size_bytes": 231041
+  }
+}

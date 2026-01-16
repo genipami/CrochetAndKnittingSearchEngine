@@ -1,0 +1,48 @@
+{
+  "id": 1159708,
+  "name": "DK Weight Vanilla Socks",
+  "permalink": "dk-weight-vanilla-socks",
+  "url": "https://www.ravelry.com/patterns/library/dk-weight-vanilla-socks",
+  "external_url": "",
+  "designer_name": "Crazy Sock Lady Designs",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "Mandi's Makings DK Weight",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Cable",
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Cables",
+    "In the round",
+    "Kitchener stitch",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.25
+  ],
+  "published": "2021/07/01",
+  "sizes_available": "Small(Medium, Large) ",
+  "rating_average": 4.913843175217812,
+  "rating_count": 1033,
+  "difficulty_average": 2.3642039542143602,
+  "favorites_count": 23450,
+  "projects_count": 9274,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/27467/712687",
+  "pdf": {
+    "filename": "1159708.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1159708.pdf",
+    "url": "https://pdf.ravelrycache.com/thecrazysocklady/1352621/DK_Vanilla_Pattern_Final.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479938&Signature=83PPCBpKxv00rvRH%2FvG1gQK2SdM%3D&key_expires=1768479938&key=0I9pR7BGfY42BknZUrzSfA",
+    "size_bytes": 305332
+  }
+}

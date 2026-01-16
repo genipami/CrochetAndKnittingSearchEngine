@@ -1,0 +1,46 @@
+{
+  "id": 1135588,
+  "name": "Peggotty",
+  "permalink": "peggotty",
+  "url": "https://www.ravelry.com/patterns/library/peggotty",
+  "external_url": "",
+  "designer_name": "Claire Slade",
+  "project_type": "Child",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Bulky",
+  "materials": [
+    {
+      "fiber": "Semilla Grosso GOTS",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Garter stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Charted",
+    "In the round",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    5.0
+  ],
+  "published": "2021/04/01",
+  "sizes_available": "S, M, L",
+  "rating_average": 4.764705882352941,
+  "rating_count": 34,
+  "difficulty_average": 2.4242424242424243,
+  "favorites_count": 1863,
+  "projects_count": 193,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/5592/693887",
+  "pdf": {
+    "filename": "1135588.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1135588.pdf",
+    "url": "https://pdf.ravelrycache.com/VerilyKnits/1311537/Peggotty.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482311&Signature=gU%2FXbsiSOcDQGlZ9Vky2rP5arfw%3D&key_expires=1768482311&key=qAsVgodpops5ZB22LylRhA",
+    "size_bytes": 4656333
+  }
+}

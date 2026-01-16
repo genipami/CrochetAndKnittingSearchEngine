@@ -1,0 +1,54 @@
+{
+  "id": 226359,
+  "name": "Rikke Hat",
+  "permalink": "rikke-hat",
+  "url": "https://www.ravelry.com/patterns/library/rikke-hat",
+  "external_url": "",
+  "designer_name": "Sarah Young",
+  "project_type": "Child",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "House DK",
+      "pct": null
+    },
+    {
+      "fiber": "House DK Single Ply",
+      "pct": null
+    },
+    {
+      "fiber": "Tosh DK",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Garter stitch"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "In the round",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.5,
+    4.5
+  ],
+  "published": "2011/01/01",
+  "sizes_available": "adult - between 21-23\"",
+  "rating_average": 4.626289419392868,
+  "rating_count": 3393,
+  "difficulty_average": 1.646162690428284,
+  "favorites_count": 44124,
+  "projects_count": 13862,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/12275/299635",
+  "pdf": {
+    "filename": "226359.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\226359.pdf",
+    "url": "https://pdf.ravelrycache.com/PDXBeth/659520/Rikke-v2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482718&Signature=OalNfI3BEl1QsCF5B5JP%2BcuTvYo%3D&key_expires=1768482718&key=7CoZ0rKr2_Z9ZcGi8zNV9g",
+    "size_bytes": 158363
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 1119823,
+  "name": "Plaid Toque",
+  "permalink": "plaid-toque",
+  "url": "https://www.ravelry.com/patterns/library/plaid-toque",
+  "external_url": "",
+  "designer_name": "Lisa Overby",
+  "project_type": "Baby",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "Estelle Double Knit",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Blocking",
+    "Stranded colorwork"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.0,
+    4.5
+  ],
+  "published": "2021/01/01",
+  "sizes_available": "Baby/Toddler, Ladies/Small, Large/Men",
+  "rating_average": 4.869565217391305,
+  "rating_count": 46,
+  "difficulty_average": 3.4285714285714284,
+  "favorites_count": 3308,
+  "projects_count": 199,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/69721/982262",
+  "pdf": {
+    "filename": "1119823.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1119823.pdf",
+    "url": "https://pdf.ravelrycache.com/YarnTwistersYYC/1958354/Plaid_Toque.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482450&Signature=PDSw06iiL8e2S%2FYfiUvAvmtMxfg%3D&key_expires=1768482450&key=Ximw7UtKW-B_gIBDMCHKWg",
+    "size_bytes": 1599887
+  }
+}

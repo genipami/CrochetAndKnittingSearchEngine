@@ -1,0 +1,49 @@
+{
+  "id": 1001240,
+  "name": "Bandana Cowl No. 4",
+  "permalink": "bandana-cowl-no-4",
+  "url": "https://www.ravelry.com/patterns/library/bandana-cowl-no-4",
+  "external_url": "",
+  "designer_name": "Cleo Malone",
+  "project_type": "Shawl/Wrap",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "Nest",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Broken rib",
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Blocking",
+    "In the round",
+    "Seamless",
+    "Top-down",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.5
+  ],
+  "published": "2020/02/01",
+  "sizes_available": "one size",
+  "rating_average": 4.7682926829268295,
+  "rating_count": 82,
+  "difficulty_average": 1.7375,
+  "favorites_count": 3019,
+  "projects_count": 318,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/30960/594819",
+  "pdf": {
+    "filename": "1001240.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1001240.pdf",
+    "url": "https://pdf.ravelrycache.com/cleomalone/1607278/Bandana_Cowl_No._4__Shibui_Nest___Stockinette_.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478954&Signature=5Ik6%2FC6%2BckNYqxWtAFr%2FwgiFQW8%3D&key_expires=1768478954&key=8QlBc7k2Jr5ttotITqRXgw",
+    "size_bytes": 714911
+  }
+}

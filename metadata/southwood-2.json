@@ -1,0 +1,63 @@
+{
+  "id": 1021796,
+  "name": "Southwood",
+  "permalink": "southwood-2",
+  "url": "https://www.ravelry.com/patterns/library/southwood-2",
+  "external_url": "",
+  "designer_name": "Galt House of Yarn",
+  "project_type": "Child",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "BFL Worsted",
+      "pct": null
+    },
+    {
+      "fiber": "Cascade 220®",
+      "pct": null
+    },
+    {
+      "fiber": "Cascade 220® Heathers",
+      "pct": null
+    },
+    {
+      "fiber": "Estelle Worsted",
+      "pct": null
+    },
+    {
+      "fiber": "Ultra Alpaca",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Stockinette stitch"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Raglan",
+    "Seamless",
+    "Short rows",
+    "Top-down"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.0,
+    5.0
+  ],
+  "published": "2020/04/01",
+  "sizes_available": "0-6 months (6-12 months, 1-2 years, 2-4 years, 4-6 years, 6-8 years, 8-10 years)(Adult XS, S, SM, M, ML, L)(Adult XL, 2XL, 3XL, 4XL, 5XL)",
+  "rating_average": 4.706744868035191,
+  "rating_count": 341,
+  "difficulty_average": 2.526315789473684,
+  "favorites_count": 21309,
+  "projects_count": 1598,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/63466/602745",
+  "pdf": {
+    "filename": "1021796.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1021796.pdf",
+    "url": "https://pdf.ravelrycache.com/AnneVasic/1732766/Southwood_v2.2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483277&Signature=Pc47Yh7NSkKMVU8wIrre9n1G%2Fco%3D&key_expires=1768483277&key=s92d_5lTymFSgApMMcB4lw",
+    "size_bytes": 990069
+  }
+}

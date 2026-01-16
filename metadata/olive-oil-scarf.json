@@ -19,7 +19,8 @@
     "Treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted"
+    "Charted",
+    "Written"
   ],
   "hook_sizes_mm": [
     4.0
@@ -33,5 +34,11 @@
   "favorites_count": 54,
   "projects_count": 1,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/115520/1048694"
+  "download_url": "http://www.ravelry.com/dls/115520/1048694",
+  "pdf": {
+    "filename": "7492830.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7492830.pdf",
+    "url": "https://pdf.ravelrycache.com/YarnDocEllen/2115313/Olive_Oil_Scarf_Pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482209&Signature=BS0iqK8zqD%2FKxR%2Fyqn%2FO6NYSW8I%3D&key_expires=1768482209&key=ky9yL7jJ3OvQ2uMCAbuqnQ",
+    "size_bytes": 8476771
+  }
 }

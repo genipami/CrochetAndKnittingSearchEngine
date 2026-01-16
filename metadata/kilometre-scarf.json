@@ -1,0 +1,49 @@
+{
+  "id": 1309141,
+  "name": "Kilometre Scarf",
+  "permalink": "kilometre-scarf",
+  "url": "https://www.ravelry.com/patterns/library/kilometre-scarf",
+  "external_url": "",
+  "designer_name": "Florence Miller",
+  "project_type": "Scarf",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "Skall Studio Recycled Cashmere",
+      "pct": null
+    },
+    {
+      "fiber": "Soft Silk Mohair",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Kitchener stitch"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.5
+  ],
+  "published": "2023/02/01",
+  "sizes_available": "One size",
+  "rating_average": 4.953125,
+  "rating_count": 64,
+  "difficulty_average": 1.7611940298507462,
+  "favorites_count": 8154,
+  "projects_count": 382,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/95603/835361",
+  "pdf": {
+    "filename": "1309141.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1309141.pdf",
+    "url": "https://pdf.ravelrycache.com/flrln/1618273/KILOMETRE_SCARF_V1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481185&Signature=OycgSt6w%2BkceFZ9Fspt%2Fr0L6DOE%3D&key_expires=1768481186&key=H81psUbB7bfqHmWvepA5YQ",
+    "size_bytes": 1998315
+  }
+}

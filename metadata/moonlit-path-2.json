@@ -15,7 +15,9 @@
     }
   ],
   "stitches_used": [],
-  "techniques_used": [],
+  "techniques_used": [
+    "Written"
+  ],
   "hook_sizes_mm": [
     5.5
   ],
@@ -25,7 +27,7 @@
   "rating_average": 4.785714285714286,
   "rating_count": 14,
   "difficulty_average": 2.9285714285714284,
-  "favorites_count": 394,
+  "favorites_count": 395,
   "projects_count": 71,
   "free_ravelry_download": false,
   "download_url": "https://marlybird.com/blog/game-day-mystery-make-along-2025/"

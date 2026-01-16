@@ -10,7 +10,9 @@
   "yarn_weight": "Worsted",
   "materials": [],
   "stitches_used": [],
-  "techniques_used": [],
+  "techniques_used": [
+    "Written"
+  ],
   "hook_sizes_mm": [
     4.0
   ],
@@ -20,8 +22,14 @@
   "rating_average": 5.0,
   "rating_count": 6,
   "difficulty_average": 1.8333333333333333,
-  "favorites_count": 1089,
+  "favorites_count": 1100,
   "projects_count": 30,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/90411/1032378"
+  "download_url": "http://www.ravelry.com/dls/90411/1032378",
+  "pdf": {
+    "filename": "7472250.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7472250.pdf",
+    "url": "https://pdf.ravelrycache.com/womanwalkingawire/2076972/NoKIngsPatch.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482084&Signature=rQaGxgLBMMrLyaYZSIj%2F2sKmxqQ%3D&key_expires=1768482084&key=HisDQojiN4yLfxXK6SqYpQ",
+    "size_bytes": 435881
+  }
 }

@@ -1,0 +1,69 @@
+{
+  "id": 616714,
+  "name": "Ditto",
+  "permalink": "ditto-3",
+  "url": "https://www.ravelry.com/patterns/library/ditto-3",
+  "external_url": "",
+  "designer_name": "Anne Gagnon",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Cascade 220®",
+      "pct": null
+    },
+    {
+      "fiber": "Cascade 220® Heathers",
+      "pct": null
+    },
+    {
+      "fiber": "Longwood Aran",
+      "pct": null
+    },
+    {
+      "fiber": "Ultra Alpaca",
+      "pct": null
+    },
+    {
+      "fiber": "Vanna's Choice",
+      "pct": null
+    },
+    {
+      "fiber": "Worsted",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Ribbing",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "Cables",
+    "Charted",
+    "In the round",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.0,
+    4.5
+  ],
+  "published": "2015/10/01",
+  "sizes_available": "Youth/Small adult, M/L adult",
+  "rating_average": 4.725947521865889,
+  "rating_count": 343,
+  "difficulty_average": 2.63125,
+  "favorites_count": 5941,
+  "projects_count": 1131,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/40450/298328",
+  "pdf": {
+    "filename": "616714.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\616714.pdf",
+    "url": "https://pdf.ravelrycache.com/Annelabanane/562999/Ditto.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479926&Signature=6G1kBBqWxjD0rNeZLSVa6PgiFUQ%3D&key_expires=1768479926&key=oDy1xadPEjzL8URmYKouAg",
+    "size_bytes": 497188
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": 632425,
+  "name": "Flax sock",
+  "permalink": "flax-sock",
+  "url": "https://www.ravelry.com/patterns/library/flax-sock",
+  "external_url": "http://tincanknits.com/pattern-SC-flaxlight.html",
+  "designer_name": "tincanknits",
+  "project_type": "Child",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Cashmerino",
+      "pct": null
+    },
+    {
+      "fiber": "Cashmerino 20",
+      "pct": null
+    },
+    {
+      "fiber": "Loft",
+      "pct": null
+    },
+    {
+      "fiber": "Maven",
+      "pct": null
+    },
+    {
+      "fiber": "Sock",
+      "pct": null
+    },
+    {
+      "fiber": "Squish Fingering",
+      "pct": null
+    },
+    {
+      "fiber": "Tough Love Sock",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Seamless",
+    "Top-down",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.75,
+    3.75
+  ],
+  "published": "2015/12/01",
+  "sizes_available": "0-6 mo (6-12 mo, 1-2yr, 2-4yr, 4-6yr, 6-8yr, 8-10yr, XS, S, SM, M, ML, L, XL, XXL, 3XL, 4XL, 5XL, 6XL)",
+  "rating_average": 4.760137242669994,
+  "rating_count": 3206,
+  "difficulty_average": 2.3686950862349496,
+  "favorites_count": 48871,
+  "projects_count": 15939,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/23602/310319",
+  "pdf": {
+    "filename": "632425.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\632425.pdf",
+    "url": "https://pdf.ravelrycache.com/tincanknits/1825923/FLAX-tincanknits-SOCK.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480430&Signature=pye1KQ4SC0WFZ%2B0rzWw8VH6c%2BVM%3D&key_expires=1768480430&key=5heyGISaYedw7c48yL9Jdw",
+    "size_bytes": 3623584
+  }
+}

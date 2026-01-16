@@ -19,7 +19,9 @@
     "Slip stitch (sl st)",
     "Treble crochet (tr)"
   ],
-  "techniques_used": [],
+  "techniques_used": [
+    "Written"
+  ],
   "hook_sizes_mm": [
     4.0
   ],
@@ -29,7 +31,7 @@
   "rating_average": 4.833333333333333,
   "rating_count": 6,
   "difficulty_average": 2.0,
-  "favorites_count": 500,
+  "favorites_count": 503,
   "projects_count": 25,
   "free_ravelry_download": false,
   "download_url": "http://www.ravelry.com/purchase/briana-k-designs/1037362"

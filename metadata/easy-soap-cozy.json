@@ -20,7 +20,6 @@
   ],
   "techniques_used": [
     "Bottom-up",
-    "Charted",
     "In the round"
   ],
   "hook_sizes_mm": [
@@ -32,8 +31,14 @@
   "rating_average": 4.914285714285715,
   "rating_count": 35,
   "difficulty_average": 1.8529411764705883,
-  "favorites_count": 2516,
+  "favorites_count": 2519,
   "projects_count": 311,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/72226/494910"
+  "download_url": "http://www.ravelry.com/dls/72226/494910",
+  "pdf": {
+    "filename": "878811.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\878811.pdf",
+    "url": "https://pdf.ravelrycache.com/Mytia89/2103083/Easy_Soap_Cozy-PRINT_FRIENDLY.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480033&Signature=AiKuzYDjY4gKkPaudsCqNuXAWkI%3D&key_expires=1768480033&key=UP8rNOYGbIwWAmoxSJ1jnw",
+    "size_bytes": 230465
+  }
 }

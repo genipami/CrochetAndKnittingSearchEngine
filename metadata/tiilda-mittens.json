@@ -1,0 +1,51 @@
+{
+  "id": 791539,
+  "name": "Tiilda Mittens",
+  "permalink": "tiilda-mittens",
+  "url": "https://www.ravelry.com/patterns/library/tiilda-mittens",
+  "external_url": "",
+  "designer_name": "Inese Sang",
+  "project_type": "Mittens/Gloves",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Bulky",
+  "materials": [
+    {
+      "fiber": "Vintage Chunky",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Cable",
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "Cables",
+    "Charted",
+    "In the round",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.0,
+    5.0
+  ],
+  "published": "2017/11/01",
+  "sizes_available": "One size ",
+  "rating_average": 4.662420382165605,
+  "rating_count": 157,
+  "difficulty_average": 2.794701986754967,
+  "favorites_count": 9943,
+  "projects_count": 663,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/62316/429510",
+  "pdf": {
+    "filename": "791539.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\791539.pdf",
+    "url": "https://pdf.ravelrycache.com/inesesang/1421222/Tiilda_Mittens_Isang.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483740&Signature=uWjAsJY7G2Fi%2FDnA3nVLvSC6Yqs%3D&key_expires=1768483740&key=clm0ckTo2wbsiPbfzEN2Bg",
+    "size_bytes": 382772
+  }
+}

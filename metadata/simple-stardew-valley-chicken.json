@@ -18,7 +18,8 @@
     "Treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamed"
+    "Seamed",
+    "Written"
   ],
   "hook_sizes_mm": [
     6.0
@@ -29,8 +30,14 @@
   "rating_average": 4.793103448275862,
   "rating_count": 29,
   "difficulty_average": 1.6666666666666667,
-  "favorites_count": 6230,
+  "favorites_count": 6239,
   "projects_count": 204,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/109716/978512"
+  "download_url": "http://www.ravelry.com/dls/109716/978512",
+  "pdf": {
+    "filename": "7401788.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7401788.pdf",
+    "url": "https://pdf.ravelrycache.com/kamikazebutterfly/1949485/Stardew_Valley_Chicken_Crochet__Large.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483003&Signature=arpjqt42ICgE7F0vqTAegySIjjQ%3D&key_expires=1768483003&key=HD6rRKZTHjAprg4uuHmobQ",
+    "size_bytes": 74784
+  }
 }

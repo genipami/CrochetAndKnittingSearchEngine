@@ -1,0 +1,45 @@
+{
+  "id": 880406,
+  "name": "Quokka Socks",
+  "permalink": "quokka-socks",
+  "url": "https://www.ravelry.com/patterns/library/quokka-socks",
+  "external_url": "",
+  "designer_name": "Susan Sands",
+  "project_type": "Socks",
+  "fiber_art": "Crochet",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Not Just Socks",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [
+    2.5
+  ],
+  "needle_sizes_mm": [],
+  "published": "2018/11/01",
+  "sizes_available": "All sizes - instructions for fit in pattern",
+  "rating_average": 4.631578947368421,
+  "rating_count": 19,
+  "difficulty_average": 3.8947368421052633,
+  "favorites_count": 1571,
+  "projects_count": 137,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/55127/496191",
+  "pdf": {
+    "filename": "880406.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\880406.pdf",
+    "url": "https://pdf.ravelrycache.com/susansands/903381/ss_socks_quokka_socks.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482612&Signature=Q7xMu2cHGCq2HBmELmLOnz0SPy8%3D&key_expires=1768482612&key=jkXqUaWUUgeyRqgf2n1ftg",
+    "size_bytes": 314113
+  }
+}

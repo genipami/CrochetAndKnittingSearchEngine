@@ -1,0 +1,49 @@
+{
+  "id": 178015,
+  "name": "Copycat Dishcloth",
+  "permalink": "copycat-dishcloth",
+  "url": "https://www.ravelry.com/patterns/library/copycat-dishcloth",
+  "external_url": "",
+  "designer_name": "Michelle Krause",
+  "project_type": "Dishcloth",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Cotton Chenille Solid",
+      "pct": null
+    },
+    {
+      "fiber": "Handicrafter Cotton Solids",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Garter stitch",
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    5.0
+  ],
+  "published": "2010/05/01",
+  "sizes_available": "one size",
+  "rating_average": 4.675373134328358,
+  "rating_count": 268,
+  "difficulty_average": 1.3709090909090909,
+  "favorites_count": 8239,
+  "projects_count": 1041,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/12450/35601",
+  "pdf": {
+    "filename": "178015.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\178015.pdf",
+    "url": "https://pdf.ravelrycache.com/justrah/158772/Copycat_Dishcloth.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479672&Signature=tACIFsn4whwwtaLlgPrHmTxn8js%3D&key_expires=1768479672&key=yMCIdKkULiThBcEvwykgUA",
+    "size_bytes": 260945
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": 562836,
+  "name": "Warm One",
+  "permalink": "warm-one",
+  "url": "https://www.ravelry.com/patterns/library/warm-one",
+  "external_url": "",
+  "designer_name": "Betsy Teitler",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Bulky",
+  "materials": [
+    {
+      "fiber": "Berkshire Bulky",
+      "pct": null
+    },
+    {
+      "fiber": "ColorWul",
+      "pct": null
+    },
+    {
+      "fiber": "Lamb's Pride Bulky",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Ribbing",
+    "Stockinette stitch"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    6.0
+  ],
+  "published": "2015/03/01",
+  "sizes_available": "youth and adult",
+  "rating_average": 4.743718592964824,
+  "rating_count": 199,
+  "difficulty_average": 1.6451612903225807,
+  "favorites_count": 2806,
+  "projects_count": 997,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/49329/262156",
+  "pdf": {
+    "filename": "562836.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\562836.pdf",
+    "url": "https://pdf.ravelrycache.com/yarnhabit/450614/Warm_One_Hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484075&Signature=Gl8h4gKV%2Fg%2FJAdGxhGaclF98w4g%3D&key_expires=1768484075&key=VO3sDp2N09iHwf1fi3EW4Q",
+    "size_bytes": 606877
+  }
+}

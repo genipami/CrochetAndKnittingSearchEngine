@@ -1,0 +1,43 @@
+{
+  "id": 1330125,
+  "name": "Chicky lace socks",
+  "permalink": "chicky-lace-socks",
+  "url": "https://www.ravelry.com/patterns/library/chicky-lace-socks",
+  "external_url": "",
+  "designer_name": "Pien Roggeveen",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Unity",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Lace",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Lace"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.5
+  ],
+  "published": "2023/04/01",
+  "sizes_available": "size 37-41",
+  "rating_average": 4.848484848484849,
+  "rating_count": 33,
+  "difficulty_average": 2.727272727272727,
+  "favorites_count": 1832,
+  "projects_count": 155,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/98263/851900",
+  "pdf": {
+    "filename": "1330125.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1330125.pdf",
+    "url": "https://pdf.ravelrycache.com/sokkenvanpien/1655882/ENG_Chicky_lace_socks.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479456&Signature=EuqicrZfuPr53jIZK2oJs5%2FrI3M%3D&key_expires=1768479456&key=0u4wUwmXTxvaFYzQm-tbPw",
+    "size_bytes": 2755105
+  }
+}

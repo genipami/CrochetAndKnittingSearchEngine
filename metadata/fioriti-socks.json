@@ -1,0 +1,49 @@
+{
+  "id": 7401116,
+  "name": "Fioriti Socks",
+  "permalink": "fioriti-socks",
+  "url": "https://www.ravelry.com/patterns/library/fioriti-socks",
+  "external_url": "",
+  "designer_name": "Lisa Schmidt",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Sock",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Charted",
+    "In the round",
+    "Kitchener stitch",
+    "Lace",
+    "Short rows",
+    "Top-down",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.5
+  ],
+  "published": "2025/01/01",
+  "sizes_available": "S (35-36) M(37-38) L(39-41)",
+  "rating_average": 4.764705882352941,
+  "rating_count": 17,
+  "difficulty_average": 3.1176470588235294,
+  "favorites_count": 2130,
+  "projects_count": 81,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/89046/978006",
+  "pdf": {
+    "filename": "7401116.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7401116.pdf",
+    "url": "https://pdf.ravelrycache.com/lisafalalana/1948156/Fioriti_Socks_v20250120.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480367&Signature=4mBdkmlEzkfcad9D%2FSBf4bAXRAw%3D&key_expires=1768480367&key=ZogXuSfYS8XZ-pxFU9O3hw",
+    "size_bytes": 1051845
+  }
+}

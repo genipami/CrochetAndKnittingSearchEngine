@@ -1,0 +1,52 @@
+{
+  "id": 7301631,
+  "name": "Barley DK",
+  "permalink": "barley-dk",
+  "url": "https://www.ravelry.com/patterns/library/barley-dk",
+  "external_url": "",
+  "designer_name": "tincanknits",
+  "project_type": "Child",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "Arbor",
+      "pct": null
+    },
+    {
+      "fiber": "Sweater",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "In the round",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.5,
+    4.0
+  ],
+  "published": "2023/12/01",
+  "sizes_available": "Newborn (Baby, Toddler, Child, Adult S, M, L)",
+  "rating_average": 4.829787234042553,
+  "rating_count": 141,
+  "difficulty_average": 1.9420289855072463,
+  "favorites_count": 3140,
+  "projects_count": 995,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/23602/899275",
+  "pdf": {
+    "filename": "7301631.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7301631.pdf",
+    "url": "https://pdf.ravelrycache.com/tincanknits/1765001/BARLEY-tincanknits.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478962&Signature=R5Vum%2F9M4IEeQC%2FvLFsh4qEQetw%3D&key_expires=1768478962&key=Zmft2hDTh5kkyQwmrhZuUg",
+    "size_bytes": 3277080
+  }
+}

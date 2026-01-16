@@ -1,0 +1,53 @@
+{
+  "id": 7363110,
+  "name": "Patriotic Hat",
+  "permalink": "patriotic-hat",
+  "url": "https://www.ravelry.com/patterns/library/patriotic-hat",
+  "external_url": "",
+  "designer_name": "Joy Macdonell",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Aran",
+  "materials": [
+    {
+      "fiber": "Impeccable Solids & Mouline",
+      "pct": null
+    },
+    {
+      "fiber": "Super Saver (solids)",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Double crochet (dc)",
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "Charted",
+    "In the round",
+    "Kitchener stitch",
+    "Stranded colorwork",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    5.0
+  ],
+  "published": null,
+  "sizes_available": "Adult",
+  "rating_average": 4.869565217391305,
+  "rating_count": 23,
+  "difficulty_average": 1.8695652173913044,
+  "favorites_count": 745,
+  "projects_count": 77,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/62741/946732",
+  "pdf": {
+    "filename": "7363110.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7363110.pdf",
+    "url": "https://pdf.ravelrycache.com/Joymacdonell/1876511/Patriotic_Hat_Pattern_Macdonell.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482296&Signature=up8v8vI%2F7iWK4%2FwNhAGV7z5aXbc%3D&key_expires=1768482296&key=R0_nqa9irBdNdecHA-1-9A",
+    "size_bytes": 358113
+  }
+}

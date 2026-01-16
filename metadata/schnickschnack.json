@@ -1,0 +1,43 @@
+{
+  "id": 1074680,
+  "name": "SchnickSchnack",
+  "permalink": "schnickschnack",
+  "url": "https://www.ravelry.com/patterns/library/schnickschnack",
+  "external_url": "",
+  "designer_name": "Regina Satta",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Opal 4-fach | 4-ply",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Charted"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.25
+  ],
+  "published": "2020/10/01",
+  "sizes_available": "64M/Runde (Größe 39-42)",
+  "rating_average": 4.882978723404255,
+  "rating_count": 94,
+  "difficulty_average": 1.945054945054945,
+  "favorites_count": 999,
+  "projects_count": 479,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/12954/644895",
+  "pdf": {
+    "filename": "1074680.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1074680.pdf",
+    "url": "https://pdf.ravelrycache.com/Aniger/1203739/SchnickSchnack_deutsch.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482884&Signature=SmQdc03FU%2FDiG6FW19dee0F%2FqM0%3D&key_expires=1768482884&key=JlRGi4zZWvgg2YT0XmKaFA",
+    "size_bytes": 766832
+  }
+}

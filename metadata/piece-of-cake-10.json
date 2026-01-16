@@ -1,0 +1,44 @@
+{
+  "id": 1344913,
+  "name": "Piece of Cake",
+  "permalink": "piece-of-cake-10",
+  "url": "https://www.ravelry.com/patterns/library/piece-of-cake-10",
+  "external_url": "",
+  "designer_name": "Jerry Burch",
+  "project_type": "Toys",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Rock n Roll Sock",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "In the round"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.75
+  ],
+  "published": "2023/07/01",
+  "sizes_available": "small & large",
+  "rating_average": 5.0,
+  "rating_count": 7,
+  "difficulty_average": 2.2857142857142856,
+  "favorites_count": 554,
+  "projects_count": 65,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/70562/863449",
+  "pdf": {
+    "filename": "1344913.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1344913.pdf",
+    "url": "https://pdf.ravelrycache.com/BirchTreeFA/1683070/Piece_of_Cake.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482393&Signature=%2F8mONDViHLTaJ15bwq525Zz%2FLQ0%3D&key_expires=1768482393&key=hf3-pYNDklrqa1vR4R8FuA",
+    "size_bytes": 552651
+  }
+}

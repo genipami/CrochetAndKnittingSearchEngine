@@ -1,0 +1,56 @@
+{
+  "id": 1356946,
+  "name": "See My Vest - Chunky",
+  "permalink": "see-my-vest---chunky",
+  "url": "https://www.ravelry.com/patterns/library/see-my-vest---chunky",
+  "external_url": "",
+  "designer_name": "Emily Bolduan",
+  "project_type": "Vest",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Bulky",
+  "materials": [
+    {
+      "fiber": "Donegal Chunky Tweed",
+      "pct": null
+    },
+    {
+      "fiber": "Hamelton Tweed 2 GOTS",
+      "pct": null
+    },
+    {
+      "fiber": "The Merry Merino 70 GOTS",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Seamless",
+    "Top-down",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    6.0,
+    7.0
+  ],
+  "published": "2023/08/01",
+  "sizes_available": "XS (S, M, L, XL, 2XL, 3XL, 4XL, 5XL)",
+  "rating_average": 4.737864077669903,
+  "rating_count": 206,
+  "difficulty_average": 2.343283582089552,
+  "favorites_count": 15624,
+  "projects_count": 915,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/63586/872665",
+  "pdf": {
+    "filename": "1356946.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1356946.pdf",
+    "url": "https://pdf.ravelrycache.com/hellomakermaker/2034637/Maker_Maker_See_My_Vest_Chunky_-_V2_2025.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482921&Signature=TKvv1jyYDE6sVYY85ZFkPw0Frwc%3D&key_expires=1768482921&key=epFYkHSPWeDty1ywrzYSCQ",
+    "size_bytes": 3724488
+  }
+}

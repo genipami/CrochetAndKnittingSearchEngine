@@ -1,0 +1,46 @@
+{
+  "id": 7356818,
+  "name": "Lolly Beret",
+  "permalink": "lolly-beret",
+  "url": "https://www.ravelry.com/patterns/library/lolly-beret",
+  "external_url": "https://thelambandkid.com",
+  "designer_name": "The Lamb & Kid Designs",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Aran",
+  "materials": [
+    {
+      "fiber": "Big Birdie",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Ribbing",
+    "Stockinette stitch"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "In the round",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.0,
+    4.5
+  ],
+  "published": "2024/07/01",
+  "sizes_available": "One size.",
+  "rating_average": 4.75,
+  "rating_count": 8,
+  "difficulty_average": 1.4285714285714286,
+  "favorites_count": 1070,
+  "projects_count": 36,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/91137/942145",
+  "pdf": {
+    "filename": "7356818.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7356818.pdf",
+    "url": "https://pdf.ravelrycache.com/TheLambAndKid/1923001/TLK_LollyBeret_Final_v2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481508&Signature=ei8YEaeXWj6vCdSs35aYBE07c1s%3D&key_expires=1768481508&key=XSPlFWiS_rbub6n-5Ks0Vw",
+    "size_bytes": 3247319
+  }
+}

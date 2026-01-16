@@ -1,0 +1,50 @@
+{
+  "id": 793592,
+  "name": "Tiilda Hat",
+  "permalink": "tiilda-hat",
+  "url": "https://www.ravelry.com/patterns/library/tiilda-hat",
+  "external_url": "",
+  "designer_name": "Inese Sang",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Bulky",
+  "materials": [
+    {
+      "fiber": "Vintage Chunky",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Cable",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "Cables",
+    "Charted",
+    "In the round",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.0,
+    5.0
+  ],
+  "published": "2017/11/01",
+  "sizes_available": "One Size - to fit head circumference of 22”-23” (56cm-58.5cm) ",
+  "rating_average": 4.759433962264151,
+  "rating_count": 636,
+  "difficulty_average": 2.8697068403908794,
+  "favorites_count": 25312,
+  "projects_count": 2582,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/62316/431241",
+  "pdf": {
+    "filename": "793592.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\793592.pdf",
+    "url": "https://pdf.ravelrycache.com/inesesang/1421219/Tiilda_Hat_Isang.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483738&Signature=okIps7Uv4LBcMQOmoQlaZ1kKWGM%3D&key_expires=1768483738&key=2K-674ZnIi9F-0u9zkZvmA",
+    "size_bytes": 471843
+  }
+}

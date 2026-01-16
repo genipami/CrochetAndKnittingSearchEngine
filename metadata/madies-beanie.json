@@ -1,0 +1,44 @@
+{
+  "id": 7389549,
+  "name": "Madie’s Beanie",
+  "permalink": "madies-beanie",
+  "url": "https://www.ravelry.com/patterns/library/madies-beanie",
+  "external_url": "",
+  "designer_name": "MagdaGaSt (Magdalena Gawron)",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Bulky",
+  "materials": [
+    {
+      "fiber": "DROPS Air",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "In the round"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    6.0,
+    7.0
+  ],
+  "published": "2024/11/01",
+  "sizes_available": "55-58 cm",
+  "rating_average": 4.714285714285714,
+  "rating_count": 7,
+  "difficulty_average": 1.2857142857142858,
+  "favorites_count": 2025,
+  "projects_count": 41,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/108902/968550",
+  "pdf": {
+    "filename": "7389549.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7389549.pdf",
+    "url": "https://pdf.ravelrycache.com/MagdaGaSt/1925666/Madie.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481609&Signature=UtY4dmISewC8e25NnZAhoyDdEBw%3D&key_expires=1768481609&key=xjPFVMpTuJ0Iwb9ZLQ1P7Q",
+    "size_bytes": 235535
+  }
+}

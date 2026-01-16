@@ -1,0 +1,47 @@
+{
+  "id": 1124858,
+  "name": "Chouette Cowl",
+  "permalink": "chouette-cowl",
+  "url": "https://www.ravelry.com/patterns/library/chouette-cowl",
+  "external_url": "",
+  "designer_name": "Lindsey Faciane",
+  "project_type": "Shawl/Wrap",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Ne Plus Ultra Alpaca Worsted Weight",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Lace",
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "In the round",
+    "Lace",
+    "Seamless"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.5
+  ],
+  "published": "2021/03/01",
+  "sizes_available": "Adult/Teen",
+  "rating_average": 4.909090909090909,
+  "rating_count": 22,
+  "difficulty_average": 3.380952380952381,
+  "favorites_count": 1588,
+  "projects_count": 66,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/59710/685602",
+  "pdf": {
+    "filename": "1124858.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1124858.pdf",
+    "url": "https://pdf.ravelrycache.com/Lindseyfaciane/1292811/ChouetteCowl.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479468&Signature=%2FUNQIEu57jCBzOL3yfEGGQaIAyg%3D&key_expires=1768479468&key=biMzSC1r4t_WDwgNPtscJw",
+    "size_bytes": 4425407
+  }
+}

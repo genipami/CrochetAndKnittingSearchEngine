@@ -1,0 +1,47 @@
+{
+  "id": 7442509,
+  "name": "Socks Time",
+  "permalink": "socks-time",
+  "url": "https://www.ravelry.com/patterns/library/socks-time",
+  "external_url": "",
+  "designer_name": "Olya Kilic",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Summer Sock",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Charted",
+    "Lace",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.0,
+    2.25,
+    2.5
+  ],
+  "published": "2025/06/01",
+  "sizes_available": "Teen-adults ",
+  "rating_average": 4.8,
+  "rating_count": 5,
+  "difficulty_average": 2.4,
+  "favorites_count": 1126,
+  "projects_count": 27,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/106323/1009603",
+  "pdf": {
+    "filename": "7442509.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7442509.pdf",
+    "url": "https://pdf.ravelrycache.com/Floralwool/2024342/time_eng.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483210&Signature=%2BHGsx9CugCpUOxnjkeMERhWYjM8%3D&key_expires=1768483210&key=4GeInlbJbEyYt5rRPqXt5A",
+    "size_bytes": 4213333
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": 788500,
+  "name": "Ali Hat",
+  "permalink": "ali-hat-2",
+  "url": "https://www.ravelry.com/patterns/library/ali-hat-2",
+  "external_url": "",
+  "designer_name": "Susan Ashcroft",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Merino Aran",
+      "pct": null
+    },
+    {
+      "fiber": "Rasta",
+      "pct": null
+    },
+    {
+      "fiber": "Rios",
+      "pct": null
+    },
+    {
+      "fiber": "Superwash Merino Worsted",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "In the round"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.5
+  ],
+  "published": "2017/11/01",
+  "sizes_available": "2 sizes (approx. 50-55cm/20-22\") -plus tips for adjusting",
+  "rating_average": 4.782178217821782,
+  "rating_count": 101,
+  "difficulty_average": 1.9215686274509804,
+  "favorites_count": 2883,
+  "projects_count": 656,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/16192/427190",
+  "pdf": {
+    "filename": "788500.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\788500.pdf",
+    "url": "https://pdf.ravelrycache.com/stitchnerd/762026/Ali_hat_-_Nov._8th.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478698&Signature=dfrP27rBZkX5GmW4VOcvJbbUmPM%3D&key_expires=1768478698&key=yTGuT5wHzZkVeDp44t5vnw",
+    "size_bytes": 661815
+  }
+}

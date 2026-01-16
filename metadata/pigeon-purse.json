@@ -22,7 +22,9 @@
     "Single crochet (sc)",
     "Treble crochet (tr)"
   ],
-  "techniques_used": [],
+  "techniques_used": [
+    "Written"
+  ],
   "hook_sizes_mm": [
     4.5
   ],
@@ -32,8 +34,14 @@
   "rating_average": 4.666666666666667,
   "rating_count": 15,
   "difficulty_average": 3.357142857142857,
-  "favorites_count": 6515,
+  "favorites_count": 6571,
   "projects_count": 64,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/97769/1019838"
+  "download_url": "http://www.ravelry.com/dls/97769/1019838",
+  "pdf": {
+    "filename": "7455784.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7455784.pdf",
+    "url": "https://pdf.ravelrycache.com/emcrafting/2046838/Pigeon_Purse_Pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482401&Signature=JUsXZjfimSk5kDcPmiCLT6SnG%2FU%3D&key_expires=1768482401&key=g9aK5uh0VHpZtxUU4kQ0bw",
+    "size_bytes": 17266351
+  }
 }

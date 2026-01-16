@@ -1,0 +1,60 @@
+{
+  "id": 1189783,
+  "name": "Count My Blessings Shawl",
+  "permalink": "count-my-blessings-shawl",
+  "url": "https://www.ravelry.com/patterns/library/count-my-blessings-shawl",
+  "external_url": "",
+  "designer_name": "Ursula Wood",
+  "project_type": "Shawl/Wrap",
+  "fiber_art": "Crochet",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "It’s a Wrap Rainbow",
+      "pct": null
+    },
+    {
+      "fiber": "Special Double Knit",
+      "pct": null
+    },
+    {
+      "fiber": "Universe",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Bobble",
+    "Double crochet (dc)",
+    "Granny",
+    "Lace",
+    "Single crochet (sc)",
+    "Slip stitch (sl st)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Lace",
+    "Seamless",
+    "Top-down",
+    "Written"
+  ],
+  "hook_sizes_mm": [
+    4.0,
+    4.5
+  ],
+  "needle_sizes_mm": [],
+  "published": "2021/11/01",
+  "sizes_available": "One size fits most adult women",
+  "rating_average": 4.684210526315789,
+  "rating_count": 19,
+  "difficulty_average": 2.888888888888889,
+  "favorites_count": 1688,
+  "projects_count": 69,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/91740/736629",
+  "pdf": {
+    "filename": "1189783.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1189783.pdf",
+    "url": "https://pdf.ravelrycache.com/OMGrannySquare/1403910/CountMyBlessingsShawl.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479701&Signature=tZ%2BzEFkMZMp%2FDP9oys4fvnd6GGI%3D&key_expires=1768479701&key=2CGW6YRrnlCkAaphnhEX4Q",
+    "size_bytes": 1401638
+  }
+}

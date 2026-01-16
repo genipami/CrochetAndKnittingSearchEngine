@@ -19,7 +19,8 @@
   ],
   "techniques_used": [
     "Bottom-up",
-    "In the round"
+    "In the round",
+    "Written"
   ],
   "hook_sizes_mm": [
     5.0
@@ -29,9 +30,15 @@
   "sizes_available": "Adjustable, 7” around and 5.5\" high as written",
   "rating_average": 4.681818181818182,
   "rating_count": 242,
-  "difficulty_average": 3.1471861471861473,
-  "favorites_count": 11903,
+  "difficulty_average": 3.1515151515151514,
+  "favorites_count": 11906,
   "projects_count": 979,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/47447/268236"
+  "download_url": "http://www.ravelry.com/dls/47447/268236",
+  "pdf": {
+    "filename": "572035.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\572035.pdf",
+    "url": "https://pdf.ravelrycache.com/RachyNewin/731864/Mother_of_Dragons_Dice_Bag.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481936&Signature=pX5Y8%2BxVRwXexxRfCYYWwYLsqYE%3D&key_expires=1768481936&key=qqRXm-AyAGN8U6F5F2Jh0A",
+    "size_bytes": 798190
+  }
 }

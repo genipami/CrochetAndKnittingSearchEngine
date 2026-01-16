@@ -1,0 +1,54 @@
+{
+  "id": 882858,
+  "name": "Belle Fille Hat",
+  "permalink": "belle-fille-hat",
+  "url": "https://www.ravelry.com/patterns/library/belle-fille-hat",
+  "external_url": "",
+  "designer_name": "Espace Tricot",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Sport",
+  "materials": [
+    {
+      "fiber": "Cashsoft Baby",
+      "pct": null
+    },
+    {
+      "fiber": "Eco Cashmere Fingering",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Cable",
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "Cables",
+    "In the round",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.5,
+    3.0
+  ],
+  "published": "2018/11/01",
+  "sizes_available": "One Size  - 17\" circumference, unstretched",
+  "rating_average": 4.8352941176470585,
+  "rating_count": 85,
+  "difficulty_average": 2.4935064935064934,
+  "favorites_count": 4672,
+  "projects_count": 341,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/25132/498083",
+  "pdf": {
+    "filename": "882858.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\882858.pdf",
+    "url": "https://pdf.ravelrycache.com/EspaceTricot/1727075/belle-fille-oct62023.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479081&Signature=%2FEyRrlaAsFobXyXqEHRSZeqx6q0%3D&key_expires=1768479081&key=jb_6A29u1Vu5Raz8bJfh1w",
+    "size_bytes": 809205
+  }
+}

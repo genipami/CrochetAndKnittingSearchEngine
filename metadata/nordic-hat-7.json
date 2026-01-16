@@ -1,0 +1,47 @@
+{
+  "id": 700440,
+  "name": "Nordic Hat",
+  "permalink": "nordic-hat-7",
+  "url": "https://www.ravelry.com/patterns/library/nordic-hat-7",
+  "external_url": "",
+  "designer_name": "Anne Mizoguchi",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "Dupont Circle DK",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "Colorwork",
+    "In the round",
+    "Seamless",
+    "Stranded colorwork"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.5,
+    4.0
+  ],
+  "published": "2016/10/01",
+  "sizes_available": "Baby (Child, Adult)",
+  "rating_average": 4.705479452054795,
+  "rating_count": 146,
+  "difficulty_average": 2.5036496350364965,
+  "favorites_count": 5089,
+  "projects_count": 564,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/16060/361409",
+  "pdf": {
+    "filename": "700440.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\700440.pdf",
+    "url": "https://pdf.ravelrycache.com/annemade/661117/NordicHatPattern_3.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482117&Signature=YnXYM1SWcv4g4a%2FBF0oXUN23PTM%3D&key_expires=1768482117&key=fKEqruY2Io054KBczX5tvQ",
+    "size_bytes": 734445
+  }
+}

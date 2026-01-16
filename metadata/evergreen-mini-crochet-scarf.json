@@ -20,7 +20,10 @@
     "Single crochet (sc)",
     "Treble crochet (tr)"
   ],
-  "techniques_used": [],
+  "techniques_used": [
+    "Blocking",
+    "Written"
+  ],
   "hook_sizes_mm": [
     4.0
   ],
@@ -30,8 +33,8 @@
   "rating_average": 4.647058823529412,
   "rating_count": 17,
   "difficulty_average": 2.9375,
-  "favorites_count": 1194,
-  "projects_count": 107,
+  "favorites_count": 1198,
+  "projects_count": 108,
   "free_ravelry_download": false,
   "download_url": "https://sarahmaker.com/crochet-mini-scarf-pattern/"
 }

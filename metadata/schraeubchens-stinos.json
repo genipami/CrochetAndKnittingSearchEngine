@@ -1,0 +1,43 @@
+{
+  "id": 751179,
+  "name": "Schraeubchens Stinos",
+  "permalink": "schraeubchens-stinos",
+  "url": "https://www.ravelry.com/patterns/library/schraeubchens-stinos",
+  "external_url": "",
+  "designer_name": "Rahild Schrey",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Sockenwolle 80/20 Twin",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Double crochet (dc)",
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.0
+  ],
+  "published": "2017/06/01",
+  "sizes_available": "20 - 49",
+  "rating_average": 5.0,
+  "rating_count": 4,
+  "difficulty_average": 4.0,
+  "favorites_count": 102,
+  "projects_count": 114,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/63440/399033",
+  "pdf": {
+    "filename": "751179.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\751179.pdf",
+    "url": "https://pdf.ravelrycache.com/schraeubchen/727603/Stinos_Anleitung_2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482887&Signature=Re%2BoucAy%2BznJhVX7tJllZNFocms%3D&key_expires=1768482887&key=rEF5Hot4iwwIwFAPaPUkgQ",
+    "size_bytes": 4410445
+  }
+}

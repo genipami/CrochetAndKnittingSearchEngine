@@ -1,0 +1,44 @@
+{
+  "id": 216489,
+  "name": "Grammy's Hat ",
+  "permalink": "grammys-hat",
+  "url": "https://www.ravelry.com/patterns/library/grammys-hat",
+  "external_url": "http://www.tanisfiberarts.com/blog/2010/12/grammys-hats-and-mittens-pattern.html",
+  "designer_name": "Tanis Lavallee",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Aran",
+  "materials": [
+    {
+      "fiber": "Green Label Aran Weight",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Seamless"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.0,
+    4.5
+  ],
+  "published": "2010/12/01",
+  "sizes_available": "child to adult",
+  "rating_average": 4.730569948186528,
+  "rating_count": 193,
+  "difficulty_average": 1.641711229946524,
+  "favorites_count": 3139,
+  "projects_count": 1089,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/5968/57857",
+  "pdf": {
+    "filename": "216489.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\216489.pdf",
+    "url": "https://pdf.ravelrycache.com/tanisfiberarts/87704/grammysknits.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480682&Signature=YfDPWRXx5lI92K%2BjLDU1HdN7KsE%3D&key_expires=1768480682&key=zSK1idjfxMwcDaQAkRzufQ",
+    "size_bytes": 3064726
+  }
+}

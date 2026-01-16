@@ -1,0 +1,45 @@
+{
+  "id": 1213903,
+  "name": "JoMo Socks",
+  "permalink": "jomo-socks",
+  "url": "https://www.ravelry.com/patterns/library/jomo-socks",
+  "external_url": "",
+  "designer_name": "Rachel Fletcher",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "High Twist Superwash",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Cable",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Cables",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.5
+  ],
+  "published": "2022/02/01",
+  "sizes_available": "64 or 72 sts",
+  "rating_average": 4.739130434782608,
+  "rating_count": 46,
+  "difficulty_average": 2.8863636363636362,
+  "favorites_count": 1386,
+  "projects_count": 205,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/81984/755662",
+  "pdf": {
+    "filename": "1213903.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1213903.pdf",
+    "url": "https://pdf.ravelrycache.com/Twinsetandpurl/1445235/JoMo_Socks.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481089&Signature=i0voSF1cbQie1NopIVtmt7hCv7I%3D&key_expires=1768481089&key=h_wmO3NoYWHDr4emdAUgAA",
+    "size_bytes": 646485
+  }
+}

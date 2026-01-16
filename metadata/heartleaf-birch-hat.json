@@ -1,0 +1,49 @@
+{
+  "id": 7340333,
+  "name": "Heartleaf Birch Hat",
+  "permalink": "heartleaf-birch-hat",
+  "url": "https://www.ravelry.com/patterns/library/heartleaf-birch-hat",
+  "external_url": "",
+  "designer_name": "Sarah Rody",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Rios",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Cable",
+    "Ribbing",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Cables",
+    "Charted",
+    "In the round",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.5,
+    4.0
+  ],
+  "published": "2024/05/01",
+  "sizes_available": "adult medium",
+  "rating_average": 4.886363636363637,
+  "rating_count": 44,
+  "difficulty_average": 3.574468085106383,
+  "favorites_count": 2774,
+  "projects_count": 177,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/77870/929286",
+  "pdf": {
+    "filename": "7340333.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7340333.pdf",
+    "url": "https://pdf.ravelrycache.com/srody/1835380/Heartleaf_Birch.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480811&Signature=%2Bpv%2BgcuWdV5PiY%2FFw%2B8hI2qNb6A%3D&key_expires=1768480811&key=giV5jd9dlgFLIWVOEis94w",
+    "size_bytes": 2549644
+  }
+}

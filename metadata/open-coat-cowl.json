@@ -1,0 +1,48 @@
+{
+  "id": 7491230,
+  "name": "Open Coat Cowl",
+  "permalink": "open-coat-cowl",
+  "url": "https://www.ravelry.com/patterns/library/open-coat-cowl",
+  "external_url": "",
+  "designer_name": "Scott Rohr",
+  "project_type": "Shawl/Wrap",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Bulky",
+  "materials": [
+    {
+      "fiber": "Snefnug",
+      "pct": null
+    },
+    {
+      "fiber": "Snefnug Natur",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "In the round"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    5.5
+  ],
+  "published": "2026/01/01",
+  "sizes_available": "One size",
+  "rating_average": 5.0,
+  "rating_count": 6,
+  "difficulty_average": 1.5,
+  "favorites_count": 824,
+  "projects_count": 24,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/34639/1047527",
+  "pdf": {
+    "filename": "7491230.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7491230.pdf",
+    "url": "https://pdf.ravelrycache.com/going40/2112962/OPEN_COAT_COWL_v1.2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482263&Signature=3UjAFqg0emjF9AJcbtPicDPA5QE%3D&key_expires=1768482263&key=yCTafn7D_JgAV4JgAnCbPA",
+    "size_bytes": 1605860
+  }
+}

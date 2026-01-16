@@ -1,0 +1,47 @@
+{
+  "id": 1249556,
+  "name": "Cozy Handwarmers",
+  "permalink": "cozy-handwarmers-2",
+  "url": "https://www.ravelry.com/patterns/library/cozy-handwarmers-2",
+  "external_url": "",
+  "designer_name": "Emily Bolduan",
+  "project_type": "Mittens/Gloves",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "Woolly 8ply",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.5,
+    4.0
+  ],
+  "published": "2022/06/01",
+  "sizes_available": "Child (Small Adult, Adult, Large Adult)",
+  "rating_average": 4.857142857142857,
+  "rating_count": 42,
+  "difficulty_average": 2.275,
+  "favorites_count": 2456,
+  "projects_count": 195,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/63586/785929",
+  "pdf": {
+    "filename": "1249556.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1249556.pdf",
+    "url": "https://pdf.ravelrycache.com/hellomakermaker/1510083/Maker_Maker_Cozy_Handwarmers.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479726&Signature=07q0fGFdvdyARzRFQfo30U%2Fb9es%3D&key_expires=1768479726&key=mYOGOc20n9gy4YUfte0fyQ",
+    "size_bytes": 755611
+  }
+}

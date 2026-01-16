@@ -20,7 +20,8 @@
   ],
   "stitches_used": [],
   "techniques_used": [
-    "In the round"
+    "In the round",
+    "Written"
   ],
   "hook_sizes_mm": [
     2.5,
@@ -33,8 +34,14 @@
   "rating_average": 4.75,
   "rating_count": 20,
   "difficulty_average": 2.473684210526316,
-  "favorites_count": 3459,
-  "projects_count": 120,
+  "favorites_count": 3463,
+  "projects_count": 121,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/27430/982446"
+  "download_url": "http://www.ravelry.com/dls/27430/982446",
+  "pdf": {
+    "filename": "7406987.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7406987.pdf",
+    "url": "https://pdf.ravelrycache.com/HodgePodgeCrochet/1958788/HodgePodge_Crochet_Bear_Eyeglass_Holder.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483524&Signature=G1XpJxLRQov9eNt7H5IrUSEEF%2Fc%3D&key_expires=1768483524&key=NyxODlUMWIfv0RKFu2Gu3g",
+    "size_bytes": 741562
+  }
 }

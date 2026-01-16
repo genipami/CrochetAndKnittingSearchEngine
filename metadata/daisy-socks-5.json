@@ -1,0 +1,48 @@
+{
+  "id": 1055124,
+  "name": "Daisy Socks",
+  "permalink": "daisy-socks-5",
+  "url": "https://www.ravelry.com/patterns/library/daisy-socks-5",
+  "external_url": "",
+  "designer_name": "Debbie Ford",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Bardot High Twist Sock",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Charted",
+    "In the round",
+    "Kitchener stitch",
+    "Lace",
+    "Seamless",
+    "Top-down",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.25
+  ],
+  "published": "2020/07/01",
+  "sizes_available": "Adult - Small (Medium, Large)",
+  "rating_average": 4.863636363636363,
+  "rating_count": 44,
+  "difficulty_average": 2.8048780487804876,
+  "favorites_count": 2810,
+  "projects_count": 190,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/81820/629047",
+  "pdf": {
+    "filename": "1055124.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1055124.pdf",
+    "url": "https://pdf.ravelrycache.com/DinkyDebbie/1169146/Daisy_Socks_publish_copy.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479847&Signature=qOOf1Ew8wl%2FQnzNud5mwNfWX%2FJM%3D&key_expires=1768479847&key=XVcXWS0kxMGvYbhOVAuGiA",
+    "size_bytes": 984923
+  }
+}

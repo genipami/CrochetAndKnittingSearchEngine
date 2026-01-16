@@ -1,0 +1,51 @@
+{
+  "id": 7325890,
+  "name": "Rye DK",
+  "permalink": "rye-dk",
+  "url": "https://www.ravelry.com/patterns/library/rye-dk",
+  "external_url": "",
+  "designer_name": "tincanknits",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "Sweater",
+      "pct": null
+    },
+    {
+      "fiber": "Tosh DK",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Kitchener stitch",
+    "Seamless"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.75,
+    3.25
+  ],
+  "published": "2024/01/01",
+  "sizes_available": "Newborn (Baby, Toddler, Child, Adult S, M, L)",
+  "rating_average": 4.865384615384615,
+  "rating_count": 52,
+  "difficulty_average": 2.489795918367347,
+  "favorites_count": 3192,
+  "projects_count": 346,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/23602/917905",
+  "pdf": {
+    "filename": "7325890.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7325890.pdf",
+    "url": "https://pdf.ravelrycache.com/tincanknits/1807551/RYE-DK-tincanknits.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482819&Signature=sG%2BcWNidchnJRWernIa%2B%2Fg%2B%2FqYI%3D&key_expires=1768482819&key=uJAj4AMgBtIdG4t_B00ndQ",
+    "size_bytes": 3685791
+  }
+}

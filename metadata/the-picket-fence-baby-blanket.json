@@ -15,7 +15,9 @@
     }
   ],
   "stitches_used": [],
-  "techniques_used": [],
+  "techniques_used": [
+    "Written"
+  ],
   "hook_sizes_mm": [
     6.0
   ],
@@ -25,7 +27,7 @@
   "rating_average": 4.975609756097561,
   "rating_count": 41,
   "difficulty_average": 1.868421052631579,
-  "favorites_count": 3678,
+  "favorites_count": 3679,
   "projects_count": 221,
   "free_ravelry_download": false,
   "download_url": "https://daisycottagedesigns.net/easy-crochet-blanket-pattern/"

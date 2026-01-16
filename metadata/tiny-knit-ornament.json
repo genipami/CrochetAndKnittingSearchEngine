@@ -1,0 +1,50 @@
+{
+  "id": 7482583,
+  "name": "Tiny Knit Ornament",
+  "permalink": "tiny-knit-ornament",
+  "url": "https://www.ravelry.com/patterns/library/tiny-knit-ornament",
+  "external_url": "",
+  "designer_name": "gogoknit",
+  "project_type": "Home",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "British Fine (ブリティッシュファイン)",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Lace",
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Blocking",
+    "In the round",
+    "Lace",
+    "Raglan",
+    "Top-down",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.0
+  ],
+  "published": "2025/11/01",
+  "sizes_available": "",
+  "rating_average": 0,
+  "rating_count": null,
+  "difficulty_average": 0,
+  "favorites_count": 599,
+  "projects_count": 29,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/98868/1040813",
+  "pdf": {
+    "filename": "7482583.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7482583.pdf",
+    "url": "https://pdf.ravelrycache.com/gogoknit28/2096859/Tiny_Knit_Ornament_Mini_Pullover_English.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483769&Signature=yLTJCLasQnU8C740c3TplpsbNEg%3D&key_expires=1768483769&key=5ltK2WJb04up77g_CP7YPw",
+    "size_bytes": 5082062
+  }
+}

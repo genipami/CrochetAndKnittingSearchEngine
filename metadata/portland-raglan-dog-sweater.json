@@ -1,0 +1,58 @@
+{
+  "id": 7376669,
+  "name": "Portland Raglan Dog Sweater",
+  "permalink": "portland-raglan-dog-sweater",
+  "url": "https://www.ravelry.com/patterns/library/portland-raglan-dog-sweater",
+  "external_url": "https://calico-radio.com/the-portland-raglan-dog-sweater/",
+  "designer_name": "CalicoRadio Knits",
+  "project_type": "Pet",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "220 Superwash®",
+      "pct": null
+    },
+    {
+      "fiber": "Duo",
+      "pct": null
+    },
+    {
+      "fiber": "Perfect",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Cable",
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Cables",
+    "Raglan",
+    "Seamless",
+    "Short rows",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.0,
+    4.5
+  ],
+  "published": "2024/10/01",
+  "sizes_available": "XXS (XS) S (M) L (XL)",
+  "rating_average": 4.8108108108108105,
+  "rating_count": 111,
+  "difficulty_average": 2.8666666666666667,
+  "favorites_count": 4477,
+  "projects_count": 402,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/98317/957838",
+  "pdf": {
+    "filename": "7376669.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7376669.pdf",
+    "url": "https://pdf.ravelrycache.com/CalicoRadioKnits/2116076/Portland_Raglan_Dog_Sweater_PDF.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482536&Signature=2hWJxdmzXbXsioUP0Vh6vuHlUXA%3D&key_expires=1768482536&key=uJIbLrZ6tdsgX6__rFwMbg",
+    "size_bytes": 1440680
+  }
+}

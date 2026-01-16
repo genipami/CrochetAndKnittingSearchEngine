@@ -1,0 +1,44 @@
+{
+  "id": 1203179,
+  "name": "Saturday Sleeves",
+  "permalink": "saturday-sleeves",
+  "url": "https://www.ravelry.com/patterns/library/saturday-sleeves",
+  "external_url": "",
+  "designer_name": "Elizabeth Smith",
+  "project_type": "Mittens/Gloves",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Aran",
+  "materials": [
+    {
+      "fiber": "The Croft Aran Tweed",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.5
+  ],
+  "published": "2021/12/01",
+  "sizes_available": "S/M (L/XL)",
+  "rating_average": 4.833333333333333,
+  "rating_count": 36,
+  "difficulty_average": 1.5714285714285714,
+  "favorites_count": 3180,
+  "projects_count": 163,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/1837/747029",
+  "pdf": {
+    "filename": "1203179.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1203179.pdf",
+    "url": "https://pdf.ravelrycache.com/elizknits/1426124/SaturdaySleeves_v1.0.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482873&Signature=r9HqwIxhy1cKgKErBiJ0rOa8ytU%3D&key_expires=1768482873&key=EnoyOVf6LRB23rjdHSouCg",
+    "size_bytes": 2018358
+  }
+}

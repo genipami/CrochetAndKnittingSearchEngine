@@ -1,0 +1,49 @@
+{
+  "id": 1187086,
+  "name": "Ronja",
+  "permalink": "ronja-6",
+  "url": "https://www.ravelry.com/patterns/library/ronja-6",
+  "external_url": "https://knitrowan.com/en/products/zb306-ronja",
+  "designer_name": "Arne & Carlos",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "Norwegian Wool",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Ribbing",
+    "Stockinette stitch"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "Charted",
+    "In the round",
+    "Seamless",
+    "Stranded colorwork",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.0,
+    3.75
+  ],
+  "published": "2021/10/01",
+  "sizes_available": "One size - as noted below",
+  "rating_average": 4.596774193548387,
+  "rating_count": 62,
+  "difficulty_average": 2.875,
+  "favorites_count": 3167,
+  "projects_count": 256,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/35810/734221",
+  "pdf": {
+    "filename": "1187086.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1187086.pdf",
+    "url": "https://pdf.ravelrycache.com/LindaKnitter/1398631/ZB306-00004-ENP-Ronja.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482748&Signature=mzfoQEcvrslsSr0awCJzsgAxmPw%3D&key_expires=1768482748&key=mMQRqYEpP0F5my5M411DRQ",
+    "size_bytes": 770762
+  }
+}

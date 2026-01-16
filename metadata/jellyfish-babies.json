@@ -19,7 +19,9 @@
     "Slip stitch (sl st)",
     "Treble crochet (tr)"
   ],
-  "techniques_used": [],
+  "techniques_used": [
+    "Written"
+  ],
   "hook_sizes_mm": [
     3.5
   ],
@@ -29,7 +31,7 @@
   "rating_average": 4.75,
   "rating_count": 100,
   "difficulty_average": 1.969387755102041,
-  "favorites_count": 10215,
+  "favorites_count": 10219,
   "projects_count": 415,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/66107/736186"

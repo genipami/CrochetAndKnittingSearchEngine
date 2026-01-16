@@ -21,7 +21,8 @@
   ],
   "techniques_used": [
     "In the round",
-    "Seamless"
+    "Seamless",
+    "Written"
   ],
   "hook_sizes_mm": [
     5.0
@@ -32,8 +33,14 @@
   "rating_average": 4.7773722627737225,
   "rating_count": 274,
   "difficulty_average": 2.1626984126984126,
-  "favorites_count": 17640,
+  "favorites_count": 17641,
   "projects_count": 1148,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/61571/423583"
+  "download_url": "http://www.ravelry.com/dls/61571/423583",
+  "pdf": {
+    "filename": "783725.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\783725.pdf",
+    "url": "https://pdf.ravelrycache.com/jlpalmer/1172310/Color_Block_Market_Bag.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479636&Signature=yxazsfwmRuYDfepnTQi0zsGyi%2Bo%3D&key_expires=1768479636&key=yVJfE1ibSA3RI2hsh5caXw",
+    "size_bytes": 262641
+  }
 }

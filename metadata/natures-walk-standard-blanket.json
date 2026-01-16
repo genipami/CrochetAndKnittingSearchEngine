@@ -30,7 +30,8 @@
   "techniques_used": [
     "Charted",
     "In the round",
-    "Seamed"
+    "Seamed",
+    "Written"
   ],
   "hook_sizes_mm": [
     3.5
@@ -41,8 +42,14 @@
   "rating_average": 4.851955307262569,
   "rating_count": 358,
   "difficulty_average": 3.5391849529780566,
-  "favorites_count": 25028,
+  "favorites_count": 25032,
   "projects_count": 1315,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/6019/553563"
+  "download_url": "http://www.ravelry.com/dls/6019/553563",
+  "pdf": {
+    "filename": "957795.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\957795.pdf",
+    "url": "https://pdf.ravelrycache.com/CherryHeart/1836284/Nature_s_Walk_-_FREE_Version.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482036&Signature=XGHb90IIvlN72tb02rHc%2F2RSQdA%3D&key_expires=1768482036&key=CMzDPe2jqcHPKIJkdJTWrQ",
+    "size_bytes": 2444583
+  }
 }

@@ -1,0 +1,51 @@
+{
+  "id": 7427897,
+  "name": "Herrade slipover",
+  "permalink": "herrade-slipover",
+  "url": "https://www.ravelry.com/patterns/library/herrade-slipover",
+  "external_url": "",
+  "designer_name": "Dominique Krucker",
+  "project_type": "Vest",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Gilliatt",
+      "pct": null
+    },
+    {
+      "fiber": "Yak / Merinos 50/50",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Ribbing",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Short rows",
+    "Top-down"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.5,
+    4.5
+  ],
+  "published": "2025/04/01",
+  "sizes_available": "S-M-L-XL",
+  "rating_average": 4.571428571428571,
+  "rating_count": 7,
+  "difficulty_average": 2.75,
+  "favorites_count": 924,
+  "projects_count": 25,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/70169/998617",
+  "pdf": {
+    "filename": "7427897.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7427897.pdf",
+    "url": "https://pdf.ravelrycache.com/Tricodo/1998482/Herrade_slip_over.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480870&Signature=Fd1uTLbHi%2BNK%2FN%2FWW1pvkR4O5Mc%3D&key_expires=1768480870&key=V3HfIB5BR36lUIpDs7EHoQ",
+    "size_bytes": 10436343
+  }
+}

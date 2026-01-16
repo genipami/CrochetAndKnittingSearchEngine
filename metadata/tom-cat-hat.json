@@ -17,7 +17,9 @@
   "stitches_used": [
     "Treble crochet (tr)"
   ],
-  "techniques_used": [],
+  "techniques_used": [
+    "Written"
+  ],
   "hook_sizes_mm": [
     6.0
   ],
@@ -30,5 +32,11 @@
   "favorites_count": 17,
   "projects_count": 2,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/105459/1048417"
+  "download_url": "http://www.ravelry.com/dls/105459/1048417",
+  "pdf": {
+    "filename": "7492480.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7492480.pdf",
+    "url": "https://pdf.ravelrycache.com/JuanTheYarnAddict/2114823/Tom_Cat_Hat_Final.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483817&Signature=bHv9vmNbF55s1rkCOtaKF%2BghRt0%3D&key_expires=1768483817&key=LsJJ9LemXr5UkbumUUnnxA",
+    "size_bytes": 370665
+  }
 }

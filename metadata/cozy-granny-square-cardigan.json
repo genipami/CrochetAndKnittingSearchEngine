@@ -21,11 +21,13 @@
   "stitches_used": [
     "Double crochet (dc)",
     "Granny",
+    "Ribbing",
     "Single crochet (sc)",
     "Treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamed"
+    "Seamed",
+    "Written"
   ],
   "hook_sizes_mm": [
     5.0
@@ -36,8 +38,8 @@
   "rating_average": 4.7164179104477615,
   "rating_count": 67,
   "difficulty_average": 2.4923076923076923,
-  "favorites_count": 11464,
-  "projects_count": 389,
+  "favorites_count": 11465,
+  "projects_count": 390,
   "free_ravelry_download": false,
   "download_url": "https://hayhaycrochet.com/crochet-patterns/cardigans/crochet-cozy-granny-square-cardigan/"
 }

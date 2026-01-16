@@ -17,13 +17,16 @@
   "stitches_used": [
     "Double crochet (dc)",
     "Half double crochet (hdc)",
+    "Lace",
     "Single crochet (sc)",
     "Treble crochet (tr)"
   ],
   "techniques_used": [
+    "Lace",
     "Seamed",
     "Seamless",
-    "Top-down"
+    "Top-down",
+    "Written"
   ],
   "hook_sizes_mm": [
     3.5
@@ -34,7 +37,7 @@
   "rating_average": 4.8,
   "rating_count": 10,
   "difficulty_average": 4.75,
-  "favorites_count": 537,
+  "favorites_count": 538,
   "projects_count": 133,
   "free_ravelry_download": false,
   "download_url": "https://www.expressionfiberarts.com/products/appetency.html"

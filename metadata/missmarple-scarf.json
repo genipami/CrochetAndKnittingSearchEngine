@@ -1,0 +1,49 @@
+{
+  "id": 307038,
+  "name": "MissMarple Scarf",
+  "permalink": "missmarple-scarf",
+  "url": "https://www.ravelry.com/patterns/library/missmarple-scarf",
+  "external_url": "",
+  "designer_name": "SusanneS-vV",
+  "project_type": "Scarf",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Lima",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Garter stitch",
+    "Ribbing",
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Blocking",
+    "Seamless",
+    "Short rows",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.5,
+    5.5
+  ],
+  "published": "2012/01/01",
+  "sizes_available": "20 cm wide and 80 cm long",
+  "rating_average": 4.544159544159545,
+  "rating_count": 702,
+  "difficulty_average": 2.174468085106383,
+  "favorites_count": 20103,
+  "projects_count": 2577,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/25823/103124",
+  "pdf": {
+    "filename": "307038.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\307038.pdf",
+    "url": "https://pdf.ravelrycache.com/SusanneS-vV/161284/Pattern_MissMarple_Scarf.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481840&Signature=AAMTPt3Zf8FcUPh7XlOmu%2BkfNMY%3D&key_expires=1768481840&key=XYHyfZE1IW087UTV9TlqQg",
+    "size_bytes": 25028604
+  }
+}

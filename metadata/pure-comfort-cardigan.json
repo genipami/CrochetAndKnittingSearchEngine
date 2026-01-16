@@ -1,0 +1,44 @@
+{
+  "id": 880004,
+  "name": "Pure Comfort Cardigan",
+  "permalink": "pure-comfort-cardigan",
+  "url": "https://www.ravelry.com/patterns/library/pure-comfort-cardigan",
+  "external_url": "https://biscotte.org/PureComfort",
+  "designer_name": "Andrea Yetman",
+  "project_type": "Cardigan",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "DK Pure",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Ribbing",
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Modular",
+    "Seamless",
+    "Top-down",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.75,
+    4.0
+  ],
+  "published": "2018/11/01",
+  "sizes_available": "XS (S, M, L, XL, 2XL, 3XL, 4XL, 5XL)",
+  "rating_average": 4.515384615384615,
+  "rating_count": 130,
+  "difficulty_average": 3.968503937007874,
+  "favorites_count": 19248,
+  "projects_count": 558,
+  "free_ravelry_download": false,
+  "download_url": "https://biscotte.org/PureComfort"
+}

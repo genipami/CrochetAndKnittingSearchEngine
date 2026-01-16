@@ -13,7 +13,9 @@
     "Single crochet (sc)",
     "Treble crochet (tr)"
   ],
-  "techniques_used": [],
+  "techniques_used": [
+    "Written"
+  ],
   "hook_sizes_mm": [
     6.0
   ],
@@ -26,5 +28,11 @@
   "favorites_count": 54,
   "projects_count": 1,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/12213/1048445"
+  "download_url": "http://www.ravelry.com/dls/12213/1048445",
+  "pdf": {
+    "filename": "7492519.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7492519.pdf",
+    "url": "https://pdf.ravelrycache.com/froggyhoppy/2114878/The_Hannah_Scarf.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483635&Signature=VGFon64E0oolvNRyxGY69j783cM%3D&key_expires=1768483635&key=MofIprk45-ng--4spshTHQ",
+    "size_bytes": 765896
+  }
 }

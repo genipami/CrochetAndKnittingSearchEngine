@@ -1,0 +1,50 @@
+{
+  "id": 1042327,
+  "name": "Versa Cowl",
+  "permalink": "versa-cowl",
+  "url": "https://www.ravelry.com/patterns/library/versa-cowl",
+  "external_url": "",
+  "designer_name": "Aimee Pelletier",
+  "project_type": "Shawl/Wrap",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Opal",
+      "pct": null
+    },
+    {
+      "fiber": "Rios",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Seamed",
+    "Seamless",
+    "Stranded colorwork"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    5.0
+  ],
+  "published": "2020/06/01",
+  "sizes_available": "One Size",
+  "rating_average": 4.809885931558935,
+  "rating_count": 263,
+  "difficulty_average": 2.252032520325203,
+  "favorites_count": 10675,
+  "projects_count": 992,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/21377/619007",
+  "pdf": {
+    "filename": "1042327.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1042327.pdf",
+    "url": "https://pdf.ravelrycache.com/darnknitanyway/1148756/DKA_Pattern_June_Maker_Versa_Cowl_Final.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484011&Signature=fZUGCbGz4q6Wc7oAL8cZ6UfCC0Q%3D&key_expires=1768484011&key=pSv4ixXCSwLONWrgIeoW6A",
+    "size_bytes": 190411
+  }
+}

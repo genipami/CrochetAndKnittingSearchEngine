@@ -1,0 +1,44 @@
+{
+  "id": 315462,
+  "name": "Scraptastic Hat",
+  "permalink": "scraptastic-hat",
+  "url": "https://www.ravelry.com/patterns/library/scraptastic-hat",
+  "external_url": "",
+  "designer_name": "Jane Tanner",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Primo Fingering",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "In the round",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.25
+  ],
+  "published": "2012/04/01",
+  "sizes_available": "small, medium, large",
+  "rating_average": 4.652329749103942,
+  "rating_count": 279,
+  "difficulty_average": 1.674911660777385,
+  "favorites_count": 6351,
+  "projects_count": 1316,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/1363/100638",
+  "pdf": {
+    "filename": "315462.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\315462.pdf",
+    "url": "https://pdf.ravelrycache.com/KnitJaneKnit/157500/ScraptasticHat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482901&Signature=jYbwR9JVu6rSm7I6kQZvk%2Fr5eMw%3D&key_expires=1768482901&key=JCUh2k-EOS5hTZJJjTqDXA",
+    "size_bytes": 607134
+  }
+}

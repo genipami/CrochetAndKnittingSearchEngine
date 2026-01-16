@@ -1,0 +1,51 @@
+{
+  "id": 966600,
+  "name": "Metropolis",
+  "permalink": "metropolis-3",
+  "url": "https://www.ravelry.com/patterns/library/metropolis-3",
+  "external_url": "",
+  "designer_name": "Tanis Lavallee",
+  "project_type": "Pullover",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Bulky",
+  "materials": [
+    {
+      "fiber": "PureWash Chunky",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Ribbing",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Blocking",
+    "In the round",
+    "Seamless",
+    "Short rows",
+    "Top-down",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    6.0,
+    7.0,
+    8.0
+  ],
+  "published": "2019/10/01",
+  "sizes_available": "31 (33.25, 36, 38.5, 41.25, 45.25) [48, 52, 56, 60, 64]\"",
+  "rating_average": 4.747603833865814,
+  "rating_count": 313,
+  "difficulty_average": 2.787878787878788,
+  "favorites_count": 22115,
+  "projects_count": 1343,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/5968/559302",
+  "pdf": {
+    "filename": "966600.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\966600.pdf",
+    "url": "https://pdf.ravelrycache.com/tanisfiberarts/1027949/Metropolis.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481730&Signature=PPlyvUuVxc6agDAW3YKQ18aXqEU%3D&key_expires=1768481730&key=oP8t3FYCGy7GQun2Eq9ZwA",
+    "size_bytes": 5624041
+  }
+}

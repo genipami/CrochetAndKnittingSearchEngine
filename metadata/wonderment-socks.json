@@ -1,0 +1,49 @@
+{
+  "id": 1124911,
+  "name": "Wonderment Socks",
+  "permalink": "wonderment-socks",
+  "url": "https://www.ravelry.com/patterns/library/wonderment-socks",
+  "external_url": "",
+  "designer_name": "Debbie Ford",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Extrafine Sock",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Cable",
+    "Garter stitch",
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Cables",
+    "Charted",
+    "Kitchener stitch",
+    "Top-down",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.25
+  ],
+  "published": "2021/03/01",
+  "sizes_available": "Adult - Small (Medium, Large)",
+  "rating_average": 4.819444444444445,
+  "rating_count": 72,
+  "difficulty_average": 2.926470588235294,
+  "favorites_count": 4872,
+  "projects_count": 354,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/81820/685641",
+  "pdf": {
+    "filename": "1124911.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1124911.pdf",
+    "url": "https://pdf.ravelrycache.com/DinkyDebbie/1292884/wonderment_socks_published_copy.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484196&Signature=VvqA3aK4SClz6mQDDWXsx4bWC4Q%3D&key_expires=1768484196&key=KZvDuynPPZVQz841WQpyrQ",
+    "size_bytes": 624006
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": 795126,
+  "name": "V-stitch Vortex",
+  "permalink": "v-stitch-vortex",
+  "url": "https://www.ravelry.com/patterns/library/v-stitch-vortex",
+  "external_url": "",
+  "designer_name": "Susan Sands",
+  "project_type": "Shawl/Wrap",
+  "fiber_art": "Crochet",
+  "yarn_weight": "Lace",
+  "materials": [
+    {
+      "fiber": "Soft Knitting & Crochet Cotton 3 Ply",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Double crochet (dc)",
+    "Treble crochet (tr)",
+    "V-stitch"
+  ],
+  "techniques_used": [
+    "Charted",
+    "Written"
+  ],
+  "hook_sizes_mm": [
+    3.0
+  ],
+  "needle_sizes_mm": [],
+  "published": "2017/12/01",
+  "sizes_available": "One size - easily adjustable ",
+  "rating_average": 4.741935483870968,
+  "rating_count": 31,
+  "difficulty_average": 1.7407407407407407,
+  "favorites_count": 1112,
+  "projects_count": 130,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/55127/432552",
+  "pdf": {
+    "filename": "795126.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\795126.pdf",
+    "url": "https://pdf.ravelrycache.com/susansands/775634/ss_v-stitch_vortex_v2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483968&Signature=%2BB4XpkfOMdCqfBJ5ZjNRYzXntLA%3D&key_expires=1768483968&key=ZsfWJszVg02g7L1W4HlBrQ",
+    "size_bytes": 1182657
+  }
+}

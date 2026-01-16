@@ -1,0 +1,52 @@
+{
+  "id": 7494105,
+  "name": "My own valentine",
+  "permalink": "my-own-valentine",
+  "url": "https://www.ravelry.com/patterns/library/my-own-valentine",
+  "external_url": "",
+  "designer_name": "Ostseewelle",
+  "project_type": "Scarf",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Järbo 2 tr Ull / Svensk Ull 2 tr",
+      "pct": null
+    },
+    {
+      "fiber": "Luxury Alpaca Cotton Fusion",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Garter stitch",
+    "Lace",
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "Lace",
+    "Short rows",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    5.0
+  ],
+  "published": "2026/01/01",
+  "sizes_available": "one size",
+  "rating_average": 0,
+  "rating_count": null,
+  "difficulty_average": 0,
+  "favorites_count": 1266,
+  "projects_count": 14,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/115618/1049561",
+  "pdf": {
+    "filename": "7494105.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7494105.pdf",
+    "url": "https://pdf.ravelrycache.com/ostseewelle/2117343/My_own_valentine_pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482008&Signature=szBJJqZEyvJoWk83FuJ6VVwuR4M%3D&key_expires=1768482008&key=tyqGp2pywvUfhQ4IR8xhsw",
+    "size_bytes": 1391994
+  }
+}

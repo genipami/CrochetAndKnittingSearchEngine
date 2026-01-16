@@ -1,0 +1,44 @@
+{
+  "id": 321017,
+  "name": "Porthos",
+  "permalink": "porthos-4",
+  "url": "https://www.ravelry.com/patterns/library/porthos-4",
+  "external_url": "",
+  "designer_name": "Caoua Coffee",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "4-fädig 4-ply",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Charted",
+    "In the round"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.25
+  ],
+  "published": "2012/05/01",
+  "sizes_available": "men's",
+  "rating_average": 4.68374558303887,
+  "rating_count": 566,
+  "difficulty_average": 2.5527272727272727,
+  "favorites_count": 8118,
+  "projects_count": 1807,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/2834/103906",
+  "pdf": {
+    "filename": "321017.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\321017.pdf",
+    "url": "https://pdf.ravelrycache.com/CaouaCoffee/162585/Porthos_musketeer_socks_v1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482530&Signature=JGKtzFLHfL23r1BQ%2FbVC0vZ0%2BhE%3D&key_expires=1768482530&key=NAKYUWFOBg_VQixZ8s_y7Q",
+    "size_bytes": 2904897
+  }
+}

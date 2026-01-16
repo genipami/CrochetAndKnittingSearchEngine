@@ -1,0 +1,54 @@
+{
+  "id": 1350397,
+  "name": "Bustleton Tee",
+  "permalink": "bustleton-tee",
+  "url": "https://www.ravelry.com/patterns/library/bustleton-tee",
+  "external_url": "",
+  "designer_name": "Erika Flory",
+  "project_type": "Pullover",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "FAVE sock",
+      "pct": null
+    },
+    {
+      "fiber": "Tender Prey Sock",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Ribbing",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Blocking",
+    "In the round",
+    "Seamless",
+    "Short rows",
+    "Top-down",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.25,
+    3.75
+  ],
+  "published": "2023/07/01",
+  "sizes_available": "A-H (see notes for full size information)",
+  "rating_average": 4.545454545454546,
+  "rating_count": 11,
+  "difficulty_average": 3.4166666666666665,
+  "favorites_count": 1684,
+  "projects_count": 72,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/1721/867655",
+  "pdf": {
+    "filename": "1350397.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1350397.pdf",
+    "url": "https://pdf.ravelrycache.com/erikaflory/1693105/Bustelton_Tee.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479276&Signature=u1olUgjzvYAsn4CJGTQSosfDjCw%3D&key_expires=1768479276&key=FbCrCFxxngUrvKt-zEX7yw",
+    "size_bytes": 1456137
+  }
+}

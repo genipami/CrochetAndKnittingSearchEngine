@@ -1,0 +1,57 @@
+{
+  "id": 321223,
+  "name": "Time Traveler Socks",
+  "permalink": "time-traveler-socks",
+  "url": "https://www.ravelry.com/patterns/library/time-traveler-socks",
+  "external_url": "",
+  "designer_name": "Liz Sedmak",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "DROPS Fabel",
+      "pct": null
+    },
+    {
+      "fiber": "Felici Fingering Weight",
+      "pct": null
+    },
+    {
+      "fiber": "Linie 3 Supersocke 100",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Ribbing",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Charted",
+    "In the round",
+    "Kitchener stitch",
+    "Seamless",
+    "Short rows",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.0
+  ],
+  "published": "2012/05/01",
+  "sizes_available": "7\" (8\", 9\", 10\", 11\", 12\") foot circumference",
+  "rating_average": 4.581850533807829,
+  "rating_count": 562,
+  "difficulty_average": 2.51268115942029,
+  "favorites_count": 9383,
+  "projects_count": 2936,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/13533/109598",
+  "pdf": {
+    "filename": "321223.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\321223.pdf",
+    "url": "https://pdf.ravelrycache.com/completelyhooked/199331/Time_Traveler_Sock_Pattern_v6.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483748&Signature=tkgEIL6BRepNCfJi3WzVGPw702Y%3D&key_expires=1768483748&key=VJu7C6KG4_Rss_jbadQrUg",
+    "size_bytes": 281058
+  }
+}

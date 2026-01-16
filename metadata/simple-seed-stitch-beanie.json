@@ -15,15 +15,20 @@
     }
   ],
   "stitches_used": [
+    "Back post stitch",
     "Double crochet (dc)",
+    "Front post stitch",
     "Half double crochet (hdc)",
+    "Ribbing",
+    "Seed stitch",
     "Single crochet (sc)",
     "Slip stitch (sl st)",
     "Treble crochet (tr)"
   ],
   "techniques_used": [
     "In the round",
-    "Top-down"
+    "Top-down",
+    "Written"
   ],
   "hook_sizes_mm": [
     5.5

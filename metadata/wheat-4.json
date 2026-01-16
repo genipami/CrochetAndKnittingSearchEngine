@@ -1,0 +1,49 @@
+{
+  "id": 412294,
+  "name": "Wheat",
+  "permalink": "wheat-4",
+  "url": "https://www.ravelry.com/patterns/library/wheat-4",
+  "external_url": "http://tincanknits.com/pattern-SC-wheat.html",
+  "designer_name": "tincanknits",
+  "project_type": "Scarf",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Cashmerino Worsted",
+      "pct": null
+    },
+    {
+      "fiber": "Elder",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    5.0
+  ],
+  "published": "2013/06/01",
+  "sizes_available": "one size",
+  "rating_average": 4.682860998650472,
+  "rating_count": 741,
+  "difficulty_average": 1.5072273324572931,
+  "favorites_count": 9958,
+  "projects_count": 2491,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/23602/159456",
+  "pdf": {
+    "filename": "412294.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\412294.pdf",
+    "url": "https://pdf.ravelrycache.com/tincanknits/1818235/WHEAT-tincanknits.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484133&Signature=DkYAU30bv%2FaxfIFVqlRNMDpPi%2Bo%3D&key_expires=1768484133&key=6l6VHnnThHk22gYasBVILQ",
+    "size_bytes": 3188251
+  }
+}

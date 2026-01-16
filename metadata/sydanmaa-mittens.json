@@ -1,0 +1,48 @@
+{
+  "id": 627322,
+  "name": "Sydänmaa Mittens",
+  "permalink": "sydanmaa-mittens",
+  "url": "https://www.ravelry.com/patterns/library/sydanmaa-mittens",
+  "external_url": "",
+  "designer_name": "Hanna Leväniemi",
+  "project_type": "Mittens/Gloves",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Alpaca Lana D'Oro",
+      "pct": null
+    },
+    {
+      "fiber": "Cascade 220®",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Cable",
+    "Stockinette stitch"
+  ],
+  "techniques_used": [
+    "Cables",
+    "Charted"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.5
+  ],
+  "published": "2015/12/01",
+  "sizes_available": "one size",
+  "rating_average": 4.7254901960784315,
+  "rating_count": 459,
+  "difficulty_average": 3.0546318289786223,
+  "favorites_count": 13944,
+  "projects_count": 1761,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/15202/306337",
+  "pdf": {
+    "filename": "627322.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\627322.pdf",
+    "url": "https://pdf.ravelrycache.com/handepande/533621/sydanmaa_mittens_v3.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483498&Signature=DwHzhMCJxI0W9LaDi6GYUwRvis4%3D&key_expires=1768483498&key=RhMbCfeXReZPqMM-cO4Lag",
+    "size_bytes": 4094166
+  }
+}

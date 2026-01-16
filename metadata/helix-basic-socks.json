@@ -1,0 +1,48 @@
+{
+  "id": 1144660,
+  "name": "Helix Basic socks",
+  "permalink": "helix-basic-socks",
+  "url": "https://www.ravelry.com/patterns/library/helix-basic-socks",
+  "external_url": "",
+  "designer_name": "Anna Zhuravleva",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "DROPS Fabel",
+      "pct": null
+    },
+    {
+      "fiber": "Superwash",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Top-down",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.0,
+    2.25
+  ],
+  "published": null,
+  "sizes_available": "S/M/L",
+  "rating_average": 4.780487804878049,
+  "rating_count": 41,
+  "difficulty_average": 3.076923076923077,
+  "favorites_count": 2545,
+  "projects_count": 288,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/83604/701145",
+  "pdf": {
+    "filename": "1144660.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1144660.pdf",
+    "url": "https://pdf.ravelrycache.com/annikecraft/1327748/Helix_Socks_EN.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480832&Signature=moPIUSsqckjSPQScUN3XNItA3IQ%3D&key_expires=1768480832&key=gVEhDBxNyyHMuD-SqRWsMw",
+    "size_bytes": 1333015
+  }
+}

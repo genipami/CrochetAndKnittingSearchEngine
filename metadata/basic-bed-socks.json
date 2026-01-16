@@ -1,0 +1,55 @@
+{
+  "id": 916206,
+  "name": "Basic Bed Socks",
+  "permalink": "basic-bed-socks",
+  "url": "https://www.ravelry.com/patterns/library/basic-bed-socks",
+  "external_url": "",
+  "designer_name": "Emily Bolduan",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "8 ply Superfine Merino",
+      "pct": null
+    },
+    {
+      "fiber": "Organic Merino 8 ply DK",
+      "pct": null
+    },
+    {
+      "fiber": "Superfine Merino 8 Ply / DK",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Ribbing",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.0,
+    3.5
+  ],
+  "published": null,
+  "sizes_available": "European size 36 (38, 40) or custom",
+  "rating_average": 4.595238095238095,
+  "rating_count": 84,
+  "difficulty_average": 2.4125,
+  "favorites_count": 5420,
+  "projects_count": 514,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/63586/523964",
+  "pdf": {
+    "filename": "916206.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\916206.pdf",
+    "url": "https://pdf.ravelrycache.com/hellomakermaker/958044/Basic_Bed_Socks.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478990&Signature=oZa9cx1MXH95iEe0MlxSeVuuK8E%3D&key_expires=1768478990&key=2K1d-SUSYfP4CeBZxlPrDA",
+    "size_bytes": 1116468
+  }
+}

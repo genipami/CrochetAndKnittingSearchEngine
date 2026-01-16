@@ -1,0 +1,52 @@
+{
+  "id": 7421318,
+  "name": "Sock Shoes",
+  "permalink": "sock-shoes",
+  "url": "https://www.ravelry.com/patterns/library/sock-shoes",
+  "external_url": "",
+  "designer_name": "imawale imawale",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "4-fädig 4-ply",
+      "pct": null
+    },
+    {
+      "fiber": "Opal 4-fach | 4-ply",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Cable",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Cables",
+    "Charted",
+    "In the round",
+    "Kitchener stitch",
+    "Top-down"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.25,
+    2.5
+  ],
+  "published": "2025/03/01",
+  "sizes_available": "64 sts, 72 sts, 80 sts",
+  "rating_average": 4.8125,
+  "rating_count": 16,
+  "difficulty_average": 3.8125,
+  "favorites_count": 584,
+  "projects_count": 78,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/29564/1005635",
+  "pdf": {
+    "filename": "7421318.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7421318.pdf",
+    "url": "https://pdf.ravelrycache.com/imawale/2015660/Sock_Shoes_final_version.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483185&Signature=b7dxTA%2FPQAf9Kp9kh%2BuvnU%2BcwVo%3D&key_expires=1768483185&key=6EIEtwg41EiQ5dMnUKojBA",
+    "size_bytes": 436439
+  }
+}

@@ -22,7 +22,7 @@
   ],
   "techniques_used": [
     "In the round",
-    "Tapestry crochet"
+    "Written"
   ],
   "hook_sizes_mm": [
     3.0
@@ -33,8 +33,14 @@
   "rating_average": 4.85,
   "rating_count": 20,
   "difficulty_average": 2.35,
-  "favorites_count": 4104,
+  "favorites_count": 4111,
   "projects_count": 120,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/96881/859640"
+  "download_url": "http://www.ravelry.com/dls/96881/859640",
+  "pdf": {
+    "filename": "1340100.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1340100.pdf",
+    "url": "https://pdf.ravelrycache.com/Moccrochet/1674374/Flower_coaster_Pattern_Ngahtp.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479078&Signature=lSrwZldo%2BJFsggEDHtDq6ot2peM%3D&key_expires=1768479078&key=IDazPF2xksY3s9pfVoBSjQ",
+    "size_bytes": 2252867
+  }
 }

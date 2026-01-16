@@ -1,0 +1,65 @@
+{
+  "id": 250960,
+  "name": "Quick Bulky Mitten",
+  "permalink": "quick-bulky-mitten",
+  "url": "https://www.ravelry.com/patterns/library/quick-bulky-mitten",
+  "external_url": "",
+  "designer_name": "Aimee Pelletier",
+  "project_type": "Mittens/Gloves",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Bulky",
+  "materials": [
+    {
+      "fiber": "Bulky",
+      "pct": null
+    },
+    {
+      "fiber": "Kid Fur",
+      "pct": null
+    },
+    {
+      "fiber": "Macro",
+      "pct": null
+    },
+    {
+      "fiber": "Magnum",
+      "pct": null
+    },
+    {
+      "fiber": "Osprey",
+      "pct": null
+    },
+    {
+      "fiber": "Rasta",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Stockinette stitch"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Kitchener stitch",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    6.0,
+    8.0
+  ],
+  "published": null,
+  "sizes_available": "Adult small & Adult large",
+  "rating_average": 4.694352159468439,
+  "rating_count": 301,
+  "difficulty_average": 1.914590747330961,
+  "favorites_count": 6318,
+  "projects_count": 1174,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/22166/68736",
+  "pdf": {
+    "filename": "250960.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\250960.pdf",
+    "url": "https://pdf.ravelrycache.com/darnknitanyway/1214165/DKA_Pattern_2020_Quick_Bulky_Mittens_1_page_FINAL.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482600&Signature=B8BDdaYMJiVn5nYi65LonIyyBeQ%3D&key_expires=1768482600&key=QMXeTx8kVLQoa-w4U_r0bA",
+    "size_bytes": 160838
+  }
+}

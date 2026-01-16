@@ -1,0 +1,53 @@
+{
+  "id": 1017343,
+  "name": "Fairy Maiden",
+  "permalink": "fairy-maiden",
+  "url": "https://www.ravelry.com/patterns/library/fairy-maiden",
+  "external_url": "",
+  "designer_name": "This Handmade Life",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Finch",
+      "pct": null
+    },
+    {
+      "fiber": "Tern",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Cable",
+    "Lace",
+    "Shell",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Cables",
+    "Charted",
+    "In the round",
+    "Lace",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.5
+  ],
+  "published": "2020/03/01",
+  "sizes_available": "one size, see notes",
+  "rating_average": 4.804270462633452,
+  "rating_count": 281,
+  "difficulty_average": 3.003861003861004,
+  "favorites_count": 14677,
+  "projects_count": 1136,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/55875/598829",
+  "pdf": {
+    "filename": "1017343.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1017343.pdf",
+    "url": "https://pdf.ravelrycache.com/thishandmadelife/1108613/Fairy_Maiden.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480260&Signature=i3ZU2IHlF8etFlRDorjjUaZUq50%3D&key_expires=1768480260&key=DAjFOE_BWkcDvmlQ3lIkoA",
+    "size_bytes": 15076170
+  }
+}

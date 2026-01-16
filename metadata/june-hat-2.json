@@ -1,0 +1,48 @@
+{
+  "id": 937550,
+  "name": "June Hat",
+  "permalink": "june-hat-2",
+  "url": "https://www.ravelry.com/patterns/library/june-hat-2",
+  "external_url": "",
+  "designer_name": "Meghan Kelly",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Germantown",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Reverse stockinette",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Blocking",
+    "Bottom-up",
+    "In the round",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.75,
+    4.5
+  ],
+  "published": "2019/06/01",
+  "sizes_available": "16” (40 cm) circumference, unstretched, 8.25” (21 cm) height",
+  "rating_average": 4.823943661971831,
+  "rating_count": 284,
+  "difficulty_average": 2.090909090909091,
+  "favorites_count": 12088,
+  "projects_count": 1357,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/13463/539318",
+  "pdf": {
+    "filename": "937550.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\937550.pdf",
+    "url": "https://pdf.ravelrycache.com/KelbourneWoolens/989063/Year_of_Hats_June_Hat_V2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481129&Signature=9Bb7GK%2BpUZUur9Pxsqy6Cu3w%2F0Q%3D&key_expires=1768481129&key=a-EDCV5_eO82cEY30Z3r2Q",
+    "size_bytes": 2575207
+  }
+}

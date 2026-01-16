@@ -1,0 +1,50 @@
+{
+  "id": 7318086,
+  "name": "Moose Balaclava",
+  "permalink": "moose-balaclava",
+  "url": "https://www.ravelry.com/patterns/library/moose-balaclava",
+  "external_url": "",
+  "designer_name": "slow stuff knitwear",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Bulky",
+  "materials": [
+    {
+      "fiber": "DROPS Brushed Alpaca Silk",
+      "pct": null
+    },
+    {
+      "fiber": "DROPS Merino Extra Fine",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Blocking",
+    "In the round",
+    "Top-down",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.5,
+    5.0
+  ],
+  "published": "2024/02/01",
+  "sizes_available": "S/M (L/XL)",
+  "rating_average": 4.818181818181818,
+  "rating_count": 11,
+  "difficulty_average": 2.6,
+  "favorites_count": 1266,
+  "projects_count": 56,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/104532/911754",
+  "pdf": {
+    "filename": "7318086.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7318086.pdf",
+    "url": "https://pdf.ravelrycache.com/slowstuffknitwear/1936147/Moose_Balaclava_pattern_vEN1.2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481913&Signature=yn7IsEFE%2FaUSTCfL7P02Kn7P%2BV4%3D&key_expires=1768481913&key=I9yunNIuIG4KAayLAqG8Sg",
+    "size_bytes": 212924
+  }
+}

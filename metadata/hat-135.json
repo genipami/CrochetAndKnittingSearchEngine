@@ -1,0 +1,45 @@
+{
+  "id": 1176966,
+  "name": "Hat",
+  "permalink": "hat-135",
+  "url": "https://www.ravelry.com/patterns/library/hat-135",
+  "external_url": "",
+  "designer_name": "Andra Asars",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Bulky",
+  "materials": [
+    {
+      "fiber": "Kris",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "In the round"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    6.0,
+    6.5
+  ],
+  "published": "2021/09/01",
+  "sizes_available": "adult small and large",
+  "rating_average": 4.790697674418604,
+  "rating_count": 43,
+  "difficulty_average": 1.5853658536585367,
+  "favorites_count": 2200,
+  "projects_count": 261,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/31223/725954",
+  "pdf": {
+    "filename": "1176966.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1176966.pdf",
+    "url": "https://pdf.ravelrycache.com/roentgen/1381040/hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480780&Signature=3PItpGkgl2X8VOdJroKRNcqgAdE%3D&key_expires=1768480780&key=4BSwNt58rzvKtn07tPaemQ",
+    "size_bytes": 396375
+  }
+}

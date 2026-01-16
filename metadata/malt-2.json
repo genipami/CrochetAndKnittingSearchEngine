@@ -1,0 +1,45 @@
+{
+  "id": 412296,
+  "name": "Malt",
+  "permalink": "malt-2",
+  "url": "https://www.ravelry.com/patterns/library/malt-2",
+  "external_url": "https://www.tincanknits.com/pattern/malt?g=1",
+  "designer_name": "tincanknits",
+  "project_type": "Blanket",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Cashmerino Worsted",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    5.0
+  ],
+  "published": "2013/06/01",
+  "sizes_available": "Stroller (Baby, Crib, Throw)",
+  "rating_average": 4.642228739002933,
+  "rating_count": 341,
+  "difficulty_average": 1.5441595441595442,
+  "favorites_count": 11293,
+  "projects_count": 1195,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/23602/159457",
+  "pdf": {
+    "filename": "412296.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\412296.pdf",
+    "url": "https://pdf.ravelrycache.com/tincanknits/2084227/MALT-tincanknits.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481647&Signature=G98T2wheB1yILDs2tRR0TAWvAGE%3D&key_expires=1768481647&key=f6bEyvtCo7gSfmBFXbB1hw",
+    "size_bytes": 2301959
+  }
+}

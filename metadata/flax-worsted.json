@@ -1,0 +1,76 @@
+{
+  "id": 443533,
+  "name": "Flax worsted",
+  "permalink": "flax-worsted",
+  "url": "https://www.ravelry.com/patterns/library/flax-worsted",
+  "external_url": "http://www.tincanknits.com/pattern-SC-flax.html",
+  "designer_name": "tincanknits",
+  "project_type": "Child",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "American Cormo",
+      "pct": null
+    },
+    {
+      "fiber": "Elder",
+      "pct": null
+    },
+    {
+      "fiber": "Gilliatt",
+      "pct": null
+    },
+    {
+      "fiber": "Merino Aran",
+      "pct": null
+    },
+    {
+      "fiber": "Merino Twist Worsted",
+      "pct": null
+    },
+    {
+      "fiber": "Shelter",
+      "pct": null
+    },
+    {
+      "fiber": "Superwash Worsted",
+      "pct": null
+    },
+    {
+      "fiber": "Sweater",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Seamless",
+    "Top-down",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.0,
+    5.0
+  ],
+  "published": "2013/10/01",
+  "sizes_available": "0-6 mo (6-12 mo, 1-2 yrs, 2-4 yrs, 4-6 yrs, 6-8 yrs, 8-10 yrs, XS, S, S/M, M, M/L, L, XL, XXL, 3XL, 4XL, 5XL, 6XL)",
+  "rating_average": 4.762857977790766,
+  "rating_count": 6844,
+  "difficulty_average": 2.3900151285930407,
+  "favorites_count": 91398,
+  "projects_count": 32304,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/23602/179787",
+  "pdf": {
+    "filename": "443533.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\443533.pdf",
+    "url": "https://pdf.ravelrycache.com/tincanknits/1825921/FLAX-tincanknits-WORSTED.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480434&Signature=4xfhxr7bgfNYPQ6MN%2BRJ1bPmLes%3D&key_expires=1768480434&key=7rYOk8cgh2ygiKvzJuQMBA",
+    "size_bytes": 3845674
+  }
+}

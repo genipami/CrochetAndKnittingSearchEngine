@@ -22,7 +22,8 @@
     "Treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamed"
+    "Seamed",
+    "Written"
   ],
   "hook_sizes_mm": [
     3.0
@@ -33,8 +34,14 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 130,
+  "favorites_count": 134,
   "projects_count": 31,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/107284/1043019"
+  "download_url": "http://www.ravelry.com/dls/107284/1043019",
+  "pdf": {
+    "filename": "7485170.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7485170.pdf",
+    "url": "https://pdf.ravelrycache.com/KamiG2/2101869/Evergranny_Tote_Bags_Crochet_Pattern_by_Kami_Crochet.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480162&Signature=ss7GQLekK3Es3dNVv2PnzhHEuTM%3D&key_expires=1768480162&key=t7FNpEdf9YS16eZgRotVfQ",
+    "size_bytes": 29605847
+  }
 }

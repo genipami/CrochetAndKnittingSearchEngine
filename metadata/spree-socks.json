@@ -1,0 +1,56 @@
+{
+  "id": 700918,
+  "name": "Spree Socks",
+  "permalink": "spree-socks",
+  "url": "https://www.ravelry.com/patterns/library/spree-socks",
+  "external_url": "",
+  "designer_name": "Kemper Wray",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "Blimp DK",
+      "pct": null
+    },
+    {
+      "fiber": "Merino DK",
+      "pct": null
+    },
+    {
+      "fiber": "Rios",
+      "pct": null
+    },
+    {
+      "fiber": "Superwash Sock 80/20",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.25,
+    3.5
+  ],
+  "published": "2016/10/01",
+  "sizes_available": "Small, Medium and Large",
+  "rating_average": 4.645161290322581,
+  "rating_count": 155,
+  "difficulty_average": 2.2653061224489797,
+  "favorites_count": 3419,
+  "projects_count": 798,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/50260/361778",
+  "pdf": {
+    "filename": "700918.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\700918.pdf",
+    "url": "https://pdf.ravelrycache.com/wraybot/634991/Spree_Socks.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483301&Signature=DOZQfE%2BSC73%2ByXsoXcGxZC6CPiI%3D&key_expires=1768483301&key=QbJPxbwVt9KqE4Vv-DWaaA",
+    "size_bytes": 1332950
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": 1009898,
+  "name": "MT Baby Raglan",
+  "permalink": "mt-baby-raglan",
+  "url": "https://www.ravelry.com/patterns/library/mt-baby-raglan",
+  "external_url": "https://madelinetosh.com/collections/patterns/products/mt-baby-raglan",
+  "designer_name": "Amy Gunderson",
+  "project_type": "Baby",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "Tosh DK",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Raglan",
+    "Seamless",
+    "Top-down"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.5,
+    4.0
+  ],
+  "published": "2020/03/01",
+  "sizes_available": "6 (12, 24) month",
+  "rating_average": 4.876923076923077,
+  "rating_count": 65,
+  "difficulty_average": 2.1636363636363636,
+  "favorites_count": 1749,
+  "projects_count": 252,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/535/982038",
+  "pdf": {
+    "filename": "1009898.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1009898.pdf",
+    "url": "https://pdf.ravelrycache.com/madelinetosh/1957842/BabyRaglan_v2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481974&Signature=N1hSkSRgMx8VcdmHzerS60DFTQU%3D&key_expires=1768481974&key=4QLvMpz_uUDPsKCTb4ODIw",
+    "size_bytes": 664843
+  }
+}

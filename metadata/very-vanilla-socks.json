@@ -1,0 +1,45 @@
+{
+  "id": 218800,
+  "name": "Very Vanilla Socks",
+  "permalink": "very-vanilla-socks",
+  "url": "https://www.ravelry.com/patterns/library/very-vanilla-socks",
+  "external_url": "",
+  "designer_name": "Jo-Anne Klim",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Tosh Sock",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Kitchener stitch",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.25
+  ],
+  "published": "2010/12/01",
+  "sizes_available": "womens medium",
+  "rating_average": 4.771300448430493,
+  "rating_count": 223,
+  "difficulty_average": 2.4285714285714284,
+  "favorites_count": 4404,
+  "projects_count": 1384,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/16914/53569",
+  "pdf": {
+    "filename": "218800.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\218800.pdf",
+    "url": "https://pdf.ravelrycache.com/kbjknits/1988604/Very_Vanilla_Socks_2025_v7.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484013&Signature=qxzeqt%2FwUae%2B44GFZybY3iEmv1A%3D&key_expires=1768484013&key=4I98rmVM30o2zqnyVg93dQ",
+    "size_bytes": 286877
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": 1267366,
+  "name": "Portland Cap",
+  "permalink": "portland-cap",
+  "url": "https://www.ravelry.com/patterns/library/portland-cap",
+  "external_url": "https://blueskyfibers.com/",
+  "designer_name": "Mary Pranica",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Aran",
+  "materials": [
+    {
+      "fiber": "Woolstok Tweed",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Cable",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Cables",
+    "In the round",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    6.0
+  ],
+  "published": "2022/09/01",
+  "sizes_available": "One",
+  "rating_average": 4.752577319587629,
+  "rating_count": 97,
+  "difficulty_average": 2.3448275862068964,
+  "favorites_count": 3100,
+  "projects_count": 363,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/8201/800422",
+  "pdf": {
+    "filename": "1267366.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1267366.pdf",
+    "url": "https://pdf.ravelrycache.com/BlueSkyFibers/1543294/BSF_Comp_PortlandCap_WEB.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482533&Signature=pl8Fmrdut4hjrSCItEz8pXLCKoY%3D&key_expires=1768482533&key=MyZBbSAVU4Tb_ZtpYoSvhg",
+    "size_bytes": 969570
+  }
+}

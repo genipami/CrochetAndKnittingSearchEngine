@@ -1,0 +1,44 @@
+{
+  "id": 1300357,
+  "name": "But First, Socks",
+  "permalink": "but-first-socks",
+  "url": "https://www.ravelry.com/patterns/library/but-first-socks",
+  "external_url": "",
+  "designer_name": "Claire Borchardt",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "Prairie Spun DK",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Ribbing",
+    "Single crochet (sc)",
+    "Stockinette stitch"
+  ],
+  "techniques_used": [
+    "In the round"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.25
+  ],
+  "published": "2023/01/01",
+  "sizes_available": "7.25 (8, 8.75, 9.45\") / 18.5 (20.5, 22.25, 24) cm",
+  "rating_average": 4.833333333333333,
+  "rating_count": 18,
+  "difficulty_average": 2.5625,
+  "favorites_count": 1815,
+  "projects_count": 123,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/57383/891578",
+  "pdf": {
+    "filename": "1300357.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1300357.pdf",
+    "url": "https://pdf.ravelrycache.com/AutumnandIndigo/1825851/butfirst_socks.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479283&Signature=3diR8FQEfrDf17OAgid1Tpp5zuI%3D&key_expires=1768479283&key=zAqnUfbbZ0ATM5717-2yFg",
+    "size_bytes": 1460769
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": 7368352,
+  "name": "Halloween Ghostie",
+  "permalink": "halloween-ghostie",
+  "url": "https://www.ravelry.com/patterns/library/halloween-ghostie",
+  "external_url": "",
+  "designer_name": "Demi Tran",
+  "project_type": "Toys",
+  "fiber_art": "Crochet",
+  "yarn_weight": "Sport",
+  "materials": [
+    {
+      "fiber": "Jeans (Джинс)",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Double crochet (dc)",
+    "Half double crochet (hdc)",
+    "Single crochet (sc)",
+    "Slip stitch (sl st)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Written"
+  ],
+  "hook_sizes_mm": [
+    2.25
+  ],
+  "needle_sizes_mm": [],
+  "published": "2024/09/01",
+  "sizes_available": "12.5cm / 4.9inches",
+  "rating_average": 5.0,
+  "rating_count": 3,
+  "difficulty_average": 2.3333333333333335,
+  "favorites_count": 626,
+  "projects_count": 20,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/107205/951049",
+  "pdf": {
+    "filename": "7368352.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7368352.pdf",
+    "url": "https://pdf.ravelrycache.com/demiwool/2064938/Halloween_Ghostie.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480752&Signature=lssK9bby72IsS2345l2Q%2FqIAv7A%3D&key_expires=1768480752&key=x127zlJfRx9KmmGcRrGKGQ",
+    "size_bytes": 1797584
+  }
+}

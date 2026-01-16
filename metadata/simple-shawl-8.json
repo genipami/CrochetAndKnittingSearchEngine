@@ -1,0 +1,46 @@
+{
+  "id": 614143,
+  "name": "Simple Shawl",
+  "permalink": "simple-shawl-8",
+  "url": "https://www.ravelry.com/patterns/library/simple-shawl-8",
+  "external_url": "",
+  "designer_name": "Jane Hunter",
+  "project_type": "Shawl/Wrap",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Oasis Grande",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Eyelet lace",
+    "Garter stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Top-down",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.75,
+    4.0
+  ],
+  "published": null,
+  "sizes_available": "Approx 180 cms wide and 38cms deep at deepest point",
+  "rating_average": 4.72,
+  "rating_count": 300,
+  "difficulty_average": 2.027586206896552,
+  "favorites_count": 20503,
+  "projects_count": 1212,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/47374/296619",
+  "pdf": {
+    "filename": "614143.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\614143.pdf",
+    "url": "https://pdf.ravelrycache.com/janehunter8/965817/Simple_Shawl_Updated_Version_2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482999&Signature=olm%2B56IiP5KQu%2Bf8mcpJ4CmzF%2BY%3D&key_expires=1768482999&key=vjMuAqokI1IwIijc2U1R5A",
+    "size_bytes": 658769
+  }
+}

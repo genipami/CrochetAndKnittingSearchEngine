@@ -1,0 +1,53 @@
+{
+  "id": 832393,
+  "name": "Scrappy Granny",
+  "permalink": "scrappy-granny",
+  "url": "https://www.ravelry.com/patterns/library/scrappy-granny",
+  "external_url": "",
+  "designer_name": "Knitty Natty",
+  "project_type": "Other",
+  "fiber_art": "Crochet",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Biscotti Sock Fingering Weight",
+      "pct": null
+    },
+    {
+      "fiber": "Everyday Sock",
+      "pct": null
+    },
+    {
+      "fiber": "Lore Sock",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Granny",
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Written"
+  ],
+  "hook_sizes_mm": [
+    3.25
+  ],
+  "needle_sizes_mm": [],
+  "published": "2018/05/01",
+  "sizes_available": "Makes a 4.5 inch square",
+  "rating_average": 4.92,
+  "rating_count": 25,
+  "difficulty_average": 1.565217391304348,
+  "favorites_count": 1582,
+  "projects_count": 223,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/69242/460216",
+  "pdf": {
+    "filename": "832393.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\832393.pdf",
+    "url": "https://pdf.ravelrycache.com/knatalia/972675/Scrappy_Granny.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482899&Signature=p71sNV1HDY5%2F1yjP%2B2zendNmpqc%3D&key_expires=1768482899&key=lFuYECgUCEamvPkvWiOIUg",
+    "size_bytes": 150053
+  }
+}

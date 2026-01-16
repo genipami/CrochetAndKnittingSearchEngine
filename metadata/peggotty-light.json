@@ -1,0 +1,47 @@
+{
+  "id": 1359234,
+  "name": "Peggotty Light",
+  "permalink": "peggotty-light",
+  "url": "https://www.ravelry.com/patterns/library/peggotty-light",
+  "external_url": "",
+  "designer_name": "Claire Slade",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Sport",
+  "materials": [
+    {
+      "fiber": "Arroyo",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Garter stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "Charted",
+    "In the round",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.0
+  ],
+  "published": "2023/08/01",
+  "sizes_available": "S, M, L",
+  "rating_average": 4.923076923076923,
+  "rating_count": 13,
+  "difficulty_average": 2.230769230769231,
+  "favorites_count": 1216,
+  "projects_count": 47,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/5592/874309",
+  "pdf": {
+    "filename": "1359234.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1359234.pdf",
+    "url": "https://pdf.ravelrycache.com/VerilyKnits/1707814/PeggottyLight.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482308&Signature=jVxM%2BS3el97WLIiWMSSEKqoX%2F%2B4%3D&key_expires=1768482308&key=emTO34dSaN2HDPCnfmew3A",
+    "size_bytes": 3177045
+  }
+}

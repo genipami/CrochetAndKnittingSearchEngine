@@ -12,7 +12,10 @@
   "stitches_used": [
     "Granny"
   ],
-  "techniques_used": [],
+  "techniques_used": [
+    "Lace",
+    "Written"
+  ],
   "hook_sizes_mm": [
     3.5,
     4.0
@@ -26,5 +29,11 @@
   "favorites_count": 38,
   "projects_count": 0,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/115494/1048305"
+  "download_url": "http://www.ravelry.com/dls/115494/1048305",
+  "pdf": {
+    "filename": "7492331.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7492331.pdf",
+    "url": "https://pdf.ravelrycache.com/wonzable/2115774/lacy_granny_square_fingerless_mittenswrist_warmers_crochet_pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481307&Signature=tqpyaWWdwSlU28%2FnQeTn9Sf1RGc%3D&key_expires=1768481307&key=ZBcUKuBK6efc083wGqLf2g",
+    "size_bytes": 4993211
+  }
 }

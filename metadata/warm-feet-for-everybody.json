@@ -1,0 +1,48 @@
+{
+  "id": 1001090,
+  "name": "Warm Feet For Everybody",
+  "permalink": "warm-feet-for-everybody",
+  "url": "https://www.ravelry.com/patterns/library/warm-feet-for-everybody",
+  "external_url": "",
+  "designer_name": "Lizzie Fernandez",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "80/20 Sock",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Seamless",
+    "Short rows",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.25,
+    2.5,
+    2.75
+  ],
+  "published": "2020/01/01",
+  "sizes_available": "Sizes 56 (60, 64, 68), [72, 76, 80] stitches",
+  "rating_average": 4.729166666666667,
+  "rating_count": 48,
+  "difficulty_average": 2.6458333333333335,
+  "favorites_count": 2881,
+  "projects_count": 494,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/79695/585789",
+  "pdf": {
+    "filename": "1001090.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1001090.pdf",
+    "url": "https://pdf.ravelrycache.com/lizziefernandez/1189912/Warm_Feet_for_Everybody_2020-08-16.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484065&Signature=A7S6ebPvzq45sT7r6H8MsfBZ7p4%3D&key_expires=1768484065&key=oyYAdMOntM2xE3_CjMSdYA",
+    "size_bytes": 1327345
+  }
+}

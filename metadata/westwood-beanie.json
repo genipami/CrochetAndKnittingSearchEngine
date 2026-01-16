@@ -1,0 +1,47 @@
+{
+  "id": 1248522,
+  "name": "Westwood Beanie",
+  "permalink": "westwood-beanie",
+  "url": "https://www.ravelry.com/patterns/library/westwood-beanie",
+  "external_url": "",
+  "designer_name": "Amber Hastings",
+  "project_type": "Child",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Cascade 220®",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Cable",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "Cables",
+    "Charted",
+    "In the round"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.0,
+    5.0
+  ],
+  "published": "2022/06/01",
+  "sizes_available": "1(2,3,4) to fit head circumference of 18 (20, 22, 24)”/ 46 (51, 56, 61)cm",
+  "rating_average": 5.0,
+  "rating_count": 20,
+  "difficulty_average": 2.9523809523809526,
+  "favorites_count": 1386,
+  "projects_count": 114,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/89092/785073",
+  "pdf": {
+    "filename": "1248522.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1248522.pdf",
+    "url": "https://pdf.ravelrycache.com/ambtastic/1508071/Westwood_Beanie_2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484130&Signature=eqj1ZlOfGOu%2F1GLtf55chjJHkt0%3D&key_expires=1768484130&key=CbN-0P3gN0bPfClpBrjtCA",
+    "size_bytes": 2329839
+  }
+}

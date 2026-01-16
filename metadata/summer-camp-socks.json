@@ -1,0 +1,48 @@
+{
+  "id": 956682,
+  "name": "Summer Camp Socks",
+  "permalink": "summer-camp-socks",
+  "url": "https://www.ravelry.com/patterns/library/summer-camp-socks",
+  "external_url": "",
+  "designer_name": "Jill Zielinski",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Primo Fingering",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Blocking",
+    "In the round",
+    "Kitchener stitch",
+    "Seamless",
+    "Top-down",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.25
+  ],
+  "published": "2019/08/01",
+  "sizes_available": "Women’s Medium ",
+  "rating_average": 4.820143884892087,
+  "rating_count": 139,
+  "difficulty_average": 2.5203252032520327,
+  "favorites_count": 5432,
+  "projects_count": 813,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/19171/552220",
+  "pdf": {
+    "filename": "956682.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\956682.pdf",
+    "url": "https://pdf.ravelrycache.com/Knitterella/1023750/KNI-PAT35-SummerCampSocks-v2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483435&Signature=lhMjOTE7PXUzYxegNor37YLMZ1Y%3D&key_expires=1768483435&key=BRXSFwOPOOduAf-c1cJUbw",
+    "size_bytes": 3373675
+  }
+}

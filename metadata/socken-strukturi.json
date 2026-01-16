@@ -1,0 +1,45 @@
+{
+  "id": 7339512,
+  "name": "Socken Strukturi",
+  "permalink": "socken-strukturi",
+  "url": "https://www.ravelry.com/patterns/library/socken-strukturi",
+  "external_url": "",
+  "designer_name": "Petra Baur",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "High Twist",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Double crochet (dc)",
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Charted",
+    "In the round"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.5
+  ],
+  "published": "2024/05/01",
+  "sizes_available": "37/38- 42/43",
+  "rating_average": 4.9375,
+  "rating_count": 32,
+  "difficulty_average": 3.111111111111111,
+  "favorites_count": 790,
+  "projects_count": 113,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/92606/928624",
+  "pdf": {
+    "filename": "7339512.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7339512.pdf",
+    "url": "https://pdf.ravelrycache.com/SockenPetra/1833934/Socken_Strukturi.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483190&Signature=Jzh1WU6kRu%2FuG2HDazdG2qs2tUk%3D&key_expires=1768483190&key=e6YyskcXk_FZ_q2cze76nw",
+    "size_bytes": 9618637
+  }
+}

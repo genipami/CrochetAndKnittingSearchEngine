@@ -1,0 +1,63 @@
+{
+  "id": 1015085,
+  "name": "BriocheStarter Hat",
+  "permalink": "briochestarter-hat",
+  "url": "https://www.ravelry.com/patterns/library/briochestarter-hat",
+  "external_url": "",
+  "designer_name": "Raina K",
+  "project_type": "Child",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Arroyo",
+      "pct": null
+    },
+    {
+      "fiber": "DROPS Karisma",
+      "pct": null
+    },
+    {
+      "fiber": "Rialto DK (Solids)",
+      "pct": null
+    },
+    {
+      "fiber": "Rios",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Brioche stitch",
+    "Ribbing",
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "Brioche",
+    "Charted",
+    "In the round",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.0,
+    3.5
+  ],
+  "published": "2020/03/01",
+  "sizes_available": "one size",
+  "rating_average": 4.67816091954023,
+  "rating_count": 87,
+  "difficulty_average": 4.117647058823529,
+  "favorites_count": 9196,
+  "projects_count": 509,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/53911/596963",
+  "pdf": {
+    "filename": "1015085.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1015085.pdf",
+    "url": "https://pdf.ravelrycache.com/Lellekas1/1105188/BriocheStarter_Hat_.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479235&Signature=36rrfXwoi1rGFwyJR0Mvytrk2tw%3D&key_expires=1768479235&key=wInnbcrnxulQfDNVQcTkng",
+    "size_bytes": 1324952
+  }
+}

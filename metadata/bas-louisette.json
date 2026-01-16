@@ -1,0 +1,47 @@
+{
+  "id": 1092062,
+  "name": "Bas Louisette",
+  "permalink": "bas-louisette",
+  "url": "https://www.ravelry.com/patterns/library/bas-louisette",
+  "external_url": "",
+  "designer_name": "Isabelle St-Germain",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Chaussette",
+      "pct": null
+    },
+    {
+      "fiber": "L'Essentielle",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Kitchener stitch",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.25
+  ],
+  "published": "2020/11/01",
+  "sizes_available": "S-M-L",
+  "rating_average": 4.877551020408164,
+  "rating_count": 49,
+  "difficulty_average": 2.6097560975609757,
+  "favorites_count": 1593,
+  "projects_count": 445,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/59468/659256",
+  "pdf": {
+    "filename": "1092062.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1092062.pdf",
+    "url": "https://pdf.ravelrycache.com/isastgermain/1235142/Bas_Louisette.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478974&Signature=TSjA2aCklRYZWHLz6RqXOW2B6cU%3D&key_expires=1768478974&key=9py0kSAeW_usAQfUvXYkdA",
+    "size_bytes": 1435186
+  }
+}

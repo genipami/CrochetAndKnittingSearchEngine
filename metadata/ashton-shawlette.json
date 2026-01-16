@@ -1,0 +1,63 @@
+{
+  "id": 293756,
+  "name": "Ashton Shawlette",
+  "permalink": "ashton-shawlette",
+  "url": "https://www.ravelry.com/patterns/library/ashton-shawlette",
+  "external_url": "",
+  "designer_name": "Dee O'Keefe",
+  "project_type": "Shawl/Wrap",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Breathless",
+      "pct": null
+    },
+    {
+      "fiber": "Classic Merino Superwash Sock",
+      "pct": null
+    },
+    {
+      "fiber": "Lace Merino",
+      "pct": null
+    },
+    {
+      "fiber": "Sock",
+      "pct": null
+    },
+    {
+      "fiber": "Studio Worsted",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Lace",
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Charted",
+    "Lace",
+    "Top-down",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.75
+  ],
+  "published": "2012/01/01",
+  "sizes_available": "Shawlette 52 x 26\" (132 x 66 cm), but easily customizable up to a full shawl size",
+  "rating_average": 4.652482269503546,
+  "rating_count": 1269,
+  "difficulty_average": 3.1360491929285166,
+  "favorites_count": 22846,
+  "projects_count": 3387,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/25614/89628",
+  "pdf": {
+    "filename": "293756.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\293756.pdf",
+    "url": "https://pdf.ravelrycache.com/stevieland/1656231/ASHTON_APRIL_2023_REV.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478841&Signature=ABCwWs14%2Bjf4aNnboW43vxzwq0w%3D&key_expires=1768478841&key=P_gxdUdpnsQuE1CCNnmkbw",
+    "size_bytes": 1443463
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": 931753,
+  "name": "May I Borrow This Please",
+  "permalink": "may-i-borrow-this-please",
+  "url": "https://www.ravelry.com/patterns/library/may-i-borrow-this-please",
+  "external_url": "",
+  "designer_name": "Lorraine Waitman",
+  "project_type": "Shawl/Wrap",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "Estiva™",
+      "pct": null
+    },
+    {
+      "fiber": "Gradient",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Eyelet lace",
+    "Garter stitch",
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    5.5
+  ],
+  "published": "2019/05/01",
+  "sizes_available": "",
+  "rating_average": 4.8265060240963855,
+  "rating_count": 415,
+  "difficulty_average": 2.2030075187969924,
+  "favorites_count": 13132,
+  "projects_count": 1381,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/75729/535250",
+  "pdf": {
+    "filename": "931753.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\931753.pdf",
+    "url": "https://pdf.ravelrycache.com/Lpwaitman/1372643/May__I_Borrow_This.final-rev0921.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481691&Signature=es3kV6SRq%2FPr9j%2FMfMOYXzKzagU%3D&key_expires=1768481691&key=wXSOjTO_WIyxFVsKP2cP1Q",
+    "size_bytes": 1068781
+  }
+}

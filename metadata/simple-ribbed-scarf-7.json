@@ -1,0 +1,41 @@
+{
+  "id": 1164283,
+  "name": "Simple Ribbed Scarf",
+  "permalink": "simple-ribbed-scarf-7",
+  "url": "https://www.ravelry.com/patterns/library/simple-ribbed-scarf-7",
+  "external_url": "https://www.makersmercantile.com/shop/c/p/Simple-Ribbed-Pattern---free-pdf-pattern-download-x59384104.htm",
+  "designer_name": "Makers' Mercantile",
+  "project_type": "Scarf",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Bulky",
+  "materials": [
+    {
+      "fiber": "Donegal Tweed Farbverlauf",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    7.0
+  ],
+  "published": "2021/08/01",
+  "sizes_available": "One Size",
+  "rating_average": 4.833333333333333,
+  "rating_count": 6,
+  "difficulty_average": 1.3333333333333333,
+  "favorites_count": 559,
+  "projects_count": 139,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/33274/716319",
+  "pdf": {
+    "filename": "1164283.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1164283.pdf",
+    "url": "https://pdf.ravelrycache.com/MakersMercantile/1377070/SimpleRibbedPattern-DonegalTweedGradient.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482994&Signature=m6%2FEHIheA6p%2Bu91dFbZNuqDRl1E%3D&key_expires=1768482994&key=lfFIki3H1PPTTc7ptplfNg",
+    "size_bytes": 6010345
+  }
+}

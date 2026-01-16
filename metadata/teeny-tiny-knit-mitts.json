@@ -1,0 +1,47 @@
+{
+  "id": 866362,
+  "name": "Teeny-tiny Knit Mitts",
+  "permalink": "teeny-tiny-knit-mitts",
+  "url": "https://www.ravelry.com/patterns/library/teeny-tiny-knit-mitts",
+  "external_url": "",
+  "designer_name": "We Knit Together",
+  "project_type": "Mittens/Gloves",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "Boon DK",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Stockinette stitch"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "In the round",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.5,
+    4.0
+  ],
+  "published": "2018/09/01",
+  "sizes_available": "0-3 month (3-6 month, 6-12 month)",
+  "rating_average": 4.8465608465608465,
+  "rating_count": 189,
+  "difficulty_average": 1.9719101123595506,
+  "favorites_count": 8330,
+  "projects_count": 1092,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/71008/485764",
+  "pdf": {
+    "filename": "866362.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\866362.pdf",
+    "url": "https://pdf.ravelrycache.com/WeKnitTogether/881962/TeenyTinyKnitMitts.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483526&Signature=5Fyu56ogkH5k5BlHJCDONHZsSO8%3D&key_expires=1768483526&key=zUji7kqQrZPJ_MZVfI1WFg",
+    "size_bytes": 287342
+  }
+}

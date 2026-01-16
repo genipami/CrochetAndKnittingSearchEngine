@@ -1,0 +1,49 @@
+{
+  "id": 7490190,
+  "name": "Aurelis Scarf",
+  "permalink": "aurelis-scarf",
+  "url": "https://www.ravelry.com/patterns/library/aurelis-scarf",
+  "external_url": "",
+  "designer_name": "Agnes Kroner",
+  "project_type": "Scarf",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "DROPS Merino Extra Fine",
+      "pct": null
+    },
+    {
+      "fiber": "Pura Lana (50% alpaca)",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Blocking",
+    "Worked flat",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.5
+  ],
+  "published": "2025/12/01",
+  "sizes_available": "One size",
+  "rating_average": 0,
+  "rating_count": null,
+  "difficulty_average": 0,
+  "favorites_count": 1381,
+  "projects_count": 12,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/115086/1046918",
+  "pdf": {
+    "filename": "7490190.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7490190.pdf",
+    "url": "https://pdf.ravelrycache.com/AggieinStitches/2111135/Aurelis_Scarf_ENG.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478852&Signature=1qw1XfW5rAStIyJuF5QykNlwv9o%3D&key_expires=1768478852&key=pfmoTc-3Y7fvw2v-xgA56g",
+    "size_bytes": 1677479
+  }
+}

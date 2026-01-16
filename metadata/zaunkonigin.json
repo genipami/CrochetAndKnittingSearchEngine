@@ -1,0 +1,49 @@
+{
+  "id": 7458685,
+  "name": "Zaunkönig:in",
+  "permalink": "zaunkonigin",
+  "url": "https://www.ravelry.com/patterns/library/zaunkonigin",
+  "external_url": "",
+  "designer_name": "eigene Schult",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "DROPS Fabel",
+      "pct": null
+    },
+    {
+      "fiber": "Extrafeine Sockenwolle 4-fach",
+      "pct": null
+    },
+    {
+      "fiber": "Opal 4-fach | 4-ply",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.5
+  ],
+  "published": "2025/09/01",
+  "sizes_available": "S-M-L",
+  "rating_average": 5.0,
+  "rating_count": 3,
+  "difficulty_average": 1.6666666666666667,
+  "favorites_count": 167,
+  "projects_count": 14,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/111812/1022002",
+  "pdf": {
+    "filename": "7458685.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7458685.pdf",
+    "url": "https://pdf.ravelrycache.com/eigeneSchult/2051786/Zaunkonigin.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484275&Signature=T9jRFGmVXEeWmAAX7mdbXGxn6rg%3D&key_expires=1768484275&key=Ps6f-er2EiFgunRU6xtvxA",
+    "size_bytes": 4592246
+  }
+}

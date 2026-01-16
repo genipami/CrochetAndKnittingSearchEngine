@@ -1,0 +1,52 @@
+{
+  "id": 913760,
+  "name": "March Hat",
+  "permalink": "march-hat-2",
+  "url": "https://www.ravelry.com/patterns/library/march-hat-2",
+  "external_url": "",
+  "designer_name": "Meghan Babin",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Germantown",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Bobble",
+    "Cable",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Blocking",
+    "Bottom-up",
+    "Cables",
+    "Charted",
+    "In the round",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.25,
+    3.75,
+    4.5
+  ],
+  "published": "2019/03/01",
+  "sizes_available": "18 (20)” [45.75 (51) cm] circumference, 10.5” [26.5 cm] length.",
+  "rating_average": 4.670537010159651,
+  "rating_count": 689,
+  "difficulty_average": 2.4027777777777777,
+  "favorites_count": 27825,
+  "projects_count": 2873,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/13463/522224",
+  "pdf": {
+    "filename": "913760.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\913760.pdf",
+    "url": "https://pdf.ravelrycache.com/KelbourneWoolens/954534/Year_of_Hats_March_Hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481664&Signature=K9Zd%2B%2FZl6W0YfCe6BMNqzWrF0RA%3D&key_expires=1768481664&key=VqLOxj8lVM4022RKtavA1Q",
+    "size_bytes": 1399036
+  }
+}

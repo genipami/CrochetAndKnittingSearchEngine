@@ -1,0 +1,49 @@
+{
+  "id": 7474332,
+  "name": "Chanzo",
+  "permalink": "chanzo",
+  "url": "https://www.ravelry.com/patterns/library/chanzo",
+  "external_url": "",
+  "designer_name": "eigene Schult",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "DROPS Fabel",
+      "pct": null
+    },
+    {
+      "fiber": "Extrafeine Sockenwolle 4-fach",
+      "pct": null
+    },
+    {
+      "fiber": "Opal 4-fach | 4-ply",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.5
+  ],
+  "published": "2025/10/01",
+  "sizes_available": "S/M/L",
+  "rating_average": 4.8,
+  "rating_count": 10,
+  "difficulty_average": 2.3,
+  "favorites_count": 195,
+  "projects_count": 39,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/111812/1033929",
+  "pdf": {
+    "filename": "7474332.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7474332.pdf",
+    "url": "https://pdf.ravelrycache.com/eigeneSchult/2080609/Chanzo.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479408&Signature=qEu5GkpJP5gjyb8%2FAkNwpiZuQsM%3D&key_expires=1768479408&key=rAvY_QAWeN3UIGIwd0wzrw",
+    "size_bytes": 4922823
+  }
+}

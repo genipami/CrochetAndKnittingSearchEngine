@@ -1,0 +1,47 @@
+{
+  "id": 1342466,
+  "name": "Scrappy DK Socks",
+  "permalink": "scrappy-dk-socks",
+  "url": "https://www.ravelry.com/patterns/library/scrappy-dk-socks",
+  "external_url": "",
+  "designer_name": "Stephen West",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "Merino DK",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Garter stitch",
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Blocking",
+    "In the round",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.5
+  ],
+  "published": "2023/06/01",
+  "sizes_available": "1 (2, 3, 4, 5)",
+  "rating_average": 4.911764705882353,
+  "rating_count": 68,
+  "difficulty_average": 2.4482758620689653,
+  "favorites_count": 5143,
+  "projects_count": 477,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/5579/861440",
+  "pdf": {
+    "filename": "1342466.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1342466.pdf",
+    "url": "https://pdf.ravelrycache.com/westknits/1678506/scrappy_dk_socks.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482895&Signature=RSU79e0%2BHTehWUrlSfat1kdqRiQ%3D&key_expires=1768482895&key=sasuwZqpXY2gNrSY6ZXJsQ",
+    "size_bytes": 3329214
+  }
+}

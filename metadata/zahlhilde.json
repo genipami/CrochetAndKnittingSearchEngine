@@ -1,0 +1,51 @@
+{
+  "id": 7485553,
+  "name": "ZählHilde",
+  "permalink": "zahlhilde",
+  "url": "https://www.ravelry.com/patterns/library/zahlhilde",
+  "external_url": "",
+  "designer_name": "eigene Schult",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Extrafeine Sockenwolle 4-fach",
+      "pct": null
+    },
+    {
+      "fiber": "Opal 4-fach | 4-ply",
+      "pct": null
+    },
+    {
+      "fiber": "Sockenwolle 4-fach",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Charted"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.5
+  ],
+  "published": "2025/12/01",
+  "sizes_available": "S/M/L",
+  "rating_average": 0,
+  "rating_count": null,
+  "difficulty_average": 0,
+  "favorites_count": 76,
+  "projects_count": 18,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/111812/1043310",
+  "pdf": {
+    "filename": "7485553.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7485553.pdf",
+    "url": "https://pdf.ravelrycache.com/eigeneSchult/2115569/Zahlhilde_20260107_150532_0000.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484270&Signature=YiZWuSXapWzBcmysM0MEFFtOxzM%3D&key_expires=1768484270&key=XHvshTqclHHKG4IeD-uweg",
+    "size_bytes": 5439908
+  }
+}

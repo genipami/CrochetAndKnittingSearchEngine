@@ -1,0 +1,45 @@
+{
+  "id": 662669,
+  "name": "Workday Scarf",
+  "permalink": "workday-scarf",
+  "url": "https://www.ravelry.com/patterns/library/workday-scarf",
+  "external_url": "",
+  "designer_name": "Sue Flanders",
+  "project_type": "Scarf",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Huasco Multy Botany Lace",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Garter stitch",
+    "Lace",
+    "Single crochet (sc)"
+  ],
+  "techniques_used": [
+    "Lace",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.25
+  ],
+  "published": "2016/05/01",
+  "sizes_available": "One Size - finshed measurements; Length=60\", Width=1-1/2 to 8\"",
+  "rating_average": 4.776497695852535,
+  "rating_count": 434,
+  "difficulty_average": 1.77803738317757,
+  "favorites_count": 9924,
+  "projects_count": 1490,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/56761/333145",
+  "pdf": {
+    "filename": "662669.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\662669.pdf",
+    "url": "https://pdf.ravelrycache.com/heritageknitters/582083/Workday_Scarf.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484238&Signature=Ag0A0xWB%2FuhP1EPH9g0eV72CmFw%3D&key_expires=1768484238&key=u6NRsxV6SCN2U13taol3KA",
+    "size_bytes": 385981
+  }
+}

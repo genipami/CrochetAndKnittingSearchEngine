@@ -28,8 +28,14 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 1351,
+  "favorites_count": 1365,
   "projects_count": 30,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/115194/1045318"
+  "download_url": "http://www.ravelry.com/dls/115194/1045318",
+  "pdf": {
+    "filename": "7487990.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7487990.pdf",
+    "url": "https://pdf.ravelrycache.com/IsabelStitchWitch/2115449/Crochet_Felted_Slipper_Pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484233&Signature=7B5Sq3Pmte6u%2B6Xd8PY2SmtlRxs%3D&key_expires=1768484233&key=2jO4YDg40lilzkkHMOhqmg",
+    "size_bytes": 6960465
+  }
 }

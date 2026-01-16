@@ -1,0 +1,45 @@
+{
+  "id": 183915,
+  "name": "A Nice Ribbed Sock",
+  "permalink": "a-nice-ribbed-sock",
+  "url": "https://www.ravelry.com/patterns/library/a-nice-ribbed-sock",
+  "external_url": "",
+  "designer_name": "Glenna C.",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Socks that Rock Lightweight",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Ribbing",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.5
+  ],
+  "published": "2010/06/01",
+  "sizes_available": "one, fits foot/ankle 8-9 ins around",
+  "rating_average": 4.64625850340136,
+  "rating_count": 1176,
+  "difficulty_average": 2.2861981371718882,
+  "favorites_count": 16393,
+  "projects_count": 6375,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/72/37781",
+  "pdf": {
+    "filename": "183915.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\183915.pdf",
+    "url": "https://pdf.ravelrycache.com/GlennaC/268506/NiceRibbedSock-July18-13.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478613&Signature=jRGqhRwhbWq4eupEqns2dxeI%2FjA%3D&key_expires=1768478613&key=GrAz_83oP7Xdh1dn2d39oA",
+    "size_bytes": 660269
+  }
+}

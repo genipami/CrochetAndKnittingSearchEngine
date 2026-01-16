@@ -1,0 +1,66 @@
+{
+  "id": 865516,
+  "name": "Anthology",
+  "permalink": "anthology-2",
+  "url": "https://www.ravelry.com/patterns/library/anthology-2",
+  "external_url": "",
+  "designer_name": "tincanknits",
+  "project_type": "Shawl/Wrap",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Any gauge - designed for any gauge",
+  "materials": [
+    {
+      "fiber": "American Cormo",
+      "pct": null
+    },
+    {
+      "fiber": "Merino DK",
+      "pct": null
+    },
+    {
+      "fiber": "Shelter",
+      "pct": null
+    },
+    {
+      "fiber": "Sweater",
+      "pct": null
+    },
+    {
+      "fiber": "Ulysse",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Fair Isle",
+    "In the round",
+    "Seamless",
+    "Stranded colorwork",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.75,
+    3.5,
+    4.0,
+    5.0
+  ],
+  "published": "2018/09/01",
+  "sizes_available": "Hat: newborn (baby, toddler, adult SM, adult L Regular Cowl: toddler (child, adult) Tubular Cowl: child short (child long, adult short, adult long)",
+  "rating_average": 4.8914285714285715,
+  "rating_count": 525,
+  "difficulty_average": 2.557172557172557,
+  "favorites_count": 13598,
+  "projects_count": 3374,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/23602/485095",
+  "pdf": {
+    "filename": "865516.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\865516.pdf",
+    "url": "https://pdf.ravelrycache.com/tincanknits/880721/ANTHOLOGY-tincanknits.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478770&Signature=3nj6iGESH%2B8WHqMdiprwb1IZCBY%3D&key_expires=1768478770&key=cl5yd-qv26xz9oaZXSfmTg",
+    "size_bytes": 1168348
+  }
+}

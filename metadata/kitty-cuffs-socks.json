@@ -1,0 +1,47 @@
+{
+  "id": 1277666,
+  "name": "Kitty Cuffs Socks",
+  "permalink": "kitty-cuffs-socks",
+  "url": "https://www.ravelry.com/patterns/library/kitty-cuffs-socks",
+  "external_url": "",
+  "designer_name": "Anna Lange",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "DROPS Nord",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Charted",
+    "In the round",
+    "Stranded colorwork",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.0,
+    2.5
+  ],
+  "published": "2022/10/01",
+  "sizes_available": "3 sizes",
+  "rating_average": 4.7368421052631575,
+  "rating_count": 19,
+  "difficulty_average": 2.473684210526316,
+  "favorites_count": 5063,
+  "projects_count": 169,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/58597/809500",
+  "pdf": {
+    "filename": "1277666.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1277666.pdf",
+    "url": "https://pdf.ravelrycache.com/Obsti/1561435/kittycuffs.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481202&Signature=VGODs84xpbRWa375PgEFSjaZlM8%3D&key_expires=1768481202&key=_Jalw3PPCQ9BdZ5_G4dXtA",
+    "size_bytes": 1116411
+  }
+}

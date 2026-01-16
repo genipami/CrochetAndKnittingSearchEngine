@@ -1,0 +1,49 @@
+{
+  "id": 230413,
+  "name": "Exeter",
+  "permalink": "exeter-2",
+  "url": "https://www.ravelry.com/patterns/library/exeter-2",
+  "external_url": "",
+  "designer_name": "John Horigan",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Sport",
+  "materials": [
+    {
+      "fiber": "Stroll Sport",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "2x2 rib",
+    "Lace",
+    "Ribbing",
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Charted",
+    "In the round",
+    "Lace",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.75
+  ],
+  "published": "2011/02/01",
+  "sizes_available": "",
+  "rating_average": 4.356862745098039,
+  "rating_count": 510,
+  "difficulty_average": 2.1102514506769827,
+  "favorites_count": 6585,
+  "projects_count": 1801,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/13682/58846",
+  "pdf": {
+    "filename": "230413.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\230413.pdf",
+    "url": "https://pdf.ravelrycache.com/Lian-Chu/425822/Exeter5.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480230&Signature=kXG3Gthc%2Fbcv37wz9HabWO6TjAc%3D&key_expires=1768480230&key=jFmPr28QzGe1N-LmoAdB2g",
+    "size_bytes": 310764
+  }
+}

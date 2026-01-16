@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Enrich patterns from Ravelry API using IDs from patterns_with_ids.txt
-
 Collected fields:
 - project_type (pattern_type/pattern_categories)
 - fiber_art (craft)
@@ -15,8 +13,7 @@ Collected fields:
 - free_ravelry_download + download_url
 
 Outputs:
-- JSON per pattern in downloads_api_enriched/
-- Appends flattened rows to downloads_api_enriched/metadata_enriched.csv
+- JSON per pattern in metadata/
 """
 
 import os
@@ -32,7 +29,7 @@ import requests
 from requests_oauthlib import OAuth1
 
 # -----------------------------------
-# Auth (prefer environment variables)
+# Auth
 # -----------------------------------
 CONSUMER_KEY = os.getenv("RAVELRY_CONSUMER_KEY", "15c948c58a84cc81c3cd01df60d40a28")
 CONSUMER_SECRET = os.getenv("RAVELRY_CONSUMER_SECRET", "uqlkk_iRsKsluJHDEyJABKcLsutsxupvWjduE38M")
@@ -49,7 +46,7 @@ DETAIL_URL = (
 )
 YARN_URL = f"{BASE}/yarns/{{id}}.json"
 
-INPUT_FILE = "patterns_with_ids.txt"
+INPUT_FILE = "patterns_with_ids_knitting.txt"
 OUT_DIR = pathlib.Path("metadata")
 OUT_DIR.mkdir(exist_ok=True)
 CSV_PATH = OUT_DIR / "metadata_enriched.csv"
@@ -63,6 +60,13 @@ PAUSE_YARN = 0.25
 # ---------------------------
 # Utilities
 # ---------------------------
+def safe_call(default, fn, *args, **kwargs):
+    try:
+        return fn(*args, **kwargs)
+    except Exception as e:
+        print(f"[WARN] field extraction failed in {fn.__name__}: {e}")
+        return default
+
 def read_ids_file(path: str) -> List[Tuple[int, str]]:
     pairs: List[Tuple[int, str]] = []
     with open(path, "r", encoding="utf-8") as f:
@@ -157,36 +161,39 @@ def extract_weight(p: Dict[str, Any]) -> Optional[str]:
 # ---------------------------
 # Stitches vs Techniques
 # ---------------------------
-# Keep stitches focused on stitch types, not techniques.
 STITCH_KEYWORDS = {
-    "single crochet": "Single crochet (sc)",
-    "sc": "Single crochet (sc)",
-    "half double crochet": "Half double crochet (hdc)",
-    "hdc": "Half double crochet (hdc)",
-    "double crochet": "Double crochet (dc)",
-    "dc": "Double crochet (dc)",
-    "treble crochet": "Treble crochet (tr)",
-    "tr": "Treble crochet (tr)",
-    "slip stitch": "Slip stitch (sl st)",
-    "sl st": "Slip stitch (sl st)",
-    "shell": "Shell",
-    "v-stitch": "V-stitch",
-    "granny": "Granny",
-    "moss stitch": "Moss/Linen stitch",
-    "linen stitch": "Moss/Linen stitch",
-    "puff": "Puff stitch",
-    "bobble": "Bobble",
-    "popcorn": "Popcorn",
-    "waffle": "Waffle",
-    "star stitch": "Star stitch",
-    "c2c": "C2C",  # sometimes referenced as a stitch; also treated as technique below
-    "corner to corner": "C2C",
-    "filet": "Filet crochet",
+    # Crochet (existing + more)
+    "single crochet": "Single crochet (sc)", "sc": "Single crochet (sc)",
+    "half double crochet": "Half double crochet (hdc)", "hdc": "Half double crochet (hdc)",
+    "double crochet": "Double crochet (dc)", "dc": "Double crochet (dc)",
+    "treble crochet": "Treble crochet (tr)", "tr": "Treble crochet (tr)",
+    "slip stitch": "Slip stitch (sl st)", "sl st": "Slip stitch (sl st)",
+    "shell": "Shell", "v-stitch": "V-stitch", "v stitch": "V-stitch",
+    "granny": "Granny", "moss stitch": "Moss/Linen stitch", "linen stitch": "Moss/Linen stitch",
+    "puff": "Puff stitch", "bobble": "Bobble", "popcorn": "Popcorn",
+    "waffle": "Waffle", "star stitch": "Star stitch",
+    "alpine": "Alpine stitch", "basketweave": "Basketweave",
+    "cluster": "Cluster stitch", "spike stitch": "Spike stitch",
+    "front post": "Front post stitch", "back post": "Back post stitch",
+    "crossed dc": "Crossed double crochet", "camel stitch": "Camel stitch", "x-stitch": "X-stitch",
+
+    # Knitting stitches
+    "garter": "Garter stitch",
+    "stockinette": "Stockinette stitch", "stocking stitch": "Stockinette stitch",
+    "reverse stockinette": "Reverse stockinette",
+    "1x1 rib": "1x1 rib", "2x2 rib": "2x2 rib", "ribbing": "Ribbing",
+    "seed stitch": "Seed stitch", "moss stitch (knit)": "Moss stitch", "moss stitch knit": "Moss stitch",
+    "broken rib": "Broken rib", "double seed": "Double seed",
+    "fisherman's rib": "Fisherman's rib", "fishermen's rib": "Fisherman's rib",
+    "brioche stitch": "Brioche stitch",
+    "cable": "Cable", "cables": "Cable",
+    "lace": "Lace", "eyelet": "Eyelet lace",
+    "twisted stitch": "Twisted stitch",
+    "slip stitch pattern": "Slip stitch texture",
+    "waffle stitch knit": "Waffle (knit)", "basketweave knit": "Basketweave (knit)",
 }
 
-
 def extract_stitches(p: Dict[str, Any]) -> List[str]:
-    # Stitches from keyword scan only (to avoid conflating attributes like 'mosaic'/'in-the-round')
     hay = " ".join([
         str(p.get("name") or ""),
         str(p.get("notes") or ""),
@@ -195,10 +202,9 @@ def extract_stitches(p: Dict[str, Any]) -> List[str]:
     ]).lower()
     out = set()
     for kw, label in STITCH_KEYWORDS.items():
-        if kw in hay:
+        if kw.lower() in hay:
             out.add(label)
     return sorted(out)
-
 
 TECHNIQUE_ATTRS = {
     # construction / shaping
@@ -210,6 +216,9 @@ TECHNIQUE_ATTRS = {
     "seamless": "Seamless",
     "modular": "Modular",
     "join-as-you-go": "Join-as-you-go",
+    "raglan": "Raglan",
+    "contiguous": "Contiguous shoulder",
+    "short-rows": "Short rows",
     "c2c": "C2C",
     "corner-to-corner": "C2C",
 
@@ -224,65 +233,79 @@ TECHNIQUE_ATTRS = {
     "filet": "Filet crochet",
     "overlay-crochet": "Overlay crochet",
     "entrelac": "Entrelac",
+    "duplicate-stitch": "Duplicate stitch",
+    "slip-stitch-colorwork": "Slip-stitch colorwork",
+    "twined": "Twined knitting",
+    "cables": "Cables",
+    "lace": "Lace",
 
-    # charts & direction
+    # charts & directions
     "chart": "Charted",
+    "written-pattern": "Written",
+    "charted-and-written": "Charted & written",
+
+    # finishing / special
+    "kitchener": "Kitchener stitch",
+    "three-needle-bind-off": "Three-needle bind-off",
+    "mattress-stitch": "Mattress stitch",
+    "blocking": "Blocking",
+    "steek": "Steek",
 }
 
 TECHNIQUE_KEYWORDS = {
-    "in the round": "In the round",
-    "worked flat": "Worked flat",
-    "top-down": "Top-down",
-    "bottom-up": "Bottom-up",
-    "seamless": "Seamless",
-    "seamed": "Seamed",
-    "join as you go": "Join-as-you-go",
-    "c2c": "C2C",
-    "corner to corner": "C2C",
-    "colorwork": "Colorwork",
-    "fair isle": "Fair Isle",
-    "stranded": "Stranded colorwork",
-    "intarsia": "Intarsia",
-    "brioche": "Brioche",
-    "mosaic": "Mosaic",
-    "tapestry": "Tapestry crochet",
-    "filet": "Filet crochet",
-    "overlay": "Overlay crochet",
-    "entrelac": "Entrelac",
-    "chart": "Charted",
-}
+    # construction
+    "in the round": "In the round", "worked flat": "Worked flat",
+    "top-down": "Top-down", "top down": "Top-down",
+    "bottom-up": "Bottom-up", "bottom up": "Bottom-up",
+    "seamless": "Seamless", "seamed": "Seamed",
+    "modular": "Modular", "join as you go": "Join-as-you-go",
+    "raglan": "Raglan", "contiguous": "Contiguous shoulder",
+    "short rows": "Short rows", "german short rows": "Short rows", "w&t": "Short rows",
+    "c2c": "C2C", "corner to corner": "C2C",
 
+    # color/texture
+    "colorwork": "Colorwork", "fair isle": "Fair Isle", "stranded": "Stranded colorwork",
+    "intarsia": "Intarsia", "brioche": "Brioche", "mosaic": "Mosaic",
+    "tapestry crochet": "Tapestry crochet", "filet crochet": "Filet crochet",
+    "overlay crochet": "Overlay crochet", "entrelac": "Entrelac",
+    "duplicate stitch": "Duplicate stitch",
+    "slip-stitch colorwork": "Slip-stitch colorwork",
+    "twined": "Twined knitting",
+    "cable": "Cables", "cables": "Cables",
+    "lace": "Lace",
+
+    # chart/written
+    "charted": "Charted", "written": "Written", "charted & written": "Charted & written",
+
+    # finishing / special
+    "kitchener": "Kitchener stitch",
+    "three needle bind off": "Three-needle bind-off",
+    "mattress stitch": "Mattress stitch",
+    "blocking": "Blocking",
+    "steek": "Steek",
+}
 
 def extract_techniques(p: Dict[str, Any]) -> List[str]:
     out = set()
-
-    # 1) Attributes mapping by permalink/name
     attrs = p.get("pattern_attributes")
     if isinstance(attrs, list):
         for a in attrs:
-            if isinstance(a, dict):
-                slug = (a.get("permalink") or "").strip().lower()
-                nm = (a.get("name") or "").strip().lower()
-                lbl = None
-                if slug in TECHNIQUE_ATTRS:
-                    lbl = TECHNIQUE_ATTRS[slug]
-                elif nm in TECHNIQUE_ATTRS:
-                    lbl = TECHNIQUE_ATTRS[nm]
-                if lbl:
-                    out.add(lbl)
-
-    # 2) Keyword scan
+            if not isinstance(a, dict):
+                continue
+            slug = (a.get("permalink") or "").strip().lower()
+            nm = (a.get("name") or "").strip().lower()
+            lbl = TECHNIQUE_ATTRS.get(slug) or TECHNIQUE_ATTRS.get(nm)
+            if lbl:
+                out.add(lbl)
     hay = " ".join([
         str(p.get("name") or ""),
         str(p.get("notes") or ""),
         str(p.get("notes_html") or ""),
         str(p.get("gauge_description") or ""),
     ]).lower()
-
     for kw, label in TECHNIQUE_KEYWORDS.items():
-        if kw in hay:
+        if kw.lower() in hay:
             out.add(label)
-
     return sorted(out)
 
 
@@ -302,38 +325,40 @@ US_LETTER_BASE = {
 }
 
 
+
 def _parse_metric_mm(value: Any) -> Optional[float]:
     if value is None:
         return None
     s = str(value).lower().replace(",", ".")
-    m = re.search(r"(\d+(?:\.\d+)?)\s*mm", s)
     try:
+        m = re.search(r"(\d+(?:\.\d+)?)\s*mm", s)
         if m:
             return float(m.group(1))
         if re.fullmatch(r"\d+(?:\.\d+)?", s):
             return float(s)
-    except ValueError:
+    except Exception:
         return None
     return None
-
 
 def _us_to_mm(us_str: str) -> Optional[float]:
     if not us_str:
         return None
-    s = us_str.strip().upper()
-    if s in US_HOOK_MM:
-        return US_HOOK_MM[s]
-    s2 = s.replace("US", "").replace(" ", "").replace("–", "-").replace("—", "-")
-    if s2 in US_HOOK_MM:
-        return US_HOOK_MM[s2]
-    s3 = re.sub(r"[^A-Z]", "", s2)
-    if s3 in US_LETTER_BASE:
-        return US_LETTER_BASE[s3]
-    num = re.sub(r"[^\d.]", "", s)
-    if num in US_HOOK_MM:
-        return US_HOOK_MM[num]
+    try:
+        s = us_str.strip().upper()
+        if s in US_HOOK_MM:
+            return US_HOOK_MM[s]
+        s2 = s.replace("US", "").replace(" ", "").replace("–", "-").replace("—", "-")
+        if s2 in US_HOOK_MM:
+            return US_HOOK_MM[s2]
+        s3 = re.sub(r"[^A-Z0-9/\-\.]", "", s2)
+        if s3 in US_HOOK_MM:
+            return US_HOOK_MM[s3]
+        letters = re.sub(r"[^A-Z]", "", s2)
+        if letters in US_LETTER_BASE:
+            return US_LETTER_BASE[letters]
+    except Exception:
+        return None
     return None
-
 
 def extract_sizes_mm(p: Dict[str, Any]) -> Tuple[List[float], List[float]]:
     needles_mm: List[float] = []
@@ -344,50 +369,56 @@ def extract_sizes_mm(p: Dict[str, Any]) -> Tuple[List[float], List[float]]:
         nonlocal needles_mm, hooks_mm
         if not isinstance(item, dict):
             return
-        metric = None
-        for key in ("metric", "mm", "metric_size"):
-            metric = metric or _parse_metric_mm(item.get(key))
-        metric = metric or _parse_metric_mm(item.get("name"))
-        us_val = item.get("us") or item.get("name")
-        mm = metric or _us_to_mm(str(us_val) if us_val else "")
-        if mm is None:
-            return
-        mm = round(float(mm), 2)
-        is_crochet = bool(item.get("crochet")) or ("hook" in str(item.get("name") or "").lower())
-        is_knitting = bool(item.get("knitting"))
-        if is_crochet and not is_knitting:
-            hooks_mm.append(mm)
-        elif is_knitting and not is_crochet:
-            needles_mm.append(mm)
-        else:
-            craft = (extract_fiber_art(p) or "").lower()
-            if "crochet" in craft:
+        try:
+            metric = None
+            for key in ("metric", "mm", "metric_size"):
+                metric = metric or _parse_metric_mm(item.get(key))
+            metric = metric or _parse_metric_mm(item.get("name"))
+            us_val = item.get("us") or item.get("name")
+            mm = metric or _us_to_mm(str(us_val) if us_val else "")
+            if mm is None:
+                return
+            mm = round(float(mm), 2)
+
+            is_crochet = bool(item.get("crochet")) or ("hook" in str(item.get("name") or "").lower())
+            is_knitting = bool(item.get("knitting"))
+            if is_crochet and not is_knitting:
                 hooks_mm.append(mm)
-            else:
+            elif is_knitting and not is_crochet:
                 needles_mm.append(mm)
+            else:
+                craft = (extract_fiber_art(p) or "").lower()
+                if "crochet" in craft:
+                    hooks_mm.append(mm)
+                else:
+                    needles_mm.append(mm)
+        except Exception as e:
+            print(f"[WARN] size item parse failed: {e}")
 
     if isinstance(pns, list):
         for item in pns:
             consume_item(item)
 
-    # Fallback: parse gauge_description / gauge
-    if not hooks_mm and not needles_mm:
-        gd = (p.get("gauge_description") or "") + " " + (p.get("gauge") or "")
-        for m in re.findall(r"(\d+(?:\.\d+)?)\s*mm", gd.lower()):
-            try:
-                val = round(float(m), 2)
-            except ValueError:
-                continue
-            if "crochet" in (extract_fiber_art(p) or "").lower():
-                hooks_mm.append(val)
-            else:
-                needles_mm.append(val)
+    # Fallback: parse gauge fields for mm hints
+    try:
+        if not hooks_mm and not needles_mm:
+            gd = (p.get("gauge_description") or "") + " " + (p.get("gauge") or "")
+            for m in re.findall(r"(\d+(?:\.\d+)?)\s*mm", gd.lower()):
+                try:
+                    val = round(float(m), 2)
+                except ValueError:
+                    continue
+                if "crochet" in (extract_fiber_art(p) or "").lower():
+                    hooks_mm.append(val)
+                else:
+                    needles_mm.append(val)
+    except Exception as e:
+        print(f"[WARN] gauge mm parse failed: {e}")
 
     return sorted(set(hooks_mm)), sorted(set(needles_mm))
 
-
 # ---------------------------
-# Yarn/materials (fiber-aware)
+# Yarn/materials
 # ---------------------------
 def collect_yarn_ids_and_names(p: Dict[str, Any]) -> Tuple[List[int], List[str]]:
     """
@@ -415,10 +446,6 @@ def collect_yarn_ids_and_names(p: Dict[str, Any]) -> Tuple[List[int], List[str]]
 
 
 def fetch_yarn_details(yarn_ids: List[int]) -> List[Dict[str, Any]]:
-    """
-    Fetch yarns and make a best-effort to include fiber composition.
-    Try both '?include=fibers' and plain endpoint; tolerate transient failures.
-    """
     details: List[Dict[str, Any]] = []
     for yid in yarn_ids:
         ok = False
@@ -437,7 +464,6 @@ def fetch_yarn_details(yarn_ids: List[int]) -> List[Dict[str, Any]]:
                 ok = True
                 break
             else:
-                # try the next URL variant
                 continue
         if not ok:
             print(f"[WARN] yarn failed for id {yid}: could not fetch")
@@ -464,13 +490,11 @@ def _iter_fiber_records(yarn_obj: Dict[str, Any]) -> List[Dict[str, Any]]:
     for f in fibers:
         if not isinstance(f, dict):
             continue
-        # possible locations for the fiber name
         name = f.get("name")
         if not name and isinstance(f.get("fiber"), dict):
             name = f["fiber"].get("name")
         if not name and isinstance(f.get("type"), dict):
             name = f["type"].get("name")
-        # percentage fields
         pct = f.get("pct")
         if pct is None:
             pct = f.get("percentage", f.get("percent"))
@@ -581,36 +605,37 @@ def main():
     if not os.path.exists(INPUT_FILE):
         print(f"[ERROR] {INPUT_FILE} not found.")
         return
-
     pairs = read_ids_file(INPUT_FILE)
     print(f"[INFO] Loaded {len(pairs)} patterns from {INPUT_FILE}")
-
     output_rows: List[Dict[str, Any]] = []
+
     for i, (pid, fallback_permalink) in enumerate(pairs, 1):
         print(f"[{i}/{len(pairs)}] Fetching ID {pid} ({fallback_permalink})")
+
         p = fetch_pattern_details(pid)
         time.sleep(PAUSE_DETAIL)
         if not p:
             continue
 
         permalink = p.get("permalink") or fallback_permalink
-        project_type = extract_project_type(p)
-        fiber_art = extract_fiber_art(p)
-        yarn_weight = extract_weight(p)
-        stitches_used = extract_stitches(p)
-        techniques_used = extract_techniques(p)
-        hook_sizes_mm, needle_sizes_mm = extract_sizes_mm(p)
 
-        yarn_ids, yarn_names = collect_yarn_ids_and_names(p)
-        yarns = fetch_yarn_details(yarn_ids) if yarn_ids else []
-        materials = extract_materials_from_yarns(yarns)
+        project_type = safe_call(None, extract_project_type, p)
+        fiber_art = safe_call(None, extract_fiber_art, p)
+        yarn_weight = safe_call(None, extract_weight, p)
+        stitches_used = safe_call([], extract_stitches, p)
+        techniques_used = safe_call([], extract_techniques, p)
 
-        # Fallback: if we couldn't derive fibers, at least list yarn names
+        hook_sizes_mm, needle_sizes_mm = safe_call( ([], []), extract_sizes_mm, p )
+
+        yarn_ids, yarn_names = safe_call( ([], []), collect_yarn_ids_and_names, p )
+        yarns = safe_call([], fetch_yarn_details, yarn_ids) if yarn_ids else []
+        materials = safe_call([], extract_materials_from_yarns, yarns)
+
         if not materials and yarn_names:
             materials = [{"fiber": name, "pct": None} for name in yarn_names]
 
-        ravelry_url = canonical_ravelry_url(permalink)
-        external_url = p.get("url")  # often off-Ravelry source (may be empty)
+        ravelry_url = safe_call(None, canonical_ravelry_url, permalink)
+        external_url = p.get("url")
         dload = p.get("download_location") or {}
         free_ravelry_download = bool(p.get("ravelry_download")) and bool(dload.get("free"))
         download_url = dload.get("url")
@@ -621,13 +646,13 @@ def main():
             "permalink": permalink,
             "url": ravelry_url,
             "external_url": external_url,
-            "designer_name": extract_designer_name(p),
+            "designer_name": safe_call(None, extract_designer_name, p),
             "project_type": project_type,
             "fiber_art": fiber_art,
             "yarn_weight": yarn_weight,
             "materials": materials,
             "stitches_used": stitches_used,
-            "techniques_used": techniques_used,   # NEW
+            "techniques_used": techniques_used,
             "hook_sizes_mm": hook_sizes_mm,
             "needle_sizes_mm": needle_sizes_mm,
             "published": p.get("published"),
@@ -637,7 +662,6 @@ def main():
             "difficulty_average": p.get("difficulty_average"),
             "favorites_count": p.get("favorites_count"),
             "projects_count": p.get("projects_count"),
-            # New flags:
             "free_ravelry_download": free_ravelry_download,
             "download_url": download_url,
         }
@@ -651,6 +675,7 @@ def main():
         print(f"[INFO] Wrote {len(output_rows)} records to {CSV_PATH}")
     else:
         print("[INFO] No records written.")
+
 
 
 if __name__ == "__main__":

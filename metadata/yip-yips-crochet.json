@@ -30,7 +30,7 @@
     "Bottom-up",
     "In the round",
     "Seamless",
-    "Tapestry crochet"
+    "Written"
   ],
   "hook_sizes_mm": [
     8.0
@@ -41,8 +41,14 @@
   "rating_average": 4.885608856088561,
   "rating_count": 271,
   "difficulty_average": 2.2992125984251968,
-  "favorites_count": 24035,
-  "projects_count": 1060,
+  "favorites_count": 24040,
+  "projects_count": 1059,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/679/500625"
+  "download_url": "http://www.ravelry.com/dls/679/500625",
+  "pdf": {
+    "filename": "886073.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\886073.pdf",
+    "url": "https://pdf.ravelrycache.com/carissabrowning/915899/YipYips_20181217.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484266&Signature=XK7ZyYBIj6ZU1JD2jTRvKNIdloc%3D&key_expires=1768484266&key=C-s4yNJHT2hf84bF65HzLQ",
+    "size_bytes": 1648380
+  }
 }

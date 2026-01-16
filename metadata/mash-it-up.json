@@ -1,0 +1,46 @@
+{
+  "id": 910233,
+  "name": "Mash It Up",
+  "permalink": "mash-it-up",
+  "url": "https://www.ravelry.com/patterns/library/mash-it-up",
+  "external_url": "",
+  "designer_name": "Babs Ausherman",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "DK",
+  "materials": [
+    {
+      "fiber": "Yummy 2-Ply",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Ribbing",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "In the round",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.0
+  ],
+  "published": "2019/03/01",
+  "sizes_available": "17 (19 1/2)” circumference",
+  "rating_average": 4.9226190476190474,
+  "rating_count": 168,
+  "difficulty_average": 1.9144736842105263,
+  "favorites_count": 6748,
+  "projects_count": 763,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/5904/519638",
+  "pdf": {
+    "filename": "910233.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\910233.pdf",
+    "url": "https://pdf.ravelrycache.com/missbabs/953170/Mash_It_Up_revised_2019-03-15.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481677&Signature=HdKAq3OKr27hHXXVHMoGmaWmqtg%3D&key_expires=1768481677&key=tLPH90KDAtlJped6WLdP-w",
+    "size_bytes": 1776760
+  }
+}

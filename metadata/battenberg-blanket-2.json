@@ -16,7 +16,8 @@
   ],
   "techniques_used": [
     "In the round",
-    "Modular"
+    "Modular",
+    "Written"
   ],
   "hook_sizes_mm": [
     3.0
@@ -27,8 +28,8 @@
   "rating_average": 4.890243902439025,
   "rating_count": 328,
   "difficulty_average": 2.2965299684542586,
-  "favorites_count": 31470,
-  "projects_count": 2500,
+  "favorites_count": 31482,
+  "projects_count": 2501,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/6019/499834"
 }

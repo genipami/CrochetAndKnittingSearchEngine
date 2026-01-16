@@ -1,0 +1,55 @@
+{
+  "id": 7288402,
+  "name": "Lollygag",
+  "permalink": "lollygag",
+  "url": "https://www.ravelry.com/patterns/library/lollygag",
+  "external_url": "",
+  "designer_name": "Aimee Pelletier",
+  "project_type": "Shawl/Wrap",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Aran",
+  "materials": [
+    {
+      "fiber": "Cumulus",
+      "pct": null
+    },
+    {
+      "fiber": "Cumulus Rainbow",
+      "pct": null
+    },
+    {
+      "fiber": "Merino+ Color",
+      "pct": null
+    },
+    {
+      "fiber": "Worsted Merino Superwash Solids",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Kitchener stitch"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    4.5
+  ],
+  "published": "2023/10/01",
+  "sizes_available": "One size",
+  "rating_average": 4.7368421052631575,
+  "rating_count": 19,
+  "difficulty_average": 2.789473684210526,
+  "favorites_count": 1689,
+  "projects_count": 79,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/21377/888624",
+  "pdf": {
+    "filename": "7288402.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7288402.pdf",
+    "url": "https://pdf.ravelrycache.com/darnknitanyway/1746425/DKA_Pattern_Lollygag_Cowl_Final_V3.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481511&Signature=DSJIHz6oWqGBXCkGamMV2KxdYpE%3D&key_expires=1768481511&key=7_14amL9Ae94PM-VzUFlAg",
+    "size_bytes": 190528
+  }
+}

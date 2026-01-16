@@ -1,0 +1,50 @@
+{
+  "id": 7284120,
+  "name": "Holiday Balaclava",
+  "permalink": "holiday-balaclava",
+  "url": "https://www.ravelry.com/patterns/library/holiday-balaclava",
+  "external_url": "",
+  "designer_name": "THINNNG",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Aran",
+  "materials": [
+    {
+      "fiber": "Haworth Tweed",
+      "pct": null
+    },
+    {
+      "fiber": "Premia",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Garter stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up"
+  ],
+  "hook_sizes_mm": [
+    3.0
+  ],
+  "needle_sizes_mm": [
+    4.0,
+    5.5
+  ],
+  "published": "2023/01/01",
+  "sizes_available": "Size 1, Size 2",
+  "rating_average": 4.764705882352941,
+  "rating_count": 17,
+  "difficulty_average": 2.823529411764706,
+  "favorites_count": 3669,
+  "projects_count": 94,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/100812/885357",
+  "pdf": {
+    "filename": "7284120.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7284120.pdf",
+    "url": "https://pdf.ravelrycache.com/THINNNG/1735941/Holiday_Balaclava_English.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480914&Signature=5p3DBGicDN%2BqN6tmjrb0QFJZB9I%3D&key_expires=1768480914&key=THg9-3mlozQNF7abeWp8RQ",
+    "size_bytes": 39257545
+  }
+}

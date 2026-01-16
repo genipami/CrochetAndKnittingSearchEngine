@@ -1,0 +1,65 @@
+{
+  "id": 709323,
+  "name": "The World's Simplest Mittens",
+  "permalink": "the-worlds-simplest-mittens",
+  "url": "https://www.ravelry.com/patterns/library/the-worlds-simplest-mittens",
+  "external_url": "http://tincanknits.com/pattern-TCK-theworldssimplestmittens.html",
+  "designer_name": "tincanknits",
+  "project_type": "Mittens/Gloves",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Any gauge - designed for any gauge",
+  "materials": [
+    {
+      "fiber": "Cashmerino Worsted",
+      "pct": null
+    },
+    {
+      "fiber": "Superwash Worsted",
+      "pct": null
+    },
+    {
+      "fiber": "Sweater",
+      "pct": null
+    },
+    {
+      "fiber": "Tosh DK",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "In the round",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.0,
+    2.75,
+    3.25,
+    3.75,
+    4.0,
+    4.5,
+    5.0
+  ],
+  "published": "2016/12/01",
+  "sizes_available": "toddler (child, adult S, M, L)",
+  "rating_average": 4.847705608512525,
+  "rating_count": 4511,
+  "difficulty_average": 2.045009328358209,
+  "favorites_count": 71304,
+  "projects_count": 27048,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/23602/368637",
+  "pdf": {
+    "filename": "709323.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\709323.pdf",
+    "url": "https://pdf.ravelrycache.com/tincanknits/1944573/WORLDSSIMPLESTMITTENS-tincanknits.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483715&Signature=JNSbV9Zb1qhF59H23kvy86pyUEw%3D&key_expires=1768483715&key=uwBEvhdbjLg0uYTesY9pEA",
+    "size_bytes": 2277594
+  }
+}

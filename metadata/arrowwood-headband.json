@@ -1,0 +1,46 @@
+{
+  "id": 1168540,
+  "name": "Arrowwood Headband",
+  "permalink": "arrowwood-headband",
+  "url": "https://www.ravelry.com/patterns/library/arrowwood-headband",
+  "external_url": "",
+  "designer_name": "Lindsey Faciane",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Bulky",
+  "materials": [
+    {
+      "fiber": "Stitch Please 100% Wool Chunky",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Lace",
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Lace",
+    "Seamed",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    6.0
+  ],
+  "published": "2021/08/01",
+  "sizes_available": "Adult/Teen",
+  "rating_average": 4.970588235294118,
+  "rating_count": 34,
+  "difficulty_average": 2.09375,
+  "favorites_count": 2466,
+  "projects_count": 141,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/59710/719700",
+  "pdf": {
+    "filename": "1168540.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1168540.pdf",
+    "url": "https://pdf.ravelrycache.com/Lindseyfaciane/1367142/ArrowWoodHeadband.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478820&Signature=xsqt1we4JKkqMu0XAu83N%2Fv%2BAKc%3D&key_expires=1768478820&key=fmqbkr-NOrFHNsT0t1cBHg",
+    "size_bytes": 10719755
+  }
+}

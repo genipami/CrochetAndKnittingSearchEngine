@@ -1,0 +1,48 @@
+{
+  "id": 150257,
+  "name": "Saroyan",
+  "permalink": "saroyan",
+  "url": "https://www.ravelry.com/patterns/library/saroyan",
+  "external_url": "http://feministy.com/saroyan",
+  "designer_name": "L Abinante",
+  "project_type": "Scarf",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Venus Worsted",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Garter stitch",
+    "Lace",
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Charted",
+    "Lace",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    6.0
+  ],
+  "published": "2009/11/01",
+  "sizes_available": "One (12\"/30cm at widest point, 69\"/175cm long), with instructions for customization",
+  "rating_average": 4.538013059701493,
+  "rating_count": 4288,
+  "difficulty_average": 2.527205722956861,
+  "favorites_count": 40625,
+  "projects_count": 11041,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/3244/25298",
+  "pdf": {
+    "filename": "150257.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\150257.pdf",
+    "url": "https://pdf.ravelrycache.com/erinamelia/171898/Saroyan_v2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482862&Signature=fsHe7%2BnyMyrRJfEON1SoMeQ%2F%2FGY%3D&key_expires=1768482862&key=Xs3ag7byJ5U8il6q8m_Wgw",
+    "size_bytes": 972013
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": 367142,
+  "name": "My Cup of Tea Socks",
+  "permalink": "my-cup-of-tea-socks",
+  "url": "https://www.ravelry.com/patterns/library/my-cup-of-tea-socks",
+  "external_url": "",
+  "designer_name": "Robin Lynn",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Panda Sock",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Stockinette stitch"
+  ],
+  "techniques_used": [
+    "Charted",
+    "In the round",
+    "Kitchener stitch",
+    "Top-down",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.25
+  ],
+  "published": "2012/12/01",
+  "sizes_available": "women's medium",
+  "rating_average": 4.609081934846989,
+  "rating_count": 1013,
+  "difficulty_average": 3.0778688524590163,
+  "favorites_count": 25543,
+  "projects_count": 3622,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/5376/130149",
+  "pdf": {
+    "filename": "367142.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\367142.pdf",
+    "url": "https://pdf.ravelrycache.com/RobinLynn/208653/My_Cup_of_Tea.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482002&Signature=%2FrQNlKPhWT5QTEKDaeUj93qvw4g%3D&key_expires=1768482002&key=Visw8D6LycGnuCu-crU12A",
+    "size_bytes": 528678
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": 1351626,
+  "name": "Lowkey bandana",
+  "permalink": "lowkey-bandana",
+  "url": "https://www.ravelry.com/patterns/library/lowkey-bandana",
+  "external_url": "",
+  "designer_name": "lowkey.bold.knit",
+  "project_type": "Scarf",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Sport",
+  "materials": [
+    {
+      "fiber": "DROPS Safran",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Lace",
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Lace",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.5
+  ],
+  "published": "2023/07/01",
+  "sizes_available": "One size",
+  "rating_average": 4.545454545454546,
+  "rating_count": 11,
+  "difficulty_average": 3.1666666666666665,
+  "favorites_count": 2207,
+  "projects_count": 57,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/99819/868549",
+  "pdf": {
+    "filename": "1351626.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1351626.pdf",
+    "url": "https://pdf.ravelrycache.com/lowkeyboldknit/1695207/Lowkey_bandana_knitting_pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481576&Signature=FZ6LiyX%2BOdu%2FIXJVHz7Ns%2F9uLJM%3D&key_expires=1768481576&key=TDNKZyXU2QFlLtXpS242rw",
+    "size_bytes": 363178
+  }
+}

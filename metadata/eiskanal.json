@@ -1,0 +1,53 @@
+{
+  "id": 7459867,
+  "name": "Eiskanal",
+  "permalink": "eiskanal",
+  "url": "https://www.ravelry.com/patterns/library/eiskanal",
+  "external_url": "",
+  "designer_name": "Strickresi",
+  "project_type": "Socks",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Fingering",
+  "materials": [
+    {
+      "fiber": "Huasco Sock Hand Painted",
+      "pct": null
+    },
+    {
+      "fiber": "Meilenweit",
+      "pct": null
+    },
+    {
+      "fiber": "SoWo Glitzer 4-fach Superfine",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Single crochet (sc)",
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Cables",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    2.5
+  ],
+  "published": "2025/09/01",
+  "sizes_available": "S-XXL",
+  "rating_average": 4.714285714285714,
+  "rating_count": 7,
+  "difficulty_average": 3.142857142857143,
+  "favorites_count": 124,
+  "projects_count": 17,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/22590/1022833",
+  "pdf": {
+    "filename": "7459867.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7459867.pdf",
+    "url": "https://pdf.ravelrycache.com/Strickresi/2053989/Eiskanal_Sockenanleitung_final.docx.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480069&Signature=tgcvOydM5zTlXQjfVSvPA5wvKsc%3D&key_expires=1768480069&key=IAc7JaLkD4A_GtTQJjiR_A",
+    "size_bytes": 2409572
+  }
+}

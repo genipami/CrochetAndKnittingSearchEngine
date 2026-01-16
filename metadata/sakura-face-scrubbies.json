@@ -18,7 +18,8 @@
     "Single crochet (sc)"
   ],
   "techniques_used": [
-    "In the round"
+    "In the round",
+    "Written"
   ],
   "hook_sizes_mm": [
     4.0
@@ -29,8 +30,14 @@
   "rating_average": 4.837837837837838,
   "rating_count": 185,
   "difficulty_average": 2.398907103825137,
-  "favorites_count": 13925,
+  "favorites_count": 13926,
   "projects_count": 866,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/72226/513651"
+  "download_url": "http://www.ravelry.com/dls/72226/513651",
+  "pdf": {
+    "filename": "902300.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\902300.pdf",
+    "url": "https://pdf.ravelrycache.com/Mytia89/963409/Sakura_face_scrubbies.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482835&Signature=O2ErL59vh0FL%2FCER2%2BCli8Zz6Lo%3D&key_expires=1768482835&key=NCNOuQRkX6d0TgdzQxSbvw",
+    "size_bytes": 760126
+  }
 }

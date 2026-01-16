@@ -1,0 +1,48 @@
+{
+  "id": 1124852,
+  "name": "Chouette Hat",
+  "permalink": "chouette-hat",
+  "url": "https://www.ravelry.com/patterns/library/chouette-hat",
+  "external_url": "",
+  "designer_name": "Lindsey Faciane",
+  "project_type": "Hat",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Worsted",
+  "materials": [
+    {
+      "fiber": "Ne Plus Ultra Alpaca Worsted Weight",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Lace",
+    "Single crochet (sc)",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "Bottom-up",
+    "In the round",
+    "Lace",
+    "Seamless",
+    "Written"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.5
+  ],
+  "published": "2021/03/01",
+  "sizes_available": "Adult/Teen",
+  "rating_average": 4.846153846153846,
+  "rating_count": 26,
+  "difficulty_average": 3.0,
+  "favorites_count": 1976,
+  "projects_count": 96,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/59710/685599",
+  "pdf": {
+    "filename": "1124852.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1124852.pdf",
+    "url": "https://pdf.ravelrycache.com/Lindseyfaciane/1292805/ChouetteHat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479472&Signature=5ngSqeuBrOiiSXYnGmJCxpMbxno%3D&key_expires=1768479472&key=ZXG5c_iax00maOJTq3slTg",
+    "size_bytes": 4000734
+  }
+}

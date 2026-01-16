@@ -1,0 +1,45 @@
+{
+  "id": 7452471,
+  "name": "Everywear Sweater",
+  "permalink": "everywear-sweater",
+  "url": "https://www.ravelry.com/patterns/library/everywear-sweater",
+  "external_url": "",
+  "designer_name": "Brie Miklaucic",
+  "project_type": "Pullover",
+  "fiber_art": "Knitting",
+  "yarn_weight": "Aran",
+  "materials": [
+    {
+      "fiber": "Aran Tweed",
+      "pct": null
+    }
+  ],
+  "stitches_used": [
+    "Stockinette stitch",
+    "Treble crochet (tr)"
+  ],
+  "techniques_used": [
+    "In the round",
+    "Top-down"
+  ],
+  "hook_sizes_mm": [],
+  "needle_sizes_mm": [
+    3.5,
+    4.5
+  ],
+  "published": "2025/08/01",
+  "sizes_available": "1-10",
+  "rating_average": 4.428571428571429,
+  "rating_count": 7,
+  "difficulty_average": 2.7142857142857144,
+  "favorites_count": 3008,
+  "projects_count": 49,
+  "free_ravelry_download": true,
+  "download_url": "http://www.ravelry.com/dls/96340/1017444",
+  "pdf": {
+    "filename": "7452471.pdf",
+    "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7452471.pdf",
+    "url": "https://pdf.ravelrycache.com/BlueSheepKnitwear/2064255/Everywear_Sweater.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480218&Signature=xVCyxbdbEy9bP%2FyYPJqx9CPIlh4%3D&key_expires=1768480218&key=wY3L_uniiojP8YLIgaKmeg",
+    "size_bytes": 5851049
+  }
+}
