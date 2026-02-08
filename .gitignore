@@ -24,11 +24,11 @@ ENV/
 # ------------------------------
 
 # Local dataset (PDFs)
-pdfs/
+pdfs/*
 *.pdf
-metadata/
+metadata/*
 *.json
-txts/
+txts/*
 *.txt
 
 # Compressed archives (datasets, releases)
