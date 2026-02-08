@@ -1,28 +1,32 @@
 {
   "id": 1363998,
-  "name": "Percy",
+  "name": "percy",
   "permalink": "percy-10",
   "url": "https://www.ravelry.com/patterns/library/percy-10",
   "external_url": "",
-  "designer_name": "Marie Helix",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "marie helix",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Sock Extrafine",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 85.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 15.0
     }
   ],
   "stitches_used": [
-    "Ribbing",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "ribbing",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Colorwork",
-    "Stranded colorwork"
+    "charted",
+    "colorwork",
+    "stranded colorwork"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -30,12 +34,13 @@
     2.5
   ],
   "published": "2023/09/01",
-  "sizes_available": "S 56m (M 64m) L 72m",
+  "sizes_available": "s 56m (m 64m) l 72m",
   "rating_average": 4.68,
   "rating_count": 25,
   "difficulty_average": 4.190476190476191,
-  "favorites_count": 2700,
-  "projects_count": 124,
+  "favorites_count": 2705,
+  "projects_count": 125,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/101973/877871"
+  "download_url": "http://www.ravelry.com/dls/101973/877871",
+  "notes": "✨ bienvenue dans la famille weasley ! \r\n\r\nla paire de chaussettes percy est mon tout premier design de chaussettes ! elle arbore un joli motif de (gentil) fantôme aux couleurs d’automne, réalisé en jacquard, inspiré de mon illustration « la saison des fantômes ». la paire de chaussettes est réalisée avec 3 fils de couleurs différentes, cependant, c’est un jacquard plutôt accessible puisque l’on n’utilise pas plus de deux couleurs par rang.\r\n\r\n**• aiguilles**\r\ncirculaires 2,25mm pour les côtes et la pointe\r\ncirculaires 2,5mm pour le jacquard \r\n(aiguilles mini-circulaires ou circulaires 80cm si vous tricotez en magic-loop)\r\n\r\n**• tailles**\r\ns : 18cm / 56 mailles (m : 20,5cm / 64 mailles) l : 23cm / 72 mailles\r\nelles correspondent à une circonférence de pied de 20 (23) 25cm.\r\naisance négative d’environ 2cm/2,5cm recommandée.\r\n\r\n*remarque : le nombre de mailles indiqué est augmenté sur la section de jacquard afin d’avoir un peu plus d’aisance sur cette partie qui a tendance à être plus serrée. si les mesures ne conviennent pas tout à fait à vos besoins, vous pouvez également adapter l’aisance de vos chaussettes en choisissant d’utiliser des aiguilles d’un quart ou d’une demi taille plus petite ou plus grande.*\r\n\r\n**• échantillon**\r\n36m x 38 rangs = 10cm en jacquard\r\n38 x 44 rangs = 10cm en jersey et en côtes\r\n\r\n**• laines**\r\nles chaussettes percy sont tricotées avec les 3 couleurs \r\ndu kit percy de bulbe bizarre, en laine à chaussette fingering \r\nmérinos + nylon, 400m pour 100g :\r\ncoloris principal : 38 (40) 48g pour le coloris percy (orange)\r\ncoloris contrastant 1 : 16 (18) 20g pour le coloris sélénite (marron)\r\ncoloris contrastant 2 : 7 (10) 15g pour le coloris petit vagabond (écru)\r\n\r\n____________\r\n\r\n✨ welcome to the weasleys ! \r\n\r\nthe percy socks are my very first socks design !\r\nit features a pretty (kind) ghost pattern in autumnal colors, made in colorwork, inspired by my “ghost season” illustration. the pair of socks is made with 3 different colored yarns. however, it is a colorwork rather accessible to beginners since we do not use more than two colors per row.\r\n\r\n**• needles**\r\n2.25mm circular knitting needles for ribbing and toe\r\n2.5mm circular knitting needles for colorwork\r\nmini circular needles or 80cm circular needles if you wish to work magic loop\r\n\r\n**• sizes**\r\ns: 18cm/56 stitches (m: 20.5cm/64 stitches) l : 23cm/72 stitches they correspond to a foot circumference of 20 (23) 25cm.\r\na negative ease of approximately 2cm/2.5cm is recommended.\r\n*note : the number of stitches indicated is increased on the colorwork section in order to have a little more ease on this part which tends to be tighter.\r\nif the measurements don’t quite suit your needs, you can also adjust the fit of your socks by choosing to use needles a quart or half size smaller or larger.*\r\n\r\n**• gauge**\r\n36 stitches x 38 rows = 10cm in colourwork\r\n38 stitches x 44 rows = 10cm in stockinette stitch and rib\r\n\r\n**• yarn**\r\nthe percy socks are knitted with the 3 colors of the percy kit from bulbe bizarre, in merino fingering sock wool + nylon,\r\n400m for 100g.\r\nmain color : 38 (40) 48g in the percy color (orange)\r\ncontrasting color 1 : 16 (18) 20g for the selenite color (brown) contrasting color 2 : 7 (10) 15g for the petit vagabond color (ecru)"
 }

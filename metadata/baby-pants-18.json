@@ -1,24 +1,24 @@
 {
   "id": 1347782,
-  "name": "Baby Pants",
+  "name": "baby pants",
   "permalink": "baby-pants-18",
   "url": "https://www.ravelry.com/patterns/library/baby-pants-18",
   "external_url": "https://hearthookhome.com/one-skein-baby-pants-free-crochet-pattern",
-  "designer_name": "Ashlea Schumaker",
-  "project_type": "Baby",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Sport",
+  "designer_name": "ashlea schumaker",
+  "project_type": "baby",
+  "fiber_art": "crochet",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Brava Sport",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)"
+    "double crochet (dc)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     4.0
@@ -27,12 +27,13 @@
     3.0
   ],
   "published": "2023/07/01",
-  "sizes_available": "0/3M, 3/6M, 6/9M",
+  "sizes_available": "0/3m, 3/6m, 6/9m",
   "rating_average": 5.0,
   "rating_count": 5,
   "difficulty_average": 2.2,
-  "favorites_count": 885,
-  "projects_count": 35,
+  "favorites_count": 916,
+  "projects_count": 36,
   "free_ravelry_download": false,
-  "download_url": "http://www.ravelry.com/purchase/ashlea-konecny-designs/865577"
+  "download_url": "http://www.ravelry.com/purchase/ashlea-konecny-designs/865577",
+  "notes": "a crochet pattern for baby pants that uses just one skein of brava sport weight yarn. \r\n\r\nmake the 0/3m, 3/6m, or the 6/9m size from just one skein of that or equivalent yarn."
 }

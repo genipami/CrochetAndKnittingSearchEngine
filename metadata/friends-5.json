@@ -1,54 +1,55 @@
 {
   "id": 886309,
-  "name": "Friends",
+  "name": "friends",
   "permalink": "friends-5",
   "url": "https://www.ravelry.com/patterns/library/friends-5",
   "external_url": "",
-  "designer_name": "Dani Sunshine",
-  "project_type": "Mittens/Gloves",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "dani sunshine",
+  "project_type": "mittens/gloves",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "BFL DK",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 33.3
     },
     {
-      "fiber": "BFL Light DK",
-      "pct": null
+      "fiber": "Bluefaced Leicester (BFL) (Wool)",
+      "pct": 33.3
     },
     {
-      "fiber": "DK",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 33.3
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.75
   ],
   "published": "2018/12/01",
-  "sizes_available": "Small Child (Older Child, Adult Small, Adult Medium, Adult Large).",
-  "rating_average": 4.815068493150685,
-  "rating_count": 292,
-  "difficulty_average": 2.0434782608695654,
-  "favorites_count": 11130,
-  "projects_count": 1536,
+  "sizes_available": "small child (older child, adult small, adult medium, adult large).",
+  "rating_average": 4.816326530612245,
+  "rating_count": 294,
+  "difficulty_average": 2.039568345323741,
+  "favorites_count": 11224,
+  "projects_count": 1550,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/19297/500815",
+  "notes": "**pattern notes:**\r\ni made this simple mitts a few years ago for a friend and he loved them. since then, i have made two pairs for myself: both have been pinched by my teenage son! i've come to the conclusion that these mitts are made to be given away, so i've called them friends. \r\nthese are quick and simple to make, look great in any dk weight yarn, and are sure to be loved and worn out. make a pair for yourself, and be prepared for them to be pilfered! \r\n\r\nthese simple mitts are the perfect unisex accessory for the in-between seasons. they are worked in the round, in one piece.\r\n\r\n**yarn:** \t\r\napprox 70 (100, 130, 145, 160) yards of dk / light worsted weight yarn.\r\n\r\nsample shown in black elephant dk in the colourway ‘echo’.\r\n\r\n**needles:**\t\r\nus 5 / 3.75 mm dpns or 80cm+ circular needle for magic loop method.\r\n\r\n**notions:** \t\r\n3 stitch markers, waste yarn, tapestry needle.\r\n\r\n**sizing:** \t\r\nsmall child (older child, adult small, adult medium, adult large).\r\n\r\n**to fit hand circumference ~**             \r\n5 (6, 6.75, 7.25, 8) inches /                                \r\n12.5 (15, 17, 18.5, 20.5) cm.\r\n\r\n**actual circumference of mitts at wrist & hand ~**\r\n4.9 (5.6, 6.3, 7, 7.7) inches /                             \r\n12.5 (14.2, 16, 17.8, 19.6) cm.\r\n\r\n**gauge:** \t\r\n23 stitches and 30 rounds = 4 inch / 10 cm square in stockinette stitch.\r\n\r\nadjust needle size if necessary to obtain correct gauge.",
   "pdf": {
     "filename": "886309.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\886309.pdf",
-    "url": "https://pdf.ravelrycache.com/Lionessknits/912930/Friends_mitts_v1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480526&Signature=yxDGLTVaFaAzAo2ju%2BliVMLmyOE%3D&key_expires=1768480526&key=0QCBnsSBxd56_wHSPkjgkg",
+    "url": "https://pdf.ravelrycache.com/Lionessknits/912930/Friends_mitts_v1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770426857&Signature=xyWMk6dn1wRI644UK2OmJ8SWe8g%3D&key_expires=1770426857&key=uiGnxLrOR8ELh0D1i-oWCg",
     "size_bytes": 586765
   }
 }

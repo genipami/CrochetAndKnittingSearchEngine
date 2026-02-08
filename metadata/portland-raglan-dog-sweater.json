@@ -1,39 +1,43 @@
 {
   "id": 7376669,
-  "name": "Portland Raglan Dog Sweater",
+  "name": "portland raglan dog sweater",
   "permalink": "portland-raglan-dog-sweater",
   "url": "https://www.ravelry.com/patterns/library/portland-raglan-dog-sweater",
   "external_url": "https://calico-radio.com/the-portland-raglan-dog-sweater/",
-  "designer_name": "CalicoRadio Knits",
-  "project_type": "Pet",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "calicoradio knits",
+  "project_type": "pet",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "220 Superwash®",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 60.0
     },
     {
-      "fiber": "Duo",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 18.3
     },
     {
-      "fiber": "Perfect",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 15.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 6.7
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "cable",
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Cables",
-    "Raglan",
-    "Seamless",
-    "Short rows",
-    "Written"
+    "cables",
+    "raglan",
+    "seamless",
+    "short rows",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -41,18 +45,19 @@
     4.5
   ],
   "published": "2024/10/01",
-  "sizes_available": "XXS (XS) S (M) L (XL)",
-  "rating_average": 4.8108108108108105,
-  "rating_count": 111,
-  "difficulty_average": 2.8666666666666667,
-  "favorites_count": 4477,
-  "projects_count": 402,
+  "sizes_available": "xxs (xs) s (m) l (xl)",
+  "rating_average": 4.804878048780488,
+  "rating_count": 123,
+  "difficulty_average": 2.905982905982906,
+  "favorites_count": 4952,
+  "projects_count": 460,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/98317/957838",
+  "notes": "**description**\r\nthe portland raglan dog sweater is worked from neck to tail using a raglan construction and features a folded neckband and harness hole .  this sweater’s classic design makes it a great go-to sweater that can be adapted to fit a variety of shapes and styles. \r\n\r\nthis sweater comes in six sizes.\r\n\r\n**video tutorial**\r\nyou can also find a video tutorial for this sweater on my youtube channel: https://youtu.be/pqabxpnjf-w \r\n\r\n**yarn**\r\nany light worsted/dk weight yarn.\r\n\r\nsandnes garn perfect in gris moyen (1042), cascade yarns 220 superwash in shire (1918), and sandes garn duo in deep red (4236) shown in pictures.\r\n\r\n**needles**\r\nfor sizes xxs, xs, s:\r\ncircular needles: 4.5 mm (us7) 30 cm (12 inches) & 4 mm (us6) 23 cm (9 inches) \r\n\r\nfor sizes m, l, xl:\r\ncircular needles: 4.5 mm (us7) 40 cm (16 inches) & 4 mm (us6) 30 cm (12 inches)\r\n\r\nalternatively, you can use 4.5 mm (us7) & 4 mm (us6) double-pointed needles or 4.5 mm (us7) & 4 mm (us6) circular needles with a long cable for the magic loop method.\r\n\r\nif you prefer a raglan dog sweater without sleeves, check out the [edinburgh seamless dog sweater][1]. \r\n\r\n\r\n  [1]: https://ravel.me/edinburgh-seamless-dog-sweater",
   "pdf": {
     "filename": "7376669.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7376669.pdf",
-    "url": "https://pdf.ravelrycache.com/CalicoRadioKnits/2116076/Portland_Raglan_Dog_Sweater_PDF.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482536&Signature=2hWJxdmzXbXsioUP0Vh6vuHlUXA%3D&key_expires=1768482536&key=uJIbLrZ6tdsgX6__rFwMbg",
+    "url": "https://pdf.ravelrycache.com/CalicoRadioKnits/2116076/Portland_Raglan_Dog_Sweater_PDF.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770437730&Signature=bu8ILleSViC6M6wJl21jRCPVyKg%3D&key_expires=1770437730&key=TDil-ZvlFFxcXQU-qE7KQQ",
     "size_bytes": 1440680
   }
 }

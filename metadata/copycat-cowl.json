@@ -1,26 +1,30 @@
 {
   "id": 899623,
-  "name": "Copycat Cowl",
+  "name": "copycat cowl",
   "permalink": "copycat-cowl",
   "url": "https://www.ravelry.com/patterns/library/copycat-cowl",
   "external_url": "",
-  "designer_name": "Verna Glass",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "verna glass",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Alpaca Lana D'Oro",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 50.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 50.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Top-down",
-    "Written"
+    "in the round",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -32,14 +36,15 @@
   "rating_average": 4.746666666666667,
   "rating_count": 150,
   "difficulty_average": 1.9261744966442953,
-  "favorites_count": 7834,
-  "projects_count": 556,
+  "favorites_count": 7844,
+  "projects_count": 557,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/73709/511667",
+  "notes": "a simple cowl that mirrors that popular beanie that's out there. [link text][1] just knits and purls with some simple increases to add a gentle flair to the base and encourage graceful puddling.\r\n\r\ntip on the chinese waitress cast on:  do not count the slip knot as a stitch and drop it off before joining in the round.\r\n\r\nfor the stretchy bindoff go down one needle size.  here's a video:  [link text][2]\r\n\r\n\r\npattern has an update: so use v2.  here's all it changed: \r\non the final increase round it should be (k**13**, kfb) not k12.\r\n\r\n\r\n  [1]: https://www.ravelry.com/patterns/library/cmb-beanie\r\n  [2]: https://www.youtube.com/watch?v=sbzeeg6xmwm",
   "pdf": {
     "filename": "899623.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\899623.pdf",
-    "url": "https://pdf.ravelrycache.com/vhglass/934573/Copycat_Cowl_v2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479670&Signature=ktqtqPbMzVvYO73wEua03ozEvJE%3D&key_expires=1768479670&key=w3BMmndi8SMt0QBzDhOWLQ",
+    "url": "https://pdf.ravelrycache.com/vhglass/934573/Copycat_Cowl_v2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770422199&Signature=X1aXJ6IUZT4eazL7uKbbfPsAI%2Fc%3D&key_expires=1770422199&key=K2IQcN0F1WkWzJnxRfaJVg",
     "size_bytes": 267374
   }
 }

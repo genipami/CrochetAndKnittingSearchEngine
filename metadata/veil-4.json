@@ -1,42 +1,51 @@
 {
   "id": 7468963,
-  "name": "Veil",
+  "name": "veil",
   "permalink": "veil-4",
   "url": "https://www.ravelry.com/patterns/library/veil-4",
   "external_url": "https://hobbii.com/collections/crochet/products/hp-1009667-veil-shawl?_pos=1&_fid=7d8959e25&_ss=c",
-  "designer_name": "Kate Kosenko Veselunka",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "kate kosenko veselunka",
+  "project_type": "shawl/wrap",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Friends Kid Silk",
-      "pct": null
+      "fiber": "Polyester (Polyester)",
+      "pct": 50.0
     },
     {
-      "fiber": "Party Deluxe",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 36.0
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 12.5
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 1.5
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Single crochet (sc)"
+    "lace",
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "Lace",
-    "Written"
+    "lace",
+    "written"
   ],
   "hook_sizes_mm": [
     5.0
   ],
   "needle_sizes_mm": [],
   "published": "2025/10/01",
-  "sizes_available": "Radius (from neck along the back): 53 cm / 21”",
+  "sizes_available": "radius (from neck along the back): 53 cm / 21”",
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 346,
+  "favorites_count": 373,
   "projects_count": 3,
   "free_ravelry_download": false,
-  "download_url": "https://hobbii.com/collections/crochet/products/hp-1009667-veil-shawl?_pos=1&_fid=7d8959e25&_ss=c"
+  "download_url": "https://hobbii.com/collections/crochet/products/hp-1009667-veil-shawl?_pos=1&_fid=7d8959e25&_ss=c",
+  "notes": "this delicate crochet shawl combines silk, mohair, and a hint of sparkle from sequins. light and airy, it features an open lace pattern that drapes beautifully. the subtle shimmer of the sequins catches the light, evoking the soft glimmer of fresh snow in the sun. perfect for winter festivities or elegant holiday gatherings - a rewarding project for experienced hands.\r\n\r\nmaterials\r\n3 balls of friends kid silk color 02\r\n3 skeins of party deluxe color creme\r\ncrochet hook 5 mm (h-8) \r\nscissors\r\nstitch markers\r\ntape measure\r\n"
 }

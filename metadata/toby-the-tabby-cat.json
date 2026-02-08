@@ -1,23 +1,23 @@
 {
   "id": 1286617,
-  "name": "Toby the Tabby Cat",
+  "name": "toby the tabby cat",
   "permalink": "toby-the-tabby-cat",
   "url": "https://www.ravelry.com/patterns/library/toby-the-tabby-cat",
   "external_url": "https://jesshuff.com/crochet-cat-free-pattern-calico-tabby-siamese/",
-  "designer_name": "Jess Huff",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "jess huff",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Super Saver (solids)",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     3.5
@@ -28,8 +28,9 @@
   "rating_average": 4.947368421052632,
   "rating_count": 19,
   "difficulty_average": 3.3157894736842106,
-  "favorites_count": 2232,
-  "projects_count": 74,
+  "favorites_count": 2270,
+  "projects_count": 76,
   "free_ravelry_download": false,
-  "download_url": "https://jesshuff.com/crochet-cat-free-pattern-calico-tabby-siamese/"
+  "download_url": "https://jesshuff.com/crochet-cat-free-pattern-calico-tabby-siamese/",
+  "notes": "hear meowt, toby the tabby has a bit of a cattitude, but he’s just kitten around. once you hiss and make up, he’ll make the purrfect feline friend."
 }

@@ -1,54 +1,46 @@
 {
   "id": 369042,
-  "name": "Garter Squish",
+  "name": "garter squish",
   "permalink": "garter-squish",
   "url": "https://www.ravelry.com/patterns/library/garter-squish",
   "external_url": "",
-  "designer_name": "Stephen West",
-  "project_type": "Blanket",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "stephen west",
+  "project_type": "blanket",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "8-ply Mongolian Cashmere",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 37.8
     },
     {
-      "fiber": "Heirloom Romney",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 22.2
     },
     {
-      "fiber": "Kureyon（くれよん）",
-      "pct": null
+      "fiber": "Corriedale (Wool)",
+      "pct": 11.1
     },
     {
-      "fiber": "River Twist",
-      "pct": null
+      "fiber": "Romney (Wool)",
+      "pct": 11.1
     },
     {
-      "fiber": "Sirritógv Colour (Art)",
-      "pct": null
+      "fiber": "Cashmere goat (Cashmere)",
+      "pct": 11.1
     },
     {
-      "fiber": "Terra",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 4.4
     },
     {
-      "fiber": "Twist",
-      "pct": null
-    },
-    {
-      "fiber": "Wool Clasica",
-      "pct": null
-    },
-    {
-      "fiber": "Worsted",
-      "pct": null
+      "fiber": "Silk (Silk)",
+      "pct": 2.2
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [],
@@ -56,18 +48,19 @@
     10.0
   ],
   "published": "2012/12/01",
-  "sizes_available": "One Size,easily customizable",
-  "rating_average": 4.8056968463886065,
-  "rating_count": 983,
-  "difficulty_average": 1.3737574552683898,
-  "favorites_count": 23757,
-  "projects_count": 4126,
+  "sizes_available": "one size,easily customizable",
+  "rating_average": 4.806091370558375,
+  "rating_count": 985,
+  "difficulty_average": 1.375,
+  "favorites_count": 23850,
+  "projects_count": 4142,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/5579/131390",
+  "notes": "*this super simple garter stitch blanket has an i-cord edge and is worked with two strands of worsted weight yarn held double. i used several skeins of yarn from my stash that resulted in a colorful squishy blanket. it's a great project for mindless knitting and with us 15 / 10mm needles, it eats delicious yarn in no time at all, leaving lots of empty space in your yarn box or cabinet or room to fill with new wooly acquisitions.*\r\n\r\n**finished measurements** \r\n66\" / 168cm long from co to bo, 48\" / 122cm wide\r\n\r\n**yarn** \r\nworsted weight held double\r\n\r\n**yardage** \r\napproximately 3,240yds / 2,963m\r\n\r\nyardage estimate is for the the total amount of worsted weight yarn used. worsted weight yarn is held double to equal a chunky weight gauge. for example, if you are only knitting the blanket with two colors, you would need 1,620yds / 1,481m of each color.\r\n\r\nthe blanket can also be made shorter or longer to accommodate varying amounts of yarn.\r\n\r\n**shown in** \r\na variety of worsted weight stash yarn. \r\n\r\nsample shown always uses one strand of a light gray or natural held together with various colors. \r\n\r\n**needles** \r\n32\" us 15 / 10mm circular\r\n\r\n**notions**\r\ntapestry needle\r\n\r\n**gauge**\r\n11 sts & 18 rows = 4” / 10cm in garter stitch \r\n\r\n**westknits workshops**\r\nventure into the world of westknits with my series of online workshops. westknits workshops can be watched as many times as you like and at your own pace as you learn new knitting skills. sign up here!\r\nhttps://www.westknits.com/collections/workshops\r\n\r\n**shop yarn at stephen & penelope**\r\nfind the perfect yarn for your project at stephen & penelope! we ship worldwide!\r\nhttps://www.stephenandpenelope.com/\r\n\r\n**westknits on youtube**\r\ncheck out my videos on youtube for some helpful tutorials and an exciting insight into the woolly world of westknits!\r\nhttps://www.youtube.com/@stephenwest \r\n\r\nall rights reserved. pattern for personal use only.",
   "pdf": {
     "filename": "369042.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\369042.pdf",
-    "url": "https://pdf.ravelrycache.com/westknits/1813576/garter_squish_2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480565&Signature=%2BFfUGlBsnqsIUWB3ouyQWs62SUA%3D&key_expires=1768480565&key=XkEnsQ8n9l-kZ6mNCTUuAw",
+    "url": "https://pdf.ravelrycache.com/westknits/1813576/garter_squish_2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770427269&Signature=iRj9zHaFYFpIbXejDb5MGKKQIJo%3D&key_expires=1770427269&key=gmTarwQETZxXYKuJVc1i2g",
     "size_bytes": 2101810
   }
 }

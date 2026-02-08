@@ -1,31 +1,39 @@
 {
   "id": 1350676,
-  "name": "Midwinter Knit Along",
+  "name": "midwinter knit along",
   "permalink": "midwinter-knit-along",
   "url": "https://www.ravelry.com/patterns/library/midwinter-knit-along",
   "external_url": "https://www.rowanconnect.net/offers/GvgW22Ac/checkout",
-  "designer_name": "Martin Storey",
-  "project_type": "Blanket",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "martin storey",
+  "project_type": "blanket",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Felted Tweed",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 50.0
+    },
+    {
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 25.0
+    },
+    {
+      "fiber": "Rayon / Viscose (Rayon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Charted",
-    "Modular",
-    "Seamed",
-    "Stranded colorwork",
-    "Written"
+    "bottom-up",
+    "charted",
+    "modular",
+    "seamed",
+    "stranded colorwork",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -36,8 +44,9 @@
   "rating_average": 4.868421052631579,
   "rating_count": 76,
   "difficulty_average": 4.549295774647887,
-  "favorites_count": 5000,
-  "projects_count": 385,
+  "favorites_count": 5038,
+  "projects_count": 386,
   "free_ravelry_download": false,
-  "download_url": "https://www.rowanconnect.net/offers/GvgW22Ac/checkout"
+  "download_url": "https://www.rowanconnect.net/offers/GvgW22Ac/checkout",
+  "notes": "to sign up for this knit along, please go to the rowan connect platform at the link above.\r\n\r\nthere is also a facebook group for this project - join at https://www.facebook.com/groups/620741256591207\r\n\r\nfrom there, you will receive an intro email and video from martin. once the knit along has started, you will receive emails with links to the rowan connect platform to obtain the next segments of the pattern.\r\n\r\nthe make a long is presented with an introduction, seven pattern releases and a cast off party.\r\n\r\njuly 26- introduction\r\nthursday 17th august - release 1 with tutorial \r\nthursday 24th august - release 2 with tutorial \r\nthursday 31st august - release 3 \r\nthursday 7th september - release 4 with live virtual meet up - 5.00-6.00pm bst\r\nthursday 14th september - release 5 \r\nthursday 21st september - release 6 \r\nthursday 28th september - release 7 with tutorial \r\nthursday 12th october - casting off party - a live, virtual meet up - 7.00-8.00pm bst \r\n\r\nthere is both a seven colour version and a two colour version. each version has two different palettes. \r\n\r\nyarn used: rowan felted tweed\r\n\r\nseven colour option\r\ntraditional version:\r\na. 177 clay - 5 balls \r\nb. 154 ginger - 1 ball \r\nc. 170 seafarer - 1 ball \r\nd. 161 avocado - 2 balls \r\ne. 158 pine - 1 ball \r\nf. 175 cinnamon - 1 ball \r\ng. 150 rage - 1 ball \r\n\r\nbold version:\r\na. 211 black - 5 balls \r\nb. 198 zinnia - 1 ball \r\nc. 215 ciel - 1 ball \r\nd. 213 lime - 2 balls \r\ne. 220 sulfur - 1 ball \r\nf. 216 french mustard - 1 ball \r\ng. 200 barbara - 1 ball \r\n\r\ntwo color option:\r\ntraditional version \r\na. 210 aluminum - 5 balls\r\nb. 186 tawny - 4 balls\r\n\r\nbold version\r\na. 165 scree - 5 balls\r\nb. 159 carbon - 4 balls\r\n\r\n** it is possible to make this into a pillow.   if so, you will need 3 balls of the mc and one ball of all of the cc's if you are making the multicolored option and likely 2 balls of the cc's  if you are making the two color options."
 }

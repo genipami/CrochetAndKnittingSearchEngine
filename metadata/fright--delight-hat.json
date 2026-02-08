@@ -1,26 +1,26 @@
 {
   "id": 7365491,
-  "name": "Fright & Delight Hat",
+  "name": "fright & delight hat",
   "permalink": "fright--delight-hat",
   "url": "https://www.ravelry.com/patterns/library/fright--delight-hat",
   "external_url": "https://blueskyfibers.com/",
-  "designer_name": "Mary Pranica",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "mary pranica",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Woolstok Bundle",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Stranded colorwork"
+    "charted",
+    "in the round",
+    "stranded colorwork"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -28,18 +28,19 @@
     4.5
   ],
   "published": "2024/08/01",
-  "sizes_available": "One",
+  "sizes_available": "one",
   "rating_average": 5.0,
   "rating_count": 11,
   "difficulty_average": 3.5454545454545454,
-  "favorites_count": 733,
+  "favorites_count": 741,
   "projects_count": 36,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/8201/948751",
+  "notes": "skeletons and bats, oh my! this frightfully delightful hat uses one woolstok bundle and is perfect for the\r\neerie season.\r\n\r\nexperience level\r\n\r\n* intermediate\r\n\r\nmaterials\r\n\r\n* woolstok (worsted) bundle (100% fine highland wool; 21 mini hanks: 5g/12yds each): 1 bundle (fright & delight)\r\n* stitch marker\r\n* tapestry needle\r\n\r\nfinished dimensions\r\n\r\n* circumference: 21\"\r\n* height: 8\"\r\n\r\ncolor shown\r\n\r\n* rusted roof no. 1311 (a)\r\n* golden meadow no. 1308 (b)\r\n* midnight sea no. 1317 (c)\r\n* spun gold no. 1316 (d)\r\n* dark chocolate no. 1313 (e)\r\n* highland fleece no. 1303 (f)\r\n* pressed grapes no. 1307 (g)\r\n\r\n",
   "pdf": {
     "filename": "7365491.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7365491.pdf",
-    "url": "https://pdf.ravelrycache.com/BlueSkyFibers/1880753/BSF_Comp_FrightandDelight_WEB.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480528&Signature=Ms5vqP1x9VAaMo5zjykGmDAcwIc%3D&key_expires=1768480528&key=zTC5dCogCv_DZ7_CAiTOxw",
+    "url": "https://pdf.ravelrycache.com/BlueSkyFibers/1880753/BSF_Comp_FrightandDelight_WEB.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770426878&Signature=wpcdNPVO5ngcPU1sSzyQ%2B8gDZ9w%3D&key_expires=1770426878&key=XFk37F6_JXmSlabXQntn7Q",
     "size_bytes": 2847068
   }
 }

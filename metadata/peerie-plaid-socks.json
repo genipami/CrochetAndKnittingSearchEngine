@@ -1,46 +1,47 @@
 {
   "id": 7370144,
-  "name": "Peerie Plaid Socks",
+  "name": "peerie plaid socks",
   "permalink": "peerie-plaid-socks",
   "url": "https://www.ravelry.com/patterns/library/peerie-plaid-socks",
   "external_url": "https://knitty.com/ISSUEdf24/PATTpeerie/PATTpeerie.php",
-  "designer_name": "Sharon Barnes",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "sharon barnes",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Hawthorne Fingering",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 80.0
     },
     {
-      "fiber": "Hawthorne Fingering Kettle Dye",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)",
-    "Twisted stitch"
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)",
+    "twisted stitch"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Charted",
-    "Mosaic",
-    "Written"
+    "bottom-up",
+    "charted",
+    "mosaic",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.25
   ],
   "published": "2024/09/01",
-  "sizes_available": "Adult XS[S, M, L, XL]",
+  "sizes_available": "adult xs[s, m, l, xl]",
   "rating_average": 4.92,
   "rating_count": 25,
   "difficulty_average": 3.4166666666666665,
-  "favorites_count": 2627,
+  "favorites_count": 2726,
   "projects_count": 100,
   "free_ravelry_download": false,
-  "download_url": "https://knitty.com/ISSUEdf24/PATTpeerie/PATTpeerie.php"
+  "download_url": "https://knitty.com/ISSUEdf24/PATTpeerie/PATTpeerie.php",
+  "notes": "plaid never goes out of style! that timeless and beloved woven fabric technique was the inspiration for these socks, and this pattern is a loose translation of the plaid design concept into a small-scale knit. 'peerie' is a word from the shetland islands dialect, meaning small or tiny.\r\n\r\nthe stitch pattern uses two colors, and thanks to a few slipped stitches, only one color is used at a time. twisted stitches emphasize the vertical elements, and occasional purls at color crossings echo a tartan's twill. it looks complex, but is actually easy to memorize and work. stockinette stitch stripes provide a smooth and comfortable sole.\r\n\r\ndepending on your sock size and yarn supply, there may be enough yarn left over to knit a second pair by switching the main and contrast colors.\r\n\r\nsuggested color pairings include two solid colors, or one solid with a semi-solid, gradient or multicolored yarn. just make sure the hue of the solid yarn is not included in the multicolor yarn, or the design will be lost in those areas! knitting socks in school or team colors would almost guarantee their wear on game days. choose yarns with high-contrast colors so the stitch pattern will stand out, or you may prefer medium contrast for a more subtle effect."
 }

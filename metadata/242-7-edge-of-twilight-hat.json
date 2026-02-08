@@ -1,42 +1,51 @@
 {
   "id": 1362247,
-  "name": "242-7 Edge of Twilight Hat",
+  "name": "242-7 edge of twilight hat",
   "permalink": "242-7-edge-of-twilight-hat",
   "url": "https://www.ravelry.com/patterns/library/242-7-edge-of-twilight-hat",
   "external_url": "https://www.garnstudio.com/pattern.php?id=11457&cid=19",
-  "designer_name": "DROPS design",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "drops design",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "DROPS Air",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 65.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 28.0
+    },
+    {
+      "fiber": "Merino (Merino)",
+      "pct": 7.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Seamed",
-    "Seamless",
-    "Top-down",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "seamed",
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     4.5
   ],
   "published": "2023/09/01",
-  "sizes_available": "ADULT S/M – L – XL",
+  "sizes_available": "adult s/m – l – xl",
   "rating_average": 4.705882352941177,
   "rating_count": 17,
   "difficulty_average": 2.2222222222222223,
-  "favorites_count": 1331,
-  "projects_count": 95,
+  "favorites_count": 1377,
+  "projects_count": 99,
   "free_ravelry_download": false,
-  "download_url": "https://www.garnstudio.com/pattern.php?id=11457&cid=19"
+  "download_url": "https://www.garnstudio.com/pattern.php?id=11457&cid=19",
+  "notes": "**knitted reversible hipster hat in drops air. sizes s - xl.**\r\n~~~~~~~~~~~~~~~~~~\r\n\r\ndrops design: pattern ai-447\r\nyarn group c or a + a\r\n\r\n-------------------------------------------------------\r\n\r\n\r\n**sizes**:\r\ns/m – l – xl\r\nfits head-size approx.: 54/56 – 56/58 – 58/60 cm\r\nheight approx.: 23-24-25 cm (with 10 cm fold-up)\r\n\r\n**yarn**:\r\ndrops air from garnstudio (belongs to yarn group c)\r\n150-150-150 g colour 41, sweet orchid\r\n\r\n**needles**:\r\ndrops circular needle size 4,5 mm: length 40 cm.\r\ndrops double pointed needles size 4,5 mm.\r\nthe technique magic loop can be used – you then only need 80 cm circular needle.\r\n\r\n**knitting tension**:\r\n18 stitches in width and 23 rows in height with stocking stitch = 10 x 10 cm.\r\nnote: needle size is only a guide. if you get too many stitches on 10 cm, change to a larger needle size. if you get too few stitches on 10 cm, change to a smaller needle size."
 }

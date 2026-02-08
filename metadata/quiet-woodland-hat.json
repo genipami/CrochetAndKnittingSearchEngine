@@ -1,38 +1,42 @@
 {
   "id": 7488689,
-  "name": "Quiet Woodland Hat",
+  "name": "quiet woodland hat",
   "permalink": "quiet-woodland-hat",
   "url": "https://www.ravelry.com/patterns/library/quiet-woodland-hat",
   "external_url": "https://celesteknitwear.com/quiet-woodland-hat-knitting-pattern/",
-  "designer_name": "Celeste Knitwear",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "celeste knitwear",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "DROPS Daisy",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 50.0
     },
     {
-      "fiber": "DROPS Kid-Silk",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 37.5
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 12.5
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Lace",
-    "Reverse stockinette",
-    "Ribbing",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "cable",
+    "lace",
+    "reverse stockinette",
+    "ribbing",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Bottom-up",
-    "Cables",
-    "In the round",
-    "Lace",
-    "Seamless"
+    "blocking",
+    "bottom-up",
+    "cables",
+    "in the round",
+    "lace",
+    "seamless"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -40,12 +44,13 @@
     4.0
   ],
   "published": "2025/12/01",
-  "sizes_available": "Adult",
-  "rating_average": 0,
-  "rating_count": null,
-  "difficulty_average": 0,
-  "favorites_count": 795,
-  "projects_count": 12,
+  "sizes_available": "adult",
+  "rating_average": 5.0,
+  "rating_count": 5,
+  "difficulty_average": 2.5,
+  "favorites_count": 876,
+  "projects_count": 18,
   "free_ravelry_download": false,
-  "download_url": "https://celesteknitwear.com/quiet-woodland-hat-knitting-pattern/"
+  "download_url": "https://celesteknitwear.com/quiet-woodland-hat-knitting-pattern/",
+  "notes": "the quiet woodland hat is knit in the round from the bottom up with two strands of yarn held together – dk-weight merino wool and lace-weight mohair. \r\n\r\nthe design features a combination of ribbing and cables on a reverse stockinette background.\r\n\r\nthe crown decreases are done gradually, and the top of the hat is designed to stand up from the head.\r\n\r\nthe folded brim is knit in 2×2 rib."
 }

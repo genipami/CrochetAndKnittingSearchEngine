@@ -4,24 +4,28 @@
   "permalink": "loop-knallerbse-cowl",
   "url": "https://www.ravelry.com/patterns/library/loop-knallerbse-cowl",
   "external_url": "",
-  "designer_name": "Petra Peinze",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "petra peinze",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "TwistyStar 4fach",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless",
-    "Written"
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -29,11 +33,12 @@
   ],
   "published": "2019/10/01",
   "sizes_available": "one size",
-  "rating_average": 4.818181818181818,
-  "rating_count": 66,
-  "difficulty_average": 1.609375,
-  "favorites_count": 1858,
-  "projects_count": 322,
+  "rating_average": 4.823529411764706,
+  "rating_count": 68,
+  "difficulty_average": 1.5909090909090908,
+  "favorites_count": 1876,
+  "projects_count": 326,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/77926/563000"
+  "download_url": "http://www.ravelry.com/dls/77926/563000",
+  "notes": "-dehnfähiger und trotzdem anliegender, unkomplizierter loop aus 100g sockenwolle.\r\n-ca. 26cm x42cm flach liegend.\r\n-dichtes bis leicht lockeres maschenbild."
 }

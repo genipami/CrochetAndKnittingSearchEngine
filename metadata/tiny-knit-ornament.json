@@ -1,32 +1,32 @@
 {
   "id": 7482583,
-  "name": "Tiny Knit Ornament",
+  "name": "tiny knit ornament",
   "permalink": "tiny-knit-ornament",
   "url": "https://www.ravelry.com/patterns/library/tiny-knit-ornament",
   "external_url": "",
   "designer_name": "gogoknit",
-  "project_type": "Home",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "project_type": "home",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "British Fine (ブリティッシュファイン)",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "lace",
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "In the round",
-    "Lace",
-    "Raglan",
-    "Top-down",
-    "Written"
+    "blocking",
+    "in the round",
+    "lace",
+    "raglan",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -37,14 +37,15 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 599,
+  "favorites_count": 625,
   "projects_count": 29,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/98868/1040813",
+  "notes": "a tiny pullover–style knit ornament, perfect for adding a cozy touch to your holiday season.\r\nhang it on your tree, use it as a small gift, or tie it onto a present as a charming gift tag.\r\n\r\nit requires only a small amount of yarn, so it’s a great way to use up leftovers and enjoy a quick, fun project!\r\n\r\n\r\nthis mini pullover is worked from the top down in the round, increasing raglan sts. place the sleeve stitches on hold, cast on stitches for the underarms, and work the body in the round to the hem. return the held sleeve stitches to the needles and knit the sleeves in the round. \r\n\r\n\r\n**gauge (after washing and blocking):**\r\nstockinette stitch: 32 sts x 40 rows = 10x10cm / 4x4\" on 3 mm [us½] needle. \r\ngauge is not critical for this project. use needles appropriate for your chosen yarn.\r\n\r\n\r\n**needles:**\r\n3 mm [us 2½],  5 double-pointed needles (dpns)\r\n(if using the magic loop method, a long circular needle can be used instead.) \r\n\r\n\r\n**suggested yarn:**\r\nfingering yarn\r\nsample uses british fine by puppy  (25 g = 116 m / 127 yds)\r\napprox. 24 m / 27 yds\r\n\r\n\r\n**notions:**\r\nextra scrap yarn or stitch holders, tapestry needle. \r\n\r\n",
   "pdf": {
     "filename": "7482583.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7482583.pdf",
-    "url": "https://pdf.ravelrycache.com/gogoknit28/2096859/Tiny_Knit_Ornament_Mini_Pullover_English.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483769&Signature=yLTJCLasQnU8C740c3TplpsbNEg%3D&key_expires=1768483769&key=5ltK2WJb04up77g_CP7YPw",
+    "url": "https://pdf.ravelrycache.com/gogoknit28/2096859/Tiny_Knit_Ornament_Mini_Pullover_English.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770444837&Signature=haAAIOzKZKpOW3mkXK2TzMMVu6U%3D&key_expires=1770444837&key=h2qrBvyrSCD_xOFVHXYFiA",
     "size_bytes": 5082062
   }
 }

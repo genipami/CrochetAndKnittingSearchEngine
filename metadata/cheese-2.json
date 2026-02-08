@@ -1,18 +1,18 @@
 {
   "id": 984949,
-  "name": "Cheese",
+  "name": "cheese",
   "permalink": "cheese-2",
   "url": "https://www.ravelry.com/patterns/library/cheese-2",
   "external_url": "",
-  "designer_name": "Jenni Frencham",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "jenni frencham",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [],
   "stitches_used": [],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     3.25
@@ -23,14 +23,15 @@
   "rating_average": 4.705882352941177,
   "rating_count": 17,
   "difficulty_average": 1.8333333333333333,
-  "favorites_count": 1979,
+  "favorites_count": 2007,
   "projects_count": 58,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/70249/573597",
+  "notes": "this is a quick pattern to create an amigurumi cheese in a red wrapper. this pattern uses a very small amount of yarn and no fiberfill. for crafters who are comfortable crocheting in the round, this pattern will be simple and fast. ",
   "pdf": {
     "filename": "984949.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\984949.pdf",
-    "url": "https://pdf.ravelrycache.com/frenchizal/1057292/Cheese.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479439&Signature=GlKI94xkHKQ5b8htf13fpr36ipk%3D&key_expires=1768479439&key=1bRfFDMthgnQAsTzbQYydg",
+    "url": "https://pdf.ravelrycache.com/frenchizal/1057292/Cheese.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770420992&Signature=HM%2FcAF3SOGVBOAfv1JmZHl5UKaI%3D&key_expires=1770420992&key=AQqzAuMGKrDcuVY-zLt8ow",
     "size_bytes": 234357
   }
 }

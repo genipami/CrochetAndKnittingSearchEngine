@@ -1,28 +1,36 @@
 {
   "id": 1340552,
-  "name": "Snail Shell hat",
+  "name": "snail shell hat",
   "permalink": "snail-shell-hat",
   "url": "https://www.ravelry.com/patterns/library/snail-shell-hat",
   "external_url": "https://www.youtube.com/watch?v=epO5fDBPDv0",
-  "designer_name": "Sarah Baumgartner",
-  "project_type": "Hat",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Bulky",
+  "designer_name": "sarah baumgartner",
+  "project_type": "hat",
+  "fiber_art": "crochet",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Ribbon",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Rayon / Viscose (Rayon)",
+      "pct": 10.0
+    },
+    {
+      "fiber": "Polyester (Polyester)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Shell",
-    "Treble crochet (tr)"
+    "shell",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Modular",
-    "Top-down",
-    "Written"
+    "in the round",
+    "modular",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [
     8.0
@@ -33,8 +41,9 @@
   "rating_average": 4.666666666666667,
   "rating_count": 9,
   "difficulty_average": 4.0,
-  "favorites_count": 4447,
-  "projects_count": 57,
+  "favorites_count": 4543,
+  "projects_count": 59,
   "free_ravelry_download": false,
-  "download_url": "http://www.ravelry.com/purchase/sarah-baumgartner-designs/880599"
+  "download_url": "http://www.ravelry.com/purchase/sarah-baumgartner-designs/880599",
+  "notes": "\r\nthis pattern is free on my channel on youtube. \r\nyoutube tutorial includes english subtitles which should be translatable with the youtube translating feature.\r\n\r\nif you would like to support my work, the written pdf pattern is available for sale (english only at this time).\r\n\r\nthis pattern is best suited with bulky ribbon yarns for durability.\r\n\r\nideally two skeins of 175 meters ribbon yarn would be a reliable amount of yarn for the project.\r\n\r\n"
 }

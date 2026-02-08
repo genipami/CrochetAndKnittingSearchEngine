@@ -1,45 +1,46 @@
 {
   "id": 795126,
-  "name": "V-stitch Vortex",
+  "name": "v-stitch vortex",
   "permalink": "v-stitch-vortex",
   "url": "https://www.ravelry.com/patterns/library/v-stitch-vortex",
   "external_url": "",
-  "designer_name": "Susan Sands",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Lace",
+  "designer_name": "susan sands",
+  "project_type": "shawl/wrap",
+  "fiber_art": "crochet",
+  "yarn_weight": "lace",
   "materials": [
     {
-      "fiber": "Soft Knitting & Crochet Cotton 3 Ply",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Treble crochet (tr)",
-    "V-stitch"
+    "double crochet (dc)",
+    "treble crochet (tr)",
+    "v-stitch"
   ],
   "techniques_used": [
-    "Charted",
-    "Written"
+    "charted",
+    "written"
   ],
   "hook_sizes_mm": [
     3.0
   ],
   "needle_sizes_mm": [],
   "published": "2017/12/01",
-  "sizes_available": "One size - easily adjustable ",
-  "rating_average": 4.741935483870968,
-  "rating_count": 31,
-  "difficulty_average": 1.7407407407407407,
-  "favorites_count": 1112,
-  "projects_count": 130,
+  "sizes_available": "one size - easily adjustable ",
+  "rating_average": 4.71875,
+  "rating_count": 32,
+  "difficulty_average": 1.75,
+  "favorites_count": 1120,
+  "projects_count": 132,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/55127/432552",
+  "notes": "i’ve been admiring all the knitted boomerang shawls on ravelry for ages and wanting to make a crochet one. here’s the result! \r\n\r\njust like its knitted equivalent, this shawl is worked sideways from one skinny end to form a distorted triangle, gradually getting wider as you increase every row on one edge but only decrease every second row on the other edge. \r\n\r\nthe stitch unit for this shawl is the v- stitch (dc, ch, dc) and the asymmetric increasing/decreasing forms a vortex. hence, the v-stitch vortex.\r\n\r\nyou can use any yarn and hook combination you like that gives you a drapey, lacy fabric.  so far i've made it in light fingering weight yarn and in dk weight and both are great.\r\n\r\ni have used standard us terminology.\r\n\r\nplease let me know if you spot an error.\r\n\r\nhappy hooking!\r\n\r\nps i've just republished the pattern to include written instructions as well as the chart.  \r\n",
   "pdf": {
     "filename": "795126.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\795126.pdf",
-    "url": "https://pdf.ravelrycache.com/susansands/775634/ss_v-stitch_vortex_v2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483968&Signature=%2BB4XpkfOMdCqfBJ5ZjNRYzXntLA%3D&key_expires=1768483968&key=ZsfWJszVg02g7L1W4HlBrQ",
+    "url": "https://pdf.ravelrycache.com/susansands/775634/ss_v-stitch_vortex_v2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770445875&Signature=LYZXPUR8j3xbYMdHVzUfteEW9fY%3D&key_expires=1770445875&key=pS6fgmWh49q2E4YLWCkiOw",
     "size_bytes": 1182657
   }
 }

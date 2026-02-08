@@ -1,40 +1,53 @@
 {
   "id": 7421868,
-  "name": "MKAL 2025 - Chaussettes Quimper",
+  "name": "mkal 2025 - chaussettes quimper",
   "permalink": "mkal-2025---chaussettes-quimper",
   "url": "https://www.ravelry.com/patterns/library/mkal-2025---chaussettes-quimper",
   "external_url": "",
-  "designer_name": "Lysandre Hourdin",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "lysandre hourdin",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Jawoll Superwash 75/25",
-      "pct": null
+      "fiber": "Corriedale (Wool)",
+      "pct": 37.5
     },
     {
-      "fiber": "Superba Tweed 4-fädig / 4 ply / 4 fils",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 30.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 27.5
+    },
+    {
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 3.5
+    },
+    {
+      "fiber": "Rayon / Viscose (Rayon)",
+      "pct": 1.5
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted"
+    "charted"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.5
   ],
   "published": "2025/04/01",
-  "sizes_available": "S (56 mailles), M (64 mailles) and L (72 mailles)",
-  "rating_average": 4.865,
-  "rating_count": 200,
-  "difficulty_average": 3.8545454545454545,
-  "favorites_count": 1640,
-  "projects_count": 1057,
+  "sizes_available": "s (56 mailles), m (64 mailles) and l (72 mailles)",
+  "rating_average": 4.8606965174129355,
+  "rating_count": 201,
+  "difficulty_average": 3.8493975903614457,
+  "favorites_count": 1652,
+  "projects_count": 1054,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/87255/993953"
+  "download_url": "http://www.ravelry.com/dls/87255/993953",
+  "notes": " un nouveau mystery kal débarque, et il va mettre vos aiguilles en feu (de joie)! ✨\r\n\r\npréparez-vous pour un challenge tricot 100 % chaussettes, qui démarre le 1er mai ! chaque semaine, vous recevrez un nouvel indice pour avancer pas à pas dans l’aventure, accompagné de vidéos tutorielles sur youtube pour vous guider à chaque étape.\r\n\r\ndébutant·e en chaussettes ? aucun souci ! tout est pensé pour que vous vous amusiez et que vous osiez enfin vous lancer. franchement, vous n’aurez plus aucune excuse pour ne pas tricoter des chaussettes (et en redemander).\r\n\r\net devinez quoi?  la vidéo d’intro arrive très bientôt! alors, attrapez vos pelotes, aiguilles, et votre bonne humeur : ça va être fun, surprenant, et surtout… très tricoté! "
 }

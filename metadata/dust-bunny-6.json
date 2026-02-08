@@ -1,39 +1,44 @@
 {
   "id": 1351095,
-  "name": "Dust Bunny",
+  "name": "dust bunny",
   "permalink": "dust-bunny-6",
   "url": "https://www.ravelry.com/patterns/library/dust-bunny-6",
   "external_url": "https://shop.hedgehogfibres.com/collections/patterns/products/dust-bunny",
-  "designer_name": "Beata Jezek",
-  "project_type": "Cardigan",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Lace",
+  "designer_name": "beata jezek",
+  "project_type": "cardigan",
+  "fiber_art": "knitting",
+  "yarn_weight": "lace",
   "materials": [
     {
-      "fiber": "Alpaca Boucle",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 60.0
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 40.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch"
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless",
-    "Top-down",
-    "Written"
+    "in the round",
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     4.0
   ],
   "published": "2023/07/01",
-  "sizes_available": "XS [S, M, L, XL] [2XL, 3XL, 4XL, 5XL]",
+  "sizes_available": "xs [s, m, l, xl] [2xl, 3xl, 4xl, 5xl]",
   "rating_average": 4.5,
   "rating_count": 32,
   "difficulty_average": 2.586206896551724,
-  "favorites_count": 3478,
-  "projects_count": 137,
+  "favorites_count": 3550,
+  "projects_count": 141,
   "free_ravelry_download": false,
-  "download_url": "https://shop.hedgehogfibres.com/collections/patterns/products/dust-bunny"
+  "download_url": "https://shop.hedgehogfibres.com/collections/patterns/products/dust-bunny",
+  "notes": "simple top down stockinette cardigan with minimal shaping and relaxed fit. rolled stockinette collar and ribbed hem. light and airy. easy to wear and quick to whip up!\r\n\r\nsizes: xs [s, m, l, xl] [2xl, 3xl, 4xl, 5xl]\r\nto fit bust 28-30 [32-34, 36-38, 40-42, 44-46] [48-50, 52-54, 56-58, 60-62] inches\r\n\r\nyarn: 1 [1, 2, 2, 2] [3, 3, 4, 4] - skeins of hedgehog fibres alpaca boucle (66% alpaca and 34% silk, 100g/600m).\r\n\r\nthe colours pictured is a ‘potluck’ colour. potluck are our one of a kind colourways, but we dye them often! [check out what’s in stock here.][1]\r\n\r\n\r\n  [1]: https://shop.hedgehogfibres.com/collections/yarn-alpaca-boucle"
 }

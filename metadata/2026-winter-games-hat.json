@@ -1,30 +1,30 @@
 {
   "id": 7492042,
-  "name": "2026 Winter Games Hat",
+  "name": "2026 winter games hat",
   "permalink": "2026-winter-games-hat",
   "url": "https://www.ravelry.com/patterns/library/2026-winter-games-hat",
   "external_url": "",
-  "designer_name": "Susan Rainey",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "susan rainey",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Cascade 220®",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Ribbing",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "ribbing",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Charted",
-    "Colorwork",
-    "In the round",
-    "Stranded colorwork"
+    "bottom-up",
+    "charted",
+    "colorwork",
+    "in the round",
+    "stranded colorwork"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -34,18 +34,19 @@
     5.0
   ],
   "published": "2026/01/01",
-  "sizes_available": "Small (18\"), Medium (19\"), Large (20\"), Extra Large (21\")",
-  "rating_average": 5.0,
-  "rating_count": 6,
-  "difficulty_average": 4.666666666666667,
-  "favorites_count": 1343,
-  "projects_count": 35,
+  "sizes_available": "small (18\"), medium (19\"), large (20\"), extra large (21\")",
+  "rating_average": 4.838709677419355,
+  "rating_count": 31,
+  "difficulty_average": 4.096774193548387,
+  "favorites_count": 2015,
+  "projects_count": 117,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/3683/1048108",
+  "notes": "i have recreated winter games hats in the past and was asked if i planned on doing this year's version.  i decided to accept the challenge!  the hat itself was pretty straight forward, but the earflaps and tassels are a bit fussy.  however, they make the hat.  i think it turned out pretty close to the original. \r\n\r\n**hat construction**\r\nthe hat is started by making two earflaps which begin with i-cord (see photo).  the earflaps are joined by casting on additional sts between the earflaps.  the hat continues with ribbing and then stranded knitting.  the earflap ribbing should flow right into the hat ribbing.  see earflap photo.\r\n\r\nthere are two separate charts for the two primary sizes (m-xl).  in-between sizes (s-l) can also be made using smaller needles.  the colorwork is charted only, including modifications to minimize the jog.  two rows include 3-color stranding.\r\n\r\nworsted weight yarn in dark navy, bright red, and winter white.  small amounts of red and white are used so one skein can make ~4 hats.  two skeins of navy will make three hats.\r\n\r\nfor the sample i used cascade 220 (navy 8393 ~60 grams, red 8895 ~20 grams, natural 8010, ~20 grams).  there is some waste with making the tassels, etc.\r\n\r\ni also knit up the 2026 closing ceremonies hat.  the charts and some basic information can be found [here][1].  \r\n\r\n\r\n  [1]: https://www.ravelry.com/projects/lv2knit/2026-closing-ceremony-hat#",
   "pdf": {
     "filename": "7492042.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7492042.pdf",
-    "url": "https://pdf.ravelrycache.com/lv2knit/2117458/2026_Winter_Games_Hat.v2b.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478539&Signature=uYvHTddzp%2BTipHhC%2B6sRkYthUi0%3D&key_expires=1768478539&key=w9b854DWAUGZwNf5UWNgjg",
+    "url": "https://pdf.ravelrycache.com/lv2knit/2117458/2026_Winter_Games_Hat.v2b.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770415990&Signature=LXHWiA4bKCdVoPhbzFfRbqNd6Sw%3D&key_expires=1770415990&key=lwxL3Ai_da0t-hv-oy6l7A",
     "size_bytes": 1161162
   }
 }

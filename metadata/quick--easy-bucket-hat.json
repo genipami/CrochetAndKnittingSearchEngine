@@ -1,38 +1,39 @@
 {
   "id": 7306855,
-  "name": "Quick & Easy Bucket Hat",
+  "name": "quick & easy bucket hat",
   "permalink": "quick--easy-bucket-hat",
   "url": "https://www.ravelry.com/patterns/library/quick--easy-bucket-hat",
   "external_url": "https://vivcrochets.com/bucket-hat",
-  "designer_name": "Viv Crochets",
-  "project_type": "Hat",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "viv crochets",
+  "project_type": "hat",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Super Saver (solids)",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)"
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "In the round",
-    "Top-down",
-    "Written"
+    "in the round",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [
     5.0
   ],
   "needle_sizes_mm": [],
   "published": "2021/06/01",
-  "sizes_available": "S, M, L",
-  "rating_average": 4.523809523809524,
-  "rating_count": 21,
-  "difficulty_average": 1.8,
-  "favorites_count": 833,
-  "projects_count": 62,
+  "sizes_available": "s, m, l",
+  "rating_average": 4.545454545454546,
+  "rating_count": 22,
+  "difficulty_average": 1.7619047619047619,
+  "favorites_count": 859,
+  "projects_count": 64,
   "free_ravelry_download": false,
-  "download_url": "https://vivcrochets.com/bucket-hat"
+  "download_url": "https://vivcrochets.com/bucket-hat",
+  "notes": "this bucket hat is quick to work up and perfect for beginners!\r\n\r\nthe sizing is very adjustable. by doing less rounds on top, you get a smaller size. doing more rounds will result in a larger size.\r\n\r\nyou’ll need 1 skein of your preferred yarn, a crochet hook, some scissors, and a yarn needle."
 }

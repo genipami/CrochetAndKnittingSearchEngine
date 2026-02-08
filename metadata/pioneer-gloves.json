@@ -1,37 +1,33 @@
 {
   "id": 672877,
-  "name": "Pioneer Gloves",
+  "name": "pioneer gloves",
   "permalink": "pioneer-gloves",
   "url": "https://www.ravelry.com/patterns/library/pioneer-gloves",
   "external_url": "",
-  "designer_name": "Kelly McClure",
-  "project_type": "Mittens/Gloves",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "kelly mcclure",
+  "project_type": "mittens/gloves",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Ramble",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 91.7
     },
     {
-      "fiber": "Sock",
-      "pct": null
-    },
-    {
-      "fiber": "Tosh Sock",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 8.3
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Charted",
-    "In the round",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "charted",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -39,17 +35,18 @@
   ],
   "published": "2016/06/01",
   "sizes_available": "adult small, medium, large  two lengths: short, long; shown in small ",
-  "rating_average": 4.7859712230215825,
-  "rating_count": 1112,
-  "difficulty_average": 2.5184484389782402,
-  "favorites_count": 37085,
-  "projects_count": 5152,
+  "rating_average": 4.785777777777778,
+  "rating_count": 1125,
+  "difficulty_average": 2.5186915887850465,
+  "favorites_count": 37585,
+  "projects_count": 5210,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/5595/340713",
+  "notes": "gather some berries, shuck some corn and churn some butter - pioneers need to protect their hands! get back to basics with these simple fingerless gloves.  \r\n\r\nthe ribbed stitch makes these gloves comfortable and stretchy. they look fantastic with any kind of sock yarn - solid, striped or speckled. \r\n\r\nsweet details like the delicate rolled cuff and the graceful lines made with the thumb increases are elegant and easy (even for beginners).\r\n\r\nthese gloves are knit from the bottom to the top with a fingering weight yarn. this pattern has three sizes, two lengths and no visible seam. \r\n\r\nthese gloves make a perfect companion project to the [sockhead hat!][1]\r\n\r\n**skill level:** \r\nrookie-**apprentice**-virtuoso-genius\r\n\r\n**skills:** knit, purl, increases\r\n\r\n**finished measurements:** \r\nshort is approx 5 cm wide and 15 cm long lying flat unblocked; long is approx 28 cm long\r\n\r\n**yarn requirements**\r\n\r\n**sea witch gloves (green)**\r\nsize small, short\r\nused approx 23 g/0.8 oz, 95 m/105 yds.\r\n\r\n**big plastic scissors gloves (blue)**\r\nsize small, long\r\nused approx 35 g/1.2 oz, 147 m/161 yds.\r\n\r\n\r\n  [1]: http://www.ravelry.com/patterns/library/sockhead-slouch-hat",
   "pdf": {
     "filename": "672877.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\672877.pdf",
-    "url": "https://pdf.ravelrycache.com/bohoknits/688564/Pioneer_Gloves.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482424&Signature=Hb41OaEzH5q3Ezycy5EUQowIPPY%3D&key_expires=1768482424&key=L9ZZh4KI38uTIogOMedC1Q",
+    "url": "https://pdf.ravelrycache.com/bohoknits/688564/Pioneer_Gloves.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770437194&Signature=GhlTmpxRhswtKee1LJ0yRLpgQmE%3D&key_expires=1770437194&key=ooxf9RkriQ-oB_JtMvkeVQ",
     "size_bytes": 5194634
   }
 }

@@ -1,22 +1,26 @@
 {
   "id": 1323731,
-  "name": "Applecross Bay Socks",
+  "name": "applecross bay socks",
   "permalink": "applecross-bay-socks",
   "url": "https://www.ravelry.com/patterns/library/applecross-bay-socks",
   "external_url": "",
-  "designer_name": "Knit and C",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "knit and c",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Softy Socks",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 89.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 11.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [],
@@ -24,18 +28,19 @@
     2.5
   ],
   "published": "2023/04/01",
-  "sizes_available": "64 Maschen; 72 Maschen",
-  "rating_average": 4.9,
-  "rating_count": 20,
-  "difficulty_average": 2.1578947368421053,
-  "favorites_count": 645,
-  "projects_count": 184,
+  "sizes_available": "64 maschen; 72 maschen",
+  "rating_average": 4.909090909090909,
+  "rating_count": 22,
+  "difficulty_average": 2.142857142857143,
+  "favorites_count": 649,
+  "projects_count": 189,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/99584/847307",
+  "notes": "\r\ninspiriert von der malerischen bucht applecross bay an der westküste schottlands bilden die applecross bay socks mit einem einfachen muster aus rechten und linken maschen die wunderschöne landschaft der küstenregion der highlands ab.\r\n\r\n\r\ndie applecross bay socks sind die perfekten „stinos“(stinknormale socken). das muster ist nicht schwierig und maschenmarkierer oder lästiges reihen zählen fallen weg. sie funktionieren mit jeder wolle – handgefärbt und super bunt, uni oder streifen – das muster passt zu allem und wird auch von sehr buntem garn nicht „gefressen“, aber langweilig sehen die applecross bay socks dabei nie aus.\r\n\r\n\r\n\r\ngeschrieben ist die anleitung für 64 & 72 maschen und die verwendung eines nadelspiels, sie ist aber super einfach auf jede beliebige maschenanzahl (>40) und art zu stricken anpassbar. \r\n\r\ndie angegebene maschenprobe ist ein richtwert, den ich mit 2,5 nadeln erreicht habe, aber du kannst die socken so stricken, dass sie zu deinen nadeln, wolle und füßen passen. \r\n\r\n\r\n\r\nmaterial:\r\n\r\n- nadelspiel 2,5 (oder deine bevorzugte nadelstärke)\r\n- 100g sockenwolle (ca. 400m/ 100g)\r\n- vernähnadel zum vernähen der fäden\r\n\r\n\r\n",
   "pdf": {
     "filename": "1323731.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1323731.pdf",
-    "url": "https://pdf.ravelrycache.com/Pulveraeffchen308/1645713/Applecross_Bay_Socks.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478789&Signature=VbOUe7%2B5PWB6lXsFo14w4Q7rEyI%3D&key_expires=1768478789&key=5tIG3WInwp84Kvrb5AlUsg",
+    "url": "https://pdf.ravelrycache.com/Pulveraeffchen308/1645713/Applecross_Bay_Socks.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770417316&Signature=OakT3XzQwY5B2ceyXl7H1oWR%2B%2BM%3D&key_expires=1770417316&key=9MHE-dZhmXuNxunO0nGPaA",
     "size_bytes": 3874089
   }
 }

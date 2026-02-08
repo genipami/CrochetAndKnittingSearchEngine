@@ -1,29 +1,29 @@
 {
   "id": 7328882,
-  "name": "Heidi Leg Warmers",
+  "name": "heidi leg warmers",
   "permalink": "heidi-leg-warmers",
   "url": "https://www.ravelry.com/patterns/library/heidi-leg-warmers",
   "external_url": "",
-  "designer_name": "Irene Lin",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "irene lin",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Woolia",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Cables",
-    "In the round",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "cables",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -33,10 +33,11 @@
   "published": "2024/03/01",
   "sizes_available": "one size",
   "rating_average": 5.0,
-  "rating_count": 17,
-  "difficulty_average": 2.4375,
-  "favorites_count": 2572,
-  "projects_count": 74,
+  "rating_count": 18,
+  "difficulty_average": 2.5294117647058822,
+  "favorites_count": 2712,
+  "projects_count": 83,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/59795/920300"
+  "download_url": "http://www.ravelry.com/dls/59795/920300",
+  "notes": "i've created a video demonstrating in detail how to knit the heidi leg warmers. \r\n\r\nyou can find the link [here][1].\r\n\r\n\r\n  [1]: https://youtu.be/ykssy_pjpm0?si=zn2hob-vocykaug0"
 }

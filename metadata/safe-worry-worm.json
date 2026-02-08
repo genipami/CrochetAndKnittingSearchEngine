@@ -1,28 +1,24 @@
 {
   "id": 1172867,
-  "name": "Safe Worry Worm",
+  "name": "safe worry worm",
   "permalink": "safe-worry-worm",
   "url": "https://www.ravelry.com/patterns/library/safe-worry-worm",
   "external_url": "https://youtu.be/rtJqUtSSCOE",
-  "designer_name": "Kat Witherall",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Bulky",
+  "designer_name": "kat witherall",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Simply Aran",
-      "pct": null
-    },
-    {
-      "fiber": "Special Chunky",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     4.0,
@@ -30,18 +26,19 @@
   ],
   "needle_sizes_mm": [],
   "published": "2021/09/01",
-  "sizes_available": "ONE SIZE",
+  "sizes_available": "one size",
   "rating_average": 4.75,
   "rating_count": 4,
   "difficulty_average": 1.5,
-  "favorites_count": 152,
-  "projects_count": 28,
+  "favorites_count": 156,
+  "projects_count": 29,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/86395/722897",
+  "notes": "worry worms are super cute, aren't they? well i think so! they are small enough to fit in your pocket and they are squishy and soft and just nice to have around!\r\n\r\ni always had an issue with the googly stick-on eyes most worry worms are given. i always worried (he he) that they would fall off and i don't like embroidering eyes either.\r\n\r\nso after a bit of trial and error, i designed this pattern for safety eyed worry worms and i would like to share it with you all! happy crocheting without the worry! \r\n\r\nus crochet terms, 4 mm/4.5 mm hook aran/worsted or chunky/bulky yarn both work.",
   "pdf": {
     "filename": "1172867.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1172867.pdf",
-    "url": "https://pdf.ravelrycache.com/Lunatheladybird/1374148/Crochet_pattern_-_safe_worry_worm_-_Luna_the_Ladybird_-_US.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482830&Signature=V4yBwRihhlSWcC8wUfzqOi2b1%2FU%3D&key_expires=1768482830&key=Ytkd2dCwDvkn95a2W9k13Q",
+    "url": "https://pdf.ravelrycache.com/Lunatheladybird/1374148/Crochet_pattern_-_safe_worry_worm_-_Luna_the_Ladybird_-_US.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770439349&Signature=0nS8BdbgI2CgiO9ytr0roP5PqkY%3D&key_expires=1770439349&key=0RIJ3RObe_kC9GZ1qz9b_A",
     "size_bytes": 300680
   }
 }

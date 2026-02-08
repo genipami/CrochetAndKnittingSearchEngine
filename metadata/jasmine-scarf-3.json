@@ -1,27 +1,35 @@
 {
   "id": 568452,
-  "name": "Jasmine Scarf",
+  "name": "jasmine scarf",
   "permalink": "jasmine-scarf-3",
   "url": "https://www.ravelry.com/patterns/library/jasmine-scarf-3",
   "external_url": "https://www.purlsoho.com/create/2015/03/25/jasmine-scarf/",
-  "designer_name": "Purl Soho",
-  "project_type": "Scarf",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "purl soho",
+  "project_type": "scarf",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Flax Down",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 43.0
+    },
+    {
+      "fiber": "Merino (Merino)",
+      "pct": 42.0
+    },
+    {
+      "fiber": "Flax (Linen)",
+      "pct": 15.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Cables",
-    "Written"
+    "cables",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -29,17 +37,18 @@
   ],
   "published": "2015/03/01",
   "sizes_available": "9½ x 60 (80) inches",
-  "rating_average": 4.615984405458089,
-  "rating_count": 513,
-  "difficulty_average": 2.810246679316888,
-  "favorites_count": 45638,
-  "projects_count": 1983,
+  "rating_average": 4.61747572815534,
+  "rating_count": 515,
+  "difficulty_average": 2.8068181818181817,
+  "favorites_count": 45923,
+  "projects_count": 1996,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/39500/268117",
+  "notes": "for the full pattern in english: https://www.purlsoho.com/create/2015/03/25/jasmine-scarf/\r\n\r\nfor the full pattern, kindly translated into french by a friend of the purl bee, click the ravelry download link above.\r\n\r\nmaterials\r\n\r\n- 3 (4) skeins of purl soho’s [flax down][1], 43% baby alpaca, 42% extra fine merino, 15% linen. each skein is 219 yards/ 100 grams; approximately 657 (876) yards required. we used the color heirloom white and rose granite\r\n- us 6 (4 mm) straight or circular [needles][2]\r\n\r\ngauge\r\n24 stitches = 4 inches in stockinette stitch\r\n\r\nsizes\r\n\r\n- finished width: 9½ inches\r\n- finished length: 60 (80) inches\r\n\r\nnote\r\nthis pattern is worked over a multiple of 13 + 9 stitches, for example 13 x 5 = 65. 65 + 9 = 74.\r\n\r\n\r\n  [1]: https://www.purlsoho.com/flax-down/\r\n  [2]: https://www.purlsoho.com/tools/knitting-needles.html",
   "pdf": {
     "filename": "568452.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\568452.pdf",
-    "url": "https://pdf.ravelrycache.com/purlsoho/461349/Purl_Soho_Purl_Bee-Jasmine_Scarf-French.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481064&Signature=mar4CiSV1yNqQ3CwGd468q4XYqg%3D&key_expires=1768481064&key=olN_FRfo0tuAahYdTuc6bg",
+    "url": "https://pdf.ravelrycache.com/purlsoho/461349/Purl_Soho_Purl_Bee-Jasmine_Scarf-French.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770430176&Signature=l4RoL1iScGqCPGzp3q26TCmTI9s%3D&key_expires=1770430176&key=vVr9DRSVFzWvMFFO4zIRLA",
     "size_bytes": 312936
   }
 }

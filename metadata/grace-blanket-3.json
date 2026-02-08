@@ -1,24 +1,28 @@
 {
   "id": 1063025,
-  "name": "Grace blanket",
+  "name": "grace blanket",
   "permalink": "grace-blanket-3",
   "url": "https://www.ravelry.com/patterns/library/grace-blanket-3",
   "external_url": "",
-  "designer_name": "Lucia Stepankova",
-  "project_type": "Blanket",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Fingering",
+  "designer_name": "lucia stepankova",
+  "project_type": "blanket",
+  "fiber_art": "crochet",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Magic Ball",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 50.0
+    },
+    {
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 50.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Written"
+    "charted",
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     3.0
@@ -29,8 +33,9 @@
   "rating_average": 4.804597701149425,
   "rating_count": 87,
   "difficulty_average": 2.9125,
-  "favorites_count": 8950,
-  "projects_count": 351,
+  "favorites_count": 9039,
+  "projects_count": 357,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/79471/635007"
+  "download_url": "http://www.ravelry.com/dls/79471/635007",
+  "notes": "hello :) \r\n\r\nthis is the pattern for blanket called grace.\r\nit was made originally from grace shawl - this pattern you can also find in my ravelry store :) \r\nhttps://www.ravelry.com/patterns/library/cal-grace--giulietta\r\n\r\nits very easy pattern and you can make it as big as you need :). \r\nif you have any question, dont hesitate to contact me :) \r\n\r\n"
 }

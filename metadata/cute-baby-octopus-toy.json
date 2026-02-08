@@ -1,44 +1,40 @@
 {
   "id": 7413110,
-  "name": "Cute Baby Octopus Toy",
+  "name": "cute baby octopus toy",
   "permalink": "cute-baby-octopus-toy",
   "url": "https://www.ravelry.com/patterns/library/cute-baby-octopus-toy",
   "external_url": "",
-  "designer_name": "Laura MICHAUD",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "laura michaud",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Mini Sport",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 69.0
     },
     {
-      "fiber": "Phil Rio",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 20.0
     },
     {
-      "fiber": "Pingo First",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 10.6
     },
     {
-      "fiber": "Pingo First 6",
-      "pct": null
-    },
-    {
-      "fiber": "Pingo Pépite",
-      "pct": null
+      "fiber": "Polyester (Polyester)",
+      "pct": 0.4
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Half double crochet (hdc)",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "half double crochet (hdc)",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Top-down",
-    "Written"
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [
     3.0,
@@ -53,12 +49,13 @@
   ],
   "needle_sizes_mm": [],
   "published": "2025/02/01",
-  "sizes_available": "One size",
+  "sizes_available": "one size",
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 174,
-  "projects_count": 17,
+  "favorites_count": 185,
+  "projects_count": 19,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/110290/989080"
+  "download_url": "http://www.ravelry.com/dls/110290/989080",
+  "notes": "this cute baby octopus is made with a round body and eight tentacles.\r\nit is destined to a child but it is so cute your may want to keep it on your shelve !\r\n\r\n\r\nthe pattern is very easy to follow with step-by-step pictures. you can try it as your first crochet work.\r\nif you are used to crochet amigurumis you can download the shorter pattern without pictures.\r\n\r\n\r\n**hook** \r\nthis pattern can be worked with any hook you want. refer to your yarn’s hook size recommendations and go one size smaller : it will give structure to your octopus.\r\n\r\n\r\n**yarn** \r\nthis pattern has been tested with worsted, bulky and aran yarn (10-12 ply). keep in mind the yarn you choose should be slightly bigger than your crochet size.\r\nyou will need 2 yarn colors :\r\n-\tmain color : about 120-150m / 131-164 yards of yarn\r\n-\tsecondary color : about 80-120m / 87-131 yards of yarn. you can use more than one secondary color to have multicolor tentacles.\r\n\r\nin addition, you will need a bit of black and withe yarn for the eyes.\r\n\r\n\r\n**other material**\r\nfiberfill stuffing, 1 or 2 rattles (optional).\r\n\r\n\r\n**techniques and stitches**\r\neverything is explain in the pattern preambule : ch, mr, sl, sc, dc, hdc, tr, inc, inv dec"
 }

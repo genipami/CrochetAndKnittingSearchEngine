@@ -1,35 +1,31 @@
 {
   "id": 1350397,
-  "name": "Bustleton Tee",
+  "name": "bustleton tee",
   "permalink": "bustleton-tee",
   "url": "https://www.ravelry.com/patterns/library/bustleton-tee",
   "external_url": "",
-  "designer_name": "Erika Flory",
-  "project_type": "Pullover",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "erika flory",
+  "project_type": "pullover",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "FAVE sock",
-      "pct": null
-    },
-    {
-      "fiber": "Tender Prey Sock",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Ribbing",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "ribbing",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "In the round",
-    "Seamless",
-    "Short rows",
-    "Top-down",
-    "Written"
+    "blocking",
+    "in the round",
+    "seamless",
+    "short rows",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -37,18 +33,19 @@
     3.75
   ],
   "published": "2023/07/01",
-  "sizes_available": "A-H (see notes for full size information)",
+  "sizes_available": "a-h (see notes for full size information)",
   "rating_average": 4.545454545454546,
   "rating_count": 11,
   "difficulty_average": 3.4166666666666665,
-  "favorites_count": 1684,
-  "projects_count": 72,
+  "favorites_count": 1703,
+  "projects_count": 73,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/1721/867655",
+  "notes": "bustleton is a template for making your own, unique, fingering weight top. think of it as a blank slate, waiting for you to apply the color and/or texture.\r\na simple tee with a circular yoke, this is the perfect little summer sweater to throw on with jeans or a skirt. \r\nshown here with wide stripes, you can choose the width of stripes and the colors that make you happy. or you can knit it up in one color. or add a stitch pattern to the yoke and/or the body. the easy, top-down construction allows for customizing the fit in both body length and sleeve length.\r\n\r\n**finished measurements**\r\nthe tee is designed to fit with 1-4” of ease. choose a size closest to your bust size plus the amount of ease you like. the sample shown is in the first size with about 1” of ease.\r\n**chest:** 32 (36, 39.25, 43.25) (47.25, 50.75, 54, 57.25)”\r\n**yoke depth:** 7.5 (8, 8.25, 9) (9.25, 10, 10.25, 10.5)”\r\n**body from underarm to bottom of ribbing:** 12.5”\r\n**sleeve from underarm to bottom of ribbing:** 3.5 (3.5, 3.5, 4) (4, 4.25, 4.25, 4.5)”\r\n**sleeve circumference:** 10.75 (11.75, 12.75, 13.75) (14.25, 15.75, 17.75, 18)”\r\n\r\n**yarn**\r\nfingering weight yarn: 704 (780, 860, 950) (1045, 1150, 1265, 1390) yds.\r\nsample shown is worked in fave sock by fiberstory, 100% superwash merino wool, approx. 400 yds (365 m)/100 g (3.5 oz), gilded (dark); and tender prey sock by bloodstone yarns, 100% superwash merino wool, 400 yds (365 m)/100 g (3.5 oz), end of a century (light).\r\n*be aware that adding to the length of the sweater body and/or sleeves will require additional yarn.*\r\n\r\n**needles**\r\n**for neck edging**\r\nus size 3 (3.25 mm) 16” circular needle, or two sizes smaller than gauge needle.\r\n**for body**\r\nus size 5 (3.75 mm) 16” and 32-40” circular needle, or size needed to obtain gauge.\r\n**for bottom body ribbing**\r\nus size 3 (3.25 mm) 32-40” circular needle, or two sizes smaller than gauge needle.\r\n**for sleeves**\r\nus size 5 (3.75 mm) in your preferred type of needle for working small circumferences, or size needed to obtain gauge.\r\n**for bottom sleeve ribbing**\r\nus size 3 (3.25) mm in your preferred type of needle for working small circumferences, or size needed to obtain gauge.\r\n*for all sizes for the body: choose a cord length that is slightly shorter than the finished chest measurement for your size.*\r\n\r\n**notions**\r\nremovable stitch markers\r\nwaste yarn\r\nyarn needle\r\n\r\n\r\n\r\n\r\n",
   "pdf": {
     "filename": "1350397.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1350397.pdf",
-    "url": "https://pdf.ravelrycache.com/erikaflory/1693105/Bustelton_Tee.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479276&Signature=u1olUgjzvYAsn4CJGTQSosfDjCw%3D&key_expires=1768479276&key=FbCrCFxxngUrvKt-zEX7yw",
+    "url": "https://pdf.ravelrycache.com/erikaflory/1693105/Bustelton_Tee.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770420030&Signature=PiHQPQgirUQl4MfgJES2E6YpgAM%3D&key_expires=1770420030&key=V56hJFOp9a-5FaxfUjYwYg",
     "size_bytes": 1456137
   }
 }

@@ -1,31 +1,39 @@
 {
   "id": 1134509,
-  "name": "222-32 Swing by Spring Top",
+  "name": "222-32 swing by spring top",
   "permalink": "222-32-swing-by-spring-top",
   "url": "https://www.ravelry.com/patterns/library/222-32-swing-by-spring-top",
   "external_url": "https://www.garnstudio.com/pattern.php?id=10234&cid=19",
-  "designer_name": "DROPS design",
-  "project_type": "Pullover",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "drops design",
+  "project_type": "pullover",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "DROPS Belle",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 53.0
+    },
+    {
+      "fiber": "Rayon / Viscose (Rayon)",
+      "pct": 33.0
+    },
+    {
+      "fiber": "Flax (Linen)",
+      "pct": 14.0
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "lace",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Lace",
-    "Seamless",
-    "Top-down",
-    "Written"
+    "charted",
+    "in the round",
+    "lace",
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -33,12 +41,13 @@
     4.0
   ],
   "published": "2021/04/01",
-  "sizes_available": "S – M – L – XL – XXL – XXXL",
-  "rating_average": 4.701298701298701,
-  "rating_count": 77,
-  "difficulty_average": 3.5277777777777777,
-  "favorites_count": 5119,
-  "projects_count": 313,
+  "sizes_available": "s – m – l – xl – xxl – xxxl",
+  "rating_average": 4.708860759493671,
+  "rating_count": 79,
+  "difficulty_average": 3.493150684931507,
+  "favorites_count": 5189,
+  "projects_count": 317,
   "free_ravelry_download": false,
-  "download_url": "https://www.garnstudio.com/pattern.php?id=10234&cid=19"
+  "download_url": "https://www.garnstudio.com/pattern.php?id=10234&cid=19",
+  "notes": "knitted jumper in drops belle. piece is knitted top down with round yoke, lace pattern, leaf pattern and short balloon sleeves. pattern vs-078; yarn group b\r\n\r\n**size**: s - m - l - xl - xxl - xxxl\r\n\r\n**materials**:\r\ndrops belle from garnstudio\r\n250-300-300-350-350-400 g colour 02, off white\r\n\r\n**knitting tension**:\r\n21 stitches in width and 28 rows vertically in stocking stitch = 10 x 10 cm.\r\n\r\n**needles**:\r\ndrops double pointed needles size 4 mm\r\ndrops circular needle size 4 mm, length 40 and 60 or 80 cm for stocking stitch.\r\ndrops double pointed needles size 3 mm\r\ndrops circular needle size 3 mm, length 40 cm and 80 cm for edges."
 }

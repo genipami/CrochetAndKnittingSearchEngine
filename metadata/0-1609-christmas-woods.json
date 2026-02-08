@@ -1,30 +1,34 @@
 {
   "id": 7299869,
-  "name": "0-1609 Christmas Woods",
+  "name": "0-1609 christmas woods",
   "permalink": "0-1609-christmas-woods",
   "url": "https://www.ravelry.com/patterns/library/0-1609-christmas-woods",
   "external_url": "https://www.garnstudio.com/pattern.php?id=11648&cid=19",
-  "designer_name": "DROPS design",
-  "project_type": "Home",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "drops design",
+  "project_type": "home",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "DROPS Lima",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 65.0
+    },
+    {
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 35.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Charted",
-    "In the round",
-    "Seamed",
-    "Stranded colorwork",
-    "Written"
+    "bottom-up",
+    "charted",
+    "in the round",
+    "seamed",
+    "stranded colorwork",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -35,8 +39,9 @@
   "rating_average": 4.833333333333333,
   "rating_count": 6,
   "difficulty_average": 2.8,
-  "favorites_count": 3690,
+  "favorites_count": 3746,
   "projects_count": 96,
   "free_ravelry_download": false,
-  "download_url": "https://www.garnstudio.com/pattern.php?id=11648&cid=19"
+  "download_url": "https://www.garnstudio.com/pattern.php?id=11648&cid=19",
+  "notes": "**knitted christmas trees in drops lima. the piece is worked bottom up. theme: christmas.**\r\n~~~~~~~~~~~~~~~~\r\n\r\ndrops design: pattern li-174\r\nyarn group b\r\n\r\n-------------------------------------------------------\r\n\r\n\r\n**size**:\r\nwidth at bottom = 9 cm. height = 12 cm, without trunk.\r\n\r\n**yarn**:\r\ndrops lima from garnstudio (belongs to yarn group b)\r\n100 g colour 0705, olive\r\n50 g colour 0100, off white\r\n50 g colour 9024, almond\r\n+ a left-over colour 2923, goldenrod, for candle flames\r\n\r\n**accessories**:\r\nwadding.\r\n\r\n1 tree weighs approx. 8 g, without wadding.\r\n\r\n**needles**:\r\ndrops double pointed needles size 3 mm.\r\n\r\n**knitting tension**:\r\n23 stitches in width and 32 rows in height with stocking stitch = 10 x 10 cm.\r\nnote: needle size is only a guide. if you get too many stitches on 10 cm, change to a larger needle size. if you get too few stitches on 10 cm, change to a smaller needle size."
 }

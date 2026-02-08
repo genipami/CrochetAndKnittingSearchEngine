@@ -4,29 +4,25 @@
   "permalink": "brat-hat",
   "url": "https://www.ravelry.com/patterns/library/brat-hat",
   "external_url": "",
-  "designer_name": "Stranded by the Sea",
-  "project_type": "Child",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "stranded by the sea",
+  "project_type": "child",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Mysticeti",
-      "pct": null
-    },
-    {
-      "fiber": "Narwhal",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Kitchener stitch",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "kitchener stitch",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -36,18 +32,19 @@
     6.0
   ],
   "published": "2024/08/01",
-  "sizes_available": "XS (S, M, L, XL, XXL)",
+  "sizes_available": "xs (s, m, l, xl, xxl)",
   "rating_average": 4.857142857142857,
   "rating_count": 14,
   "difficulty_average": 1.6666666666666667,
-  "favorites_count": 932,
-  "projects_count": 60,
+  "favorites_count": 970,
+  "projects_count": 64,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/78296/945494",
+  "notes": "brat hat by tara roberts\r\n\r\nwhy  brat  green?\r\nin the summer of 2024, charli xcx’s new album “brat” was released and featured a garish green cover.  the color is electric, alive, and irreverent - perfect for the self-deprecating *it-girl* that embraces cringe as chic.  when kamala harris announced her run for president, charli posted that “kamala is brat” and brat green was launched into 2024 politics.\r\n\r\ngreen also represents hope, health, and life, and is a symbol supporting women’s reproductive health around the world from argentina to ireland.  it is a fitting color to revive a show of support for the idea that women’s rights are human rights.\r\n\r\nthe right of a woman to make her own decisions about her reproductive health and about her body should be hers alone.  women should have the freedom to make their own choices for themselves and be trusted to make the decision that is best.\r\n\r\nthis pattern is based on the [pussyhat project by kat coyle][1]. \r\nknit in the round with choices for yarn weight, type of brim, and methods of finishing, you are *free to choose* the hat style right for you!  get your “crazy cat lady” hat on, whether you are childless or not, and be seen.\r\n\r\nsizes:\txs (s, m, l, xl, xxl)\r\napprox finished circumference:  14” (16”, 18”, 20”, 22”, 24”)\r\nrecommended to be worn with 0-2” of negative ease.\r\n\r\nmaterials and equipment: \r\n\r\nworsted weight version:\r\nworsted weight yarn, 100g\r\nus 6 & 8 (4.0 & 5.0mm) 16” circular or dpns\r\ngauge:   18 sts = 4\" in stockinette.\r\n\r\nbulky weight version:\r\nbulky weight yarn, 100g\r\nus 9 & 10 (5.5 & 6.0 mm) 16” circular or dpns\r\ngauge:  14 sts  = 4\" in stockinette.\r\n\r\nother tools (both versions):\r\nstitch markers\r\ntapestry needle\r\n\r\n\r\n  [1]: https://www.ravelry.com/patterns/library/pussyhat-project",
   "pdf": {
     "filename": "7361345.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7361345.pdf",
-    "url": "https://pdf.ravelrycache.com/StrandedbytheSea/1873105/brat_hat_letter_v_20240801.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479213&Signature=wo4gHlmCyWCg8w1H4y6kcQ%2FbVRQ%3D&key_expires=1768479213&key=p7F2N1UI6R9x_3TuncQZ7A",
+    "url": "https://pdf.ravelrycache.com/StrandedbytheSea/1873105/brat_hat_letter_v_20240801.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770419704&Signature=On%2BKlN9FL2GfpnJmg%2BPEdyLHsXE%3D&key_expires=1770419704&key=2qQx-hXEV_A7qwkAfBD7QA",
     "size_bytes": 263430
   }
 }

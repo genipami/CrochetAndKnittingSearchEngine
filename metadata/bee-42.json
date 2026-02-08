@@ -1,26 +1,30 @@
 {
   "id": 1247523,
-  "name": "Bee",
+  "name": "bee",
   "permalink": "bee-42",
   "url": "https://www.ravelry.com/patterns/library/bee-42",
   "external_url": "",
-  "designer_name": "Militsa Miteva",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Bulky",
+  "designer_name": "militsa miteva",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Fancy Softy",
-      "pct": null
+      "fiber": "Polyester (Polyester)",
+      "pct": 50.0
     },
     {
-      "fiber": "Velluto Wool",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 36.0
+    },
+    {
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 14.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     6.0
@@ -31,14 +35,15 @@
   "rating_average": 4.875,
   "rating_count": 8,
   "difficulty_average": 2.0,
-  "favorites_count": 1069,
+  "favorites_count": 1076,
   "projects_count": 46,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/95143/784181",
+  "notes": "easy bee pattern\r\nwith different yarns you can get different amigurumi sizes\r\nalize velluto in black and pastel yellow and white\r\nalize softy in pink color\r\none skein of each is enough",
   "pdf": {
     "filename": "1247523.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1247523.pdf",
-    "url": "https://pdf.ravelrycache.com/SimplyPDFs/1506175/Pattern_Bee.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479052&Signature=21ir6UAeoIHHJRrvi1Yjv2RZU9c%3D&key_expires=1768479052&key=ewt-QIAFs4hK9J1w_sCYOw",
+    "url": "https://pdf.ravelrycache.com/SimplyPDFs/1506175/Pattern_Bee.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770418665&Signature=feWguzuO2lkECP56GFCC9Ftg2qs%3D&key_expires=1770418665&key=_AeewClF0uDJoWVf9aCVuQ",
     "size_bytes": 3426689
   }
 }

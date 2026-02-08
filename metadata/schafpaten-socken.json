@@ -1,13 +1,13 @@
 {
   "id": 217754,
-  "name": "Schafpaten-Socken",
+  "name": "schafpaten-socken",
   "permalink": "schafpaten-socken",
   "url": "https://www.ravelry.com/patterns/library/schafpaten-socken",
   "external_url": "",
-  "designer_name": "Antje Krey",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "antje krey",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
       "fiber": "4fach Sockenwolle",
@@ -15,7 +15,7 @@
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)"
+    "single crochet (sc)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [],
@@ -27,14 +27,15 @@
   "rating_average": 4.707142857142857,
   "rating_count": 280,
   "difficulty_average": 1.8962962962962964,
-  "favorites_count": 1580,
-  "projects_count": 1106,
+  "favorites_count": 1589,
+  "projects_count": 1110,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/13552/53145",
+  "notes": "sockenmuster mit halbpatentmaschen. geeigent für alle sockengrößen, garnmusterungen und garnstärken.",
   "pdf": {
     "filename": "217754.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\217754.pdf",
-    "url": "https://pdf.ravelrycache.com/controllingblau/79306/schafpatensocke_anleitung.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482880&Signature=F9OyQy2%2FYA5LSFqxQN7e6HCAbP4%3D&key_expires=1768482880&key=2Mny0XSpAHU9MrzzKJoe7A",
+    "url": "https://pdf.ravelrycache.com/controllingblau/79306/schafpatensocke_anleitung.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770439584&Signature=T8VXUUTdGQY0pYOgJC%2B7b4tyMlY%3D&key_expires=1770439584&key=jq2hOcqdUzA_35j2cIx7lA",
     "size_bytes": 582563
   }
 }

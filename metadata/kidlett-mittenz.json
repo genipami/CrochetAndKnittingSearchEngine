@@ -1,18 +1,18 @@
 {
   "id": 88702,
-  "name": "Kidlett Mittenz",
+  "name": "kidlett mittenz",
   "permalink": "kidlett-mittenz",
   "url": "https://www.ravelry.com/patterns/library/kidlett-mittenz",
   "external_url": "",
-  "designer_name": "Mariella Apodaca",
-  "project_type": "Mittens/Gloves",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "mariella apodaca",
+  "project_type": "mittens/gloves",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [],
   "stitches_used": [],
   "techniques_used": [
-    "Seamed",
-    "Short rows"
+    "seamed",
+    "short rows"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [],
@@ -21,14 +21,15 @@
   "rating_average": 3.9166666666666665,
   "rating_count": 12,
   "difficulty_average": 1.8571428571428572,
-  "favorites_count": 404,
-  "projects_count": 982,
+  "favorites_count": 406,
+  "projects_count": 985,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/790/100944",
+  "notes": "",
   "pdf": {
     "filename": "88702.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\88702.pdf",
-    "url": "https://pdf.ravelrycache.com/KnittingNonni/947849/Kidlett_Mittenz2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481181&Signature=7tyn6mHgAgOBM06aL%2BTWKJaGjm8%3D&key_expires=1768481181&key=eW1X_DYYnpWUv16zzhfXvQ",
+    "url": "https://pdf.ravelrycache.com/KnittingNonni/947849/Kidlett_Mittenz2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770430754&Signature=GP3xHa41xtLCBc6o1CUm4KoG%2F54%3D&key_expires=1770430754&key=X_K1_9SI4C98-98ypmRDcw",
     "size_bytes": 67934
   }
 }

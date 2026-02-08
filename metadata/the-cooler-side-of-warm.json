@@ -1,29 +1,29 @@
 {
   "id": 805522,
-  "name": "The Cooler Side of Warm",
+  "name": "the cooler side of warm",
   "permalink": "the-cooler-side-of-warm",
   "url": "https://www.ravelry.com/patterns/library/the-cooler-side-of-warm",
   "external_url": "",
-  "designer_name": "Espace Tricot",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "espace tricot",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "FAR",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
     "1x1 rib",
-    "Ribbing",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "ribbing",
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round"
+    "bottom-up",
+    "in the round"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -31,18 +31,19 @@
     5.0
   ],
   "published": "2018/01/01",
-  "sizes_available": "One size but easily adjustable",
-  "rating_average": 4.714285714285714,
-  "rating_count": 161,
-  "difficulty_average": 1.955128205128205,
-  "favorites_count": 7163,
-  "projects_count": 649,
+  "sizes_available": "one size but easily adjustable",
+  "rating_average": 4.716049382716049,
+  "rating_count": 162,
+  "difficulty_average": 1.9490445859872612,
+  "favorites_count": 7190,
+  "projects_count": 652,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/25132/440763",
+  "notes": "> espace tricot is a yarn store in\r\n> montreal, canada. discover our yarns\r\n> here!  [www.espacetricot.com][1]\r\n\r\nthe cooler side of warm is a cozy cowl knit from the bottom up. it begins with 1x1 ribbing knit flat and then is joined to be worked in the round. as a result, it has a split-hem on one side that allows it to sit comfortably on the shoulder and lie flat against the back and chest. it is finished with 1x1 rib on a smaller needle to prevent gaping at the neck. \r\n\r\nwoolfolk far makes this functional beauty exquisitely soft and decidedly sophisticated. turn down part of the ribbing and attach a latch leather closure from jul designs to add a little attitude. :-)",
   "pdf": {
     "filename": "805522.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\805522.pdf",
-    "url": "https://pdf.ravelrycache.com/EspaceTricot/790763/The_Cooler_Side_of_Warm_V2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483596&Signature=HbI5NEHCkrZ9t7pfD82sap%2FevLc%3D&key_expires=1768483596&key=uUumSxSQ4oqPmBqoudflTg",
+    "url": "https://pdf.ravelrycache.com/EspaceTricot/790763/The_Cooler_Side_of_Warm_V2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770444001&Signature=67qmsEgAhAIqJUZgZxgRtS%2F4zlo%3D&key_expires=1770444002&key=Y6_vZCokTVMLv5YHY2wPzw",
     "size_bytes": 237468
   }
 }

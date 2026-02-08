@@ -1,28 +1,28 @@
 {
   "id": 1291016,
-  "name": "Time After Time cowl",
+  "name": "time after time cowl",
   "permalink": "time-after-time-cowl",
   "url": "https://www.ravelry.com/patterns/library/time-after-time-cowl",
   "external_url": "",
-  "designer_name": "Elizabeth Smith",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "elizabeth smith",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Super Bulky",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Slip stitch (sl st)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "slip stitch (sl st)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless",
-    "Written"
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -30,17 +30,18 @@
   ],
   "published": "2022/11/01",
   "sizes_available": "short & long",
-  "rating_average": 4.857142857142857,
-  "rating_count": 56,
-  "difficulty_average": 1.7678571428571428,
-  "favorites_count": 2856,
-  "projects_count": 259,
+  "rating_average": 4.859649122807017,
+  "rating_count": 57,
+  "difficulty_average": 1.7543859649122806,
+  "favorites_count": 2889,
+  "projects_count": 265,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/1837/820672",
+  "notes": "time after time cowl is soft & squishy and features a slip stitch rib pattern that looks great on either side. it uses super bulky weight yarn and includes instructions for 2 sizes: a 2-color long, infinity style (although you could use 2 skeins of 1 color if you prefer) and a 1-color short, neck warmer style.\r\n\r\nfast & fun, time after time is an enjoyable, relaxing knit and makes a great gift-making project for all knitting levels. \r\n\r\npattern is available for free as my holiday gift to you! \r\n\r\n> check out my [time after time tips\r\n> page][1] for:\r\n> * info/tips on how to adjust pattern for different gauges\r\n> * tips about working the stitch pattern\r\n> * other technique tutorials\r\n\r\n**pattern details:**\r\n\r\n**finished measurements:**\r\n*long version:* 57”/145 cm circumference x 7”/18 cm height\r\n*short version:* 26.75”/68 cm circumference x 7”/18 cm height\r\n\r\n**yarn:** \r\nsuper bulky weight yarn, shown in [super bulky by hedgehog fibres][2] (100% merino wool; 150g = 89 yds). quantities listed below:\r\n* **long version:** 89 yds each of 2 colors (178 yds total), shown in kelp (color a, 1 skein) and liebling (color b, 1 skein).\r\n* **short version:** 89 yds of 1 color, shown in plume (1 skein).\r\n\r\n**gauge:** 9 sts & 14 rnds = 4”/10 cm in st pattern*\r\n*exact gauge is not critical but it will affect your finished measurement and yarn usage.\r\n\r\n**needles & other supplies:**\r\n* *long version:* us 15/10 mm 32”/80 cm circ, or size needed to obtain gauge. \r\n* *short version:* us 15/10 mm 24”/60 cm circ, or size needed to obtain gauge.\r\n* 1 stitch marker.\r\n* tapestry needle to weave in ends.\r\n\r\n\r\n  [1]: https://elizabethsmithknits.com/timeaftertime-tips/\r\n  [2]: https://www.woolandcompany.com/yarn/super-bulky/hedgehog-fibres-super-bulky/",
   "pdf": {
     "filename": "1291016.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1291016.pdf",
-    "url": "https://pdf.ravelrycache.com/elizknits/1585784/TimeAfterTimeCowl-v1.0.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483745&Signature=VcAJKGc43AzhWroy81SZa%2FgV4Jc%3D&key_expires=1768483745&key=KYzbH6-p_Pxq-3efzSWJTA",
+    "url": "https://pdf.ravelrycache.com/elizknits/1585784/TimeAfterTimeCowl-v1.0.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770444761&Signature=j%2FxzjR9GvU19IyFl%2BxdajDHcuUE%3D&key_expires=1770444761&key=ozYtnSz3PrSYE1HVzvhmOQ",
     "size_bytes": 2744414
   }
 }

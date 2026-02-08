@@ -1,26 +1,34 @@
 {
   "id": 1337254,
-  "name": "Electric Sheep",
+  "name": "electric sheep",
   "permalink": "electric-sheep",
   "url": "https://www.ravelry.com/patterns/library/electric-sheep",
   "external_url": "https://shop.hedgehogfibres.com/collections/patterns/products/electric-sheep",
-  "designer_name": "Beata Jezek",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "beata jezek",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Tweedy",
-      "pct": null
+      "fiber": "Falkland (Wool)",
+      "pct": 50.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 38.0
+    },
+    {
+      "fiber": "Other (Other)",
+      "pct": 12.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamless",
-    "Written"
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -31,8 +39,9 @@
   "rating_average": 4.333333333333333,
   "rating_count": 30,
   "difficulty_average": 2.9583333333333335,
-  "favorites_count": 5379,
-  "projects_count": 156,
+  "favorites_count": 5424,
+  "projects_count": 160,
   "free_ravelry_download": false,
-  "download_url": "https://shop.hedgehogfibres.com/collections/patterns/products/electric-sheep"
+  "download_url": "https://shop.hedgehogfibres.com/collections/patterns/products/electric-sheep",
+  "notes": "striking three colour shawl using tweedy, our environmentally friendly, recycled tweed yarn. this yarn is non-superwash with a woolier feel. it blooms beautifully after washing and only gets better with age for a truly heirloom piece. \r\n\r\n \r\nthe instructions may seem wordy, but the shawl is not too difficult to knit once you get started!\r\n\r\n \r\nyarn: 3 skeins of hedgehog fibres tweedy (230m/100g.) in three colours. pictured in original (a), soot (b) and noir (c).\r\n\r\nyou can see other colour options for tweedy yarn here: [https://shop.hedgehogfibres.com/collections/tweedy][1]\r\n\r\n\r\n  [1]: https://shop.hedgehogfibres.com/collections/tweedy"
 }

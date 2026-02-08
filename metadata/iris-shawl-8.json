@@ -1,48 +1,49 @@
 {
   "id": 1128707,
-  "name": "Iris Shawl",
+  "name": "iris shawl",
   "permalink": "iris-shawl-8",
   "url": "https://www.ravelry.com/patterns/library/iris-shawl-8",
   "external_url": "",
-  "designer_name": "Danielle Comeau",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "danielle comeau",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Cumulus",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 94.0
     },
     {
-      "fiber": "Cumulus Rainbow",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 6.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamless",
-    "Written"
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     6.0
   ],
   "published": "2021/04/01",
-  "sizes_available": "One Size",
-  "rating_average": 4.872727272727273,
-  "rating_count": 55,
-  "difficulty_average": 1.7551020408163265,
-  "favorites_count": 1701,
-  "projects_count": 181,
+  "sizes_available": "one size",
+  "rating_average": 4.875,
+  "rating_count": 56,
+  "difficulty_average": 1.74,
+  "favorites_count": 1714,
+  "projects_count": 183,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/1799/688460",
+  "notes": "iris is the maiden goddess of the rainbow. she also serves nectar to the goddesses and gods to drink (gotta love that nectar of the gods!).  this is the second shawl in my triple goddess collection.  [elli shawl][1] is the crone shawl.  \r\n\r\niris was the messenger of the olympian gods before hermes, and is also known as one of the goddesses of the sea and the sky. iris links the gods to humanity. she travels with the speed of wind from one end of the world to the other and into the depths of the sea and the underworld.\r\n\r\nas a maiden goddess, i think the light and airy feel of cotton yarn works perfectly for iris' rainbow.  so grab your nectar of choice and knit yourself a rainbow fit for a goddess!\r\n\r\niris is worked from one end, expanding in ever widening stripes as it grows.\r\n\r\nyarn:\r\nmc: 1 skein cumulus by juniper moon farm (94% cotton, 6%  nylon) 251 yds / 230 m\r\n\r\ncc: 1 ball cumulus rainbow by juniper moon farm (94% cotton, 6%  nylon) 251 yds / 230 m\r\n\r\nalmost all the yarn is used, so i recommend checking your gauge before you start.\r\n\r\nneedle: 6mm, 32\" circular needle\r\n\r\ngauge: 16 st = 4\" in garter stitch\r\n\r\n\r\n  [1]: https://www.ravelry.com/patterns/library/elli-shawl",
   "pdf": {
     "filename": "1128707.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1128707.pdf",
-    "url": "https://pdf.ravelrycache.com/spun/1299572/Iris-Final.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481021&Signature=VyVC%2B9Dcaw1VgFYsumiK3kgGRno%3D&key_expires=1768481021&key=tkJXGT5vPCuMsGkI31uNcg",
+    "url": "https://pdf.ravelrycache.com/spun/1299572/Iris-Final.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770429949&Signature=SwNxEmetmhdOyQ2o0exdZnPRamI%3D&key_expires=1770429949&key=lxQMsctYxA3m2n1kQs2hBw",
     "size_bytes": 2389726
   }
 }

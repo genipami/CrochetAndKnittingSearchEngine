@@ -1,28 +1,32 @@
 {
   "id": 155646,
-  "name": "South Bay Shawlette",
+  "name": "south bay shawlette",
   "permalink": "south-bay-shawlette",
   "url": "https://www.ravelry.com/patterns/library/south-bay-shawlette",
   "external_url": "https://www.lionbrand.com/products/crochet-pattern-south-bay-shawlette-1?_pos=1&_sid=d40b3c491&_ss=r",
-  "designer_name": "Lion Brand Yarn",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Lace",
+  "designer_name": "lion brand yarn",
+  "project_type": "shawl/wrap",
+  "fiber_art": "crochet",
+  "yarn_weight": "lace",
   "materials": [
     {
-      "fiber": "LB Collection Silk Mohair",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 70.0
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 30.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Lace",
-    "Seamless",
-    "Top-down",
-    "Written"
+    "charted",
+    "lace",
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [
     5.5
@@ -33,8 +37,9 @@
   "rating_average": 4.56400310318076,
   "rating_count": 1289,
   "difficulty_average": 2.3018181818181818,
-  "favorites_count": 14245,
-  "projects_count": 4433,
+  "favorites_count": 14277,
+  "projects_count": 4437,
   "free_ravelry_download": false,
-  "download_url": "https://cdn.accentuate.io/4679121961053/12378270040157/Crochet-Pattern-South-Bay-Shawlette-90489AD-v1591423630188.PDF"
+  "download_url": "https://cdn.accentuate.io/4679121961053/12378270040157/Crochet-Pattern-South-Bay-Shawlette-90489AD-v1591423630188.PDF",
+  "notes": "> this light and airy triangle shawl is soft and elegant. *lion brand yarn*\r\n\r\nlion brand pattern #: 90489ad\r\n\r\nskill level:  advanced intermediate\r\n\r\nsize: one size\r\nabout 46 in. (117 cm), at widest point, 21 in. (53.3 cm) at longest point\r\n\r\n484-147 lb collection silk mohair: iris 2 balls\r\n\r\ncrochet hook - size i-9\r\nsplit ring stitch markers\r\n\r\nshawlette begins at center back neck and is worked in rows down to lower edge.\r\n\r\npattern diagram key is provided.\r\n\r\n\r\nsee [mother of the bride shawl][1] for the vanna’s choice/vanna’s glamour version.\r\n\r\n  \r\n  [1]: http://www.ravelry.com/patterns/library/mother-of-the-bride-shawl"
 }

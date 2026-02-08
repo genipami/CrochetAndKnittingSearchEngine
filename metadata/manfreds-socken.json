@@ -1,27 +1,31 @@
 {
   "id": 7450154,
-  "name": "Manfreds Socken",
+  "name": "manfreds socken",
   "permalink": "manfreds-socken",
   "url": "https://www.ravelry.com/patterns/library/manfreds-socken",
   "external_url": "",
-  "designer_name": "Petra Baur",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "petra baur",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "High Twist",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round"
+    "charted",
+    "in the round"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -32,14 +36,15 @@
   "rating_average": 5.0,
   "rating_count": 4,
   "difficulty_average": 0,
-  "favorites_count": 137,
-  "projects_count": 10,
+  "favorites_count": 138,
+  "projects_count": 11,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/92606/1015460",
+  "notes": "die anleitung ist nur für das  muster und beginnt wie immer und gewohnt mit nadel 4. bündchen, ferse und spitze können nach belieben gestrickt werden.\r\nihr benötigt 100g wolle eurer wahl und eure bevorzugten nadeln, ich nehme wie immer mein nadelspiel in 2,5 von chiaogoo\r\nwolle ist die handgefärbte high twist aus unserer facebook gruppe “selfmade by petra”\r\nhttps://www.facebook.com/selfmadebypetra\r\nich wünsche euch wieder viel spaß beim nachstricken eure petra",
   "pdf": {
     "filename": "7450154.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7450154.pdf",
-    "url": "https://pdf.ravelrycache.com/SockenPetra/2037367/Manfreds_Socken.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481650&Signature=H%2BQYB%2FOpyWg8zSUGsAkw8lTVMeI%3D&key_expires=1768481650&key=yn883VoVnp2okmrOGvsfyw",
+    "url": "https://pdf.ravelrycache.com/SockenPetra/2037367/Manfreds_Socken.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770433134&Signature=ErW5uV6wNNaTa4pDtDAJ3rm%2BuWo%3D&key_expires=1770433134&key=xEznzGs_Yv66rY856SchZQ",
     "size_bytes": 1258528
   }
 }

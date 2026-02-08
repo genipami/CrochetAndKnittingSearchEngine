@@ -1,35 +1,31 @@
 {
   "id": 7356235,
-  "name": "Puffed up sleeve",
+  "name": "puffed up sleeve",
   "permalink": "puffed-up-sleeve",
   "url": "https://www.ravelry.com/patterns/library/puffed-up-sleeve",
   "external_url": "",
-  "designer_name": "Ana Teixeira",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "ana teixeira",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "DROPS Paris",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 66.7
     },
     {
-      "fiber": "It's 100% Pure Cotton",
-      "pct": null
-    },
-    {
-      "fiber": "Mandala",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 33.3
     }
   ],
   "stitches_used": [
-    "Puff stitch"
+    "puff stitch"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Seamed",
-    "Written"
+    "charted",
+    "in the round",
+    "seamed",
+    "written"
   ],
   "hook_sizes_mm": [
     4.0,
@@ -37,18 +33,19 @@
   ],
   "needle_sizes_mm": [],
   "published": "2024/06/01",
-  "sizes_available": "Made to measure ",
+  "sizes_available": "made to measure ",
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 545,
+  "favorites_count": 564,
   "projects_count": 18,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/98536/941747",
+  "notes": "book/device sleeve is made to measure so costumizable to fit any size.\r\n\r\nwork with measurements so no gauge necessary!\r\n\r\nbetter results with cotton yarn but you can use anything really. \r\n\r\nyou can use 1,2,3 or more colours for this or even variegated yarn! work in the round to form a square then join to form a sleeve and attach a closure!\r\n\r\neasy ! thank you to my tester team in helping me out with pattern.  (they are mentioned inside pattern file along with their names and ig profile)",
   "pdf": {
     "filename": "7356235.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7356235.pdf",
-    "url": "https://pdf.ravelrycache.com/jeijeicro/1864576/Puffed_up_bookdevice_sleeve__Pattern_20240720_162009_0000.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482580&Signature=dWgXiUqkusCQCtrUCa06EnKKiYo%3D&key_expires=1768482580&key=dT-D_UzJcsvIqs-uf1SZXg",
+    "url": "https://pdf.ravelrycache.com/jeijeicro/1864576/Puffed_up_bookdevice_sleeve__Pattern_20240720_162009_0000.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770438077&Signature=ISvM8p7f4UczmGC4iIaIIDgOUeA%3D&key_expires=1770438077&key=_z9zPG-QNvSC3IWEhsAMGg",
     "size_bytes": 5239009
   }
 }

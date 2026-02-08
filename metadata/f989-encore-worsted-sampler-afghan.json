@@ -1,22 +1,26 @@
 {
   "id": 1204180,
-  "name": "F989 Encore Worsted Sampler Afghan",
+  "name": "f989 encore worsted sampler afghan",
   "permalink": "f989-encore-worsted-sampler-afghan",
   "url": "https://www.ravelry.com/patterns/library/f989-encore-worsted-sampler-afghan",
   "external_url": "https://www.plymouthyarn.com/pattern/encore-worsted-177",
-  "designer_name": "The Knitter's Edge, Bethlehem, PA",
-  "project_type": "Blanket",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "the knitter's edge, bethlehem, pa",
+  "project_type": "blanket",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Encore Worsted Solids & Heathers",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [],
@@ -25,17 +29,18 @@
   ],
   "published": "2021/12/01",
   "sizes_available": "24\" x 28.5\" (45” x 51”)",
-  "rating_average": 4.871428571428571,
-  "rating_count": 70,
-  "difficulty_average": 2.420289855072464,
-  "favorites_count": 4792,
-  "projects_count": 352,
+  "rating_average": 4.873239436619718,
+  "rating_count": 71,
+  "difficulty_average": 2.4,
+  "favorites_count": 4877,
+  "projects_count": 357,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/9359/747732",
+  "notes": "**sampler baby blanket**\r\n\r\n**size:** 24” x 28.5”\r\n\r\n**materials:** 3 – 100g balls encore worsted shown in color 1231 pale greenhouse.\r\n\r\n**gauge:** 18 sts =4” over st st.\r\n\r\n**needles:** 24-26” size us 7, 2 stitch markers, 1 safety pin type marker\r\n\r\n**notes:** this pattern is worked as 9 horizontal stripes- each stripe being 16-20 rows. between each stripe are 4 \r\ngarter stitch rows. in each stripe, the pattern is worked over the center 96 sts. there are 6 garter sts at each side \r\nedge making for a total of 108 sts. there are bottom and top garter stitch borders of 10 rows each. \r\n\r\n**sampler full size afghan**\r\n\r\n**size:** 45” x 51”\r\n\r\n**materials:** 10 – 100g balls encore worsted. color 702 purple dusk\r\n\r\n**gauge:** 18 sts =4” over st st.\r\n\r\n**needles:** 32” size us 7, 2 stitch markers, 1 safety pin type marker.\r\n\r\n**notes:** this pattern is worked as 9 horizontal stripes- each stripe being about 30 -36 rows. between each stripe \r\nare 4 garter stitch rows. in each stripe, the pattern is worked over the center 192 sts. there are 7 garter sts at each \r\nside edge making for a total of 206 sts. there are bottom and top garter stitch borders of 12 rows each. on pattern \r\nstripe 7, you will need to add sts at the beginning of the stripe and remove them at the end of the stripe.",
   "pdf": {
     "filename": "1204180.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1204180.pdf",
-    "url": "https://pdf.ravelrycache.com/PlymouthYarn/1427500/F989_Encore_Worsed_Sampler_Afghans.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480248&Signature=%2BlW2o5eS60tt9pEEufIbS5dEzNU%3D&key_expires=1768480248&key=VUroIABSRddhkVfGJO2d0A",
+    "url": "https://pdf.ravelrycache.com/PlymouthYarn/1427500/F989_Encore_Worsed_Sampler_Afghans.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770425506&Signature=OmRP4HdP2gMLjZ2HQMtPnRdhY9w%3D&key_expires=1770425506&key=EHbIxIun1ilSg30nbfF8JA",
     "size_bytes": 3118763
   }
 }

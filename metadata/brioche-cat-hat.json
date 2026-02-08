@@ -1,26 +1,26 @@
 {
   "id": 1198321,
-  "name": "Brioche Cat Hat",
+  "name": "brioche cat hat",
   "permalink": "brioche-cat-hat",
   "url": "https://www.ravelry.com/patterns/library/brioche-cat-hat",
   "external_url": "",
-  "designer_name": "Natasha Sills",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "natasha sills",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Merinosaurus Worsted",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Brioche",
-    "In the round"
+    "bottom-up",
+    "brioche",
+    "in the round"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -31,14 +31,15 @@
   "rating_average": 4.735294117647059,
   "rating_count": 34,
   "difficulty_average": 2.8125,
-  "favorites_count": 3677,
-  "projects_count": 230,
+  "favorites_count": 3714,
+  "projects_count": 236,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/1023/743681",
+  "notes": "this silly little hat is easy to make, and the kitty ears get a big reaction every time i show it to someone.\r\n\r\nthis might be a good introductory brioche pattern. there's no shaping, it's just a simple tube that you sew closed along the top in a straight line.\r\n\r\nthe only skills needed are casting on, knitting in the round, brioche knit, and brioche purl.",
   "pdf": {
     "filename": "1198321.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1198321.pdf",
-    "url": "https://pdf.ravelrycache.com/GrittyKnits/1418939/Brioche_Cat_Hat_by_Natasha_Sills.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479231&Signature=%2BLJA6JEMRtNjB0r%2FbjzD5HlW0bo%3D&key_expires=1768479231&key=yUMu5E5gSiBdlDPNJk9Fqg",
+    "url": "https://pdf.ravelrycache.com/GrittyKnits/1418939/Brioche_Cat_Hat_by_Natasha_Sills.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770419784&Signature=IrBBO7jStHodHY%2Fjg5Dnum3p8SI%3D&key_expires=1770419784&key=qUhWPO129IBgd0A0i3ZRAQ",
     "size_bytes": 3098440
   }
 }

@@ -1,37 +1,38 @@
 {
   "id": 540863,
-  "name": "Cosy Stripe Blanket",
+  "name": "cosy stripe blanket",
   "permalink": "cosy-stripe-blanket",
   "url": "https://www.ravelry.com/patterns/library/cosy-stripe-blanket",
   "external_url": "https://attic24.co.uk/posts/cosy-stripe-blanket/",
-  "designer_name": "Lucy of Attic24",
-  "project_type": "Blanket",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "lucy of attic24",
+  "project_type": "blanket",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Special Double Knit",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     4.0
   ],
   "needle_sizes_mm": [],
   "published": "2014/10/01",
-  "sizes_available": "Single Bed",
+  "sizes_available": "single bed",
   "rating_average": 4.867768595041323,
   "rating_count": 726,
   "difficulty_average": 2.055007052186178,
-  "favorites_count": 12220,
-  "projects_count": 2372,
+  "favorites_count": 12287,
+  "projects_count": 2375,
   "free_ravelry_download": false,
-  "download_url": "https://attic24.co.uk/posts/cosy-stripe-blanket/"
+  "download_url": "https://attic24.co.uk/posts/cosy-stripe-blanket/",
+  "notes": "? i have used 15 x 100g balls of stylecraft special dk worked on a 4mm hook to make my cosy stripe blanket.\r\n\r\n? these 15 balls are enough to make a single bed size blanket with a finished size of approximately 4ft x 6ft / 120 cm x 180 cm.\r\n\r\n? if you crochet loosly, you will need to make sure that your starting chain and first row measures roughly 120cm otherwise you will need more than 15 x 100g balls. it's fine to reduce your starting chain to achieve the correct size, just remember to make your starting chain a multiple of 3.\r\n\r\n? if you wish to make the blanket bigger, i.e., to fit a double or king size bed, you will need to increase the number of stitches in your starting chain.....the starting chain should always be a multiple of 3. you will also need to purchase extra yarn if you make a bigger size.\r\n\r\n? i'm writing this pattern in uk crochet terms, as follows ::\r\n\r\ntr [treble] :: yarn over, insert hook, yarn over, pull the loop back through the stitch (three loops on hook), yarn over and pull through two loops on hook (two loops left on hook), yarn over and pull through remaining two loops (note :: this is equivalent to the us dc stitch)\r\n\r\nnote that the cupcake stripe blanket is a different color pattern of this blanket. \r\n[blog page with color information][1]\r\n\r\n\r\n  [1]: http://attic24.typepad.com/weblog/cupcake-stripe-blanket.html"
 }

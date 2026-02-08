@@ -1,24 +1,24 @@
 {
   "id": 7434317,
-  "name": "Granny Beach Bag",
+  "name": "granny beach bag",
   "permalink": "granny-beach-bag-2",
   "url": "https://www.ravelry.com/patterns/library/granny-beach-bag-2",
   "external_url": "https://okiegirlblingnthings.com/2025/05/27/large-summer-beach-bag-tote-free-crochet-pattern/",
-  "designer_name": "Kylee Keller",
-  "project_type": "Bag",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "kylee keller",
+  "project_type": "bag",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Sugarwheel Cotton",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Granny"
+    "granny"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     4.0
@@ -29,8 +29,9 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 477,
+  "favorites_count": 497,
   "projects_count": 9,
   "free_ravelry_download": false,
-  "download_url": "https://okiegirlblingnthings.com/2025/05/27/large-summer-beach-bag-tote-free-crochet-pattern/"
+  "download_url": "https://okiegirlblingnthings.com/2025/05/27/large-summer-beach-bag-tote-free-crochet-pattern/",
+  "notes": null
 }

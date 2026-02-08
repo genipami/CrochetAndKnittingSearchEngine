@@ -1,29 +1,29 @@
 {
   "id": 7485653,
-  "name": "Rope Bridges Hat",
+  "name": "rope bridges hat",
   "permalink": "rope-bridges-hat",
   "url": "https://www.ravelry.com/patterns/library/rope-bridges-hat",
   "external_url": "https://celesteknitwear.com/rope-bridges-hat-knitting-pattern/",
-  "designer_name": "Celeste Knitwear",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "celeste knitwear",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "DROPS Daisy",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Stockinette stitch"
+    "cable",
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "Blocking",
-    "Bottom-up",
-    "Cables",
-    "In the round",
-    "Seamless"
+    "blocking",
+    "bottom-up",
+    "cables",
+    "in the round",
+    "seamless"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -31,12 +31,13 @@
     3.5
   ],
   "published": "2025/12/01",
-  "sizes_available": "Adult",
-  "rating_average": 4.75,
-  "rating_count": 8,
-  "difficulty_average": 3.4285714285714284,
-  "favorites_count": 1517,
-  "projects_count": 29,
+  "sizes_available": "adult",
+  "rating_average": 4.6923076923076925,
+  "rating_count": 13,
+  "difficulty_average": 3.090909090909091,
+  "favorites_count": 1626,
+  "projects_count": 32,
   "free_ravelry_download": false,
-  "download_url": "https://celesteknitwear.com/rope-bridges-hat-knitting-pattern/"
+  "download_url": "https://celesteknitwear.com/rope-bridges-hat-knitting-pattern/",
+  "notes": "the rope bridges hat is knit in the round from the bottom up with dk-weight merino wool. the design features a combination of different cables.\r\n\r\nthe folded brim is knit in 2×2 rib."
 }

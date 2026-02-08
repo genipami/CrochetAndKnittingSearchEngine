@@ -1,35 +1,36 @@
 {
   "id": 7396366,
-  "name": "Glimmer",
+  "name": "glimmer",
   "permalink": "glimmer-8",
   "url": "https://www.ravelry.com/patterns/library/glimmer-8",
   "external_url": "https://pollyplum.com/patterns/granny-squares/glimmer/",
-  "designer_name": "Polly Plum",
-  "project_type": "Other",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "polly plum",
+  "project_type": "other",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Special Double Knit",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     4.5
   ],
   "needle_sizes_mm": [],
   "published": "2025/01/01",
-  "sizes_available": "10\" in DK; 12\" in Aran",
+  "sizes_available": "10\" in dk; 12\" in aran",
   "rating_average": 5.0,
   "rating_count": 15,
   "difficulty_average": 2.6923076923076925,
-  "favorites_count": 1381,
+  "favorites_count": 1426,
   "projects_count": 60,
   "free_ravelry_download": false,
-  "download_url": "https://pollyplum.com/patterns/granny-squares/glimmer/"
+  "download_url": "https://pollyplum.com/patterns/granny-squares/glimmer/",
+  "notes": "glimmer is the first square of the 2025 bam cal!\r\n\r\npdf and video and all that stuff coming soon. i'm tired, y'all. it's nye. i'm gonna go watch a movie. for now, make the free version on my website."
 }

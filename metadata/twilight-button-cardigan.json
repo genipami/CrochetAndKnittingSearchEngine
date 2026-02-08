@@ -1,39 +1,44 @@
 {
   "id": 1182857,
-  "name": "Twilight Button Cardigan",
+  "name": "twilight button cardigan",
   "permalink": "twilight-button-cardigan",
   "url": "https://www.ravelry.com/patterns/library/twilight-button-cardigan",
   "external_url": "https://forthefrills.com/chunky-textured-button-cardigan-free-crochet-pattern",
-  "designer_name": "Grace Forthefrills",
-  "project_type": "Cardigan",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Bulky",
+  "designer_name": "grace forthefrills",
+  "project_type": "cardigan",
+  "fiber_art": "crochet",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Biggo",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 50.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 50.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Half double crochet (hdc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "half double crochet (hdc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamed",
-    "Written"
+    "seamed",
+    "written"
   ],
   "hook_sizes_mm": [
     9.0
   ],
   "needle_sizes_mm": [],
   "published": "2021/10/01",
-  "sizes_available": "XS(S, M, L, XL)(2XL, 3XL, 4XL, 5XL)",
+  "sizes_available": "xs(s, m, l, xl)(2xl, 3xl, 4xl, 5xl)",
   "rating_average": 4.25,
   "rating_count": 24,
   "difficulty_average": 2.6818181818181817,
-  "favorites_count": 4330,
-  "projects_count": 124,
+  "favorites_count": 4386,
+  "projects_count": 127,
   "free_ravelry_download": false,
-  "download_url": "https://forthefrills.com/chunky-textured-button-cardigan-free-crochet-pattern"
+  "download_url": "https://forthefrills.com/chunky-textured-button-cardigan-free-crochet-pattern",
+  "notes": "perfect for day or night, the twilight cardigan is a modern take on a fall staple – the button-down cardigan. simple stitches and chunky yarn combine to make a textured v-neck cardigan that will keep you warm from the crisp autumn winds. designed as a cropped cardigan, you’ll be surprised at how quickly this pattern works up and there are also instructions to customise length!\r\n\r\nthis pattern is accompanied by a video tutorial :)\r\n\r\nsizes: xs(s, m, l, xl)(2xl, 3xl, 4xl, 5xl)\r\n\r\nskill level: easy+\r\n\r\n\r\ncheck out more free crochet patterns **[here][1]**! \r\n\r\nsign up to my **[newsletter][2]** and never miss a new crochet pattern release!\r\n\r\n\r\n  [1]: https://forthefrills.com\r\n  [2]: https://view.flodesk.com/pages/5ebf67c2ab499000265d1ad4\r\n"
 }

@@ -1,29 +1,29 @@
 {
   "id": 316570,
-  "name": "Baby Hat with Top Knot - Tegan",
+  "name": "baby hat with top knot - tegan",
   "permalink": "baby-hat-with-top-knot---tegan",
   "url": "https://www.ravelry.com/patterns/library/baby-hat-with-top-knot---tegan",
   "external_url": "",
-  "designer_name": "Julie Taylor",
-  "project_type": "Baby",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "julie taylor",
+  "project_type": "baby",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Cotton DK",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Seamed",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "seamed",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -32,17 +32,18 @@
   ],
   "published": null,
   "sizes_available": "premature (4-6lb), 0 - 3 months, 3 - 6 months, 6 - 12 months, 1 - 2 years",
-  "rating_average": 4.752083333333333,
-  "rating_count": 960,
-  "difficulty_average": 1.7765843179377014,
-  "favorites_count": 22252,
-  "projects_count": 4059,
+  "rating_average": 4.753367875647668,
+  "rating_count": 965,
+  "difficulty_average": 1.7788461538461537,
+  "favorites_count": 22642,
+  "projects_count": 4098,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/24095/101205",
+  "notes": "simple and cute - this baby hat is ideal for a beginner knitter.\r\nthe pattern is clearly laid out and has instructions for both knitting in the round and knitting flat with links to video tutorials for neat finishing\r\n\r\nit is an ideal pattern for using up oddments of yarn.",
   "pdf": {
     "filename": "316570.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\316570.pdf",
-    "url": "https://pdf.ravelrycache.com/lovefibres/2003615/Tegan_TopKnot_.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478890&Signature=Ci4wRXffw6bJqOxAB%2FJswVhvEcc%3D&key_expires=1768478890&key=Dkm-qdIoLIxTTvlNqwgMMQ",
+    "url": "https://pdf.ravelrycache.com/lovefibres/2003615/Tegan_TopKnot_.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770417969&Signature=oIQWq19HqmeI97QtF2v%2Be999B%2BU%3D&key_expires=1770417969&key=MJSpOeKh8P_CPjzLWM-icA",
     "size_bytes": 807562
   }
 }

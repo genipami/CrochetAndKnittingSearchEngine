@@ -1,49 +1,50 @@
 {
   "id": 318688,
-  "name": "Socks on a Plane",
+  "name": "socks on a plane",
   "permalink": "socks-on-a-plane",
   "url": "https://www.ravelry.com/patterns/library/socks-on-a-plane",
   "external_url": "",
-  "designer_name": "Laura Linneman",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "laura linneman",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Opposites Attract",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 90.0
     },
     {
-      "fiber": "Socks that Rock Lightweight",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Cables",
-    "Charted",
-    "In the round",
-    "Seamless",
-    "Written"
+    "cables",
+    "charted",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [],
   "published": null,
-  "sizes_available": "Medium, Large",
-  "rating_average": 4.657018813314037,
-  "rating_count": 1382,
-  "difficulty_average": 2.407488986784141,
-  "favorites_count": 18172,
-  "projects_count": 5631,
+  "sizes_available": "medium, large",
+  "rating_average": 4.657514450867052,
+  "rating_count": 1384,
+  "difficulty_average": 2.406891495601173,
+  "favorites_count": 18223,
+  "projects_count": 5645,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/1290/105910",
+  "notes": "a great simple toe-up pattern for travel knitting!  pattern is written using 2 circular needles.",
   "pdf": {
     "filename": "318688.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\318688.pdf",
-    "url": "https://pdf.ravelrycache.com/LaLa/521105/Socks_on_a_Plane.2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483206&Signature=ndOG8JPN1b05dGxqDEV6psF5FKY%3D&key_expires=1768483206&key=ydQY0Gp2zAwcz7qKxlf-mw",
+    "url": "https://pdf.ravelrycache.com/LaLa/521105/Socks_on_a_Plane.2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770441586&Signature=naxfrm7zH0FNOJdbp35g6wcW7bM%3D&key_expires=1770441586&key=JKvc6igNBHle5dLn9pPtPQ",
     "size_bytes": 4237734
   }
 }

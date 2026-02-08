@@ -1,36 +1,40 @@
 {
   "id": 1057330,
-  "name": "215-5 Deep Woods Sweater",
+  "name": "215-5 deep woods sweater",
   "permalink": "215-5-deep-woods-sweater",
   "url": "https://www.ravelry.com/patterns/library/215-5-deep-woods-sweater",
   "external_url": "https://www.garnstudio.com/pattern.php?id=9768&cid=19",
-  "designer_name": "DROPS design",
-  "project_type": "Pullover",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "drops design",
+  "project_type": "pullover",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "DROPS Alpaca",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 50.0
     },
     {
-      "fiber": "DROPS Kid-Silk",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 37.5
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 12.5
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "cable",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Cables",
-    "Charted",
-    "In the round",
-    "Raglan",
-    "Seamless",
-    "Top-down",
-    "Written"
+    "cables",
+    "charted",
+    "in the round",
+    "raglan",
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -38,12 +42,13 @@
     5.0
   ],
   "published": "2020/08/01",
-  "sizes_available": "S – M – L – XL – XXL – XXXL",
-  "rating_average": 4.564102564102564,
-  "rating_count": 78,
-  "difficulty_average": 3.2337662337662336,
-  "favorites_count": 8180,
-  "projects_count": 298,
+  "sizes_available": "s – m – l – xl – xxl – xxxl",
+  "rating_average": 4.54320987654321,
+  "rating_count": 81,
+  "difficulty_average": 3.1875,
+  "favorites_count": 8423,
+  "projects_count": 312,
   "free_ravelry_download": false,
-  "download_url": "https://www.garnstudio.com/pattern.php?id=9768&cid=19"
+  "download_url": "https://www.garnstudio.com/pattern.php?id=9768&cid=19",
+  "notes": "**knitted jumper in drops alpaca and drops kid-silk. the piece is worked top down with raglan and cables on the sleeves. sizes s - xxxl.**\r\n~~~~~~~~~~~~~~~~~~~~~~~~\r\n\r\ndrops design: pattern no z-902\r\nyarn group a + a or c\r\n-------------------------------------------------------\r\n\r\n**sizes**:\r\ns - m - l - xl - xxl - xxxl\r\n\r\n**materials**:\r\ndrops alpaca from garnstudio (belongs to yarn group a)\r\n250-250-300-300-350-400 g colour 7815, forest mix\r\nand use:\r\ndrops kid-silk from garnstudio (belongs to yarn group a)\r\n100-125-125-150-150-175 g colour 19, dark green\r\n\r\n**knitting tension:**\r\n17 stitches in width and 22 rows in height with stocking stitch and 1 strand of each quality = 10 x 10 cm.\r\n\r\nneedles:\r\ndrops double pointed needles size 5 mm.\r\ndrops circular needle size 5 mm: length 40 cm and 60 cm or 80 cm for stocking stitch.\r\ndrops double pointed needles size 4 mm.\r\ndrops circular needle size 4 mm: length 40 cm and 80 cm for rib.\r\ndrops cable needle: for cables.\r\nneedle size is only a guide. if you get too many stitches on 10 cm, change to a larger needle size. if you get too few stitches on 10 cm, change to a smaller needle size."
 }

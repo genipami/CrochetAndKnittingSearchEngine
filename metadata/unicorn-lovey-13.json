@@ -1,52 +1,40 @@
 {
   "id": 7436796,
-  "name": "Unicorn Lovey",
+  "name": "unicorn lovey",
   "permalink": "unicorn-lovey-13",
   "url": "https://www.ravelry.com/patterns/library/unicorn-lovey-13",
   "external_url": "",
-  "designer_name": "Laura MICHAUD",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "laura michaud",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Jo Métal",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 70.7
     },
     {
-      "fiber": "Meg Multico",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 28.6
     },
     {
-      "fiber": "Phil Charly",
-      "pct": null
+      "fiber": "Metallic (Metallic)",
+      "pct": 0.4
     },
     {
-      "fiber": "Phil Coton 4",
-      "pct": null
-    },
-    {
-      "fiber": "Phil Coton Mimi",
-      "pct": null
-    },
-    {
-      "fiber": "Pingo First",
-      "pct": null
-    },
-    {
-      "fiber": "Pingo Pépite",
-      "pct": null
+      "fiber": "Polyester (Polyester)",
+      "pct": 0.3
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Half double crochet (hdc)",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "half double crochet (hdc)",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamed",
-    "Written"
+    "seamed",
+    "written"
   ],
   "hook_sizes_mm": [
     3.0,
@@ -57,12 +45,13 @@
   ],
   "needle_sizes_mm": [],
   "published": "2025/06/01",
-  "sizes_available": "One size",
+  "sizes_available": "one size",
   "rating_average": 5.0,
   "rating_count": 4,
   "difficulty_average": 2.25,
-  "favorites_count": 345,
-  "projects_count": 20,
+  "favorites_count": 377,
+  "projects_count": 21,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/110290/1004915"
+  "download_url": "http://www.ravelry.com/dls/110290/1004915",
+  "notes": "this unicorn lovey is destined to a child but it is so cute your may want to keep it on your shelve !\r\n\r\nthe pattern is very easy to follow with step-by-step pictures. you can try it as your first crochet work.\r\nif you are used to crochet you can download the shorter pattern without pictures.\r\n\r\nif you like unicorns, you can also try this cute unircorn toy : https://www.ravelry.com/patterns/library/cute-unicorn-toy \r\n\r\n\r\n**hook**\r\nthis pattern is worked with a small crochet : 3, 3.25 (d), 3.5 (e), 3.75 (f) or 4 (g).\r\nrefer to your yarn’s hook size recommendations and go one size smaller for the head and arms : it will give structure to your unicorn.\r\nfor the blanket, you can use your normal yarn’s hook size recommendations.\r\n\r\n**yarn**\r\nuse any dk yarn (8ply) of your liking. you will need 7 yarn colors :\r\n\r\n* color a / head color (shown as white) : 180 meters / 197 yards\r\n* color b / muzzle and hoofs (shown as pink) : 110 meters / 120 yards\r\n* color c / horn (shown as gray) : 3 meters / 3.3 yards\r\n* color d / hair (shown as purple) : 90 meters / 98 yards\r\n* color e / hair (shown as orange) : 110 meters / 120 yars \r\n* color f / hair (shown as blue) : 80 meters / 87 yards\r\n* color g / fringe (shown as green) : 80 meters / 87 yards\r\n* in addition, you will need a bit of black and withe yarn for the eyes.\r\n\r\n\r\n**other material**\r\nfiberfill stuffing.\r\n\r\n**techniques and stitches**\r\neverything is explain in the pattern preambule : ch, mr, sl, sc, dc, hdc, inc, inv dec\r\n\r\nhave fun !"
 }

@@ -1,23 +1,23 @@
 {
   "id": 410814,
-  "name": "1898 Hat",
+  "name": "1898 hat",
   "permalink": "1898-hat",
   "url": "https://www.ravelry.com/patterns/library/1898-hat",
   "external_url": "",
-  "designer_name": "Kristine Byrnes",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "kristine byrnes",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [],
   "stitches_used": [
-    "Garter stitch",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Kitchener stitch"
+    "bottom-up",
+    "in the round",
+    "kitchener stitch"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -25,11 +25,12 @@
   ],
   "published": "2013/05/01",
   "sizes_available": "",
-  "rating_average": 4.768306010928962,
-  "rating_count": 1830,
-  "difficulty_average": 2.8162344983089063,
-  "favorites_count": 31211,
-  "projects_count": 8785,
+  "rating_average": 4.769147202607279,
+  "rating_count": 1841,
+  "difficulty_average": 2.817825112107623,
+  "favorites_count": 31452,
+  "projects_count": 8843,
   "free_ravelry_download": false,
-  "download_url": "https://seamenschurch.org/wp-content/uploads/2022/07/1898Hat.pdf"
+  "download_url": "https://seamenschurch.org/wp-content/uploads/2022/07/1898Hat.pdf",
+  "notes": "the construction of this hat was inspired by one pictured in a magazine published around 1910. knitting the headband side to side provides a double layer of garter stitch to keep the ears warm, and allows for easy shaping of the earflaps. the edges of the headband are folded together along a slipped stitch seam, and picked up together to finish in the round. the hat has plenty of depth so it can be pulled low on the forehead, and the earflaps will naturally cup around the ears to keep them warm."
 }

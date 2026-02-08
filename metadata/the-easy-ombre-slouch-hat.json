@@ -1,29 +1,29 @@
 {
   "id": 509476,
-  "name": "The Easy Ombre Slouch Hat",
+  "name": "the easy ombre slouch hat",
   "permalink": "the-easy-ombre-slouch-hat",
   "url": "https://www.ravelry.com/patterns/library/the-easy-ombre-slouch-hat",
   "external_url": "https://knittingfever.com/design/10019",
-  "designer_name": "Paul S Neary",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "paul s neary",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Llama Una",
-      "pct": null
+      "fiber": "Llama (Llama)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Charted",
-    "In the round",
-    "Seamless",
-    "Stranded colorwork"
+    "bottom-up",
+    "charted",
+    "in the round",
+    "seamless",
+    "stranded colorwork"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -31,11 +31,12 @@
   ],
   "published": "2014/08/01",
   "sizes_available": "22\" circumference ",
-  "rating_average": 4.579141104294479,
-  "rating_count": 815,
-  "difficulty_average": 2.359413202933985,
-  "favorites_count": 22699,
-  "projects_count": 2964,
+  "rating_average": 4.578431372549019,
+  "rating_count": 816,
+  "difficulty_average": 2.3614163614163615,
+  "favorites_count": 22814,
+  "projects_count": 2972,
   "free_ravelry_download": false,
-  "download_url": "https://knittingfever.com/design/10019"
+  "download_url": "https://knittingfever.com/design/10019",
+  "notes": "this quick and easy hat is a fabulous way to learn stranded knitting! choose two distinct colors to create a dramatic ombre effect or two similar shades for a graduated blended effect. "
 }

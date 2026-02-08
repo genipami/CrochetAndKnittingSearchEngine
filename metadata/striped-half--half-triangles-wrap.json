@@ -1,40 +1,49 @@
 {
   "id": 1269095,
-  "name": "Striped Half + Half Triangles Wrap",
+  "name": "striped half + half triangles wrap",
   "permalink": "striped-half--half-triangles-wrap",
   "url": "https://www.ravelry.com/patterns/library/striped-half--half-triangles-wrap",
   "external_url": "https://www.purlsoho.com/create/2022/09/07/striped-half-half-triangles-wrap/",
-  "designer_name": "Purl Soho",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "purl soho",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Linen Quill",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 50.0
+    },
+    {
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 35.0
+    },
+    {
+      "fiber": "Flax (Linen)",
+      "pct": 15.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Seamless",
-    "Short rows",
-    "Written"
+    "bottom-up",
+    "seamless",
+    "short rows",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.25
   ],
   "published": "2022/09/01",
-  "sizes_available": "One Size (see Notes)",
+  "sizes_available": "one size (see notes)",
   "rating_average": 4.6875,
   "rating_count": 32,
   "difficulty_average": 2.5714285714285716,
-  "favorites_count": 3396,
-  "projects_count": 247,
+  "favorites_count": 3422,
+  "projects_count": 252,
   "free_ravelry_download": false,
-  "download_url": "https://www.purlsoho.com/create/2022/09/07/striped-half-half-triangles-wrap/"
+  "download_url": "https://www.purlsoho.com/create/2022/09/07/striped-half-half-triangles-wrap/",
+  "notes": "materials\r\nour [striped half + half triangles wrap bundle][1] includes…\r\n\r\n6 skeins of purl soho’s [linen quill][2], 50% fine highland wool, 35% alpaca, and 15% linen. each skein is 439 yards/ 100 grams.\r\n\r\n- color a: 1 skein; approximately 430 yards required\r\n- color b: 1 skein; approximately 400 yards required\r\n- color c: 1 skein; approximately 240 yards required\r\n- color d: 1 skein; approximately 315 yards required\r\n- color e: 1 skein; approximately 355 yards required\r\n- color f: 1 skein; approximately 330 yards required\r\n\r\nyou will also need…\r\n\r\n- us 3 (3.25 mm) 32-inch [circular needles][3]\r\n- [stitch markers][4], including 1 removable\r\n\r\ngauge\r\n26 stitches and 52 rows or 26 garter “ridges” (one garter ridge equals 2 rows) = 4 inches in garter stitch, blocked\r\n\r\nnote: we used nearly every yard of color a. to avoid running out, be careful to match the recommended gauge and keep your yarn tails no longer than 4-6 inches. also, choose a different color for your gauge swatch!\r\n\r\nsize\r\nfinished dimensions: 40¾ inches wide x 40¾ inches long; approximately 57½ inches along the fold\r\n\r\nsamples: we knit the palettes terrazzo and ocean current. view our other bundled palettes [here][5]!\r\n\r\n\r\nstriped version designed by purl soho designer, [gaby bush][6], based on the original [half + half triangles wrap][7] by [jake canton][8].\r\n\r\n\r\n  [1]: https://www.purlsoho.com/striped-half-and-half-triangles-wrap-bundle.html\r\n  [2]: https://www.purlsoho.com/linen-quill.html\r\n  [3]: https://www.purlsoho.com/tools-and-notions/knitting-and-crochet.html?collection_filter=23796\r\n  [4]: https://www.purlsoho.com/tools-and-notions/knitting-and-crochet.html?collection_filter=964\r\n  [5]: https://www.purlsoho.com/striped-half-and-half-triangles-wrap-bundle.html\r\n  [6]: https://www.purlsoho.com/create/tag/gaby-bush-for-purl-soho/\r\n  [7]: https://www.purlsoho.com/create/2019/05/08/half-and-half-triangles/\r\n  [8]: https://www.purlsoho.com/create/tag/jake-canton-for-purl-soho/"
 }

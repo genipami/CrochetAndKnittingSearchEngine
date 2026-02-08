@@ -1,20 +1,20 @@
 {
   "id": 7479822,
-  "name": "Star Ornament",
+  "name": "star ornament",
   "permalink": "star-ornament-19",
   "url": "https://www.ravelry.com/patterns/library/star-ornament-19",
   "external_url": "",
-  "designer_name": "Vivian McIntyre",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "vivian mcintyre",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [],
   "stitches_used": [
-    "Single crochet (sc)"
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     4.5
@@ -25,14 +25,15 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 78,
+  "favorites_count": 79,
   "projects_count": 2,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/110389/1038553",
+  "notes": "this is a super cute star ornament- it makes a great gift, stocking stuffer, or a cute decoration for yourself. it works great as a scrap buster, as it doesnt use much yarn. enjoy!",
   "pdf": {
     "filename": "7479822.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7479822.pdf",
-    "url": "https://pdf.ravelrycache.com/HappyHookingCo/2091647/Christmas_Star_Ornament.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483343&Signature=Lt%2FxFCDL1tMclVmLtnViHc20nFk%3D&key_expires=1768483343&key=m4dJW9R4ZT56bNK1UAf8Iw",
+    "url": "https://pdf.ravelrycache.com/HappyHookingCo/2091647/Christmas_Star_Ornament.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770442303&Signature=8yLTsvLpPYMUNRB5%2BP1zogCZXMM%3D&key_expires=1770442303&key=JpCmDGOgQwI5NM0dbRybFA",
     "size_bytes": 1020919
   }
 }

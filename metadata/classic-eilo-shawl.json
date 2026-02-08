@@ -1,48 +1,36 @@
 {
   "id": 7327636,
-  "name": "Classic Eilo shawl",
+  "name": "classic eilo shawl",
   "permalink": "classic-eilo-shawl",
   "url": "https://www.ravelry.com/patterns/library/classic-eilo-shawl",
   "external_url": "",
-  "designer_name": "Meshh Handmade",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Fingering",
+  "designer_name": "meshh handmade",
+  "project_type": "shawl/wrap",
+  "fiber_art": "crochet",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Bamboo",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 50.0
     },
     {
-      "fiber": "Cotton 3ply",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 28.6
     },
     {
-      "fiber": "Cotton/Acrylic 3ply",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 14.3
     },
     {
-      "fiber": "Cotton/Acrylic 4ply",
-      "pct": null
-    },
-    {
-      "fiber": "Merino/Acrylic 3ply",
-      "pct": null
-    },
-    {
-      "fiber": "Merino/Acrylic 4ply",
-      "pct": null
-    },
-    {
-      "fiber": "ReCotton",
-      "pct": null
+      "fiber": "Rayon from Bamboo (Bamboo)",
+      "pct": 7.1
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)"
+    "double crochet (dc)"
   ],
   "techniques_used": [
-    "Charted"
+    "charted"
   ],
   "hook_sizes_mm": [
     3.0,
@@ -57,14 +45,15 @@
   "rating_average": 4.833333333333333,
   "rating_count": 6,
   "difficulty_average": 2.5,
-  "favorites_count": 677,
+  "favorites_count": 700,
   "projects_count": 16,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/102485/919290",
+  "notes": "wzór na chustę eilo jest prostym wzorem, powtarzalny, składającym się z słupków i oczek łańcuszka. na jego podstawie można zrobić chustę w dowolnym rozmiarze z motka od 500 m (dla dziecka ok 2 latka) po 1500 m (bardzo duża dla dorosłej osoby). z ok. 800 m 4 nitkowego motka powstała chusta o wymiarach ok. 190x87 cm. polecam motki, które będą się dobrze blokować - wtedy wszystkie ażury będą dobrze widoczne (raczej zrezygnuj z czystego akrylu).\r\n\r\nthe pattern also appears in english in the future. now the pattern is in polish, but the markings are universal, the pattern is simple and repeatable. you can always ask me a question - i will be happy to help.",
   "pdf": {
     "filename": "7327636.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7327636.pdf",
-    "url": "https://pdf.ravelrycache.com/MeshhHandmade/1811758/Chusta_Eilo_-_klasyczna_MESHH_Handmade.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479557&Signature=GXAubJNJvOVcNBBozpiqzuUtVk0%3D&key_expires=1768479557&key=AjAsI-OWhHM3rwei9GnKhg",
+    "url": "https://pdf.ravelrycache.com/MeshhHandmade/1811758/Chusta_Eilo_-_klasyczna_MESHH_Handmade.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770421657&Signature=UdUvsA7ITzl1FByePhj74IGpF%2BI%3D&key_expires=1770421657&key=-iFna7cO665zZ0RAa5U3zA",
     "size_bytes": 29586555
   }
 }

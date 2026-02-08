@@ -1,27 +1,31 @@
 {
   "id": 1065184,
-  "name": "Gourdgeous Knit Pumpkins",
+  "name": "gourdgeous knit pumpkins",
   "permalink": "gourdgeous-knit-pumpkins",
   "url": "https://www.ravelry.com/patterns/library/gourdgeous-knit-pumpkins",
   "external_url": "https://www.instructables.com/id/Easiest-Knit-Pumpkins/",
-  "designer_name": "Adrienne Sullivan",
-  "project_type": "Home",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "adrienne sullivan",
+  "project_type": "home",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Wool Ease Thick & Quick",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -33,14 +37,15 @@
   "rating_average": 4.8734177215189876,
   "rating_count": 158,
   "difficulty_average": 1.7086092715231789,
-  "favorites_count": 9043,
-  "projects_count": 717,
+  "favorites_count": 9078,
+  "projects_count": 716,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/66283/636809",
+  "notes": "fall decor has never been faster with the gourdgeous (gourds, get it?) knit pumpkins. any beginner can make these in no time, using only a knit tube or rectangle sewn into a pumpkin shape. each ball of recommended yarn makes 2 pumpkins. customize the look by switching up colors, yarn thickness and needle size, or stem material. \r\n\r\nphoto tutorial instructions are for both knitting flat or in the round.\r\n\r\nno gauge; finished pumpkin size depends on amount of stuffing. sample pumpkin is 6in wide and 3.5in tall.\r\n\r\n**materials**\r\napproximately 40 yds lion brand wool ease thick & quick (1 full ball makes 2 pumpkins), or equivalent super bulky yarn\r\napproximately 5 yds contrasting color yarn\r\nsize us15/10mm straight or circular knitting needles\r\nsize us9/5.5mm dpns\r\nstitch marker\r\npolyester fiberfill\r\ntapestry needle\r\nscissors",
   "pdf": {
     "filename": "1065184.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1065184.pdf",
-    "url": "https://pdf.ravelrycache.com/adriennemg/1194299/gourdgeous_knit_pumpkin_pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480658&Signature=tVXf3LVtIvZEHh4tQYoorpfe4kM%3D&key_expires=1768480658&key=KgGiec4rLxE1JqwSyU0wFg",
+    "url": "https://pdf.ravelrycache.com/adriennemg/1194299/gourdgeous_knit_pumpkin_pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770427778&Signature=ew%2FU2KfS%2BtEmVZsPuur%2B95nfGJQ%3D&key_expires=1770427778&key=eA4yxgX-09FsO-7yUx58gg",
     "size_bytes": 4772238
   }
 }

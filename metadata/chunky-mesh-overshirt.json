@@ -1,39 +1,40 @@
 {
   "id": 1344376,
-  "name": "Chunky Mesh Overshirt",
+  "name": "chunky mesh overshirt",
   "permalink": "chunky-mesh-overshirt",
   "url": "https://www.ravelry.com/patterns/library/chunky-mesh-overshirt",
   "external_url": "https://thesnugglery.net/chunky-mesh-overshirt-a-summer-crochet-project-you-can-make-fast/",
-  "designer_name": "Michelle Greenberg",
-  "project_type": "Cardigan",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Bulky",
+  "designer_name": "michelle greenberg",
+  "project_type": "cardigan",
+  "fiber_art": "crochet",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Big Cotton",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Waffle"
+    "lace",
+    "waffle"
   ],
   "techniques_used": [
-    "Lace",
-    "Seamed",
-    "Written"
+    "lace",
+    "seamed",
+    "written"
   ],
   "hook_sizes_mm": [
     10.0
   ],
   "needle_sizes_mm": [],
   "published": "2023/06/01",
-  "sizes_available": "S/M, L/XL, 2X/3X",
+  "sizes_available": "s/m, l/xl, 2x/3x",
   "rating_average": 3.4545454545454546,
   "rating_count": 11,
   "difficulty_average": 2.090909090909091,
-  "favorites_count": 1503,
+  "favorites_count": 1530,
   "projects_count": 33,
   "free_ravelry_download": false,
-  "download_url": "https://thesnugglery.net/chunky-mesh-overshirt-a-summer-crochet-project-you-can-make-fast/"
+  "download_url": "https://thesnugglery.net/chunky-mesh-overshirt-a-summer-crochet-project-you-can-make-fast/",
+  "notes": "this super chunky mesh overshirt is my way of getting my crojo back this summer. i love a tiny yarn, cotton lacey project as much as the next guy but without that instant gratification from quick chunky knits, my crafting motivation always tends to waffle a bit in the middle of the summer.\r\n\r\nwith loopy mango's big cotton, we can make a beachy coverup super fast! and help get some of that crafting momentum restarted again.\r\n\r\nplease enjoy the free pattern and video tutorial! :) "
 }

@@ -1,29 +1,17 @@
 {
   "id": 7465652,
-  "name": "KPop Dragon Braid Hat",
+  "name": "kpop dragon braid hat",
   "permalink": "kpop-dragon-braid-hat",
   "url": "https://www.ravelry.com/patterns/library/kpop-dragon-braid-hat",
   "external_url": "https://www.twothousandstitches.com/blog/rumi-hat",
-  "designer_name": "Jill Hamilton",
-  "project_type": "Child",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "jill hamilton",
+  "project_type": "child",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Simply Aran",
-      "pct": null
-    },
-    {
-      "fiber": "Special Aran",
-      "pct": null
-    },
-    {
-      "fiber": "Super Saver (solids)",
-      "pct": null
-    },
-    {
-      "fiber": "Value (Solids)",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
@@ -33,12 +21,13 @@
   ],
   "needle_sizes_mm": [],
   "published": "2025/08/01",
-  "sizes_available": "Child size",
+  "sizes_available": "child size",
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 222,
+  "favorites_count": 255,
   "projects_count": 16,
   "free_ravelry_download": false,
-  "download_url": "https://www.twothousandstitches.com/blog/rumi-hat"
+  "download_url": "https://www.twothousandstitches.com/blog/rumi-hat",
+  "notes": ""
 }

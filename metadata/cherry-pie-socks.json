@@ -1,50 +1,55 @@
 {
   "id": 1165063,
-  "name": "Cherry Pie Socks",
+  "name": "cherry pie socks",
   "permalink": "cherry-pie-socks",
   "url": "https://www.ravelry.com/patterns/library/cherry-pie-socks",
   "external_url": "",
-  "designer_name": "Debbie Ford",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "debbie ford",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Imperial Sock",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Rayon from Bamboo (Bamboo)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Eyelet lace",
-    "Granny",
-    "Single crochet (sc)",
-    "Slip stitch (sl st)",
-    "Treble crochet (tr)"
+    "eyelet lace",
+    "granny",
+    "single crochet (sc)",
+    "slip stitch (sl st)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Kitchener stitch",
-    "Lace",
-    "Top-down",
-    "Written"
+    "charted",
+    "kitchener stitch",
+    "lace",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.25
   ],
   "published": "2021/08/01",
-  "sizes_available": "Adult - Small (Medium, Large)",
+  "sizes_available": "adult - small (medium, large)",
   "rating_average": 4.764705882352941,
   "rating_count": 34,
-  "difficulty_average": 2.8823529411764706,
-  "favorites_count": 2079,
-  "projects_count": 144,
+  "difficulty_average": 2.8529411764705883,
+  "favorites_count": 2095,
+  "projects_count": 149,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/81820/717302",
+  "notes": "*a sweet treat in the afternoon, with some knitting, and a cup of tea is one of my favourite things to do before the busyness of teatime and getting ready for work or school the next day. this collection is inspired by some of my favourites, all bringing delightful memories of picking fruits from the garden and baking with my granny…. sweet comfort.*\r\n\r\na top down sock with heel flap and gusset, the sock starts by using a contrast colour and working a long rib with a finishing row, inspired by the fluted top of the pastry on a cherry pie. the eyelet pattern is worked on the front of the sock only which makes for a relaxing and quick knit.\r\n\r\nsizes\r\nsmall, (medium, large) finished sock circumference unstretched, 19 ( 21.5, 24 ) cm / 7.5 ( 8.5, 9.5 ).\r\n\r\nskill level\r\na basic understanding of sock construction, how to work knits, purls, slip stitches, increases, decreases and kitchener stitch.\r\n\r\nthis pattern has been tested and tech edited.\r\n\r\nyou can find kits over at: https://www.adventuresinyarncraft.co.uk/\r\n\r\n\r\n  [1]: https://www.adventuresinyarncraft.co.uk/",
   "pdf": {
     "filename": "1165063.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1165063.pdf",
-    "url": "https://pdf.ravelrycache.com/DinkyDebbie/1361949/Cherry_Pie_Socks_Published_copy.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479444&Signature=IhcHkYo8X09SApv68vBuWXIqlgg%3D&key_expires=1768479444&key=x5q5OWJPzG2xaAus2C3u7g",
+    "url": "https://pdf.ravelrycache.com/DinkyDebbie/1361949/Cherry_Pie_Socks_Published_copy.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770421038&Signature=engXNwMLmvAG015NIG7n%2BjJTTyw%3D&key_expires=1770421038&key=nlxIh-AL3GmTOnEbzUOSpg",
     "size_bytes": 537726
   }
 }

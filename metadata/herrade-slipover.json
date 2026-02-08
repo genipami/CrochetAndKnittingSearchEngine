@@ -1,32 +1,28 @@
 {
   "id": 7427897,
-  "name": "Herrade slipover",
+  "name": "herrade slipover",
   "permalink": "herrade-slipover",
   "url": "https://www.ravelry.com/patterns/library/herrade-slipover",
   "external_url": "",
-  "designer_name": "Dominique Krucker",
-  "project_type": "Vest",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "dominique krucker",
+  "project_type": "vest",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Gilliatt",
-      "pct": null
-    },
-    {
-      "fiber": "Yak / Merinos 50/50",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Ribbing",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "ribbing",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Short rows",
-    "Top-down"
+    "in the round",
+    "short rows",
+    "top-down"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -34,18 +30,19 @@
     4.5
   ],
   "published": "2025/04/01",
-  "sizes_available": "S-M-L-XL",
-  "rating_average": 4.571428571428571,
-  "rating_count": 7,
-  "difficulty_average": 2.75,
-  "favorites_count": 924,
-  "projects_count": 25,
+  "sizes_available": "s-m-l-xl",
+  "rating_average": 4.555555555555555,
+  "rating_count": 9,
+  "difficulty_average": 2.9,
+  "favorites_count": 961,
+  "projects_count": 27,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/70169/998617",
+  "notes": " the herrade slipover is worked top down. the back side of the yoke is worked first, then the shoulders, the fronts around neckline and armholes, to be finally all joined to be worked in the round.\r\nit is knitted in stockinette stitch with a nice ribbing edge that goes down only at the right side and will grow all around the body in a gently sloping. \r\n 4 sizes  are available : s-m-l-xl\r\n the sample is shown in size m.\r\n3 balls (3 x 100g) for all sizes. \r\n\r\n the herrade slipover is inspired by a vest i saw in felletin last oktober from « laines paysannes ».\r\n (and i have their agreement to publish this here as free)\r\n\r\n\r\nfinished bust circumferences (unstretched) : 90-98-106-112 cm /35½-38½-41¾-44 inches\r\nthe slipover may lose its strength easily with its rib parts.\r\nits length is easily adaptable too, explained in due time.\r\narmholes have a wide opening.\r\n\r\nmany thanks to my dear testers !",
   "pdf": {
     "filename": "7427897.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7427897.pdf",
-    "url": "https://pdf.ravelrycache.com/Tricodo/1998482/Herrade_slip_over.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480870&Signature=Fd1uTLbHi%2BNK%2FN%2FWW1pvkR4O5Mc%3D&key_expires=1768480870&key=V3HfIB5BR36lUIpDs7EHoQ",
+    "url": "https://pdf.ravelrycache.com/Tricodo/1998482/Herrade_slip_over.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770429067&Signature=al%2ByhTB1HPrY1ZL2YVzFbUNR4Fo%3D&key_expires=1770429067&key=UzczCBDjbB0rx-ZyXBLN6g",
     "size_bytes": 10436343
   }
 }

@@ -1,20 +1,20 @@
 {
   "id": 7388342,
-  "name": "Pebble Bonnet",
+  "name": "pebble bonnet",
   "permalink": "pebble-bonnet",
   "url": "https://www.ravelry.com/patterns/library/pebble-bonnet",
   "external_url": "",
-  "designer_name": "Earthernal AS",
-  "project_type": "Baby",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "earthernal as",
+  "project_type": "baby",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [],
   "stitches_used": [
-    "Stockinette stitch"
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -22,17 +22,18 @@
   ],
   "published": "2024/11/01",
   "sizes_available": "0 (3) 6 (9) 12 months",
-  "rating_average": 4.4,
-  "rating_count": 5,
+  "rating_average": 4.333333333333333,
+  "rating_count": 6,
   "difficulty_average": 2.0,
-  "favorites_count": 846,
-  "projects_count": 35,
+  "favorites_count": 896,
+  "projects_count": 39,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/108841/967545",
+  "notes": "this is an easy to make bonnet for sizes 0-12 months. pebble is the name of our free patterns. we also have patterns available for purchase.\r\n\r\nall you need is the pattern and about 50 grams of our yarn merino cuddle, or another type of rws certified wool. \r\n\r\nenjoy! ",
   "pdf": {
     "filename": "7388342.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7388342.pdf",
-    "url": "https://pdf.ravelrycache.com/Earthernal/2008431/Pebble_Bonnet.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482304&Signature=ogz4kPSeCNNbUqq8pwy1VpOv0MY%3D&key_expires=1768482304&key=iOwXat0D5KJ-c4JLC3b5wQ",
+    "url": "https://pdf.ravelrycache.com/Earthernal/2008431/Pebble_Bonnet.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770436622&Signature=F08LD0dOXKkSSE4WXRD8nJdfLIE%3D&key_expires=1770436622&key=OBXdxJg1LNpElZmGyo6_ew",
     "size_bytes": 316064
   }
 }

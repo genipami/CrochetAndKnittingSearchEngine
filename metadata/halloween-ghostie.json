@@ -1,28 +1,32 @@
 {
   "id": 7368352,
-  "name": "Halloween Ghostie",
+  "name": "halloween ghostie",
   "permalink": "halloween-ghostie",
   "url": "https://www.ravelry.com/patterns/library/halloween-ghostie",
   "external_url": "",
-  "designer_name": "Demi Tran",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Sport",
+  "designer_name": "demi tran",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Jeans (Джинс)",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 55.0
+    },
+    {
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 45.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Half double crochet (hdc)",
-    "Single crochet (sc)",
-    "Slip stitch (sl st)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "half double crochet (hdc)",
+    "single crochet (sc)",
+    "slip stitch (sl st)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     2.25
@@ -33,14 +37,15 @@
   "rating_average": 5.0,
   "rating_count": 3,
   "difficulty_average": 2.3333333333333335,
-  "favorites_count": 626,
+  "favorites_count": 635,
   "projects_count": 20,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/107205/951049",
+  "notes": "this is a **free pattern** of little ghostie. simple and easy to crochet, it's a **no-sew pattern**. i hope you enjoy making him.\r\n\r\nlanguage: english\r\n\r\n**size:** if you use yarn as me, the finish doll will be 12.5cm / 4.9inch tall (including hat).\r\n\r\n**materials and tools required:**\r\n- yarn: yarnart jeans (50g, 160m) or any sport weight yarn (you can use any yarn you want, just remember to adjust the size of the hook).\r\n- crochet hook size 2-2.5 mm\r\n- yarn needle\r\n- black embroidery thread\r\n- safety eyes 6.00 mm\r\n- stuffing\r\n- stitch marker\r\n\r\nbasic crochet skills required: the magic ring, the ultimate finish, chain, slip stitch, single crochet, half double crochet, double crochet, increase, decrease, back loop only, front loops only, and how to change color.\r\n\r\nshould you have any questions regarding this crochet pattern or need assistance, please feel free to contact us via the following channels:\r\n\r\n- direct message\r\n- instagram: demiwool\r\n\r\nif you are unable to find the files, kindly contact demiwool via direct message, providing your email address.\r\n\r\n*this pattern is for personal use only. please do not copy, re-selling, share, translate or distribute all or part of this pattern. you may sell finished products from this pattern, provided using the hashtag #demiwool to credit us as designer.*",
   "pdf": {
     "filename": "7368352.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7368352.pdf",
-    "url": "https://pdf.ravelrycache.com/demiwool/2064938/Halloween_Ghostie.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480752&Signature=lssK9bby72IsS2345l2Q%2FqIAv7A%3D&key_expires=1768480752&key=x127zlJfRx9KmmGcRrGKGQ",
+    "url": "https://pdf.ravelrycache.com/demiwool/2064938/Halloween_Ghostie.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770428403&Signature=01zJs74G7SixcpgA2qHVFygODEU%3D&key_expires=1770428403&key=Vy0lEZqBV9oWWrmjekUX2g",
     "size_bytes": 1797584
   }
 }

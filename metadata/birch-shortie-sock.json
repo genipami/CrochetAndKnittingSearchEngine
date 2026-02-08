@@ -1,52 +1,57 @@
 {
   "id": 1186003,
-  "name": "Birch Shortie Sock",
+  "name": "birch shortie sock",
   "permalink": "birch-shortie-sock",
   "url": "https://www.ravelry.com/patterns/library/birch-shortie-sock",
   "external_url": "",
-  "designer_name": "Rachel Nutting",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "rachel nutting",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Squish Wish Sock",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "cable",
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Cables",
-    "Charted",
-    "In the round",
-    "Kitchener stitch",
-    "Seamless",
-    "Short rows",
-    "Top-down",
-    "Written"
+    "cables",
+    "charted",
+    "in the round",
+    "kitchener stitch",
+    "seamless",
+    "short rows",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.25
   ],
   "published": "2021/10/01",
-  "sizes_available": "Adult Small, Medium, Large",
-  "rating_average": 4.739130434782608,
-  "rating_count": 69,
-  "difficulty_average": 2.90625,
-  "favorites_count": 4757,
-  "projects_count": 347,
+  "sizes_available": "adult small, medium, large",
+  "rating_average": 4.732394366197183,
+  "rating_count": 71,
+  "difficulty_average": 2.8923076923076922,
+  "favorites_count": 4833,
+  "projects_count": 354,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/33649/733283",
+  "notes": "> receive 20% off when you purchase 3 or\r\n> more patterns! no coupon code needed.\r\n\r\n**description**\r\nbirch shortie sock is a top-down sock featuring a slipped stitch and mock cable motif on the front, and a simple alternating slipped stitch heel flap. the pattern includes both written and charted instructions. this sock includes standard heel flap directions and a kitchener stitch toe. a quick and intriguing pattern that pairs well with all sock yarns. \r\n\r\n**finished sizes**\r\nadult (s, m, l)\r\nleg circumference - (7”, 8”, 9”)\r\n\r\n**yarn**\r\n1 skein fingering weight yarn of your choice.\r\n\r\n**gauge**\r\n32 stitches = 4”\r\n\r\n**needles**\r\nus 1 (2.25mm) or us 1.5 (2.5mm), whichever needed to obtain gauge.\r\n\r\n**notions**\r\n2 stitch markers\r\ntapestry needle\r\n\r\n#rachelnuttingknits",
   "pdf": {
     "filename": "1186003.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1186003.pdf",
-    "url": "https://pdf.ravelrycache.com/RachelNutting/1396624/Birch_Shortie_Sock_Pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479126&Signature=FU5eFmevwyFvN%2FMPfwQfb7tnNtQ%3D&key_expires=1768479126&key=64SEhVL260zqeoVTQOf0Vg",
+    "url": "https://pdf.ravelrycache.com/RachelNutting/1396624/Birch_Shortie_Sock_Pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770419142&Signature=VOs2sid5TGVHHDAlkqGX6BIgJwo%3D&key_expires=1770419142&key=TTh164vF1__KV6ZDQOKPWw",
     "size_bytes": 18451430
   }
 }

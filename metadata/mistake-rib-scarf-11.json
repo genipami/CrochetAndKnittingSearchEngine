@@ -1,41 +1,46 @@
 {
   "id": 535800,
-  "name": "Mistake Rib Scarf",
+  "name": "mistake rib scarf",
   "permalink": "mistake-rib-scarf-11",
   "url": "https://www.ravelry.com/patterns/library/mistake-rib-scarf-11",
   "external_url": "https://www.purlsoho.com/create/2014/11/17/mistake-rib-scarf-in-mulberry-merino/",
-  "designer_name": "Purl Soho",
-  "project_type": "Scarf",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Sport",
+  "designer_name": "purl soho",
+  "project_type": "scarf",
+  "fiber_art": "knitting",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Cashmere Merino Bloom",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 77.5
     },
     {
-      "fiber": "Mulberry Merino",
-      "pct": null
+      "fiber": "Cashmere goat (Cashmere)",
+      "pct": 12.5
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     4.0
   ],
   "published": "2014/11/01",
-  "sizes_available": "One Size  ",
-  "rating_average": 4.774468085106383,
-  "rating_count": 470,
-  "difficulty_average": 1.6145833333333333,
-  "favorites_count": 12224,
-  "projects_count": 1690,
+  "sizes_available": "one size  ",
+  "rating_average": 4.777070063694268,
+  "rating_count": 471,
+  "difficulty_average": 1.6141078838174274,
+  "favorites_count": 12318,
+  "projects_count": 1695,
   "free_ravelry_download": false,
-  "download_url": "https://www.purlsoho.com/create/2014/11/17/mistake-rib-scarf-in-mulberry-merino/"
+  "download_url": "https://www.purlsoho.com/create/2014/11/17/mistake-rib-scarf-in-mulberry-merino/",
+  "notes": "**in cashmere merino bloom**\r\nmaterials\r\n- 3 skeins of purl soho’s [cashmere merino bloom][1], 75% extra fine merino wool and 25% cashmere. each skein is 218 yards/ 100 grams; approximately 654 yards required. we used dove gray.\r\n- us 6 (4 mm) straight or circular [needles][2]\r\n- note: each skein yields approximately 20 inches of scarf, so with 4 skeins you could make an 80-inch scarf\r\n\r\ngauge\r\n27 stitches = 4 inches in pattern, unstretched\r\n\r\nsize\r\nfinished measurements (with rib unstretched): 10 inches wide x 60 inches long\r\n\r\n**in mulberry merino**\r\nmaterials\r\n- 4 skeins of purl soho’s [mulberry merino][3], 80% extra fine merino and 20% mulberry silk; or approximately 872 yards. we used the color black green.\r\n- us 6 (4 mm) circular or straight [needles][5]\r\n- note: each skein yields approximately 20 inches, so for a 60-inch scarf, you'd only need 3 skeins.\r\n\r\ngauge\r\n38 stitches = approximately 4 inches, rib unstretched\r\n\r\nsize\r\nfinished measurements (with rib unstretched): 7 inches x 70 inches\r\n\r\n\r\n  [1]: https://www.purlsoho.com/cashmere-merino-bloom.html\r\n  [2]: https://www.purlsoho.com/tools/knitting-needles.html\r\n  [3]: https://www.purlsoho.com/mulberry-merino\r\n  [4]: https://www.purlsoho.com/yarn/knitting-crochet.html?yarn_stitches_per_inch_filter=969\r\n  [5]: https://www.purlsoho.com/tools/knitting-needles.html"
 }

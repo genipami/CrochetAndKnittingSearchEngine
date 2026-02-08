@@ -1,51 +1,60 @@
 {
   "id": 533248,
-  "name": "Favorite Socks",
+  "name": "favorite socks",
   "permalink": "favorite-socks-2",
   "url": "https://www.ravelry.com/patterns/library/favorite-socks-2",
   "external_url": "",
-  "designer_name": "Kristin Lehrer",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "kristin lehrer",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Blitzed",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 51.7
     },
     {
-      "fiber": "Footsie",
-      "pct": null
+      "fiber": "Bluefaced Leicester (BFL) (Wool)",
+      "pct": 26.7
     },
     {
-      "fiber": "Lush",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 16.7
+    },
+    {
+      "fiber": "Cashmere goat (Cashmere)",
+      "pct": 3.3
+    },
+    {
+      "fiber": "Stellina (Other)",
+      "pct": 1.7
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch"
+    "single crochet (sc)",
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "In the round"
+    "in the round"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.5
   ],
   "published": "2014/11/01",
-  "sizes_available": "Adult Small (Medium, Large)",
-  "rating_average": 4.737024221453288,
-  "rating_count": 578,
-  "difficulty_average": 2.549348230912477,
-  "favorites_count": 9703,
-  "projects_count": 3541,
+  "sizes_available": "adult small (medium, large)",
+  "rating_average": 4.738382099827883,
+  "rating_count": 581,
+  "difficulty_average": 2.56007393715342,
+  "favorites_count": 9837,
+  "projects_count": 3578,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/11161/241583",
+  "notes": "just about every knitter you meet will have a go-to \"recipe\" for knitting plain and simple socks. \r\n\r\nwhile i love mixing things up, i always come back to knitting my socks cuff down, with a reinforced heel-flap and short row heel turn.\r\n\r\nif you're new to knitting socks, this can sound intimidating. fret not! i'm here to walk you through the process step-by-step. also, be sure to check out my accompanying video tutorial on youtube. \r\n\r\nafter knitting this pattern, i hope you'll come to love sock knitting or that it helps you discover your own favorite way of knitting socks! ",
   "pdf": {
     "filename": "533248.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\533248.pdf",
-    "url": "https://pdf.ravelrycache.com/voolenvine/1323032/Voolenvine_FavoriteSocks_2021_V2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480308&Signature=adc7xERGd7zSLGbpoK1t9t5pv5w%3D&key_expires=1768480308&key=ULROiUNshRclBIUTqlkusg",
+    "url": "https://pdf.ravelrycache.com/voolenvine/1323032/Voolenvine_FavoriteSocks_2021_V2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770425789&Signature=wXjIg9uc6KN0hdhBDe5efh7JyQI%3D&key_expires=1770425789&key=CaKMHoMkCX7HXGfWr2PIBQ",
     "size_bytes": 1614803
   }
 }

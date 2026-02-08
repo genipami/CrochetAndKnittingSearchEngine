@@ -1,25 +1,29 @@
 {
   "id": 1230702,
-  "name": "Celtic Song Scarf",
+  "name": "celtic song scarf",
   "permalink": "celtic-song-scarf",
   "url": "https://www.ravelry.com/patterns/library/celtic-song-scarf",
   "external_url": "https://www.fiberfluxblog.com/2022/03/celtic-song-scarf-free-crochet-pattern.html",
-  "designer_name": "Fiber Flux / Jennifer Dickerson",
-  "project_type": "Scarf",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "fiber flux / jennifer dickerson",
+  "project_type": "scarf",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Dusk",
-      "pct": null
+      "fiber": "Alpaca - Huacaya (Alpaca)",
+      "pct": 60.0
+    },
+    {
+      "fiber": "Alpaca - Suri (Alpaca)",
+      "pct": 40.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     5.5
@@ -30,8 +34,9 @@
   "rating_average": 4.961538461538462,
   "rating_count": 26,
   "difficulty_average": 1.7083333333333333,
-  "favorites_count": 1690,
-  "projects_count": 114,
+  "favorites_count": 1740,
+  "projects_count": 115,
   "free_ravelry_download": false,
-  "download_url": "http://www.ravelry.com/purchase/fiber-flux/901825"
+  "download_url": "http://www.ravelry.com/purchase/fiber-flux/901825",
+  "notes": "the celtic song scarf is a relaxing, simple to crochet scarf.  it features a beautiful texture of a fun block texture that is made up of the most basic stitches.  this is a lovely project for whipping up a quick gift, donating to a favorite charity, or treating yourself too!\r\n\r\nneed a little help? there's a full video tutorial too!\r\n\r\n**this pattern is free on the blog (or you can purchase the ad-free pattern pdf here on ravelry!**"
 }

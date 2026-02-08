@@ -1,27 +1,35 @@
 {
   "id": 7408806,
-  "name": "Conjoined Sock Twins",
+  "name": "conjoined sock twins",
   "permalink": "conjoined-sock-twins",
   "url": "https://www.ravelry.com/patterns/library/conjoined-sock-twins",
   "external_url": "",
-  "designer_name": "Katherine Richmond",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "katherine richmond",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Signature 4 Ply Solids",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 37.5
     },
     {
-      "fiber": "Smashing Sock",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 20.0
+    },
+    {
+      "fiber": "Bluefaced Leicester (BFL) (Wool)",
+      "pct": 17.5
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "Cables",
-    "Top-down"
+    "cables",
+    "top-down"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -30,17 +38,18 @@
   ],
   "published": "2025/02/01",
   "sizes_available": "64, 68, 72 stitches",
-  "rating_average": 4.311764705882353,
+  "rating_average": 4.305882352941176,
   "rating_count": 340,
   "difficulty_average": 5.280757097791798,
-  "favorites_count": 1403,
+  "favorites_count": 1448,
   "projects_count": 1860,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/110173/1004045",
+  "notes": "sock madness 19 qualifier\r\n\r\nthis sock is an exercise in both toe up and top down sock knitting. \r\ncan a toe-up toe and heel be reversed to make a top-down sock that looks almost identical? better yet, can it be knit in one piece until the end?\r\nthis pair of socks is knit in one piece from the toe of the first up to the cuﬀ, a stitch is marked to cut later and then the “second” sock is knit down to the toe. after grafting the second toe, the socks are separated and a decorative bind oﬀ is used on both socks at the cuﬀ.\r\n\r\n",
   "pdf": {
     "filename": "7408806.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7408806.pdf",
-    "url": "https://pdf.ravelrycache.com/RinaRadish/2011821/ConjoinedSockTwins_v6.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479663&Signature=Jshomogvor%2FSlzsBs1vTH%2BwloiY%3D&key_expires=1768479663&key=YMka4welQqrZMLlG1wEU3w",
+    "url": "https://pdf.ravelrycache.com/RinaRadish/2011821/ConjoinedSockTwins_v6.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770422170&Signature=AnzAqgXWRTniCJSYzewqoibtQU4%3D&key_expires=1770422170&key=Dtq1zYWahDKeBiOAxC7f_g",
     "size_bytes": 890290
   }
 }

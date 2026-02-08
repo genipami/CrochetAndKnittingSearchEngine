@@ -1,41 +1,46 @@
 {
   "id": 7494005,
-  "name": "Chunky Spiral Hat",
+  "name": "chunky spiral hat",
   "permalink": "chunky-spiral-hat",
   "url": "https://www.ravelry.com/patterns/library/chunky-spiral-hat",
   "external_url": "",
-  "designer_name": "Margaret Gi",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "margaret gi",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Wool Ease Thick & Quick",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "In the round",
-    "Seamless"
+    "in the round",
+    "seamless"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     9.0
   ],
   "published": "2026/01/01",
-  "sizes_available": "Adult",
+  "sizes_available": "adult",
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 46,
-  "projects_count": 4,
+  "favorites_count": 55,
+  "projects_count": 7,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/115611/1049508",
+  "notes": "this is a spiral rib hat knitted in the round with super chunky yarn. knits quickly. uses knit stitch, purl stitch, purl 2 together, and one m1 (make 1) stitch. ",
   "pdf": {
     "filename": "7494005.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7494005.pdf",
-    "url": "https://pdf.ravelrycache.com/margaretgi/2117231/chucky-spiral-knit-hat-in-the-round.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479525&Signature=A9woMl5nLkXcCdZeLsbiKYsGiXI%3D&key_expires=1768479525&key=d_F-mYDBvGyrFk5taHqfJw",
+    "url": "https://pdf.ravelrycache.com/margaretgi/2117231/chucky-spiral-knit-hat-in-the-round.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770421526&Signature=U0S8vykRy6%2F1RgimwjAbVNUQKFc%3D&key_expires=1770421526&key=iyzGhHp44LWY6sti5llMcg",
     "size_bytes": 2953356
   }
 }

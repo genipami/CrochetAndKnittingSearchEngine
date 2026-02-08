@@ -1,43 +1,44 @@
 {
   "id": 1032670,
-  "name": "Laid Edges",
+  "name": "laid edges",
   "permalink": "laid-edges",
   "url": "https://www.ravelry.com/patterns/library/laid-edges",
   "external_url": "",
-  "designer_name": "Kellie Macpherson",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "kellie macpherson",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Fleece Bluefaced Leicester DK",
-      "pct": null
+      "fiber": "Bluefaced Leicester (BFL) (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Stockinette stitch"
+    "cable",
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "Cables"
+    "cables"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.0
   ],
   "published": "2020/05/01",
-  "sizes_available": "Foot circumference 8, 8.5, 9 inches ",
-  "rating_average": 4.828193832599119,
-  "rating_count": 227,
-  "difficulty_average": 2.7914691943127963,
-  "favorites_count": 15198,
-  "projects_count": 950,
+  "sizes_available": "foot circumference 8, 8.5, 9 inches ",
+  "rating_average": 4.819742489270387,
+  "rating_count": 233,
+  "difficulty_average": 2.80184331797235,
+  "favorites_count": 15391,
+  "projects_count": 972,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/81885/610952",
+  "notes": " a simple cable motif down the sides of a stockinette sock \r\n\r\n\r\nunable to give pattern support.\r\n\r\n",
   "pdf": {
     "filename": "1032670.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1032670.pdf",
-    "url": "https://pdf.ravelrycache.com/Kelliekels/1263411/LAID_EDGES_updated.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481319&Signature=451mK46lRxqLIsqrvvwjgzkjA3o%3D&key_expires=1768481319&key=CX0IpL-9h4qSu9ebJ0MoGQ",
+    "url": "https://pdf.ravelrycache.com/Kelliekels/1263411/LAID_EDGES_updated.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770431342&Signature=ue%2BYMeonpvWyqkhZOLpJaer0QRA%3D&key_expires=1770431342&key=ah-J34L0OirlNdU-hxHjOQ",
     "size_bytes": 310843
   }
 }

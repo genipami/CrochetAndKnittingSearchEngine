@@ -1,23 +1,31 @@
 {
   "id": 1162256,
-  "name": "Sommer Sneaker Socken",
+  "name": "sommer sneaker socken",
   "permalink": "sommer-sneaker-socken",
   "url": "https://www.ravelry.com/patterns/library/sommer-sneaker-socken",
   "external_url": "https://www.tanjasteinbach.de/dankeschoen-sommer-sneaker-socken/",
-  "designer_name": "Tanja Steinbach",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "tanja steinbach",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Meilenweit Cashmere",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 70.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
+    },
+    {
+      "fiber": "Cashmere goat (Cashmere)",
+      "pct": 5.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [],
@@ -29,8 +37,9 @@
   "rating_average": 4.555555555555555,
   "rating_count": 36,
   "difficulty_average": 4.176470588235294,
-  "favorites_count": 4094,
-  "projects_count": 222,
+  "favorites_count": 4125,
+  "projects_count": 223,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/30321/723802"
+  "download_url": "http://www.ravelry.com/dls/30321/723802",
+  "notes": "ein kleines dankeschön für euch: die sommer-sneaker -sockenanleitung!\r\n\r\n*a big thank you to lana grossa: the instructions are now also available in english & danish!*\r\n\r\n\r\ndie anleitung setzt grundkenntnisse im socken stricken voraus und ist für die größen 36/37 und 38/39 beschrieben, aber mit etwas erfahrung und einer größentabelle auch einfach in andere größen umzurechnen!\r\n\r\nfür größen bis 36/37 reichen 50g 4-fädiges sockengarn aus, ab 38/39 ist ein 2. knäuel notwendig.\r\n\r\n"
 }

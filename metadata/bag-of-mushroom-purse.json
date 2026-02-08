@@ -1,39 +1,40 @@
 {
   "id": 7328561,
-  "name": "Bag of Mushroom Purse",
+  "name": "bag of mushroom purse",
   "permalink": "bag-of-mushroom-purse",
   "url": "https://www.ravelry.com/patterns/library/bag-of-mushroom-purse",
   "external_url": "https://www.yarnspirations.com/products/Bernat-Bag-of-Mushroom-Crochet-Purse?utm_source=ravelry&utm_medium=referral",
-  "designer_name": "Yarnspirations Design Studio",
-  "project_type": "Bag",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Bulky",
+  "designer_name": "yarnspirations design studio",
+  "project_type": "bag",
+  "fiber_art": "crochet",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Blanket",
-      "pct": null
+      "fiber": "Polyester (Polyester)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamed",
-    "Written"
+    "in the round",
+    "seamed",
+    "written"
   ],
   "hook_sizes_mm": [
     6.5
   ],
   "needle_sizes_mm": [],
   "published": "2024/02/01",
-  "sizes_available": "Approx 8\" tall x 6\" wide",
-  "rating_average": 4.909090909090909,
-  "rating_count": 11,
-  "difficulty_average": 2.7777777777777777,
-  "favorites_count": 2740,
-  "projects_count": 37,
+  "sizes_available": "approx 8\" tall x 6\" wide",
+  "rating_average": 4.916666666666667,
+  "rating_count": 12,
+  "difficulty_average": 2.9,
+  "favorites_count": 2861,
+  "projects_count": 38,
   "free_ravelry_download": false,
-  "download_url": "https://cdn.shopify.com/s/files/1/0711/5132/1403/files/BRC0103-036213M.pdf"
+  "download_url": "https://cdn.shopify.com/s/files/1/0711/5132/1403/files/BRC0103-036213M.pdf",
+  "notes": "there's so \"mush room\" in this little crochet bag that you'll be able to carry around all the essentials for an entertaining day at the fair. stitched in cushy bernat blanket, this fun project is full of techniques to keep you engaged, including single crochet, color changes, embroidery, chain stitch, sewing/assembly, single crochet in back loop only, and more. pick your colors and flaunt your true colors for all to see!\r\n\r\nmaterials\r\nbernat® blanket™ (10.5 oz/300g; 220 yds /201 m)\r\ncontrast a vintage white (10006) 1 ball or 150 yds/137 m\r\ncontrast b crimson (10786) 1 ball or 70 yds/64 m\r\n\r\nmeasurements\r\napprox 8\" [20.5 cm] tall x 6\" [15 cm] wide."
 }

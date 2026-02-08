@@ -1,29 +1,29 @@
 {
   "id": 7349809,
-  "name": "Clippy Amigurumi",
+  "name": "clippy amigurumi",
   "permalink": "clippy-amigurumi",
   "url": "https://www.ravelry.com/patterns/library/clippy-amigurumi",
   "external_url": "https://www.craftyiscool.com/post/crochet-clippy",
-  "designer_name": "Allison Hoffman",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "allison hoffman",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "My Ami",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 77.5
     },
     {
-      "fiber": "Super Saver (solids)",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 22.5
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)"
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     3.25
@@ -34,8 +34,9 @@
   "rating_average": 4.666666666666667,
   "rating_count": 3,
   "difficulty_average": 3.5,
-  "favorites_count": 668,
+  "favorites_count": 691,
   "projects_count": 12,
   "free_ravelry_download": false,
-  "download_url": "https://www.craftyiscool.com/post/crochet-clippy"
+  "download_url": "https://www.craftyiscool.com/post/crochet-clippy",
+  "notes": "here's a crochet clippy from microsoft word! i made this as fan art for a friend! make one for your favorite writer or tech nerd!\r\n\r\npattern is free at craftyiscool.com and uses easy to find supplies like 18mm eyes, stuffing, and heavier gauge wire (16 or bigger). \r\n\r\n"
 }

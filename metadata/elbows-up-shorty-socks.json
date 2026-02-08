@@ -1,49 +1,54 @@
 {
   "id": 7421376,
-  "name": "Elbows Up Shorty Socks",
+  "name": "elbows up shorty socks",
   "permalink": "elbows-up-shorty-socks",
   "url": "https://www.ravelry.com/patterns/library/elbows-up-shorty-socks",
   "external_url": "",
-  "designer_name": "SongsparrowKnits",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "songsparrowknits",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Stroll Fingering",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Kitchener stitch",
-    "Short rows",
-    "Stranded colorwork",
-    "Top-down",
-    "Written"
+    "charted",
+    "in the round",
+    "kitchener stitch",
+    "short rows",
+    "stranded colorwork",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.5
   ],
   "published": "2025/04/01",
-  "sizes_available": "XS (S) M (L) XL",
-  "rating_average": 4.777777777777778,
-  "rating_count": 9,
+  "sizes_available": "xs (s) m (l) xl",
+  "rating_average": 4.8,
+  "rating_count": 10,
   "difficulty_average": 3.7142857142857144,
-  "favorites_count": 794,
-  "projects_count": 27,
+  "favorites_count": 803,
+  "projects_count": 31,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/85992/993653",
+  "notes": "the elbows up shorty socks are worked top down from the cuff toward the toes, and use german short rows to shape the heels. the ankle design uses stranded colourwork follwing a charted pattern. \r\n\r\n**sizing:** \r\nsock circumference: xs (16cm) / s (18 cm) / m (20 cm) / l (22 cm) / xl (24 cm).\r\n\r\nthe socks have about 20% of positive ease. for a regular fit, choose the size with a circumference 2-3 cm smaller than the wearer's foot, and for a tighter fit, choose one size smaller.\r\n\r\n**yarn:**\r\nin the spirit of this pattern, we recommend supporting your favourite canadian yarn store, yarn producer, or independent yarn dyer if you are able. use any fingering weight, 80% superwash merino / 20% nylon yarn with a length to weight ratio of approximately 200 m / 50 g. \r\n\r\nfor sizes xs (s) m (l) xl you will need approximately: \r\nmain colour (white): 110 (145) 190 (250) 300 m\r\ncontrasting colour (red): 60 (80) 100 (135) 160 m\r\n\r\n**gauge:**\r\ngauge using 2.5 mm dpns: 32 sts and 40 rows in stockinette st over 10 cm both horizontally and vertically, knit in the round and blocked.\r\n\r\n**copyright:**\r\n*patterns and photos property of songsparrow knits and are downloaded under the agreement that no part of the written pattern, charts or photos will be distributed, copied in part or in whole, re-written, or sold without explicit written permission.\r\nfinished products created by you using the pattern may be sold, however, we ask that you give the pattern author credit.*\r\n\r\nthank you!",
   "pdf": {
     "filename": "7421376.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7421376.pdf",
-    "url": "https://pdf.ravelrycache.com/songsparrowknits/1987013/Elbows_Up_Shorty_Socks_ENG_DIGITAL_Correction_5Apr2025.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480075&Signature=ALn96mDDtr1Xb%2B%2B8sIWiIb6xkug%3D&key_expires=1768480075&key=kVLTzXK-mUNebdGmAFgTmA",
+    "url": "https://pdf.ravelrycache.com/songsparrowknits/1987013/Elbows_Up_Shorty_Socks_ENG_DIGITAL_Correction_5Apr2025.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770424809&Signature=aVMYuEqTk%2Bgy7gc5ON%2B06euXsCo%3D&key_expires=1770424809&key=CH6PFA83qNQJ_rKe-_8kOQ",
     "size_bytes": 7613666
   }
 }

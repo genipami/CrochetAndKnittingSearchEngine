@@ -1,38 +1,34 @@
 {
   "id": 7368408,
-  "name": "Give Me Stripes",
+  "name": "give me stripes",
   "permalink": "give-me-stripes",
   "url": "https://www.ravelry.com/patterns/library/give-me-stripes",
   "external_url": "",
-  "designer_name": "Shannon Larson",
-  "project_type": "Child",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "shannon larson",
+  "project_type": "child",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "220 Superwash®",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 66.7
     },
     {
-      "fiber": "Swish Worsted",
-      "pct": null
-    },
-    {
-      "fiber": "Woolstok Worsted",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 33.3
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Mosaic",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "mosaic",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -44,14 +40,15 @@
   "rating_average": 4.85,
   "rating_count": 20,
   "difficulty_average": 2.2,
-  "favorites_count": 1333,
-  "projects_count": 85,
+  "favorites_count": 1431,
+  "projects_count": 89,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/47301/951080",
+  "notes": "errata: smallest size had an incorrect cast on amount, updated pdf (and sent out updates), all should be good.\r\n\r\ndanish version found here: https://strikkeglad.dk/53078/giv-mig-striber/\r\n\r\ni designed this hat for my 3rd design in coordination with warm the line. this hat is knit in the round from the bottom up. the stripes are knit with a fun texture between each color. i designed this hat to use up those extra little bits of worsted weight yarn you might have in your stash. it is a great way to help warm the line this voting season.\r\n\r\ni knit the samples in both a non-superwash yarn and in superwash to show the difference in the yarns. also, when charity knitting it can be best to knit in washable yarn.\r\n\r\nthe non-superwash version was knit in size 3 with blue sky fibers woodstock worsted. 37g of ‘driftwood’ for mc. cc1 used 5.5g ‘rusted roof’, cc2 used 5.5g ‘thermal spring’, cc3 used 5.5g ‘midnight sea’.\r\n\r\nthe superwash version was knit in size 4 with cascade yarns 220 superwash 47g ‘jet’ for mc. cc colors used knit picks. cc1 used 7g ‘copper’ in swish, cc2 used 7g ‘pinecone heather’ in swish, cc3 used 7g ‘brass heather’ in wool of the andes superwash.\r\n\r\nsizes:\r\n\r\n1 (2, 3, 4, 5, 6)\r\n\r\nfinished measurements around body of hat:\r\n16.4 (17.7, 18.9, 20.2, 21.5, 22.7)”/41.7 (45, 48, 51.3, 54.6, 57.7)cm\r\n\r\nyou generally want to have a hat with 1-2”/2.5-5cm of negative ease. so, knit a size 1-2” smaller than your actual head size.",
   "pdf": {
     "filename": "7368408.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7368408.pdf",
-    "url": "https://pdf.ravelrycache.com/justlivin/1886051/Give_Me_Stripes_Hat_v2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480613&Signature=0ZbDZOBYnCqlazUBMQ0ELHMDj9g%3D&key_expires=1768480613&key=uKuRonos8jeVwNsvMsfAiQ",
+    "url": "https://pdf.ravelrycache.com/justlivin/1886051/Give_Me_Stripes_Hat_v2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770427530&Signature=VsfOTZdh6srKG222RdSvCb%2BP%2BCA%3D&key_expires=1770427530&key=Q6BwzaWCMu4tjMmnCsdG2Q",
     "size_bytes": 504474
   }
 }

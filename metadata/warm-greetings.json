@@ -1,28 +1,28 @@
 {
   "id": 1310030,
-  "name": "Warm Greetings",
+  "name": "warm greetings",
   "permalink": "warm-greetings",
   "url": "https://www.ravelry.com/patterns/library/warm-greetings",
   "external_url": "",
-  "designer_name": "Sung Hee Park",
-  "project_type": "Home",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "sung hee park",
+  "project_type": "home",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Cascade 220®",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "cable",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Cables",
-    "In the round",
-    "Written"
+    "cables",
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -33,14 +33,15 @@
   "rating_average": 4.666666666666667,
   "rating_count": 27,
   "difficulty_average": 2.36,
-  "favorites_count": 1940,
-  "projects_count": 108,
+  "favorites_count": 1974,
+  "projects_count": 111,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/65585/836076",
+  "notes": "**materials**\r\n\r\n* yarn – worsted weight yarn approx. 180 yards (165 m)\r\n\r\n* needles – us size 8 (5.0 mm) circular needle, not less than 40 cm long \r\n\r\n* notions – cable needle, six stitch markers, tapestry needle\r\n\r\n**gauge**\r\n\r\n20 stitches / 28 rows per 4 inches in stockinette stitch\r\n\r\n**finished measurements**\r\n\r\nthe cover will fit a hot water bottle with dimensions of about 7.5x13 inches (19x33 cm).\r\n\r\n*thank you for checking out and supporting my design! :)*\r\n",
   "pdf": {
     "filename": "1310030.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1310030.pdf",
-    "url": "https://pdf.ravelrycache.com/cowlandowl/1622091/Warm_Greetings.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484068&Signature=dpN2FgepOQNacivs2p5DOrITwi4%3D&key_expires=1768484068&key=dRe5wc7xLg4f1m9hyLxM6Q",
+    "url": "https://pdf.ravelrycache.com/cowlandowl/1622091/Warm_Greetings.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770446463&Signature=Dl3QovhdzFzME44byn0xS68tD6A%3D&key_expires=1770446463&key=938bDrcTsMRLG-1ojMAeZw",
     "size_bytes": 3327642
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": 7344653,
-  "name": "Weaving Spider",
+  "name": "weaving spider",
   "permalink": "weaving-spider",
   "url": "https://www.ravelry.com/patterns/library/weaving-spider",
   "external_url": "",
-  "designer_name": "Mojca Čepič",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "mojca čepič",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [],
   "stitches_used": [
-    "Cable",
-    "Treble crochet (tr)"
+    "cable",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Cables",
-    "Charted",
-    "Intarsia",
-    "Written"
+    "cables",
+    "charted",
+    "intarsia",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -25,18 +25,19 @@
     2.25
   ],
   "published": "2024/06/01",
-  "sizes_available": "S, M, L",
+  "sizes_available": "s, m, l",
   "rating_average": 4.0,
   "rating_count": 15,
   "difficulty_average": 5.8,
-  "favorites_count": 236,
+  "favorites_count": 242,
   "projects_count": 105,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/79376/952649",
+  "notes": "this pattern was motivated by two projects, the sweater for my partner with delicate twisted open cables (the cables, which span across three stitches, 1k, 1p, 1k, and the purl always remain behind the crossed knits, and the sock pattern from swc in 2023 called [kurt](/patterns/library/kurt-6). the twist to this pattern is that all cables are worked in one-stitch intarsia. \r\nthe socks are worked cuff down, with a triangular heel, and a somewhat non standard gusset. besides the one-stitch intarsia, other elements are simple knits, purls, increases and decreases. \r\n\r\nthe pattern was chosen for swc in 2024, for which i am extremely happy and proud.  \r\n\r\nas a newbie in patterns' world, testers had a lot of work with me, that is, with this pattern, and i sincerely hope that the pattern is now clear. many many thx to testers and readers for their efforts. \r\n",
   "pdf": {
     "filename": "7344653.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7344653.pdf",
-    "url": "https://pdf.ravelrycache.com/maramacko/1889921/Weaving_spider_socks_v4.0.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484096&Signature=00cQ%2FNSHNv5t5Mjx%2BoTz%2BRvLCMw%3D&key_expires=1768484096&key=nqRPKQzIMukj1OE6LJrH8Q",
+    "url": "https://pdf.ravelrycache.com/maramacko/1889921/Weaving_spider_socks_v4.0.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770446659&Signature=cNlLz12j9TOrBbs9AdPDb0XRqKQ%3D&key_expires=1770446659&key=C8svHBvZTeWY8YLNjIId5g",
     "size_bytes": 2645426
   }
 }

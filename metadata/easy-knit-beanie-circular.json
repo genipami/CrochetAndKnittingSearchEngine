@@ -1,47 +1,52 @@
 {
   "id": 1317704,
-  "name": "Easy Knit Beanie (Circular)",
+  "name": "easy knit beanie (circular)",
   "permalink": "easy-knit-beanie-circular",
   "url": "https://www.ravelry.com/patterns/library/easy-knit-beanie-circular",
   "external_url": "https://www.craftfix.com/circular-knit-hat-pattern/",
-  "designer_name": "Janine Dalton",
-  "project_type": "Child",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "janine dalton",
+  "project_type": "child",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "DROPS Nepal",
-      "pct": null
+      "fiber": "Polyester (Polyester)",
+      "pct": 33.3
     },
     {
-      "fiber": "Feels Like Butta",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 28.3
     },
     {
-      "fiber": "Wool Ease Solids, Heathers, Twists",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 26.7
+    },
+    {
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 11.7
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     5.0
   ],
   "published": "2023/03/01",
-  "sizes_available": "Newborn, 3-6 months, 6-12 months, toddler, child, teen, adult, XL",
+  "sizes_available": "newborn, 3-6 months, 6-12 months, toddler, child, teen, adult, xl",
   "rating_average": 5.0,
   "rating_count": 10,
   "difficulty_average": 1.625,
-  "favorites_count": 350,
-  "projects_count": 40,
+  "favorites_count": 371,
+  "projects_count": 45,
   "free_ravelry_download": false,
-  "download_url": "https://www.craftfix.com/circular-knit-hat-pattern/"
+  "download_url": "https://www.craftfix.com/circular-knit-hat-pattern/",
+  "notes": "easy knit pattern for a **fitted, slouchy or folded cuff beanie** hat. \r\nideal for beginners as a **first circular needle project** knitting in the round.\r\n\r\n**sizing & gauge**\r\n**8 sizes** now available from newborn **baby to xl** adult.\r\n\r\nwhile standard aran gauge of 18x24 is suggested, **exact gauge is not important** (especially vertical row gauge) as the hat is quite stretchy & you knit it to a certain length. the hat is your swatch, there’s no need for test squares. :smile: \r\n\r\n5mm is the pattern needle size as that's standard for aran yarn, but **i suggest using the needle size on the yarn ball band**. i used smaller 4.5mm needles to knit the lilac hat as that's the standard size for lion brand feels like butta.\r\n\r\n**yarn amounts**\r\nyou need 1 small 50g ball of yarn for baby sizes or 2 small balls/1 big ball to make a hat for a child or adult (with some leftover). "
 }

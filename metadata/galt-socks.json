@@ -1,70 +1,59 @@
 {
   "id": 1208550,
-  "name": "Galt Socks",
+  "name": "galt socks",
   "permalink": "galt-socks",
   "url": "https://www.ravelry.com/patterns/library/galt-socks",
   "external_url": "",
-  "designer_name": "Galt House of Yarn",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Any gauge - designed for any gauge",
+  "designer_name": "galt house of yarn",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "any gauge - designed for any gauge",
   "materials": [
     {
-      "fiber": "7 Veljestä",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 40.9
     },
     {
-      "fiber": "8-fädig 8-ply",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 30.0
     },
     {
-      "fiber": "Evolution Sock",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 22.9
     },
     {
-      "fiber": "Heritage®",
-      "pct": null
+      "fiber": "Bluefaced Leicester (BFL) (Wool)",
+      "pct": 4.4
     },
     {
-      "fiber": "Opal 6-fach / 6-ply",
-      "pct": null
-    },
-    {
-      "fiber": "Signature 4 ply Self Striping or Patterning",
-      "pct": null
-    },
-    {
-      "fiber": "Superba Alpaca Luxury Socks",
-      "pct": null
-    },
-    {
-      "fiber": "Superfine Fingering",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 1.9
     }
   ],
   "stitches_used": [
-    "Ribbing",
-    "Treble crochet (tr)"
+    "ribbing",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Top-down"
+    "bottom-up",
+    "top-down"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [],
   "published": "2022/01/01",
-  "sizes_available": "Baby, Child, Adult S, Adult L",
+  "sizes_available": "baby, child, adult s, adult l",
   "rating_average": 4.947368421052632,
   "rating_count": 19,
   "difficulty_average": 2.4285714285714284,
-  "favorites_count": 1020,
-  "projects_count": 146,
+  "favorites_count": 1024,
+  "projects_count": 147,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/63466/751225",
+  "notes": "basic socks for the whole family! this pattern, for a classic heel-flap sock, includes instructions for both top-down and bottom-up construction, in three yarn weights and four sizes. additional size adjustments are done by knitting the foot or ankle to desired length.\r\n\r\ninstructions are included for:\r\n\r\n* 3 yarn weights: fingering, dk, or worsted\r\n* 4 sizes: baby, child, adult s, or adult l sizes. \r\n* 2 construction directions: toe-up and top-down.\r\n\r\nlet this pattern be the basic blueprint for all your creative sock projects! make them short or tall, add ribbing, stitch patterns, stripes or colourwork, and fine tune the sizing for your own personal perfect socks. \r\n\r\n*join us for an online tutorial on facebook and instagram using the hastags #galtsockskal and #galtkal*",
   "pdf": {
     "filename": "1208550.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1208550.pdf",
-    "url": "https://pdf.ravelrycache.com/AnneVasic/1435289/Galt_Socks_v1.1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480553&Signature=F%2B%2F18vHRqATKrhXxqGx5vZjl6Dw%3D&key_expires=1768480553&key=6ftnI_MDjLfHSwbsLUb8wA",
+    "url": "https://pdf.ravelrycache.com/AnneVasic/1435289/Galt_Socks_v1.1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770427183&Signature=T9OLKCZ4wU9PxOvIqr2zsWEiycM%3D&key_expires=1770427183&key=VJIKfl1CRY-7xwGW311tMw",
     "size_bytes": 1004200
   }
 }

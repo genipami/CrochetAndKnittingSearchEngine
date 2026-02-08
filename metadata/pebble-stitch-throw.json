@@ -1,35 +1,36 @@
 {
   "id": 770729,
-  "name": "Pebble Stitch Throw",
+  "name": "pebble stitch throw",
   "permalink": "pebble-stitch-throw",
   "url": "https://www.ravelry.com/patterns/library/pebble-stitch-throw",
   "external_url": "https://www.yarnspirations.com/bernat-pebble-stitch-throw/BRC0502-007959M.html",
-  "designer_name": "Bernat Design Studio",
-  "project_type": "Blanket",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Bulky",
+  "designer_name": "bernat design studio",
+  "project_type": "blanket",
+  "fiber_art": "crochet",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Blanket Brights",
-      "pct": null
+      "fiber": "Polyester (Polyester)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "Seamless",
-    "Written"
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [
     9.0
   ],
   "needle_sizes_mm": [],
   "published": "2017/01/01",
-  "sizes_available": "Approx 46\" x 60\" [117 x 152.5 cm]",
+  "sizes_available": "approx 46\" x 60\" [117 x 152.5 cm]",
   "rating_average": 4.65,
   "rating_count": 20,
   "difficulty_average": 1.8333333333333333,
-  "favorites_count": 734,
+  "favorites_count": 741,
   "projects_count": 102,
   "free_ravelry_download": false,
-  "download_url": "https://www.yarnspirations.com/on/demandware.static/-/Sites-master-catalog-spinrite/default/dw6ad174f0/PDF/BRC0502-007959M.pdf"
+  "download_url": "https://www.yarnspirations.com/on/demandware.static/-/Sites-master-catalog-spinrite/default/dw6ad174f0/PDF/BRC0502-007959M.pdf",
+  "notes": ""
 }

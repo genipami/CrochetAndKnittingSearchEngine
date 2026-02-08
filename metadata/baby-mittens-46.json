@@ -1,30 +1,38 @@
 {
   "id": 1326053,
-  "name": "Baby mittens",
+  "name": "baby mittens",
   "permalink": "baby-mittens-46",
   "url": "https://www.ravelry.com/patterns/library/baby-mittens-46",
   "external_url": "https://www.ericaandeleanor.com/post/baby-mittens-by-priscillia-uloho",
-  "designer_name": "Priscillia Uloho",
-  "project_type": "Mittens/Gloves",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "priscillia uloho",
+  "project_type": "mittens/gloves",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Cashmere Merino Silk DK",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 50.0
     },
     {
-      "fiber": "ColourLab DK",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 37.5
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 10.0
+    },
+    {
+      "fiber": "Cashmere goat (Cashmere)",
+      "pct": 2.5
     }
   ],
   "stitches_used": [
-    "Stockinette stitch"
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Seamless"
+    "bottom-up",
+    "in the round",
+    "seamless"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -33,11 +41,12 @@
   ],
   "published": "2023/04/01",
   "sizes_available": "0-3 months, 3-6 months, 6-12 months, 1-2 years",
-  "rating_average": 4.823529411764706,
-  "rating_count": 51,
-  "difficulty_average": 1.8269230769230769,
-  "favorites_count": 5302,
-  "projects_count": 358,
+  "rating_average": 4.836363636363636,
+  "rating_count": 55,
+  "difficulty_average": 1.8363636363636364,
+  "favorites_count": 5540,
+  "projects_count": 374,
   "free_ravelry_download": false,
-  "download_url": "https://www.ericaandeleanor.com/post/baby-mittens-by-priscillia-uloho"
+  "download_url": "https://www.ericaandeleanor.com/post/baby-mittens-by-priscillia-uloho",
+  "notes": "this is a quick little project that can be made for a boy or girl. you can do whatever u want with the finished project but please don’t sell the pattern. thank you"
 }

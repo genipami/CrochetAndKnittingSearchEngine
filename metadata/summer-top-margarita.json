@@ -1,49 +1,50 @@
 {
   "id": 7355421,
-  "name": "summer top \"Margarita\"",
+  "name": "summer top \"margarita\"",
   "permalink": "summer-top-margarita",
   "url": "https://www.ravelry.com/patterns/library/summer-top-margarita",
   "external_url": "",
-  "designer_name": "Veronika Stoncus",
-  "project_type": "Tank/Camisole",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "veronika stoncus",
+  "project_type": "tank/camisole",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "DROPS Paris",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Single crochet (sc)",
-    "Stockinette stitch"
+    "cable",
+    "single crochet (sc)",
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "Blocking",
-    "Cables",
-    "Raglan",
-    "Seamless",
-    "Top-down",
-    "Written"
+    "blocking",
+    "cables",
+    "raglan",
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     5.0
   ],
   "published": "2024/07/01",
-  "sizes_available": "S (M) L (XL) XXL - eu size chart",
-  "rating_average": 4.513513513513513,
-  "rating_count": 37,
-  "difficulty_average": 2.264705882352941,
-  "favorites_count": 5620,
-  "projects_count": 186,
+  "sizes_available": "s (m) l (xl) xxl - eu size chart",
+  "rating_average": 4.526315789473684,
+  "rating_count": 38,
+  "difficulty_average": 2.257142857142857,
+  "favorites_count": 6055,
+  "projects_count": 187,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/82234/941292",
+  "notes": "sizes: s ( m ) l (xl) xxl \r\n\r\napproximate chest circumference (cm)\r\n82-88 cm ( 90-96 cm)  98-105cm (106-113 cm)  114-120 cm\r\n\r\napproximate chest circumference for a finished top (cm)\r\n92-94 cm (100-102cm) 106-108 cm (114-116 cm) 122-124 cm\r\n\r\nmaterials: approximate amount of yarn necessary:  \r\n(important: if the top is planned to be longer/shorter as shown in the table below, then the necessary amount of yarn can change.)\r\n\r\ndrops paris  (100% cotton  ; 50g/75m) \r\ndmc amie.   (94% cotton/6% polyamide ; 50g/115m)\r\nlang yarns lino  (100%  linen ; 50g/110m)\r\nscheepjes cahlista (100% cotton ; 50g/85m)\r\nor any other yarn with similar characteristics \r\n \r\n200 (250) 300 (350) 400 g \r\n\r\nmy original yarn was in a cone (code 1400550) from shop woolyyarn.com\r\n\r\nstich markers : 4 \r\n\r\nneedles: circular needles nr. 5  - i recommend using cord cable\r\n lengths 40 cm and  80/100 cm\r\n\r\nknitting tension: \r\ngauge : 16 stitches x 24 rows (10x10 cm) - after wet blocking (washing, drying on flat surface, shaping) \r\nthe sample is knitted in stockinette stitch (knit 1 row, purl 1 row)\r\n\r\nthe piece is worked top down with shoulder raglan technique. positive ease of the top approx. 6-8 cm.",
   "pdf": {
     "filename": "7355421.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7355421.pdf",
-    "url": "https://pdf.ravelrycache.com/stoncusknit/1863568/Margarita_top_eng.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483444&Signature=j1b4Db3bZIHu5x%2B1jWsC5ptiT30%3D&key_expires=1768483444&key=HGO4smGEAx1IsUXyqzX_1A",
+    "url": "https://pdf.ravelrycache.com/stoncusknit/1863568/Margarita_top_eng.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770442948&Signature=VsEPC4EJKf9%2FH9YCw3%2BB7%2FDuubQ%3D&key_expires=1770442948&key=7WpzCXoYYqbCJZVL8IcCrQ",
     "size_bytes": 2349040
   }
 }

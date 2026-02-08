@@ -1,43 +1,48 @@
 {
   "id": 1263617,
-  "name": "Quinn Blanket",
+  "name": "quinn blanket",
   "permalink": "quinn-blanket-2",
   "url": "https://www.ravelry.com/patterns/library/quinn-blanket-2",
   "external_url": "http://tlycblog.com/quinn-blanket-a-free-crochet-patchwork-baby-blanket-pattern",
-  "designer_name": "Toni Lipsey",
-  "project_type": "Blanket",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "toni lipsey",
+  "project_type": "blanket",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "CotLin",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 70.0
+    },
+    {
+      "fiber": "Flax (Linen)",
+      "pct": 30.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Bottom-up",
-    "Join-as-you-go",
-    "Modular",
-    "Seamless",
-    "Written"
+    "blocking",
+    "bottom-up",
+    "join-as-you-go",
+    "modular",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [
     5.0
   ],
   "needle_sizes_mm": [],
   "published": "2022/08/01",
-  "sizes_available": "One Size - 38\" x 32\"",
+  "sizes_available": "one size - 38\" x 32\"",
   "rating_average": 4.7272727272727275,
   "rating_count": 11,
   "difficulty_average": 2.7,
-  "favorites_count": 863,
-  "projects_count": 44,
+  "favorites_count": 873,
+  "projects_count": 45,
   "free_ravelry_download": false,
-  "download_url": "http://www.ravelry.com/purchase/tl-yarn-crafts-designs/797616"
+  "download_url": "http://www.ravelry.com/purchase/tl-yarn-crafts-designs/797616",
+  "notes": "**ready to win the baby shower? try this free pattern for a beginner-friendly crochet baby blanket!** the quinn blanket is constructed using a unique join-as-you-go method for double crochet stitches. build your blanket with a planned color palette or try a little stash busting for a truly special afghan. \r\n\r\n**materials**\r\n-1225 yards dk weight yarn, separated over 6 colors. \r\n-5mm crochet hook\r\n-scissors\r\n-tapestry needle\r\n-steam blocking supplies\r\n\r\n**techniques**\r\n-double crochet join as you go\r\n-picking up stitches\r\n-color changes\r\n\r\n**measurements**\r\none size, easily adjustable\r\n\r\nfind the quinn blanket free [here][1]!\r\n\r\n// buy more, save more //\r\nuse these codes to save when you buy multiple patterns:\r\n-’saveon3’ to save 10% off 3 patterns\r\n-’saveon5’ to save 15% off 5 patterns\r\n-’saveon8’ to save 20% off 8 patterns\r\nadd all patterns to cart for discount. limit one use per purchase.\r\n\r\n\r\n  [1]: http://tlycblog.com/quinn-blanket-a-free-crochet-patchwork-baby-blanket-pattern"
 }

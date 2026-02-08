@@ -1,49 +1,46 @@
 {
   "id": 1114265,
-  "name": "Rustic Little Heart",
+  "name": "rustic little heart",
   "permalink": "rustic-little-heart",
   "url": "https://www.ravelry.com/patterns/library/rustic-little-heart",
   "external_url": "",
-  "designer_name": "Heidi Kirrmaier",
-  "project_type": "Home",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "heidi kirrmaier",
+  "project_type": "home",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Heritage 2 Ply",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 50.0
     },
     {
-      "fiber": "Mule Spinner 2-Ply 100% Wool",
-      "pct": null
+      "fiber": "Targhee-Columbia (Wool)",
+      "pct": 25.0
     },
     {
-      "fiber": "Regal 2 Ply",
-      "pct": null
-    },
-    {
-      "fiber": "Shelter",
-      "pct": null
+      "fiber": "Rambouillet (Wool)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [],
   "published": "2021/02/01",
-  "sizes_available": "Approx. 10 cm (4 inches)",
-  "rating_average": 4.953488372093023,
-  "rating_count": 86,
-  "difficulty_average": 1.8974358974358974,
-  "favorites_count": 6372,
-  "projects_count": 341,
+  "sizes_available": "approx. 10 cm (4 inches)",
+  "rating_average": 4.954022988505747,
+  "rating_count": 87,
+  "difficulty_average": 1.8734177215189873,
+  "favorites_count": 6414,
+  "projects_count": 346,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/3578/677036"
+  "download_url": "http://www.ravelry.com/dls/3578/677036",
+  "notes": "happy valentine's day, or any day!\r\n\r\nthis little ornament uses about 15 m or yards of worsted weight yarn.  any other yarn weight may be used, but may affect resulting size. \r\n\r\nit is knit from the bottom point up.  once the center diamond is complete, a semi circle is worked on each side of the top to complete the shape.\r\n\r\nmerci [laurence][1] for the french translation. \r\n\r\nenjoy!\r\n\r\n\r\n  [1]: laurence"
 }

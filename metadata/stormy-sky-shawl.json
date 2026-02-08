@@ -1,45 +1,50 @@
 {
   "id": 733011,
-  "name": "Stormy Sky Shawl",
+  "name": "stormy sky shawl",
   "permalink": "stormy-sky-shawl",
   "url": "https://www.ravelry.com/patterns/library/stormy-sky-shawl",
   "external_url": "https://lifeiscozy.com/stormy-sky-shawl/",
-  "designer_name": "Ksenia Naidyon",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "ksenia naidyon",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Mechita",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 80.0
     },
     {
-      "fiber": "Sulka Legato",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 10.0
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Lace",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "lace",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Lace",
-    "Seamless",
-    "Written"
+    "lace",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     5.5
   ],
   "published": "2017/03/01",
-  "sizes_available": "Universal",
-  "rating_average": 4.739750445632799,
-  "rating_count": 1122,
-  "difficulty_average": 2.5237226277372264,
-  "favorites_count": 43741,
-  "projects_count": 4254,
+  "sizes_available": "universal",
+  "rating_average": 4.740017746228927,
+  "rating_count": 1127,
+  "difficulty_average": 2.5217785843920146,
+  "favorites_count": 43881,
+  "projects_count": 4265,
   "free_ravelry_download": false,
-  "download_url": "https://lifeiscozy.com/stormy-sky-shawl/"
+  "download_url": "https://lifeiscozy.com/stormy-sky-shawl/",
+  "notes": "stormy sky is a lightweight asymmetrical shawl. knit from the corner in a shape of a skewed triangle, it makes a great and fast project for that **one very special skein of yarn**. alternation of sections creates nice texture and is rather easy to memorize. simple lace highlights the color changes in variegated yarn, but does not overspice it. tassels can be added to make corners look more polished.\r\n \r\nthis pattern can be used as a base for experiments, as neither yarn weight nor gauge is critical. the number of section repeats can be adjusted as well, depending on the desired size of the finished shawl.\r\n\r\na crochet version of this shawl is now available [here][1]. it's also free!\r\nthis pattern is offered for free. if you feel like saying “thank you” to the designer and have the means, consider buying me a coffee [here][2].\r\n\r\nsample yarn:\r\n- yellow version - one skein of mirasol yarns sulka legato in mustard;\r\n- dark version - one skein of malabrigo mechita in colorway storm;\r\n- as the yardage of mirasol for the same 3.5oz/100g is larger, the second shawl came out a bit longer.\r\n\r\n  [2]: https://ko-fi.com/lifeiscozy\r\n\r\n  [1]: https://www.ravelry.com/patterns/library/stormy-sky-shawl-crochet"
 }

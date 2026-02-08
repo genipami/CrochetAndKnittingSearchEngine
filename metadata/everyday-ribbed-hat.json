@@ -1,50 +1,56 @@
 {
   "id": 7312417,
-  "name": "Everyday Ribbed Hat",
+  "name": "everyday ribbed hat",
   "permalink": "everyday-ribbed-hat",
   "url": "https://www.ravelry.com/patterns/library/everyday-ribbed-hat",
   "external_url": "",
-  "designer_name": "Christie Archer",
-  "project_type": "Child",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "christie archer",
+  "project_type": "child",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Aloft",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 50.0
     },
     {
-      "fiber": "Palette",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 36.0
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 14.0
     }
   ],
   "stitches_used": [
     "1x1 rib",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.5
   ],
   "published": "2024/01/01",
-  "sizes_available": "XS (toddler) S (kid) M (adult small) L (adult medium) XL (adult large)",
-  "rating_average": 4.916666666666667,
-  "rating_count": 12,
-  "difficulty_average": 1.8333333333333333,
-  "favorites_count": 921,
-  "projects_count": 59,
+  "sizes_available": "xs (toddler) s (kid) m (adult small) l (adult medium) xl (adult large)",
+  "rating_average": 4.923076923076923,
+  "rating_count": 13,
+  "difficulty_average": 1.8461538461538463,
+  "favorites_count": 948,
+  "projects_count": 64,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/88293/907417",
+  "notes": "stay warm and stylish with the luxurious everyday ribbed hat. this chic accessory is crafted from the bottom up in a simple yet elegant 1x1 rib pattern, making it a quick and enjoyable project suitable for knitters of all skill levels.\r\n\r\nthe real magic happens at the crown, where the stitches swirl together to create a spectacular and eye-catching design. it's a finishing touch that adds flair to this classic beanie.\r\n\r\ni've carefully chosen knit picks palette & aloft yarns for this project. when held together, they produce a super-soft fabric that feels like a dream against your skin. the combination of these yarns not only enhances the texture but also provides warmth without sacrificing style.\r\n\r\nwhat sets this pattern apart is the versatility it offers. with fingering & mohair held together, your possibilities are endless. mix and match to create a beanie that complements your unique style or make personalized gifts for your loved ones.\r\n\r\n**materials:**\r\n- knit picks palette yarn\r\n- knit picks aloft yarn\r\n- circular knitting needles\r\n- stitch markers\r\n- yarn needle\r\n\r\n**skill level:**\r\neasy\r\n\r\n**size:**\r\nxs (toddler) s (kid) m (adult small) l (adult medium) xl (adult large)\r\n\r\nembrace the joy of knitting with the everyday ribbed hat pattern and elevate your winter wardrobe.\r\n\r\nhappy knitting! \r\n\r\njoin my newsletter for early access and subscriber only discounts.\r\nhttps://preview.mailerlite.io/preview/2058148/sites/177345066387375968/puputs ",
   "pdf": {
     "filename": "7312417.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7312417.pdf",
-    "url": "https://pdf.ravelrycache.com/ChristieArcher/1783415/Everyday_Ribbed_Hat_-_CAD.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480191&Signature=UfiVCGoWofg3JCp8iPIS4DgmFg4%3D&key_expires=1768480191&key=wju4GqQg8cBFR9IWoKC0rA",
+    "url": "https://pdf.ravelrycache.com/ChristieArcher/1783415/Everyday_Ribbed_Hat_-_CAD.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770425338&Signature=46MWS7%2BjJgQ3%2Beno1u57NaYCzu0%3D&key_expires=1770425338&key=S9-e8JoHSFYEQ9_GVHWx_Q",
     "size_bytes": 19327197
   }
 }

@@ -1,27 +1,35 @@
 {
   "id": 7474393,
-  "name": "Journey Through Time Cowl",
+  "name": "journey through time cowl",
   "permalink": "journey-through-time-cowl",
   "url": "https://www.ravelry.com/patterns/library/journey-through-time-cowl",
   "external_url": "https://www.knitpicks.com/journey-through-time-cowl/p/N9038",
-  "designer_name": "Manisha Jeffrey",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "manisha jeffrey",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Wonderfluff",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 70.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 23.0
+    },
+    {
+      "fiber": "Merino (Merino)",
+      "pct": 7.0
     }
   ],
   "stitches_used": [
-    "Seed stitch",
-    "Treble crochet (tr)"
+    "seed stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless",
-    "Written"
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -29,11 +37,12 @@
   ],
   "published": "2025/10/01",
   "sizes_available": "24” circumference x 11.5” height",
-  "rating_average": 4.7,
-  "rating_count": 10,
-  "difficulty_average": 1.6666666666666667,
-  "favorites_count": 237,
-  "projects_count": 38,
+  "rating_average": 4.75,
+  "rating_count": 12,
+  "difficulty_average": 1.6363636363636365,
+  "favorites_count": 262,
+  "projects_count": 44,
   "free_ravelry_download": false,
-  "download_url": "https://www.knitpicks.com/journey-through-time-cowl/p/N9038"
+  "download_url": "https://www.knitpicks.com/journey-through-time-cowl/p/N9038",
+  "notes": "a journey through time can be represented as an abstract concept by diagonal lines leading to the past or the future. this is the pattern used in this cowl, with each step across its incline representing a leap through the centuries.\r\n\r\nthe journey through time cowl is a reversible and beginner friendly project that features a textured seed stitch border on both edges to maintain a flat base while the main body of the cowl incorporates the steps stitch pattern to symbolize the passage of time. crafted with wonderfluff yarn, this project provides a luxurious, cozy feel and essential warmth."
 }

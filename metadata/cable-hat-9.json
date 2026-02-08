@@ -1,28 +1,28 @@
 {
   "id": 306421,
-  "name": "Cable Hat",
+  "name": "cable hat",
   "permalink": "cable-hat-9",
   "url": "https://www.ravelry.com/patterns/library/cable-hat-9",
   "external_url": "",
-  "designer_name": "Dora Stephensen",
-  "project_type": "Child",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "dora stephensen",
+  "project_type": "child",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Cascade 220®",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Cable"
+    "cable"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Cables",
-    "Charted",
-    "In the round",
-    "Seamless"
+    "bottom-up",
+    "cables",
+    "charted",
+    "in the round",
+    "seamless"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -30,12 +30,13 @@
     4.5
   ],
   "published": "2012/03/01",
-  "sizes_available": "Baby, Child, Adult",
-  "rating_average": 4.725862068965517,
-  "rating_count": 580,
-  "difficulty_average": 2.8,
-  "favorites_count": 16334,
-  "projects_count": 2146,
+  "sizes_available": "baby, child, adult",
+  "rating_average": 4.725085910652921,
+  "rating_count": 582,
+  "difficulty_average": 2.800699300699301,
+  "favorites_count": 16358,
+  "projects_count": 2155,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/15828/96058"
+  "download_url": "http://www.ravelry.com/dls/15828/96058",
+  "notes": "february 2015:\r\nthis popular pattern has been improved in where the rib meets the cables.\r\n\r\nthe pom pom shown in photos is a raccoon faux fur pom pom purchased at handprjón hafnarfirði"
 }

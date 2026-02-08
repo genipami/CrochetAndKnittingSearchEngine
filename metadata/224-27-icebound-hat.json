@@ -1,41 +1,42 @@
 {
   "id": 1182352,
-  "name": "224-27 Icebound Hat",
+  "name": "224-27 icebound hat",
   "permalink": "224-27-icebound-hat",
   "url": "https://www.ravelry.com/patterns/library/224-27-icebound-hat",
   "external_url": "https://www.garnstudio.com/pattern.php?id=10535&cid=19",
-  "designer_name": "DROPS design",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "drops design",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "DROPS Alaska",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Seamed",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "seamed",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     5.0
   ],
   "published": "2021/10/01",
-  "sizes_available": " S/M – L/XL",
-  "rating_average": 4.708333333333333,
-  "rating_count": 24,
-  "difficulty_average": 1.8695652173913044,
-  "favorites_count": 366,
-  "projects_count": 90,
+  "sizes_available": " s/m – l/xl",
+  "rating_average": 4.653846153846154,
+  "rating_count": 26,
+  "difficulty_average": 1.84,
+  "favorites_count": 374,
+  "projects_count": 94,
   "free_ravelry_download": false,
-  "download_url": "https://www.garnstudio.com/pattern.php?id=10535&cid=19"
+  "download_url": "https://www.garnstudio.com/pattern.php?id=10535&cid=19",
+  "notes": "**knitted hipster-hat for men in drops alaska.**\r\n~~~~~~~~~~~~~~~~~~~~~~~~\r\n\r\n\r\ndrops design: pattern no x-458\r\nyarn group c or a + a\r\n\r\n-------------------------------------------------------\r\n\r\n**sizes**:\r\ns/m - l/xl\r\nfits head-size: 57/59 - 59/62 cm\r\n\r\n**materials**:\r\ndrops alaska from garnstudio (belongs to yarn group c)\r\n100-100 g colour 37, dark blue\r\n\r\nneedles:\r\ndrops circular needle size 5 mm: length 40 cm.\r\ndrops double pointed needles size 5 mm.\r\nthe technique magic loop can be used – you then only need circular needle of 80 cm.\r\n\r\n**knitting tension**:\r\n17 stitches in width and 22 rows in height with stocking stitch = 10 x 10 cm.\r\nnote: needle size is only a guide. if you get too many stitches on 10 cm, change to a larger needle size. if you get too few stitches on 10 cm, change to a smaller needle size. "
 }

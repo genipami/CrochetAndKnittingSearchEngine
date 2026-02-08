@@ -1,24 +1,28 @@
 {
   "id": 291601,
-  "name": "Cozy Little Toes",
+  "name": "cozy little toes",
   "permalink": "cozy-little-toes",
   "url": "https://www.ravelry.com/patterns/library/cozy-little-toes",
   "external_url": "",
-  "designer_name": "Judy Kaethler",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "judy kaethler",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Adorn Sock",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Top-down"
+    "top-down"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -29,14 +33,15 @@
   "rating_average": 4.665957446808511,
   "rating_count": 470,
   "difficulty_average": 2.2144373673036095,
-  "favorites_count": 8686,
-  "projects_count": 2072,
+  "favorites_count": 8704,
+  "projects_count": 2074,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/16254/88507",
+  "notes": "these socks knit up in a wink and actually stay on teeny-tiny baby feet. \r\n\r\nsnug enough to be cozy, ribbed to make it easier to stretch over those wiggly baby feet, and a long fold-over cuff that stops them from sliding off. the toe shaping is wide to match the shape of real baby feet.  they are knit top-down.\r\n\r\nknit a few sets and make your favorite wee one’s feet very happy!\r\n\r\n(i will likely add a 6 month size when my little guy outgrows these ones)",
   "pdf": {
     "filename": "291601.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\291601.pdf",
-    "url": "https://pdf.ravelrycache.com/judyka/139932/Cozy_Little_Toes_v2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479730&Signature=gRb%2BNP%2FW5fv7ULr9Czq%2BPmAl8N4%3D&key_expires=1768479730&key=Cj6EbglbCJhlS-jpyJKsBQ",
+    "url": "https://pdf.ravelrycache.com/judyka/139932/Cozy_Little_Toes_v2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770422455&Signature=BVmT3V37Kw0ZtV2QKynAlJk60Ts%3D&key_expires=1770422455&key=-OD8o4jECBMFlAR-uOQMhw",
     "size_bytes": 409229
   }
 }

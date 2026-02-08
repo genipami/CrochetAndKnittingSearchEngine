@@ -1,26 +1,26 @@
 {
   "id": 879926,
-  "name": "Duke City Mitts",
+  "name": "duke city mitts",
   "permalink": "duke-city-mitts",
   "url": "https://www.ravelry.com/patterns/library/duke-city-mitts",
   "external_url": "",
-  "designer_name": "Dagmar Beinenz-Byrd",
-  "project_type": "Mittens/Gloves",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "dagmar beinenz-byrd",
+  "project_type": "mittens/gloves",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Sugarloaf",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Stockinette stitch"
+    "lace",
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "Lace",
-    "Written"
+    "lace",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -28,11 +28,12 @@
   ],
   "published": "2018/11/01",
   "sizes_available": "medium",
-  "rating_average": 4.923076923076923,
-  "rating_count": 104,
-  "difficulty_average": 2.2637362637362637,
-  "favorites_count": 4733,
-  "projects_count": 666,
+  "rating_average": 4.916666666666667,
+  "rating_count": 108,
+  "difficulty_average": 2.265957446808511,
+  "favorites_count": 4803,
+  "projects_count": 683,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/43249/495816"
+  "download_url": "http://www.ravelry.com/dls/43249/495816",
+  "notes": "this pattern is a celebration of friendship and love. \r\n\r\nit honors my happy place and chosen home albuquerque, also known as duke city, where i made so many wonderful friends and feel embraced by a community of artists and makers.\r\n\r\nto publish it as a free pattern right before thanksgiving is perfect, a small thank you to you, for your friendship, the love and the support.\r\n\r\nmaybe now you will share some of the love and make these as a gift for your friends and loved ones! \r\nthe pattern gives gauges and stitch count information for various yarn weights and needle sizes - which ones will you choose?"
 }

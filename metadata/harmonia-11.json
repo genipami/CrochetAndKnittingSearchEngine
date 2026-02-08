@@ -1,28 +1,32 @@
 {
   "id": 7412178,
-  "name": "Harmonia",
+  "name": "harmonia",
   "permalink": "harmonia-11",
   "url": "https://www.ravelry.com/patterns/library/harmonia-11",
   "external_url": "https://rosarios4.com/montra/xaile-harmonia/",
-  "designer_name": "Filipa Carneiro",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "filipa carneiro",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Abraço",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 90.0
+    },
+    {
+      "fiber": "Cashmere goat (Cashmere)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Lace",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "lace",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Lace",
-    "Written"
+    "lace",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -33,8 +37,9 @@
   "rating_average": 4.875,
   "rating_count": 8,
   "difficulty_average": 3.142857142857143,
-  "favorites_count": 509,
+  "favorites_count": 520,
   "projects_count": 23,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/60380/986694"
+  "download_url": "http://www.ravelry.com/dls/60380/986694",
+  "notes": "this shawlette is knitted in garter stitch with a “lace by music” edging. lace by music is just another way of writing lace edging patterns. is very traditional in portugal and we just use symbols to represent the yarn over and the decreases. it’s a very simple pattern witch i’m sure you’ll memorize quickly and let the music guide you. we start with a few stitches and work with increases to the half of the shawl, then decreases for the other half.\r\n\r\n----------------------------------------------------------\r\n\r\neste lenço é tricotado de lado, em ponto mousse e com uma ourela em renda por música. a renda está escrita com a simbologia tradicional das “rendas por música”. é um padrão muito simples que vai memorizar rapidamente e disfrutar de tricotar ao som da música. começamos com poucas malhas e tricotamos com aumentos até meio do xaile, e depois com diminuições até ao final."
 }

@@ -1,28 +1,28 @@
 {
   "id": 125903,
-  "name": "Sea Monkey Baby Hat",
+  "name": "sea monkey baby hat",
   "permalink": "sea-monkey-baby-hat",
   "url": "https://www.ravelry.com/patterns/library/sea-monkey-baby-hat",
   "external_url": "http://bohoknits.blogspot.ca/2014/03/sea-monkey-baby-hat.html",
-  "designer_name": "Kelly McClure",
-  "project_type": "Baby",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "kelly mcclure",
+  "project_type": "baby",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Peaches & Creme Solids",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Seamed",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "seamed",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -30,17 +30,18 @@
   ],
   "published": "2014/03/01",
   "sizes_available": "newborn; 0-6 months; 6-12 months ",
-  "rating_average": 4.704918032786885,
-  "rating_count": 244,
-  "difficulty_average": 1.6122448979591837,
-  "favorites_count": 7476,
-  "projects_count": 1095,
+  "rating_average": 4.706122448979592,
+  "rating_count": 245,
+  "difficulty_average": 1.6097560975609757,
+  "favorites_count": 7543,
+  "projects_count": 1104,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/5595/19204",
+  "notes": "this cheeky little hat is adored by babies and their parents, too! using a ball of dishcloth cotton is economical, machine washable and the fibre is gentle on baby’s noggin. plus, the little ears are just so darn cute! \r\n\r\nthis hat is knit from the bottom to the crown with a worsted weight cotton. the top seam is either sewn up or grafted together. the ears are formed with the corners and cinched into shape. this hat has three sizes and no visible seam (there is a slightly visible seam on the garter style brim). \r\n\r\n**skill level:** **rookie**-apprentice-virtuoso-genius\r\n\r\n**skills:** knit and purl \r\n\r\n**other materials:** tapestry needle; stitch marker",
   "pdf": {
     "filename": "125903.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\125903.pdf",
-    "url": "https://pdf.ravelrycache.com/bohoknits/998799/Sea_Monkey_Baby_Hat_V2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482904&Signature=FscZ%2FLgu0wv7fHZdaIffEs1fLPA%3D&key_expires=1768482904&key=OiPXX5Qb8Osh606cvb5hGA",
+    "url": "https://pdf.ravelrycache.com/bohoknits/998799/Sea_Monkey_Baby_Hat_V2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770439757&Signature=3DMN%2F4sf8bYju%2BUEqx8TOf9aofk%3D&key_expires=1770439757&key=2d8ogvm50KJYLafZbP0ciQ",
     "size_bytes": 3367822
   }
 }

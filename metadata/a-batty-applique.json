@@ -1,25 +1,25 @@
 {
   "id": 7449177,
-  "name": "A Batty Applique",
+  "name": "a batty applique",
   "permalink": "a-batty-applique",
   "url": "https://www.ravelry.com/patterns/library/a-batty-applique",
   "external_url": "",
-  "designer_name": "BewitchyStitches Designs",
-  "project_type": "Other",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "bewitchystitches designs",
+  "project_type": "other",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Soft & Sleek DK",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Granny",
-    "Single crochet (sc)"
+    "granny",
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     3.5
@@ -30,14 +30,15 @@
   "rating_average": 5.0,
   "rating_count": 3,
   "difficulty_average": 2.3333333333333335,
-  "favorites_count": 271,
+  "favorites_count": 298,
   "projects_count": 6,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/112715/1014758",
+  "notes": "difficulty:\r\neasy\r\n\r\nthis pattern is the perfect accessory for your spooky projects. just sew it on your granny squares, bags, blankets, and more! \r\n\r\ni used yarn bees dk soft and sleek for a smaller bat.  worsted weight yarn and a bigger hook for a bigger bat.  \r\n\r\na great use for your scrap yarn pile for your next halloween project",
   "pdf": {
     "filename": "7449177.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7449177.pdf",
-    "url": "https://pdf.ravelrycache.com/Bewitchystitches/2036243/crochet_bat_pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478582&Signature=L67CgpYc6%2FziIsmruz2H8P2j8y8%3D&key_expires=1768478582&key=oQbfwfJc2G8syS6ID0Bp-Q",
+    "url": "https://pdf.ravelrycache.com/Bewitchystitches/2036243/crochet_bat_pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770416194&Signature=M321Uw2Ya8td0IsajggQJ%2FJ3aUE%3D&key_expires=1770416194&key=4In07m9-TmTMXVOrabgceA",
     "size_bytes": 837646
   }
 }

@@ -1,32 +1,32 @@
 {
   "id": 7491348,
-  "name": "Callisto Hat",
+  "name": "callisto hat",
   "permalink": "callisto-hat-2",
   "url": "https://www.ravelry.com/patterns/library/callisto-hat-2",
   "external_url": "https://kelbournewoolens.com/products/callisto-hat-pattern",
-  "designer_name": "Tommy Knits",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "tommy knits",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Germantown DK",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Ribbing",
-    "Treble crochet (tr)"
+    "cable",
+    "ribbing",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Bottom-up",
-    "Cables",
-    "Charted",
-    "In the round",
-    "Seamless",
-    "Written"
+    "blocking",
+    "bottom-up",
+    "cables",
+    "charted",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -35,17 +35,18 @@
   ],
   "published": "2026/01/01",
   "sizes_available": "19\" (48 cm) brim circumference, unstretched, 12\" (30.5 cm) height, brim unfolded.",
-  "rating_average": 4.666666666666667,
-  "rating_count": 9,
-  "difficulty_average": 4.125,
-  "favorites_count": 3204,
-  "projects_count": 83,
+  "rating_average": 4.793103448275862,
+  "rating_count": 29,
+  "difficulty_average": 3.730769230769231,
+  "favorites_count": 3743,
+  "projects_count": 151,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/13463/1047592",
+  "notes": "**the year of hats is back, this time featuring our latest yarn in the germantown line, [germantown dk][1]!** the year of dk hats will feature 12 free patterns using our favorite knitting techniques.\r\n\r\nour first design, the callisto hat by tommy knits, features a tubular cast on, beautiful xo cables, and intricate crown decreases. a pom pom tops it all off and a custom kw tag completes the look.\r\n\r\n*buy a kit [from our site][2] or ask for it at your favorite lys!*\r\n\r\n**worthy of note**\r\ncallisto is worked in the round from the bottom up. after a tubular cast on, a k1, p1 ribbing is worked to form the deep brim. an x, o cable pattern is worked for the body of the hat from written or charted instructions.\r\n\r\ndecreases are worked from charted or written instructions. the beginning of the round is shifted on the first round of the decrease section. \r\n\r\n**specifications\r\nyarn**\r\nkelbourne woolens germantown dk (100% wool; 270 yds/100 gm skein): 338 jade, 1 skein.\r\n**gauge**\r\n28 sts and 38 rnds = 4\" (10 cm) in cable pattern on larger needles, after blocking.\r\n**needles**\r\n1 – 16\" (40 cm) us 4 (3.5 mm) circular. \r\n1 – 16\" (40 cm) us 6 (4.00 mm) circular. \r\n1 – set us 6 (4.00 mm) dpns.\r\n*check your gauge and adjust needle size(s) accordingly if necessary.*\r\n**notions**\r\nstitch markers, tapestry needle, cable needle, kelbourne woolens label, sewing needle.\r\n**size**\r\n19\" (48 cm) brim circumference, unstretched, 12\" (30.5 cm) height, brim unfolded.\r\n**skills**\r\ntubular cast on, working from charts, cables. \r\n\r\n\r\n  [1]: https://www.ravelry.com/yarns/library/kelbourne-woolens-germantown-dk\r\n  [2]: https://kelbournewoolens.com/products/year-of-dk-hats-kit-callisto",
   "pdf": {
     "filename": "7491348.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7491348.pdf",
-    "url": "https://pdf.ravelrycache.com/KelbourneWoolens/2113153/YODK_Hats_Callisto_by_Tommy_Knits.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479318&Signature=gcaojHfkldZ6StmoauiEoCRXLhM%3D&key_expires=1768479318&key=mB6uzb2K0tFuNyZdggUwOw",
+    "url": "https://pdf.ravelrycache.com/KelbourneWoolens/2113153/YODK_Hats_Callisto_by_Tommy_Knits.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770420263&Signature=dIDZ0Vq00juOXR5nn4ZXny%2BEMZQ%3D&key_expires=1770420263&key=c71R3MZlwbSzl98lGxVtjg",
     "size_bytes": 1939377
   }
 }

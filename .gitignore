@@ -26,6 +26,10 @@ ENV/
 # Local dataset (PDFs)
 pdfs/
 *.pdf
+metadata/
+*.json
+txts/
+*.txt
 
 # Compressed archives (datasets, releases)
 *.zip

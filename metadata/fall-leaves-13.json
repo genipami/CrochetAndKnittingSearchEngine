@@ -1,43 +1,44 @@
 {
   "id": 1263619,
-  "name": "Fall Leaves",
+  "name": "fall leaves",
   "permalink": "fall-leaves-13",
   "url": "https://www.ravelry.com/patterns/library/fall-leaves-13",
   "external_url": "https://blueskyfibers.com/product/fall-leaves/",
-  "designer_name": "Bobbi IntVeld",
-  "project_type": "Home",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "bobbi intveld",
+  "project_type": "home",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Woolstok Bundle",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     4.0
   ],
   "published": "2022/08/01",
-  "sizes_available": "One",
-  "rating_average": 4.875,
-  "rating_count": 40,
-  "difficulty_average": 2.9743589743589745,
-  "favorites_count": 6767,
-  "projects_count": 242,
+  "sizes_available": "one",
+  "rating_average": 4.833333333333333,
+  "rating_count": 42,
+  "difficulty_average": 2.951219512195122,
+  "favorites_count": 6828,
+  "projects_count": 245,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/8201/797618",
+  "notes": "a colorful mix of oak, birch and maple leaves for your fall or\r\nholiday décor. use as garland, coasters or just sprinkle around\r\nthe room for that fall pop of color.\r\npattern uses one fall festival bundle.\r\n\r\nexperience level\r\n\r\n* intermediate\r\n\r\nmaterials\r\n\r\n* woolstok (worsted) bundle (100% fine highland wool, 21\r\nmini hanks: 5g/12yds each): 1 bundle (fall festival)\r\n* size 6 (4mm) needles, or size needed to obtain gauge\r\n* size 6 (4mm) double pointed needles, or size needed to\r\nobtain gauge\r\n* tapestry needle\r\n\r\nfinished measurements\r\n\r\n* birch: 4¼\" height by 3\" width\r\n* maple: 3½\" height by 4½\" width\r\n* oak: 4¾\" height by 3½\" width\r\n\r\n(height does not include stem)\r\n\r\ncolors shown\r\n\r\n* fall festival bundle",
   "pdf": {
     "filename": "1263619.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1263619.pdf",
-    "url": "https://pdf.ravelrycache.com/BlueSkyFibers/1536805/BSF_Comp_FallLeaves_WEB.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480281&Signature=xpsY3wG4FyQbL9NCxJHVqZFP4q0%3D&key_expires=1768480281&key=w1BRbgfGu3ImmOovVHeqsw",
+    "url": "https://pdf.ravelrycache.com/BlueSkyFibers/1536805/BSF_Comp_FallLeaves_WEB.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770425639&Signature=m7xgh1nbSQJ7cRgnot9c6uLE614%3D&key_expires=1770425639&key=EOKUt1fBF9S6z-DGS1a3fw",
     "size_bytes": 630084
   }
 }

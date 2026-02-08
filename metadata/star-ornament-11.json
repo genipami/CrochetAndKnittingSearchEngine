@@ -1,25 +1,33 @@
 {
   "id": 1192387,
-  "name": "Star Ornament",
+  "name": "star ornament",
   "permalink": "star-ornament-11",
   "url": "https://www.ravelry.com/patterns/library/star-ornament-11",
   "external_url": "http://www.kristinescrochets.com/2021/11/crochet-star-ornament.html",
-  "designer_name": "Kristines Crochets",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Sport",
+  "designer_name": "kristines crochets",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Fiore",
-      "pct": null
+      "fiber": "Rayon from Bamboo (Rayon)",
+      "pct": 40.0
+    },
+    {
+      "fiber": "Cotton (Cotton)",
+      "pct": 35.0
+    },
+    {
+      "fiber": "Flax (Linen)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)"
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     3.0
@@ -30,8 +38,9 @@
   "rating_average": 4.888888888888889,
   "rating_count": 9,
   "difficulty_average": 2.5,
-  "favorites_count": 1302,
-  "projects_count": 53,
+  "favorites_count": 1313,
+  "projects_count": 54,
   "free_ravelry_download": false,
-  "download_url": "http://www.kristinescrochets.com/2021/11/crochet-star-ornament.html"
+  "download_url": "http://www.kristinescrochets.com/2021/11/crochet-star-ornament.html",
+  "notes": "the star measures approx. 12 cm (4.7 inches) in diameter.\r\n\r\nmaterials used:\r\nsport weight yarn. i used nako fiore 25% linen, 35% cotton, 40% bamboo viscose yarn. 5 grams (15 meters approx.) of yarn needed for this pattern.\r\n3 mm crochet hook.\r\n\r\nskill level: easy to intermediate"
 }

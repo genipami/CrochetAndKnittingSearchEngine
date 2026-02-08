@@ -1,17 +1,17 @@
 {
   "id": 7297771,
-  "name": "Chunky Chelsea Hat",
+  "name": "chunky chelsea hat",
   "permalink": "chunky-chelsea-hat",
   "url": "https://www.ravelry.com/patterns/library/chunky-chelsea-hat",
   "external_url": "",
-  "designer_name": "Christina Lundborg",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "christina lundborg",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Chunky",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
@@ -21,18 +21,19 @@
     5.5
   ],
   "published": null,
-  "sizes_available": "One Size ",
+  "sizes_available": "one size ",
   "rating_average": 4.818181818181818,
   "rating_count": 33,
   "difficulty_average": 1.56,
-  "favorites_count": 789,
-  "projects_count": 139,
+  "favorites_count": 802,
+  "projects_count": 145,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/73927/896129",
+  "notes": "chunky chelsea hat is a fun easy knit using one skein of our chelsea luxe chunky yarn. the perfect accessory for your winter knits! \r\n\r\ni hope you enjoy knitting this hat as much as i do! \r\n\r\nxoxoxo \r\n",
   "pdf": {
     "filename": "7297771.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7297771.pdf",
-    "url": "https://pdf.ravelrycache.com/missdmna/1757941/Cozy_Chelsea_Hat_final.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479516&Signature=nOh%2Fg2fUo4QnIYzYqqKux%2FOB9h8%3D&key_expires=1768479516&key=IFC_VWGpuIsu742HI-cTGQ",
+    "url": "https://pdf.ravelrycache.com/missdmna/1757941/Cozy_Chelsea_Hat_final.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770421497&Signature=9Oec1OBDrn7fJzVYU6pAgjFYhM4%3D&key_expires=1770421497&key=_Vak04tzJuZqrgj2R7tEoQ",
     "size_bytes": 15774482
   }
 }

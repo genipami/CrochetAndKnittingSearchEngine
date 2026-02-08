@@ -1,22 +1,26 @@
 {
   "id": 7283011,
-  "name": "An Italian Autumn Cowl",
+  "name": "an italian autumn cowl",
   "permalink": "an-italian-autumn-cowl",
   "url": "https://www.ravelry.com/patterns/library/an-italian-autumn-cowl",
   "external_url": "",
-  "designer_name": "An Italian Knitter",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "an italian knitter",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Arwetta",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [],
@@ -24,18 +28,19 @@
     5.0
   ],
   "published": "2023/10/01",
-  "sizes_available": "One size but easy to adjust",
+  "sizes_available": "one size but easy to adjust",
   "rating_average": 5.0,
-  "rating_count": 13,
-  "difficulty_average": 1.6153846153846154,
-  "favorites_count": 2971,
-  "projects_count": 99,
+  "rating_count": 15,
+  "difficulty_average": 1.5714285714285714,
+  "favorites_count": 3001,
+  "projects_count": 100,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/100323/884454",
+  "notes": "an *italian autumn cowl* is a cozy double-wrapped cowl that will keep you warm throughout fall (and winter!). the cowl is knitted flat in garter stitch and grafted together at the end (video tutorial included in the pattern!).\r\n\r\n**yarn**\r\n300 g of filcolana arwetta (210 meters (230 yards) / 50 g) held double\r\n\r\n**measurements**\r\ncircumference: ~125-130 cm (~49-51 inch)\r\nheight: ~36 cm (~14 inch)\r\n\r\n**needles**\r\n5 mm (us 8) circular needles, at least 80 cm (32 inch) long\r\n\r\n**gauge**\r\n18 sts and 30 rows in 10 cm (4 inch) in garter stitch\r\n\r\n**notes**\r\n- if you’re substituting the fingering weight yarn held double with a single strand of dk weight yarn, you need approximately 630 meters (698 yards) of dk weight yarn.",
   "pdf": {
     "filename": "7283011.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7283011.pdf",
-    "url": "https://pdf.ravelrycache.com/engfragui/1731027/_ENGLISH__An_Italian_Autumn_Cowl_pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478730&Signature=mFYjn6PCKlh9UZzf%2BepCwT%2FLLQE%3D&key_expires=1768478730&key=9DBFe2Q5w9-sEeCkU4P1_A",
+    "url": "https://pdf.ravelrycache.com/engfragui/1731027/_ENGLISH__An_Italian_Autumn_Cowl_pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770417095&Signature=H%2BkXYxpTJgXb1GuSJrMzMTGHMQk%3D&key_expires=1770417095&key=Z-ZNvT6Ybt9IKtRlqHT8Sg",
     "size_bytes": 1452661
   }
 }

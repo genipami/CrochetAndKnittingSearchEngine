@@ -1,28 +1,28 @@
 {
   "id": 135604,
-  "name": "Snug As A Bug Sleep Sack",
+  "name": "snug as a bug sleep sack",
   "permalink": "snug-as-a-bug-sleep-sack",
   "url": "https://www.ravelry.com/patterns/library/snug-as-a-bug-sleep-sack",
   "external_url": "",
-  "designer_name": "Robyn Devine",
-  "project_type": "Blanket",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "robyn devine",
+  "project_type": "blanket",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Vanna's Choice Baby",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamed",
-    "Written"
+    "in the round",
+    "seamed",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -30,17 +30,18 @@
   ],
   "published": "2009/08/01",
   "sizes_available": "",
-  "rating_average": 4.611111111111111,
-  "rating_count": 414,
-  "difficulty_average": 1.541304347826087,
-  "favorites_count": 8067,
-  "projects_count": 2691,
+  "rating_average": 4.612980769230769,
+  "rating_count": 416,
+  "difficulty_average": 1.5432900432900434,
+  "favorites_count": 8106,
+  "projects_count": 2702,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/3952/20660",
+  "notes": "*** note: you cast on 72 stitches, not 7c stitches - this will be corrected asap! ***\r\n\r\nall babies need a bit of extra snuggle when first born, and sources tell me they should also be wrapped up tight. but what if your babe likes to kick her legs? \r\n\r\ni fell in love with the kicking sleep sack some time ago, but with such small needles, my hands revolted before i could finish up a bag. here then is my worsted-weight counterpart. \r\n\r\nby using slightly thicker yarn, this pattern will practically knit itself, while still keeping everything soft enough for even the most sensitive of babes! and as an added bonus, you use the entire skein of yarn, so there’s no need to figure out what to do with leftovers!\r\n\r\n******\r\n\r\na ravelry group was discussing making these more \"diaper-changing\" friendly, and thought to add a row of button closures to the bottom of the bag, rather than closing it off. this helps keep babies warm while diaper is being changed. check out [grandmanancy's project page][1] for more details!\r\n\r\n\r\n  [1]: http://www.ravelry.com/projects/grandmanancy/snug-as-a-bug-sleep-sack",
   "pdf": {
     "filename": "135604.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\135604.pdf",
-    "url": "https://pdf.ravelrycache.com/shemakeshats/350848/Snug_As_A_Bug_Sleep_Sack.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483170&Signature=%2Ffvmwncp6JL2MOtn4cYKp2y%2BpHw%3D&key_expires=1768483170&key=wtBOc0VYim2B7Vy9GDLmbQ",
+    "url": "https://pdf.ravelrycache.com/shemakeshats/350848/Snug_As_A_Bug_Sleep_Sack.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770441458&Signature=U8zF6sdG7Qv3gPslgmrDjgqSQpQ%3D&key_expires=1770441458&key=GXmvmk8Jw3VlzNbvepv0Zg",
     "size_bytes": 350285
   }
 }

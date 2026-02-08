@@ -1,30 +1,42 @@
 {
   "id": 7291251,
-  "name": "Bescarfed scarf",
+  "name": "bescarfed scarf",
   "permalink": "bescarfed-scarf",
   "url": "https://www.ravelry.com/patterns/library/bescarfed-scarf",
   "external_url": "",
-  "designer_name": "Marina Morozova",
-  "project_type": "Scarf",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Any gauge - designed for any gauge",
+  "designer_name": "marina morozova",
+  "project_type": "scarf",
+  "fiber_art": "knitting",
+  "yarn_weight": "any gauge - designed for any gauge",
   "materials": [
     {
-      "fiber": "Cashmere 10",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 37.5
     },
     {
-      "fiber": "DROPS Fabel",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
+    },
+    {
+      "fiber": "Merino (Merino)",
+      "pct": 20.0
+    },
+    {
+      "fiber": "Rayon / Viscose (Rayon)",
+      "pct": 12.5
+    },
+    {
+      "fiber": "Cashmere goat (Cashmere)",
+      "pct": 5.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)"
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "Charted",
-    "Worked flat",
-    "Written"
+    "charted",
+    "worked flat",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -36,14 +48,15 @@
   "rating_average": 4.636363636363637,
   "rating_count": 22,
   "difficulty_average": 2.5,
-  "favorites_count": 3335,
-  "projects_count": 99,
+  "favorites_count": 3349,
+  "projects_count": 98,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/102946/890849",
+  "notes": "the scarf is worked flat as a one-piece with nice built-in edges that do not curl. \r\n\r\nit is a great one-skein / scrap yarn / stash busting project that is quick to make. the repeating stitch pattern is very meditative and relaxing to knit. \r\n\r\nthe length and width of the scarf are easily modified, you can make a cute little scarf or a wide cosy wrap.\r\n\r\nskill level: adventurous beginner.",
   "pdf": {
     "filename": "7291251.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7291251.pdf",
-    "url": "https://pdf.ravelrycache.com/MoozaMari/1745397/BESCARFED_scarf.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479101&Signature=Fdzr7fKgooDaanLXb9gtdh7Zcb4%3D&key_expires=1768479101&key=95qwuGC2cbVW42uPl9O81A",
+    "url": "https://pdf.ravelrycache.com/MoozaMari/1745397/BESCARFED_scarf.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770418962&Signature=5Y6DCCOuLhFJX5G42rKL47LsLLs%3D&key_expires=1770418962&key=p670MAgD_eEva2ilPoNMKg",
     "size_bytes": 3677286
   }
 }

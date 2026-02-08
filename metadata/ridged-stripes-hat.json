@@ -1,39 +1,44 @@
 {
   "id": 7459947,
-  "name": "Ridged Stripes Hat",
+  "name": "ridged stripes hat",
   "permalink": "ridged-stripes-hat",
   "url": "https://www.ravelry.com/patterns/library/ridged-stripes-hat",
   "external_url": "https://www.yarnspirations.com/en-ca/products/caron-ridged-stripes-knit-hat",
-  "designer_name": "Yarnspirations Design Studio",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "yarnspirations design studio",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Chunky Cupcakes",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 85.0
+    },
+    {
+      "fiber": "Polyester (Polyester)",
+      "pct": 15.0
     }
   ],
   "stitches_used": [
-    "Ribbing",
-    "Treble crochet (tr)"
+    "ribbing",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless",
-    "Written"
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     6.5
   ],
   "published": "2025/07/01",
-  "sizes_available": "One size to fit Adult.",
+  "sizes_available": "one size to fit adult.",
   "rating_average": 5.0,
   "rating_count": 4,
   "difficulty_average": 2.0,
-  "favorites_count": 107,
-  "projects_count": 12,
+  "favorites_count": 120,
+  "projects_count": 13,
   "free_ravelry_download": false,
-  "download_url": "https://cdn.shopify.com/s/files/1/0711/5132/1403/files/CAK0816-38600M.pdf?_gl=1*327mw0*_gcl_au*MTQ3OTE5MzcyNC4xNzU2MTQ0NjAx*_ga*ZGRiYzBiYmMtYTYwZC00MDI5LThkMzUtNDZlMGMyNWVmZmNk*_ga_FNZYKNERBS*czE3NTcwODQ1MjAkbzE3JGcxJHQxNzU3MDg3OTc5JGo1NCRsMCRoNjcwNTM0NzY"
+  "download_url": "https://cdn.shopify.com/s/files/1/0711/5132/1403/files/CAK0816-38600M.pdf?_gl=1*327mw0*_gcl_au*MTQ3OTE5MzcyNC4xNzU2MTQ0NjAx*_ga*ZGRiYzBiYmMtYTYwZC00MDI5LThkMzUtNDZlMGMyNWVmZmNk*_ga_FNZYKNERBS*czE3NTcwODQ1MjAkbzE3JGcxJHQxNzU3MDg3OTc5JGo1NCRsMCRoNjcwNTM0NzY",
+  "notes": "simple, elongated slipped stitches bring colors to life in this easy-to-knit hat. stitched in caron chunky cupcake, this adorable hat is worked in the round with a fold-over brim stitched in simple 1 x 1 ribbing. the body highlights color changes by slipping elongated stitches that pull the colors up from below, making them stand out against the stripes to create a subtle plaid effect with rich texture. the included pom pom is the finishing touch that makes this a speedy 1-ball project.\r\n\r\nmaterials\r\ncaron® chunky cupcake™ (3.5 oz/100 g; 126 yds/138 m)\r\ncotton candy (23023) 1 ball or 104 yds/95 m\r\n\r\nsize\r\none size to fit adult.\r\napprox 21\"-22\" [53.5-56 cm] head circumference."
 }

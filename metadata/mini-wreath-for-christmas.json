@@ -1,25 +1,25 @@
 {
   "id": 1292286,
-  "name": "Mini Wreath for Christmas",
+  "name": "mini wreath for christmas",
   "permalink": "mini-wreath-for-christmas",
   "url": "https://www.ravelry.com/patterns/library/mini-wreath-for-christmas",
   "external_url": "",
-  "designer_name": "Agnes Chow",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "agnes chow",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Super Saver (solids)",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Half double crochet (hdc)"
+    "double crochet (dc)",
+    "half double crochet (hdc)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     5.0
@@ -30,14 +30,15 @@
   "rating_average": 4.333333333333333,
   "rating_count": 3,
   "difficulty_average": 2.3333333333333335,
-  "favorites_count": 727,
+  "favorites_count": 736,
   "projects_count": 28,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/35409/821641",
+  "notes": "simple and easy pattern! perfect gift idea for christmas!\r\n\r\nmerry christmas! \r\n\r\nplease enjoy this free pattern and give credits to me @agnesgurumi on instagram and tag #miniwreathforchristmas \r\n\r\ncorrection: 3hdc in each stitch (150 sts)",
   "pdf": {
     "filename": "1292286.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1292286.pdf",
-    "url": "https://pdf.ravelrycache.com/Agnesgurumi/1590339/Mini_Wreath_for_Christmas.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481819&Signature=GHTrhmmRDYOkGmqm3g%2BwA9MjKXk%3D&key_expires=1768481819&key=gR977dHL5jTwllcw3zGKbw",
+    "url": "https://pdf.ravelrycache.com/Agnesgurumi/1590339/Mini_Wreath_for_Christmas.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770434160&Signature=jzXMH2Y%2BFIYdh0niIrKejW2wAH0%3D&key_expires=1770434160&key=a5hH-h2UjSa_AuzJOzoHuA",
     "size_bytes": 2588816
   }
 }

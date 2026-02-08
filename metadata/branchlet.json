@@ -1,37 +1,45 @@
 {
   "id": 7456211,
-  "name": "Branchlet",
+  "name": "branchlet",
   "permalink": "branchlet",
   "url": "https://www.ravelry.com/patterns/library/branchlet",
   "external_url": "",
-  "designer_name": "Susan Gressman",
-  "project_type": "Child",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "susan gressman",
+  "project_type": "child",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Arroyo",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 33.3
     },
     {
-      "fiber": "Encore D.K.",
-      "pct": null
+      "fiber": "Alpaca - Suri (Alpaca)",
+      "pct": 28.3
     },
     {
-      "fiber": "Suri Merino DK 3 ply 85/15",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 25.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 8.3
+    },
+    {
+      "fiber": "Delaine Merino (Wool)",
+      "pct": 5.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Bottom-up",
-    "In the round",
-    "Seamless",
-    "Written"
+    "blocking",
+    "bottom-up",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -39,18 +47,19 @@
     3.75
   ],
   "published": "2025/08/01",
-  "sizes_available": "XS, S, M, L, XL",
+  "sizes_available": "xs, s, m, l, xl",
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 437,
+  "favorites_count": 449,
   "projects_count": 15,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/25717/1020144",
+  "notes": "measurements:\r\ncircumference: 16, (18 , 20, 22, 24)”/41, (46, 51, 56, 61) cm \r\nheight: 7, (8, 8.5, 9, 9.5)” 18, (20, 22, 23, 24) cm\r\n\r\nthis design is a creative way to use up those odds and ends of leftover yarn that are too pretty to discard but not enough to make a project on their own. \r\n\r\nsamples were made using each of the 3 recommended yarns and approximate amounts were calculated for each size. see final photo for details.\r\n\r\n![pasted image](/forum-images/onlygrandsons/5dsd7-enfc6w)\r\n\r\nthis pattern would also look great just using random small stash amounts.\r\n\r\nbecause this is a free pattern it has not been tech edited. if you find any errors or unclear instruction please let me know so that i can make necessary corrections. \r\n\r\na matching fingerless mitt pattern is now available [here][1]\r\n\r\nerrata: size xs cast on should be **92** \r\n\r\nsize m crown shaping: \r\nrnd 2/8 should result in a stitch count of **58**\r\nrnd 4/10 should result in a stitch count oh **29**\r\nrnd 6/12 should be (ssk, k2tog)x7, k1. and final stitch count should be **15**\r\n\r\n\r\n  [1]: https://www.ravelry.com/patterns/library/branchlet-mitts",
   "pdf": {
     "filename": "7456211.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7456211.pdf",
-    "url": "https://pdf.ravelrycache.com/onlygrandsons/2068832/Branchlet.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479211&Signature=IVjzuPjgYByTyH2p2ZzonhPS%2BK4%3D&key_expires=1768479211&key=mIS84BFgWsaKtHVXLA_4MA",
+    "url": "https://pdf.ravelrycache.com/onlygrandsons/2068832/Branchlet.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770419692&Signature=nIndmDblJPp6mAivaDmYMf9nsYE%3D&key_expires=1770419692&key=PM0nnViQ6UQMEYjcmo72sg",
     "size_bytes": 1676972
   }
 }

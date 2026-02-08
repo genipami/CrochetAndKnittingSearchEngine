@@ -1,44 +1,49 @@
 {
   "id": 7425601,
-  "name": "Baltic Adventure",
+  "name": "baltic adventure",
   "permalink": "baltic-adventure",
   "url": "https://www.ravelry.com/patterns/library/baltic-adventure",
   "external_url": "",
-  "designer_name": "Caia Gossens",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "caia gossens",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Bonnie BFL Sock",
-      "pct": null
+      "fiber": "Bluefaced Leicester (BFL) (Wool)",
+      "pct": 50.0
     },
     {
-      "fiber": "Ursa Major",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 37.5
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 12.5
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Top-down",
-    "Written"
+    "charted",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.25
   ],
   "published": "2025/05/01",
-  "sizes_available": "S, M, L and XL (54, 62, 70, 78 sts)",
+  "sizes_available": "s, m, l and xl (54, 62, 70, 78 sts)",
   "rating_average": 4.8125,
   "rating_count": 16,
   "difficulty_average": 4.25,
-  "favorites_count": 470,
+  "favorites_count": 474,
   "projects_count": 72,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/14890/996851"
+  "download_url": "http://www.ravelry.com/dls/14890/996851",
+  "notes": "welcome to my very first mock - a mystery sock pattern designed for sock knitters anonymous, a group on ravelry related to sock knitting. \r\n\r\nembarque with me on a baltic adventure - we will discover some regional knitting techniques on this journey!\r\n\r\nyou will need (semi)solid colorways. with enough contrast, a variegated yarn with a non-matching contrast color will work, too.\r\n\r\nsocks are worked top down with a heel cuff. there are 4 sizes available (54, 62, 70, 78 sts)\r\n\r\nclues will be published on may 1st, 8th, 15th and 22nd. \r\n\r\nclues will be written and charted, also pattern includes some video tutorials for special techniques. \r\n\r\nthis pattern is easy to work for an adventorous beginner, but also a lot of fun for experienced ones.\r\n\r\nif you have questions, please visit the may/june mock thread in the ska group. your question may already have been asked and answered.\r\n\r\n> **errata and notes**\r\n> \r\n> in the first versions of the pattern **and** the prekal info was a wrong gauge. i fixed that.\r\n> correct gauge is 30 sts and 44 rows are 10x10 cm/4x4 inches\r\n>\r\n> the roosimine motif is worked with 4m/4.5 yards of yarn held double\r\n>\r\n>placing the first roosimine motif (leg):\r\n> k21 (25, 29, 33)st, start working roosimine, k22 (26, 30, 34) until eor (motif should be centered on the other side of the eor by one st off)\r\n>\r\n>clue 3: 5 rounds of stockinette stitch after the second latvian braid are worked in **mc**\r\n>then before the heel flap: k 14 (16, 18, 18, 20) turn."
 }

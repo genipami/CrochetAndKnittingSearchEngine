@@ -1,36 +1,36 @@
 {
   "id": 734961,
-  "name": "Lost in Time",
+  "name": "lost in time",
   "permalink": "lost-in-time",
   "url": "https://www.ravelry.com/patterns/library/lost-in-time",
   "external_url": "https://mijocrochet.se/2017/03/15/lost-in-time-shawl-sjal/",
-  "designer_name": "Johanna Lindahl",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Fingering",
+  "designer_name": "johanna lindahl",
+  "project_type": "shawl/wrap",
+  "fiber_art": "crochet",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Catona",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 70.0
     },
     {
-      "fiber": "Secret Garden",
-      "pct": null
+      "fiber": "Polyester (Polyester)",
+      "pct": 15.0
     },
     {
-      "fiber": "Sunkissed",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 10.0
     },
     {
-      "fiber": "Whirl",
-      "pct": null
+      "fiber": "Silk (Silk)",
+      "pct": 5.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     4.0,
@@ -39,11 +39,12 @@
   "needle_sizes_mm": [],
   "published": "2017/03/01",
   "sizes_available": "",
-  "rating_average": 4.758235622557231,
-  "rating_count": 1791,
-  "difficulty_average": 4.2638322655795,
-  "favorites_count": 66967,
-  "projects_count": 6580,
+  "rating_average": 4.759465478841871,
+  "rating_count": 1796,
+  "difficulty_average": 4.261904761904762,
+  "favorites_count": 67206,
+  "projects_count": 6591,
   "free_ravelry_download": false,
-  "download_url": "https://mijocrochet.se/2017/03/15/lost-in-time-shawl-sjal/"
+  "download_url": "https://mijocrochet.se/2017/03/15/lost-in-time-shawl-sjal/",
+  "notes": "this pattern can be customized to make any size you wish with any yarn or hook size. \r\n\r\ngetting an exact gauge is not critical but your gauge will affect yarn quantities needed and finished measurements.\r\n\r\nfor more information, yarn suggestions and pictures please visit my blog. all of the available translations are linked as pdf files there.\r\n\r\nfor more patterns and crochet inspiration please [visit my linked blog][1].\r\n\r\n❀❀❀\r\n\r\njoin my facebook group:\r\n\r\nmy facebook group [mijo crochet hangout][2] is a social group where you can get support and be inspired by other fellow crocheters. welcome!\r\n\r\n\r\n  [1]: https://mijocrochet.se/\r\n  [2]: https://www.facebook.com/groups/mijocrochethangout/"
 }

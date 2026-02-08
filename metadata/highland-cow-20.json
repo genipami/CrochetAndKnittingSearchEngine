@@ -1,27 +1,27 @@
 {
   "id": 7369293,
-  "name": "Highland Cow",
+  "name": "highland cow",
   "permalink": "highland-cow-20",
   "url": "https://www.ravelry.com/patterns/library/highland-cow-20",
   "external_url": "https://yarnandchai.com/amigurumi-highland-cow/",
-  "designer_name": "Rebecca Langford",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Bulky",
+  "designer_name": "rebecca langford",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Baby Bear",
-      "pct": null
+      "fiber": "Polyester (Polyester)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)"
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [
     4.0
@@ -32,8 +32,9 @@
   "rating_average": 5.0,
   "rating_count": 5,
   "difficulty_average": 3.4,
-  "favorites_count": 2137,
-  "projects_count": 52,
+  "favorites_count": 2250,
+  "projects_count": 57,
   "free_ravelry_download": false,
-  "download_url": "https://yarnandchai.com/amigurumi-highland-cow/"
+  "download_url": "https://yarnandchai.com/amigurumi-highland-cow/",
+  "notes": "originating from scotland, these furry, friendly creatures have gained so much popularity in art and home decor in recent years. i’m just as smitten with them as anybody, so of course i had to answer the call for a highland cow pattern."
 }

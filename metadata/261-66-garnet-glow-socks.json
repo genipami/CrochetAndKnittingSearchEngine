@@ -1,27 +1,31 @@
 {
   "id": 7482558,
-  "name": "261-66 Garnet Glow Socks",
+  "name": "261-66 garnet glow socks",
   "permalink": "261-66-garnet-glow-socks",
   "url": "https://www.ravelry.com/patterns/library/261-66-garnet-glow-socks",
   "external_url": "https://www.garnstudio.com/pattern.php?id=12509&cid=19",
-  "designer_name": "DROPS design",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "drops design",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "DROPS Fiesta",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless",
-    "Top-down"
+    "in the round",
+    "seamless",
+    "top-down"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -33,8 +37,9 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 372,
-  "projects_count": 8,
+  "favorites_count": 428,
+  "projects_count": 14,
   "free_ravelry_download": false,
-  "download_url": "https://www.garnstudio.com/pattern.php?id=12509&cid=19"
+  "download_url": "https://www.garnstudio.com/pattern.php?id=12509&cid=19",
+  "notes": "**knitted socks in drops fiesta. the piece is worked top down with rib and diamond heel. sizes 35 – 43.**\r\n~~~~~~~~~~~~~~~~~~~\r\n\r\n#garnetglowsocks\r\ndrops design: pattern fs-051\r\nyarn group b\r\n\r\n-------------------------------------------------------\r\n\r\n\r\n**sizes**:\r\nshoe-size: 35/37 - 38/40 - 41/43\r\nfoot-length: 22 - 24 - 26 cm\r\nleg-length to heel: 10 - 11 - 12 cm\r\n\r\n**yarn**:\r\ndrops fiesta from garnstudio (belongs to yarn group b)\r\n100-100-150 g colour 39, cherry jam\r\n\r\n**needles**:\r\ndrops double pointed needles size 2.5 mm\r\ndrops double pointed needles size 3 mm\r\n\r\n**knitting tension**:\r\n23 stitches in width and 32 rows in height, with stocking stitch on needle size 3 mm = 10 x 10 cm.\r\nnote: remember, the needle size is only a guide. if you get too many stitches on 10 cm, change to a larger needle size. if you get to few stitches on 10 cm, change to a smaller needle size.\r\n"
 }

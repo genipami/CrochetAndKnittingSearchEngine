@@ -1,28 +1,36 @@
 {
   "id": 7389346,
-  "name": "Night watchman",
+  "name": "night watchman",
   "permalink": "night-watchman",
   "url": "https://www.ravelry.com/patterns/library/night-watchman",
   "external_url": "",
-  "designer_name": "Heidemarie Kaiser",
-  "project_type": "Mittens/Gloves",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "heidemarie kaiser",
+  "project_type": "mittens/gloves",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "On Stage - Short Stories",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 50.0
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 30.0
+    },
+    {
+      "fiber": "Camel (Camel)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
     "2x2 rib",
-    "Double crochet (dc)",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -33,8 +41,9 @@
   "rating_average": 4.875,
   "rating_count": 8,
   "difficulty_average": 2.0,
-  "favorites_count": 700,
-  "projects_count": 30,
+  "favorites_count": 733,
+  "projects_count": 32,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/57529/967780"
+  "download_url": "http://www.ravelry.com/dls/57529/967780",
+  "notes": "night watchman mitts are a very quick knit and perfect if you are looking for a last-minute-gift.\r\nnight watchman is knit in the round in 2x2 rib pattern from cuff to desired length with increases for the thumb gusset. the thumb is worked last in st st.  \r\n\r\nyarn: short stories 219 yards (200 m) / 100g, approx. 148 yards (135 m) or any other yarn / yarn combination with a similar weight\r\nsize: one size, fits for hand circumference 6.7 – 8.7 inches (17 – 22 cm) \r\nneedles and tools: dpns us5 (3.75 mm), 2 stitch marker, tapestry needle\r\n\r\n--------------------------------------------------------\r\n\r\ndie nachtwächter stulpen sind ein kleines projekt, das schnell gestrickt ist. das macht sie zum idealen last-minute-geschenk und  perfekt, um einzelstränge zu verarbeiten.\r\ndie stulpen werden in runden im 2 x 2 rippenmuster vom bündchen bis zur gewünschten länge gestrickt, mit zunahmen für den daumenzwickel. der daumen wird zuletzt glatt rechts gestrickt.\r\n\r\ngarn: short stories 200 m / 100g, ca. 130 m oder jedes andere garn bzw. garnkombination mit vergleichbarer lauflänge\r\ngröße: einheitsgröße passend für einen handumfang von 17 – 22 cm \r\nnadeln und zubehör: nadelspiel 3,75 mm, 2 maschenmarkierer, stopfnadel\r\n\r\n\r\n"
 }

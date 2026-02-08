@@ -1,35 +1,39 @@
 {
   "id": 563115,
-  "name": "Quick Oats",
+  "name": "quick oats",
   "permalink": "quick-oats",
   "url": "https://www.ravelry.com/patterns/library/quick-oats",
   "external_url": "",
-  "designer_name": "Taiga Hilliard",
-  "project_type": "Baby",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "taiga hilliard",
+  "project_type": "baby",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Bulky",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 53.3
     },
     {
-      "fiber": "Encore Chunky",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 25.0
     },
     {
-      "fiber": "Lamb's Pride Bulky",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 16.7
+    },
+    {
+      "fiber": "Mohair (Mohair)",
+      "pct": 5.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless",
-    "Top-down",
-    "Written"
+    "in the round",
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -37,11 +41,12 @@
   ],
   "published": "2015/03/01",
   "sizes_available": "0-3 months(6 months) ",
-  "rating_average": 4.7023809523809526,
-  "rating_count": 336,
-  "difficulty_average": 2.080357142857143,
-  "favorites_count": 7824,
-  "projects_count": 1261,
+  "rating_average": 4.701183431952662,
+  "rating_count": 338,
+  "difficulty_average": 2.0798816568047336,
+  "favorites_count": 7874,
+  "projects_count": 1271,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/21945/262348"
+  "download_url": "http://www.ravelry.com/dls/21945/262348",
+  "notes": "quick oats is indeed a quick knit, which takes \r\nabout an evening or two.\r\n\r\nthis is the perfect knit for a last minute gift.\r\n\r\na classic cardigan for any baby boy or girl.\r\n\r\nknit top down, with a button front and the sleeves are knit in the round.\r\n\r\nthe italian translation was done by [ajroldi][3]\r\n\r\ndanish translation done by yarnbook\r\n\r\n  [3]: http://www.ravelry.com/people/ajroldi"
 }

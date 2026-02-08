@@ -1,34 +1,38 @@
 {
   "id": 986458,
-  "name": "Twistmas",
+  "name": "twistmas",
   "permalink": "twistmas",
   "url": "https://www.ravelry.com/patterns/library/twistmas",
   "external_url": "",
-  "designer_name": "Espace Tricot",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "espace tricot",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Cozy Merino",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 50.0
     },
     {
-      "fiber": "Silk Mohair",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 37.5
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 12.5
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "lace",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Lace",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "lace",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -36,12 +40,13 @@
     5.0
   ],
   "published": "2019/12/01",
-  "sizes_available": "One Size: Finished circumference: 17.5\" / 44.5 cm Finished height: 9.5\" / 24 cm",
+  "sizes_available": "one size: finished circumference: 17.5\" / 44.5 cm finished height: 9.5\" / 24 cm",
   "rating_average": 4.930635838150289,
   "rating_count": 173,
   "difficulty_average": 1.8280254777070064,
-  "favorites_count": 5971,
-  "projects_count": 716,
+  "favorites_count": 5981,
+  "projects_count": 717,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/25132/574664"
+  "download_url": "http://www.ravelry.com/dls/25132/574664",
+  "notes": "> espace tricot is a yarn store in\r\n> montreal, canada. discover our yarns\r\n> here!  [www.espacetricot.com][1]\r\n\r\ntwistmas is a fun and easy hat pattern featuring twisted rib throughout. the simple stitch pattern creates interesting texture while allowing your beautiful hand-dyed yarns to take center stage. it's knit with two strands of fingering weight yarn and one strand of a laceweight mohair blend - all held together. instructions for two versions of the hat are provided - the first one uses one colour for the whole hat while the second one invites you to use your scraps and mini-skeins to create your own \"faded\" version!\r\n"
 }

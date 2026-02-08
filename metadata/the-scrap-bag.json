@@ -1,44 +1,48 @@
 {
   "id": 1264477,
-  "name": "The Scrap Bag",
+  "name": "the scrap bag",
   "permalink": "the-scrap-bag",
   "url": "https://www.ravelry.com/patterns/library/the-scrap-bag",
   "external_url": "",
-  "designer_name": "Anabelle Chan",
-  "project_type": "Bag",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "anabelle chan",
+  "project_type": "bag",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Alpaca 2",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 37.5
     },
     {
-      "fiber": "DROPS Baby Merino",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 31.8
     },
     {
-      "fiber": "DROPS Brushed Alpaca Silk",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 18.8
     },
     {
-      "fiber": "Silk Mohair",
-      "pct": null
+      "fiber": "Silk (Silk)",
+      "pct": 6.2
+    },
+    {
+      "fiber": "Bombyx / Cultivated / Mulberry (Silk)",
+      "pct": 5.8
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Puff stitch",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "lace",
+    "puff stitch",
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Lace",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "lace",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [
     2.5
@@ -47,18 +51,19 @@
     3.0
   ],
   "published": "2022/08/01",
-  "sizes_available": "S(M)L",
-  "rating_average": 4.818181818181818,
-  "rating_count": 22,
-  "difficulty_average": 2.1818181818181817,
-  "favorites_count": 5425,
-  "projects_count": 164,
+  "sizes_available": "s(m)l",
+  "rating_average": 4.826086956521739,
+  "rating_count": 23,
+  "difficulty_average": 2.217391304347826,
+  "favorites_count": 5545,
+  "projects_count": 167,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/96146/798227",
+  "notes": "sizes: s(m)l \r\n\r\nmeasurements:\r\napprox. 9 cm x 10 cm (13 cm x 15 cm) 18 cm x 21 cm\r\n\r\nyarn: fingering + lace held together\r\ni have not taken approximate yarn measurements, but it takes very, very little (for the smallest size), thus why it has been dubbed the “scrap bag.” the larger sizes will  require more yardage. \r\n\r\nthe gray bag is knitted in a size small with isager silk mohair in the color \"3s\" and isager alpaca 2 in the color \"e2s\". the two yarns are held together throughout the entire project, including the drawstrings. \r\n\r\nthe beige bag is a size s  worked with drops brushed alpaca silk and baby merino both in light beige held together. the drawstring is a ribbon.\r\n\r\nblue version by @snug_barcelona \r\n\r\ngauge: 25 sts x 35 rows = 10 cm x 10 cm (4 in x 4 in) in stockinette stitch\r\n\r\nneedles: \r\n3.0 mm (us 2.5) // 80 cm or 100 cm needles (32 inches or 40 inches) to use the magic loop method. \r\n\r\nconstruction:\r\n\r\nthe scrap bag is worked seamlessly from the bottom-up in the round until the body of the bag is completed. the stitches are then divided evenly into two sections, and a folded hem is worked on both sides of the bag. finally, simple crochet drawstrings are created and inserted through the folded hems to create a closure. \r\n\r\nyou may also choose to knit i-cord drawstrings for the larger bags. ribbon or any other drawstring alternative may be used as well for drawstrings. \r\n\r\nthis bag is highly customizable. you can cast on as few or many stitches as you like. you can knit the bag as large or small as you like, so long as the drawstring mechanism is still functional. \r\n\r\nsuper special thank you to my proof-readers: \r\n@fall_knits\r\n@cottonknotatelier\r\n@katknits2902\r\n@whoknitwhat\r\n@maypuff.knits\r\n\r\n",
   "pdf": {
     "filename": "1264477.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1264477.pdf",
-    "url": "https://pdf.ravelrycache.com/shecraftslove/1538243/The_Scrap_Bag.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483674&Signature=OJ2dpOoj1armdDu1jgbBTnm4ZRI%3D&key_expires=1768483674&key=_WhoNODWLyWkzRtob1f4dQ",
+    "url": "https://pdf.ravelrycache.com/shecraftslove/1538243/The_Scrap_Bag.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770444448&Signature=5%2FFSpCGw%2B4WIORpXEiY4R4l%2Bzhc%3D&key_expires=1770444448&key=R5uWam7GnkAYpATaISXMEw",
     "size_bytes": 4320969
   }
 }

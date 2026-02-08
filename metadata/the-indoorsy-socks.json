@@ -1,30 +1,38 @@
 {
   "id": 1292642,
-  "name": "The Indoorsy Socks",
+  "name": "the indoorsy socks",
   "permalink": "the-indoorsy-socks",
   "url": "https://www.ravelry.com/patterns/library/the-indoorsy-socks",
   "external_url": "",
-  "designer_name": "Sonder Yarn Co.",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "sonder yarn co.",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Halo",
-      "pct": null
+      "fiber": "Bluefaced Leicester (BFL) (Wool)",
+      "pct": 37.5
     },
     {
-      "fiber": "Sunday Morning 4 Ply (Fingering)",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 36.0
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 14.0
+    },
+    {
+      "fiber": "Masham / Massam (Wool)",
+      "pct": 12.5
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "lace",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Lace"
+    "lace"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -32,17 +40,18 @@
   ],
   "published": "2022/11/01",
   "sizes_available": "",
-  "rating_average": 4.867647058823529,
-  "rating_count": 68,
-  "difficulty_average": 2.3174603174603177,
-  "favorites_count": 7358,
-  "projects_count": 428,
+  "rating_average": 4.845070422535211,
+  "rating_count": 71,
+  "difficulty_average": 2.328358208955224,
+  "favorites_count": 7794,
+  "projects_count": 454,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/92316/821653",
+  "notes": "find kits [here][1].\r\n\r\nthe indoorsy socks are knit with woolly fingering weight yarn and laceweight mohair held together throughout. whether you're hunkering down indoors or headed out to brave the elements, these luxurious, strong, and comfortable heavy-weight socks will keep your feet warm and cozy all winter long. knit from the cuff down, they can be worked with either a rolled cuff, ribbed cuff, or ribbed cuff/ribbed front option. \r\n\r\n**yarn**\r\n\r\nsonder yarn co. sunday morning 4 ply (75% bluefaced leicester, 25% masham); 395 m (432 y) / 100 g\r\n1 (1, 1, 1) skein\r\nshown in 'offline', ' simple pleasures', and 'toast & honey' \r\n\r\nsonder yarn co. halo (72% mohair, 28% silk); \r\n420 m (459 y) / 50 g\r\n1 (1, 1, 1) skein\r\nshown in 'greige', 'opera', and 'cirque'\r\n\r\n**note:** 1 strand of sunday morning 4 ply and 1 strand of halo are held together throughout.\r\n\r\n**sizes**\r\n\r\n1 (2, 3, 4)\r\nfinished foot circumference: \r\n7.5 (8, 8.5, 9.25)\" inches\r\nfinished foot length: \r\nadjustable\r\n\r\n\r\n  [1]: https://sonderyarnco.com/collections/socks/products/indoorsy-socks-by-sonder-yarn-co?variant=45918306926837",
   "pdf": {
     "filename": "1292642.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1292642.pdf",
-    "url": "https://pdf.ravelrycache.com/SonderYarnCo/1588701/THE_INDOORSY_SOCKS_-_FINAL.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483644&Signature=5GvHFzGUv52M0MlvDJyI51uiL%2BE%3D&key_expires=1768483644&key=gb-SzJwLiMDPMMYg_ffH8A",
+    "url": "https://pdf.ravelrycache.com/SonderYarnCo/1588701/THE_INDOORSY_SOCKS_-_FINAL.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770444185&Signature=X9ygScrtMTH8niazSHNnweWCV2E%3D&key_expires=1770444185&key=bQK15OEXp56xZw3UJde8qg",
     "size_bytes": 1835385
   }
 }

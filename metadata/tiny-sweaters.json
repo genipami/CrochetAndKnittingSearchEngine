@@ -1,25 +1,25 @@
 {
   "id": 630728,
-  "name": "Tiny Sweaters",
+  "name": "tiny sweaters",
   "permalink": "tiny-sweaters",
   "url": "https://www.ravelry.com/patterns/library/tiny-sweaters",
   "external_url": "",
-  "designer_name": "Malia Mae Joseph",
-  "project_type": "Home",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "malia mae joseph",
+  "project_type": "home",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Tandem",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round"
+    "in the round"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -30,14 +30,15 @@
   "rating_average": 4.8493150684931505,
   "rating_count": 146,
   "difficulty_average": 2.3741007194244603,
-  "favorites_count": 9520,
-  "projects_count": 711,
+  "favorites_count": 9537,
+  "projects_count": 712,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/89134/916027",
+  "notes": "quick handmade gifts for christmas!  \r\n\r\ntiny sweaters make delightful little christmas ornaments!  they also make great practice projects for those who have never knitted a sweater before and want to give it a try before launching into a larger project.",
   "pdf": {
     "filename": "630728.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\630728.pdf",
-    "url": "https://pdf.ravelrycache.com/maliamae/1802710/tiny_sweaters_west_wool.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483787&Signature=03Bzy9yYb7INx5VjE3PhEpwUrag%3D&key_expires=1768483787&key=1-VStPHkpfaDwuE_oJyZYw",
+    "url": "https://pdf.ravelrycache.com/maliamae/1802710/tiny_sweaters_west_wool.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770444873&Signature=9WRbyMRftzSlNucbSbx7xsVKGd4%3D&key_expires=1770444873&key=N2e-t7ymJ9CjBYmcuQTVvA",
     "size_bytes": 1259872
   }
 }

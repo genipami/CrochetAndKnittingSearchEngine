@@ -1,52 +1,49 @@
 {
   "id": 830709,
-  "name": "Hill 60",
+  "name": "hill 60",
   "permalink": "hill-60",
   "url": "https://www.ravelry.com/patterns/library/hill-60",
   "external_url": "",
-  "designer_name": "Galt House of Yarn",
-  "project_type": "Child",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "galt house of yarn",
+  "project_type": "child",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Cascade 220®",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 83.3
     },
     {
-      "fiber": "Luxury Collection Pure Wool Superwash",
-      "pct": null
-    },
-    {
-      "fiber": "Ultra Alpaca",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 16.7
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up"
+    "bottom-up"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     4.5
   ],
   "published": "2018/04/01",
-  "sizes_available": "Baby, Child, Adult",
-  "rating_average": 4.8428571428571425,
-  "rating_count": 210,
-  "difficulty_average": 1.9086294416243654,
-  "favorites_count": 4793,
-  "projects_count": 883,
+  "sizes_available": "baby, child, adult",
+  "rating_average": 4.84331797235023,
+  "rating_count": 217,
+  "difficulty_average": 1.9362745098039216,
+  "favorites_count": 4881,
+  "projects_count": 903,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/63466/459080",
+  "notes": "a classic ribbed toque reminiscent of the sailor’s watch caps of wwii. \r\n\r\nthis pattern includes instructions for three different sizes, though the ribbed fabric will accommodate quite a bit of variation. ",
   "pdf": {
     "filename": "830709.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\830709.pdf",
-    "url": "https://pdf.ravelrycache.com/AnneVasic/826618/Hill_60_v1.3.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480895&Signature=vl%2FpLDysYgH%2FvwJarvvgbAwZVYA%3D&key_expires=1768480895&key=VwjO7kHbMsb1vMsQW6v4YQ",
+    "url": "https://pdf.ravelrycache.com/AnneVasic/826618/Hill_60_v1.3.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770429192&Signature=dL3d3jpTyLWH6UElkNgR8r%2Fjzt4%3D&key_expires=1770429192&key=JFHtY5NDSUuLnWCPQ_3bvw",
     "size_bytes": 801444
   }
 }

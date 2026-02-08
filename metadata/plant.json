@@ -4,19 +4,23 @@
   "permalink": "plant",
   "url": "https://www.ravelry.com/patterns/library/plant",
   "external_url": "http://www.amidorablecrochet.ca/2023/11/plant-pattern.html",
-  "designer_name": "Jackie Laing",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
+  "designer_name": "jackie laing",
+  "project_type": "toys",
+  "fiber_art": "crochet",
   "yarn_weight": null,
   "materials": [
     {
-      "fiber": "Jean",
+      "fiber": "Acrylic (Acrylic)",
+      "pct": null
+    },
+    {
+      "fiber": "Wool (Wool)",
       "pct": null
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     2.5
@@ -27,8 +31,9 @@
   "rating_average": 5.0,
   "rating_count": 3,
   "difficulty_average": 1.6666666666666667,
-  "favorites_count": 3509,
-  "projects_count": 52,
+  "favorites_count": 3587,
+  "projects_count": 55,
   "free_ravelry_download": false,
-  "download_url": "http://www.amidorablecrochet.ca/2023/11/plant-pattern.html"
+  "download_url": "http://www.amidorablecrochet.ca/2023/11/plant-pattern.html",
+  "notes": ""
 }

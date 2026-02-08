@@ -1,59 +1,56 @@
 {
   "id": 930674,
-  "name": "Vintage Vibes Baby Beanie",
+  "name": "vintage vibes baby beanie",
   "permalink": "vintage-vibes-baby-beanie",
   "url": "https://www.ravelry.com/patterns/library/vintage-vibes-baby-beanie",
   "external_url": "",
-  "designer_name": "The Crochet Fix",
-  "project_type": "Baby",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "the crochet fix",
+  "project_type": "baby",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Classic 8 Ply",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 96.2
     },
     {
-      "fiber": "Country 8 Ply",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 2.5
     },
     {
-      "fiber": "Country Naturals 8 Ply Blend",
-      "pct": null
-    },
-    {
-      "fiber": "Pure Wool 8 Ply",
-      "pct": null
+      "fiber": "Rayon / Viscose (Rayon)",
+      "pct": 1.2
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Half double crochet (hdc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "half double crochet (hdc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Lace",
-    "Top-down",
-    "Written"
+    "in the round",
+    "lace",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [
     4.0
   ],
   "needle_sizes_mm": [],
   "published": "2019/05/01",
-  "sizes_available": "0-3 months and preemie size provided. Instructions for resizing also provided.",
-  "rating_average": 4.7560975609756095,
-  "rating_count": 41,
-  "difficulty_average": 2.682926829268293,
-  "favorites_count": 2886,
-  "projects_count": 163,
+  "sizes_available": "0-3 months and preemie size provided. instructions for resizing also provided.",
+  "rating_average": 4.738095238095238,
+  "rating_count": 42,
+  "difficulty_average": 2.6904761904761907,
+  "favorites_count": 2905,
+  "projects_count": 166,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/67663/534629",
+  "notes": "a super cute baby beanie. you’ll find that these beanies fly off the hook. make them as gifts, for your market stall, or for charity. pair them with a pretty filet baby blanket. top them with a pom pom and add earflaps for some extra cuteness. use one or more colours to add your personal touch to the design.\r\n\r\n***please note: my stitches are quite tall. if your beanies are turning out a little short, please substitute dc rounds for hdc rounds.***\r\n\r\ninstructions for a number of design variations are provided.\r\nthe pattern mostly uses beginner worthy dc and chain stitches. \r\nany dk/ 8ply acrylic, cotton, wool or mixed fibre yarn can be used. beanie size can be adjusted by using a thinner or thicker yarn. other resizing tips provided in the pattern document.\r\n\r\nyou can make a matching adult beanie with the vintage vibes beanie pattern: https://www.ravelry.com/patterns/library/vintage-vibes-beanie.\r\n\r\ni hope you enjoy making these cute little hats. remember to add your project on ravelry and #vintagevibesbabybeanie your posts on social media, so i can see all of your lovely makes.",
   "pdf": {
     "filename": "930674.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\930674.pdf",
-    "url": "https://pdf.ravelrycache.com/TheCrochetFix/1083618/The_Crochet_Fix_Pattern_012_v0.6_-_Vintage_Vibes_Baby_Beanie.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484029&Signature=H%2Bcm6YJOJb5E4eJpvK6GGvC9Yyo%3D&key_expires=1768484029&key=rRsNmFyYTiAWTYDRP4QvCQ",
+    "url": "https://pdf.ravelrycache.com/TheCrochetFix/1083618/The_Crochet_Fix_Pattern_012_v0.6_-_Vintage_Vibes_Baby_Beanie.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770446284&Signature=Ig%2FE3FJ5c6bYIUr%2B6XvLPecCxxA%3D&key_expires=1770446284&key=ObgUi021kc0WyrH7gSGZ1Q",
     "size_bytes": 1035481
   }
 }

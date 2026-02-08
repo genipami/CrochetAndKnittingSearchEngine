@@ -1,29 +1,37 @@
 {
   "id": 7307000,
-  "name": "Pretty Peaceful Pashmina",
+  "name": "pretty peaceful pashmina",
   "permalink": "pretty-peaceful-pashmina",
   "url": "https://www.ravelry.com/patterns/library/pretty-peaceful-pashmina",
   "external_url": "https://youtu.be/qEvc1wYr5iw",
-  "designer_name": "Susan E. Kennedy",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Bulky",
+  "designer_name": "susan e. kennedy",
+  "project_type": "shawl/wrap",
+  "fiber_art": "crochet",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Colorama Halo Perfect Phasing",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 71.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 18.0
+    },
+    {
+      "fiber": "Polyester (Polyester)",
+      "pct": 11.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Half double crochet (hdc)",
-    "Slip stitch (sl st)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "half double crochet (hdc)",
+    "slip stitch (sl st)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "C2C",
-    "Seamed",
-    "Written"
+    "c2c",
+    "seamed",
+    "written"
   ],
   "hook_sizes_mm": [
     12.0
@@ -34,14 +42,15 @@
   "rating_average": 5.0,
   "rating_count": 13,
   "difficulty_average": 2.076923076923077,
-  "favorites_count": 1198,
-  "projects_count": 46,
+  "favorites_count": 1223,
+  "projects_count": 45,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/41199/903478",
+  "notes": "an easy, soft, fluffy wrap to keep you warm in mini c2c stitch.  the wrap is made in two rectangles that are joined later.  each rectangle uses one skein of caron colorama halo yarn.\r\n\r\nuses 2 skeins of caron colorama halo yarn (71% acrylic, 18% nylon, 11% polyester; 481 yards (440 m) per 227-gram skein). that is 962 yards (880 meters) of yarn total. the sample wrap used 2 skeins of caron colorama halo yarn in the tin & tan colorway.  \r\n\r\nstitches required:  chain, slip stitch, half double crochet\r\n\r\nhook: 12 mm (or 10 mm works too) \r\n\r\nthe video tutorial on youtube shows how to get started, how to work each row of the rectangle in mini c2c stitch, and how to join your rectangles to create a wrap: https://youtu.be/qevc1wyr5iw\r\n\r\nnote that this is not a traditional *pashmina* because it is not made with pashmina wool from a goat.  the pretty peaceful pashmina is an affordable, vegan version in wool-free yarn.\r\n\r\nshare your wrap with #prettypeacefulpashmina on instagram! tag me @prettypeacefulcrochet because i love to see your wraps!\r\n\r\nplease feel free to sell finished items made from this pattern and give design credit as “pretty peaceful pashmina crochet pattern by pretty peaceful”. not for commercial use. please do not share photos of this pattern, only share the link to the pattern pdf on ravelry or youtube. thank you for your support.",
   "pdf": {
     "filename": "7307000.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7307000.pdf",
-    "url": "https://pdf.ravelrycache.com/PrettyPeaceful/1784301/Pretty_Peaceful_Pashmina_crochet_pattern_by_Susan_Kennedy_of_PrettyPeaceful.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482558&Signature=2mMkhrlBAAAW0IPV371U6mObWhs%3D&key_expires=1768482558&key=pbmUzuX5FqWXCMzrTNW2rQ",
+    "url": "https://pdf.ravelrycache.com/PrettyPeaceful/1784301/Pretty_Peaceful_Pashmina_crochet_pattern_by_Susan_Kennedy_of_PrettyPeaceful.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770437876&Signature=dwHak0SY%2Bq5czHTkt%2Fs0D74AZPs%3D&key_expires=1770437876&key=bzwQGh5lwR6g_iQtFiwsZw",
     "size_bytes": 9715467
   }
 }

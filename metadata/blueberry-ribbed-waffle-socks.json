@@ -1,39 +1,40 @@
 {
   "id": 1648,
-  "name": "Blueberry Ribbed Waffle Socks",
+  "name": "blueberry ribbed waffle socks",
   "permalink": "blueberry-ribbed-waffle-socks",
   "url": "https://www.ravelry.com/patterns/library/blueberry-ribbed-waffle-socks",
   "external_url": "http://www.knittingonthenet.com/patterns/sockswaffle.htm",
-  "designer_name": "Sandy Turner",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "sandy turner",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Country 8 Ply",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)",
-    "Waffle"
+    "stockinette stitch",
+    "treble crochet (tr)",
+    "waffle"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.75
   ],
   "published": "1998/11/01",
-  "sizes_available": "Adult M",
-  "rating_average": 4.585221143473571,
-  "rating_count": 1854,
-  "difficulty_average": 2.0313005936319484,
-  "favorites_count": 25516,
-  "projects_count": 9493,
+  "sizes_available": "adult m",
+  "rating_average": 4.584905660377358,
+  "rating_count": 1855,
+  "difficulty_average": 2.0312837108953614,
+  "favorites_count": 25680,
+  "projects_count": 9524,
   "free_ravelry_download": false,
-  "download_url": "http://www.knittingonthenet.com/patterns/sockswaffle.htm"
+  "download_url": "http://www.knittingonthenet.com/patterns/sockswaffle.htm",
+  "notes": "from the designer's notes:\r\n\r\n> \"these are a good in-between weight for wearing around the house and under boots. the ribbed waffle pattern helps the socks stay up quite well, and because of the stretch, they will fit a woman's medium to a man's medium foot without trouble.\"\r\n\r\nthere are variations available to change the gauge of the pattern. i've made the socks in several different weights from fingering to worsted weight. \r\n\r\nlisted as \"[ribbed waffle socks knitting pattern][1]\" on the knitting on the net website.\r\n\r\npreviously available at knitlist: http://web.archive.org/web/20080324044632/http://www.knitlist.com/98gift/blueberrysocks.htm\r\n\r\n\r\n  [1]: http://www.knittingonthenet.com/patterns/sockswaffle.htm"
 }

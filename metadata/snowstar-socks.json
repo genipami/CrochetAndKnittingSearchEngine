@@ -1,49 +1,54 @@
 {
   "id": 1312085,
-  "name": "Snowstar Socks",
+  "name": "snowstar socks",
   "permalink": "snowstar-socks",
   "url": "https://www.ravelry.com/patterns/library/snowstar-socks",
   "external_url": "",
-  "designer_name": "Liza Levchuk",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Sport",
+  "designer_name": "liza levchuk",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Durasport 1 Ply",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 45.0
     },
     {
-      "fiber": "MELODIE",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 45.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Stranded colorwork",
-    "Written"
+    "charted",
+    "in the round",
+    "stranded colorwork",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.5
   ],
   "published": "2023/02/01",
-  "sizes_available": "Unisex medium, depending on length made",
+  "sizes_available": "unisex medium, depending on length made",
   "rating_average": 4.409090909090909,
   "rating_count": 66,
   "difficulty_average": 3.3225806451612905,
-  "favorites_count": 2405,
-  "projects_count": 384,
+  "favorites_count": 2485,
+  "projects_count": 386,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/98840/837843",
+  "notes": "\r\ni designed the snowstar socks with durasport yarn from canada's beloved woollen mill, [briggs & little][1], with a contrasting fluffy yarn, to give the socks a comfy-cosy feel.\r\n\r\nalthough this pattern is written for double pins, cuff-down, you can work it on circular needles, and toe-up. \r\n\r\nthe pattern is written for 64 sts, but you can customize the 8 stitch pattern repeat to 56 and 72 sts.\r\n\r\nthey're worked on 2.5 mm/us 1.5 needles, but you can go up or down, depending on the yarn you use. i used a sport weight yarn, but this pattern would be fine in fingering weight.\r\n\r\n\r\n\r\n  [1]: https://briggsandlittle.com/",
   "pdf": {
     "filename": "1312085.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1312085.pdf",
-    "url": "https://pdf.ravelrycache.com/LaBelleProvince/1645938/Snowstar_Socks_v3.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483168&Signature=jYD7kMDhqaPODPQlocRc1tImLZw%3D&key_expires=1768483168&key=wORF6wjV0JCDJbWWSmsjtQ",
+    "url": "https://pdf.ravelrycache.com/LaBelleProvince/1645938/Snowstar_Socks_v3.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770441449&Signature=Fj2ZFGCEhaMZt%2B0e9HwHba2%2FtOQ%3D&key_expires=1770441449&key=-ND-1P96Z-nFPuELD6QYfg",
     "size_bytes": 687177
   }
 }

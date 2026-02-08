@@ -1,41 +1,50 @@
 {
   "id": 1106388,
-  "name": "219-17  Moorland Hat",
+  "name": "219-17  moorland hat",
   "permalink": "219-17-moorland-hat",
   "url": "https://www.ravelry.com/patterns/library/219-17-moorland-hat",
   "external_url": "https://www.garnstudio.com/pattern.php?id=10053&cid=19",
-  "designer_name": "DROPS design",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "drops design",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "DROPS Air",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 65.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 28.0
+    },
+    {
+      "fiber": "Merino (Merino)",
+      "pct": 7.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Charted",
-    "In the round",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "charted",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.5
   ],
   "published": "2021/01/01",
-  "sizes_available": "S - M - L ",
-  "rating_average": 4.705882352941177,
-  "rating_count": 34,
-  "difficulty_average": 1.71875,
-  "favorites_count": 955,
-  "projects_count": 133,
+  "sizes_available": "s - m - l ",
+  "rating_average": 4.702702702702703,
+  "rating_count": 37,
+  "difficulty_average": 1.6571428571428573,
+  "favorites_count": 969,
+  "projects_count": 138,
   "free_ravelry_download": false,
-  "download_url": "https://www.garnstudio.com/pattern.php?id=10053&cid=19"
+  "download_url": "https://www.garnstudio.com/pattern.php?id=10053&cid=19",
+  "notes": "knitted hat/hipster hat for men in drops air. the piece is worked bottom up, with rib. sizes s - l. pattern no ai-338; yarn group c or a + a\r\n\r\n**sizes**: s - m - l\r\nfits head size, approx.: 54/56 - 56/58 - 58/60\r\n\r\n**materials**:\r\ndrops air from garnstudio\r\n100-100-100 g colour 05, brown\r\n\r\n**knitting tension**:\r\n20 stitches in width and 27 rows in height with stocking stitch = 10 x 10 cm.\r\n\r\n**needles**:\r\ndrops double pointed needles size 3.5 mm\r\ndrops circular needle size 3.5 mm, length 40 cm"
 }

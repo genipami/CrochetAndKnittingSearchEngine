@@ -1,30 +1,26 @@
 {
   "id": 1330185,
-  "name": "Crochet Bandana",
+  "name": "crochet bandana",
   "permalink": "crochet-bandana",
   "url": "https://www.ravelry.com/patterns/library/crochet-bandana",
   "external_url": "https://sarahmaker.com/crochet-bandana/",
-  "designer_name": "Sarah Stearns",
-  "project_type": "Hat",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "sarah stearns",
+  "project_type": "hat",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "24/7 Cotton",
-      "pct": null
-    },
-    {
-      "fiber": "Dishie",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Cluster stitch",
-    "Double crochet (dc)",
-    "Treble crochet (tr)"
+    "cluster stitch",
+    "double crochet (dc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     4.0
@@ -32,11 +28,12 @@
   "needle_sizes_mm": [],
   "published": "2023/03/01",
   "sizes_available": "8.5″ tall by 16.5″ wide",
-  "rating_average": 4.866666666666666,
-  "rating_count": 15,
-  "difficulty_average": 2.125,
-  "favorites_count": 1360,
-  "projects_count": 92,
+  "rating_average": 4.875,
+  "rating_count": 16,
+  "difficulty_average": 2.2941176470588234,
+  "favorites_count": 1383,
+  "projects_count": 93,
   "free_ravelry_download": false,
-  "download_url": "http://www.ravelry.com/purchase/sarah-maker/859984"
+  "download_url": "http://www.ravelry.com/purchase/sarah-maker/859984",
+  "notes": "a cute crochet bandana is not only a fun and easy project to work on but also a fantastic way to show off your personal style. whether you’re going for a boho-chic vibe or a cottage-core look, a crochet bandana is a perfect accessory that will take your outfit to the next level.\r\n\r\n**size**\r\nbandana measures 8.5″ tall by 16.5″ wide, excluding ties.\r\n\r\nties measure 14″ each, but can be made longer or shorter.\r\n\r\n**gauge**\r\n5 3-dc clusters and 4.5 rows = 4″ x 4″\r\n\r\nyour gauge might be different if you use a different yarn than listed below. that’s okay. measure your triangle as you work, and crochet as many rows as you need to meet the finished measurements listed above."
 }

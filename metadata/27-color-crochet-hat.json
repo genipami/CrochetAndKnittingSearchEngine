@@ -1,43 +1,44 @@
 {
   "id": 7470670,
-  "name": "27 Color Crochet Hat",
+  "name": "27 color crochet hat",
   "permalink": "27-color-crochet-hat",
   "url": "https://www.ravelry.com/patterns/library/27-color-crochet-hat",
   "external_url": "https://blueskyfibers.com/",
-  "designer_name": "Bobbi IntVeld",
-  "project_type": "Hat",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "bobbi intveld",
+  "project_type": "hat",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Woolstok Bundle",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     4.0
   ],
   "needle_sizes_mm": [],
   "published": "2025/10/01",
-  "sizes_available": "One",
+  "sizes_available": "one",
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 182,
+  "favorites_count": 186,
   "projects_count": 3,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/8201/1031048",
+  "notes": "this advanced beginner crochet hat uses one 27-color bundle. this hat is fun, colorful, and perfect for those chilly days.\r\n\r\nexperience level\r\n\r\n* advanced beginner\r\n\r\nmaterials\r\n\r\n* woolstok (worsted) bundle(100% fine highland wool, 5g/12yds): 1 bundle (27 color)\r\n* tapestry needle\r\n\r\nfinished measurments\r\n\r\n* circumference: 18.5\"\r\n* height: 8\"\r\n\r\ncolors shown\r\n\r\n* all 27 colors\r\n\r\n",
   "pdf": {
     "filename": "7470670.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7470670.pdf",
-    "url": "https://pdf.ravelrycache.com/BlueSkyFibers/2074109/BSF_Comp_27ColorCrochetHat_WEB.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478558&Signature=NoXE1RwOk68%2FgPkI%2BOVlUulYpZ0%3D&key_expires=1768478558&key=-uMol3pKK5ftvdnRh1Kv2g",
+    "url": "https://pdf.ravelrycache.com/BlueSkyFibers/2074109/BSF_Comp_27ColorCrochetHat_WEB.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770416036&Signature=z%2FGwfJwbZwslj7ONoHLmzyEseNY%3D&key_expires=1770416036&key=YRVkhYi_qd9T64P5ei-h6Q",
     "size_bytes": 3463384
   }
 }

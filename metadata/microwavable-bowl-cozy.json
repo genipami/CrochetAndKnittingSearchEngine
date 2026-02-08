@@ -1,31 +1,27 @@
 {
   "id": 1207656,
-  "name": "Microwavable Bowl Cozy",
+  "name": "microwavable bowl cozy",
   "permalink": "microwavable-bowl-cozy",
   "url": "https://www.ravelry.com/patterns/library/microwavable-bowl-cozy",
   "external_url": "",
-  "designer_name": "Meg Made",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "meg made",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Sugar'n Cream The Original (Solids)",
-      "pct": null
-    },
-    {
-      "fiber": "Sugar'n Cream Twists",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     4.0
@@ -36,14 +32,15 @@
   "rating_average": 4.7272727272727275,
   "rating_count": 11,
   "difficulty_average": 1.6363636363636365,
-  "favorites_count": 1577,
-  "projects_count": 75,
+  "favorites_count": 1594,
+  "projects_count": 79,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/92741/750500",
+  "notes": "materials:\r\n*about 40-50g of 100% cotton yarn (using 100% cotton is important because acrylic will melt!). i used about 22g of lily sugar n’ cream in color ecru and about 18g of lily sugar n’ cream twists in color overcast twists.\r\n*although the lily sugar n’ cream says to use a 5mm hook, i used a 4mm hook in order to make denser stitches.\r\n\r\nnotes:\r\n*do not join between rounds, this whole pattern is worked in continuous rounds.\r\n*if you would like the bowl cozy to be bigger or smaller around, just add or remove increase rounds. this pattern should fit most regular sized/soup bowls and some slightly wider mixing bowls.\r\n*if you would like the bowl cozy to be taller, add more sc all around rounds (like round 14).\r\n*finished dimensions are 8in x 8in at the top opening and about 3.5in height up to the top of the handles.\r\n*the yarn i used does work in the microwave, so you can put the cozy on the bowl before microwaving and leave it on the bowl while it is in the microwave. the yarn will only get warm.\r\n*cotton yarn is machine washable, so if the bowl cozy gets dirty or stretched out washing it should help!\r\n",
   "pdf": {
     "filename": "1207656.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1207656.pdf",
-    "url": "https://pdf.ravelrycache.com/meghans18/1433667/_Almost__One_Size_Fits_All_Microwavable_Bowl_Cozy.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481735&Signature=9tQv5f8P%2FlPHT7kqayT1p8cspfs%3D&key_expires=1768481735&key=THMp__CfpHMMjpkaaTwaJg",
+    "url": "https://pdf.ravelrycache.com/meghans18/1433667/_Almost__One_Size_Fits_All_Microwavable_Bowl_Cozy.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770433729&Signature=dv2agLFm26aLqAysY3rWaHc6wyw%3D&key_expires=1770433729&key=R08zWa5VYahUBohM3ecb_A",
     "size_bytes": 34068
   }
 }

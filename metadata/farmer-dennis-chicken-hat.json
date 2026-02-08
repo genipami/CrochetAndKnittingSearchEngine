@@ -1,25 +1,33 @@
 {
   "id": 7434284,
-  "name": "Farmer Dennis' Chicken Hat",
+  "name": "farmer dennis' chicken hat",
   "permalink": "farmer-dennis-chicken-hat",
   "url": "https://www.ravelry.com/patterns/library/farmer-dennis-chicken-hat",
   "external_url": "",
-  "designer_name": "Stacy Black",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "stacy black",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Vintage®",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 52.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 40.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 8.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)"
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "In the round",
-    "Stranded colorwork"
+    "in the round",
+    "stranded colorwork"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -27,18 +35,19 @@
     4.0
   ],
   "published": "2025/05/01",
-  "sizes_available": "Adult",
-  "rating_average": 4.0,
-  "rating_count": 3,
-  "difficulty_average": 3.3333333333333335,
-  "favorites_count": 2030,
-  "projects_count": 27,
+  "sizes_available": "adult",
+  "rating_average": 4.2,
+  "rating_count": 5,
+  "difficulty_average": 3.2,
+  "favorites_count": 2113,
+  "projects_count": 35,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/111749/1003206",
+  "notes": "adorable hat for any adult who loves chickens. this is a great stash-busting project, as most of the colors require just leftover scraps of yarn. it can be made using circular needles or dpns. this pattern was designed as a gift for a friend who raises chickens and shares eggs with me.",
   "pdf": {
     "filename": "7434284.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7434284.pdf",
-    "url": "https://pdf.ravelrycache.com/MyTangledLife/2009774/Farmer_Dennis_Chicken_Hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480298&Signature=bSocTB4U1NtrFffcy0G5pDEFgUU%3D&key_expires=1768480298&key=3Klxn9r3uL52IAyr65wNEQ",
+    "url": "https://pdf.ravelrycache.com/MyTangledLife/2009774/Farmer_Dennis_Chicken_Hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770425713&Signature=sbtqPU9BNOSuNX%2BoWLzwquA9x20%3D&key_expires=1770425713&key=K83YBJcE6_BUGbCinjeJSA",
     "size_bytes": 449437
   }
 }

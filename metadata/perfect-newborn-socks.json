@@ -1,52 +1,53 @@
 {
   "id": 909951,
-  "name": "Perfect Newborn Socks",
+  "name": "perfect newborn socks",
   "permalink": "perfect-newborn-socks",
   "url": "https://www.ravelry.com/patterns/library/perfect-newborn-socks",
   "external_url": "",
-  "designer_name": "Tabitha Gandee",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "tabitha gandee",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Allons-y Sock",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 77.5
     },
     {
-      "fiber": "Geronimo Sock",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 22.5
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Double crochet (dc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "cable",
+    "double crochet (dc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Cables",
-    "In the round",
-    "Kitchener stitch",
-    "Written"
+    "cables",
+    "in the round",
+    "kitchener stitch",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.25
   ],
   "published": "2019/03/01",
-  "sizes_available": "One Size",
-  "rating_average": 4.8325281803542675,
-  "rating_count": 621,
-  "difficulty_average": 2.554006968641115,
-  "favorites_count": 19491,
-  "projects_count": 3531,
+  "sizes_available": "one size",
+  "rating_average": 4.829581993569132,
+  "rating_count": 622,
+  "difficulty_average": 2.5503472222222223,
+  "favorites_count": 19627,
+  "projects_count": 3555,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/65424/519424",
+  "notes": "brought to you by tabi & rachel of the hey sister podcast and hey sister yarn co.\r\n\r\n**are you constantly frustrated with the way newborn socks fall off your little ones' feet? do you want a quick gift knit for the newest newborn in your life? are you new to sock knitting and wanting a super quick way to learn how a sock is constructed? \r\nthese are the perfect socks for you!**\r\n\r\nthese are our go-to baby gift knit and the pattern we usually follow for our own babies!!\r\n\r\nthis pattern only has one size. they are fairly stretchy, just be sure that your cast on edge is not too tight. we only recommend the german twisted cast-on for this project. we find that these fit well for at least the first month or two of a newborn's life!\r\n\r\nwe may be a bit biased, but we think our [wooden baby sock blockers][1] make these socks even more adorable! \r\n\r\nyarn requirements:\r\n15g of sock weight/fingering weight yarn.\r\n\r\npictured samples are knit in:\r\n stress knits sparkle, nomadic yarns, and hey sister yarn co.\r\n\r\nif you are knitting the cabled version of these socks, feel free to knit the cable without a cable needle if you're comfortable doing so.\r\n\r\n\r\n  [1]: https://www.heysisteryarnco.com/collections/extras/products/wooden-baby-sock-blockers\r\n\r\n*this pattern is loosely adapted from the \"baby mitten socks\" pattern that is out of print*",
   "pdf": {
     "filename": "909951.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\909951.pdf",
-    "url": "https://pdf.ravelrycache.com/awesomesocks/949113/Perfect_Newborn_Socks_v1.0.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482354&Signature=cmrmYdFqz7tWexNJtSs5tGr81Gw%3D&key_expires=1768482354&key=zuVTA9ZLOzTdTSk_6cFAMw",
+    "url": "https://pdf.ravelrycache.com/awesomesocks/949113/Perfect_Newborn_Socks_v1.0.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770436804&Signature=ueBFFWCfzl3GmZqYaTkieX0sT0A%3D&key_expires=1770436804&key=OEfyQhxDE0mStdEfPZuoAg",
     "size_bytes": 10134013
   }
 }

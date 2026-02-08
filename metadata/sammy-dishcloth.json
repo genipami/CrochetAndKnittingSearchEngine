@@ -1,38 +1,39 @@
 {
   "id": 1364181,
-  "name": "Sammy Dishcloth",
+  "name": "sammy dishcloth",
   "permalink": "sammy-dishcloth",
   "url": "https://www.ravelry.com/patterns/library/sammy-dishcloth",
   "external_url": "https://firstthecoffee.com/sc-hdc-combo-dishcloth/",
-  "designer_name": "Josie Anderson",
-  "project_type": "Dishcloth",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "josie anderson",
+  "project_type": "dishcloth",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Sugar'n Cream The Original (Solids)",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Half double crochet (hdc)",
-    "Single crochet (sc)"
+    "double crochet (dc)",
+    "half double crochet (hdc)",
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     4.5
   ],
   "needle_sizes_mm": [],
   "published": "2023/09/01",
-  "sizes_available": "7.5\" Tall x 7\" wide",
+  "sizes_available": "7.5\" tall x 7\" wide",
   "rating_average": 4.666666666666667,
   "rating_count": 6,
   "difficulty_average": 2.6666666666666665,
-  "favorites_count": 229,
+  "favorites_count": 230,
   "projects_count": 18,
   "free_ravelry_download": false,
-  "download_url": "http://www.ravelry.com/purchase/first-the-coffee/878032"
+  "download_url": "http://www.ravelry.com/purchase/first-the-coffee/878032",
+  "notes": "\r\nthis dishcloth pattern uses the single crochet stitch and half double crochet stitch to create a unique textured dishcloth.\r\n\r\na video tutorial for this pattern is available: https://youtu.be/sc88ux6oicy\r\n\r\nmaterials needed:\r\n65 yards of a #4 medium-weight cotton yarn\r\n4.5mm crochet hook\r\n\r\n> [subscribe to my newsletter][1] to be notified when new patterns come out\r\n\r\n[1]: https://subscribepage.io/mfhzxe"
 }

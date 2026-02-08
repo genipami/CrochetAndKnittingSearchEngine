@@ -1,25 +1,25 @@
 {
   "id": 42054,
-  "name": "Angel Wings Pinafore",
+  "name": "angel wings pinafore",
   "permalink": "angel-wings-pinafore",
   "url": "https://www.ravelry.com/patterns/library/angel-wings-pinafore",
   "external_url": "http://www.bevscountrycottage.com/angel-wings-pinafore.html",
-  "designer_name": "Maxine Gonser",
-  "project_type": "Baby",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "maxine gonser",
+  "project_type": "baby",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Baby Sport Solids & Marls",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)"
+    "double crochet (dc)"
   ],
   "techniques_used": [
-    "Top-down",
-    "Written"
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [
     5.0
@@ -27,11 +27,12 @@
   "needle_sizes_mm": [],
   "published": "2007/01/01",
   "sizes_available": "newborn - 3 months",
-  "rating_average": 4.696939782823297,
-  "rating_count": 1013,
-  "difficulty_average": 2.029864253393665,
-  "favorites_count": 23085,
-  "projects_count": 3133,
+  "rating_average": 4.696640316205533,
+  "rating_count": 1012,
+  "difficulty_average": 2.0307971014492754,
+  "favorites_count": 23120,
+  "projects_count": 3131,
   "free_ravelry_download": false,
-  "download_url": "http://www.bevscountrycottage.com/angel-wings-pinafore.html"
+  "download_url": "http://www.bevscountrycottage.com/angel-wings-pinafore.html",
+  "notes": "approximately 3 oz yarn needed for newborn size.\r\n\r\nthere is only one size in the pattern."
 }

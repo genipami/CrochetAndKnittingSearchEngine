@@ -1,26 +1,30 @@
 {
   "id": 205069,
-  "name": "Dudester Scarf",
+  "name": "dudester scarf",
   "permalink": "dudester-scarf",
   "url": "https://www.ravelry.com/patterns/library/dudester-scarf",
   "external_url": "http://www.hipknitizer.blogspot.ca/p/dudester-scarf-pattern.html",
-  "designer_name": "Jana Pihota",
-  "project_type": "Scarf",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "jana pihota",
+  "project_type": "scarf",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Bamboo Wool",
-      "pct": null
+      "fiber": "Rayon from Bamboo (Bamboo)",
+      "pct": 55.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 45.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -28,11 +32,12 @@
   ],
   "published": "2010/10/01",
   "sizes_available": "",
-  "rating_average": 4.712589073634204,
-  "rating_count": 842,
-  "difficulty_average": 1.7379862700228832,
-  "favorites_count": 16992,
-  "projects_count": 2685,
+  "rating_average": 4.713270142180095,
+  "rating_count": 844,
+  "difficulty_average": 1.7388825541619157,
+  "favorites_count": 17082,
+  "projects_count": 2702,
   "free_ravelry_download": false,
-  "download_url": "http://www.hipknitizer.blogspot.ca/p/dudester-scarf-pattern.html"
+  "download_url": "http://www.hipknitizer.blogspot.ca/p/dudester-scarf-pattern.html",
+  "notes": "my friend, bob, always looks ultra professional and put together. i wanted to knit him a guy scarf that would be formal enough to wear with his overcoat and suits but transition to weekend wear, too.i made it extra wide so it can be worn flat or kinda scrunched up and tucked inside his coat as he said he will wear it.\r\n \r\nthe scarf is knit in a hurdle stitch with garter ribs which is reversible, easy to memorize and makes an interesting texture that doesn't curl.  "
 }

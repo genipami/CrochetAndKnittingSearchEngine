@@ -1,33 +1,37 @@
 {
   "id": 1343128,
-  "name": "Summer Sweater",
+  "name": "summer sweater",
   "permalink": "summer-sweater-14",
   "url": "https://www.ravelry.com/patterns/library/summer-sweater-14",
   "external_url": "https://kelbournewoolens.com/product/summer-sweater-pattern/",
-  "designer_name": "Courtney Kelley",
-  "project_type": "Tee",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "courtney kelley",
+  "project_type": "tee",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Mojave",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 60.0
+    },
+    {
+      "fiber": "Flax (Linen)",
+      "pct": 40.0
     }
   ],
   "stitches_used": [
-    "Ribbing",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "ribbing",
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "In the round",
-    "Lace",
-    "Raglan",
-    "Seamless",
-    "Top-down",
-    "Written"
+    "blocking",
+    "in the round",
+    "lace",
+    "raglan",
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -36,17 +40,18 @@
   ],
   "published": "2023/06/01",
   "sizes_available": "38.25 (42.25, 46, 50, 54.25, 58.5, 62.75. 66)” [97 (107.5, 117, 127, 138, 148.5, 159.5, 167.5) cm] finished bust.",
-  "rating_average": 4.611111111111111,
-  "rating_count": 36,
-  "difficulty_average": 3.27027027027027,
-  "favorites_count": 4501,
-  "projects_count": 182,
+  "rating_average": 4.594594594594595,
+  "rating_count": 37,
+  "difficulty_average": 3.236842105263158,
+  "favorites_count": 4551,
+  "projects_count": 185,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/13463/862028",
+  "notes": "> it all started with the year of\r\n> mittens back in 2016, then came the\r\n> year of hats, followed by gifts, and\r\n> last year’s bulky hats. now in honor\r\n> of our 15th anniversary, we’re sharing\r\n> a season of sweaters.\r\n\r\n**the season of sweaters features four free patterns perfect for the changing of the seasons. patterns are designed by kate and courtney and will be published on the first friday of spring, summer, fall, and winter and feature four [kelbourne woolens yarns][1].**\r\n\r\n*how about a kit? grab it from us [here][2] or ask for one at your favorite lys!*\r\n\r\n**worthy of note**\r\nthe summer sweater is worked from the top down and features modified raglan shaping based on elizabeth zimmermann’s [hurry-up last minute sweater][3] (also called the december sweater), from her book knitter’s almanac.\r\n\r\nthe raglan increases are worked every round, using yarnover increases on odd-numbered rounds, followed by either (p1, k1) or (k1, p1) in each yarnover on the following even-numbered round.\r\n\r\nafter working the neck ribbing, the set-up round marks a single stitch at both center front and center back, and the remaining stitches are reserved for the sleeves. the raglan increases are worked at each end of the front and back sections every round, inside the markers. after completing the yoke, the lower body is worked in the round down to the lower edge which is finished with k2, p2 ribbing. the held stitches of the sleeve openings are finished with k2, p2 ribbing in the round.\r\n\r\n**specifications\r\nyarn**\r\nkelbourne woolens mojave (60% cotton, 40% linen; \r\n185 yds/50 gm skein): smoke gray 046; 4 (4, 4, 5, 5, 6, 6, 7) skeins.\r\n**gauge**\r\n23.5 sts + 33 rows = 4” (10 cm) in stockinette stitch on larger ndls, after blocking.\r\n**needles**\r\n1 – us 3 (3.25 mm) 16” (40 cm) circular.\r\n1 – us 3 (3.25 mm) 24” (60 cm) circular.\r\n1 – us 5 (3.75 mm) 24” (60 cm) circular.\r\n*take time to check your gauge and adjust needle size(s) accordingly if necessary.*\r\n**notions** \r\ntapestry needle, stitch holders or waste yarn, stitch marker.\r\n**size**\r\n38.25 (42.25, 46, 50, 54.25, 58.5, 62.75. 66)” [97 (107.5, 117, 127, 138, 148.5, 159.5, 167.5) cm] finished bust. this project is designed to be worn with 4–8” (10–20 cm) of positive ease. please see schematic for more detailed finished measurements.\r\n**skills**\r\nworking in the round, picking up stitches, simple yarn over patterning.\r\n\r\n**images** linette messina kielinski\r\n\r\n\r\n  [1]: https://www.ravelry.com/yarns/brands/kelbourne-woolens/yarns\r\n  [2]: https://kelbournewoolens.com/product/summer-sweater-kit/\r\n  [3]: https://www.ravelry.com/patterns/library/hurry-up-last-minute-sweater-december",
   "pdf": {
     "filename": "1343128.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1343128.pdf",
-    "url": "https://pdf.ravelrycache.com/KelbourneWoolens/1679811/Kelbourne_Woolens_Summer_Sweater.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483440&Signature=%2FXIOcnVq2ckO368%2FDS40H0YUclA%3D&key_expires=1768483440&key=BvdbiHLMFkNd2pGdZHjUMw",
+    "url": "https://pdf.ravelrycache.com/KelbourneWoolens/1679811/Kelbourne_Woolens_Summer_Sweater.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770442940&Signature=Tjyf6sOCZPidoPkGUqdw2Sz4X6U%3D&key_expires=1770442940&key=mr8ggn_bnkGmBzu8iQQqvw",
     "size_bytes": 2177532
   }
 }

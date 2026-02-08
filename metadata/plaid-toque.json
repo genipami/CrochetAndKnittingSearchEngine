@@ -1,25 +1,33 @@
 {
   "id": 1119823,
-  "name": "Plaid Toque",
+  "name": "plaid toque",
   "permalink": "plaid-toque",
   "url": "https://www.ravelry.com/patterns/library/plaid-toque",
   "external_url": "",
-  "designer_name": "Lisa Overby",
-  "project_type": "Baby",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "lisa overby",
+  "project_type": "baby",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Estelle Double Knit",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 50.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 40.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Stranded colorwork"
+    "blocking",
+    "stranded colorwork"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -27,18 +35,19 @@
     4.5
   ],
   "published": "2021/01/01",
-  "sizes_available": "Baby/Toddler, Ladies/Small, Large/Men",
-  "rating_average": 4.869565217391305,
-  "rating_count": 46,
-  "difficulty_average": 3.4285714285714284,
-  "favorites_count": 3308,
-  "projects_count": 199,
+  "sizes_available": "baby/toddler, ladies/small, large/men",
+  "rating_average": 4.872340425531915,
+  "rating_count": 47,
+  "difficulty_average": 3.511627906976744,
+  "favorites_count": 3346,
+  "projects_count": 202,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/69721/982262",
+  "notes": "cute plaid toque knits up quickly with any dk weight yarn! \r\nthree sizes to fit the whole family.\r\n\r\nestelle double knit (c1): black, q65505\r\nestelle double knit (c2): white, q65501\r\n\r\ngauge: 30 sts by 27 rows equal 4” by 4” in 2 x 2 rib\r\nwith smaller needles after blocking \r\n\r\nneedles: 4 mm (us 6) 16” circular needles, 4.5 mm\r\n(us 7) 16” circular needles, 4.5 mm (us 7) double\r\npointed needles; or size needed to obtain gauge\r\n\r\nnotions: stitch marker, darning needle, pom pom\r\n(optional)\r\n\r\nfinished sizes (measurements taken unstretched):\r\nbaby/toddler: 8” tall, 13” circumference; youth/\r\nladies small: 9.25” tall, 14” circumference; ladies\r\nlarge/men: 11” tall, 16” circumference",
   "pdf": {
     "filename": "1119823.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1119823.pdf",
-    "url": "https://pdf.ravelrycache.com/YarnTwistersYYC/1958354/Plaid_Toque.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482450&Signature=PDSw06iiL8e2S%2FYfiUvAvmtMxfg%3D&key_expires=1768482450&key=Ximw7UtKW-B_gIBDMCHKWg",
+    "url": "https://pdf.ravelrycache.com/YarnTwistersYYC/1958354/Plaid_Toque.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770437274&Signature=KyTSmQm2vq2SGym3FCuvQy455rI%3D&key_expires=1770437274&key=Db2z_Ods3jtIWxpwyWkyNg",
     "size_bytes": 1599887
   }
 }

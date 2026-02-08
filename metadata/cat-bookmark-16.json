@@ -1,22 +1,22 @@
 {
   "id": 7433167,
-  "name": "Cat Bookmark",
+  "name": "cat bookmark",
   "permalink": "cat-bookmark-16",
   "url": "https://www.ravelry.com/patterns/library/cat-bookmark-16",
   "external_url": "https://www.stitchbyfay.com/cat-bookmark-crochet-pattern/",
-  "designer_name": "Fay Lyth",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "fay lyth",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Cotton DK",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     2.5
@@ -27,8 +27,9 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 376,
-  "projects_count": 8,
+  "favorites_count": 400,
+  "projects_count": 9,
   "free_ravelry_download": false,
-  "download_url": "https://www.stitchbyfay.com/cat-bookmark-crochet-pattern/"
+  "download_url": "https://www.stitchbyfay.com/cat-bookmark-crochet-pattern/",
+  "notes": ""
 }

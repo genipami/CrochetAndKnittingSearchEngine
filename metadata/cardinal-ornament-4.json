@@ -1,23 +1,23 @@
 {
   "id": 7389487,
-  "name": "Cardinal Ornament",
+  "name": "cardinal ornament",
   "permalink": "cardinal-ornament-4",
   "url": "https://www.ravelry.com/patterns/library/cardinal-ornament-4",
   "external_url": "https://www.stitchbyfay.com/crochet-cardinal-ornament-pattern/",
-  "designer_name": "Fay Lyth",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "fay lyth",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Cotton DK",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     2.5
@@ -28,8 +28,9 @@
   "rating_average": 5.0,
   "rating_count": 5,
   "difficulty_average": 1.6,
-  "favorites_count": 594,
+  "favorites_count": 601,
   "projects_count": 13,
   "free_ravelry_download": false,
-  "download_url": "https://www.stitchbyfay.com/crochet-cardinal-ornament-pattern/"
+  "download_url": "https://www.stitchbyfay.com/crochet-cardinal-ornament-pattern/",
+  "notes": ""
 }

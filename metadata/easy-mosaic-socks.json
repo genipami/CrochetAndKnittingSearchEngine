@@ -1,45 +1,50 @@
 {
   "id": 1206263,
-  "name": "Easy Mosaic Socks",
+  "name": "easy mosaic socks",
   "permalink": "easy-mosaic-socks",
   "url": "https://www.ravelry.com/patterns/library/easy-mosaic-socks",
   "external_url": "https://www.winwickmum.co.uk/2022/01/easy-mosaic-socks-free-pattern-and-tutorial.html",
-  "designer_name": "Winwick Mum",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "winwick mum",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Signature 4 Ply Solids",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 40.0
     },
     {
-      "fiber": "Signature 4 ply Self Striping or Patterning",
-      "pct": null
+      "fiber": "Bluefaced Leicester (BFL) (Wool)",
+      "pct": 35.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Slip stitch (sl st)",
-    "Stockinette stitch"
+    "slip stitch (sl st)",
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Mosaic",
-    "Seamless",
-    "Written"
+    "charted",
+    "in the round",
+    "mosaic",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.5
   ],
   "published": "2022/01/01",
-  "sizes_available": "To fit ball of foot circumference 8 [8.5:9:9.5] inches; 20 [22:23:24] cm",
+  "sizes_available": "to fit ball of foot circumference 8 [8.5:9:9.5] inches; 20 [22:23:24] cm",
   "rating_average": 4.758241758241758,
   "rating_count": 91,
   "difficulty_average": 3.2674418604651163,
-  "favorites_count": 5532,
-  "projects_count": 381,
+  "favorites_count": 5567,
+  "projects_count": 385,
   "free_ravelry_download": false,
-  "download_url": "https://www.winwickmum.co.uk/2022/01/easy-mosaic-socks-free-pattern-and-tutorial.html"
+  "download_url": "https://www.winwickmum.co.uk/2022/01/easy-mosaic-socks-free-pattern-and-tutorial.html",
+  "notes": "when is a colourwork sock not a colourwork sock?\r\n\r\nwhen it's an easy mosaic sock!\r\n\r\ni know that sounds like a bad cracker joke, but it's actually a bit of magic that will let you create two-colour socks even if you have always found the idea of working with two yarns at once to be something that sends shudders down your spine.\r\n\r\nthis pattern is worked with two yarns but only one at once and uses slip stitches to create the mosaic pattern across the sock.  it's surprisingly easy, and this free pattern with photo tutorial will help you get the hang of it in no time! "
 }

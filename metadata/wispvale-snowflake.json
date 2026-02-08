@@ -1,33 +1,29 @@
 {
   "id": 983317,
-  "name": "Wispvale Snowflake",
+  "name": "wispvale snowflake",
   "permalink": "wispvale-snowflake",
   "url": "https://www.ravelry.com/patterns/library/wispvale-snowflake",
   "external_url": "https://www.draiguna.com/2019/11/wispvale-snowflake.html",
-  "designer_name": "Julia Hart",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Lace",
+  "designer_name": "julia hart",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "lace",
   "materials": [
     {
-      "fiber": "Classic 10 Crochet Thread",
-      "pct": null
-    },
-    {
-      "fiber": "Maxi Sugar Rush",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Cluster stitch",
-    "Double crochet (dc)",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "cluster stitch",
+    "double crochet (dc)",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Lace",
-    "Written"
+    "charted",
+    "lace",
+    "written"
   ],
   "hook_sizes_mm": [
     1.75
@@ -35,11 +31,12 @@
   "needle_sizes_mm": [],
   "published": "2019/11/01",
   "sizes_available": "",
-  "rating_average": 4.890625,
-  "rating_count": 128,
+  "rating_average": 4.891472868217054,
+  "rating_count": 129,
   "difficulty_average": 4.838709677419355,
-  "favorites_count": 12308,
+  "favorites_count": 12355,
   "projects_count": 459,
   "free_ravelry_download": false,
-  "download_url": "https://www.draiguna.com/2019/11/wispvale-snowflake.html"
+  "download_url": "https://www.draiguna.com/2019/11/wispvale-snowflake.html",
+  "notes": "this snowflake pattern has 8 rounds and measures about 4”.  pattern is written using u.s terminology.\r\n\r\n**materials needed**\r\n\r\n* size 10 crochet thread- 15-20 yards\r\n* 1.75 mm hook\r\n* yarn needle\r\n* scissors\r\n\r\n**special stitches**\r\n* fptr cluster\r\n* fpdc decrease\r\n* small picot\r\n* picot\r\n* large picot"
 }

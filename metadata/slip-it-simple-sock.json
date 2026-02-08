@@ -1,26 +1,30 @@
 {
   "id": 878877,
-  "name": "Slip It Simple Sock",
+  "name": "slip it simple sock",
   "permalink": "slip-it-simple-sock",
   "url": "https://www.ravelry.com/patterns/library/slip-it-simple-sock",
   "external_url": "",
-  "designer_name": "Christine Long Derks",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "christine long derks",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Treasured Toes Sock",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Top-down"
+    "in the round",
+    "top-down"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -29,11 +33,12 @@
   ],
   "published": "2018/11/01",
   "sizes_available": "medium and large",
-  "rating_average": 4.837962962962963,
-  "rating_count": 216,
-  "difficulty_average": 2.227272727272727,
-  "favorites_count": 6465,
-  "projects_count": 1006,
+  "rating_average": 4.831818181818182,
+  "rating_count": 220,
+  "difficulty_average": 2.232673267326733,
+  "favorites_count": 6507,
+  "projects_count": 1019,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/2155/494965"
+  "download_url": "http://www.ravelry.com/dls/2155/494965",
+  "notes": "this is my favorite sock pattern for adding a little texture & design while keeping things simple!  it's also fabulous for changing up some crazy pooling sock yarn!\r\n\r\ntop down sock knit on either us 1's (2.25mm) or us 1.5's (2.5) using treasured toes sock yarn or a skein of your favorite.  heel flat & traditional toe.\r\n\r\nthank you to marianneho for creating the danish version of this pattern too!\r\n\r\nhappy creating!\r\nchristine"
 }

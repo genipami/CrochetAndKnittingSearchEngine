@@ -1,25 +1,25 @@
 {
   "id": 793193,
-  "name": "Pink Gingham Blanket",
+  "name": "pink gingham blanket",
   "permalink": "pink-gingham-blanket",
   "url": "https://www.ravelry.com/patterns/library/pink-gingham-blanket",
   "external_url": "http://daisyfarmcrafts.com/crochet-pink-gingham-blanket/",
-  "designer_name": "Tiffany Brown",
-  "project_type": "Blanket",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "tiffany brown",
+  "project_type": "blanket",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Simply Soft",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Eyelet lace",
-    "Treble crochet (tr)"
+    "eyelet lace",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     5.0,
@@ -27,12 +27,13 @@
   ],
   "needle_sizes_mm": [],
   "published": "2019/04/01",
-  "sizes_available": "36\" X 36\"",
+  "sizes_available": "36\" x 36\"",
   "rating_average": 4.781609195402299,
   "rating_count": 87,
   "difficulty_average": 2.8157894736842106,
-  "favorites_count": 6342,
-  "projects_count": 326,
+  "favorites_count": 6388,
+  "projects_count": 329,
   "free_ravelry_download": false,
-  "download_url": "http://daisyfarmcrafts.com/crochet-pink-gingham-blanket/"
+  "download_url": "http://daisyfarmcrafts.com/crochet-pink-gingham-blanket/",
+  "notes": "video tutorial: https://www.youtube.com/watch?v=quuc2ziv9ye\r\n\r\n**materials**\r\n* 3 skeins each of caron simply soft in white, soft pink, and strawberry.\r\n* h- crochet hook, j- crochet hook\r\n* tapestry needle to weave in the ends.\r\n\r\nincludes an eyelet border."
 }

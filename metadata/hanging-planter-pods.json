@@ -1,28 +1,32 @@
 {
   "id": 1028362,
-  "name": "Hanging Planter Pods",
+  "name": "hanging planter pods",
   "permalink": "hanging-planter-pods",
   "url": "https://www.ravelry.com/patterns/library/hanging-planter-pods",
   "external_url": "https://www.yarnspirations.com/Bernat-Hanging-Crochet-Planter-Pods/BRC0518-028689M.html?utm_source=ravelry&utm_medium=referral",
-  "designer_name": "Yarnspirations Design Studio",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Bulky",
+  "designer_name": "yarnspirations design studio",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Maker Home Dec",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 72.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 28.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Half double crochet (hdc)",
-    "Single crochet (sc)"
+    "double crochet (dc)",
+    "half double crochet (hdc)",
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless",
-    "Written"
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [
     8.0
@@ -33,8 +37,9 @@
   "rating_average": 4.620689655172414,
   "rating_count": 29,
   "difficulty_average": 1.9615384615384615,
-  "favorites_count": 3819,
-  "projects_count": 127,
+  "favorites_count": 3865,
+  "projects_count": 129,
   "free_ravelry_download": false,
-  "download_url": "https://www.yarnspirations.com/on/demandware.static/-/Sites-master-catalog-spinrite/default/dwc1025697/PDF/BRC0518-028689M.pdf"
+  "download_url": "https://www.yarnspirations.com/on/demandware.static/-/Sites-master-catalog-spinrite/default/dwc1025697/PDF/BRC0518-028689M.pdf",
+  "notes": "infuse your space with a fresh burst of nature by displaying these delightful crochet planter pods that are quick and easy to create. stitching in bernat maker home dec, pattern is worked in the round, in one piece, using single crochet and half double crochet techniques. perfect to hold potted plants all around your house, explore a selection of shades to add interest and color to any room. pattern includes a small and large size to complete a decorative set.\r\n\r\nsmall version: approx 4½\" [11.5 cm] diameter to fit 4\" [10 cm] plant pot.\r\nlarge version: approx 7\" [18 cm] diameter to fit 6\" [15 cm] plant pot."
 }

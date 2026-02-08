@@ -1,43 +1,52 @@
 {
   "id": 1315004,
-  "name": "Far + Wide Hat",
+  "name": "far + wide hat",
   "permalink": "far--wide-hat",
   "url": "https://www.ravelry.com/patterns/library/far--wide-hat",
   "external_url": "https://www.purlsoho.com/create/2023/02/26/far-wide-hat/",
-  "designer_name": "Tayler Harris",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "tayler harris",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Linen Quill",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 50.0
+    },
+    {
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 35.0
+    },
+    {
+      "fiber": "Flax (Linen)",
+      "pct": 15.0
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "lace",
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Lace",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "lace",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.25
   ],
   "published": "2023/02/01",
-  "sizes_available": "Baby (Toddler, Kid, Adult Small, Adult Large)",
+  "sizes_available": "baby (toddler, kid, adult small, adult large)",
   "rating_average": 4.724137931034483,
   "rating_count": 29,
   "difficulty_average": 3.076923076923077,
-  "favorites_count": 2562,
-  "projects_count": 145,
+  "favorites_count": 2605,
+  "projects_count": 155,
   "free_ravelry_download": false,
-  "download_url": "https://www.purlsoho.com/create/2023/02/26/far-wide-hat/"
+  "download_url": "https://www.purlsoho.com/create/2023/02/26/far-wide-hat/",
+  "notes": "materials\r\npurl soho’s [linen quill][1], 50% fine highland wool, 35% alpaca and 15% linen. each skein is approximately 439 yards/ 100 grams.\r\n\r\n- main color (mc): 1 skein; approximately 110 (135, 225, 240, 275) total yards required.\r\n- contrast color (cc): 1 skein; approximately 40 (50, 80, 95, 100) total yards required.\r\n\r\nyou'll also need...\r\n\r\n- us 3 (3.25 mm), 16-inch [circular needles][2], for kid and adult sizes\r\n- a set of us 3 [double pointed needles][3]\r\n- [stitch markers][4], including one unique\r\n- scrap yarn and [crochet hook][5] for provisional cast on\r\n- spare 16-inch circular needles or double pointed needles, us 3 or smaller\r\n\r\nnote: this is enough yarn to make 4 (3, 1, 1, 1) hat(s) using the same mc and cc, or enough for 5 (4, 2, 2, 2) hats if you alternate colors!\r\n\r\nwe used these colorful combos for our samples…\r\n\r\n- main color: golden green; contrast color: reed gray\r\n- main color: birds egg blue; contrast color: peachy pink\r\n- main color: kettle black; contrast color: pale oats\r\n\r\ngauge\r\n27 stitches and 39 rounds = 4 inches in stockinette stitch\r\n\r\nsizes\r\nbaby (toddler, kid, adult small, adult large)\r\n\r\n- finished circumference: 13 (15½, 17¾, 19, 21¼) inches, comfortably stretching 1-3 inches\r\n- finished height: 7 (8¼, 9½, 10¾, 12) inches\r\n\r\nsamples: we knit all of our hats in the adult small size.\r\n\r\n\r\ndesigned for purl soho by [tayler harris][6]. based in utah, tayler finds inspiration for her designs from the unique landscapes of her home state. from the beautiful mountains and canyons to the national parks and natural landscapes, she loves to incorporate the colors, textures, and shapes of her favorite places.\r\n\r\nall images ©️ copyright purl soho\r\n\r\n\r\n  [1]: https://www.purlsoho.com/linen-quill.html\r\n  [2]: https://www.purlsoho.com/tools-and-notions/knitting-and-crochet.html?collection_filter=23796\r\n  [3]: https://www.purlsoho.com/tools-and-notions/knitting-and-crochet.html?collection_filter=23799\r\n  [4]: https://www.purlsoho.com/tools-and-notions/knitting-and-crochet.html?collection_filter=964\r\n  [5]: https://www.purlsoho.com/tools-and-notions/knitting-and-crochet.html?collection_filter=23805\r\n  [6]: https://www.instagram.com/tayleranneknits/"
 }

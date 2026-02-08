@@ -1,35 +1,35 @@
 {
   "id": 295153,
-  "name": "Christian's Hat",
+  "name": "christian's hat",
   "permalink": "christians-hat",
   "url": "https://www.ravelry.com/patterns/library/christians-hat",
   "external_url": "http://agneskutas.com/en/pattern-shop/accessories_en/christians-hat-detail",
-  "designer_name": "Ágnes Kutas",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "ágnes kutas",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Cascade 220® Heathers",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 46.7
     },
     {
-      "fiber": "Mosó Masa",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 33.3
     },
     {
-      "fiber": "Pittsburgh",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless",
-    "Written"
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -38,11 +38,12 @@
   ],
   "published": "2012/01/01",
   "sizes_available": "to fit head circumference 56-61 cm (22-24 in)",
-  "rating_average": 4.637069922308546,
-  "rating_count": 901,
-  "difficulty_average": 1.894291754756871,
-  "favorites_count": 15762,
-  "projects_count": 3108,
+  "rating_average": 4.636666666666667,
+  "rating_count": 900,
+  "difficulty_average": 1.891005291005291,
+  "favorites_count": 15780,
+  "projects_count": 3111,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/20837/90204"
+  "download_url": "http://www.ravelry.com/dls/20837/90204",
+  "notes": "christian's hat was designed to match [christian's scarf][1]. the stitch pattern is easy to work and really stretchy - ensuring a perfect fit.\r\n\r\n**size**: to fit head circumference 56-61 cm (22-24 inches)\r\n\r\n**yarn**: \r\nhws markoma pittsburgh \r\n40% wool, 60% acrylic \r\n188 meters / 100 g \r\n¾ skeins\r\n\r\n**needles**:\r\n3.5 mm (us 4) double-pointed needles\r\n4 mm (us 6) double-pointed needles\r\n\r\n**gauge**: \r\n21 stitches / 25 rounds = 10 cm in pattern using 4 mm (us 6) needles\r\n\r\n**[skill level][2]**: \r\neasy\r\n\r\n**available in:**\r\n- english\r\n- german\r\n- hungarian\r\n- french (translated by [mister-winter][3] - thanks so much :)\r\n\r\n.\r\n  [1]: http://www.ravelry.com/patterns/library/christians-scarf\r\n  [2]: http://www.craftyarncouncil.com/skill.html\r\n  [3]: http://www.ravelry.com/people/mister-winter"
 }

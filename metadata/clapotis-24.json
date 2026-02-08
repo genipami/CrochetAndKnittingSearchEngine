@@ -1,42 +1,47 @@
 {
   "id": 7370159,
-  "name": "Clapotis '24",
+  "name": "clapotis '24",
   "permalink": "clapotis-24",
   "url": "https://www.ravelry.com/patterns/library/clapotis-24",
   "external_url": "https://knitty.com/ISSUEdf24/PATTclapotis/PATTclapotis.php",
-  "designer_name": "Kate Gilbert",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "kate gilbert",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Lion & Lamb Multi",
-      "pct": null
+      "fiber": "Silk (Silk)",
+      "pct": 50.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 50.0
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "lace",
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Lace",
-    "Seamless",
-    "Written"
+    "blocking",
+    "lace",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     5.0
   ],
   "published": "2024/09/01",
-  "sizes_available": "One",
-  "rating_average": 4.87,
-  "rating_count": 100,
-  "difficulty_average": 2.4563106796116503,
-  "favorites_count": 1990,
-  "projects_count": 493,
+  "sizes_available": "one",
+  "rating_average": 4.87378640776699,
+  "rating_count": 103,
+  "difficulty_average": 2.4761904761904763,
+  "favorites_count": 2013,
+  "projects_count": 498,
   "free_ravelry_download": false,
-  "download_url": "https://knitty.com/ISSUEdf24/PATTclapotis/PATTclapotis.php"
+  "download_url": "https://knitty.com/ISSUEdf24/PATTclapotis/PATTclapotis.php",
+  "notes": "**editor's note:** this updated version of the legendary clapotis pattern is here to commemorate the pattern's 20th anniversary of publication as part of the clapotisfest celebration!\r\n\r\n**construction method:** the scarf begins in a point at one corner, and increases are worked at the end of each row. once you’ve reached the full width of the scarf for the main body, it is worked straight until the desired length is achieved, then decreased back down to a point at the far corner.\r\n\r\n**suggested yarn:** any yarn in any weight can be used in place of the discontinued original yarn. adjust needle size to match the yarn you use so that the solid sections read as solid. the finished shawl will be most interesting when a non-solid colorway is used. because of the simple stitch pattern, a super-variegated high-contrast colorway can work well here. note that with fuzzy yarn (such as mohair or brushed alpaca), dropping the laddered stitches will be a bit more laborious. yarn with stretch/memory, such as non-superwash wool, will show the ripples best. shimmery, smooth yarns will not hold the ripples but can also be beautiful.\r\n\r\nthis pattern can easily be adjusted in size (especially helpful if you are changing the gauge of the yarn) in this way:\r\n1.  work set-up rows as for scarf.\r\n2.  work increase rows until piece is desired width (measure width along right-hand side of triangle, with rs facing.) work increase rows 1-6 once more before proceeding to straight rows.\r\n3.  work straight rows until piece is desired length (measure length along left-hand side of piece, with rs facing.)\r\n4.  work decrease rows as necessary until 23 sts rem. \r\nwork decrease rows 1-10 once more. \r\nwork final rows.\r\n\r\n**which side is the right side?**\r\nthe ripples show best when the purl side is displayed, and that's how it's intended to be worn. see picture below. blocking is neither required or recommended, in order to leave the ripples in their original ripply state.\r\n\r\n**knitting tip:** if you find stitch markers annoying, try this (thanks to azzymakes for the tip!):\r\n\r\non the rs, purl the stitch to be dropped (knit on the ws) – this will allow you to forgo the use of stitch markers\r\non the ws, purl through the back loops of the stitches that were knit through the back loops on the rs – this gives neater edges once the stitches are dropped"
 }

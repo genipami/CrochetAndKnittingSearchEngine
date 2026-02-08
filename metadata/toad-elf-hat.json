@@ -1,34 +1,38 @@
 {
   "id": 7478286,
-  "name": "Toad Elf Hat",
+  "name": "toad elf hat",
   "permalink": "toad-elf-hat",
   "url": "https://www.ravelry.com/patterns/library/toad-elf-hat",
   "external_url": "",
-  "designer_name": "Maggie L. Wood",
-  "project_type": "Toys",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "maggie l. wood",
+  "project_type": "toys",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "80/20 Merino Nylon DK",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 30.0
     },
     {
-      "fiber": "Naturally Soft Sock",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 23.8
     },
     {
-      "fiber": "Shhh DK",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 20.0
     },
     {
-      "fiber": "Whirlette",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 15.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 11.2
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "In the round"
+    "in the round"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -37,16 +41,17 @@
   "published": "2025/11/01",
   "sizes_available": "",
   "rating_average": 5.0,
-  "rating_count": 3,
-  "difficulty_average": 2.3333333333333335,
-  "favorites_count": 474,
-  "projects_count": 7,
+  "rating_count": 4,
+  "difficulty_average": 2.75,
+  "favorites_count": 500,
+  "projects_count": 8,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/107273/1037327",
+  "notes": "(*turns out my lady spinderella pattern can also fit the elf hat, and you can turn your lady spinderellas into christmas elves too! lady spinderella pattern can be found here - https://www.ravelry.com/patterns/library/lady-spinderella-doll)\r\n\r\nnow that it's november, the toads need a new hat! something christmas-y, of course. and i think i've designed just the right hat for them - a christmas elf hat - so they can bring all the 'mistletoad' fun into your holiday season! \r\n\r\nmany, many thanks for all the continuing support of my little toad pattern! please enjoy this free gift from me, and i give you all the warmest wishes for a wonderful christmas and a happy new year! \r\n\r\n*note:  the 2 toads i made to model the elf hats are made from my toad pattern, but i've adjusted a couple of things from the original pattern to make the toad a bit smaller. i use 2 mm needles (instead of 2.5 mm), and use 16 mm safety eyes (instead of 14 mm). and i don't do the eye folds when putting the toad together. for further details, you can check out my projects page.\r\n\r\nhttps://www.ravelry.com/projects/magewoodwhimsies/toad-familiar-16\r\n\r\nhttps://www.ravelry.com/projects/magewoodwhimsies/toad-familiar-15\r\n\r\noriginal toad pattern can be found here:  https://www.ravelry.com/patterns/library/toad-familiar-2",
   "pdf": {
     "filename": "7478286.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7478286.pdf",
-    "url": "https://pdf.ravelrycache.com/MageWoodWhimsies/2088882/ToadElfHat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483812&Signature=i8FCQBOstSHnrlRjQAgeyFHgGjM%3D&key_expires=1768483812&key=GWxls97DnFyqW7Ro33i7PA",
+    "url": "https://pdf.ravelrycache.com/MageWoodWhimsies/2088882/ToadElfHat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770444936&Signature=eoQl1fbu5aCE2FJelv9o4gYF9aQ%3D&key_expires=1770444936&key=ULx5ZULsoUHIJJ6g4IxPyg",
     "size_bytes": 2470357
   }
 }

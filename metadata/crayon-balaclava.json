@@ -1,36 +1,36 @@
 {
   "id": 1293566,
-  "name": "Crayon Balaclava",
+  "name": "crayon balaclava",
   "permalink": "crayon-balaclava",
   "url": "https://www.ravelry.com/patterns/library/crayon-balaclava",
   "external_url": "",
-  "designer_name": "Mia Filisch",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "mia filisch",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Ito",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 75.0
     },
     {
-      "fiber": "Kureyon（くれよん）",
-      "pct": null
+      "fiber": "Silk (Silk)",
+      "pct": 16.7
     },
     {
-      "fiber": "Tsubame (silk blend)",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 8.3
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -42,14 +42,15 @@
   "rating_average": 4.695652173913044,
   "rating_count": 23,
   "difficulty_average": 2.2857142857142856,
-  "favorites_count": 1906,
-  "projects_count": 95,
+  "favorites_count": 1979,
+  "projects_count": 98,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/97699/822648",
+  "notes": "this beginner-friendly winter warmer knits up super quickly and can be rolled up and worn as a beanie too, whenever you’re getting toasty.\r\n\r\nintended to be worn with slight negative ease, three adult sizes (the smallest of which will also work well for older kids or teens) offer a snug fit for different heads.\r\n\r\nit's a budget-friendly pattern too: designed to work with just one or two 50g balls of noro kureyon (くれよん is the japanese pronunciation of the english “crayon” - hence the pattern name).\r\n\r\npick your favourite colour way and if you like, use some contrast scrap yarn for a fun colour pop on the face opening!\r\n\r\n**pattern update march 2023**\r\nafter some feedback on the sizing, this has been overhauled in the 2nd edition. the new version also fixes an error, adds some clarifications and includes more detailed measurements of each size, as well as links to videos for help with any techniques used, to make it even more accessible to beginners.",
   "pdf": {
     "filename": "1293566.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1293566.pdf",
-    "url": "https://pdf.ravelrycache.com/minkaotic/1642804/Crayon_Balaclava_Pattern_v2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479750&Signature=tvDA8baC%2BiOw%2Fsj0kw36O7tH8ro%3D&key_expires=1768479750&key=p4nMR6BlCvVTFuqIksQ4Bg",
+    "url": "https://pdf.ravelrycache.com/minkaotic/1642804/Crayon_Balaclava_Pattern_v2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770422536&Signature=LezA72k6knvoYq%2BTTNa0kmS7FVQ%3D&key_expires=1770422536&key=TGlXoQL2VVAMlV_GI3IMCA",
     "size_bytes": 3686433
   }
 }

@@ -1,30 +1,34 @@
 {
   "id": 1272753,
-  "name": "234-35 Fresh Rain",
+  "name": "234-35 fresh rain",
   "permalink": "234-35-fresh-rain",
   "url": "https://www.ravelry.com/patterns/library/234-35-fresh-rain",
   "external_url": "https://www.garnstudio.com/pattern.php?id=11030&cid=19",
-  "designer_name": "DROPS design",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "drops design",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "DROPS Flora",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 65.0
+    },
+    {
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 35.0
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Garter stitch",
-    "Treble crochet (tr)"
+    "cable",
+    "garter stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Cables",
-    "Charted",
-    "Seamless",
-    "Top-down",
-    "Written"
+    "cables",
+    "charted",
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -32,11 +36,12 @@
   ],
   "published": "2022/09/01",
   "sizes_available": "29 x 87cm / 11-3/8 x 34¼ in",
-  "rating_average": 4.6,
-  "rating_count": 15,
-  "difficulty_average": 2.9285714285714284,
-  "favorites_count": 1143,
-  "projects_count": 74,
+  "rating_average": 4.625,
+  "rating_count": 16,
+  "difficulty_average": 2.8666666666666667,
+  "favorites_count": 1175,
+  "projects_count": 77,
   "free_ravelry_download": false,
-  "download_url": "https://www.garnstudio.com/pattern.php?id=11030&cid=19"
+  "download_url": "https://www.garnstudio.com/pattern.php?id=11030&cid=19",
+  "notes": "**knitted shawl in drops flora. the piece is worked top down, with honeycomb and relief-pattern.**\r\n~~~~~~~~~~~~~~~~~~~~~\r\n\r\n[see even fall hat pattern here][1]\r\n~~~~~~~~~~~~~~~~~~~~~\r\n\r\ndrops design: pattern fl-076\r\nyarn group a\r\n\r\n-------------------------------------------------------\r\n\r\n\r\n**size**:\r\nheight: measured down the middle = approx. 29 cm.\r\nwidth: measured along the top = 87 cm.\r\n\r\n**materials**:\r\ndrops flora from garnstudio (belongs to yarn group a)\r\n50 g colour 22, white fog\r\n\r\nneedles:\r\ndrops circular needle size 3 mm: length 80 cm.\r\ndrops cable needle.\r\n\r\n**knitting tension**:\r\n26 stitches in width and 51 rows in height with garter stitch = 10 x 10 cm.\r\n34 stitches with honeycomb pattern = 10 cm in width.\r\nnote: needle size is only a guide. if you get too many stitches on 10 cm, change to a larger needle size. if you get too few stitches on 10 cm, change to a smaller needle size. \r\n  [1]: https://www.ravelry.com/patterns/library/234-36-even-fall-hat"
 }

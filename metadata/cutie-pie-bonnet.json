@@ -4,27 +4,31 @@
   "permalink": "cutie-pie-bonnet",
   "url": "https://www.ravelry.com/patterns/library/cutie-pie-bonnet",
   "external_url": "https://www.instagram.com/p/C--GghHv40C/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-  "designer_name": "Loupy Studio",
-  "project_type": "Child",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "loupy studio",
+  "project_type": "child",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Merinocot",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 53.0
+    },
+    {
+      "fiber": "Cotton (Cotton)",
+      "pct": 47.0
     }
   ],
   "stitches_used": [
-    "Shell",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "shell",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Lace",
-    "Worked flat",
-    "Written"
+    "charted",
+    "in the round",
+    "lace",
+    "worked flat",
+    "written"
   ],
   "hook_sizes_mm": [
     4.0
@@ -32,17 +36,18 @@
   "needle_sizes_mm": [],
   "published": "2024/08/01",
   "sizes_available": "",
-  "rating_average": 4.857142857142857,
-  "rating_count": 21,
-  "difficulty_average": 2.3333333333333335,
-  "favorites_count": 1270,
-  "projects_count": 58,
+  "rating_average": 4.863636363636363,
+  "rating_count": 22,
+  "difficulty_average": 2.272727272727273,
+  "favorites_count": 1372,
+  "projects_count": 64,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/105663/947242",
+  "notes": "this pattern is a photo guide for a crochet bonnet. the stitch used is an adapted shell stitch, which is a two row repeat including one 'teardrop row' and one 'arch row'. the piece is initially worked in the round, turning the work after each row, then worked flat. ties are added afterwards - these can be the recommended foundation single crochet, or whatever you'd like. \r\n\r\nthe pattern can be modified to be a more 'full coverage' bonnet by adding an extra row after the final step. to size down to a child or baby bonnet, i would recommend reducing the hook and yarn size accordingly. \r\n\r\nthe yarn used in the guide is lana gatto merinocot, which is dk weight, but i have also made the bonnet in fingering weight qing fibre yak with plenty of success. i used around 30-40g, depending on the length of the ties. use whatever you feel - but i'd recommend sticking to a weight between fingering and dk.\r\n\r\nthe guide requires a bit of diy attitude, reflecting the free nature of the pattern. i hope that you have fun and put your own twist on it! you're more than welcome to message me on insta for support, but again, as this is a free pattern, i hope that you can try to figure things out by yourself :)\r\n\r\nenjoy!",
   "pdf": {
     "filename": "7363647.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7363647.pdf",
-    "url": "https://pdf.ravelrycache.com/loupystudio/1881028/bonnetguide2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479824&Signature=BWiv5GKikApHKY5Q4EZQbcEaGZw%3D&key_expires=1768479824&key=OELSiPvFuXVXHgAS0PuYWg",
+    "url": "https://pdf.ravelrycache.com/loupystudio/1881028/bonnetguide2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770423183&Signature=Jhxw8ZUfipm4PlDw0LD15MTTCiU%3D&key_expires=1770423183&key=b7ofazQWn1meFFsruoiK4A",
     "size_bytes": 2473352
   }
 }

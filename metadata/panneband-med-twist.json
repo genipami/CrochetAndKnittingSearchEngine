@@ -1,40 +1,49 @@
 {
   "id": 1075386,
-  "name": "Pannebånd med twist",
+  "name": "pannebånd med twist",
   "permalink": "panneband-med-twist",
   "url": "https://www.ravelry.com/patterns/library/panneband-med-twist",
   "external_url": "https://www.facebook.com/hoemstrikkedesign",
-  "designer_name": "Anne Marit Hoem",
-  "project_type": "Child",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "anne marit hoem",
+  "project_type": "child",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "DROPS Air",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 65.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 28.0
+    },
+    {
+      "fiber": "Merino (Merino)",
+      "pct": 7.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [],
   "published": "2020/10/01",
   "sizes_available": "",
-  "rating_average": 4.962962962962963,
-  "rating_count": 27,
-  "difficulty_average": 1.72,
-  "favorites_count": 1478,
-  "projects_count": 373,
+  "rating_average": 4.964285714285714,
+  "rating_count": 28,
+  "difficulty_average": 1.7692307692307692,
+  "favorites_count": 1483,
+  "projects_count": 386,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/75394/645494",
+  "notes": "pannebåndet er veldig enkelt å strikke.\r\n\r\njeg har brukt drops air og pinne nr. 5.\r\n\r\nstørrelse:\r\n\r\nhodeomkrets: 52 - 54 (54 – 56) 56 – 59 cm.\r\n\r\ngarnforbruk: 1 nøste til alle størrelser",
   "pdf": {
     "filename": "1075386.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1075386.pdf",
-    "url": "https://pdf.ravelrycache.com/amhoem/1205108/Panneband_med_twist.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482285&Signature=ptqKHbkbok2s1S%2FIdrLcd1%2FfAYg%3D&key_expires=1768482285&key=FG5LmAmU2nvLNz-W345FZw",
+    "url": "https://pdf.ravelrycache.com/amhoem/1205108/Panneband_med_twist.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770436444&Signature=B60uOiy6uNXSYhdyX35%2Fv7XMz6Y%3D&key_expires=1770436444&key=Xm11_f8a3GSEY9uS_PKouw",
     "size_bytes": 411358
   }
 }

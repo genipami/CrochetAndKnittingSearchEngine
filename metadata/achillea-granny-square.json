@@ -1,30 +1,30 @@
 {
   "id": 7485194,
-  "name": "Achillea Granny Square",
+  "name": "achillea granny square",
   "permalink": "achillea-granny-square",
   "url": "https://www.ravelry.com/patterns/library/achillea-granny-square",
   "external_url": "",
-  "designer_name": "Anna Peterson (Brigid Collective)",
-  "project_type": "Other",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "anna peterson (brigid collective)",
+  "project_type": "other",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Cotton 8 Ply",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Cluster stitch",
-    "Double crochet (dc)",
-    "Front post stitch",
-    "Granny",
-    "Treble crochet (tr)"
+    "cluster stitch",
+    "double crochet (dc)",
+    "front post stitch",
+    "granny",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Written"
+    "charted",
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     4.5
@@ -35,14 +35,15 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 243,
+  "favorites_count": 283,
   "projects_count": 3,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/114953/1043035",
+  "notes": "achillea is a floral-inspired granny square. the motif was inspired by the ironwork flowers found on the friezes of the victorian houses in my local area.\r\n\r\nthe square uses mostly standard stitches with a few engaging elements, including cluster stitches and gentle front post work to shape the petals. it’s relaxing to make, with enough interest to keep you engaged without needing too much concentration.\r\n\r\nperfect for lap blankets, cushions or stash-busting projects. suitable for any yarn weight, but the finished size will vary.\r\n\r\n7 rounds = 15cm\r\n\r\ni’d love to see your achillea squares.\r\nuse #achilleagrannysquare or #brigidcollective when sharing online.\r\n\r\nfor pattern support, you can contact me at brigidcollective@outlook.com\r\n\r\nhope you enjoy!",
   "pdf": {
     "filename": "7485194.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7485194.pdf",
-    "url": "https://pdf.ravelrycache.com/BrigidCollective/2101904/Achillea_Granny_Square_By_Brigid_Collective.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478645&Signature=GuEQeiSqB7L9IrNyecR%2F%2B9gQb50%3D&key_expires=1768478645&key=h90BSA1-CsbYLvkAIR_LCA",
+    "url": "https://pdf.ravelrycache.com/BrigidCollective/2101904/Achillea_Granny_Square_By_Brigid_Collective.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770416443&Signature=R8TmMc7bA%2FUkcK98KyCwSXvQr3I%3D&key_expires=1770416443&key=bHrFCsOewauJUkqraykFaQ",
     "size_bytes": 10102402
   }
 }

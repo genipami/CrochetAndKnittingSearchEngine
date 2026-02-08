@@ -1,42 +1,51 @@
 {
   "id": 7374326,
-  "name": "Lucia Scarf",
+  "name": "lucia scarf",
   "permalink": "lucia-scarf-4",
   "url": "https://www.ravelry.com/patterns/library/lucia-scarf-4",
   "external_url": "https://hobbii.com/lucia-scarf?utm_medium=social&utm_source=ravelry&utm_campaign=pattern/&utm_content=lucia-scarf+hbtrack&utm_term=karen",
-  "designer_name": "JoJo Knitwear",
-  "project_type": "Scarf",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "jojo knitwear",
+  "project_type": "scarf",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Divina",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 65.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Lace",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "lace",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Lace",
-    "Seamless",
-    "Written"
+    "charted",
+    "lace",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     5.0
   ],
   "published": "2024/10/01",
-  "sizes_available": "S (L)",
+  "sizes_available": "s (l)",
   "rating_average": 4.875,
   "rating_count": 8,
   "difficulty_average": 3.0,
-  "favorites_count": 550,
+  "favorites_count": 569,
   "projects_count": 24,
   "free_ravelry_download": false,
-  "download_url": "https://hobbii.com/lucia-scarf?utm_medium=social&utm_source=ravelry&utm_campaign=pattern/&utm_content=lucia-scarf+hbtrack&utm_term=karen"
+  "download_url": "https://hobbii.com/lucia-scarf?utm_medium=social&utm_source=ravelry&utm_campaign=pattern/&utm_content=lucia-scarf+hbtrack&utm_term=karen",
+  "notes": "**size**\r\ns (l)\r\n\r\n**measurements**\r\nlength: 140 (170) cm / 55 (67)\" \r\nwidth: 23 (32) cm / 9 (12.5)\"\r\n\r\n**materials**\r\n2 (3) skeins of divina, color sangria (15)\r\n\r\n**needles**\r\ncircular needle 5 mm (us 8) – 80 cm (32\")\r\n\r\n**yarn quality**\r\ndivina, hobbii\r\n65 % alpaca, 28 % polyamide, 7 % wool\r\n50 g (1.75 oz) = 150 m (164 yds)\r\n\r\n**gauge**\r\n16 sts x 28 rows = 10 cm (4\")\r\n\r\n**about the pattern**\r\nlucia scarf is a scarf worked in garter stitch with a delicate lace pattern. the scarf is worked back and forth on a circular needle.\r\nthe pattern includes lace pattern charts with instructions.\r\n\r\n**find the pattern in more languages here:**\r\n[german][1] \r\n[danish][2] \r\n[swedish][3] \r\n[norwegian][4] \r\n[finnish][5] \r\n[french][6] \r\n[spanish][7] \r\n[italian][8] \r\n[polish][9] \r\n[dutch][10] \r\n\r\n\r\n  [1]: https://hobbii.de/lucia-scarf?utm_medium=social&utm_source=ravelry&utm_campaign=pattern/&utm_content=lucia-scarf+hbtrack&utm_term=karen\r\n  [2]: https://hobbii.dk/lucia-scarf?utm_medium=social&utm_source=ravelry&utm_campaign=pattern/&utm_content=lucia-scarf+hbtrack&utm_term=karen\r\n  [3]: https://hobbii.se/lucia-scarf?utm_medium=social&utm_source=ravelry&utm_campaign=pattern/&utm_content=lucia-scarf+hbtrack&utm_term=karen\r\n  [4]: https://hobbii.no/lucia-scarf?utm_medium=social&utm_source=ravelry&utm_campaign=pattern/&utm_content=lucia-scarf+hbtrack&utm_term=karen\r\n  [5]: https://hobbii.fi/collections/product-patterns/products/hp-1008445-lucia-scarf?utm_medium=social&utm_source=ravelry&utm_campaign=pattern/&utm_content=lucia-scarf+hbtrack&utm_term=karen\r\n  [6]: https://hobbii.fr/lucia-scarf?utm_medium=social&utm_source=ravelry&utm_campaign=pattern/&utm_content=lucia-scarf+hbtrack&utm_term=karen\r\n  [7]: https://hobbii.es/collections/product-patterns/products/hp-1008445-lucia-scarf?utm_medium=social&utm_source=ravelry&utm_campaign=pattern/&utm_content=lucia-scarf+hbtrack&utm_term=karen\r\n  [8]: https://hobbii.it/lucia-scarf?utm_medium=social&utm_source=ravelry&utm_campaign=pattern/&utm_content=lucia-scarf+hbtrack&utm_term=karen\r\n  [9]: https://hobbii.pl/collections/product-patterns/products/hp-1008445-lucia-scarf?utm_medium=social&utm_source=ravelry&utm_campaign=pattern/&utm_content=lucia-scarf+hbtrack&utm_term=karen\r\n  [10]: https://hobbii.nl/lucia-scarf?utm_medium=social&utm_source=ravelry&utm_campaign=pattern/&utm_content=lucia-scarf+hbtrack&utm_term=karen"
 }

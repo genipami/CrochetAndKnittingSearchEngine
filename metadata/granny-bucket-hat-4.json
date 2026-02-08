@@ -1,30 +1,30 @@
 {
   "id": 7431105,
-  "name": "Granny Bucket Hat",
+  "name": "granny bucket hat",
   "permalink": "granny-bucket-hat-4",
   "url": "https://www.ravelry.com/patterns/library/granny-bucket-hat-4",
   "external_url": "https://zeensandroger.com/2025/05/13/granny-bucket-hat/",
-  "designer_name": "Zeens and Roger",
-  "project_type": "Hat",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "zeens and roger",
+  "project_type": "hat",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Recycled Cotton Worsted",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Cluster stitch",
-    "Double crochet (dc)",
-    "Granny",
-    "Slip stitch (sl st)",
-    "Treble crochet (tr)"
+    "cluster stitch",
+    "double crochet (dc)",
+    "granny",
+    "slip stitch (sl st)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Top-down",
-    "Written"
+    "in the round",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [
     3.75
@@ -35,8 +35,9 @@
   "rating_average": 5.0,
   "rating_count": 9,
   "difficulty_average": 2.0,
-  "favorites_count": 870,
-  "projects_count": 26,
+  "favorites_count": 928,
+  "projects_count": 27,
   "free_ravelry_download": false,
-  "download_url": "https://zeensandroger.com/2025/05/13/granny-bucket-hat/"
+  "download_url": "https://zeensandroger.com/2025/05/13/granny-bucket-hat/",
+  "notes": "this isn’t a drapey hat, which is intentional here; i think summer hats sometimes need a bit of rigidity. \r\n\r\nthis is a crochet pattern that is one size but there is information on adjustments and video tutorials for some sections.\r\n\r\nthis hat should fit a head measuring 54 – 58cm. in other words, an average adult head. i haven’t given a circumference measurement because it’s different at each section of the hat.\r\nthe hat’s depth is 22cm.\r\n\r\npaintbox yarns recycled cotton worsted, 100% cotton, (170yds/155m, 100g) worsted. you will need just over 50g of each of the two colours. a similar yarn with the same meterage/yardage will probably be ok too. to learn more about yarn substitution, go here.\r\n3.75mm hook (us f5).\r\n\r\nthe pattern is written in us terms, but i add both terms in all the chat and notes.\r\n\r\na cluster is 3 us dc / uk tr stitches made in the same space.\r\n\r\nusing a different weight of yarn or a different sized hook will affect the size of the hat. \r\n\r\ni cut my yarn every two rounds and sewed in the ends. it looks neater than floating it for this design. feel free to float the yarn instead of cutting every other round. \r\n\r\na stdc (standing double crochet) counts as us 1dc / uk 1tr.\r\n\r\nabbreviations (us terms)\r\nbeg = beginning, ch = chain, ch-sp = chain space, clu = cluster, dc = double, st(s) = stitch(es), sp(s) = space(s), sl st = slip stitch,\r\nstdc = standing double start, rep = repeat, yrh = yarn round hook."
 }

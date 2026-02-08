@@ -1,24 +1,24 @@
 {
   "id": 717534,
-  "name": "Moorland Blanket",
+  "name": "moorland blanket",
   "permalink": "moorland-blanket",
   "url": "https://www.ravelry.com/patterns/library/moorland-blanket",
   "external_url": "https://attic24.co.uk/patterns/cals/moorland-blanket/",
-  "designer_name": "Lucy of Attic24",
-  "project_type": "Blanket",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "lucy of attic24",
+  "project_type": "blanket",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Special Double Knit",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     4.0
@@ -29,8 +29,9 @@
   "rating_average": 4.802469135802469,
   "rating_count": 324,
   "difficulty_average": 2.801948051948052,
-  "favorites_count": 6090,
+  "favorites_count": 6120,
   "projects_count": 874,
   "free_ravelry_download": false,
-  "download_url": "https://attic24.co.uk/patterns/cals/moorland-blanket/"
+  "download_url": "https://attic24.co.uk/patterns/cals/moorland-blanket/",
+  "notes": "moorland blanket cal runs from january 6 to february 24, 2017. for more information see:\r\n[moorland blanket cal][1]\r\n[pattern uses the neat wave pattern][2]\r\n\r\nfifteen shades of stylecraft special dk are used to create the moorland colour palette :\r\n\r\npistachio\r\nsage\r\ngrape\r\nwisteria\r\nduck egg\r\nlime\r\nmeadow\r\nmocha\r\nviolet\r\ncloud blue\r\ncypress\r\nkhaki\r\nwalnut\r\nplum\r\nstorm blue\r\n\r\npattern contains optional stripes to make larger blankets.\r\n\r\nyardage is based on 15 balls of stylecraft special dk for twin blanket - 30 balls for larger blanket.\r\n\r\n\r\n  [1]: https://attic24.co.uk/patterns/cals/moorland-blanket/\r\n  [2]: https://attic24.co.uk/posts/neat-wave-pattern/"
 }

@@ -1,42 +1,47 @@
 {
   "id": 7286114,
-  "name": "Miriam Beanie",
+  "name": "miriam beanie",
   "permalink": "miriam-beanie",
   "url": "https://www.ravelry.com/patterns/library/miriam-beanie",
   "external_url": "https://www.madamestitch.com/miriam-granny-stitch-crochet-beanie-pattern",
-  "designer_name": "Debbie Field",
-  "project_type": "Child",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "debbie field",
+  "project_type": "child",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Coboo",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 51.0
+    },
+    {
+      "fiber": "Rayon from Bamboo (Bamboo)",
+      "pct": 49.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Half double crochet (hdc)",
-    "Single crochet (sc)",
-    "Slip stitch (sl st)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "half double crochet (hdc)",
+    "single crochet (sc)",
+    "slip stitch (sl st)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless",
-    "Written"
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [
     5.0
   ],
   "needle_sizes_mm": [],
   "published": "2023/10/01",
-  "sizes_available": "Baby, Child, Adult Small, Medium and Large",
+  "sizes_available": "baby, child, adult small, medium and large",
   "rating_average": 4.875,
   "rating_count": 16,
   "difficulty_average": 2.25,
-  "favorites_count": 876,
+  "favorites_count": 886,
   "projects_count": 62,
   "free_ravelry_download": false,
-  "download_url": "http://www.ravelry.com/purchase/debbie-field-designs/886849"
+  "download_url": "http://www.ravelry.com/purchase/debbie-field-designs/886849",
+  "notes": "the miriam beanie was created specifically for the crochet challenge hosted by sweet potato 3, an event honoring those who deal with cancer and the effects of their treatment. \r\n\r\nthe miriam beanie is lovingly crocheted in pink, symbolizing support for individuals who are either facing or fighting against breast cancer. however, choosing a color to show support for any type of cancer is a meaningful way to raise awareness and show solidarity with those affected by the disease.\r\n\r\nthe simple construction of the beanie provides just the right amount of soft coverage and gentle warmth.  choose a yarn that’s hypo-allergenic and soft on sensitive skin. the miriam beanie is perfect for crocheters of all skill levels and works up quickly.\r\n\r\n**yarn**: lion brand coboo - 51% cotton, 49% rayon from bamboo dk weight\r\n**hook**: us size h-8 (5mm) or size needed for gauge\r\n\r\nthe pattern pdf includes 4 sizes (measurements are for head circumference in inches):\r\n* baby - 15.5”\r\n* child - 19.5”\r\n* adult sm/med - 20.75”\r\n* adult lg - 23.25”\r\nthe hat has a negative ease of 0-1”.\r\n\r\n**skill level**: adventurous beginner\r\n**stitches used**: slip stitch, chain, single crochet, half double crochet, double crochet\r\n**techniques used**: flat circle, working in the round, working in the 3rd loop"
 }

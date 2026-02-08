@@ -1,17 +1,21 @@
 {
   "id": 7489518,
-  "name": "Horse (keychain)",
+  "name": "horse (keychain)",
   "permalink": "horse-keychain-4",
   "url": "https://www.ravelry.com/patterns/library/horse-keychain-4",
   "external_url": "https://youtu.be/BxpcBMpxE3Y",
-  "designer_name": "Iryna Zubova",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Sport",
+  "designer_name": "iryna zubova",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Jeans (Джинс)",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 55.0
+    },
+    {
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 45.0
     }
   ],
   "stitches_used": [],
@@ -21,12 +25,13 @@
   ],
   "needle_sizes_mm": [],
   "published": "2025/12/01",
-  "sizes_available": "The height of the toy is 9 cm.",
+  "sizes_available": "the height of the toy is 9 cm.",
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 110,
+  "favorites_count": 124,
   "projects_count": 1,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/94563/1046518"
+  "download_url": "http://www.ravelry.com/dls/94563/1046518",
+  "notes": "format: pdf file.\r\n\r\nthe pattern is available in english (us terms) and russian\r\n\r\nall you will need for crocheting:\r\nyarn art jeans (55% cotton, 45% acrylic)\r\nhook 1.5\r\n\r\nthe size of the toy depends on the crochet density and the yarn thickness. please consider it if you choose another type of yarn.\r\nyou can use any other yarn, but then choose an appropriate size of a crochet hook.\r\n\r\ni hope you liked my master class, and everything was clear.\r\nplease feel free to contact me if necessary.\r\nthank you very much!"
 }

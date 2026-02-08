@@ -1,43 +1,44 @@
 {
   "id": 1351828,
-  "name": "Fall Festival Acorns",
+  "name": "fall festival acorns",
   "permalink": "fall-festival-acorns",
   "url": "https://www.ravelry.com/patterns/library/fall-festival-acorns",
   "external_url": "https://blueskyfibers.com/product/fall-festival-acorns/",
-  "designer_name": "Bobbi IntVeld",
-  "project_type": "Home",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "bobbi intveld",
+  "project_type": "home",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Woolstok Bundle",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch"
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     4.0
   ],
   "published": "2023/08/01",
-  "sizes_available": "One",
+  "sizes_available": "one",
   "rating_average": 4.888888888888889,
   "rating_count": 18,
   "difficulty_average": 3.176470588235294,
-  "favorites_count": 3559,
-  "projects_count": 90,
+  "favorites_count": 3595,
+  "projects_count": 92,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/8201/868761",
+  "notes": "knit acorns to accompany your knit leaves and pumpkins. using just one fall festival bundle, you can create colorful decor for everyone's favorite season.\r\n\r\npattern is written for solid acorn. add color work as desired using photos as inspiration. one mini hank will make one complete acorn.\r\n\r\nexperience level\r\n\r\n* advanced beginner\r\n\r\nmaterials\r\n\r\n* woolstok (worsted) bundle (100% fine highland wool, 21 mini hanks; 5g/12yds): 1 bundle (fall festival)\r\n\r\nfinished measurements\r\n\r\n* circumference: 4\" after stuffing  \r\n* height: 3\" including stem\r\n\r\ncolor shown\r\n\r\n* mossy green no. 1326, earth ivy no. 1309, gravel road no. 1302, drift wood no. 1312, highland fleece no. 1303, ember glow no. 1323, rusted roof no. 1311",
   "pdf": {
     "filename": "1351828.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1351828.pdf",
-    "url": "https://pdf.ravelrycache.com/BlueSkyFibers/1695628/BSF_Comp_FallFestivalAcorns_WEB.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480273&Signature=n5GehT44wljqy8KEBsLm2EsD924%3D&key_expires=1768480273&key=aiTv0_X2ACCdyJlAQlO0KQ",
+    "url": "https://pdf.ravelrycache.com/BlueSkyFibers/1695628/BSF_Comp_FallFestivalAcorns_WEB.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770425626&Signature=crY8fNIRrkAAOmJkah3l5zV9T0U%3D&key_expires=1770425626&key=JhR-lWnTDLUPpulICLCKwg",
     "size_bytes": 2489612
   }
 }

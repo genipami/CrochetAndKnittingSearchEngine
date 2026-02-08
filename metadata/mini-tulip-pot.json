@@ -1,19 +1,19 @@
 {
   "id": 1359148,
-  "name": "Mini Tulip Pot",
+  "name": "mini tulip pot",
   "permalink": "mini-tulip-pot",
   "url": "https://www.ravelry.com/patterns/library/mini-tulip-pot",
   "external_url": "https://youtu.be/BowjO7nve7U",
-  "designer_name": "Lily's Lyric",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Sport",
+  "designer_name": "lily's lyric",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "sport",
   "materials": [],
   "stitches_used": [
-    "Single crochet (sc)"
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     2.0,
@@ -25,14 +25,15 @@
   "rating_average": 4.625,
   "rating_count": 8,
   "difficulty_average": 3.0,
-  "favorites_count": 1888,
-  "projects_count": 43,
+  "favorites_count": 1934,
+  "projects_count": 44,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/100910/874255",
+  "notes": "➤material:\r\n\r\nyarn: #2 or #3 yarn\r\nhook: 2.0mm for tulip and leaf / 3.0mm for pot and soil\r\nothers: marker/needle/scissor/lighter/hotmelt glue/wire/branch/stuffing",
   "pdf": {
     "filename": "1359148.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1359148.pdf",
-    "url": "https://pdf.ravelrycache.com/LilysLyric/1707710/minitulippot_lilyslyric.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481817&Signature=Qar%2Fvw5Nre08Ky0NERMUcDWwENs%3D&key_expires=1768481817&key=cdlvxRkAYDaFdb16wXOrLQ",
+    "url": "https://pdf.ravelrycache.com/LilysLyric/1707710/minitulippot_lilyslyric.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770434155&Signature=f03iHMpysqP6Zd5%2FYjE%2B3HxHJgU%3D&key_expires=1770434155&key=NxnDovjAgOABrmM8HzhbpQ",
     "size_bytes": 503184
   }
 }

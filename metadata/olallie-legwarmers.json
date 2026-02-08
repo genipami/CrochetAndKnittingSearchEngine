@@ -1,28 +1,28 @@
 {
   "id": 842628,
-  "name": "Olallie Legwarmers",
+  "name": "olallie legwarmers",
   "permalink": "olallie-legwarmers",
   "url": "https://www.ravelry.com/patterns/library/olallie-legwarmers",
   "external_url": "",
-  "designer_name": "Rachel Kieselburg",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "rachel kieselburg",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Heirloom Romney",
-      "pct": null
+      "fiber": "Romney (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Bottom-up",
-    "In the round",
-    "Seamless"
+    "blocking",
+    "bottom-up",
+    "in the round",
+    "seamless"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -30,18 +30,19 @@
     5.0
   ],
   "published": "2018/06/01",
-  "sizes_available": "S (L)",
-  "rating_average": 4.761904761904762,
-  "rating_count": 147,
-  "difficulty_average": 2.3241379310344827,
-  "favorites_count": 9624,
-  "projects_count": 664,
+  "sizes_available": "s (l)",
+  "rating_average": 4.766666666666667,
+  "rating_count": 150,
+  "difficulty_average": 2.3333333333333335,
+  "favorites_count": 9694,
+  "projects_count": 675,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/64206/906103",
+  "notes": "these olallie legwarmers are what you’ll reach for when you need a bit of warmth on a crisp, cool morning out on the trail or while watching a sunset at the end of the day at your campsite. versatile and cozy, we knit ours using fancy tiger’s heirloom romney, 100% american romney wool. offered in a short and a long version, you will want to knit more than one pair. \r\n\r\nsize / dimensions\r\nlegwarmers\r\nadult sizes s (l); shown in size s\r\nankle circumference: 8.75 (9.5) in / 22 (24) cm calf circumference: 11 (11.5) in / 27.5 (29.5) cm height: 17.25 in / 44 cm\r\ngaiters\r\nadult sizes s (l); shown in size s circumference: 8.75 (9.5) in / 22 (24) cm height: 8.75 in / 22 cm\r\n\r\nyarn\r\nlegwarmers\r\napproximately 366 (395) yd / 335 (361) m worsted weight yarn. shown in fancy tiger crafts heirloom romney (100% wool, 200 yd / 183 m per 112g skein). color: dark natural; 2 (2) skeins\r\ngaiters\r\napproximately 173 (187) yd / 158 (171) m worsted weight yarn. shown in fancy tiger crafts heirloom romney (100% wool, 200 yd / 183 m per 112g skein). color: natural; 1 (1) skein\r\n\r\ngauge\r\n16 sts / 38 rounds = 4 in / 10 cm in stockinette stitch worked in the round with size b needle, after blocking\r\n\r\nneedles\r\nneedle sizes are recommendations only; always use needle size necessary to achieve given gauge.\r\nsize a: us #6 / 4.0 mm\r\n- dpns or circular needles for magic loop method, or\r\npreferred small-circumference method\r\nsize b: us #8 / 5.0 mm\r\n- dpns or circular needles for magic loop method, or\r\npreferred small-circumference method\r\n\r\nnotions\r\nstitch marker, tapestry needle",
   "pdf": {
     "filename": "842628.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\842628.pdf",
-    "url": "https://pdf.ravelrycache.com/eravera/1780420/Pattern_OLALLIE_Final_V1.1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482195&Signature=B1x0j%2F08cT9asTbUeUmZLOJC0RU%3D&key_expires=1768482195&key=oyk5LN0mLNLqwXptRQaalg",
+    "url": "https://pdf.ravelrycache.com/eravera/1780420/Pattern_OLALLIE_Final_V1.1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770435981&Signature=xtyaqEA%2BKKg3JOknbmPtV8DzXLQ%3D&key_expires=1770435981&key=Oy7SWWDafBKExqHvF_edyg",
     "size_bytes": 2901353
   }
 }

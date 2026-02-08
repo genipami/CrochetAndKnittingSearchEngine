@@ -1,48 +1,53 @@
 {
   "id": 1055124,
-  "name": "Daisy Socks",
+  "name": "daisy socks",
   "permalink": "daisy-socks-5",
   "url": "https://www.ravelry.com/patterns/library/daisy-socks-5",
   "external_url": "",
-  "designer_name": "Debbie Ford",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "debbie ford",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Bardot High Twist Sock",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Kitchener stitch",
-    "Lace",
-    "Seamless",
-    "Top-down",
-    "Written"
+    "charted",
+    "in the round",
+    "kitchener stitch",
+    "lace",
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.25
   ],
   "published": "2020/07/01",
-  "sizes_available": "Adult - Small (Medium, Large)",
-  "rating_average": 4.863636363636363,
-  "rating_count": 44,
-  "difficulty_average": 2.8048780487804876,
-  "favorites_count": 2810,
-  "projects_count": 190,
+  "sizes_available": "adult - small (medium, large)",
+  "rating_average": 4.872340425531915,
+  "rating_count": 47,
+  "difficulty_average": 2.8181818181818183,
+  "favorites_count": 2856,
+  "projects_count": 194,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/81820/629047",
+  "notes": "inspired by my favourite flowers this pattern is a relaxing and intuitive knit. these socks are worked top down, the pattern includes instructions for a heel flap and gusset, a modified wedge toe and how to work these in a contrast yarn (optional). \r\n\r\nthe stitch pattern is worked on the front of the sock and is written and charted.\r\n\r\n**sizes**\r\nsmall, (medium, large) finished sock circumference, unstretched 18 ( 20.25, 23) cm / 7 (8, 9) inches. \r\n\r\n**skill level**\r\na basic understand of sock construction, knitting in the round, simple knit and purl stitches, increases, decreases and how to kitchener stitch.\r\n\r\n\r\nthis pattern has been tested and tech edited.\r\nthis pattern is for personal use only.\r\n",
   "pdf": {
     "filename": "1055124.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1055124.pdf",
-    "url": "https://pdf.ravelrycache.com/DinkyDebbie/1169146/Daisy_Socks_publish_copy.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479847&Signature=qOOf1Ew8wl%2FQnzNud5mwNfWX%2FJM%3D&key_expires=1768479847&key=XVcXWS0kxMGvYbhOVAuGiA",
+    "url": "https://pdf.ravelrycache.com/DinkyDebbie/1169146/Daisy_Socks_publish_copy.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770423282&Signature=2wawDE2yG%2F%2FYqMe5y1TsKUMFDOw%3D&key_expires=1770423282&key=dGIiithfjwc9Gy8lNBr3Bg",
     "size_bytes": 984923
   }
 }

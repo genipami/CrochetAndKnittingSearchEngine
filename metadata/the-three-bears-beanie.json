@@ -1,44 +1,53 @@
 {
   "id": 7333290,
-  "name": "The Three Bears Beanie",
+  "name": "the three bears beanie",
   "permalink": "the-three-bears-beanie",
   "url": "https://www.ravelry.com/patterns/library/the-three-bears-beanie",
   "external_url": "",
-  "designer_name": "Elizabeth Finn",
-  "project_type": "Baby",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "elizabeth finn",
+  "project_type": "baby",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Classy with Cashmere",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Cashmere goat (Cashmere)",
+      "pct": 10.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round"
+    "bottom-up",
+    "in the round"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     4.5
   ],
   "published": "2024/04/01",
-  "sizes_available": "Baby, Adult male and female",
+  "sizes_available": "baby, adult male and female",
   "rating_average": 4.8,
   "rating_count": 5,
   "difficulty_average": 3.4,
-  "favorites_count": 743,
-  "projects_count": 64,
+  "favorites_count": 750,
+  "projects_count": 68,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/52193/923932",
+  "notes": "the minnesota yarn shop hop 2024 was fairytales and knitting from the heart chose goldilocks and the three bears.  \r\n\r\nthis pattern includes instructions to make hats for momma, papa and baby bear.  one skein of dream in color classy will make either a mamma or a papa or two baby bears.\r\n\r\nmama and papa bear fits head sizes 19”-23” \r\nbaby bear fits newborn-6 months, approx. 13”-16”\r\n\r\nif you are a loose knitter we suggest going down to a us 6 needle.\r\n\r\noption to add beads to the slipped stitches.  prestring 70-100 size six beads and add them every other slipped stitch every third round.\r\n\r\npreorder our colors by dream in color, just right (white with speckles), or bears in the forest (browns) here until april 28, 2024:  www.heartknits.com\r\n\r\nthank you so much for joining us this year!",
   "pdf": {
     "filename": "7333290.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7333290.pdf",
-    "url": "https://pdf.ravelrycache.com/eafinn01/1822909/Final_Update_The_Three_Bears_April_13_Karen.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483689&Signature=MMgb0V4GvP3PLXesYco69iP27TA%3D&key_expires=1768483689&key=vXSaZUUpl7e5JX9vbQs2yw",
+    "url": "https://pdf.ravelrycache.com/eafinn01/1822909/Final_Update_The_Three_Bears_April_13_Karen.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770444522&Signature=Wpp199V3n88nkv%2Fx6n1Ed55RPGc%3D&key_expires=1770444522&key=jCggciqHAUXeEPPFRekxqw",
     "size_bytes": 690693
   }
 }

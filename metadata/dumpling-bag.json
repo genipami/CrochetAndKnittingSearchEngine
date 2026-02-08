@@ -1,42 +1,43 @@
 {
   "id": 1256869,
-  "name": "Dumpling Bag",
+  "name": "dumpling bag",
   "permalink": "dumpling-bag",
   "url": "https://www.ravelry.com/patterns/library/dumpling-bag",
   "external_url": "https://www.purlsoho.com/create/2022/07/19/dumpling-bag/",
-  "designer_name": "Jeannie Lee",
-  "project_type": "Bag",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "jeannie lee",
+  "project_type": "bag",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Blackbird Linen",
-      "pct": null
+      "fiber": "Flax (Linen)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Single crochet (sc)",
-    "Stockinette stitch"
+    "lace",
+    "single crochet (sc)",
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Kitchener stitch",
-    "Lace",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "kitchener stitch",
+    "lace",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.75
   ],
   "published": "2022/07/01",
-  "sizes_available": "One Size (see Notes)",
-  "rating_average": 4.537254901960784,
-  "rating_count": 255,
-  "difficulty_average": 2.7035573122529644,
-  "favorites_count": 21676,
-  "projects_count": 1400,
+  "sizes_available": "one size (see notes)",
+  "rating_average": 4.541984732824427,
+  "rating_count": 262,
+  "difficulty_average": 2.7153846153846155,
+  "favorites_count": 22409,
+  "projects_count": 1423,
   "free_ravelry_download": false,
-  "download_url": "https://www.purlsoho.com/create/2022/07/19/dumpling-bag/"
+  "download_url": "https://www.purlsoho.com/create/2022/07/19/dumpling-bag/",
+  "notes": "materials\r\n- 1 skein of purl soho’s [blackbird linen][3], 100% linen. each skein is 175 yards/ 100 grams; approximately 165 yards required. we used the colors queen anne’s lace, silver thistle, and natural flax.\r\n- us 5 (3.75mm), 16-inch [circular needles][4]\r\n- scrap yarn and [crochet hook][5] for provisional cast-on\r\n- [stitch markers][6], including one unique\r\n- [stitch holders][7] or scrap yarn\r\n\r\ngauge\r\n20 stitches and 27 rounds = 4 inches in stockinette stitch\r\n\r\nsize\r\n- finished circumference: 20 inches\r\n- finished length of short loop: 12 inches from bottom of bag\r\n- finished length of long handle: 14 inches from bottom of bag\r\n\r\ndesigned for purl soho by [jeannie lee][8]. based in california, jeannie designs, knits, crochets, and, most of all, shares her joy of crafting with others! her garments, accessories, and housewares bring simple pleasures to life with innovation and whimsy!\r\n\r\n\r\n  [3]: https://www.purlsoho.com/blackbird-linen.html\r\n  [4]: https://www.purlsoho.com/tools/knitting-needles.html?type_filter=881\r\n  [5]: https://www.purlsoho.com/tools/crochet-hooks.html\r\n  [6]: https://www.purlsoho.com/tools/notions.html?collection_filter=964\r\n  [7]: https://www.purlsoho.com/tools/notions.html?collection_filter=964\r\n  [8]: https://www.instagram.com/handmadebyjean/"
 }

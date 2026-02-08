@@ -1,25 +1,29 @@
 {
   "id": 7306868,
-  "name": "Two Tone Raglan Sweater",
+  "name": "two tone raglan sweater",
   "permalink": "two-tone-raglan-sweater",
   "url": "https://www.ravelry.com/patterns/library/two-tone-raglan-sweater",
   "external_url": "https://vivcrochets.com/two-tone-raglan/",
-  "designer_name": "Viv Crochets",
-  "project_type": "Pullover",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "viv crochets",
+  "project_type": "pullover",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Wool Ease Solids, Heathers, Twists",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "In the round",
-    "Raglan",
-    "Seamless",
-    "Top-down"
+    "in the round",
+    "raglan",
+    "seamless",
+    "top-down"
   ],
   "hook_sizes_mm": [
     6.0
@@ -30,8 +34,9 @@
   "rating_average": 4.666666666666667,
   "rating_count": 9,
   "difficulty_average": 3.0,
-  "favorites_count": 524,
-  "projects_count": 35,
+  "favorites_count": 559,
+  "projects_count": 37,
   "free_ravelry_download": false,
-  "download_url": "https://vivcrochets.com/two-tone-raglan/"
+  "download_url": "https://vivcrochets.com/two-tone-raglan/",
+  "notes": "this two-tone crochet raglan sweater pattern is designed to be approachable for those new to crocheting garments. it’s super simple in design as well as in adjusting the sizing.\r\n\r\nyou can make this sweater in one color or, if you want to make it two-toned, you’ll need 4 skeins in the top color and 2 in the bottom color. if you make it smaller or larger, you may need less or more skeins."
 }

@@ -1,53 +1,58 @@
 {
   "id": 7322278,
-  "name": "I Walk the Line",
+  "name": "i walk the line",
   "permalink": "i-walk-the-line",
   "url": "https://www.ravelry.com/patterns/library/i-walk-the-line",
   "external_url": "",
-  "designer_name": "Shuyi Wu",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "shuyi wu",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Heritage®",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 38.3
     },
     {
-      "fiber": "Signature 4 Ply Solids",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     },
     {
-      "fiber": "Zauberball ® Crazy",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 25.0
+    },
+    {
+      "fiber": "Bluefaced Leicester (BFL) (Wool)",
+      "pct": 11.7
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Written"
+    "charted",
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.5
   ],
   "published": "2024/03/01",
-  "sizes_available": "M, L (72, 84 sts)",
-  "rating_average": 4.881118881118881,
-  "rating_count": 286,
-  "difficulty_average": 4.070631970260223,
-  "favorites_count": 6160,
-  "projects_count": 1494,
+  "sizes_available": "m, l (72, 84 sts)",
+  "rating_average": 4.881533101045296,
+  "rating_count": 287,
+  "difficulty_average": 4.062962962962963,
+  "favorites_count": 6321,
+  "projects_count": 1503,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/75659/932839",
+  "notes": "> this was the round 1 pattern of sock madness 18, and is now available to the general public.\r\n\r\nthese may look like simple chevron socks, but they’re hiding a secret: if you look at the crazy zigzags from an angle, you will see wide vertical stripes appear. like the song, they represent johnny cash’s promise to his (first) wife to remain faithful, despite the many temptations that he faced as a musician on the road.\r\n\r\nthe socks are worked cuff-down with a standard flap and gusset heel. the chevron pattern is worked in 2-row stripes, and borrows from the shadow knitting technique to create the illusion of vertical stripes.\r\n\r\nthere are 2 sizes: m (l), with 72 (84) stitches per round, to fit a foot circumference of 8.5 (10) inches or 22 (25) cm. the chevron pattern is quite stretchy in both directions, so it will accommodate a larger or smaller foot circumference as needed. leg and foot length are adjustable. the sample socks are shown in size m.\r\n\r\nthe leg/instep pattern is charted and written. you may use any technique you prefer for knitting a small circumference in the round.",
   "pdf": {
     "filename": "7322278.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7322278.pdf",
-    "url": "https://pdf.ravelrycache.com/CowFromMars/1843800/i_walk_the_line_v1.0.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480984&Signature=F7OFunfw7zLh4puTU28itenDbwg%3D&key_expires=1768480984&key=oc_0OmSnwbxB5xmwWzf_Og",
+    "url": "https://pdf.ravelrycache.com/CowFromMars/1843800/i_walk_the_line_v1.0.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770429728&Signature=qUVWo9JKj8BWnOTg4cQoWgK1jJg%3D&key_expires=1770429728&key=z1xL6Ejm26HNx2jI-zgWIA",
     "size_bytes": 742283
   }
 }

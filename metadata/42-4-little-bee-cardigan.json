@@ -1,32 +1,28 @@
 {
   "id": 1211453,
-  "name": "42-4 Little Bee Cardigan",
+  "name": "42-4 little bee cardigan",
   "permalink": "42-4-little-bee-cardigan",
   "url": "https://www.ravelry.com/patterns/library/42-4-little-bee-cardigan",
   "external_url": "https://www.garnstudio.com/pattern.php?id=10675&cid=19",
-  "designer_name": "DROPS design",
-  "project_type": "Baby",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Sport",
+  "designer_name": "drops design",
+  "project_type": "baby",
+  "fiber_art": "knitting",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "DROPS Baby Merino",
-      "pct": null
-    },
-    {
-      "fiber": "DROPS Merino Extra Fine",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Raglan",
-    "Seamless",
-    "Top-down",
-    "Written"
+    "raglan",
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -35,11 +31,12 @@
   ],
   "published": "2022/01/01",
   "sizes_available": "0/1 - 1/3 - 6/9 - 12/18 months (2 - 3/4) years",
-  "rating_average": 4.421052631578948,
-  "rating_count": 38,
-  "difficulty_average": 2.764705882352941,
-  "favorites_count": 2314,
-  "projects_count": 233,
+  "rating_average": 4.45,
+  "rating_count": 40,
+  "difficulty_average": 2.7777777777777777,
+  "favorites_count": 2360,
+  "projects_count": 244,
   "free_ravelry_download": false,
-  "download_url": "https://www.garnstudio.com/pattern.php?id=10675&cid=19"
+  "download_url": "https://www.garnstudio.com/pattern.php?id=10675&cid=19",
+  "notes": "knitted jacket for babies and children in drops baby merino. the piece is worked top down, with raglan and embroidered bee. pattern bm-129-by; yarn group a\r\n\r\n**sizes**: 0/1 - 1/3 - 6/9 - 12/18 months (2 - 3/4) years\r\nchild’s height in cm: 48/52 - 56/62 - 68/74 - 80/86 (92 - 98/104)\r\n\r\n**materials**:\r\ndrops baby merino from garnstudio\r\n100-100-150-150 (150-150) g colour 48, blush\r\n\r\nfor the bee use left-over:\r\ndrops merino extra fine from garnstudio\r\ncolour 02, black\r\ncolour 30, mustard\r\ncolour 01, off white\r\n\r\ndrops buttons no 627: 5-5-5-5 (6-6) items.\r\n\r\nneedles:\r\ndrops circular needle size 3 mm: length 80 cm.\r\ndrops circular needle size 2.5 mm: length 80 cm.\r\ndrops double pointed needles size 3 mm.\r\ndrops double pointed needles size 2.5 mm.\r\nthe technique magic loop can be used – you then only need circular needle of 80 cm in each size.\r\n\r\n**knitting tension:**\r\n24 stitches in width and 32 rows in height with stocking stitch = 10 x 10 cm."
 }

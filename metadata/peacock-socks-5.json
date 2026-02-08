@@ -1,40 +1,45 @@
 {
   "id": 818736,
-  "name": "Peacock Socks",
+  "name": "peacock socks",
   "permalink": "peacock-socks-5",
   "url": "https://www.ravelry.com/patterns/library/peacock-socks-5",
   "external_url": "",
-  "designer_name": "Alex Anders",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "alex anders",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "4-fädig",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Kitchener stitch",
-    "Written"
+    "in the round",
+    "kitchener stitch",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.5
   ],
   "published": "2018/03/01",
-  "sizes_available": "S, M, L, XL (54, 62, 70, 78 sts)",
+  "sizes_available": "s, m, l, xl (54, 62, 70, 78 sts)",
   "rating_average": 4.8108108108108105,
   "rating_count": 111,
-  "difficulty_average": 2.4095238095238094,
-  "favorites_count": 3710,
-  "projects_count": 414,
+  "difficulty_average": 2.4150943396226414,
+  "favorites_count": 3723,
+  "projects_count": 416,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/68354/450255"
+  "download_url": "http://www.ravelry.com/dls/68354/450255",
+  "notes": "this is a simple sock pattern featuring **purl and twisted knit stitches**. the repeats are very easy to memorize so you can just knit them everywhere without the need of carrying a stitch chart with you. \r\n\r\nthose socks are knitted from the **cuff down** and contain a classic **heel with heel flap**. the nice 3d texture of the stitch pattern will spice up every solid coloured yarn but will also look great in multi-colours. \r\n\r\nthe pattern itself is written for knitting with five dpns but can be easily adjusted for magic loop knitting or similiar techniques.\r\n\r\nthere are four sizes available (s, m, l, xl (54, 62, 70, 78 sts)).\r\n\r\n\r\n______________________________________________________\r\n\r\n\r\n\r\nder pfau (engl.: peacock) soll ein selbstverliebtes und arrogantes geschöpf sein, das sogar den regenbogen verspottet. als namensgeber für diese socken ist er trotzdem sehr passend, da die plastische textur sich wunderbar dazu eignet einfarbigen sockengarne zum gewissen etwas zu verhelfen. \r\n\r\ndas strickmuster ist auf der suche nach einem einfachem projekt entstanden, das sich auch unterwegs stricken lässt ohne dabei langweilig zu werden. gemäß dem motto: möglichst viel effekt mit möglichst wenig aufwand! \r\n\r\ndie socken werden **vom bündchen zur spitze gestrickt** und sind aus einer **klassischen ferse mit fersenwand** aufgebaut. \r\n\r\ndas muster selbst ist für das stricken mit einem nadelspiel geschrieben, kann aber ganz einfach für das stricken mit magic loop oder ähnlichem abgewandelt werden.\r\n\r\ndie anleitung umfasst vier größen: s, m, l, xl (54, 62, 70, 78 m)"
 }

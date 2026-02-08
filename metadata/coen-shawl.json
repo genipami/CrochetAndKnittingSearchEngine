@@ -1,21 +1,25 @@
 {
   "id": 1251210,
-  "name": "Coen Shawl",
+  "name": "coen shawl",
   "permalink": "coen-shawl",
   "url": "https://www.ravelry.com/patterns/library/coen-shawl",
   "external_url": "https://www.premieryarns.com/collections/patterns/products/coen-shawl",
-  "designer_name": "Premier Yarns Design Team",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "premier yarns design team",
+  "project_type": "shawl/wrap",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Puzzle Cotton",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 57.0
+    },
+    {
+      "fiber": "Cotton (Cotton)",
+      "pct": 43.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)"
+    "double crochet (dc)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [
@@ -23,12 +27,13 @@
   ],
   "needle_sizes_mm": [],
   "published": "2022/06/01",
-  "sizes_available": "One Size Finished Measurements: 16\" x 60\"",
+  "sizes_available": "one size finished measurements: 16\" x 60\"",
   "rating_average": 4.75,
   "rating_count": 4,
   "difficulty_average": 2.8,
-  "favorites_count": 926,
+  "favorites_count": 957,
   "projects_count": 174,
   "free_ravelry_download": false,
-  "download_url": "https://www.premieryarns.com/collections/patterns/products/coen-shawl"
+  "download_url": "https://www.premieryarns.com/collections/patterns/products/coen-shawl",
+  "notes": "• chain, single, double and half double\r\n crochet stitches."
 }

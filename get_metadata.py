@@ -11,11 +11,11 @@ Collected fields:
 - designer_name (pattern_author/designers)
 - canonical Ravelry URL + external URL (source)
 - free_ravelry_download + download_url
+- notes 
 
 Outputs:
 - JSON per pattern in metadata/
 """
-
 import os
 import re
 import csv
@@ -24,6 +24,8 @@ import time
 import pathlib
 from collections import defaultdict
 from typing import Optional, Tuple, List, Dict, Any
+from bs4 import BeautifulSoup
+from dictionaries import WEIGHT_ALIASES, STITCH_KEYWORDS, TECHNIQUE_ATTRS, TECHNIQUE_KEYWORDS, US_HOOK_MM, US_LETTER_BASE
 
 import requests
 from requests_oauthlib import OAuth1
@@ -46,16 +48,15 @@ DETAIL_URL = (
 )
 YARN_URL = f"{BASE}/yarns/{{id}}.json"
 
-INPUT_FILE = "patterns_with_ids_knitting.txt"
-OUT_DIR = pathlib.Path("metadata")
+INPUT_FILE = "patterns_with_ids_crochet_new.txt"
+OUT_DIR = pathlib.Path("meta")
 OUT_DIR.mkdir(exist_ok=True)
 CSV_PATH = OUT_DIR / "metadata_enriched.csv"
 
-DETAIL_TIMEOUT = 30
-YARN_TIMEOUT = 30
-PAUSE_DETAIL = 0.35
-PAUSE_YARN = 0.25
-
+DETAIL_TIMEOUT = 10
+YARN_TIMEOUT = 10
+PAUSE_DETAIL = 0.01
+PAUSE_YARN = 0.01
 
 # ---------------------------
 # Utilities
@@ -94,21 +95,9 @@ def fetch_pattern_details(pid: int) -> Optional[Dict[str, Any]]:
     print(f"[WARN] details failed for id {pid}: {r.status_code}")
     return None
 
-
 # ---------------------------
 # Normalization helpers
 # ---------------------------
-WEIGHT_ALIASES = {
-    "lace": "Lace", "thread": "Lace", "cobweb": "Lace",
-    "fingering": "Fingering", "sock": "Fingering",
-    "sport": "Sport",
-    "dk": "DK", "double knit": "DK",
-    "worsted": "Worsted", "aran": "Aran",
-    "bulky": "Bulky", "chunky": "Bulky",
-    "super bulky": "Super Bulky", "jumbo": "Super Bulky",
-}
-
-
 def normalize_weight(text: Optional[str]) -> Optional[str]:
     if not text:
         return None
@@ -161,38 +150,6 @@ def extract_weight(p: Dict[str, Any]) -> Optional[str]:
 # ---------------------------
 # Stitches vs Techniques
 # ---------------------------
-STITCH_KEYWORDS = {
-    # Crochet (existing + more)
-    "single crochet": "Single crochet (sc)", "sc": "Single crochet (sc)",
-    "half double crochet": "Half double crochet (hdc)", "hdc": "Half double crochet (hdc)",
-    "double crochet": "Double crochet (dc)", "dc": "Double crochet (dc)",
-    "treble crochet": "Treble crochet (tr)", "tr": "Treble crochet (tr)",
-    "slip stitch": "Slip stitch (sl st)", "sl st": "Slip stitch (sl st)",
-    "shell": "Shell", "v-stitch": "V-stitch", "v stitch": "V-stitch",
-    "granny": "Granny", "moss stitch": "Moss/Linen stitch", "linen stitch": "Moss/Linen stitch",
-    "puff": "Puff stitch", "bobble": "Bobble", "popcorn": "Popcorn",
-    "waffle": "Waffle", "star stitch": "Star stitch",
-    "alpine": "Alpine stitch", "basketweave": "Basketweave",
-    "cluster": "Cluster stitch", "spike stitch": "Spike stitch",
-    "front post": "Front post stitch", "back post": "Back post stitch",
-    "crossed dc": "Crossed double crochet", "camel stitch": "Camel stitch", "x-stitch": "X-stitch",
-
-    # Knitting stitches
-    "garter": "Garter stitch",
-    "stockinette": "Stockinette stitch", "stocking stitch": "Stockinette stitch",
-    "reverse stockinette": "Reverse stockinette",
-    "1x1 rib": "1x1 rib", "2x2 rib": "2x2 rib", "ribbing": "Ribbing",
-    "seed stitch": "Seed stitch", "moss stitch (knit)": "Moss stitch", "moss stitch knit": "Moss stitch",
-    "broken rib": "Broken rib", "double seed": "Double seed",
-    "fisherman's rib": "Fisherman's rib", "fishermen's rib": "Fisherman's rib",
-    "brioche stitch": "Brioche stitch",
-    "cable": "Cable", "cables": "Cable",
-    "lace": "Lace", "eyelet": "Eyelet lace",
-    "twisted stitch": "Twisted stitch",
-    "slip stitch pattern": "Slip stitch texture",
-    "waffle stitch knit": "Waffle (knit)", "basketweave knit": "Basketweave (knit)",
-}
-
 def extract_stitches(p: Dict[str, Any]) -> List[str]:
     hay = " ".join([
         str(p.get("name") or ""),
@@ -206,84 +163,7 @@ def extract_stitches(p: Dict[str, Any]) -> List[str]:
             out.add(label)
     return sorted(out)
 
-TECHNIQUE_ATTRS = {
-    # construction / shaping
-    "in-the-round": "In the round",
-    "flat": "Worked flat",
-    "top-down": "Top-down",
-    "bottom-up": "Bottom-up",
-    "seamed": "Seamed",
-    "seamless": "Seamless",
-    "modular": "Modular",
-    "join-as-you-go": "Join-as-you-go",
-    "raglan": "Raglan",
-    "contiguous": "Contiguous shoulder",
-    "short-rows": "Short rows",
-    "c2c": "C2C",
-    "corner-to-corner": "C2C",
 
-    # colorwork / texture techniques
-    "colorwork": "Colorwork",
-    "fair-isle": "Fair Isle",
-    "stranded": "Stranded colorwork",
-    "intarsia": "Intarsia",
-    "brioche": "Brioche",
-    "mosaic": "Mosaic",
-    "tapestry-crochet": "Tapestry crochet",
-    "filet": "Filet crochet",
-    "overlay-crochet": "Overlay crochet",
-    "entrelac": "Entrelac",
-    "duplicate-stitch": "Duplicate stitch",
-    "slip-stitch-colorwork": "Slip-stitch colorwork",
-    "twined": "Twined knitting",
-    "cables": "Cables",
-    "lace": "Lace",
-
-    # charts & directions
-    "chart": "Charted",
-    "written-pattern": "Written",
-    "charted-and-written": "Charted & written",
-
-    # finishing / special
-    "kitchener": "Kitchener stitch",
-    "three-needle-bind-off": "Three-needle bind-off",
-    "mattress-stitch": "Mattress stitch",
-    "blocking": "Blocking",
-    "steek": "Steek",
-}
-
-TECHNIQUE_KEYWORDS = {
-    # construction
-    "in the round": "In the round", "worked flat": "Worked flat",
-    "top-down": "Top-down", "top down": "Top-down",
-    "bottom-up": "Bottom-up", "bottom up": "Bottom-up",
-    "seamless": "Seamless", "seamed": "Seamed",
-    "modular": "Modular", "join as you go": "Join-as-you-go",
-    "raglan": "Raglan", "contiguous": "Contiguous shoulder",
-    "short rows": "Short rows", "german short rows": "Short rows", "w&t": "Short rows",
-    "c2c": "C2C", "corner to corner": "C2C",
-
-    # color/texture
-    "colorwork": "Colorwork", "fair isle": "Fair Isle", "stranded": "Stranded colorwork",
-    "intarsia": "Intarsia", "brioche": "Brioche", "mosaic": "Mosaic",
-    "tapestry crochet": "Tapestry crochet", "filet crochet": "Filet crochet",
-    "overlay crochet": "Overlay crochet", "entrelac": "Entrelac",
-    "duplicate stitch": "Duplicate stitch",
-    "slip-stitch colorwork": "Slip-stitch colorwork",
-    "twined": "Twined knitting",
-    "cable": "Cables", "cables": "Cables",
-    "lace": "Lace",
-
-    # chart/written
-    "charted": "Charted", "written": "Written", "charted & written": "Charted & written",
-
-    # finishing / special
-    "kitchener": "Kitchener stitch",
-    "three needle bind off": "Three-needle bind-off",
-    "mattress stitch": "Mattress stitch",
-    "blocking": "Blocking",
-    "steek": "Steek",
-}
 
 def extract_techniques(p: Dict[str, Any]) -> List[str]:
     out = set()
@@ -312,20 +192,6 @@ def extract_techniques(p: Dict[str, Any]) -> List[str]:
 # ---------------------------
 # Hook/needle size extraction
 # ---------------------------
-US_HOOK_MM = {
-    "B-1": 2.25, "C-2": 2.75, "D-3": 3.25, "E-4": 3.5, "F-5": 3.75,
-    "G-6": 4.0,  # note: some brands label G as 4.25mm; we default to 4.0mm
-    "7": 4.5, "H-8": 5.0, "I-9": 5.5, "J-10": 6.0, "K-10.5": 6.5,
-    "L-11": 8.0, "M/N-13": 9.0, "N/P-15": 10.0, "P": 15.0, "Q": 16.0, "S": 19.0,
-}
-US_LETTER_BASE = {
-    "B": 2.25, "C": 2.75, "D": 3.25, "E": 3.5, "F": 3.75,
-    "G": 4.0, "H": 5.0, "I": 5.5, "J": 6.0, "K": 6.5, "L": 8.0, "M": 9.0, "N": 10.0,
-    "P": 15.0, "Q": 16.0, "S": 19.0
-}
-
-
-
 def _parse_metric_mm(value: Any) -> Optional[float]:
     if value is None:
         return None
@@ -472,34 +338,59 @@ def fetch_yarn_details(yarn_ids: List[int]) -> List[Dict[str, Any]]:
 
 
 def _iter_fiber_records(yarn_obj: Dict[str, Any]) -> List[Dict[str, Any]]:
-    """
-    Return a flat list of fiber records from a yarn object, being tolerant to
-    different shapes ('fibers', 'yarn_fibers', or nested dicts).
-    Expected item shapes handled:
-      - {'name': 'Wool', 'pct': 80}
-      - {'fiber': {'name': 'Wool'}, 'pct': 80}
-      - {'percentage': 80, 'name': 'Wool'}
-    """
-    fibers = yarn_obj.get("fibers")
-    if not fibers:
-        fibers = yarn_obj.get("yarn_fibers")
-    if not fibers:
-        fibers = []
+    fibers = yarn_obj.get("fibers") or yarn_obj.get("yarn_fibers") or []
+    flat: List[Dict[str, Any]] = []
 
-    flat = []
     for f in fibers:
         if not isinstance(f, dict):
             continue
-        name = f.get("name")
+
+        name = None
+        pct = None
+        
+        fiber_type_name = None
+        fiber_category_name = None
+
+        ft = f.get("fiber_type")
+        if isinstance(ft, dict):
+            fiber_type_name = (ft.get("name") or "").strip() or None
+
+        fc = f.get("fiber_category")
+        if isinstance(fc, dict):
+            fiber_category_name = (fc.get("name") or "").strip() or None
+
+        if fiber_type_name and fiber_category_name:
+            name = f"{fiber_category_name} ({fiber_type_name})"
+        else:
+            name = fiber_type_name or fiber_category_name
+
+        if "percentage" in f and f.get("percentage") is not None:
+            pct = f.get("percentage")
+
+        if not name and f.get("name"):
+            name = str(f.get("name")).strip() or None
+
         if not name and isinstance(f.get("fiber"), dict):
-            name = f["fiber"].get("name")
+            name = (f["fiber"].get("name") or "").strip() or None
+
         if not name and isinstance(f.get("type"), dict):
-            name = f["type"].get("name")
-        pct = f.get("pct")
+            name = (f["type"].get("name") or "").strip() or None
+
         if pct is None:
-            pct = f.get("percentage", f.get("percent"))
+            if f.get("pct") is not None:
+                pct = f.get("pct")
+            elif f.get("percent") is not None:
+                pct = f.get("percent")
+
+        if pct is not None:
+            try:
+                pct = float(pct)
+            except Exception:
+                pct = None
+
         if name:
-            flat.append({"name": str(name).strip(), "pct": pct})
+            flat.append({"name": name, "pct": pct})
+
     return flat
 
 
@@ -613,6 +504,7 @@ def main():
         print(f"[{i}/{len(pairs)}] Fetching ID {pid} ({fallback_permalink})")
 
         p = fetch_pattern_details(pid)
+
         time.sleep(PAUSE_DETAIL)
         if not p:
             continue
@@ -664,7 +556,15 @@ def main():
             "projects_count": p.get("projects_count"),
             "free_ravelry_download": free_ravelry_download,
             "download_url": download_url,
+            "notes" : p.get("notes")
         }
+
+        keys_to_be_lowered = ["name", "designer_name", "project_type", "fiber_art", "yarn_weight", "sizes_available", "notes"]
+
+        for key in  keys_to_be_lowered :
+            value = enriched.get(key)
+            if value is not None:
+                enriched[key] = value.lower()
 
         slug = permalink or f"pattern_{pid}"
         save_json(enriched, slug)

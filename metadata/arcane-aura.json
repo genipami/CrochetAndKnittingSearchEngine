@@ -1,34 +1,30 @@
 {
   "id": 869694,
-  "name": "Arcane Aura",
+  "name": "arcane aura",
   "permalink": "arcane-aura",
   "url": "https://www.ravelry.com/patterns/library/arcane-aura",
   "external_url": "http://www.draiguna.com/2018/10/arcanoweave-part-1.html",
-  "designer_name": "Julia Hart",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Lace",
+  "designer_name": "julia hart",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "lace",
   "materials": [
     {
-      "fiber": "100% Mercerized Egyptian Cotton #10 Crochet Thread",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 66.7
     },
     {
-      "fiber": "Classic 10 Crochet Thread",
-      "pct": null
-    },
-    {
-      "fiber": "Curio #10",
-      "pct": null
+      "fiber": "Egyptian (Cotton)",
+      "pct": 33.3
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Written"
+    "charted",
+    "written"
   ],
   "hook_sizes_mm": [
     1.75
@@ -39,8 +35,9 @@
   "rating_average": 4.84,
   "rating_count": 50,
   "difficulty_average": 3.1020408163265305,
-  "favorites_count": 2735,
-  "projects_count": 209,
+  "favorites_count": 2756,
+  "projects_count": 213,
   "free_ravelry_download": false,
-  "download_url": "http://www.draiguna.com/2018/10/arcanoweave-part-1.html"
+  "download_url": "http://www.draiguna.com/2018/10/arcanoweave-part-1.html",
+  "notes": "this is part 1 of the arcanoweave doily.\r\nthere are 8 rounds and measures about 4\" in diameter.\r\n\r\nhere are links for the next 4 sections-\r\npart 2 incanter's insight- https://www.ravelry.com/patterns/library/incanters-insight \r\npart 3 evocation- https://www.ravelry.com/patterns/library/evocation\r\npart 4 innervision-\r\nhttps://www.ravelry.com/patterns/library/innervision\r\npart 5 terrace of the magi-\r\nhttps://www.ravelry.com/patterns/library/terrace-of-the-magi\r\n\r\n**materials needed**\r\nsize 10 crochet thread- 20-25 yards\r\n1.75 mm hook\r\nyarn needle\r\nscissors\r\n\r\n**gauge**\r\nrounds 1-4 measure about 1 1/2\"\r\n\r\n"
 }

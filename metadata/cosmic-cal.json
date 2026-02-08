@@ -1,41 +1,33 @@
 {
   "id": 816441,
-  "name": "Cosmic Cal",
+  "name": "cosmic cal",
   "permalink": "cosmic-cal",
   "url": "https://www.ravelry.com/patterns/library/cosmic-cal",
   "external_url": "http://www.crystalsandcrochet.com/crochet/category/cosmic-cal/",
-  "designer_name": "Helen Shrimpton",
-  "project_type": "Blanket",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "helen shrimpton",
+  "project_type": "blanket",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Baby Aran",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 71.0
     },
     {
-      "fiber": "Batik Double Knitting",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 20.0
     },
     {
-      "fiber": "Classique Cotton DK",
-      "pct": null
-    },
-    {
-      "fiber": "Life DK",
-      "pct": null
-    },
-    {
-      "fiber": "Special Double Knit",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 9.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round"
+    "in the round"
   ],
   "hook_sizes_mm": [
     4.0
@@ -48,8 +40,9 @@
   "rating_average": 4.86,
   "rating_count": 350,
   "difficulty_average": 5.304477611940299,
-  "favorites_count": 13080,
-  "projects_count": 1056,
+  "favorites_count": 13097,
+  "projects_count": 1057,
   "free_ravelry_download": false,
-  "download_url": "http://www.crystalsandcrochet.com/crochet/category/cosmic-cal/"
+  "download_url": "http://www.crystalsandcrochet.com/crochet/category/cosmic-cal/",
+  "notes": "cosmic cal (crochet a-long) is sponsored by stylecraft yarns, and designed by me, helen shrimpton.\r\n\r\nthe cal starts in april, but you can find all the information in the [introducing cosmic cal post][1].\r\n\r\nthere will be nine [9] parts in total.\r\neach part will be a photo tutorial, but there are also full video tutorials to help you, again the links will be posted in each blog post which you will find on my website, along with lots of hints and tips.\r\n[cosmic cal][2]\r\n\r\nyou can find the downloadable pdf parts on the stylecraft website for\r\n\r\n[us terms][3]\r\n[uk terms][4]\r\n[dutch][5]\r\n\r\n[all other translations will be on my website][6]\r\n[part 1][7]\r\n[part 2][8]\r\n[part 3][9]\r\n[part 4][10]\r\n[part 5][11]\r\n[part 6][12]\r\n[part 7][13]\r\n[part 8][14]\r\n[part 9][15]\r\n\r\n\r\n  [9]: https://www.crystalsandcrochet.com/crochet/cosmic-cal-part-3/ ?\r\n\r\n\r\n  [9]: https://www.crystalsandcrochet.com/crochet/cosmic-cal-part-4/ ?\r\n\r\n\r\n  [1]: http://www.crystalsandcrochet.com/crochet/introducing-cosmic-cal\r\n  [2]: http://www.crystalsandcrochet.com/crochet/category/cosmic-cal/\r\n  [3]: https://www.stylecraft-yarns.co.uk/cosmic/0_cafa122_cafa135_cafa177.htm\r\n  [4]: https://www.stylecraft-yarns.co.uk/cosmic/0_cafa122_cafa150_cafa176.htm\r\n  [5]: https://www.stylecraft-yarns.co.uk/cosmic/0_cafa122_cafa137_cafa178.htm\r\n  [6]: http://www.crystalsandcrochet.com/crochet/category/cosmic-cal/\r\n  [7]: https://www.crystalsandcrochet.com/crochet/cosmic-cal-part-1/\r\n  [8]: https://www.crystalsandcrochet.com/crochet/cosmic-cal-part-2/\r\n  [9]: https://www.crystalsandcrochet.com/crochet/cosmic-cal-part-5\r\n  [10]: https://www.crystalsandcrochet.com/crochet/cosmic-cal-part-5\r\n  [11]: https://www.crystalsandcrochet.com/crochet/cosmic-cal-part-5\r\n  [12]: https://crystalsandcrochet.com/crochet/cosmic-cal-part-6/\r\n  [13]: https://crystalsandcrochet.com/crochet/cosmic-cal-part-7\r\n  [14]: https://crystalsandcrochet.com/crochet/cosmic-cal-part-8/\r\n  [15]: https://crystalsandcrochet.com/crochet/cosmic-cal-part-9"
 }

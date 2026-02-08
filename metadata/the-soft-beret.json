@@ -1,42 +1,43 @@
 {
   "id": 7410979,
-  "name": "The Soft Beret",
+  "name": "the soft beret",
   "permalink": "the-soft-beret",
   "url": "https://www.ravelry.com/patterns/library/the-soft-beret",
   "external_url": "https://youtu.be/_9vvuUncL_M?si=WBcV9IpkGHbQNB7_",
-  "designer_name": "Judy Malcolm",
-  "project_type": "Hat",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "judy malcolm",
+  "project_type": "hat",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Softee Baby, Solids & Marls",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "In the round",
-    "Top-down",
-    "Written"
+    "in the round",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [
     5.0
   ],
   "needle_sizes_mm": [],
   "published": "2025/02/01",
-  "sizes_available": "Adult",
+  "sizes_available": "adult",
   "rating_average": 4.0,
   "rating_count": 3,
   "difficulty_average": 1.6666666666666667,
-  "favorites_count": 168,
+  "favorites_count": 172,
   "projects_count": 10,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/89690/985528",
+  "notes": "a simple and classic beret is always nice to have. this pattern is going to show you how to crochet a classic beret. my next pattern will show you how to create the flower and how to attach the flower to the beret (keep an eye out for that pattern). the beret is worked in continuous rounds without turning and joining. this pattern comes in only one size and it is designed to fit most adults. the yarn we use is bernat softee baby yarn – 100% acrylic – light 3. the yarn we use makes the beret nice and soft to the touch and to wear (the original can be a little itchy to wear). the color yarn is soft peach. additional supplies that we will need are stitch markers. \r\n\r\nif you need help with this pattern, check out my tutorial: https://youtu.be/1mdiwtojbmk?si=b-twfijlgv_rvryr\r\n",
   "pdf": {
     "filename": "7410979.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7410979.pdf",
-    "url": "https://pdf.ravelrycache.com/CrochetandCopy/1966677/The_Soft_Beret.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483687&Signature=R6BWjFMIl83RbheSWCAuGWWjego%3D&key_expires=1768483687&key=wwa4r102e-dkd0fAdgdLtA",
+    "url": "https://pdf.ravelrycache.com/CrochetandCopy/1966677/The_Soft_Beret.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770444493&Signature=PWSBU9NO9ACCoc5%2FRKxZ%2Bpuq668%3D&key_expires=1770444493&key=dFywABjTmtR3mmbbBwtpNg",
     "size_bytes": 774093
   }
 }

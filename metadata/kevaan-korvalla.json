@@ -1,27 +1,31 @@
 {
   "id": 1119350,
-  "name": "Kevään korvalla",
+  "name": "kevään korvalla",
   "permalink": "kevaan-korvalla",
   "url": "https://www.ravelry.com/patterns/library/kevaan-korvalla",
   "external_url": "https://pienikasityokori.com/kevaan-korvalla-sukat/",
-  "designer_name": "Daria Virrankari",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "daria virrankari",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Bertha BFL Sock",
-      "pct": null
+      "fiber": "Bluefaced Leicester (BFL) (Wool)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Treble crochet (tr)"
+    "lace",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Kitchener stitch",
-    "Lace",
-    "Short rows"
+    "kitchener stitch",
+    "lace",
+    "short rows"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -29,11 +33,12 @@
   ],
   "published": null,
   "sizes_available": "36-38, 39-41, 42-44",
-  "rating_average": 4.5588235294117645,
-  "rating_count": 34,
-  "difficulty_average": 3.607142857142857,
-  "favorites_count": 2870,
-  "projects_count": 262,
+  "rating_average": 4.571428571428571,
+  "rating_count": 35,
+  "difficulty_average": 3.586206896551724,
+  "favorites_count": 2886,
+  "projects_count": 265,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/72613/681139"
+  "download_url": "http://www.ravelry.com/dls/72613/681139",
+  "notes": "kevään korvalla -socks are knitted from cuff to toe. use your favourite stretchy method to cast on\r\nthe stitches, heel is knitted as the french heel and the remaining stitches after toe increases are\r\nkitchener stitched off. gusset decreases are placed on both sides of sole. this pattern is a unisex\r\npattern and it has three sizes (36-38 (39-41, 42-44).\r\n\r\nkevään korvalla -sukat neulotaan varresta varpaisiin. silmukat luot suosimallasi joustavalla\r\nluomistekniikalla, kantapäätä varten neulotaan ranskalainen kantapää ja nauhakavennuksesta\r\njäljelle jäävät silmukat silmukoidaan umpeen. kantapään kiilakavennukset tehdään jalkapohjan\r\nsivuilla. ohje on unisex-malli ja siinä on kolme kokoa (36-38 (39-41, 42-44)). "
 }

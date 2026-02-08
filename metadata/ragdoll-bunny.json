@@ -1,12 +1,12 @@
 {
   "id": 7336195,
-  "name": "Ragdoll Bunny",
+  "name": "ragdoll bunny",
   "permalink": "ragdoll-bunny",
   "url": "https://www.ravelry.com/patterns/library/ragdoll-bunny",
   "external_url": "",
-  "designer_name": "Peihan Orestes",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
+  "designer_name": "peihan orestes",
+  "project_type": "toys",
+  "fiber_art": "crochet",
   "yarn_weight": null,
   "materials": [],
   "stitches_used": [],
@@ -18,14 +18,15 @@
   "rating_average": 5.0,
   "rating_count": 7,
   "difficulty_average": 2.0,
-  "favorites_count": 590,
+  "favorites_count": 595,
   "projects_count": 31,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/105718/926310",
+  "notes": "",
   "pdf": {
     "filename": "7336195.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7336195.pdf",
-    "url": "https://pdf.ravelrycache.com/peihan17/1828466/Ragdoll_Bunny.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482630&Signature=uMuAjry6Hm2mfeulrDQzeU9%2FWa8%3D&key_expires=1768482630&key=pbjOSWxjPjO9MrTdzZ-P4g",
+    "url": "https://pdf.ravelrycache.com/peihan17/1828466/Ragdoll_Bunny.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770438376&Signature=6ptjELdq2EnSaWi%2FXWhxF8JzGYc%3D&key_expires=1770438376&key=xI6rRO3iYQWAUnDeOp5Hxg",
     "size_bytes": 200346
   }
 }

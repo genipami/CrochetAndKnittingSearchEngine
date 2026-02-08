@@ -1,59 +1,56 @@
 {
   "id": 7373403,
-  "name": "Cat Beanie",
+  "name": "cat beanie",
   "permalink": "cat-beanie-9",
   "url": "https://www.ravelry.com/patterns/library/cat-beanie-9",
   "external_url": "",
-  "designer_name": "Kami Tomczak",
-  "project_type": "Hat",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "kami tomczak",
+  "project_type": "hat",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Alpaca Polo",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 85.0
     },
     {
-      "fiber": "Baby",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 10.0
     },
     {
-      "fiber": "Melange Wool Solids",
-      "pct": null
-    },
-    {
-      "fiber": "Standard",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 5.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamed",
-    "Stranded colorwork",
-    "Top-down",
-    "Written"
+    "seamed",
+    "stranded colorwork",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [
     5.0
   ],
   "needle_sizes_mm": [],
   "published": "2024/10/01",
-  "sizes_available": "Adjustable",
+  "sizes_available": "adjustable",
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 443,
+  "favorites_count": 467,
   "projects_count": 23,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/107284/955183",
+  "notes": "**keep in mind**\r\nthere are countless patterns for cat beanies everywhere that come down to crocheting a simple rectangle and sewing it shut, leaving one wide opening at the bottom. i freehanded this one, but it's so simple that there is a chance someone came up with something similar before i did so as well. \r\n\r\nthis pattern uses the **american crochet terminology**.\r\n\r\n**hook size** = 5mm\r\n**yarn recommendation** \r\nweight 2 double stranded (e.g. yarnart baby, petalouda standard, etc) about **220m or 240yds** total (110m or 120yds each strand)\r\n\r\nor\r\n\r\nweight 4-5 single stranded (e.g. kartopu melange wool, kartopu alpaca polo, etc) about **100m or 110yds**\r\n\r\n**abbreviations**\r\nch - chain\r\nst/sts - stitch/stitches\r\ndc - double crochet\r\nstsc - stacked single crochet\r\ndc2tog - double crochet 2 together (decrease)\r\n\r\n**size of the finished beanie laying flat:**\r\n28cm wide x 18cm long (11\" wide x 7\" long)\r\n\r\nany questions, comments, concerns? feel free to contact me!\r\n- [kami crochet][1]\r\n\r\n\r\n  [1]: https://linktr.ee/kami_crochet",
   "pdf": {
     "filename": "7373403.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7373403.pdf",
-    "url": "https://pdf.ravelrycache.com/KamiG2/1895692/Cat_Beanie_Quick_and_easy_crochet_pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479371&Signature=RSCE6r5WcppQGNXLFOQmP54RioI%3D&key_expires=1768479371&key=0hzMHNehRwHMDmSTJ0c9Ow",
+    "url": "https://pdf.ravelrycache.com/KamiG2/1895692/Cat_Beanie_Quick_and_easy_crochet_pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770420596&Signature=elESMrJVaIIXNRmKZnIwB2MnAdg%3D&key_expires=1770420596&key=NXa8Bm8GDMls4sO9tndHUw",
     "size_bytes": 664512
   }
 }

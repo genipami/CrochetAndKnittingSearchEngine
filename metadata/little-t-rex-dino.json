@@ -1,24 +1,24 @@
 {
   "id": 7471190,
-  "name": "Little T-rex Dino",
+  "name": "little t-rex dino",
   "permalink": "little-t-rex-dino",
   "url": "https://www.ravelry.com/patterns/library/little-t-rex-dino",
   "external_url": "https://www.themaryjay.com/free-patterns/trexcrochetpattern",
-  "designer_name": "The Mary Jay",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Bulky",
+  "designer_name": "the mary jay",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Blanket",
-      "pct": null
+      "fiber": "Polyester (Polyester)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     5.0
@@ -29,8 +29,9 @@
   "rating_average": 5.0,
   "rating_count": 4,
   "difficulty_average": 2.5,
-  "favorites_count": 314,
+  "favorites_count": 386,
   "projects_count": 9,
   "free_ravelry_download": false,
-  "download_url": "https://www.themaryjay.com/free-patterns/trexcrochetpattern"
+  "download_url": "https://www.themaryjay.com/free-patterns/trexcrochetpattern",
+  "notes": "**skill level:** advanced beginner to intermediate\r\n\r\nfinished size: around 5.5 inches tall.\r\n\r\n-i used around 34 yards of bernat blanket.\r\n\r\n-this pattern is no-sew and uses a no-sew technique to connect the tail to the body."
 }

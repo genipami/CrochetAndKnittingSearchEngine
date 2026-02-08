@@ -1,17 +1,21 @@
 {
   "id": 1300408,
-  "name": "Cute Salty Pretzel",
+  "name": "cute salty pretzel",
   "permalink": "cute-salty-pretzel",
   "url": "https://www.ravelry.com/patterns/library/cute-salty-pretzel",
   "external_url": "https://www.instagram.com/p/CmYnGH0os6E/",
-  "designer_name": "Julita Białkowska",
-  "project_type": "Home",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "julita białkowska",
+  "project_type": "home",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Supersoft",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 50.0
+    },
+    {
+      "fiber": "Shetland (Wool)",
+      "pct": 50.0
     }
   ],
   "stitches_used": [],
@@ -25,14 +29,15 @@
   "rating_average": 5.0,
   "rating_count": 14,
   "difficulty_average": 2.4285714285714284,
-  "favorites_count": 1776,
-  "projects_count": 58,
+  "favorites_count": 1792,
+  "projects_count": 59,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/97910/896168",
+  "notes": "",
   "pdf": {
     "filename": "1300408.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1300408.pdf",
-    "url": "https://pdf.ravelrycache.com/AmiJuli/1758040/Cute_salty_pretzel.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479817&Signature=pcie8erWrZkZtxwv78JjcFC8R3g%3D&key_expires=1768479817&key=dfiTzhYPQKwiVTJIe3ia6w",
+    "url": "https://pdf.ravelrycache.com/AmiJuli/1758040/Cute_salty_pretzel.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770423160&Signature=lvZNdluKrE0vzvTP0yfXAmzKaVQ%3D&key_expires=1770423160&key=VTGZgHzc9JvtRt6fH6Ik7Q",
     "size_bytes": 179303
   }
 }

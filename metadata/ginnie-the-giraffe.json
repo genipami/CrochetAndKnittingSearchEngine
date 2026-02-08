@@ -1,25 +1,25 @@
 {
   "id": 831835,
-  "name": "Ginnie the Giraffe",
+  "name": "ginnie the giraffe",
   "permalink": "ginnie-the-giraffe",
   "url": "https://www.ravelry.com/patterns/library/ginnie-the-giraffe",
   "external_url": "https://jesshuff.com/ginnie-giraffe-amigurumi-pattern/",
-  "designer_name": "Jess Huff",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "jess huff",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "I Love This Yarn! Solids",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     3.5
@@ -30,8 +30,9 @@
   "rating_average": 4.898305084745763,
   "rating_count": 59,
   "difficulty_average": 3.017857142857143,
-  "favorites_count": 5325,
-  "projects_count": 196,
+  "favorites_count": 5382,
+  "projects_count": 199,
   "free_ravelry_download": false,
-  "download_url": "https://jesshuff.com/ginnie-giraffe-amigurumi-pattern/"
+  "download_url": "https://jesshuff.com/ginnie-giraffe-amigurumi-pattern/",
+  "notes": "this **giraffe amigurumi pattern** stands 16 inches (41cm) tall when crocheted with a 3.5mm hook and worsted-weight yarn."
 }

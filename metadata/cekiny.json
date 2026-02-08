@@ -1,35 +1,47 @@
 {
   "id": 7415775,
-  "name": "Cekiny",
+  "name": "cekiny",
   "permalink": "cekiny",
   "url": "https://www.ravelry.com/patterns/library/cekiny",
   "external_url": "",
-  "designer_name": "Hanna Maciejewska",
-  "project_type": "Pullover",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "hanna maciejewska",
+  "project_type": "pullover",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Sparkly Moha",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 41.0
+    },
+    {
+      "fiber": "Mohair (Mohair)",
+      "pct": 34.0
+    },
+    {
+      "fiber": "Polyester (Polyester)",
+      "pct": 14.0
+    },
+    {
+      "fiber": "Bombyx / Cultivated / Mulberry (Silk)",
+      "pct": 11.0
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "lace",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Bottom-up",
-    "Charted",
-    "In the round",
-    "Kitchener stitch",
-    "Lace",
-    "Seamless",
-    "Short rows",
-    "Worked flat",
-    "Written"
+    "blocking",
+    "bottom-up",
+    "charted",
+    "in the round",
+    "kitchener stitch",
+    "lace",
+    "seamless",
+    "short rows",
+    "worked flat",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -39,10 +51,11 @@
   "published": "2025/03/01",
   "sizes_available": "1 (2)",
   "rating_average": 5.0,
-  "rating_count": 7,
-  "difficulty_average": 2.75,
-  "favorites_count": 3548,
-  "projects_count": 46,
+  "rating_count": 8,
+  "difficulty_average": 2.6666666666666665,
+  "favorites_count": 3661,
+  "projects_count": 49,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/24522/989212"
+  "download_url": "http://www.ravelry.com/dls/24522/989212",
+  "notes": "**pattern notes**\r\n“cekiny” is a relaxed-fit sweater with an intricate all-over lace pattern. this pullover is constructed seamlessly from the bottom up, starting with a lower body knit in rounds to the underarm where stitches for the front and back are separated and then worked flat to completion. once the body is finished, the stitches for sleeves are picked up around the armhole and worked in the round to create cuffs. the neckband is crafted last.\r\n\r\n**sizes** \r\n1 (2)\r\nfinished measurements: 33.75 (43.75)\" {84 (109.5) cm} bust circumference. \r\n\r\nsweater is meant to be worn with some positive ease. \r\n\r\n**gauge**\r\n19 sts and 20 rows = 4\" {10 cm} in main pattern on larger needles, after blocking.\r\n\r\n**suggested yarn** \r\ndye dye done sparkly moha \r\n(34% superkid mohair, 11% mulberry silk, 41% nylon, 14% polyester): 50g/ 213 yards {195 meters} \r\n\r\nyardage requirements: \r\n3(4) skeins or approx. 620 (695) yards {570 (760) meters}\r\n\r\nsample is knit in colorways “natural”.  \r\n\r\n**needles**\r\nus 5 – 3.75 mm 24” {60 cm} & 32” {80 cm} circular needles (or longer for magic loop)\r\nus 6 – 4 mm 24” {60 cm} & 32” {80 cm} circular needles (or longer for magic loop) \r\n\r\n**notions**\r\nstitch markers, locking stitch markers, stitch holders or scrap yarn, tapestry needle\r\n\r\n\r\n---\r\n\r\nquestions? join hanna’s group --[hada knits.][2]\r\n\r\n---\r\n\r\n\r\n\r\n  [2]: https://www.ravelry.com/groups/browse/show/hada-knits\r\n\r\n"
 }

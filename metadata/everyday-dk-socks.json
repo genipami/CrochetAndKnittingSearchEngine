@@ -1,43 +1,48 @@
 {
   "id": 1348089,
-  "name": "Everyday DK Socks",
+  "name": "everyday dk socks",
   "permalink": "everyday-dk-socks",
   "url": "https://www.ravelry.com/patterns/library/everyday-dk-socks",
   "external_url": "https://payhip.com/b/2endv",
-  "designer_name": "Hannah Sandler",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "hannah sandler",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Cricket DK",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 90.0
     },
     {
-      "fiber": "Merino DK",
-      "pct": null
+      "fiber": "Cashmere goat (Cashmere)",
+      "pct": 5.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 5.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Written"
+    "blocking",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.25
   ],
   "published": "2021/10/01",
-  "sizes_available": "Sizes 1 (2, 3, 4) correspond to an actual foot circumference of 7 (8, 9, 10) in/18 (20.5, 23, 25.5) cm measured around the ball of the foot.",
-  "rating_average": 5.0,
-  "rating_count": 11,
+  "sizes_available": "sizes 1 (2, 3, 4) correspond to an actual foot circumference of 7 (8, 9, 10) in/18 (20.5, 23, 25.5) cm measured around the ball of the foot.",
+  "rating_average": 4.833333333333333,
+  "rating_count": 12,
   "difficulty_average": 2.6363636363636362,
-  "favorites_count": 1156,
-  "projects_count": 93,
+  "favorites_count": 1190,
+  "projects_count": 94,
   "free_ravelry_download": false,
-  "download_url": "https://payhip.com/b/2endv"
+  "download_url": "https://payhip.com/b/2endv",
+  "notes": "the everyday dk socks pattern is my basic dk sock recipe. dk socks are quick to knit, thick, and super cozy! they are perfect for beginner sock-knitters, simple and mindless wips, gift-knitting, and showing off your favorite yarns!\r\n\r\nyarn: dk\r\n\r\nyardage: 185 yds - 350 yds/169 m - 320 m\r\n\r\nneedles: us 3/3.25 mm or size needed to obtain gauge\r\n\r\ntools: tapestry needle, scrap yarn or stitch holder, 2 stitch markers\r\n\r\ngauge: 26 sts & 36 rows = 4 in/10 cm in stockinette stitch after blocking\r\n\r\nsizes: sizes 1 (2, 3, 4) correspond to an actual foot circumference of 7 (8, 9, 10) in/18 (20.5, 23, 25.5) cm measured around the ball of the foot."
 }

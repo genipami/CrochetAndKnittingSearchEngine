@@ -1,33 +1,29 @@
 {
   "id": 903519,
-  "name": "Evocation",
+  "name": "evocation",
   "permalink": "evocation",
   "url": "https://www.ravelry.com/patterns/library/evocation",
   "external_url": "https://www.draiguna.com/2019/02/arcanoweave-part-3.html",
-  "designer_name": "Julia Hart",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Lace",
+  "designer_name": "julia hart",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "lace",
   "materials": [
     {
-      "fiber": "100% Mercerized Egyptian Cotton #10 Crochet Thread",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 66.7
     },
     {
-      "fiber": "Classic 10 Crochet Thread",
-      "pct": null
-    },
-    {
-      "fiber": "Curio #10",
-      "pct": null
+      "fiber": "Egyptian (Cotton)",
+      "pct": 33.3
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     1.75
@@ -38,8 +34,9 @@
   "rating_average": 4.919354838709677,
   "rating_count": 62,
   "difficulty_average": 4.15,
-  "favorites_count": 5435,
+  "favorites_count": 5470,
   "projects_count": 223,
   "free_ravelry_download": false,
-  "download_url": "https://www.draiguna.com/2019/02/arcanoweave-part-3.html"
+  "download_url": "https://www.draiguna.com/2019/02/arcanoweave-part-3.html",
+  "notes": "this is part 3 of the arcanoweave doily!  the pattern continues where part 2 left off, starting on round 20 and ending with round 41.  \r\n\r\nhere are the links to parts 1, 2, 4 and 5-\r\npart 1 arcane aura- https://www.ravelry.com/patterns/library/arcane-aura\r\npart 2 incanter's insight- https://www.ravelry.com/patterns/library/incanters-insight\r\npart 4 innervision-\r\nhttps://www.ravelry.com/patterns/library/innervision\r\npart 5 terrace of the magi-\r\nhttps://www.ravelry.com/patterns/library/terrace-of-the-magi\r\n\r\n**materials needed**\r\n\r\n* size 10 crochet thread, 300-325 yards\r\n* 1.75 mm hook\r\n* yarn needle\r\n* scissors\r\n\r\n**finished size**\r\n\r\n* about 14\" in diameter\r\n\r\nthe thread i’m using is aunt lydias size 10 cotton crochet thread in the colors purple and wood violet."
 }

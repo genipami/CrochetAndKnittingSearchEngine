@@ -1,46 +1,47 @@
 {
   "id": 1312104,
-  "name": "Fisherman Beanie",
+  "name": "fisherman beanie",
   "permalink": "fisherman-beanie-3",
   "url": "https://www.ravelry.com/patterns/library/fisherman-beanie-3",
   "external_url": "",
-  "designer_name": "Rachael Mason",
-  "project_type": "Hat",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "rachael mason",
+  "project_type": "hat",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Lark",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Half double crochet (hdc)",
-    "Slip stitch (sl st)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "half double crochet (hdc)",
+    "slip stitch (sl st)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamed",
-    "Written"
+    "seamed",
+    "written"
   ],
   "hook_sizes_mm": [
     5.0
   ],
   "needle_sizes_mm": [],
   "published": "2023/02/01",
-  "sizes_available": "Fits Average Head Size 18\"-23\"",
-  "rating_average": 4.909090909090909,
-  "rating_count": 22,
-  "difficulty_average": 1.7222222222222223,
-  "favorites_count": 1214,
-  "projects_count": 106,
+  "sizes_available": "fits average head size 18\"-23\"",
+  "rating_average": 4.875,
+  "rating_count": 24,
+  "difficulty_average": 1.65,
+  "favorites_count": 1272,
+  "projects_count": 116,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/84654/837858",
+  "notes": "the fisherman beanie is my all time favorite crochet beanie pattern. i first launched this pattern as a shop item in my wool intentions etsy shop, where it’s been a best seller for years, as it’s a simple yet classic beanie that looks great on everyone. \r\n\r\nthis pattern is worked back and forth in rows, then seamed with a slip stitch seam. one end will then be cinched and closed.\r\n\r\nyarn: quince & co. lark (134 yards), two skeins. the color pictured is caspian. while i recommend quince & co. lark for this pattern, most worsted weight - category 4 yarns should work nicely. 268 yards will be needed. \r\n\r\nhook: us h / 5mm\r\n\r\nnote: gauge is important for this pattern. the stitch pattern used creates a fabric that is stretchy and fits an average head size of 18-23\". a looser tension will result in a hat that is larger than this size. a tighter tension will create a smaller hat. take a moment to make a gauge swatch and adjust your hook size if necessary. when measuring your gauge make sure to measure it when your crochet fabric is un-stretched. \r\n\r\nsharing your work online? please tag @woolintentions, #woolintentions, #fishermanbeanie. i'd love to see your work!",
   "pdf": {
     "filename": "1312104.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1312104.pdf",
-    "url": "https://pdf.ravelrycache.com/heyrachaelmason/1623899/Fisherman_Beanie_Pattern_-_Final.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480400&Signature=OxaLOyoXpIGg%2FYUuI6pj0r%2F9QPE%3D&key_expires=1768480400&key=5uVJD3Q6wG3jUOA0QWwP1g",
+    "url": "https://pdf.ravelrycache.com/heyrachaelmason/1623899/Fisherman_Beanie_Pattern_-_Final.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770426169&Signature=bmMvvO5ikZ9S4%2FVaHI5GMGotJxw%3D&key_expires=1770426169&key=tKw32qFrXR4FgymclTVYZQ",
     "size_bytes": 2202789
   }
 }

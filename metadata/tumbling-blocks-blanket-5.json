@@ -1,40 +1,45 @@
 {
   "id": 1358570,
-  "name": "Tumbling Blocks Blanket",
+  "name": "tumbling blocks blanket",
   "permalink": "tumbling-blocks-blanket-5",
   "url": "https://www.ravelry.com/patterns/library/tumbling-blocks-blanket-5",
   "external_url": "https://www.purlsoho.com/create/2023/08/27/tumbling-blocks-blanket/",
-  "designer_name": "Purl Soho",
-  "project_type": "Blanket",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "purl soho",
+  "project_type": "blanket",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Morning",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Yak (Yak)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Charted",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "charted",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     4.0
   ],
   "published": "2023/08/01",
-  "sizes_available": "Crib (Throw)",
-  "rating_average": 4.769230769230769,
-  "rating_count": 52,
-  "difficulty_average": 2.8333333333333335,
-  "favorites_count": 4522,
-  "projects_count": 219,
+  "sizes_available": "crib (throw)",
+  "rating_average": 4.773584905660377,
+  "rating_count": 53,
+  "difficulty_average": 2.816326530612245,
+  "favorites_count": 4649,
+  "projects_count": 226,
   "free_ravelry_download": false,
-  "download_url": "https://www.purlsoho.com/create/2023/08/27/tumbling-blocks-blanket/"
+  "download_url": "https://www.purlsoho.com/create/2023/08/27/tumbling-blocks-blanket/",
+  "notes": "materials\r\n\r\n- 5 (7) skeins of purl soho’s [morning][1], 75% organically grown cotton and 25% yak. each skein is approximately 191 yards/ 100 grams; approximately 860 (1337) total yards required. we used the color cucumber ice.\r\n- us 6 (4 mm), 32-inch, or longer, [circular needles][2]\r\n\r\nnote: for the throw size, we used the entirety of our skeins, so if you want to be sure you have enough, consider ordering an extra skein. if you don’t end up needing it, you can return unwound yarn for a refund within 30 days of purchase, or within 6 months, for store credit. our [return policy][3] has all the details!\r\n\r\ngauge\r\n19 stitches and 30 rows = 4 inches in stockinette stitch\r\n\r\nsizes\r\ncrib (throw)\r\n\r\nfinished dimensions: approximately 32 inches wide x 32 inches long (32 inches wide x 52 inches long)\r\n\r\nnote: you cast on the same number of stitches for both sizes, but for the crib size, you work fewer repeats of the pattern and end up with a square!\r\n\r\nsample: we knit the throw size version for our sample.\r\n\r\ndesigned by purl soho designer, [hiromi glover][4]. click [here][5] to see even more of hiromi’s work!\r\n\r\n\r\n  [1]: https://www.purlsoho.com/morning.html\r\n  [2]: https://www.purlsoho.com/tools-and-notions/knitting-and-crochet.html?collection_filter=23796\r\n  [3]: https://www.purlsoho.com/return-policy\r\n  [4]: https://www.purlsoho.com/create/tag/hiromi-glover-for-purl-soho/\r\n  [5]: https://www.instagram.com/mignonnegrise/"
 }

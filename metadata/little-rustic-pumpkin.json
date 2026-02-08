@@ -1,28 +1,36 @@
 {
   "id": 957541,
-  "name": "Little Rustic Pumpkin",
+  "name": "little rustic pumpkin",
   "permalink": "little-rustic-pumpkin",
   "url": "https://www.ravelry.com/patterns/library/little-rustic-pumpkin",
   "external_url": "https://yarnandchai.com/little-rustic-pumpkin/",
-  "designer_name": "Rebecca Langford",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "rebecca langford",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Must Be Merino",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 50.0
+    },
+    {
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 25.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Half double crochet (hdc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "half double crochet (hdc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Top-down",
-    "Written"
+    "in the round",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [
     3.5
@@ -33,8 +41,9 @@
   "rating_average": 4.847682119205298,
   "rating_count": 151,
   "difficulty_average": 2.6853146853146854,
-  "favorites_count": 9936,
+  "favorites_count": 9941,
   "projects_count": 615,
   "free_ravelry_download": false,
-  "download_url": "https://yarnandchai.com/little-rustic-pumpkin/"
+  "download_url": "https://yarnandchai.com/little-rustic-pumpkin/",
+  "notes": "this cute little decorative pumpkin is begun in the round before switching to side-to-side rows.  complete video instructions are included that take you from crocheting to stuffing, shaping and decorating. "
 }

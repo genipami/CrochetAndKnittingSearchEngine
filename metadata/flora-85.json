@@ -1,28 +1,28 @@
 {
   "id": 1223110,
-  "name": "Flora",
+  "name": "flora",
   "permalink": "flora-85",
   "url": "https://www.ravelry.com/patterns/library/flora-85",
   "external_url": "http://virklust.wordpress.com/2022/03/04/flora-duk-doily/",
-  "designer_name": "Karin Åshammar/Virklust",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Fingering",
+  "designer_name": "karin åshammar/virklust",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Emma 8/4",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Half double crochet (hdc)",
-    "Single crochet (sc)"
+    "double crochet (dc)",
+    "half double crochet (hdc)",
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "In the round",
-    "Lace",
-    "Written"
+    "in the round",
+    "lace",
+    "written"
   ],
   "hook_sizes_mm": [
     2.5
@@ -33,8 +33,9 @@
   "rating_average": 4.6875,
   "rating_count": 16,
   "difficulty_average": 3.6,
-  "favorites_count": 1172,
-  "projects_count": 52,
+  "favorites_count": 1199,
+  "projects_count": 55,
   "free_ravelry_download": false,
-  "download_url": "http://virklust.wordpress.com/2022/03/04/flora-duk-doily/"
+  "download_url": "http://virklust.wordpress.com/2022/03/04/flora-duk-doily/",
+  "notes": "this doily can be made in 2 sizes: small (rnds 1-12, approx 26 cm/10” in diameter) and large (rnds 1-25, approx 49 cm/19”\r\nin diameter). \r\n\r\nskill level: intermediate\r\n\r\nstitches used: sc, hdc, dc, dccl, dctog, picot"
 }

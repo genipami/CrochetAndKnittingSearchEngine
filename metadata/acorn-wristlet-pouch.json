@@ -1,26 +1,26 @@
 {
   "id": 7288886,
-  "name": "Acorn Wristlet Pouch",
+  "name": "acorn wristlet pouch",
   "permalink": "acorn-wristlet-pouch",
   "url": "https://www.ravelry.com/patterns/library/acorn-wristlet-pouch",
   "external_url": "https://www.etsy.com/listing/1500979585/acorn-wristlet-pouch-crochet-pattern-oak?click_key=4279fce1c7b89838dbf329205600e2fe9974abf6%3A1500979585&click_sum=42a416fb&ref=shop_home_active_1&crt=1",
-  "designer_name": "Meg Nelson",
-  "project_type": "Bag",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "meg nelson",
+  "project_type": "bag",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Super Value Solids (New)",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     5.0
@@ -31,14 +31,15 @@
   "rating_average": 5.0,
   "rating_count": 10,
   "difficulty_average": 2.9,
-  "favorites_count": 1903,
+  "favorites_count": 1968,
   "projects_count": 46,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/102820/912546",
+  "notes": "this cute little low-sew acorn wristlet pattern is a drawstring closure and super quick to work up as it's a small pouch great for holding small items\r\n\r\nthe newest update for this acorn pouch includes an oak leaf motif written pattern and chart, so you can make your acorn look like it came straight from the forest :) \r\n\r\npattern requires medium #4 worsted weight yarn in dark brown and beige. i recommend whichever color you desire for the leaves to be a smaller yarn size than the bag's yarn as the leaves can be quite big for the pouch.\r\n\r\npattern also requires 4.5mm crochet hook, yarn needle, and stitch marker. i used acrylic yarn for my acorn but it's not required. \r\n\r\nhappy crocheting!",
   "pdf": {
     "filename": "7288886.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7288886.pdf",
-    "url": "https://pdf.ravelrycache.com/mysimplicitiesmn/1952059/AcornWristletPouch.CrctPattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478655&Signature=plIUHA3q1mjyF7B4RT9EBUez6IY%3D&key_expires=1768478655&key=4FDzZ3qPjRnuqBKSDuJ-3g",
+    "url": "https://pdf.ravelrycache.com/mysimplicitiesmn/1952059/AcornWristletPouch.CrctPattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770416479&Signature=cqeZhh3Tsmp5v%2B3Pd3qVjIOmfZY%3D&key_expires=1770416479&key=qmyOrtk0oUymxRmCSaH46g",
     "size_bytes": 3011133
   }
 }

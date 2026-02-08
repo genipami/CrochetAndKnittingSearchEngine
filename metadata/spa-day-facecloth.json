@@ -1,22 +1,22 @@
 {
   "id": 176925,
-  "name": "Spa Day Facecloth",
+  "name": "spa day facecloth",
   "permalink": "spa-day-facecloth",
   "url": "https://www.ravelry.com/patterns/library/spa-day-facecloth",
   "external_url": "",
-  "designer_name": "Anne Mancine",
-  "project_type": "Dishcloth",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "anne mancine",
+  "project_type": "dishcloth",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Samp'a",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -24,17 +24,18 @@
   ],
   "published": "2010/04/01",
   "sizes_available": "",
-  "rating_average": 4.605695509309967,
-  "rating_count": 913,
-  "difficulty_average": 1.5828092243186582,
-  "favorites_count": 24397,
-  "projects_count": 3709,
+  "rating_average": 4.605032822757112,
+  "rating_count": 914,
+  "difficulty_average": 1.5832460732984293,
+  "favorites_count": 24515,
+  "projects_count": 3723,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/11344/35130",
+  "notes": "this dk weight facecloth knits up quickly and makes a wonderful gift.  or make some to pamper yourself - you deserve it!\r\n\r\ndirections are also included in the pattern for a sturdier facecloth in a worsted weight yarn.\r\n",
   "pdf": {
     "filename": "176925.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\176925.pdf",
-    "url": "https://pdf.ravelrycache.com/amancine/1737029/Spa_Day_Facecloth.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483280&Signature=4UcmGfp24YwphvcRqbx0Y0FEwKo%3D&key_expires=1768483280&key=BdggKBUZQyzdh96aup7pSw",
+    "url": "https://pdf.ravelrycache.com/amancine/1737029/Spa_Day_Facecloth.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770441814&Signature=yPBbmaRVZFGghQRxzqTEBsmIaqM%3D&key_expires=1770441814&key=ulZXH6d17xUR2VNDvLnV3A",
     "size_bytes": 623269
   }
 }

@@ -1,37 +1,29 @@
 {
   "id": 700918,
-  "name": "Spree Socks",
+  "name": "spree socks",
   "permalink": "spree-socks",
   "url": "https://www.ravelry.com/patterns/library/spree-socks",
   "external_url": "",
-  "designer_name": "Kemper Wray",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "kemper wray",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Blimp DK",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 95.0
     },
     {
-      "fiber": "Merino DK",
-      "pct": null
-    },
-    {
-      "fiber": "Rios",
-      "pct": null
-    },
-    {
-      "fiber": "Superwash Sock 80/20",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 5.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round"
+    "in the round"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -39,18 +31,19 @@
     3.5
   ],
   "published": "2016/10/01",
-  "sizes_available": "Small, Medium and Large",
-  "rating_average": 4.645161290322581,
-  "rating_count": 155,
-  "difficulty_average": 2.2653061224489797,
-  "favorites_count": 3419,
+  "sizes_available": "small, medium and large",
+  "rating_average": 4.647435897435898,
+  "rating_count": 156,
+  "difficulty_average": 2.2567567567567566,
+  "favorites_count": 3432,
   "projects_count": 798,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/50260/361778",
+  "notes": "> **please note: i do not offer pattern support for my free patterns!**\r\n\r\n**if you would like to assist me in translating this free pattern into your native language, please email me directly at junkyarn@gmail.com!**\r\n\r\nthese cozy knit socks can be made in dk or worsted weight yarn for a  quick knit gift or treat for yourself. got any single skeins of dk or worsted yarn? perfect! spree socks only take 1 skein to make.\r\n\r\nsmall size fits feet with 8.5 to 9 in circumference; medium size fits feet with 9 to 9.5 in circumference; large size fits feet with +9.5 circumference. [a small size will fit most womens' feet, medium is for wider feet, large will fit most men! -- for reference.]\r\n\r\nmaterials needed:\r\n1 (roughly 100g) skein of either dk or worsted weight yarn\r\ncircular or dpns in sizes 3 and 4 (for dk version) or 4 and 5 (for worsted)\r\ntapestry needle\r\n1 stitch marker\r\n\r\n***tag your instagram photos with hashtags #spreesocks and #junkyarn!***",
   "pdf": {
     "filename": "700918.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\700918.pdf",
-    "url": "https://pdf.ravelrycache.com/wraybot/634991/Spree_Socks.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483301&Signature=DOZQfE%2BSC73%2ByXsoXcGxZC6CPiI%3D&key_expires=1768483301&key=QbJPxbwVt9KqE4Vv-DWaaA",
+    "url": "https://pdf.ravelrycache.com/wraybot/634991/Spree_Socks.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770442013&Signature=p09XOLdjJy1TSZ4YVfE8eVNs7qI%3D&key_expires=1770442013&key=TGa72hSvUVPYgYjCu3nmUg",
     "size_bytes": 1332950
   }
 }

@@ -1,50 +1,55 @@
 {
   "id": 7411860,
-  "name": "Non Cooperation Brick",
+  "name": "non cooperation brick",
   "permalink": "non-cooperation-brick",
   "url": "https://www.ravelry.com/patterns/library/non-cooperation-brick",
   "external_url": "",
-  "designer_name": "Hannah Roderick",
-  "project_type": "Toys",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "hannah roderick",
+  "project_type": "toys",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Glitzie",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 85.0
     },
     {
-      "fiber": "PetiteKnit Sunday",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 12.5
+    },
+    {
+      "fiber": "Stellina (Other)",
+      "pct": 2.5
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "lace",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Lace",
-    "Seamed",
-    "Written"
+    "lace",
+    "seamed",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.25
   ],
   "published": "2025/02/01",
-  "sizes_available": "One Size",
+  "sizes_available": "one size",
   "rating_average": 5.0,
   "rating_count": 13,
   "difficulty_average": 2.25,
-  "favorites_count": 6004,
-  "projects_count": 107,
+  "favorites_count": 6083,
+  "projects_count": 109,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/110381/986174",
+  "notes": "do you find yourself increasingly frustrated with the state of the world by have no outlet for your nihilistic tendencies without breaking something in your home? are you tired after a long day of protesting for the rights of underserved people and need something mildly mindless to work on while you stream either the latest season of severance for the first time or the third season of gilmore girls for the fifth time? do you not want to cooperate or be complacent with the fact that we are watching history in the making, but not in a fun and freedom-y way? well do i have the project for you!\r\n\r\ninspired by a co-worker who was frustrated with how things are going generally and didn’t want to throw my emotional support chicken ™ against a wall for fear of hurting it or its feelings, the idea for the non-cooperation brick was born. this is a project for anyone who wants to throw something at the wall every time an article comes out about how more of our rights are being stripped away but also doesn’t want to break their fish tank/flower vase/television/porcelain cat figurine in the process. make yourself a non-cooperation brick to work through some anxiety and frustration while crafting. make someone else a non-cooperation brick to help them process their own emotions. make many non-cooperation bricks until the world is covered in nothing but non-cooperation bricks.\r\n\r\nthe non-cooperation brick is knit to the dimensions of one approximate real-world brick and uses fingering-weight yarn on us 1 (2.25mm) knitting needles to get a nice tight weave. use any fingering-weight yarn you like, i encourage stash-diving to try and find something that would work, since you only need about 50g of yarn to make one brick. other than yarn and needles, all you need is a tapestry needle, some stuffing or foam, and a pair of scissors, and you're set!\r\n\r\nplease reach out to me either on ravelry (maroonjumper) or instagram (@hannah_ermi_roderick) if you have any problems knitting the brick or accessing the pattern. thanks!\r\n",
   "pdf": {
     "filename": "7411860.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7411860.pdf",
-    "url": "https://pdf.ravelrycache.com/MaroonJumper/1968452/Brick_Knitting_Pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482101&Signature=h%2FD7Q3rDs4bnwtHydfp04h7HuYQ%3D&key_expires=1768482101&key=ZOS-NQwC2VJP1BUv4DxAMQ",
+    "url": "https://pdf.ravelrycache.com/MaroonJumper/1968452/Brick_Knitting_Pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770435559&Signature=PU%2BQT%2F7inN3ja4KC%2BcDpwcLv8g4%3D&key_expires=1770435559&key=CqCEnoAtBJAjq0_BBFQhpQ",
     "size_bytes": 301426
   }
 }

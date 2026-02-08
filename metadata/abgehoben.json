@@ -1,41 +1,46 @@
 {
   "id": 7304226,
-  "name": "Abgehoben",
+  "name": "abgehoben",
   "permalink": "abgehoben",
   "url": "https://www.ravelry.com/patterns/library/abgehoben",
   "external_url": "",
-  "designer_name": "Kathleen Lyane",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "kathleen lyane",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Extrafeine Sockenwolle 4-fach",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted"
+    "charted"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [],
   "published": "2024/01/01",
-  "sizes_available": "64 Maschen",
+  "sizes_available": "64 maschen",
   "rating_average": 4.6875,
   "rating_count": 16,
   "difficulty_average": 3.5,
-  "favorites_count": 1121,
+  "favorites_count": 1128,
   "projects_count": 67,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/90511/901261",
+  "notes": "du hast eine sehr unruhige färbung mit kurzen farbabschnitten oder möchtest einfach bunte reste verstricken? was liegt da näher, als das garn mit einem einfarbigen zu kombinieren und es mit hebemaschen in szene zu setzen? \r\n\r\ndanke an meine teststrickerinnen [mumpia](/people/mumpia) , [marylou97](/people/marylou97) und [spaetzin](/people/spaetzin) für die hilfreichen anmerkungen und korrekturen. :kissing_heart: ",
   "pdf": {
     "filename": "7304226.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7304226.pdf",
-    "url": "https://pdf.ravelrycache.com/Dillerbse/1769648/Abgehoben.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478641&Signature=UBx2hVVW7qYb9W8uMG59Ujv04c8%3D&key_expires=1768478641&key=1jTYGDyLIIbs__YSZOfZoA",
+    "url": "https://pdf.ravelrycache.com/Dillerbse/1769648/Abgehoben.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770416427&Signature=5ahoepwiHS4pFFt7%2F5wIY%2B1RsHw%3D&key_expires=1770416427&key=XCUBeVEMRI6kHSTVu7IHXg",
     "size_bytes": 187630
   }
 }

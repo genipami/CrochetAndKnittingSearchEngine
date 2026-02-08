@@ -1,30 +1,30 @@
 {
   "id": 7352835,
-  "name": "Afternoon Tea",
+  "name": "afternoon tea",
   "permalink": "afternoon-tea-20",
   "url": "https://www.ravelry.com/patterns/library/afternoon-tea-20",
   "external_url": "https://virklust.wordpress.com/2024/07/09/afternoon-tea/",
-  "designer_name": "Karin Åshammar/Virklust",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Fingering",
+  "designer_name": "karin åshammar/virklust",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Bianca",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Half double crochet (hdc)",
-    "Popcorn",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "half double crochet (hdc)",
+    "popcorn",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Lace",
-    "Written"
+    "in the round",
+    "lace",
+    "written"
   ],
   "hook_sizes_mm": [
     2.5
@@ -35,8 +35,9 @@
   "rating_average": 4.818181818181818,
   "rating_count": 11,
   "difficulty_average": 5.7,
-  "favorites_count": 955,
+  "favorites_count": 984,
   "projects_count": 22,
   "free_ravelry_download": false,
-  "download_url": "https://virklust.wordpress.com/2024/07/09/afternoon-tea/"
+  "download_url": "https://virklust.wordpress.com/2024/07/09/afternoon-tea/",
+  "notes": "textured doily\r\n\r\nskill level: advanced\r\n\r\nwritten pattern with close-up photos\r\n\r\nstitches used: sc, fpsc, fpsc2tog, bphdc, dc, dc2tog, dc3tog, 2dccl, 3dccl, fpdc, fpdc2tog, fpdc3tog, 3fpdccl, bpdc, fptr, picot, popcorn \t\r\n"
 }

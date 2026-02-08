@@ -1,26 +1,22 @@
 {
   "id": 7323672,
-  "name": "Perry The Chunky Platypus",
+  "name": "perry the chunky platypus",
   "permalink": "perry-the-chunky-platypus",
   "url": "https://www.ravelry.com/patterns/library/perry-the-chunky-platypus",
   "external_url": "https://www.instagram.com/p/C4H6GfNNwhL/?img_index=1",
-  "designer_name": "Vibeke Kaale",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Bulky",
+  "designer_name": "vibeke kaale",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Baby Snuggle Solid",
-      "pct": null
-    },
-    {
-      "fiber": "Honey Bunny",
-      "pct": null
+      "fiber": "Polyester (Polyester)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     4.0
@@ -31,14 +27,15 @@
   "rating_average": 4.666666666666667,
   "rating_count": 6,
   "difficulty_average": 2.8333333333333335,
-  "favorites_count": 1314,
+  "favorites_count": 1346,
   "projects_count": 17,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/104905/916245",
+  "notes": "this is a fully written version of my perry the platypus mod. it started as a mod for my \"dave the angry duck pattern\", that i posted on my instagram.  \r\nthen i decided to have a fully written version to make it easier to make. \r\n\r\nto make this you need basic understanding of crochet terms, basic understanding of sewing and making amigurumi. \r\n",
   "pdf": {
     "filename": "7323672.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7323672.pdf",
-    "url": "https://pdf.ravelrycache.com/Creativibs/1842807/Perry_the_chunky_final.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482372&Signature=9h6TARU84pgcjIHIiy2irkYtIko%3D&key_expires=1768482372&key=-UQ0QOxjPAIWjmQiEtLvJw",
+    "url": "https://pdf.ravelrycache.com/Creativibs/1842807/Perry_the_chunky_final.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770436846&Signature=3G1ZOe6nbvWRjej9qwKfA8ypM3w%3D&key_expires=1770436846&key=4_AYDUm19mFlKv2AJfnLFw",
     "size_bytes": 292883
   }
 }

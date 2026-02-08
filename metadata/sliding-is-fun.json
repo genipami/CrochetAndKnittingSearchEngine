@@ -1,26 +1,26 @@
 {
   "id": 1135384,
-  "name": "Sliding is fun",
+  "name": "sliding is fun",
   "permalink": "sliding-is-fun",
   "url": "https://www.ravelry.com/patterns/library/sliding-is-fun",
   "external_url": "",
   "designer_name": "srossinifaust",
-  "project_type": "Blanket",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "project_type": "blanket",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Cumulus",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 94.0
     },
     {
-      "fiber": "Cumulus Rainbow",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 6.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [],
@@ -29,17 +29,18 @@
   ],
   "published": "2021/04/01",
   "sizes_available": "26\" x 29\"",
-  "rating_average": 4.92,
-  "rating_count": 175,
-  "difficulty_average": 1.7454545454545454,
-  "favorites_count": 6660,
-  "projects_count": 848,
+  "rating_average": 4.909090909090909,
+  "rating_count": 176,
+  "difficulty_average": 1.7409638554216869,
+  "favorites_count": 6762,
+  "projects_count": 859,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/21377/693764",
+  "notes": "you: \"i need to make a baby blanket.\"\r\nme: \"when is the baby shower?\"\r\nyou: \"2 weeks from today!\"\r\nme: \"i have just the kit for you.\"\r\n\r\nwe've just put together our latest kit, sliding is fun!\r\na baby blanket, perfect for the stroller or car seat. 26\" x 29\"\r\nsoft and cozy. we machine wash and dry this yarn on delicate in a [soak eco wash bag][1].\r\n\r\none skein each of [juniper moon farms cumulus rainbow][2] and [solid][3].\r\n94% cotton with a touch of nylon for strength.\r\n\r\nknit on a us8 needle, this blanket knits up fast. \r\n\r\nit's just the knit stitch, but we slide the stitches to the opposite end of the needle to work the next color, creating a stockinette stitch section between each ridge. \r\n\r\nwe love how this shows off the gradient color in such a fun way. we hope you love our color combinations as much as we do. [click here][4] to see all available kits.\r\n\r\nthe ravelry download includes two copies of the pattern. please feel free to share with a friend!!\r\n\r\n\r\n  [1]: https://www.darnknitanyway.com/shop/c/p/slim-eco-wash-bags-x56256358.htm\r\n  [2]: https://www.darnknitanyway.com/shop/c/p/cumulus-rainbow-x50183054.htm\r\n  [3]: https://www.darnknitanyway.com/shop/c/p/cumulus-x47665128.htm\r\n  [4]: https://www.darnknitanyway.com/shop/kits/p/sliding-is-fun-x56782741.htm",
   "pdf": {
     "filename": "1135384.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1135384.pdf",
-    "url": "https://pdf.ravelrycache.com/darnknitanyway/1311338/DKA_Sliding_is_fun_4_26_21_Final.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483096&Signature=KvslDhDmzcs2c7hD1alfSyfzU0k%3D&key_expires=1768483096&key=y1lRDpm_oOin-5kNdETYRg",
+    "url": "https://pdf.ravelrycache.com/darnknitanyway/1311338/DKA_Sliding_is_fun_4_26_21_Final.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770441066&Signature=psMbNzl7RcT3rCgL42bKXjKq4bM%3D&key_expires=1770441066&key=nOrdpDaxpvbv0M_CVWyrvA",
     "size_bytes": 222915
   }
 }

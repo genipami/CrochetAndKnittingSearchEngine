@@ -1,27 +1,35 @@
 {
   "id": 7366291,
-  "name": "253-31  Winter Crossover Scarf",
+  "name": "253-31  winter crossover scarf",
   "permalink": "253-31-winter-crossover-scarf",
   "url": "https://www.ravelry.com/patterns/library/253-31-winter-crossover-scarf",
   "external_url": "https://www.garnstudio.com/pattern.php?id=11873&cid=19",
-  "designer_name": "DROPS design",
-  "project_type": "Scarf",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "drops design",
+  "project_type": "scarf",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "DROPS Nord",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 45.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 30.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamless",
-    "Written"
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -32,8 +40,9 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 452,
+  "favorites_count": 479,
   "projects_count": 29,
   "free_ravelry_download": false,
-  "download_url": "https://www.garnstudio.com/pattern.php?id=11873&cid=19"
+  "download_url": "https://www.garnstudio.com/pattern.php?id=11873&cid=19",
+  "notes": "**knitted small shawl in drops nord. piece is knitted sideways in garter stitch with picot edge.**\r\n\r\n~~~~~~~~~~~~~~~~~~~\r\n\r\ndrops design: pattern no-089\r\nyarn group a\r\n\r\n----------------------------------------------------------\r\n\r\n\r\n**measurements**\r\nlength: approx. 83 cm\r\nwidth: approx. 13 cm\r\n\r\n**yarn**:\r\ndrops nord from garnstudio (belongs to yarn group a)\r\n50 g colour 01, off white\r\n\r\n**needles**:\r\ndrops circular needle size 3.5 mm: length: 40 cm\r\n\r\n**knitting tension**:\r\n24 stitches in width and 48 rows vertically in garter stitch on needle size 3.5 mm = 10 x 10 cm.\r\nnote! remember that needle size is only a suggestion. if you have too many stitches on 10 cm switch to larger needles. if you have too few stitches on 10 cm switch to smaller needles. "
 }

@@ -1,32 +1,32 @@
 {
   "id": 1028551,
-  "name": "Tree Planter Toque",
+  "name": "tree planter toque",
   "permalink": "tree-planter-toque",
   "url": "https://www.ravelry.com/patterns/library/tree-planter-toque",
   "external_url": "",
-  "designer_name": "Erin Trolley",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "erin trolley",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Rios",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 50.0
     },
     {
-      "fiber": "Shelter",
-      "pct": null
+      "fiber": "Targhee-Columbia (Wool)",
+      "pct": 50.0
     }
   ],
   "stitches_used": [
     "1x1 rib",
-    "Ribbing",
-    "Treble crochet (tr)"
+    "ribbing",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -37,14 +37,15 @@
   "rating_average": 4.848484848484849,
   "rating_count": 66,
   "difficulty_average": 1.6885245901639345,
-  "favorites_count": 2136,
-  "projects_count": 364,
+  "favorites_count": 2165,
+  "projects_count": 365,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/75095/607931",
+  "notes": "a ribbed beanie that is warm enough to be worn on the coldest, wettest spring morning while out on the block putting your first box in the ground, and stylish enough to be worn in town on day off without locals knowing that you’re a planter (maybe). \r\n\r\nthis toque can be knit using any worsted weight wool. great for stash busting! you will need approximately 160-180 m. one skein of any of the listed wool suggestions will work perfectly. \r\n\r\nsince it is knit in ribbing, it will be very stretchy and gauge isn't *super* important. i was able to knit this toque to 20 sts over 4 inches using a 4 mm (us 6) needle. \r\n\r\ni love seeing your finished projects on here, and on instagram. tag @makewitherin and use the hashtag #treeplantertoque. \r\n\r\nhappy knitting! ",
   "pdf": {
     "filename": "1028551.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1028551.pdf",
-    "url": "https://pdf.ravelrycache.com/erintrolley/1126858/Tree_Planter_Toque_.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483859&Signature=hJ1MBWbjZdNmeJbnTZcf1VzPc5Q%3D&key_expires=1768483859&key=L6fKtv6uv6Zq0ntQbtfpQA",
+    "url": "https://pdf.ravelrycache.com/erintrolley/1126858/Tree_Planter_Toque_.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770445212&Signature=GzPNehtFbgIVWApBa8k%2BUPChJOU%3D&key_expires=1770445212&key=VknLvnKjyGY6pi_njhGBdw",
     "size_bytes": 308733
   }
 }

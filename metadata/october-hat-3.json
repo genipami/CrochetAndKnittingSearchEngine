@@ -1,32 +1,32 @@
 {
   "id": 970741,
-  "name": "October Hat",
+  "name": "october hat",
   "permalink": "october-hat-3",
   "url": "https://www.ravelry.com/patterns/library/october-hat-3",
   "external_url": "",
-  "designer_name": "Sloane Rosenthal",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "sloane rosenthal",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Germantown",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Ribbing",
-    "Treble crochet (tr)"
+    "cable",
+    "ribbing",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Bottom-up",
-    "Cables",
-    "Charted",
-    "In the round",
-    "Seamless",
-    "Written"
+    "blocking",
+    "bottom-up",
+    "cables",
+    "charted",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -35,17 +35,18 @@
   ],
   "published": "2019/10/01",
   "sizes_available": "18” (46 cm), brim circumference, unstretched. 9.5” (24 cm) height, brim folded in half.",
-  "rating_average": 4.822660098522167,
-  "rating_count": 812,
-  "difficulty_average": 3.2422279792746114,
-  "favorites_count": 30090,
-  "projects_count": 3378,
+  "rating_average": 4.822168087697929,
+  "rating_count": 821,
+  "difficulty_average": 3.2525641025641026,
+  "favorites_count": 30234,
+  "projects_count": 3399,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/13463/562511",
+  "notes": "what’s better than a free hat pattern? 12 free hat patterns, of course! this year we’re releasing a new, free hat design on the 3rd tuesday of each month made in germantown.\r\n\r\nthe october hat is worked in the round from the bottom up. the hat begins with a provisional cast on, and then a deep knit 2, purl 2 ribbing is worked. an intricate, modern cable panel pattern is worked for the body of the hat and integrated decreases shape the crown. \r\n\r\n**specifications\r\nyarn**\r\nkelbourne woolens germantown (100% n. american wool; 220 yds/100 gm skein): oxford blue 419, 1 skein. \r\n**gauge**\r\n1 cable repeat (40 sts) = 5.5” (14 cm) on larger ndls, after blocking. \r\n28 rnds = 4” (10 cm) in cable patt on larger ndls, after blocking. \r\n**needles**\r\n1 – 16” (40 cm) us 5 (3.75 mm) circular.\r\n1 – 16” (40 cm) us 7 (4.5 mm) circular.\r\n1 – set us 7 (4.5 mm) dpns.\r\n*check your gauge and adjust needle size(s) accordingly if necessary.*\r\n**notions**\r\ndarning needle, stitch marker, kelbourne woolens label, sewing thread, sharp sewing needle, waste yarn, crochet hook for provisional cast on.\r\n**size**\r\n18” (46 cm), brim circumference, unstretched. 9.5” (24 cm) height, brim folded in half.\r\n**skills**\r\ntubular cast-on, working cables from charts, decreasing.\r\n\r\n*errata (prior to 10/25):*\r\nchange to larger needles after working the ribbing.\r\n\r\nthe repeat of the round 4 crown decreases should end with a p2.\r\n",
   "pdf": {
     "filename": "970741.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\970741.pdf",
-    "url": "https://pdf.ravelrycache.com/KelbourneWoolens/1038790/Year_of_Hats_October_Hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482171&Signature=mm4wpdukn4LNLpLy1dngeQqDiDE%3D&key_expires=1768482171&key=1rw9JdmRCWAs2BCWrJFWkg",
+    "url": "https://pdf.ravelrycache.com/KelbourneWoolens/1038790/Year_of_Hats_October_Hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770435859&Signature=K1f9qJ2V0w41%2FkcrEzYRGCMDjQY%3D&key_expires=1770435859&key=c2QDcfh4EUfFAo61Jx2HbA",
     "size_bytes": 1583996
   }
 }

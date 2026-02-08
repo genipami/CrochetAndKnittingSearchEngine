@@ -1,53 +1,54 @@
 {
   "id": 7326354,
-  "name": "An Italian Spring Shawlette",
+  "name": "an italian spring shawlette",
   "permalink": "an-italian-spring-shawlette",
   "url": "https://www.ravelry.com/patterns/library/an-italian-spring-shawlette",
   "external_url": "",
-  "designer_name": "An Italian Knitter",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "an italian knitter",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Cotton Merino",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 43.3
     },
     {
-      "fiber": "Merino",
-      "pct": null
+      "fiber": "Silk (Silk)",
+      "pct": 33.3
     },
     {
-      "fiber": "Pure Silk",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 23.3
     }
   ],
   "stitches_used": [
-    "Eyelet lace",
-    "Garter stitch",
-    "Treble crochet (tr)"
+    "eyelet lace",
+    "garter stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Worked flat"
+    "bottom-up",
+    "worked flat"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.5
   ],
   "published": "2024/03/01",
-  "sizes_available": "One size but easy to adjust",
-  "rating_average": 4.9,
-  "rating_count": 30,
-  "difficulty_average": 1.5384615384615385,
-  "favorites_count": 3208,
-  "projects_count": 163,
+  "sizes_available": "one size but easy to adjust",
+  "rating_average": 4.903225806451613,
+  "rating_count": 31,
+  "difficulty_average": 1.5185185185185186,
+  "favorites_count": 3260,
+  "projects_count": 164,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/100323/918237",
+  "notes": "an *italian spring shawlette* is a simple shallow triangular shawl, featuring garter stitch and eyelets. easy to knit, easy to wear!\r\n\r\n**yarn**\r\n100 g of knitting for olive merino or cotton merino or pure silk (250 meters (273 yards) / 50 g)\r\n\r\n**measurements**\r\nwidth: 170 cm (67 inch)\r\nheight: 32 cm (13 inch)\r\n\r\n**needles**\r\n3.5 mm (us 4) circular needles, at least 100 cm (39 inch) long\r\n\r\n**gauge**\r\n19 sts and 44 rows in 10 cm (4 inch) in garter stitch\r\n\r\n**notes**\r\n\r\n* the shawlette is worked flat, back and forth, with a bottom-up construction: from the tip at the lower end towards the cast-off edge at the top. it features garter stitch and beautiful eyelets throughout.\r\n* you can easily adjust the length based on the amount of yarn you have (keep knitting until you have just enough yarn to work the cast-off edge – or until you’re happy with the size).\r\n\r\n**samples in pictures**\r\n\r\n* gray version: 100 g (2 balls) of knitting for olive pure silk in the colorway 1015 kitt\r\n* green version: 100 g (4 balls) of campolmi filati cashmere in the colorway 13 army green\r\n* blue version: 180 g (1.8 balls) of regia silk in the colorway 53 blue",
   "pdf": {
     "filename": "7326354.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7326354.pdf",
-    "url": "https://pdf.ravelrycache.com/anitalianknitter/1808261/_ENGLISH__An_Italian_Spring_Shawlette_pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478736&Signature=RyRIhc5ilYZeIRJfJRZ35IuEfyo%3D&key_expires=1768478736&key=opwyQKY8OAoqMFoP7wuidg",
+    "url": "https://pdf.ravelrycache.com/anitalianknitter/1808261/_ENGLISH__An_Italian_Spring_Shawlette_pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770417101&Signature=apje3EQJIQvAEm8B2ojTHh%2FdUds%3D&key_expires=1770417101&key=b44PHEyjmvM7swZ9LEOx2g",
     "size_bytes": 5813278
   }
 }

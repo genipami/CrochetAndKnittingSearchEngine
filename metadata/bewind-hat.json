@@ -1,27 +1,27 @@
 {
   "id": 1276893,
-  "name": "Bewind Hat",
+  "name": "bewind hat",
   "permalink": "bewind-hat",
   "url": "https://www.ravelry.com/patterns/library/bewind-hat",
   "external_url": "http://yarnhero.com",
-  "designer_name": "Lynnell Koser",
-  "project_type": "Child",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "lynnell koser",
+  "project_type": "child",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Merge Worsted",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Ribbing",
-    "Treble crochet (tr)",
-    "Twisted stitch"
+    "ribbing",
+    "treble crochet (tr)",
+    "twisted stitch"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless"
+    "in the round",
+    "seamless"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -29,18 +29,19 @@
     4.5
   ],
   "published": "2022/10/01",
-  "sizes_available": "Child (Adult S/M, Adult L, Adult XL)",
-  "rating_average": 4.873949579831932,
-  "rating_count": 119,
-  "difficulty_average": 2.537037037037037,
-  "favorites_count": 4221,
-  "projects_count": 571,
+  "sizes_available": "child (adult s/m, adult l, adult xl)",
+  "rating_average": 4.88,
+  "rating_count": 125,
+  "difficulty_average": 2.526315789473684,
+  "favorites_count": 4286,
+  "projects_count": 595,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/7186/808922",
+  "notes": "**helpful notes:**\r\nthese are the answers to the questions i am asked over and over. hopefully this will help for smooth knitting. :smiley: \r\n\r\n> after you work your ribbing, **make\r\n> sure you work the set up round.**\r\n> \r\n> in order to get the swirl, you have to\r\n> start with an **odd** number of\r\n> stitches. the setup round will bring\r\n> your stitch count to an odd number if\r\n> you are not there already.\r\n\r\n> when you begin the twisted stitch\r\n> repeats, you are going to have 1\r\n> stitch left before the marker. you\r\n> will **ignore** the marker from here\r\n> on out!\r\n> \r\n> if you feel like the marker is going\r\n> to be a mental block, (it can also be\r\n> a pain when you have to twist where\r\n> the marker is), then **use a removable\r\n> marker** a row or two down instead, and just move it up\r\n> a few rows at a time until you are\r\n> ready to start the crown.\r\n\r\n-----------------\r\n\r\nthe bewind hat uses a simple twisted stitch pattern to create a lovely winding motif that spirals its way up to the top of the crown. if you can work a knit 2 together (k2tog), then you can knit the twisted stitch. beginner friendly!\r\n\r\nchoose one skein of your favorite worsted weight yarn and you’ll have a new favorite winter hat in no time!\r\n\r\n",
   "pdf": {
     "filename": "1276893.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1276893.pdf",
-    "url": "https://pdf.ravelrycache.com/yarnhero/1560227/bewind_hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479110&Signature=kiuneGIiea%2FYX5kwnFCGcH6Ys%2BE%3D&key_expires=1768479110&key=7Pv5xHh0ZacHYAEjpA31_w",
+    "url": "https://pdf.ravelrycache.com/yarnhero/1560227/bewind_hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770419011&Signature=%2FIBfUnP38CovnUm%2Bp5AM4aAWDiU%3D&key_expires=1770419011&key=-ENL5502uqxCAefA8MRFMg",
     "size_bytes": 911399
   }
 }

@@ -1,41 +1,46 @@
 {
   "id": 1087256,
-  "name": "Happy Hipster",
+  "name": "happy hipster",
   "permalink": "happy-hipster",
   "url": "https://www.ravelry.com/patterns/library/happy-hipster",
   "external_url": "",
-  "designer_name": "Espace Tricot",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "espace tricot",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Stripe Me Up",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Bottom-up",
-    "In the round",
-    "Written"
+    "blocking",
+    "bottom-up",
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.25
   ],
   "published": "2020/11/01",
-  "sizes_available": "Child: 16.5” (42 cm) circumference after brim x 9” (22.9 cm) height Adult small: 17.5” (44.5 cm) circumference after brim x 10” (25.4 cm) height Adult medium: 18.5” (47 cm) circumference after brim x 11.25” (28.6 cm) height",
+  "sizes_available": "child: 16.5” (42 cm) circumference after brim x 9” (22.9 cm) height adult small: 17.5” (44.5 cm) circumference after brim x 10” (25.4 cm) height adult medium: 18.5” (47 cm) circumference after brim x 11.25” (28.6 cm) height",
   "rating_average": 4.893939393939394,
   "rating_count": 66,
   "difficulty_average": 1.8125,
-  "favorites_count": 4348,
-  "projects_count": 304,
+  "favorites_count": 4359,
+  "projects_count": 306,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/25132/655274"
+  "download_url": "http://www.ravelry.com/dls/25132/655274",
+  "notes": "> espace tricot is a yarn store in\r\n> montreal, canada. discover our yarns\r\n> here!  [www.espacetricot.com][1]\r\n\r\nthe happy hipster is an easy to knit beanie that can be worn indoors for a casual, relaxed look or outdoors to take the edge off a cool day in hipster style. knit with one of our favourite fingering weight yarns from scrumptiouspurl, choosing from the colourful self-striping and solid options was the hardest part of making this hat. who says sock yarn is only for your feet? we say why not wear it where it can be seen in all it's glory!\r\n\r\nyarn\r\nscrumptiouspurl stripe me up (80% merino, 20% nylon); 365m (400y) / 100 g\r\n1 ball\r\nstriped version shown in 'you had me at tricot'\r\nsolid version shown in 'black purl'\r\nor\r\n183 (216, 257) m / 197 (237, 281) y of fingering weight yarn.\r\n\r\nsizes\r\n* child: 16.5” (42 cm) circumference after brim x 9” (22.9 cm) height\r\n* adult small: 17.5” (44.5 cm) circumference after brim x 10” (25.4 cm) height\r\n* adult medium: 18.5” (47 cm) circumference after brim x 11.25” (28.6 cm) height\r\n\r\nfor a standard fit, note that the finished circumference of the hat should be approximately 20% smaller than the circumference of the head that it is meant to fit.\r\n"
 }

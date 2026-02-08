@@ -1,34 +1,34 @@
 {
   "id": 7481619,
-  "name": "Minutia '25",
+  "name": "minutia '25",
   "permalink": "minutia-25",
   "url": "https://www.ravelry.com/patterns/library/minutia-25",
   "external_url": "https://berroco.com/patterns/minutia-25/",
-  "designer_name": "Berroco Design Team",
-  "project_type": "Home",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "berroco design team",
+  "project_type": "home",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Lanas Light",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 60.0
     },
     {
-      "fiber": "Vintage® Baby",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 34.7
     },
     {
-      "fiber": "Vintage® DK",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 5.3
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Stranded colorwork",
-    "Written"
+    "stranded colorwork",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -40,8 +40,9 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 862,
-  "projects_count": 26,
+  "favorites_count": 902,
+  "projects_count": 28,
   "free_ravelry_download": false,
-  "download_url": "https://berroco.com/patterns/minutia-25/"
+  "download_url": "https://berroco.com/patterns/minutia-25/",
+  "notes": "our favorite holiday tradition returns! minutia has been a beloved part of berroco since 2007, created as a fun way to use up yarn scraps from your stash. these tiny knits make perfect ornaments, gift toppers, and cheerful decorations for your mantel or tree."
 }

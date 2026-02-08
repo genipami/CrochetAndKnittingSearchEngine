@@ -1,45 +1,46 @@
 {
   "id": 662669,
-  "name": "Workday Scarf",
+  "name": "workday scarf",
   "permalink": "workday-scarf",
   "url": "https://www.ravelry.com/patterns/library/workday-scarf",
   "external_url": "",
-  "designer_name": "Sue Flanders",
-  "project_type": "Scarf",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "sue flanders",
+  "project_type": "scarf",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Huasco Multy Botany Lace",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Lace",
-    "Single crochet (sc)"
+    "garter stitch",
+    "lace",
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "Lace",
-    "Written"
+    "lace",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.25
   ],
   "published": "2016/05/01",
-  "sizes_available": "One Size - finshed measurements; Length=60\", Width=1-1/2 to 8\"",
+  "sizes_available": "one size - finshed measurements; length=60\", width=1-1/2 to 8\"",
   "rating_average": 4.776497695852535,
   "rating_count": 434,
-  "difficulty_average": 1.77803738317757,
-  "favorites_count": 9924,
-  "projects_count": 1490,
+  "difficulty_average": 1.7762237762237763,
+  "favorites_count": 9963,
+  "projects_count": 1495,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/56761/333145",
+  "notes": "this project is every knitter's dream, simple to knit and beautiful to wear.  the best kind of knitting after a long day at work, garter stitch with a hint of lace.\r\n\r\na simple little garter stitch project that incorporates a smaller version of the lace edging used in the workday shawl, from the book norwegian handknits, by sue flanders and janine kosel. \r\n\r\ni completed the scarf the same day that the lilacs bloomed, so i had to add them to the photos. \r\n",
   "pdf": {
     "filename": "662669.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\662669.pdf",
-    "url": "https://pdf.ravelrycache.com/heritageknitters/582083/Workday_Scarf.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484238&Signature=Ag0A0xWB%2FuhP1EPH9g0eV72CmFw%3D&key_expires=1768484238&key=u6NRsxV6SCN2U13taol3KA",
+    "url": "https://pdf.ravelrycache.com/heritageknitters/582083/Workday_Scarf.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770447255&Signature=tv9ChuOoxv%2BFZRgV%2BifDEseFwuc%3D&key_expires=1770447255&key=ZboimEptVs7QVSZlYVtoNA",
     "size_bytes": 385981
   }
 }

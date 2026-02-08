@@ -1,40 +1,45 @@
 {
   "id": 802877,
-  "name": "Bead Stitch Hat",
+  "name": "bead stitch hat",
   "permalink": "bead-stitch-hat",
   "url": "https://www.ravelry.com/patterns/library/bead-stitch-hat",
   "external_url": "http://www.5littlemonsters.com/2018/01/bead-stitch-crochet-hat.html",
-  "designer_name": "Erica Dietz",
-  "project_type": "Hat",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "erica dietz",
+  "project_type": "hat",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Essential Acrylic, Tweeds",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 97.0
+    },
+    {
+      "fiber": "Rayon / Viscose (Rayon)",
+      "pct": 3.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Half double crochet (hdc)",
-    "Ribbing"
+    "double crochet (dc)",
+    "half double crochet (hdc)",
+    "ribbing"
   ],
   "techniques_used": [
-    "In the round",
-    "Top-down",
-    "Written"
+    "in the round",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [
     5.5
   ],
   "needle_sizes_mm": [],
   "published": "2018/01/01",
-  "sizes_available": "Adult",
-  "rating_average": 4.724288840262582,
-  "rating_count": 457,
-  "difficulty_average": 2.6422018348623855,
-  "favorites_count": 20065,
-  "projects_count": 1805,
+  "sizes_available": "adult",
+  "rating_average": 4.724511930585683,
+  "rating_count": 461,
+  "difficulty_average": 2.643181818181818,
+  "favorites_count": 20133,
+  "projects_count": 1814,
   "free_ravelry_download": false,
-  "download_url": "http://www.ravelry.com/purchase/5-little-monsters-shop/799644"
+  "download_url": "http://www.ravelry.com/purchase/5-little-monsters-shop/799644",
+  "notes": "the bead stitch hat is a slightly slouchy hat made by combining rounds of bead stitch with rounds of half double crochet to give it a lot of texture. it is finished with a post stitch ribbing along the bottom and a faux fur pom pom on the top. \r\n\r\nfull video tutorial now available: https://youtu.be/yj0gc6qztyy\r\n\r\npdf version includes adult and child sizes"
 }

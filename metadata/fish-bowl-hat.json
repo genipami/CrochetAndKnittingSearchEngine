@@ -1,20 +1,20 @@
 {
   "id": 7305444,
-  "name": "Fish Bowl Hat",
+  "name": "fish bowl hat",
   "permalink": "fish-bowl-hat",
   "url": "https://www.ravelry.com/patterns/library/fish-bowl-hat",
   "external_url": "",
-  "designer_name": "Lillian Musetta",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "lillian musetta",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Stranded colorwork"
+    "stranded colorwork"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -22,18 +22,19 @@
     3.25
   ],
   "published": "2024/01/01",
-  "sizes_available": "One size, fits most adults",
-  "rating_average": 4.95,
-  "rating_count": 20,
-  "difficulty_average": 3.25,
-  "favorites_count": 2527,
-  "projects_count": 67,
+  "sizes_available": "one size, fits most adults",
+  "rating_average": 4.904761904761905,
+  "rating_count": 21,
+  "difficulty_average": 3.3333333333333335,
+  "favorites_count": 2578,
+  "projects_count": 69,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/103793/902166",
+  "notes": "this fun fishy pattern was inspired by mc escher’s designs. the hat has a light and plush texture and a bit of a slouch on top. \r\n\r\nyarn requirements are:\r\n\r\n150 meters / 164 yards fingering weight yarn for color 1\r\n130 meters / 142 yards fingering weight yarn for color 2\r\n\r\nany fingering weight yarn will do.\r\n\r\ni would like to play around with color variation in the color 2 section of the pattern. you could make a tropical fish aquarium!\r\n\r\nthis is my first pattern and i would appreciate any feedback. thanks for giving it a try!",
   "pdf": {
     "filename": "7305444.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7305444.pdf",
-    "url": "https://pdf.ravelrycache.com/mysticc/1772941/FishBowlHat_updated01092024.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480398&Signature=1A3VZECDQKdRcQCHOCS%2BrRBZiT8%3D&key_expires=1768480398&key=Ay2t8IfkZPL13SkYqfpTyA",
+    "url": "https://pdf.ravelrycache.com/mysticc/1772941/FishBowlHat_updated01092024.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770426147&Signature=HfN1DtgRrIsRgylAOL0R0HMAvDo%3D&key_expires=1770426147&key=84rdhr3nb4Jfd6EIdKqh7Q",
     "size_bytes": 704495
   }
 }

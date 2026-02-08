@@ -1,33 +1,37 @@
 {
   "id": 503582,
-  "name": "Vestigial",
+  "name": "vestigial",
   "permalink": "vestigial",
   "url": "https://www.ravelry.com/patterns/library/vestigial",
   "external_url": "https://shop.hedgehogfibres.com/collections/patterns/products/vestigial",
-  "designer_name": "Beata Jezek",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "beata jezek",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Sock",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 45.0
     },
     {
-      "fiber": "Twist Sock",
-      "pct": null
+      "fiber": "Bluefaced Leicester (BFL) (Wool)",
+      "pct": 40.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 15.0
     }
   ],
   "stitches_used": [
-    "Broken rib",
-    "Treble crochet (tr)"
+    "broken rib",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Kitchener stitch",
-    "Seamless",
-    "Top-down",
-    "Written"
+    "in the round",
+    "kitchener stitch",
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -35,11 +39,12 @@
   ],
   "published": "2014/07/01",
   "sizes_available": "narrow fit, but customizable",
-  "rating_average": 4.666666666666667,
-  "rating_count": 351,
-  "difficulty_average": 2.1300578034682083,
-  "favorites_count": 9524,
-  "projects_count": 1430,
+  "rating_average": 4.667613636363637,
+  "rating_count": 352,
+  "difficulty_average": 2.132564841498559,
+  "favorites_count": 9537,
+  "projects_count": 1440,
   "free_ravelry_download": false,
-  "download_url": "https://shop.hedgehogfibres.com/collections/patterns/products/vestigial"
+  "download_url": "https://shop.hedgehogfibres.com/collections/patterns/products/vestigial",
+  "notes": "a simple, one at a time, top down, heel flap construction sock pattern. easy and understated pattern, great for variegated yarns.\r\n\r\nwritten instructions. \r\nskills necessary: ssk, k2tog, sewn or other stretchy cast-off.\r\n\r\nerrata: please correct 'ask' to ssk."
 }

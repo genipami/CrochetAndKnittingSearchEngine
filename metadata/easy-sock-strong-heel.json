@@ -1,25 +1,29 @@
 {
   "id": 1301132,
-  "name": "Easy sock (strong heel)",
+  "name": "easy sock (strong heel)",
   "permalink": "easy-sock-strong-heel",
   "url": "https://www.ravelry.com/patterns/library/easy-sock-strong-heel",
   "external_url": "",
-  "designer_name": "Isabel Ciudad",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Sport",
+  "designer_name": "isabel ciudad",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Symmetric Socks Jacquard",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamless",
-    "Written"
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -27,12 +31,13 @@
     3.25
   ],
   "published": "2023/01/01",
-  "sizes_available": "S, M, L",
+  "sizes_available": "s, m, l",
   "rating_average": 5.0,
   "rating_count": 7,
   "difficulty_average": 2.4285714285714284,
-  "favorites_count": 1193,
-  "projects_count": 113,
+  "favorites_count": 1222,
+  "projects_count": 116,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/39242/828868"
+  "download_url": "http://www.ravelry.com/dls/39242/828868",
+  "notes": "every year at christmas i like to knit socks for my children. i have been collecting tips, designs and different constructions resulting in a very simple pattern, easy to learn and quick to knit.\r\n\r\nsizes\r\ns, m, l (circumference 8\", 9-10”, 10-11”)\r\n\r\nmaterial\r\n- 1 skein of special wool socks 6 ply, 150 grams\r\n- 1 circular needle 3.25 mm of 100 cm to use the magic loop technique \r\n- 1 circular needle 3 mm to knit the heel flap\r\n- tapestry needle and stitch marker.\r\n\r\nnote\r\nthe abbreviations are in english, they are not explained as they are commonly used. any questions can be asked.\r\n\r\n-----------------------------\r\n\r\ntodos los años, en navidad, me gusta tejer unos calcetines para mis hijos. he ido recopilando tip, diseños y construcciones diferentes resultando un patrón muy sencillo, facil de aprender y rápido de tejer.\r\n\r\ntallas\r\ns, m, l (para un pie 36-37, 38-40, 42-44)\r\n\r\nmaterial\r\n- 1 ovillo de lana especial calcetines 6 ply, 150 gramos\r\n- 1 aguja circular de 3.25 mm de 100 cm para utilizar la técnica de magic loop\r\n- 1 aguja circular de 3 mm para tejer el giro del talón\r\n- aguja lanera y marcadores.\r\n\r\nnota\r\nlas abreviaturas, están en inglés, no vienen explicadas pues son de uso habitual. cualquier duda se puede preguntar."
 }

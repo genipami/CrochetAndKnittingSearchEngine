@@ -1,17 +1,17 @@
 {
   "id": 1100291,
-  "name": "12 Point Star",
+  "name": "12 point star",
   "permalink": "12-point-star-2",
   "url": "https://www.ravelry.com/patterns/library/12-point-star-2",
   "external_url": "https://bellacococrochet.com/12-point-star-blanket/",
-  "designer_name": "Bella Coco Crochet",
-  "project_type": "Blanket",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "bella coco crochet",
+  "project_type": "blanket",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Naturally Soft Aran",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
@@ -25,8 +25,9 @@
   "rating_average": 4.92,
   "rating_count": 25,
   "difficulty_average": 2.1923076923076925,
-  "favorites_count": 483,
-  "projects_count": 118,
+  "favorites_count": 489,
+  "projects_count": 119,
   "free_ravelry_download": false,
-  "download_url": "https://bellacococrochet.com/12-point-star-blanket/"
+  "download_url": "https://bellacococrochet.com/12-point-star-blanket/",
+  "notes": "learn how to crochet the 12 point star in this easy to follow tutorial. i show you how to build your initial rows and which rows to repeat. i also include how to change colours."
 }

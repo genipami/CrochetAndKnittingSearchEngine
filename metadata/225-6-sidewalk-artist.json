@@ -1,28 +1,36 @@
 {
   "id": 1169345,
-  "name": "225-6 Sidewalk Artist",
+  "name": "225-6 sidewalk artist",
   "permalink": "225-6-sidewalk-artist",
   "url": "https://www.ravelry.com/patterns/library/225-6-sidewalk-artist",
   "external_url": "https://www.garnstudio.com/pattern.php?id=10383&cid=19",
-  "designer_name": "DROPS design",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "drops design",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "DROPS Air",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 65.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 28.0
+    },
+    {
+      "fiber": "Merino (Merino)",
+      "pct": 7.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -30,12 +38,13 @@
     4.5
   ],
   "published": "2021/09/01",
-  "sizes_available": "S/M – M/L – L/XL",
-  "rating_average": 4.566666666666666,
-  "rating_count": 30,
-  "difficulty_average": 1.7857142857142858,
-  "favorites_count": 2373,
-  "projects_count": 153,
+  "sizes_available": "s/m – m/l – l/xl",
+  "rating_average": 4.580645161290323,
+  "rating_count": 31,
+  "difficulty_average": 1.7586206896551724,
+  "favorites_count": 2418,
+  "projects_count": 155,
   "free_ravelry_download": false,
-  "download_url": "https://www.garnstudio.com/pattern.php?id=10383&cid=19"
+  "download_url": "https://www.garnstudio.com/pattern.php?id=10383&cid=19",
+  "notes": "**knitted beret in drops air.**\r\n~~~~~~~~~~~~~~~~~~~~~~~~~\r\n\r\ndrops design: pattern no ai-362\r\nyarn group c or a + a\r\n\r\n-------------------------------------------------------\r\n\r\n**sizes**:\r\ns/m - m/l - l/xl\r\nfits head size: 54/56 - 56/58 - 58/60 cm\r\n\r\n**materials**:\r\ndrops air from garnstudio (belongs to yarn group c)\r\n50-100-100 g colour 02, wheat\r\n\r\nneedles:\r\ndrops circular needle size 4.5 mm: length 40 cm for stocking stitch.\r\ndrops circular needle size 4 mm: length 40 cm for rib.\r\ndrops double pointed needles size 4.5 mm.\r\nthe technique magic loop can be used – you then only need circular needle of 80 cm in each size.\r\n\r\n**knitting tension:**\r\n18 stitches in width and 23 rows in height with stocking stitch = 10 x 10 cm.\r\nnote: needle size is only a guide. if you get too many stitches on 10 cm, change to a larger needle size. if you get too few stitches on 10 cm, change to a smaller needle size. "
 }

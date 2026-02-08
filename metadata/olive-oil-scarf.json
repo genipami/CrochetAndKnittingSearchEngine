@@ -1,44 +1,49 @@
 {
   "id": 7492830,
-  "name": "Olive Oil Scarf",
+  "name": "olive oil scarf",
   "permalink": "olive-oil-scarf",
   "url": "https://www.ravelry.com/patterns/library/olive-oil-scarf",
   "external_url": "https://youtu.be/PQxpjKS1nkw",
-  "designer_name": "Yarn Doc",
-  "project_type": "Scarf",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Any gauge - designed for any gauge",
+  "designer_name": "yarn doc",
+  "project_type": "scarf",
+  "fiber_art": "crochet",
+  "yarn_weight": "any gauge - designed for any gauge",
   "materials": [
     {
-      "fiber": "Maia",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Written"
+    "charted",
+    "written"
   ],
   "hook_sizes_mm": [
     4.0
   ],
   "needle_sizes_mm": [],
   "published": "2026/01/01",
-  "sizes_available": "Made to Measure",
+  "sizes_available": "made to measure",
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 54,
+  "favorites_count": 59,
   "projects_count": 1,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/115520/1048694",
+  "notes": "design: this pattern was inspired by the olive producing region of the istrian peninsula in croatia and the colours of the italy yarn used in the sample. the stitch pattern chosen has subtle nods to the traditional oil making process. while i have made several samples of this pattern and tested the math repeatedly, it has not been through a formal pattern test. it does, however, come with a full youtube tutorial, a chart, two different border options, and a written pattern.\r\n\r\n\r\nterminology: us terminology is used in this pattern.\r\n\r\nyarn: this scarf is made to measure so you can use any weight of yarn you choose. the yarn used in the sample was filati tre sfere maia (20% llama and 80% acrylic). it comes in 50 grams skeins with 200 meters per skein. the full pattern with olive border required just under 2 skeins.\r\n\r\nhook: i recommend using the hook size recommended for the yarn you choose (or increasing by one size in order to get nice drape). for the sample, i used a 6mm in-line hook for my chain and a 4mm in-line hook for the rest of the scarf.\r\n\r\ngauge: since this pattern is made to measure, you do not need to meet gauge in order to complete this pattern.\r\n",
   "pdf": {
     "filename": "7492830.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7492830.pdf",
-    "url": "https://pdf.ravelrycache.com/YarnDocEllen/2115313/Olive_Oil_Scarf_Pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482209&Signature=BS0iqK8zqD%2FKxR%2Fyqn%2FO6NYSW8I%3D&key_expires=1768482209&key=ky9yL7jJ3OvQ2uMCAbuqnQ",
+    "url": "https://pdf.ravelrycache.com/YarnDocEllen/2115313/Olive_Oil_Scarf_Pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770436019&Signature=DoG3HHB9U05UCsP960ACauI6JsQ%3D&key_expires=1770436019&key=4DSt967LaD9KvgehN59k1Q",
     "size_bytes": 8476771
   }
 }

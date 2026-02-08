@@ -1,26 +1,26 @@
 {
   "id": 552583,
-  "name": "Oso Donato Amigurumi",
+  "name": "oso donato amigurumi",
   "permalink": "oso-donato-amigurumi",
   "url": "https://www.ravelry.com/patterns/library/oso-donato-amigurumi",
   "external_url": "https://lanukas.blogspot.com/2015/01/el-oso-bipedo-donato.html",
-  "designer_name": "Lanukas",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Sport",
+  "designer_name": "lanukas",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Cotocril",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 75.0
     },
     {
-      "fiber": "New Cancun",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     3.5
@@ -31,8 +31,9 @@
   "rating_average": 4.771812080536913,
   "rating_count": 149,
   "difficulty_average": 2.122448979591837,
-  "favorites_count": 5579,
+  "favorites_count": 5594,
   "projects_count": 494,
   "free_ravelry_download": false,
-  "download_url": "https://lanukas.blogspot.com/2015/01/el-oso-bipedo-donato.html"
+  "download_url": "https://lanukas.blogspot.com/2015/01/el-oso-bipedo-donato.html",
+  "notes": ""
 }

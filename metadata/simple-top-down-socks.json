@@ -1,28 +1,32 @@
 {
   "id": 842559,
-  "name": "Simple Top Down Socks",
+  "name": "simple top down socks",
   "permalink": "simple-top-down-socks",
   "url": "https://www.ravelry.com/patterns/library/simple-top-down-socks",
   "external_url": "",
-  "designer_name": "Ellie Jones",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "ellie jones",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Merino Nylon 4ply",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Kitchener stitch",
-    "Top-down",
-    "Written"
+    "in the round",
+    "kitchener stitch",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -33,14 +37,15 @@
   "rating_average": 4.804597701149425,
   "rating_count": 87,
   "difficulty_average": 2.448717948717949,
-  "favorites_count": 2761,
-  "projects_count": 542,
+  "favorites_count": 2776,
+  "projects_count": 547,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/31220/467838",
+  "notes": "this pattern is my favourite way of knitting socks. the 2 x 2 rib is nice and stretchy and so comfy. the heel flap and gusset allows for a high arch and therefore a more comfortable fit. i have written the pattern in a number of stitch counts so you can find the pattern that is right for you. \r\n\r\ni have also made instructional videos on my youtube channel of how to make the sock. you can find these videos here:\r\n\r\npart 1: cast on, cuff and leg\r\nhttps://youtu.be/ih7clgmybx0\r\n\r\npart 2: heel turn, heel flap and foot decreases\r\nhttps://youtu.be/92sgvssyy_q\r\n\r\npart 3: toe decreases and kitchener stitch\r\nhttps://youtu.be/0cy0pm3150y\r\n\r\ni have a video on knitting socks that fit:\r\nhttps://youtu.be/hbvufwuybim\r\n\r\nhowever as a guild if you are using 2.5 mm needles the size you should get (if your gauge is the same as mine), is as follows:\r\n\r\n7 inches - 48 stitches\r\n7.5 inches - 56 stitches\r\n8 inches - 60 stitches\r\n8.5 inches - 64 stitches\r\n9 inches - 68 stitches\r\n9.5 inches -72 stitches\r\n\r\n",
   "pdf": {
     "filename": "842559.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\842559.pdf",
-    "url": "https://pdf.ravelrycache.com/CraftHouseMagic/1624166/Top_down_sock_pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483011&Signature=pjheJEfKhj%2B5uKNmUPbKStJBuQM%3D&key_expires=1768483011&key=lG7KCD7DNDTFojIsJiFFEg",
+    "url": "https://pdf.ravelrycache.com/CraftHouseMagic/1624166/Top_down_sock_pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770440712&Signature=rFIrsA0yBXnwHHKqFAUJPXidBR8%3D&key_expires=1770440712&key=nSb0u_R71BLN5G94D26syw",
     "size_bytes": 15482
   }
 }

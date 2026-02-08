@@ -1,28 +1,32 @@
 {
   "id": 7297238,
-  "name": "Into the Winter Woods",
+  "name": "into the winter woods",
   "permalink": "into-the-winter-woods",
   "url": "https://www.ravelry.com/patterns/library/into-the-winter-woods",
   "external_url": "",
-  "designer_name": "Anna Lange",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "anna lange",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "DROPS Fabel",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Stranded colorwork",
-    "Written"
+    "charted",
+    "in the round",
+    "stranded colorwork",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -31,17 +35,18 @@
   ],
   "published": "2023/12/01",
   "sizes_available": "4 sizes",
-  "rating_average": 4.444444444444445,
-  "rating_count": 18,
-  "difficulty_average": 3.2941176470588234,
-  "favorites_count": 4959,
-  "projects_count": 133,
+  "rating_average": 4.45,
+  "rating_count": 20,
+  "difficulty_average": 3.25,
+  "favorites_count": 5026,
+  "projects_count": 134,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/58597/895786",
+  "notes": "please note: there was an issue with the chart in the first version. please make sure you use version 1.2, which has been added a few hours after release. i apologise for the inconvenience.\r\n\r\ntime for the 2023 christmas pattern! i have been obsessed with this tree pattern for quite a while and it makes for a delightfully wintery sock. for a more traditionally christmas-sy version, try green trees on a red background, add glitter or go completely wild!\r\n\r\ngauge\r\n40 stitches/10cm in stranded colourwork on larger needles\r\n\r\nmaterials\r\n• approx. 50g–60g of mc yarn (dark grey)\r\n• approx. 30g of cc yarn (light grey)\r\n• 2.5mm dpns or needles for magic loop or size required to get gauge\r\n• 2mm dpns or needles for magic loop or size required to get gauge\r\n• tapestry needle\r\nthe pattern is written for knitting on a set of five dpns, but can easily be adjusted to your favourite style of knitting socks.\r\n\r\nsizes\r\nsizes s (m, l, xl) with a stitch count of 56 (64, 72, 80) in the stockinette part. the foot circumference at the suggested gauge is 15,5cm (17,75cm, 20cm, 22,25cm). length can easily adjusted in the stockinette part.",
   "pdf": {
     "filename": "7297238.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7297238.pdf",
-    "url": "https://pdf.ravelrycache.com/Obsti/1760364/winterwoods1.2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481019&Signature=MgvzDAtZv1%2BSFST8b%2FQF%2F9h1OHY%3D&key_expires=1768481019&key=HAGYOj8754XDq__zQD6ZpA",
+    "url": "https://pdf.ravelrycache.com/Obsti/1760364/winterwoods1.2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770429921&Signature=Ofk3nIzIHNgNfnmSo5sdBAf3n0I%3D&key_expires=1770429921&key=FyWde1Rs0pVjNS77H6qL-A",
     "size_bytes": 533521
   }
 }

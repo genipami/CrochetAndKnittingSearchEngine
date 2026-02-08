@@ -1,49 +1,54 @@
 {
   "id": 1124911,
-  "name": "Wonderment Socks",
+  "name": "wonderment socks",
   "permalink": "wonderment-socks",
   "url": "https://www.ravelry.com/patterns/library/wonderment-socks",
   "external_url": "",
-  "designer_name": "Debbie Ford",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "debbie ford",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Extrafine Sock",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 85.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 15.0
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Garter stitch",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "cable",
+    "garter stitch",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Cables",
-    "Charted",
-    "Kitchener stitch",
-    "Top-down",
-    "Written"
+    "cables",
+    "charted",
+    "kitchener stitch",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.25
   ],
   "published": "2021/03/01",
-  "sizes_available": "Adult - Small (Medium, Large)",
+  "sizes_available": "adult - small (medium, large)",
   "rating_average": 4.819444444444445,
   "rating_count": 72,
   "difficulty_average": 2.926470588235294,
-  "favorites_count": 4872,
-  "projects_count": 354,
+  "favorites_count": 4956,
+  "projects_count": 358,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/81820/685641",
+  "notes": "*'my son is autistic and life can be a challenge for him, but he finds peace in simple magics. when life becomes stressful, he waves his wand and iridescent bubbles float up through the air. he watches them drift, preparing the wand to breath his frustrations into a hundred more, and i find myself enchanted by this simple magic. i stand beside him and watch them dance over fences, and away, and with them my mind mellows into wonderment and peace with him.'* \r\n\r\na top down sock with heel flap and gusset, the cable and garter design is worked down the front of the sock only. instructions on how to work a contast heel and toe.\r\n\r\nsizes\r\nsmall, (medium, large) finished sock circumference un stretched, 19 ( 21.5, 24 ) cm / 7.5 ( 8.5, 9.5 ).\r\n\r\nskill level\r\na basic understanding of sock construction, how to work knits, purls, small cables, and kitchener stitch.\r\n\r\nthis pattern has been tested and tech edited.\r\n\r\n\r\n",
   "pdf": {
     "filename": "1124911.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1124911.pdf",
-    "url": "https://pdf.ravelrycache.com/DinkyDebbie/1292884/wonderment_socks_published_copy.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484196&Signature=VvqA3aK4SClz6mQDDWXsx4bWC4Q%3D&key_expires=1768484196&key=KZvDuynPPZVQz841WQpyrQ",
+    "url": "https://pdf.ravelrycache.com/DinkyDebbie/1292884/wonderment_socks_published_copy.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770447170&Signature=YrUzuXs9rp1eRuKwNu%2FaSlYk9SI%3D&key_expires=1770447170&key=tK5xJ1uyFtguAUyLI0gkEg",
     "size_bytes": 624006
   }
 }

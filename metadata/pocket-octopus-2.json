@@ -1,26 +1,26 @@
 {
   "id": 1245471,
-  "name": "Pocket Octopus",
+  "name": "pocket octopus",
   "permalink": "pocket-octopus-2",
   "url": "https://www.ravelry.com/patterns/library/pocket-octopus-2",
   "external_url": "",
-  "designer_name": "Erica Townsend",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Bulky",
+  "designer_name": "erica townsend",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Velvet",
-      "pct": null
+      "fiber": "Polyester (Polyester)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Slip stitch (sl st)"
+    "single crochet (sc)",
+    "slip stitch (sl st)"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     4.0
@@ -31,14 +31,15 @@
   "rating_average": 5.0,
   "rating_count": 7,
   "difficulty_average": 2.142857142857143,
-  "favorites_count": 482,
+  "favorites_count": 489,
   "projects_count": 25,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/67514/782460",
+  "notes": "materials needed for this project\r\n\r\nhook – 4 mm\r\ndarning needle\r\nbernat velvet yarn\r\nstuffing\r\nsafety eyes 6 mm\r\nscissors\r\n\r\nterms used in this project\r\n\r\nch: chain\r\nst: stitch\r\nrepeat *\r\nslst: slip stitch\r\nsc: single crochet\r\nsc2tog: single crochet two stitches together as one stitch to decrease\r\nblo: back loop only",
   "pdf": {
     "filename": "1245471.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1245471.pdf",
-    "url": "https://pdf.ravelrycache.com/PetalsAndBows/1502274/pocket_octopus.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482476&Signature=QFK1hcSC7PcTeLui7uFx%2Bjy8EsM%3D&key_expires=1768482476&key=UQYL1jC0lTQB5zK_XoUXdA",
+    "url": "https://pdf.ravelrycache.com/PetalsAndBows/1502274/pocket_octopus.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770437409&Signature=rLKIkyVrEDnJSvvQgRi0yD89p3o%3D&key_expires=1770437409&key=T2zuu2YCrqVtzmX-JTl-nA",
     "size_bytes": 328695
   }
 }

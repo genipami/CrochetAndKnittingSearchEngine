@@ -1,32 +1,28 @@
 {
   "id": 7481994,
-  "name": "Cross Bookmark",
+  "name": "cross bookmark",
   "permalink": "cross-bookmark-23",
   "url": "https://www.ravelry.com/patterns/library/cross-bookmark-23",
   "external_url": "https://youtu.be/nNF_WoiWjRA",
-  "designer_name": "Looped d' Lu",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Lace",
+  "designer_name": "looped d' lu",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "lace",
   "materials": [
     {
-      "fiber": "100% Mercerized Egyptian Cotton #10 Crochet Thread",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 66.7
     },
     {
-      "fiber": "Bella Cotton",
-      "pct": null
-    },
-    {
-      "fiber": "Classic 10 Crochet Thread",
-      "pct": null
+      "fiber": "Egyptian (Cotton)",
+      "pct": 33.3
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamless"
+    "seamless"
   ],
   "hook_sizes_mm": [
     1.5,
@@ -34,18 +30,19 @@
   ],
   "needle_sizes_mm": [],
   "published": "2025/11/01",
-  "sizes_available": "One Size",
+  "sizes_available": "one size",
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 246,
-  "projects_count": 21,
+  "favorites_count": 305,
+  "projects_count": 23,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/38543/1049775",
+  "notes": "**pdf now available!** \r\n\r\nyoutube tutorial is also available. \r\n\r\nthis beautiful crochet cross bookmark is the perfect heirloom/keepsake for anyone. this can make a perfect gift to include for any of these occasions:\r\n\r\n* baptism and christening \r\n* thinking of you \r\n* get well soon\r\n* christmas \r\n* easter\r\n\r\nmake as many as you want and share your testimony along with your gift. sharing the goodness of and promises of jesus along with your gift. ",
   "pdf": {
     "filename": "7481994.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7481994.pdf",
-    "url": "https://pdf.ravelrycache.com/LoopedDLu/2117915/Cross_Bookmark_with_Tassel.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479783&Signature=xH3f9vXgwmHGS58Is93UbRnh1%2B4%3D&key_expires=1768479783&key=ycAhJisGFwkDz4KI1sL_DQ",
+    "url": "https://pdf.ravelrycache.com/LoopedDLu/2117915/Cross_Bookmark_with_Tassel.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770422912&Signature=%2BA3VOnnkaGIeIClcXaFBmTrvG0Q%3D&key_expires=1770422912&key=TZudLyRQ9AjmFC0VdItsOw",
     "size_bytes": 23274012
   }
 }

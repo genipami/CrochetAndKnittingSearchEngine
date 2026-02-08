@@ -1,26 +1,30 @@
 {
   "id": 7434498,
-  "name": "Tangled Bliss",
+  "name": "tangled bliss",
   "permalink": "tangled-bliss",
   "url": "https://www.ravelry.com/patterns/library/tangled-bliss",
   "external_url": "",
-  "designer_name": "Annette Gürtner",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "annette gürtner",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Opal Uni Solid 4-ply / 4-fach",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Kitchener stitch",
-    "Stranded colorwork",
-    "Top-down"
+    "charted",
+    "in the round",
+    "kitchener stitch",
+    "stranded colorwork",
+    "top-down"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [],
@@ -29,14 +33,15 @@
   "rating_average": 4.0,
   "rating_count": 5,
   "difficulty_average": 8.0,
-  "favorites_count": 810,
-  "projects_count": 88,
+  "favorites_count": 828,
+  "projects_count": 89,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/58764/1004258",
+  "notes": "this pattern is part of the speed knitting contest sock madness - check out the ravelry group and make sure to participate next year!\r\nthe pattern will be avaiable to the public after the competition ends. ",
   "pdf": {
     "filename": "7434498.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7434498.pdf",
-    "url": "https://pdf.ravelrycache.com/leni/2012294/R7-Tangled_Bliss.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483514&Signature=cWXKD3nC%2B0nypv5BKiuw%2BBaz4rU%3D&key_expires=1768483514&key=FPDjrD2zCWM36GX-3sAvIg",
+    "url": "https://pdf.ravelrycache.com/leni/2012294/R7-Tangled_Bliss.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770443510&Signature=YoIQwTXtB7aR0S6hu%2FPh3vscrWw%3D&key_expires=1770443510&key=T4sfc5p5ib6SCKRYMQk5MQ",
     "size_bytes": 3442228
   }
 }

@@ -1,52 +1,61 @@
 {
   "id": 506082,
-  "name": "Be Simple Variations",
+  "name": "be simple variations",
   "permalink": "be-simple-variations",
   "url": "https://www.ravelry.com/patterns/library/be-simple-variations",
   "external_url": "",
-  "designer_name": "Carolyn Glauz-Todrank",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "carolyn glauz-todrank",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Caper Sock",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 60.0
     },
     {
-      "fiber": "Finito",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 20.0
     },
     {
-      "fiber": "Simply Fine",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 13.3
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 3.3
+    },
+    {
+      "fiber": "Cashmere goat (Cashmere)",
+      "pct": 3.3
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamless",
-    "Written"
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     4.0
   ],
   "published": null,
-  "sizes_available": "One size",
-  "rating_average": 4.708333333333333,
-  "rating_count": 624,
-  "difficulty_average": 1.8491803278688526,
-  "favorites_count": 18625,
-  "projects_count": 2464,
+  "sizes_available": "one size",
+  "rating_average": 4.707667731629393,
+  "rating_count": 626,
+  "difficulty_average": 1.8529411764705883,
+  "favorites_count": 18699,
+  "projects_count": 2478,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/43802/222551",
+  "notes": "be simple variations offers two easy variations on the be simple shawl (also a free ravelry download). it is an asymmetrical, triangular shawl that is simple to knit and simple to wear. knit in simple garter stitch with yarn-overs every eight rows, the finished shawl is an airier version of be simple. either a plain or picot bind-off completes the project.\r\n\r\nthe shawl can be knit in a variety of yarn weights with the appropriate needle size to create your desired drape. i have knit the shawl in several different fingering weight yarns. dk or worsted weight would work as well with the appropriate larger size needles. circular needles work best to accommodate the ever increasing number of stitches. in most cases, the shawls required 400-450 yards of yarn.\r\n\r\nthis is a perfect one-skein project for many fingering and sock weight yarns.",
   "pdf": {
     "filename": "506082.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\506082.pdf",
-    "url": "https://pdf.ravelrycache.com/persimmontree/376403/Be_Simple_Variations.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479027&Signature=%2B%2Bue1by9%2F3%2FCXLq9V2VJuF%2FGPUk%3D&key_expires=1768479027&key=ZxkztidCnrz97DtY2toI2w",
+    "url": "https://pdf.ravelrycache.com/persimmontree/376403/Be_Simple_Variations.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770418546&Signature=fEItSXzwac66PLluox%2BMme2G%2BCo%3D&key_expires=1770418546&key=c1KFjzDtOd9dhvX2wuSQag",
     "size_bytes": 1341867
   }
 }

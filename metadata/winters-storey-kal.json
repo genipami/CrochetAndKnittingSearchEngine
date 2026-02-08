@@ -1,33 +1,49 @@
 {
   "id": 7462660,
-  "name": "Winter's Storey KAL",
+  "name": "winter's storey kal",
   "permalink": "winters-storey-kal",
   "url": "https://www.ravelry.com/patterns/library/winters-storey-kal",
   "external_url": "https://www.blacksheepwools.com/collections/winters-storey-knit-along",
-  "designer_name": "Martin Storey",
-  "project_type": "Blanket",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "martin storey",
+  "project_type": "blanket",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Felted Tweed",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 25.0
     },
     {
-      "fiber": "Loveful Tweed",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 20.0
+    },
+    {
+      "fiber": "Polyester (Polyester)",
+      "pct": 20.0
+    },
+    {
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 12.5
+    },
+    {
+      "fiber": "Rayon / Viscose (Rayon)",
+      "pct": 12.5
+    },
+    {
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Fair Isle",
-    "In the round",
-    "Steek",
-    "Stranded colorwork"
+    "charted",
+    "fair isle",
+    "in the round",
+    "steek",
+    "stranded colorwork"
   ],
   "hook_sizes_mm": [
     3.25
@@ -37,12 +53,13 @@
     3.75
   ],
   "published": "2025/09/01",
-  "sizes_available": "One Size",
+  "sizes_available": "one size",
   "rating_average": 4.857142857142857,
   "rating_count": 14,
   "difficulty_average": 4.0,
-  "favorites_count": 2554,
-  "projects_count": 103,
+  "favorites_count": 2644,
+  "projects_count": 105,
   "free_ravelry_download": false,
-  "download_url": "https://www.blacksheepwools.com/collections/winters-storey-knit-along"
+  "download_url": "https://www.blacksheepwools.com/collections/winters-storey-knit-along",
+  "notes": "welcome to our black sheep exclusive [winter’s storey knit along][1]. this beautiful blanket has been in my mind for a few years and i was beyond delighted that design supremo martin storey agreed to bring it to life and make it better than i ever imagined!\r\n\r\nmartin is a master of fair isle design and the [winter’s storey blanket][2] is a testament to this. featuring fun festive motifs in stunning shades, this heirloom blanket is a pleasure to knit and will bring you joy for many years to come.\r\n\r\nthere are two ways you can create this blanket. it can be knitted flat or in the round and steeked. don’t panic, we have full instructions to help you steek painlessly!\r\n\r\nthere are two kits available. the first is in the rowan classic felted tweed dk and this wool rich yarn is perfect for steeking your in-the-round blanket. the second kit uses sirdar loveful tweed dk, a 100% recycled yarn that echoes the tweediness of felted tweed and works perfectly for the blanket when knitted flat.\r\n\r\nthe knit along pattern will be released weekly for five weeks, starting on 7th october, and contains charted instructions for each motif.\r\n\r\nas you would expect from a black sheep make along, there will be lots of [facebook lives][3] and hints and tips along the way. we are super excited to share this journey with you!\r\n\r\ndon't miss a thing! [join our newsletter][4] to find out about our new knit along and lots more.\r\n\r\n\r\n  \r\n  [1]: https://www.blacksheepwools.com/collections/winters-storey-knit-along\r\n  [2]: https://www.blacksheepwools.com/collections/winters-storey-knit-along\r\n  [3]: https://www.blacksheepwools.com/collections/winters-storey-knit-along\r\n  [4]: https://www.blacksheepwools.com/collections/winters-storey-knit-along"
 }

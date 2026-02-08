@@ -1,49 +1,54 @@
 {
   "id": 7485324,
-  "name": "Miss Evergreen",
+  "name": "miss evergreen",
   "permalink": "miss-evergreen",
   "url": "https://www.ravelry.com/patterns/library/miss-evergreen",
   "external_url": "",
-  "designer_name": "Elena Madsen",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "elena madsen",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Friends Cotton 8/4 Solids",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 50.0
     },
     {
-      "fiber": "Universe XL",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 49.0
+    },
+    {
+      "fiber": "Polyester (Polyester)",
+      "pct": 1.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Written"
+    "charted",
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     4.0
   ],
   "needle_sizes_mm": [],
   "published": "2025/12/01",
-  "sizes_available": "One size, but can be adapted with more chains, bigger hook etc...",
+  "sizes_available": "one size, but can be adapted with more chains, bigger hook etc...",
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 203,
+  "favorites_count": 210,
   "projects_count": 5,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/45184/1043147",
+  "notes": "miss evergreen – free crochet pattern\r\n\r\nmeet miss evergreen, a cute and quick crochet christmas tree ornament worked in just 3 rounds and about 3 minutes! perfect as a festive decoration, a charming gift tag topper, or a sweet little add-on for your holiday wrapping.\r\n\r\nthis pattern includes both written instructions and charts.\r\nsize is adjustable by changing hook size, yarn weight, or the number of chains.\r\n\r\ncreate a crisp and defined look with blocked cotton or wool, or go for a soft, sparkling effect using acrylic yarn with glitter. it’s a wonderful scrap-buster project!\r\n\r\nyou can stiffen the tree with sugar starch or fabric stiffener, and decorate it with beads for a personalized touch. try using different colors for each round for a playful, modern style. it also works beautifully as a brooch, an ornament for cards, or a small gift insert.\r\n\r\nhope you enjoy! \r\n",
   "pdf": {
     "filename": "7485324.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7485324.pdf",
-    "url": "https://pdf.ravelrycache.com/haekleri/2102172/Miss_Evergreen.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481838&Signature=gx75oT537LxC37Ys7HjfaS6IsNI%3D&key_expires=1768481838&key=99e1P4Mfkzj97bwZkLXGyA",
+    "url": "https://pdf.ravelrycache.com/haekleri/2102172/Miss_Evergreen.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770434262&Signature=7aTC4iz7Z%2Bfm2%2FnKmsS10tfJ%2FpY%3D&key_expires=1770434262&key=iNezMEuV8JlKWIbF7ZQdzw",
     "size_bytes": 1910023
   }
 }

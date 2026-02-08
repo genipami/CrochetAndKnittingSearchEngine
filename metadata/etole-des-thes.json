@@ -1,24 +1,28 @@
 {
   "id": 7492592,
-  "name": "ETOLE DES THES",
+  "name": "etole des thes",
   "permalink": "etole-des-thes",
   "url": "https://www.ravelry.com/patterns/library/etole-des-thes",
   "external_url": "",
-  "designer_name": "CHRISTELLE TRICOTE",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "christelle tricote",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Meriny",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Lace"
+    "lace"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -29,14 +33,15 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 57,
-  "projects_count": 5,
+  "favorites_count": 62,
+  "projects_count": 7,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/94498/1048489",
+  "notes": "pour le modèle présenté, j'ai utilisé du meriny100 christelle tricote:\r\ncoloris prunette, des jours meilleurs et lavande.",
   "pdf": {
     "filename": "7492592.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7492592.pdf",
-    "url": "https://pdf.ravelrycache.com/Christelletricote/2114972/ETOLES_THES_RAVELRY.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480151&Signature=4eSJjvBgEOnN9un6xRlks9Orq%2FQ%3D&key_expires=1768480151&key=HD0hj8BeKjhFzW0qECBhpg",
+    "url": "https://pdf.ravelrycache.com/Christelletricote/2114972/ETOLES_THES_RAVELRY.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770425233&Signature=dtjWfTQY8V%2BQOulJIdDZVIjktwI%3D&key_expires=1770425233&key=LniL4wwTCT-ygcnGW0e_NQ",
     "size_bytes": 549675
   }
 }

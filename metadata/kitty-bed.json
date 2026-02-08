@@ -1,46 +1,43 @@
 {
   "id": 602423,
-  "name": "Kitty Bed",
+  "name": "kitty bed",
   "permalink": "kitty-bed",
   "url": "https://www.ravelry.com/patterns/library/kitty-bed",
   "external_url": "",
-  "designer_name": "Ashley Dunham",
-  "project_type": "Pet",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "ashley dunham",
+  "project_type": "pet",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Super Saver (solids)",
-      "pct": null
-    },
-    {
-      "fiber": "With Love Premium (Solids)",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamed"
+    "seamed"
   ],
   "hook_sizes_mm": [
     6.5
   ],
   "needle_sizes_mm": [],
   "published": "2015/07/01",
-  "sizes_available": "Large",
-  "rating_average": 4.74,
-  "rating_count": 50,
-  "difficulty_average": 2.595744680851064,
-  "favorites_count": 4966,
-  "projects_count": 192,
+  "sizes_available": "large",
+  "rating_average": 4.745098039215686,
+  "rating_count": 51,
+  "difficulty_average": 2.5625,
+  "favorites_count": 5034,
+  "projects_count": 194,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/52290/586337",
+  "notes": "this kitty bed is crocheted while holding two strands of yarn together at the same time so it's extra thick and plushy. the finished product measures 24\" wide and 3\" deep. \r\n\r\nit requires 5 skeins of your favorite acrylic worsted weight yarn, i used red heart with love.you'll also need a size k crochet hook, polyester stuffing, seaming pins, a stitch marker and a finishing needle. \r\n\r\nthe bed base is adapted from http://kandjdolls.blogspot.com/2014/07/free-rug-crochet-pattern.html\r\n\r\n",
   "pdf": {
     "filename": "602423.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\602423.pdf",
-    "url": "https://pdf.ravelrycache.com/Ashweather/1083594/KittyBed__2_.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481200&Signature=kL5yt5SHBkQ1x0OTWx6qDVEuuKU%3D&key_expires=1768481200&key=-nKTQCk8CYFjynqNKQ3G6Q",
+    "url": "https://pdf.ravelrycache.com/Ashweather/1083594/KittyBed__2_.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770430845&Signature=8HdOeVfgg%2Fqo4W%2FyvpOF0Gy%2BGTs%3D&key_expires=1770430845&key=EbavQ2IuiVaNkZLo_IMWjQ",
     "size_bytes": 703032
   }
 }

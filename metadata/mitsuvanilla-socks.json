@@ -1,55 +1,52 @@
 {
   "id": 7443610,
-  "name": "Mitsuvanilla Socks",
+  "name": "mitsuvanilla socks",
   "permalink": "mitsuvanilla-socks",
   "url": "https://www.ravelry.com/patterns/library/mitsuvanilla-socks",
   "external_url": "https://greenwitch.jp/",
-  "designer_name": "Mitsuneko Konomi",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "mitsuneko konomi",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Meilenweit Merino Extrafine",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 56.2
     },
     {
-      "fiber": "Opal 4-fach | 4-ply",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     },
     {
-      "fiber": "Pair of Sock",
-      "pct": null
-    },
-    {
-      "fiber": "Platinum Sock",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 18.8
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.5
   ],
   "published": "2025/05/01",
-  "sizes_available": "S　M　L",
+  "sizes_available": "s　m　l",
   "rating_average": 5.0,
   "rating_count": 6,
   "difficulty_average": 3.8,
-  "favorites_count": 333,
+  "favorites_count": 348,
   "projects_count": 31,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/109727/1010508",
+  "notes": "　美しい手染め糸で、シンプルなバニラソックスを――\r\n\r\n　靴下を編んだことがない人でも手軽に簡単に編めるシンプルな靴下のパターンです。\r\nモバイル編み、瞑想編みにもぴったりです。\r\nお気に入りの手染め毛糸の美しい色を楽しみながら、万華鏡の世界を旅してみませんか？\r\n\r\n green witch フクロウのかまど：蜜猫コノミ\r\n\r\nこの靴下は、ソックヤーンの中細（fingering）で編みます。\r\nはき口から編むカフダウンの靴下です。ヒールフラップを作り、減らし編みでボックスヒールを作ります。最後につま先でメリヤスはぎをします。\r\nパターンには毛糸の色を変えるための指示がありますが、自由に配色を楽しんでみてください。\r\n \r\n\r\n準備するもの\r\nソックヤーン中細(fingering、4本撚り)　総量100g\r\n80cm輪針（2.5mm）日本サイズは1号、もしくはゲージがとれる針\r\nマーカー\r\nとじ針、はさみ\r\n\r\n\r\n提案糸\r\nfibresquisse basic sock\r\ngreen witch owl vesta yarn deluxe sock\r\nzwerger garn opal uni solid 4-ply\r\nlana grossa meilenweit merino extrafine\r\n \r\n\r\nゲージ\r\n 32目46段（10cm×10cm）\r\nメリヤス編み、ブロッキング後\r\n\r\n\r\nサイズ\r\nサイズ（ｓ、ｍ、ｌ）/足囲（18～19、20～22、24～26）cm\r\n\r\n",
   "pdf": {
     "filename": "7443610.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7443610.pdf",
-    "url": "https://pdf.ravelrycache.com/mituneko/2026222/Mitsuvanilla_Socks_ver1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481871&Signature=Axk34uPszL2wITGqGdXfb2ELKtQ%3D&key_expires=1768481871&key=NqoE6NS_DJiUbV-CPvsl2A",
+    "url": "https://pdf.ravelrycache.com/mituneko/2026222/Mitsuvanilla_Socks_ver1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770434337&Signature=J7qUqDig1HdJqQPFG%2BHJ%2BN49vZ0%3D&key_expires=1770434337&key=u-aFCQkI1Chf9GVpCAcibA",
     "size_bytes": 2758011
   }
 }

@@ -1,22 +1,26 @@
 {
   "id": 1276604,
-  "name": "Nachteulenfantasie",
+  "name": "nachteulenfantasie",
   "permalink": "nachteulenfantasie",
   "url": "https://www.ravelry.com/patterns/library/nachteulenfantasie",
   "external_url": "",
-  "designer_name": "Dagmar Hamacher",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "dagmar hamacher",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Handgefärbte Sockenwolle 4fach",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [],
@@ -28,14 +32,15 @@
   "rating_average": 4.931818181818182,
   "rating_count": 44,
   "difficulty_average": 3.125,
-  "favorites_count": 1397,
+  "favorites_count": 1400,
   "projects_count": 134,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/83216/808705",
+  "notes": "diese anleitung ist keine vollständige sockenanleitung, es ist lediglich das muster beschrieben.  ferse und spitze kann frei wählbar gestrickt werden. schaftlänge ist nach eigenem belieben wählbar. \r\nalternativ kann die anleitung auch mit 6fach garn und nadel 3,5 gearbeitet werden. ist separat beschrieben. \r\nbei fragen gerne eine pn schicken. \r\nich wünsche euch viel spaß mit meinem muster. ",
   "pdf": {
     "filename": "1276604.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1276604.pdf",
-    "url": "https://pdf.ravelrycache.com/Nachteule4/1559746/Nachteulenfantasie_.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482021&Signature=r%2BiufAKslxeEuQuseDIEaR7tSz8%3D&key_expires=1768482021&key=l17XUzmA0nHTvAG7jpZ10w",
+    "url": "https://pdf.ravelrycache.com/Nachteule4/1559746/Nachteulenfantasie_.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770435130&Signature=HXYOA%2BgJEapcSGRGxLSQE2v9J20%3D&key_expires=1770435130&key=v4rWzhM2UVdEI0bwJw7G-w",
     "size_bytes": 11512041
   }
 }

@@ -1,26 +1,30 @@
 {
   "id": 1248654,
-  "name": "Penelope Kerchief (Penelope Sjalett)",
+  "name": "penelope kerchief (penelope sjalett)",
   "permalink": "penelope-kerchief-penelope-sjalett",
   "url": "https://www.ravelry.com/patterns/library/penelope-kerchief-penelope-sjalett",
   "external_url": "",
-  "designer_name": "Linnea Nyman",
-  "project_type": "Child",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "linnea nyman",
+  "project_type": "child",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Lerke",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 52.0
+    },
+    {
+      "fiber": "Egyptian (Cotton)",
+      "pct": 48.0
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "lace",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Lace"
+    "lace"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -28,11 +32,12 @@
   ],
   "published": "2022/06/01",
   "sizes_available": "(6-12 months) 1-2 years (3-4 years) 5+  (adult)",
-  "rating_average": 4.746031746031746,
-  "rating_count": 63,
-  "difficulty_average": 3.482142857142857,
-  "favorites_count": 3897,
-  "projects_count": 273,
+  "rating_average": 4.75,
+  "rating_count": 64,
+  "difficulty_average": 3.456140350877193,
+  "favorites_count": 3935,
+  "projects_count": 274,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/75274/785188"
+  "download_url": "http://www.ravelry.com/dls/75274/785188",
+  "notes": "this kerchief is knit back and forth starting from the back, with a lace design up the center and ending with an icord bind off. the perfect addition to your summer wardrobe! enjoy!\r\n\r\nden här mönstret stickas fram och tillbaka från baksidan, med spetsdesign i mitten och slutar med en icord-avm. det perfekta tillskottet till din sommargarderob! lycka till med stickningen!!\r\n[click here to see examples of the penelope romper knit by knitters of ravelry][1]\r\n\r\n\r\n  [1]: https://<a href=\"http://www.ravelry.com/badges/redirect?p=penelope-kerchief-penelope-sjalett\"><img src=\"https://api.ravelry.com/badges/projects?p=penelope-kerchief-penelope-sjalett&t=.svg\" style=\"border: none;\" /></a>"
 }

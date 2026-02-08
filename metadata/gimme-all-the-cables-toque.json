@@ -1,46 +1,51 @@
 {
   "id": 896373,
-  "name": "Gimme All The Cables Toque",
+  "name": "gimme all the cables toque",
   "permalink": "gimme-all-the-cables-toque",
   "url": "https://www.ravelry.com/patterns/library/gimme-all-the-cables-toque",
   "external_url": "",
-  "designer_name": "Andrea Kemper",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "andrea kemper",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Wool Ease Thick & Quick",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "cable",
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Cables",
-    "Written"
+    "cables",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     9.0
   ],
   "published": "2019/01/01",
-  "sizes_available": "Adult (fits 23\" head circumference)",
+  "sizes_available": "adult (fits 23\" head circumference)",
   "rating_average": 4.705202312138728,
   "rating_count": 173,
   "difficulty_average": 2.4698795180722892,
-  "favorites_count": 5357,
-  "projects_count": 641,
+  "favorites_count": 5361,
+  "projects_count": 642,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/64202/509017",
+  "notes": "****update****\r\nif you have downloaded this pattern already please make sure you have the latest version 5 january 24, 2019. latest version has an adjustment to row 24.\r\n\r\nthis pattern is chuck full of cables, 9 to be exact! \r\n\r\n**fit**\r\nthe fit is for an adult, my head is 23\" circumference and this toque fits perfectly!\r\n\r\n**skill level**\r\nyou will need to know how to:\r\nknit \r\npurl\r\ncf6 - cable front knitting\r\nkfb knit front back (an increase stitch)\r\nk2tog - knit two together\r\n\r\n**yarn suggestion**\r\nthis pattern was written using a super bulky weight yarn. i use lion brand wool ease thick and quick\r\n\r\n**supplies needed**\r\nneedles\tus 13/9mm – 16” circular knitting needles\r\nus 13/9mm dpn’s \r\n(double pointed needles)\r\nstitch markers\r\ncable needle\r\nyarn needle \r\nscissors\r\n\r\n\r\n",
   "pdf": {
     "filename": "896373.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\896373.pdf",
-    "url": "https://pdf.ravelrycache.com/StatementJunkie/930936/GIMME_ALL_THE_CABLES_TOQUE.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480599&Signature=2eLBa8jkeAO25PirzhKcHaNUv9U%3D&key_expires=1768480599&key=PwMiBfOE7u8BQMsoI_wYJA",
+    "url": "https://pdf.ravelrycache.com/StatementJunkie/930936/GIMME_ALL_THE_CABLES_TOQUE.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770427479&Signature=lp7GW5IfVQGIhML%2FWMWkKErlQ7w%3D&key_expires=1770427479&key=yxrtddEW5YZ_FZfPFnyUGA",
     "size_bytes": 421528
   }
 }

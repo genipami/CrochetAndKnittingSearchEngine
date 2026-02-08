@@ -1,45 +1,50 @@
 {
   "id": 7436883,
-  "name": "Palindrome",
+  "name": "palindrome",
   "permalink": "palindrome-5",
   "url": "https://www.ravelry.com/patterns/library/palindrome-5",
   "external_url": "https://knitty.com/ISSUEff25/PATTpalindrome/PATTpalindrome.php",
-  "designer_name": "Amanda Schwabe",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "amanda schwabe",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Untreated Soft Sock",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Lace",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "lace",
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Lace",
-    "Short rows",
-    "Top-down",
-    "Written"
+    "charted",
+    "in the round",
+    "lace",
+    "short rows",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.25
   ],
   "published": "2025/06/01",
-  "sizes_available": "XS, S, M, L, XL, XXL",
-  "rating_average": 4.1,
-  "rating_count": 20,
-  "difficulty_average": 4.2105263157894735,
-  "favorites_count": 2322,
-  "projects_count": 122,
+  "sizes_available": "xs, s, m, l, xl, xxl",
+  "rating_average": 4.045454545454546,
+  "rating_count": 22,
+  "difficulty_average": 4.25,
+  "favorites_count": 2361,
+  "projects_count": 124,
   "free_ravelry_download": false,
-  "download_url": "https://knitty.com/ISSUEff25/PATTpalindrome/PATTpalindrome.php"
+  "download_url": "https://knitty.com/ISSUEff25/PATTpalindrome/PATTpalindrome.php",
+  "notes": "here's a new heel that works toe-up and top-down. it's a lot like other short-row heels, but there are two significant differences: first, the short row turns are on the outsides of the heel instead of in the middle, so there are no gaps and it makes really cool stripes. second, there are increases and decreases worked inside it, so it has a roomier fit than a typical short-row heel does. otherwise, it retains the benefits of a short-row heel construction; namely, that you can ignore any shaping of gussets on the foot or calculations of said gussets in a toe-up construction, so it's less fussy. and it doesn't mess around with the stripe sequences of self-striping yarns on the foot or leg because their circumferences don't change.\r\n\r\nalso, i think it's pretty.\r\n\r\nthis heel was born because my friend and co-conspirator, wendy fraser of maker savvy in kanata, a suburb of ottawa, asked me to design a pair of socks that could be knit continuously from the first to the second. she wanted a toe-up sock that was followed by a top-down sock, then separated once both were finished. she thought that would be a fun way to teach sock knitting and – bonus! -- prevent her second sock syndrome.\r\n\r\nso, i thought of all the heels i knew that could be a good fit for that construction. i started to knit. i randomly chose to start my first test with a garter-stitch short row heel (to keep it ultra simple by avoiding all need for wrapping when turning). she wanted something more exciting.\r\n\r\nthat's when i started to really experiment. how many ways could i find to swirl some short rows into that little gusset space in new and interesting configurations? i made stacks of heels to try out my ideas, and each iteration that didn't work sparked three new ideas that had some potential. i refined and systematized them. \"i think i've really got something here,\" i thought.\r\n\r\nand so, i present to you the first of my aknitica heel variations, in a palindrome of a sock pair of wendy's desires. i think it might be a new heel, but as elizabeth zimmermann famously taught, when an invention is part of an ancient craft enjoyed by many people, chances are that someone else has thought of something similar, unbeknownst to me, so i'll borrow her apt phrase and say i've \"unvented\" it.\r\n\r\none more thing – let's not fuss with waste yarn or lifelines when we separate these socks. i didn't want to have to go searching for supplies at the halfway point, so to keep knitting, i placed two purl rounds for easy landmarks to pick up and knit later. and why should we stress out about cutting our socks apart? let's bind them off first, then cut. that way, all the stitches will be secured and finished, and the only thing left to do will be to separate them and sew in the ends.\r\n\r\nphotos by: jessica stockbrugger and amanda schwabe\r\n\r\n***\r\n\r\njune 22, 2025: a note about fit and the heel: \r\ni don't recommend knitting this particular configuration in stockinette stitch. \r\n\r\nthe eye of partridge slipped stitch pattern pulls the fabric in in a way that makes them fit well in combination with the number of short rows here. but when the fabric gauge of the heel is changed dramatically by switching to the much-looser stockinette stitch, the heel will become huge and have pointy bits at the base and top. \r\n\r\ni'm testing and writing a stockinette version for this reason. \r\n\r\n***\r\n\r\nhere's a video i made explaining the heel structure a bit more and how to work the double stitches (ds):\r\nhttps://youtu.be/pgmloyu-ik4\r\n\r\nhere's a playlist of all my youtube videos about this pattern: \r\npalindrome socks pattern tutorials: https://www.youtube.com/playlist?list=plsmd87wlkkn6mavwrdahv6tqmucnqcgvt"
 }

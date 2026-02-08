@@ -1,27 +1,27 @@
 {
   "id": 942929,
-  "name": "Ball Band",
+  "name": "ball band",
   "permalink": "ball-band",
   "url": "https://www.ravelry.com/patterns/library/ball-band",
   "external_url": "",
-  "designer_name": "Jennifer Lassonde",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "jennifer lassonde",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Re-Up (Cotton)",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Single crochet (sc)"
+    "double crochet (dc)",
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     3.75,
@@ -29,18 +29,19 @@
   ],
   "needle_sizes_mm": [],
   "published": "2019/07/01",
-  "sizes_available": "One size (easily customizable)",
+  "sizes_available": "one size (easily customizable)",
   "rating_average": 5.0,
   "rating_count": 22,
   "difficulty_average": 1.7727272727272727,
-  "favorites_count": 971,
+  "favorites_count": 975,
   "projects_count": 133,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/43605/542493",
+  "notes": "this simple jar cozy fits a 24-ounce wide mouth ball jar (6.88 in tall, 3.5 in outside diameter).\r\n\r\nskills required:\r\n* single crochet\r\n* magic circle cast on (link to tutorial provided)\r\n* single crochet through the back loop\r\n* single crochet increase\r\n\r\ni'm so excited to share this pattern with you for free as part of my participation in #plasticfreejuly. having a re-usable cup/jar/bottle is a great, yet simple, way to avoid needing to buy/use plastic. this is especially important at a time, when many recyclable items simply are not being recycled). the lion brand re-up yarn is a great pairing for this project. [as they say on their website][1]: \"it takes, on average, 20,000 liters of water to make 1 kilogram of cotton. by using one 70 gram ball of re-up you are saving 1,400 liters of water.\"\r\n\r\njust want to make this because it's fun? great. no judgement here! this cozy looks awesome, keeps your beverage cold (or hot) and prevents condensation from leaving a puddle in your wake on these hot summer days.\r\n\r\nif you like this pattern, please add it to your favorites or queue- or better yet, tell a friend! if you post about it on instagram, please use #ballbandcozy and tag me [@bostonjen1][2] or come chat about it in our [down cellar studio podcast ravelry group][3].\r\n\r\n\r\n  [1]: http://www.lionbrand.com/re-up-yarn.html\r\n  [2]: https://www.instagram.com/bostonjen1/\r\n  [3]: https://www.ravelry.com/groups/down-cellar-studio-podcast",
   "pdf": {
     "filename": "942929.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\942929.pdf",
-    "url": "https://pdf.ravelrycache.com/BostonJen/995123/Ball_Band_24_oz_v07.06.19.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478931&Signature=0QaJEwJubYK9c%2BuJCd6Llm4x4yg%3D&key_expires=1768478931&key=RA4dM7nzSrVCnm6UFyen2Q",
+    "url": "https://pdf.ravelrycache.com/BostonJen/995123/Ball_Band_24_oz_v07.06.19.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770418142&Signature=eMcu2hmLn2bagteH5RGv1pMlqSg%3D&key_expires=1770418142&key=HenmfWOzDVh6SE6kNf60mQ",
     "size_bytes": 403713
   }
 }

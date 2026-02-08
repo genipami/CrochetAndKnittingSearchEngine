@@ -1,38 +1,39 @@
 {
   "id": 1036144,
-  "name": "Pretty 8 Petal Flower Granny Square",
+  "name": "pretty 8 petal flower granny square",
   "permalink": "pretty-8-petal-flower-granny-square",
   "url": "https://www.ravelry.com/patterns/library/pretty-8-petal-flower-granny-square",
   "external_url": "https://www.windingroadcrochet.com/crochet-flower-granny-square-pattern-video/",
-  "designer_name": "Lindsey Dale",
-  "project_type": "Other",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "lindsey dale",
+  "project_type": "other",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Super Saver (solids)",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Granny",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "granny",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     5.5
   ],
   "needle_sizes_mm": [],
   "published": "2020/05/01",
-  "sizes_available": "One Size",
+  "sizes_available": "one size",
   "rating_average": 4.933333333333334,
   "rating_count": 15,
   "difficulty_average": 2.4,
-  "favorites_count": 5447,
+  "favorites_count": 5492,
   "projects_count": 92,
   "free_ravelry_download": false,
-  "download_url": "https://www.windingroadcrochet.com/crochet-flower-granny-square-pattern-video/"
+  "download_url": "https://www.windingroadcrochet.com/crochet-flower-granny-square-pattern-video/",
+  "notes": "this beautiful flower granny square uses a handful of stitches. there are instructions for adjusting the stitch count to make this square work with your projects. "
 }

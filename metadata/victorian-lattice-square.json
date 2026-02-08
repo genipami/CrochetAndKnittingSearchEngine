@@ -1,29 +1,29 @@
 {
   "id": 505022,
-  "name": "Victorian Lattice Square",
+  "name": "victorian lattice square",
   "permalink": "victorian-lattice-square",
   "url": "https://www.ravelry.com/patterns/library/victorian-lattice-square",
   "external_url": "",
-  "designer_name": "Destany Wymore",
-  "project_type": "Other",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "destany wymore",
+  "project_type": "other",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Simply Soft",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Single crochet (sc)",
-    "Slip stitch (sl st)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "single crochet (sc)",
+    "slip stitch (sl st)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Lace",
-    "Written"
+    "charted",
+    "lace",
+    "written"
   ],
   "hook_sizes_mm": [
     4.5
@@ -31,17 +31,18 @@
   "needle_sizes_mm": [],
   "published": "2014/07/01",
   "sizes_available": "8\"",
-  "rating_average": 4.732937685459941,
-  "rating_count": 337,
-  "difficulty_average": 2.674922600619195,
-  "favorites_count": 26178,
-  "projects_count": 1363,
+  "rating_average": 4.735294117647059,
+  "rating_count": 340,
+  "difficulty_average": 2.6748466257668713,
+  "favorites_count": 26304,
+  "projects_count": 1370,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/31545/221812",
+  "notes": "hi everyone! i appreciate your continued interest in this square! i have received a lot of requests to translate this pattern into various languages. while i only speak english, i understand the want and need to be able to read a pattern in your native tongue. so, since this pattern is free, and will remain free, if you feel like you need to translate into a language you and your peers can understand, please feel free to do so. i will not be upset, i promise! i apologize to those of you who have sent me messages and i never replied to you. my children have kept me crazy busy and i am not able to keep up with ravelry as much as i'd like. i do plan on releasinga new pattern within the next month or so. so be on the lookout for that! it's not a square, but i hope you all will enjoy it! \r\n\r\n\r\n***i have updated this pattern to include a chart/diagram!!***\r\n\r\nmaterials:\r\nsize7/4.5mm hook and ww yarn (i used caron simply soft.)\r\n\r\nstitches used:\r\nslst- slip stitch ch- chain sc- single crochet dc- double crochet sp-space\r\ndc2tog- double crochet 2 together. yarn over (yo) hook, insert hook in stitch (st), pull up a loop, 3 loops on hook. yo hook, pull through 2 loops. yo hook insert into st, pull up a loop, 4 loops on hook. yo, pull through 2 loops, 3 loops on hook. yo pull through last 3 loops. one dc2tog made.\r\n\r\nnotes: at the beginning of some rounds, you’ll be making a mock dc consisting of a sc plus ch1. when the pattern says to “join with a slst in top of first dc” you will be joining into the ch 1\r\nof the mock dc.",
   "pdf": {
     "filename": "505022.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\505022.pdf",
-    "url": "https://pdf.ravelrycache.com/DestanyWymore/384757/VictorianLatticeSquare2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484018&Signature=BLytfbuuaWEXQ2WLntjEKXjITsk%3D&key_expires=1768484018&key=6Jq6kBwrKgiY1Rn1t1XSkw",
+    "url": "https://pdf.ravelrycache.com/DestanyWymore/384757/VictorianLatticeSquare2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770446197&Signature=BxRyXjojyR%2BcjoS%2BWSQvIhIfi48%3D&key_expires=1770446197&key=Tc90LTzcbywSSv9isrKTbQ",
     "size_bytes": 564491
   }
 }

@@ -1,22 +1,22 @@
 {
   "id": 7388222,
-  "name": "Squishy Pickle Party",
+  "name": "squishy pickle party",
   "permalink": "squishy-pickle-party",
   "url": "https://www.ravelry.com/patterns/library/squishy-pickle-party",
   "external_url": "",
-  "designer_name": "Jade Gauthier-Boutin",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Bulky",
+  "designer_name": "jade gauthier-boutin",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Honey Bunny Shine",
-      "pct": null
+      "fiber": "Polyester (Polyester)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     4.0
@@ -27,8 +27,9 @@
   "rating_average": 5.0,
   "rating_count": 4,
   "difficulty_average": 1.5,
-  "favorites_count": 495,
-  "projects_count": 19,
+  "favorites_count": 509,
+  "projects_count": 21,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/66107/967427"
+  "download_url": "http://www.ravelry.com/dls/66107/967427",
+  "notes": "no-sew patterns including 3 different styles."
 }

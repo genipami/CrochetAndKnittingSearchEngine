@@ -1,34 +1,38 @@
 {
   "id": 979324,
-  "name": "Daniel's Hat",
+  "name": "daniel's hat",
   "permalink": "daniels-hat-2",
   "url": "https://www.ravelry.com/patterns/library/daniels-hat-2",
   "external_url": "https://ysolda.com/blogs/journal/daniels-brioche-hat-a-free-pattern",
-  "designer_name": "Ysolda Teague",
-  "project_type": "Child",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "ysolda teague",
+  "project_type": "child",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Gilliatt",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 50.0
     },
     {
-      "fiber": "nightshades",
-      "pct": null
+      "fiber": "Cormo (Wool)",
+      "pct": 40.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Brioche stitch",
-    "Ribbing",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "brioche stitch",
+    "ribbing",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Brioche",
-    "In the round",
-    "Written"
+    "bottom-up",
+    "brioche",
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -36,18 +40,19 @@
     5.0
   ],
   "published": null,
-  "sizes_available": "Baby[Toddler, Child/Adult S, M, L, XL]",
-  "rating_average": 4.651162790697675,
-  "rating_count": 172,
-  "difficulty_average": 3.895424836601307,
-  "favorites_count": 8049,
-  "projects_count": 906,
+  "sizes_available": "baby[toddler, child/adult s, m, l, xl]",
+  "rating_average": 4.653409090909091,
+  "rating_count": 176,
+  "difficulty_average": 3.9044585987261144,
+  "favorites_count": 8073,
+  "projects_count": 913,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/85/746969",
+  "notes": "> **[knit a brioche accessory course][1]**\r\n>join us for this how to knit brioche online course! this course is your ultimate guide to brioche knitting in which you will learn all the basics of how to knit the brioche stitch and by the end, knit your first brioche accessory (and maybe your second, third and fourth....!)\r\n>\r\n>1 course, 4 brioche patterns\r\n>\r\n>our online course includes access to 4 brioche knitting patterns designed to slowly grow your brioche knitting skills. course members get early access to two of our brand new brioche patterns! to find out more click [here][2].\r\n\r\n> interested in more patterns like this? [sign up][3] to our newsletter to be the first to hear about new patterns, and yarn updates for our online store.\r\n\r\nlooking for a perfectly warm winter hat this year? our gift to you today is a free pattern for a simple hat in super squishy brioche rib that that'll look great on everyone! it's named after our team member daniel, who recently left to pursue a career in music production — we made this as a leaving gift for him.\r\n\r\nsized from baby to adult xl, it's the perfect gift for everyone on your list. \r\n\r\nthe pattern includes step by step photos and video tutorial links. if you've never tried brioche before daniel's hat is an ideal introduction. \r\n\r\n\r\n  [1]: https://ysolda.com/products/knit-a-brioche-accessory-course\r\n  [2]: https://ysolda.com/products/knit-a-brioche-accessory-course\r\n  [3]: https://ysolda.com/pages/subscribe",
   "pdf": {
     "filename": "979324.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\979324.pdf",
-    "url": "https://pdf.ravelrycache.com/bleideag/1426937/daniel_s_hat_v1.1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479853&Signature=og8SC%2B0nNt7%2ByuQ6rRLy3Za28M0%3D&key_expires=1768479853&key=iA6Zu3OlIVvjpX9enqiU5A",
+    "url": "https://pdf.ravelrycache.com/bleideag/1426937/daniel_s_hat_v1.1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770423314&Signature=c%2FRpqHMqVyBosDoWkdoH3sM0MQs%3D&key_expires=1770423314&key=aNc_t2EpQlyl7ZuFJIkNpg",
     "size_bytes": 847822
   }
 }

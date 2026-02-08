@@ -1,40 +1,45 @@
 {
   "id": 946725,
-  "name": "Lacy summer top",
+  "name": "lacy summer top",
   "permalink": "lacy-summer-top-4",
   "url": "https://www.ravelry.com/patterns/library/lacy-summer-top-4",
   "external_url": "https://www.knitcroaddict.com/lacy-summer-top-crochet-pattern-knitcroaddict/",
-  "designer_name": "Wannipa Yunker",
-  "project_type": "Tee",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Sport",
+  "designer_name": "wannipa yunker",
+  "project_type": "tee",
+  "fiber_art": "crochet",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Baby Cotton (Acrylic Blend)",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 60.0
+    },
+    {
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 40.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Lace",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "lace",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Lace",
-    "Written"
+    "lace",
+    "written"
   ],
   "hook_sizes_mm": [
     4.0
   ],
   "needle_sizes_mm": [],
   "published": "2019/07/01",
-  "sizes_available": "XS-XXL",
+  "sizes_available": "xs-xxl",
   "rating_average": 4.794117647058823,
   "rating_count": 34,
   "difficulty_average": 2.6333333333333333,
-  "favorites_count": 3492,
-  "projects_count": 107,
+  "favorites_count": 3596,
+  "projects_count": 109,
   "free_ravelry_download": false,
-  "download_url": "http://www.ravelry.com/purchase/wannipa-yunker/545102"
+  "download_url": "http://www.ravelry.com/purchase/wannipa-yunker/545102",
+  "notes": "this lacey summer top is a simple two panel project. it's beginner friendly and easy to follow along for all levels. \r\n\r\nthis pattern includes an 10 page written pattern and photo tutorial as well as a link to the video tutorial to make it as smooth as possible. this pattern includes us women’s sizes xs-xxl. any questions you may come across in making this pattern will be answered inside, but if not feel free to message me.\r\n\r\nmaterials:\r\nsport weight yarn #2\r\ni used gazzal baby cotton #2 sport weigh  yarn\r\ncrochet hook size 4 mm\r\nscissors\r\nyarn needle\r\n\r\nnotes:\r\nthis pattern made as us women's xs( s, m, l, xl, xxl )\r\nthis top is made in 2 separate pieces and then sewn together( 2 panels are made the same )\r\nthis pattern is a 4 rows repeat *row 2-5\r\nthis pattern is in multiples of 6+3\r\nin this picture i have demonstrated with size small\r\n\r\ngauge blocked : 18 dc x 8.5 rows in st pattern = 4\"\r\n\r\nmeasurements across the back ( after blocked )\r\nxs = 16.22\" body, 32.22\" cuff to cuff width x 13.64\" length (920 yards of yarn)\r\ns = 17.55\" body, 33.55\" cuff to cuff width x 13.64\" length (950 yards of yarn)\r\nm =20.22\" body, 36.22\" cuff to cuff width x 15.52\" length (1,010 yards of yarn)\r\nl = 21.55\" body, 37.55\" cuff to cuff width x 15.52\" length (1,040 yards of yarn)\r\nxl = 24.22\" body, 40.22\" cuff to cuff width x 17.41\" length (1,100 yards of yarn)\r\nxxl = 25.55\" body, 41.55\" cuff to cuff width x 17.14 length (1,130 yards of yarn)\r\n\r\nthanks for stopping by. happy crocheting :)"
 }

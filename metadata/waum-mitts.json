@@ -1,44 +1,45 @@
 {
   "id": 814952,
-  "name": "Waum Mitts",
+  "name": "waum mitts",
   "permalink": "waum-mitts",
   "url": "https://www.ravelry.com/patterns/library/waum-mitts",
   "external_url": "",
-  "designer_name": "Tracy Hill",
-  "project_type": "Mittens/Gloves",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "tracy hill",
+  "project_type": "mittens/gloves",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Classic Wool Worsted",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round"
+    "bottom-up",
+    "in the round"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.75
   ],
   "published": "2018/02/01",
-  "sizes_available": "Small, Medium, Large",
+  "sizes_available": "small, medium, large",
   "rating_average": 4.7207207207207205,
   "rating_count": 111,
-  "difficulty_average": 2.4038461538461537,
-  "favorites_count": 3816,
+  "difficulty_average": 2.4134615384615383,
+  "favorites_count": 3851,
   "projects_count": 530,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/27233/447424",
+  "notes": "\"waum\" (pronounced “wahm”) is the word for \"warm\" in chinook jargon (aka chinuk wawa), the trade language that was used by fur traders and native americans in the pacific northwest during the 1800s. it is an interesting combination of words primarily derived from the local native american languages, english, and french.\r\n\r\n*version 3 update - version 3 includes a change to the number of gusset stitches to make a slightly roomier gusset, additional clarifying language regarding the gusset, and new tutorials explaining the gusset increases and how to pick up stitches to complete the thumb. the tutorials are at the end of the pattern.*\r\n\r\nthis cozy ribbed mitt is easy enough for advanced beginners, and is a quick and relaxing project for experienced knitters. it features a mini-gusset above the thumb hole, which gives a smidge of extra room and helps to prevent holes. \r\n\r\neach pair uses less than 1 skein of patons classic worsted yarn (3.5 oz/100 gm; 210 yards).\r\n\r\nmy heartfelt thanks to my test knitters, joan & kirstyn - your suggestions were invaluable!\r\n",
   "pdf": {
     "filename": "814952.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\814952.pdf",
-    "url": "https://pdf.ravelrycache.com/spinlady35/1067840/Waum_Mitts_v.3_1-1-2020.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484089&Signature=EsvHCR0M0ArAeP2hRN3EaWWsckc%3D&key_expires=1768484089&key=oMiy7j-u6WSo2viAN43cxQ",
+    "url": "https://pdf.ravelrycache.com/spinlady35/1067840/Waum_Mitts_v.3_1-1-2020.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770446595&Signature=OSiWlgTkzfhHW4GaMKirwHkeZKU%3D&key_expires=1770446595&key=huKphQPSgvRgYhXB9FVjSg",
     "size_bytes": 917906
   }
 }

@@ -1,20 +1,20 @@
 {
   "id": 361295,
-  "name": "Gladys",
+  "name": "gladys",
   "permalink": "gladys-5",
   "url": "https://www.ravelry.com/patterns/library/gladys-5",
   "external_url": "",
-  "designer_name": "General Hogbuffer",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "general hogbuffer",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [],
   "stitches_used": [
-    "Ribbing",
-    "Treble crochet (tr)"
+    "ribbing",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted"
+    "charted"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -22,17 +22,18 @@
   ],
   "published": "2012/11/01",
   "sizes_available": "s/m/l/xl",
-  "rating_average": 4.648897058823529,
-  "rating_count": 544,
-  "difficulty_average": 3.191806331471136,
-  "favorites_count": 10883,
-  "projects_count": 1561,
+  "rating_average": 4.64954128440367,
+  "rating_count": 545,
+  "difficulty_average": 3.197026022304833,
+  "favorites_count": 10936,
+  "projects_count": 1567,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/22051/126483",
+  "notes": "this is a very simple sock pattern, based on textured stitches like the ones found on traditional guersey / gansey fishermen's sweaters.\r\n\r\ni have only knitted this one myself, in the 64st version, so if there are any mistakes, or if anything is not clear please let me know so i can amend it.\r\n\r\nthis is my entry for the ska 2012/13 sockdown in the category \"texture other than ribbing\".",
   "pdf": {
     "filename": "361295.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\361295.pdf",
-    "url": "https://pdf.ravelrycache.com/braindead/446674/Gladys.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480623&Signature=0yhnONEUwG%2B6y7DPe2v79pDXh%2Fs%3D&key_expires=1768480623&key=JQJs5vo5tCTdT0HVcLOeUA",
+    "url": "https://pdf.ravelrycache.com/braindead/446674/Gladys.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770427558&Signature=aIOcuLm6iMD0d76DVA7RBz6CXA4%3D&key_expires=1770427558&key=HY-3uJmsMiW-VrSfwQ-HRw",
     "size_bytes": 701443
   }
 }

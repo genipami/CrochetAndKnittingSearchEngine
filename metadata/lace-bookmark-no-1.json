@@ -1,28 +1,28 @@
 {
   "id": 7401505,
-  "name": "Lace Bookmark No. 1",
+  "name": "lace bookmark no. 1",
   "permalink": "lace-bookmark-no-1",
   "url": "https://www.ravelry.com/patterns/library/lace-bookmark-no-1",
   "external_url": "https://drive.google.com/file/d/1iZNYbvBIHEkeb8teoWXLklWQH8A5-2b5/view?usp=sharing",
-  "designer_name": "Rebekah Sand",
-  "project_type": "Home",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Lace",
+  "designer_name": "rebekah sand",
+  "project_type": "home",
+  "fiber_art": "knitting",
+  "yarn_weight": "lace",
   "materials": [
     {
-      "fiber": "Mouline Special 25",
-      "pct": null
+      "fiber": "Egyptian (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Eyelet lace",
-    "Garter stitch",
-    "Lace",
-    "Treble crochet (tr)"
+    "eyelet lace",
+    "garter stitch",
+    "lace",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Lace"
+    "charted",
+    "lace"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -30,11 +30,12 @@
   ],
   "published": "2025/01/01",
   "sizes_available": "",
-  "rating_average": 5.0,
-  "rating_count": 8,
+  "rating_average": 4.888888888888889,
+  "rating_count": 9,
   "difficulty_average": 2.0,
-  "favorites_count": 1071,
-  "projects_count": 55,
+  "favorites_count": 1130,
+  "projects_count": 61,
   "free_ravelry_download": false,
-  "download_url": "https://drive.google.com/file/d/1iZNYbvBIHEkeb8teoWXLklWQH8A5-2b5/view?usp=sharing"
+  "download_url": "https://drive.google.com/file/d/1iZNYbvBIHEkeb8teoWXLklWQH8A5-2b5/view?usp=sharing",
+  "notes": "a beautiful and functional lace bookmark made using 2.00 mm needles and 2 skeins of embroidery thread (or lace/light fingering yarn). \r\n\r\ni designed this pattern using the instructions for [curvy eyelet lace by brome fields][1], with a small garter stitch border and a pointed end, perfect for hanging a beaded tassel. the whole thing knits up in about 2 hours, making an excellent last-minute gift. \r\n\r\nfor help with the tassel, i would recommend any youtube tutorial!\r\n\r\nedit 22/01/2025: i've updated the pdf with some spelling corrections and clarifications to step 2. i've also added a legend for the chart by user amwijsman's suggestion. i didn't expect many people to find this, but thank you for all the love! \r\n\r\n  [1]: https://www.bromefields.com/curvy-eyelet-lace-knit-stitch/"
 }

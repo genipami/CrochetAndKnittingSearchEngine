@@ -1,29 +1,37 @@
 {
   "id": 241733,
-  "name": "Sunnyside",
+  "name": "sunnyside",
   "permalink": "sunnyside",
   "url": "https://www.ravelry.com/patterns/library/sunnyside",
   "external_url": "",
-  "designer_name": "Tanis Lavallee",
-  "project_type": "Baby",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "tanis lavallee",
+  "project_type": "baby",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Purple Label Cashmere Sock",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 70.0
+    },
+    {
+      "fiber": "Cashmere goat (Cashmere)",
+      "pct": 20.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Lace",
-    "Single crochet (sc)",
-    "Stockinette stitch"
+    "cable",
+    "lace",
+    "single crochet (sc)",
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "Cables",
-    "Lace",
-    "Top-down"
+    "cables",
+    "lace",
+    "top-down"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -34,14 +42,15 @@
   "rating_average": 4.441365979381444,
   "rating_count": 1552,
   "difficulty_average": 3.196805111821086,
-  "favorites_count": 24726,
-  "projects_count": 5672,
+  "favorites_count": 24752,
+  "projects_count": 5684,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/5968/64462",
+  "notes": "a perfectly soft cashmere baby sweater knit from the top down in one piece. two options are included: delicate lace for the discerning baby; more rugged cables for the outdoorsy-go getter\r\n\r\nthe smaller sizes make a great single skein project for that special ball of fingering weight yarn!\r\n\r\nfor more information see: http://www.tanisfiberarts.com/blog/2011/04/sunnyside-baby-sweater.html",
   "pdf": {
     "filename": "241733.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\241733.pdf",
-    "url": "https://pdf.ravelrycache.com/tanisfiberarts/890542/BabySunnsyide.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483479&Signature=2y5dpThgEvtpVyvWrEaZWzhqw%2FQ%3D&key_expires=1768483479&key=Ekb8IJy95eGfrccaVOemAw",
+    "url": "https://pdf.ravelrycache.com/tanisfiberarts/890542/BabySunnsyide.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770443115&Signature=SRoecJLMi3Gr0y4KhUPKPUOW8bQ%3D&key_expires=1770443115&key=GTpE2LYujPNk_f9knGYSww",
     "size_bytes": 817842
   }
 }

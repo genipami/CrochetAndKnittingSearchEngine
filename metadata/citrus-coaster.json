@@ -1,26 +1,26 @@
 {
   "id": 379510,
-  "name": "Citrus Coaster",
+  "name": "citrus coaster",
   "permalink": "citrus-coaster",
   "url": "https://www.ravelry.com/patterns/library/citrus-coaster",
   "external_url": "",
-  "designer_name": "Dona Knits",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Fingering",
+  "designer_name": "dona knits",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Senso 100% Cotton",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     2.75
@@ -28,17 +28,18 @@
   "needle_sizes_mm": [],
   "published": "2013/01/01",
   "sizes_available": "",
-  "rating_average": 4.651162790697675,
-  "rating_count": 258,
-  "difficulty_average": 1.964,
-  "favorites_count": 12302,
-  "projects_count": 987,
+  "rating_average": 4.648648648648648,
+  "rating_count": 259,
+  "difficulty_average": 1.9601593625498008,
+  "favorites_count": 12349,
+  "projects_count": 997,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/24637/137932",
+  "notes": "this is more a recipe than a pattern. these little coasters are really easy and fast to complete. hope you will enjoy making them as much as i did! \r\n\r\nsample is shown in dmc senso 100% cotton, a discontinued yarn, but any fingering cotton yarn will do. you will need approximately 6 grams per coaster.",
   "pdf": {
     "filename": "379510.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\379510.pdf",
-    "url": "https://pdf.ravelrycache.com/dona-knits/295091/Citrus_Coaster2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479552&Signature=KMn7SxKvifp%2FWmip1%2BypX13t9NM%3D&key_expires=1768479552&key=4kHTEO3E-Atds_aDbE6TrQ",
+    "url": "https://pdf.ravelrycache.com/dona-knits/295091/Citrus_Coaster2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770421618&Signature=l%2BPp0CSzNM00Nc5YjHbUhJokWR0%3D&key_expires=1770421618&key=xMQ8NvoAUaCMa607EzxClw",
     "size_bytes": 1702061
   }
 }

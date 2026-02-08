@@ -1,44 +1,49 @@
 {
   "id": 7480223,
-  "name": "Gnoming Socks",
+  "name": "gnoming socks",
   "permalink": "gnoming-socks",
   "url": "https://www.ravelry.com/patterns/library/gnoming-socks",
   "external_url": "https://anoknits.com/index.php/2025/11/18/gnoming-socks/",
-  "designer_name": "AnoKnits",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "anoknits",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "4-fädig 4-ply",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 75.0
     },
     {
-      "fiber": "BFL Sock",
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
+    },
+    {
+      "fiber": "Bluefaced Leicester (BFL) (Wool)",
       "pct": null
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Stranded colorwork",
-    "Written"
+    "charted",
+    "in the round",
+    "stranded colorwork",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.5
   ],
   "published": "2025/11/01",
-  "sizes_available": "EUR 39-40 (US 8.5/9, UK 6.5/7)",
+  "sizes_available": "eur 39-40 (us 8.5/9, uk 6.5/7)",
   "rating_average": 5.0,
-  "rating_count": 4,
-  "difficulty_average": 3.0,
-  "favorites_count": 1769,
-  "projects_count": 27,
+  "rating_count": 5,
+  "difficulty_average": 3.4,
+  "favorites_count": 1822,
+  "projects_count": 29,
   "free_ravelry_download": false,
-  "download_url": "https://anoknits.com/index.php/2025/11/18/gnoming-socks/"
+  "download_url": "https://anoknits.com/index.php/2025/11/18/gnoming-socks/",
+  "notes": "inspired by the charm of woodland gnomes (and their legendary love of warm toes), this pair was knitted for a dear friend who adores both ^^\r\n\r\ncuff down socks with stranded colourwork.\r\nthe colourwork pattern and the toe are charted. \r\nother instructions are written.\r\n\r\nthere are 6 rows where 3 colours are used at the same time. just grab your prefered beverage and go for it, you've got this!\r\n\r\nsock width can easily be modified by decreasing more or less stitches on row 24 of the colourwork pattern.\r\n\r\nthe pattern is free and will always be.\r\nit hasn't been tested, just knitted twice by me, so please contact me here or on instagram if you spot an error or need some help "
 }

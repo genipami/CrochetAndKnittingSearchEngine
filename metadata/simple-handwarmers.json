@@ -1,36 +1,37 @@
 {
   "id": 648736,
-  "name": "Simple Handwarmers",
+  "name": "simple handwarmers",
   "permalink": "simple-handwarmers",
   "url": "https://www.ravelry.com/patterns/library/simple-handwarmers",
   "external_url": "http://jenniferedwards.com/patterns/",
-  "designer_name": "Jennifer Edwards",
-  "project_type": "Mittens/Gloves",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "jennifer edwards",
+  "project_type": "mittens/gloves",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Gina",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)"
+    "double crochet (dc)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     4.0
   ],
   "needle_sizes_mm": [],
   "published": "2016/02/01",
-  "sizes_available": "S, M, L",
+  "sizes_available": "s, m, l",
   "rating_average": 4.610169491525424,
   "rating_count": 59,
   "difficulty_average": 2.0,
-  "favorites_count": 2379,
-  "projects_count": 183,
+  "favorites_count": 2402,
+  "projects_count": 185,
   "free_ravelry_download": false,
-  "download_url": "http://jenniferedwards.com/patterns/"
+  "download_url": "http://jenniferedwards.com/patterns/",
+  "notes": "beauty in simplicity is the main feature of these fingerless handwarmers!\r\n\r\ncrocheted all in one piece, with no seams, double crochets and a few half-doubles make these an easy evening project.\r\n\r\nmultiple sizes to fit hands from child to adult.\r\n"
 }

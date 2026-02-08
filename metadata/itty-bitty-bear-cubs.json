@@ -1,25 +1,25 @@
 {
   "id": 566381,
-  "name": "Itty Bitty Bear Cubs",
+  "name": "itty bitty bear cubs",
   "permalink": "itty-bitty-bear-cubs",
   "url": "https://www.ravelry.com/patterns/library/itty-bitty-bear-cubs",
   "external_url": "",
-  "designer_name": "Carolyn Ingram",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Sport",
+  "designer_name": "carolyn ingram",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Arroyo",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round"
+    "bottom-up",
+    "in the round"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -27,18 +27,19 @@
     3.5
   ],
   "published": "2015/03/01",
-  "sizes_available": "Small Preemie (9\" around)       Large Preemie (10.5\" around)",
+  "sizes_available": "small preemie (9\" around)       large preemie (10.5\" around)",
   "rating_average": 4.667910447761194,
   "rating_count": 268,
   "difficulty_average": 2.20703125,
-  "favorites_count": 13173,
-  "projects_count": 1050,
+  "favorites_count": 13201,
+  "projects_count": 1053,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/49571/264399",
+  "notes": "these little preemie sized bear cub hats came about when my daughter requested something for her twin sons to wear during their stay in the nicu.  the pattern can easily be made larger, for newborn or older babies, by sizing up on yarn and needles.\r\n\r\nsmall (for 11” head/ 2.5lbs - 3lbs) ~ 9” circumference, 4” height \r\nlarge (for 12.5” head/4.5lbs - 5lbs) ~ 10.5” circumference, 4.75” height\r\n\r\n[notes for making sizes newborn and 0 - 3 months][1]\r\n\r\nyarn used:  \r\n~malabrigo arroyo, sport weight ( 335 yds./100g.  100% merino)\r\n\r\nneedle sizes: \r\n~us 3 & 4 dpns (or long circular for magic loop – instructions given for dpns)\r\n\r\ngauge: \r\n~26.5 sts and 33 rows to 4 inches on us4 in ss\r\n\r\n\r\n  [1]: http://www.ravelry.com/projects/carolyni/itty-bitty-bear-cubs-2",
   "pdf": {
     "filename": "566381.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\566381.pdf",
-    "url": "https://pdf.ravelrycache.com/carolyni/457037/Itty_Bitty_Bear_Cubs_Pattern_V2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481038&Signature=CoLHNyh2GicC9aedjHF9TjTU11w%3D&key_expires=1768481038&key=gvIxun4RNibwhhz66ztZAA",
+    "url": "https://pdf.ravelrycache.com/carolyni/457037/Itty_Bitty_Bear_Cubs_Pattern_V2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770430029&Signature=17yGbsZBEqiB7mSpVmHLp9sUgO8%3D&key_expires=1770430029&key=8wYok9Qtdf6876IvnBBsfg",
     "size_bytes": 519368
   }
 }

@@ -5,42 +5,51 @@
   "url": "https://www.ravelry.com/patterns/library/arvo-beanie",
   "external_url": "https://hannahbananaknits.com/",
   "designer_name": "hannah banana knits",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Mawson",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 50.0
+    },
+    {
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 25.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
     "2x2 rib",
-    "Ribbing"
+    "ribbing"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     6.5
   ],
   "published": "2025/04/01",
-  "sizes_available": "S/M (48cm, 19\") & L/XL (53cm, 21\")",
+  "sizes_available": "s/m (48cm, 19\") & l/xl (53cm, 21\")",
   "rating_average": 4.6,
   "rating_count": 5,
   "difficulty_average": 2.5,
-  "favorites_count": 270,
-  "projects_count": 25,
+  "favorites_count": 283,
+  "projects_count": 27,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/107902/995316",
+  "notes": "this is a beanie that can be knit in an afternoon (in kiwi slang, arvo = afternoon). it knits up fast in chunky weight yarn with large needles. pattern is simple, done in 2 x 2 ribbing. consistent decreases towards the top create an equidistant windmill pattern :))\r\n\r\nfull step-by-step video tutorial available here https://youtu.be/v8ma7bffjau",
   "pdf": {
     "filename": "7423476.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7423476.pdf",
-    "url": "https://pdf.ravelrycache.com/hannahbanana01/2013768/arvo_beanie.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478829&Signature=gfriTbACKboo9czcHFiB%2FADLDrQ%3D&key_expires=1768478829&key=AbWyDtiGtwwzcqRG_0bUmA",
+    "url": "https://pdf.ravelrycache.com/hannahbanana01/2013768/arvo_beanie.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770417468&Signature=i9AG3wfoEOxxdKtjDyf%2FokW4vvs%3D&key_expires=1770417468&key=L75PVsBAD3wGAwOgsf0n5g",
     "size_bytes": 471696
   }
 }

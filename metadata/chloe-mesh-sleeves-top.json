@@ -1,38 +1,43 @@
 {
   "id": 7283410,
-  "name": "Chloe Mesh Sleeves Top",
+  "name": "chloe mesh sleeves top",
   "permalink": "chloe-mesh-sleeves-top",
   "url": "https://www.ravelry.com/patterns/library/chloe-mesh-sleeves-top",
   "external_url": "https://hearthookhome.com/the-chloe-free-mesh-sleeves-top-crochet-pattern",
-  "designer_name": "Ashlea Schumaker",
-  "project_type": "Shrug",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Sport",
+  "designer_name": "ashlea schumaker",
+  "project_type": "shrug",
+  "fiber_art": "crochet",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Shine Sport",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 60.0
+    },
+    {
+      "fiber": "Rayon / Viscose (Rayon)",
+      "pct": 40.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamless",
-    "Top-down",
-    "Written"
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [
     5.0
   ],
   "needle_sizes_mm": [],
   "published": "2023/10/01",
-  "sizes_available": "XS - 2XL",
+  "sizes_available": "xs - 2xl",
   "rating_average": 4.647058823529412,
   "rating_count": 17,
   "difficulty_average": 2.25,
-  "favorites_count": 2723,
-  "projects_count": 126,
+  "favorites_count": 2785,
+  "projects_count": 130,
   "free_ravelry_download": false,
-  "download_url": "http://www.ravelry.com/purchase/ashlea-konecny-designs/884759"
+  "download_url": "http://www.ravelry.com/purchase/ashlea-konecny-designs/884759",
+  "notes": "these crochet mesh sleeves-only style tops have been all the rage. \r\n\r\nthey are super cute and surprisingly warm too! they work up so fast you won't believe it so grab your hook and let's go...\r\n\r\nsizes range from xs to 2xl. \r\n\r\nto make this pattern sightly larger you could use a worsted weight yarn with an i/5.5mm crochet hook.\r\n\r\nuse a size 2 or size 3 yarn, mandala also works up great!"
 }

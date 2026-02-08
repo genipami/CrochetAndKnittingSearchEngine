@@ -1,25 +1,25 @@
 {
   "id": 7485345,
-  "name": "Easy Vanilla Hat",
+  "name": "easy vanilla hat",
   "permalink": "easy-vanilla-hat",
   "url": "https://www.ravelry.com/patterns/library/easy-vanilla-hat",
   "external_url": "",
-  "designer_name": "Andrea Riddle",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "andrea riddle",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Vientos",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch"
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round"
+    "bottom-up",
+    "in the round"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -27,18 +27,19 @@
     6.0
   ],
   "published": "2025/12/01",
-  "sizes_available": "Adult",
-  "rating_average": 0,
-  "rating_count": null,
-  "difficulty_average": 0,
-  "favorites_count": 260,
-  "projects_count": 15,
+  "sizes_available": "adult",
+  "rating_average": 4.75,
+  "rating_count": 4,
+  "difficulty_average": 1.75,
+  "favorites_count": 282,
+  "projects_count": 16,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/59777/1043163",
+  "notes": "a simple, plain vanilla hat for anyone.  you start with a knit 2, purl 2 rib, then go to plain stockinette in the round and decrease for the top. one size fits most.  easy-smeazy!\r\n\r\nthis is a free pattern.  please purchase your yarn from [the yarn club][1] or your favorite lys.\r\n\r\n\r\n  [1]: https://yarnclubknits.com/collections/bulky/products/vientos",
   "pdf": {
     "filename": "7485345.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7485345.pdf",
-    "url": "https://pdf.ravelrycache.com/TheYarnClub/2102211/Easy_Vanilla_Hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480039&Signature=2BkrTzbZgmKzybBiePhoUrglZiQ%3D&key_expires=1768480039&key=F2d5J8B1u5NEU8dk1jME0w",
+    "url": "https://pdf.ravelrycache.com/TheYarnClub/2102211/Easy_Vanilla_Hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770424641&Signature=X1%2FopWizkudlaXaOgo3gKTiJuXw%3D&key_expires=1770424641&key=wN8JIZUyL1wL4b6N_8pXVg",
     "size_bytes": 251777
   }
 }

@@ -1,46 +1,47 @@
 {
   "id": 727188,
-  "name": "The Austin Socks",
+  "name": "the austin socks",
   "permalink": "the-austin-socks",
   "url": "https://www.ravelry.com/patterns/library/the-austin-socks",
   "external_url": "",
-  "designer_name": "Crazy Sock Lady Designs",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "crazy sock lady designs",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Pure BFL",
-      "pct": null
+      "fiber": "Bluefaced Leicester (BFL) (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Kitchener stitch",
-    "Top-down",
-    "Written"
+    "in the round",
+    "kitchener stitch",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.25
   ],
   "published": "2017/02/01",
-  "sizes_available": "Small, Medium, Large",
-  "rating_average": 4.899159663865547,
-  "rating_count": 238,
-  "difficulty_average": 2.330316742081448,
-  "favorites_count": 5365,
-  "projects_count": 918,
+  "sizes_available": "small, medium, large",
+  "rating_average": 4.9004149377593365,
+  "rating_count": 241,
+  "difficulty_average": 2.3348214285714284,
+  "favorites_count": 5416,
+  "projects_count": 931,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/27467/381694",
+  "notes": "\r\nthese socks were named after my oldest son because of his help in designing the textured pattern. :) this pattern shows off a speckled yarn beautifully but then when done in a solid or tonal really just pops!\r\n\r\nthese socks are top down and has instructions for a heel flap, gusset and my favorite rounded toe.\r\n\r\nsizes available are small, medium and large. \r\n\r\n\r\n\r\n",
   "pdf": {
     "filename": "727188.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\727188.pdf",
-    "url": "https://pdf.ravelrycache.com/thecrazysocklady/673748/The_Austin_Socks.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483568&Signature=jxR82P4vLIzK4SSYgLwOf8OxYaI%3D&key_expires=1768483568&key=yXhcTKT5Gq-WXAwNxWq_rA",
+    "url": "https://pdf.ravelrycache.com/thecrazysocklady/673748/The_Austin_Socks.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770443905&Signature=5SGG109yWNip%2Bv5Vat8NE%2BA5SHE%3D&key_expires=1770443905&key=ioi8gzvk7oMdmYH1s829cA",
     "size_bytes": 594860
   }
 }

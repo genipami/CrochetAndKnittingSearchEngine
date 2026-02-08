@@ -1,22 +1,22 @@
 {
   "id": 7353268,
-  "name": "Olly Octopus",
+  "name": "olly octopus",
   "permalink": "olly-octopus-2",
   "url": "https://www.ravelry.com/patterns/library/olly-octopus-2",
   "external_url": "",
-  "designer_name": "Knots by fi",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Bulky",
+  "designer_name": "knots by fi",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Blanket",
-      "pct": null
+      "fiber": "Polyester (Polyester)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     7.0
@@ -27,14 +27,15 @@
   "rating_average": 5.0,
   "rating_count": 3,
   "difficulty_average": 2.3333333333333335,
-  "favorites_count": 357,
+  "favorites_count": 379,
   "projects_count": 13,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/99233/939559",
+  "notes": "this is a free pattern for a no sew octopus which can be made as a snuggler or a stuffie. \r\n",
   "pdf": {
     "filename": "7353268.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7353268.pdf",
-    "url": "https://pdf.ravelrycache.com/noney1971/1859566/Olly_Octopus___1080_x_1350_px__20240711_135102_0000.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482218&Signature=xVJetTay%2Fz3mYd97mY%2BGbqvHMi0%3D&key_expires=1768482218&key=IZjLhFxxGj9i_P6MygHGnw",
+    "url": "https://pdf.ravelrycache.com/noney1971/1859566/Olly_Octopus___1080_x_1350_px__20240711_135102_0000.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770436049&Signature=ubzus3DQNcLztsqughZ5acK10Ck%3D&key_expires=1770436049&key=v9n6gdsgtZRsjzYBDzX23w",
     "size_bytes": 14996615
   }
 }

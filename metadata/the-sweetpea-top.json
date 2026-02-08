@@ -1,38 +1,39 @@
 {
   "id": 1012874,
-  "name": "The Sweetpea Top",
+  "name": "the sweetpea top",
   "permalink": "the-sweetpea-top",
   "url": "https://www.ravelry.com/patterns/library/the-sweetpea-top",
   "external_url": "https://www.eandpcrochet.com/the-sweetpea-crochet-top/",
-  "designer_name": "Rachel Misner",
-  "project_type": "Tee",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "rachel misner",
+  "project_type": "tee",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Truboo",
-      "pct": null
+      "fiber": "Rayon from Bamboo (Bamboo)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up"
+    "bottom-up"
   ],
   "hook_sizes_mm": [
     4.0
   ],
   "needle_sizes_mm": [],
   "published": "2020/03/01",
-  "sizes_available": "Adult S(M,L,XL,2X,3X,4X,5X)",
+  "sizes_available": "adult s(m,l,xl,2x,3x,4x,5x)",
   "rating_average": 4.661016949152542,
   "rating_count": 59,
   "difficulty_average": 2.462962962962963,
-  "favorites_count": 8382,
-  "projects_count": 237,
+  "favorites_count": 8457,
+  "projects_count": 241,
   "free_ravelry_download": false,
-  "download_url": "http://www.ravelry.com/purchase/rachel-misner-designs/595032"
+  "download_url": "http://www.ravelry.com/purchase/rachel-misner-designs/595032",
+  "notes": "description: the sweetpea top uses a lacy stitch repeat for an airy spring look. it’s perfect for layering over a cami or bralette. the turbo yarn gives it a gorgeous sheen and drape. \r\n\r\nthis pattern is available [free on my blog][1]. click the blog link to view the free pattern. \r\n\r\nthis pattern is available as a [kit through lion brand.][2] it comes with all of the yarn needed + the printed pdf pattern. \r\n\r\n\r\n  [1]: https://www.eandpcrochet.com/?p=1008&preview=true\r\n  [2]: https://shareasale.com/r.cfm?b=1026079&u=1715627&m=72611&urllink=www%2elionbrand%2ecom%2fkits%2fcrochet%2dkit%2dthe%2dsweetpea%2dtop%2ehtml&afftrack=ravelry"
 }

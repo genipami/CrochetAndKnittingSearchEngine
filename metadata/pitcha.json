@@ -1,47 +1,56 @@
 {
   "id": 7489290,
-  "name": "Pitcha",
+  "name": "pitcha",
   "permalink": "pitcha",
   "url": "https://www.ravelry.com/patterns/library/pitcha",
   "external_url": "",
   "designer_name": "nathalie denys",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Halo",
-      "pct": null
+      "fiber": "Bluefaced Leicester (BFL) (Wool)",
+      "pct": 37.5
     },
     {
-      "fiber": "Orion",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 36.0
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 14.0
+    },
+    {
+      "fiber": "Masham / Massam (Wool)",
+      "pct": 12.5
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "lace",
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Charted",
-    "Lace",
-    "Seamless",
-    "Written"
+    "blocking",
+    "charted",
+    "lace",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     5.0
   ],
   "published": "2025/12/01",
-  "sizes_available": "One size",
+  "sizes_available": "one size",
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 1593,
-  "projects_count": 16,
+  "favorites_count": 1703,
+  "projects_count": 26,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/24910/1046352"
+  "download_url": "http://www.ravelry.com/dls/24910/1046352",
+  "notes": "> english below\r\n\r\n**pitcha** est un petit châle symétrique tricoté en combinant un brin de laine fingering et un brin de laine lace. \r\nil se tricote en aller-retour de gauche à droite. \r\nj’ai voulu imaginer un châle rapide et facile à réaliser mais qui serait chaud grâce aux laines utilisées et à son point texturé super moelleux. \r\n\r\nle modèle est accessible aux débutant.e.s curieux.ses. les explications sont données sous forme de diagrammes ou écrites rang par rang.\r\n\r\n**laine**\r\nle châle se tricote avec un mélange de 2 fils tenus ensemble: 1 fil de type fingering et 1 fil de type lace (mohair et soie) ou approximativement 370m / 400y de chacun des 2 fils. il peut également être tricoté avec un seul fil de dk.\r\n\r\nle modèle présenté a été tricoté avec 1 écheveau de bynightcreations orion (75% bluefaced leicester - 25% mid-brown masham – \r\n100 g/400 m/440 y) coloris cochenille b3  et 1 écheveau de bynightcreations halo (72% superkid mohair / 28% soie de mûrier - 50g/420m/460y) coloris cachou-cochenille.\r\n\r\n**taille**\r\nlargeur: 160cm / 63\" - hauteur: 35cm / 13\"\r\n\r\n**aiguilles** \r\n5mm / us #8 \r\n\r\n**autres** \r\n2 anneaux marqueur, aiguille à laine, ciseaux et épingles pour la mise en forme \r\n\r\n**echantillon**  \r\n18 m. x 24 rangs = 10 cm / 4” en jersey endroit après blocage  \r\n21 m. x 24 rangs = 10 cm / 4” en point texturé non bloqué  \r\n18 m. x 24 rangs = 10 cm / 4” en point texturé après blocage  \r\n\r\nle modèle présenté n’a pas été bloqué. \r\n*je remercie florence (folfloche) pour sa disponibilité et son oeil averti.*\r\n\r\n----------------------\r\n**pitcha** is a small symmetric shawl knitted holding one strand of fingering-type yarn together with one strand of lace-type yarn. it is worked in one piece, back and forth from left to right. \r\n\r\nwith this design, i meant to create a shawl fast and easy to make but nicely warm thanks to the yarns used and its textured pattern.\r\n \r\nthe pattern is accessible to curious beginners. instructions are both on charts and written row by row.\r\n\r\n**yarns**\r\nthis shawl is knitted holding 2 yarns together: 1 fingering-type yarn \r\nand 1 lace-type yarn (mohair and silk) or approximatively 370m / 400y \r\nof each yarn. you can also knit it with one strand of dk-weight yarn.\r\n\r\nsample was knitted using 1 skein of bynightcreations orion (75% bluefaced leicester - 25% mid-brown masham – 100 g/400 m/440 y) colorway cochenille b3 and 1 skein of bynightcreations halo (72% superkid mohair / 28% mulberry silk - 50g/420m/460y) colorway cachou / cochenille.\r\n\r\n**size**\r\nwidth: 160cm / 63\" - height: 35cm / 13\"\r\n\r\n\r\n**needles** \r\n5mm / us #8 \r\n\r\n**notions** \r\n2 stitch markers, scissors, darning needle and pins for blocking \r\n\r\n**gauge**  \r\n18 sts. x 24 rows = 10 cm / 4” in stockinette stitch after blocking\r\n21 sts. x 24 rows = 10 cm / 4” in textured pattern not blocked\r\n18 sts. x 24 rows = 10 cm / 4” in textured pattern after blocking\r\n\r\nfeatured sample has not been blocked.\r\n*a huge thank to florence (folfloche) for her help.*"
 }

@@ -1,21 +1,25 @@
 {
   "id": 1085457,
-  "name": "Jenna Beanie",
+  "name": "jenna beanie",
   "permalink": "jenna-beanie",
   "url": "https://www.ravelry.com/patterns/library/jenna-beanie",
   "external_url": "https://crochetdreamz.com/diy-crochet-hat/",
-  "designer_name": "CrochetDreamz",
-  "project_type": "Child",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Bulky",
+  "designer_name": "crochetdreamz",
+  "project_type": "child",
+  "fiber_art": "crochet",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Cozy Wool",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 50.0
+    },
+    {
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 50.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)"
+    "single crochet (sc)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [
@@ -24,12 +28,13 @@
   ],
   "needle_sizes_mm": [],
   "published": "2020/11/01",
-  "sizes_available": "Toddler, Child, Adult Small, Adult Large",
+  "sizes_available": "toddler, child, adult small, adult large",
   "rating_average": 4.555555555555555,
   "rating_count": 36,
   "difficulty_average": 2.5714285714285716,
-  "favorites_count": 3304,
-  "projects_count": 148,
+  "favorites_count": 3333,
+  "projects_count": 149,
   "free_ravelry_download": false,
-  "download_url": "http://www.ravelry.com/purchase/crochet-dreamz/653781"
+  "download_url": "http://www.ravelry.com/purchase/crochet-dreamz/653781",
+  "notes": "\r\n> this pattern is also available for\r\n> free on my blog. the downloadable pdf\r\n> listed for sale contains the full\r\n> pattern in one printable file without\r\n> advertisements.\r\n\r\nthis hat pattern matches my 1.5 hour scarf made from the same stitch and takes only around 1 hour. "
 }

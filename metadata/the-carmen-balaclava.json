@@ -1,46 +1,51 @@
 {
   "id": 7386135,
-  "name": "The Carmen Balaclava",
+  "name": "the carmen balaclava",
   "permalink": "the-carmen-balaclava",
   "url": "https://www.ravelry.com/patterns/library/the-carmen-balaclava",
   "external_url": "",
-  "designer_name": "Paula On Knits",
-  "project_type": "Other",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "paula on knits",
+  "project_type": "other",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "DROPS Daisy",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 50.0
     },
     {
-      "fiber": "DROPS Kid-Silk",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 37.5
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 12.5
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     8.0
   ],
   "published": null,
-  "sizes_available": "One Size",
-  "rating_average": 4.622222222222222,
-  "rating_count": 45,
-  "difficulty_average": 2.142857142857143,
-  "favorites_count": 4859,
-  "projects_count": 259,
+  "sizes_available": "one size",
+  "rating_average": 4.535714285714286,
+  "rating_count": 56,
+  "difficulty_average": 2.2264150943396226,
+  "favorites_count": 5376,
+  "projects_count": 299,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/105561/965751",
+  "notes": "the carmen balaclava is knit from top to bottom, starting flat and then transitioning to the round. the first section is a rectangular top, from which the main body of the balaclava is shaped. the sample shown is knit using drops daisy in red, combined with drops kid silk in red for a softer finish.",
   "pdf": {
     "filename": "7386135.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7386135.pdf",
-    "url": "https://pdf.ravelrycache.com/paulaonknits/1929750/Carmen_balaclava.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483587&Signature=ElP%2Bk9E0Y93KXy4LXrdai8fpf4k%3D&key_expires=1768483587&key=jIY_FZYuRUtIh2nOz3IcmA",
+    "url": "https://pdf.ravelrycache.com/paulaonknits/1929750/Carmen_balaclava.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770443966&Signature=Ds8Qy95Ji%2BQBbx%2Bw6Iv0F4umtSs%3D&key_expires=1770443966&key=Ntv1J64yIjYssCVkbHHniw",
     "size_bytes": 1150088
   }
 }

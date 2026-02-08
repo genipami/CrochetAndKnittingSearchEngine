@@ -1,48 +1,45 @@
 {
   "id": 1229167,
-  "name": "Granny Balaclava Evolution",
+  "name": "granny balaclava evolution",
   "permalink": "granny-balaclava-evolution",
   "url": "https://www.ravelry.com/patterns/library/granny-balaclava-evolution",
   "external_url": "",
-  "designer_name": "Raffaella Invernizzi",
-  "project_type": "Hat",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "raffaella invernizzi",
+  "project_type": "hat",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Gelsomino",
-      "pct": null
-    },
-    {
-      "fiber": "Perfetto Tweed",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Granny",
-    "Single crochet (sc)"
+    "double crochet (dc)",
+    "granny",
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     4.5
   ],
   "needle_sizes_mm": [],
   "published": "2022/03/01",
-  "sizes_available": "Adult",
+  "sizes_available": "adult",
   "rating_average": 4.875,
   "rating_count": 8,
   "difficulty_average": 2.142857142857143,
-  "favorites_count": 1642,
-  "projects_count": 50,
+  "favorites_count": 1670,
+  "projects_count": 51,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/92831/768638",
+  "notes": "i used dk weight acrylic yarn in many different colors, but you can choose the kind of dk yarn you like most. you can change colors in every round or use just one color, there aren’t rules. i’ve used 105 gr - 315 meters – 344 yards. it’s ok to use a worsted yarn too.\r\n\r\n4,5 mm hook or any hooks to meet the gauge\r\n\r\nneedle\r\nscissors\r\ntape measure\r\nstitch markers\r\n\r\npattern is written in us crochet terms\r\n\r\n10 cm x 10 cm/ 4’’ x 4’’ = 8 rows \r\nch 18\r\nrow 1: dc in the second ch from hook – dc (17 st)\r\nrow 2: ch 2 – turn – dc until the end of the row (17 st)\r\nrow 3-8: repeat row 2 until you’ll have 8 rows (17 st)\r\n\r\nthe side of each square measures 15cm – 6’’\r\n",
   "pdf": {
     "filename": "1229167.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1229167.pdf",
-    "url": "https://pdf.ravelrycache.com/raincrochetplus/1472589/Granny_Balaclava_Evolution.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480691&Signature=knprf5M3X6knBNfiT6b9XJy%2BaPA%3D&key_expires=1768480691&key=5nqMDFGOoqxLbDeP73NajA",
+    "url": "https://pdf.ravelrycache.com/raincrochetplus/1472589/Granny_Balaclava_Evolution.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770427887&Signature=KJzCSMsIEx1Aka4mjbvOVT6gtQ4%3D&key_expires=1770427887&key=ugk6geuLkxL-FKqB8Gwh_Q",
     "size_bytes": 1173281
   }
 }

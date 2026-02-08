@@ -1,30 +1,30 @@
 {
   "id": 1187086,
-  "name": "Ronja",
+  "name": "ronja",
   "permalink": "ronja-6",
   "url": "https://www.ravelry.com/patterns/library/ronja-6",
   "external_url": "https://knitrowan.com/en/products/zb306-ronja",
-  "designer_name": "Arne & Carlos",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "arne & carlos",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Norwegian Wool",
-      "pct": null
+      "fiber": "Norwegian (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Ribbing",
-    "Stockinette stitch"
+    "ribbing",
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Charted",
-    "In the round",
-    "Seamless",
-    "Stranded colorwork",
-    "Written"
+    "bottom-up",
+    "charted",
+    "in the round",
+    "seamless",
+    "stranded colorwork",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -32,18 +32,19 @@
     3.75
   ],
   "published": "2021/10/01",
-  "sizes_available": "One size - as noted below",
-  "rating_average": 4.596774193548387,
-  "rating_count": 62,
-  "difficulty_average": 2.875,
-  "favorites_count": 3167,
-  "projects_count": 256,
+  "sizes_available": "one size - as noted below",
+  "rating_average": 4.587301587301587,
+  "rating_count": 63,
+  "difficulty_average": 2.9473684210526314,
+  "favorites_count": 3269,
+  "projects_count": 264,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/35810/734221",
+  "notes": "you will need a size us 2.5 (3.0 mm) circular needle, no longer than 16\" (40 cm) or a set of double pointed needles in this size. \r\n\r\nyou will also need a set of double pointed nttedles in size us 5 (3.75 mm) \r\n\r\nfinished measurements: 19\" (48 cm) in circumference, 7.75\"(20 cm) high above eye opening and the ribbing measures 10.5\" (27 cm) long.\r\n\r\nshown in two colourways -\r\n\r\nyarn used:\r\nrowan selects norwegian wool\r\n\r\ncolourway a.\r\na. 014 cloud dancer - 2 balls\r\nb. 012 golden nugget - 1 ball\r\nc. 018 ribbon red - 1 ball\r\nd. 011 daphne - 1 ball\r\n\r\ncolourway b.\r\na. 019 peat - 2 balls\r\nb. 014 cloud dancer - 1 ball\r\nc. 011 daphne - 1 ball\r\nd. 010 wind chimes - 1 ball \r\n",
   "pdf": {
     "filename": "1187086.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1187086.pdf",
-    "url": "https://pdf.ravelrycache.com/LindaKnitter/1398631/ZB306-00004-ENP-Ronja.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482748&Signature=mzfoQEcvrslsSr0awCJzsgAxmPw%3D&key_expires=1768482748&key=mMQRqYEpP0F5my5M411DRQ",
+    "url": "https://pdf.ravelrycache.com/LindaKnitter/1398631/ZB306-00004-ENP-Ronja.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770439039&Signature=5agjuczCKBNcZ83jhLrJRfQrNeA%3D&key_expires=1770439039&key=OGiPwaGsjpy4GSkU4-73Ug",
     "size_bytes": 770762
   }
 }

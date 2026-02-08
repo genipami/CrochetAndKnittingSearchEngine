@@ -1,26 +1,30 @@
 {
   "id": 29717,
-  "name": "Sunny Baby Blanket",
+  "name": "sunny baby blanket",
   "permalink": "sunny-baby-blanket",
   "url": "https://www.ravelry.com/patterns/library/sunny-baby-blanket",
   "external_url": "https://lifestyle.howstuffworks.com/crafts/knitting/free-knitting-patterns-for-baby-blankets2.htm",
-  "designer_name": "Lucie Sinkler",
-  "project_type": "Blanket",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "lucie sinkler",
+  "project_type": "blanket",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Encore Worsted Solids & Heathers",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -28,11 +32,12 @@
   ],
   "published": null,
   "sizes_available": "30.25\" x 34\"",
-  "rating_average": 4.576456310679611,
-  "rating_count": 1648,
-  "difficulty_average": 1.7283142389525368,
-  "favorites_count": 35749,
-  "projects_count": 5787,
+  "rating_average": 4.576969696969697,
+  "rating_count": 1650,
+  "difficulty_average": 1.727917121046892,
+  "favorites_count": 35948,
+  "projects_count": 5806,
   "free_ravelry_download": false,
-  "download_url": "https://lifestyle.howstuffworks.com/crafts/knitting/free-knitting-patterns-for-baby-blankets2.htm"
+  "download_url": "https://lifestyle.howstuffworks.com/crafts/knitting/free-knitting-patterns-for-baby-blankets2.htm",
+  "notes": "**from the pattern description:** *of course this blanket can be knit in any color you please, but bright yellow brings an extra spark of joy and light. a pretty textured pattern makes it even livelier. the more you wash this yarn, the softer it gets.*\r\n\r\n29\" circular needle recommended in pattern instructions.  blanket is knit flat.\r\n\r\n**finished size:** 30-1/2 x 34\" (77.5x86.5cm)"
 }

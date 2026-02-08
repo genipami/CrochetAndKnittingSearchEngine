@@ -1,27 +1,31 @@
 {
   "id": 7372581,
-  "name": "53 Row Hat",
+  "name": "53 row hat",
   "permalink": "53-row-hat",
   "url": "https://www.ravelry.com/patterns/library/53-row-hat",
   "external_url": "",
-  "designer_name": "Madelyn Santa",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "madelyn santa",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Alpachino Merino",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 60.0
+    },
+    {
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 40.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -33,14 +37,15 @@
   "rating_average": 4.636363636363637,
   "rating_count": 11,
   "difficulty_average": 2.272727272727273,
-  "favorites_count": 1069,
-  "projects_count": 38,
+  "favorites_count": 1076,
+  "projects_count": 37,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/107907/954372",
+  "notes": "this super cool and cozy hat is incredibly easy to knit. it features simple striped color blocks in stockinette stitch, with straightforward decreases to shape the top. \r\n\r\nwith its chunky gauge, it knits up quickly, making it perfect for a fast gift or a satisfying project for beginners!\r\n\r\n**yarn**\r\n\r\n120g ± 130 yd of chunky weight yarn\r\n*the estimated yardage for each color includes 5g of extra\r\n\r\na 50g ± 60 yd\r\nb 33g ± 37 yd\r\nc 10g ± 11 yd\r\nd 25g ± 28 yd\r\n\r\ninterested in a yarn kit? knits and pieces of annapolis is selling kitted striped cakes of yarn, wound with the amounts of yarn needed for each block of color, just begin knitting with the outside end! check it out [here][1]\r\n\r\n\r\n  [1]: https://www.knitsandpiecesofannapolis.com/shop/yarn-kits/p/53-row-hat-kit-x85702879.htm",
   "pdf": {
     "filename": "7372581.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7372581.pdf",
-    "url": "https://pdf.ravelrycache.com/madelynsanta/1893995/53Rows_HatPattern_KnitsandPieces.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478577&Signature=eJucdIvee%2FotB8k3VtWnh3gqA44%3D&key_expires=1768478577&key=K-3zN70swWlGPPg8HELzUA",
+    "url": "https://pdf.ravelrycache.com/madelynsanta/1893995/53Rows_HatPattern_KnitsandPieces.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770416156&Signature=K2n7NPOwqG70fggsx0qvAZiDV9I%3D&key_expires=1770416156&key=iNcr_KO-J_8ZAAYxUzwJfQ",
     "size_bytes": 74393
   }
 }

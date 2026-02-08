@@ -1,41 +1,42 @@
 {
   "id": 952284,
-  "name": "Woven cable headband",
+  "name": "woven cable headband",
   "permalink": "woven-cable-headband",
   "url": "https://www.ravelry.com/patterns/library/woven-cable-headband",
   "external_url": "https://www.ericaandeleanor.com/post/woven-cable-headband-by-priscillia-uloho",
-  "designer_name": "Priscillia Uloho",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "priscillia uloho",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Simply Aran",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "cable",
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Cables",
-    "Seamed",
-    "Written"
+    "cables",
+    "seamed",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     5.0
   ],
   "published": "2019/08/01",
-  "sizes_available": "Adult",
-  "rating_average": 4.8602484472049685,
-  "rating_count": 644,
-  "difficulty_average": 2.608264462809917,
-  "favorites_count": 26579,
-  "projects_count": 2814,
+  "sizes_available": "adult",
+  "rating_average": 4.862595419847328,
+  "rating_count": 655,
+  "difficulty_average": 2.621138211382114,
+  "favorites_count": 26765,
+  "projects_count": 2845,
   "free_ravelry_download": false,
-  "download_url": "https://www.ericaandeleanor.com/post/woven-cable-headband-by-priscillia-uloho"
+  "download_url": "https://www.ericaandeleanor.com/post/woven-cable-headband-by-priscillia-uloho",
+  "notes": "lovely knitted headband knitted flat and seamed.\r\n\r\nsize: adult\r\n\r\nskill level: intermediate\r\n\r\n**now available in french thanks to maud**\r\nhttps://bingetricot.com/2020/11/23/woven-cable-headband-priscillia-uloho-modele-tricot-francais/\r\n\r\n**now available in italian thanks to lisa of crochetromance**. https://www.filatiromance.com/smartblog/39/fascia-multitreccia--schema-scritto.html\r\n\r\n**also available in german thanks to sarah (spreepiratin)**\r\n\r\n**now available in danish, thanks to marianneho\r\n\r\n** now available in spanish, thanks to maya dols**\r\n\r\n**note: you can sell finished items made from this pattern but please do not resell the pattern. thank you! "
 }

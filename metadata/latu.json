@@ -1,32 +1,32 @@
 {
   "id": 544863,
-  "name": "Latu",
+  "name": "latu",
   "permalink": "latu",
   "url": "https://www.ravelry.com/patterns/library/latu",
   "external_url": "http://meijunoma.blogspot.com",
-  "designer_name": "Meiju Kallio",
-  "project_type": "Child",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "meiju kallio",
+  "project_type": "child",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Cusco",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "cable",
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Cables",
-    "Charted",
-    "In the round",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "cables",
+    "charted",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -34,12 +34,13 @@
     5.0
   ],
   "published": "2014/12/01",
-  "sizes_available": "XS(S, M, L) Fits to 6 months old(1-2 yrs old, 3-6 yrs old, adult)/head circumference: ~18(~20, ~21, ~23)”/~46(~50, ~54, ~58)cm",
+  "sizes_available": "xs(s, m, l) fits to 6 months old(1-2 yrs old, 3-6 yrs old, adult)/head circumference: ~18(~20, ~21, ~23)”/~46(~50, ~54, ~58)cm",
   "rating_average": 4.686224489795919,
   "rating_count": 392,
   "difficulty_average": 1.9592875318066159,
-  "favorites_count": 10236,
-  "projects_count": 1393,
+  "favorites_count": 10253,
+  "projects_count": 1397,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/23848/250126"
+  "download_url": "http://www.ravelry.com/dls/23848/250126",
+  "notes": "slouchy beanie pattern, sized from baby to adult with a little cable detail. pattern includes charts and written pattern.\r\n\r\nohje myös suomeksi!\r\n\r\ndanish translation available [here][1].\r\n\r\n\r\n\r\nmaterials: \r\nyarn: \r\nlamana cusco (100% alpaca), 2 skeins; 50g/93yds/85m per skein. \r\nor\r\nany other dk-weight yarn to achieve the correct gauge.\r\nneedles: \r\nus 8 (5 mm) 16”/40 cm circular needle. \r\nus 6 (4 mm) 16”/40 cm circular needle. \r\nadjust the needle size to get the correct gauge. \r\nother: \r\ncable needle, tapestry needle, stitch marker.\r\n\r\n\r\n  [1]: http://strikkeglad.dk/4296/latu-hue/"
 }

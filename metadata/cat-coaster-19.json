@@ -1,23 +1,23 @@
 {
   "id": 7464540,
-  "name": "Cat Coaster",
+  "name": "cat coaster",
   "permalink": "cat-coaster-19",
   "url": "https://www.ravelry.com/patterns/library/cat-coaster-19",
   "external_url": "https://www.stitchbyfay.com/crochet-cat-coaster-pattern/",
-  "designer_name": "Fay Lyth",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "fay lyth",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Cotton Aran",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     3.5
@@ -25,11 +25,12 @@
   "needle_sizes_mm": [],
   "published": "2025/09/01",
   "sizes_available": "",
-  "rating_average": 0,
-  "rating_count": null,
+  "rating_average": 5.0,
+  "rating_count": 3,
   "difficulty_average": 0,
-  "favorites_count": 645,
-  "projects_count": 21,
+  "favorites_count": 725,
+  "projects_count": 23,
   "free_ravelry_download": false,
-  "download_url": "https://www.stitchbyfay.com/crochet-cat-coaster-pattern/"
+  "download_url": "https://www.stitchbyfay.com/crochet-cat-coaster-pattern/",
+  "notes": ""
 }

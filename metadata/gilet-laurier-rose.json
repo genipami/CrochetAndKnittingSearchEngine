@@ -1,17 +1,25 @@
 {
   "id": 7314683,
-  "name": "Gilet Laurier (rose)",
+  "name": "gilet laurier (rose)",
   "permalink": "gilet-laurier-rose",
   "url": "https://www.ravelry.com/patterns/library/gilet-laurier-rose",
   "external_url": "https://youtu.be/zjinXy0EiUo",
-  "designer_name": "Stéphanie L",
-  "project_type": "Cardigan",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "stéphanie l",
+  "project_type": "cardigan",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "DROPS Air",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 65.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 28.0
+    },
+    {
+      "fiber": "Merino (Merino)",
+      "pct": 7.0
     }
   ],
   "stitches_used": [],
@@ -22,12 +30,13 @@
     7.0
   ],
   "published": "2024/02/01",
-  "sizes_available": "S à XXL",
-  "rating_average": 4.841269841269841,
-  "rating_count": 63,
-  "difficulty_average": 2.25,
-  "favorites_count": 2960,
-  "projects_count": 221,
+  "sizes_available": "s à xxl",
+  "rating_average": 4.838235294117647,
+  "rating_count": 68,
+  "difficulty_average": 2.2641509433962264,
+  "favorites_count": 3089,
+  "projects_count": 235,
   "free_ravelry_download": false,
-  "download_url": "https://youtu.be/zjinXy0EiUo"
+  "download_url": "https://youtu.be/zjinXy0EiUo",
+  "notes": "modèle disponible gratuitement sur ma chaîne youtube en tutoriel vidéo pas à pas \r\n\r\nhttps://youtu.be/zjinxy0eiuo"
 }

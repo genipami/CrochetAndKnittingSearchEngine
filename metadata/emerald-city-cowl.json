@@ -1,17 +1,25 @@
 {
   "id": 7430181,
-  "name": "Emerald City Cowl",
+  "name": "emerald city cowl",
   "permalink": "emerald-city-cowl",
   "url": "https://www.ravelry.com/patterns/library/emerald-city-cowl",
   "external_url": "",
-  "designer_name": "Wendee Shulsen",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "wendee shulsen",
+  "project_type": "shawl/wrap",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Cashual DK",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Cashmere goat (Cashmere)",
+      "pct": 10.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [],
@@ -22,17 +30,18 @@
   "needle_sizes_mm": [],
   "published": "2025/05/01",
   "sizes_available": "one size",
-  "rating_average": 0,
-  "rating_count": null,
-  "difficulty_average": 0,
-  "favorites_count": 70,
-  "projects_count": 8,
+  "rating_average": 5.0,
+  "rating_count": 3,
+  "difficulty_average": 1.3333333333333333,
+  "favorites_count": 82,
+  "projects_count": 9,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/15634/1000340",
+  "notes": "designed for 2025 puget sound lys tour. pattern will be available when tour starts, may 14, 2025.\r\n\r\nfree with coupon code, picked up in store during tour. \r\n",
   "pdf": {
     "filename": "7430181.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7430181.pdf",
-    "url": "https://pdf.ravelrycache.com/hazelknits/2004486/Emerald_City_Cowl.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480097&Signature=etP7lcjfenQHCe91ebNuQYasJ%2Fc%3D&key_expires=1768480097&key=TbSG312BgsosOliJLHrlYQ",
+    "url": "https://pdf.ravelrycache.com/hazelknits/2004486/Emerald_City_Cowl.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770424989&Signature=5exDOm9U%2BnbSEo9Jtvj1QsyWxFs%3D&key_expires=1770424989&key=V9IiJKa2CDce96HHI6KZ1Q",
     "size_bytes": 25540346
   }
 }

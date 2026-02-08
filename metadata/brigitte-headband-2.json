@@ -1,26 +1,26 @@
 {
   "id": 7394772,
-  "name": "Brigitte Headband",
+  "name": "brigitte headband",
   "permalink": "brigitte-headband-2",
   "url": "https://www.ravelry.com/patterns/library/brigitte-headband-2",
   "external_url": "https://www.starcrossedknits.com/patterns/p/brigitte-headband",
-  "designer_name": "Tamara Jordan",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "tamara jordan",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Swish Worsted",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamed"
+    "seamed"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -28,17 +28,18 @@
   ],
   "published": "2024/12/01",
   "sizes_available": "2.5\" wide, customizable length",
-  "rating_average": 4.793103448275862,
-  "rating_count": 29,
-  "difficulty_average": 1.6451612903225807,
-  "favorites_count": 1451,
-  "projects_count": 159,
+  "rating_average": 4.842105263157895,
+  "rating_count": 38,
+  "difficulty_average": 1.8717948717948718,
+  "favorites_count": 1629,
+  "projects_count": 193,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/95498/973062",
+  "notes": "an easy, quick, double-thick headband to keep your ears warm with a little bit of 1960s cool-girl charm. this project will help you learn (or practice): casting on, double-knitting, casting off, and seaming. these headbands make a great scrap yarn project or a quick gift!\r\n\r\nthis pattern comes with a step-by-step video tutorial.\r\n\r\nneedles & tools\r\n• us 8 (5 mm) knitting needles (you can use flat or circular)\r\n• tapestry needle for seaming\r\n\r\ngauge\r\n• 20st & 26 rows in a 4” (10cm) swatch\r\n\r\nyarn\r\n• knit picks swish worsted, or substitute for another worsted weight yarn: ~35 yards (32 meters)\r\n\r\nmeasurements\r\n• 2.5” (6.5 cm) wide\r\n• 20” (51 cm) length -- or custom length based on your own head circumference",
   "pdf": {
     "filename": "7394772.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7394772.pdf",
-    "url": "https://pdf.ravelrycache.com/starcrossedknits/1935921/Brigitte_Headband.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479226&Signature=F%2Bx9%2Fxeh5JGeRibtZtId3D8QfE4%3D&key_expires=1768479226&key=4vL77akfsUrMeq-jl0eWIw",
+    "url": "https://pdf.ravelrycache.com/starcrossedknits/1935921/Brigitte_Headband.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770419762&Signature=bpRwbKG8Pd1NuhUb9pHyjy2jxxg%3D&key_expires=1770419762&key=UT37NbAsLcyZ4n4neBURuA",
     "size_bytes": 2646068
   }
 }

@@ -1,12 +1,12 @@
 {
   "id": 7450169,
-  "name": "Slinky Snake",
+  "name": "slinky snake",
   "permalink": "slinky-snake-2",
   "url": "https://www.ravelry.com/patterns/library/slinky-snake-2",
   "external_url": "",
-  "designer_name": "Carrey Reynolds",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
+  "designer_name": "carrey reynolds",
+  "project_type": "toys",
+  "fiber_art": "crochet",
   "yarn_weight": null,
   "materials": [
     {
@@ -15,12 +15,12 @@
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Half double crochet (hdc)",
-    "Single crochet (sc)"
+    "double crochet (dc)",
+    "half double crochet (hdc)",
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     3.75,
@@ -32,14 +32,15 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 65,
+  "favorites_count": 73,
   "projects_count": 13,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/45886/1015471",
+  "notes": "slinky snake works up fairly quick with minimal sewing, minimal stuffing, and the color options are endless! \r\nhe/she looks great in any color, especially in the variegated colors with his curly body.\r\nsafety eyes are optional, but do recommend embroidering the eyes for little ones under the age of 3.\r\n\r\nfollowing pattern - measures approx 20-22\"\r\nsuper easy to adapt for a longer, shorter, smaller or larger verison\r\n\r\nuses basic stitches - sc, hdc, dc, slst, ch, inc, dec",
   "pdf": {
     "filename": "7450169.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7450169.pdf",
-    "url": "https://pdf.ravelrycache.com/MixedKreations/2037392/MixedKreations_-_Slinky_Snake.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483098&Signature=UEZhPGVNIvhFohNZH%2Fp4%2BGf5oEA%3D&key_expires=1768483098&key=jCoy3VUoJkPEtEcDnPzdow",
+    "url": "https://pdf.ravelrycache.com/MixedKreations/2037392/MixedKreations_-_Slinky_Snake.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770441081&Signature=sc2wZU6PBMPiu4wLL%2BV3sLBEr3A%3D&key_expires=1770441081&key=jUZ9yd8ZaxEEZ0jn0b2G0Q",
     "size_bytes": 1396878
   }
 }

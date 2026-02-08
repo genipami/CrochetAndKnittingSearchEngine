@@ -1,25 +1,25 @@
 {
   "id": 1273215,
-  "name": "Pumpkin",
+  "name": "pumpkin",
   "permalink": "pumpkin-68",
   "url": "https://www.ravelry.com/patterns/library/pumpkin-68",
   "external_url": "https://naztazia.com/crochet-pumpkin/",
-  "designer_name": "Naztazia",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "naztazia",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "100% Acrylic",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)"
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "Seamed",
-    "Written"
+    "seamed",
+    "written"
   ],
   "hook_sizes_mm": [
     4.0
@@ -30,8 +30,9 @@
   "rating_average": 4.666666666666667,
   "rating_count": 6,
   "difficulty_average": 1.8,
-  "favorites_count": 1037,
+  "favorites_count": 1043,
   "projects_count": 44,
   "free_ravelry_download": false,
-  "download_url": "https://naztazia.com/crochet-pumpkin/"
+  "download_url": "https://naztazia.com/crochet-pumpkin/",
+  "notes": "this crochet pumpkin works up fast and easy. it is made flat, then cinched together along the top and bottom edges to create a pumpkin shape. then the pumpkin is filled with polyester fiber. finally, a stem and other decorative items are added.\r\n\r\nthere is a step-by-step tutorial for this pattern. enjoy!"
 }

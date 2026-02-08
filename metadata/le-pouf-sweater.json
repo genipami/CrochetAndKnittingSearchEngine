@@ -1,41 +1,46 @@
 {
   "id": 977413,
-  "name": "Le Pouf Sweater",
+  "name": "le pouf sweater",
   "permalink": "le-pouf-sweater",
   "url": "https://www.ravelry.com/patterns/library/le-pouf-sweater",
   "external_url": "https://shop.hedgehogfibres.com/collections/patterns/products/le-pouf-sweater",
-  "designer_name": "Beata Jezek",
-  "project_type": "Pullover",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "beata jezek",
+  "project_type": "pullover",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Sock",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 90.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "lace",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Lace",
-    "Seamless",
-    "Top-down"
+    "in the round",
+    "lace",
+    "seamless",
+    "top-down"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     4.0
   ],
   "published": "2019/11/01",
-  "sizes_available": " XS [S, M, L, XL] [2XL, 3XL, 4XL, 5XL]",
-  "rating_average": 4.689655172413793,
-  "rating_count": 203,
-  "difficulty_average": 2.763157894736842,
-  "favorites_count": 17576,
-  "projects_count": 848,
+  "sizes_available": " xs [s, m, l, xl] [2xl, 3xl, 4xl, 5xl]",
+  "rating_average": 4.692682926829268,
+  "rating_count": 205,
+  "difficulty_average": 2.7604166666666665,
+  "favorites_count": 17752,
+  "projects_count": 853,
   "free_ravelry_download": false,
-  "download_url": "https://shop.hedgehogfibres.com/collections/patterns/products/le-pouf-sweater"
+  "download_url": "https://shop.hedgehogfibres.com/collections/patterns/products/le-pouf-sweater",
+  "notes": "simple top down stockinette sweater, that let’s you get creative with your yarns! find an awesome combination of colours that makes you happy!\r\n\r\nthis is achieved by starting with two strands of colour a, then you will drop one strand of a and replace it with one strand of b. after that, two strands of colour b and so on. there is no striping with this technique and marling creates a softer transition.\r\n\r\n"
 }

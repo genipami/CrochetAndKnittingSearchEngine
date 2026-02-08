@@ -1,41 +1,46 @@
 {
   "id": 819526,
-  "name": "Classic Cabled Hat and Mittens",
+  "name": "classic cabled hat and mittens",
   "permalink": "classic-cabled-hat-and-mittens",
   "url": "https://www.ravelry.com/patterns/library/classic-cabled-hat-and-mittens",
   "external_url": "https://www.kniftyknittings.com/classic-cabled-hat-mittens-free-pattern/",
-  "designer_name": "Destiny Meyer",
-  "project_type": "Mittens/Gloves",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "destiny meyer",
+  "project_type": "mittens/gloves",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Roving",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "cable",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Cables",
-    "Charted",
-    "In the round"
+    "bottom-up",
+    "cables",
+    "charted",
+    "in the round"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     6.5
   ],
   "published": "2018/03/01",
-  "sizes_available": "One – Women’s medium",
-  "rating_average": 4.7421383647798745,
-  "rating_count": 159,
-  "difficulty_average": 2.5306122448979593,
-  "favorites_count": 8573,
-  "projects_count": 643,
+  "sizes_available": "one – women’s medium",
+  "rating_average": 4.745341614906832,
+  "rating_count": 161,
+  "difficulty_average": 2.5472972972972974,
+  "favorites_count": 8641,
+  "projects_count": 652,
   "free_ravelry_download": false,
-  "download_url": "https://www.kniftyknittings.com/classic-cabled-hat-mittens-free-pattern/"
+  "download_url": "https://www.kniftyknittings.com/classic-cabled-hat-mittens-free-pattern/",
+  "notes": "this cozy set features a classic cable pattern with alternating cable sections for added interest. the fold over brim provides a little extra warmth, while allowing for an adjustable fit. please see the included tips & tricks video for help with increases, decreases, cabling with and without a cable needle, and separating the thumb from the body of the mitten.\r\n\r\nthe following video tutorials have been provided for reference:\r\n\r\nhow to use the magic loop method\r\nclassic cabled hat & mittens - tips & tricks\r\nhow to make an xl pom pom\r\n\r\nhappy knitting!"
 }

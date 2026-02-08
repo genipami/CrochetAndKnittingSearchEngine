@@ -1,42 +1,47 @@
 {
   "id": 1176698,
-  "name": "Lovely Ribbed Leg Warmers",
+  "name": "lovely ribbed leg warmers",
   "permalink": "lovely-ribbed-leg-warmers",
   "url": "https://www.ravelry.com/patterns/library/lovely-ribbed-leg-warmers",
   "external_url": "https://www.purlsoho.com/create/2021/09/27/lovely-ribbed-leg-warmers/",
-  "designer_name": "Purl Soho",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "purl soho",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Tussock",
-      "pct": null
+      "fiber": "Falkland (Wool)",
+      "pct": 50.0
     },
     {
-      "fiber": "Wigeon",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 30.0
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.5
   ],
   "published": "2021/09/01",
-  "sizes_available": "For kids and adults to fit calf circumference of 9¼ (10½, 12, 13, 15½, 18) inches in Short and Long lengths",
-  "rating_average": 4.813953488372093,
-  "rating_count": 43,
-  "difficulty_average": 2.236842105263158,
-  "favorites_count": 6853,
-  "projects_count": 344,
+  "sizes_available": "for kids and adults to fit calf circumference of 9¼ (10½, 12, 13, 15½, 18) inches in short and long lengths",
+  "rating_average": 4.826086956521739,
+  "rating_count": 46,
+  "difficulty_average": 2.268292682926829,
+  "favorites_count": 7044,
+  "projects_count": 360,
   "free_ravelry_download": false,
-  "download_url": "https://www.purlsoho.com/create/2021/09/27/lovely-ribbed-leg-warmers/"
+  "download_url": "https://www.purlsoho.com/create/2021/09/27/lovely-ribbed-leg-warmers/",
+  "notes": "materials\r\nyarn a: purl soho’s [wigeon][1], 100% fine falkland merino. each ball is 359 yards/ 100 grams.\r\n\r\n- short version: 1 (1, 2, 2, 3, 3) ball(s); approximately 225 (310, 480, 630, 790, 915) total yards required\r\n- long version: 1 (2, 3, 3, 4, 5) ball(s); approximately 330 (500, 730, 1120, 1465, 1745) total yards required\r\n\r\nyarn b: purl soho’s [tussock][2], 60% super fine kid mohair and 40% silk. each skein is 328 yards/ 25 grams.\r\n\r\n- short version: 1 (1, 2, 2, 3, 3) skein(s); approximately 225 (310, 480, 630, 790, 915 total yards required\r\n- long version: 1 (2, 3, 4, 5, 6) skein(s); approximately 330 (500, 730, 1120, 1465, 1745) total yards required\r\n\r\nyou'll also need...\r\n\r\n- a set of us 4 (3.5 mm) [double pointed needles][3]\r\n\r\ngauge\r\n35 stitches and 33 rounds = 4 inches in 2×2 rib, unstretched, holding a strand of yarns a and b together\r\n\r\nsizes\r\nfor kids and adults to fit calf circumference of 9¼ (10½, 12, 13, 15½, 18) inches in short and long lengths\r\n\r\n- finished circumference at ankle: 5½ (6½, 6¾, 7¾, 9¼, 10½) inches, unstretched\r\n- finished circumference at calf (top of short version): 8¼ (9¼, 10½, 11½, 13¾, 16) inches unstretched\r\n- finished circumference at thigh (top of long version): 10 (11, 12¼, 14¼, 17¼, 20½) inches unstretched\r\n- finished length - short version: 9 (11½, 16, 19, 20, 20) inches\r\n- finished length - long version: 13 (16½, 22, 29½, 32, 32½) inches\r\n\r\ndesigned by purl soho designer, [jake canton][4]. click [here][5] to see even more of jake’s designs!\r\n\r\n\r\n  [1]: https://www.purlsoho.com/wigeon.html\r\n  [2]: https://www.purlsoho.com/tussock.html\r\n  [3]: https://www.purlsoho.com/tools-and-notions/knitting-and-crochet.html?collection_filter=23799\r\n  [4]: https://www.purlsoho.com/create/tag/jake-canton-for-purl-soho/\r\n  [5]: http://www.jakecanton.com/"
 }

@@ -1,39 +1,40 @@
 {
   "id": 452726,
-  "name": "Basic Beanie (single crochet)",
+  "name": "basic beanie (single crochet)",
   "permalink": "basic-beanie-single-crochet",
   "url": "https://www.ravelry.com/patterns/library/basic-beanie-single-crochet",
   "external_url": "http://imhooked25.blogspot.mx/2013/11/basic-beanie-single-crochet_30.html",
-  "designer_name": "Belle Tracy",
-  "project_type": "Child",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "belle tracy",
+  "project_type": "child",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Super Saver (solids)",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)"
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless",
-    "Top-down",
-    "Written"
+    "in the round",
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [
     5.0
   ],
   "needle_sizes_mm": [],
   "published": "2013/12/01",
-  "sizes_available": "All sizes",
+  "sizes_available": "all sizes",
   "rating_average": 4.612903225806452,
   "rating_count": 31,
   "difficulty_average": 1.3870967741935485,
-  "favorites_count": 1714,
+  "favorites_count": 1728,
   "projects_count": 300,
   "free_ravelry_download": false,
-  "download_url": "http://imhooked25.blogspot.mx/2013/11/basic-beanie-single-crochet_30.html"
+  "download_url": "http://imhooked25.blogspot.mx/2013/11/basic-beanie-single-crochet_30.html",
+  "notes": "basic beanie available in all sizes."
 }

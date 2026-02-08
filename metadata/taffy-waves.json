@@ -1,27 +1,27 @@
 {
   "id": 1321265,
-  "name": "Taffy Waves",
+  "name": "taffy waves",
   "permalink": "taffy-waves",
   "url": "https://www.ravelry.com/patterns/library/taffy-waves",
   "external_url": "https://shop.hedgehogfibres.com/collections/patterns/products/taffy-waves",
-  "designer_name": "Beata Jezek",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "beata jezek",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Oh So Fine Merino",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Lace"
+    "garter stitch",
+    "lace"
   ],
   "techniques_used": [
-    "Lace",
-    "Seamless",
-    "Written"
+    "lace",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -29,11 +29,12 @@
   ],
   "published": "2023/03/01",
   "sizes_available": "160cm x 65cm (63 inches x 26 inches)",
-  "rating_average": 4.565217391304348,
-  "rating_count": 23,
+  "rating_average": 4.541666666666667,
+  "rating_count": 24,
   "difficulty_average": 2.6666666666666665,
-  "favorites_count": 2531,
-  "projects_count": 93,
+  "favorites_count": 2552,
+  "projects_count": 94,
   "free_ravelry_download": false,
-  "download_url": "https://shop.hedgehogfibres.com/collections/patterns/products/taffy-waves"
+  "download_url": "https://shop.hedgehogfibres.com/collections/patterns/products/taffy-waves",
+  "notes": "lovely two colour shawl with a beginner friendly lace border. the 'oh so fine' yarn is dreamy soft and is perfect for shawls and accessories that feel luxurious and plush/\r\n\r\nyarn: 2 skeins of hedgehog fibres oh so fine (100% merino, 425m/100g), one colour each. pictured in kelp (a) and taffy (b)."
 }

@@ -1,30 +1,38 @@
 {
   "id": 1239238,
-  "name": "231-57  Blueberry Cream Sweater",
+  "name": "231-57  blueberry cream sweater",
   "permalink": "231-57-blueberry-cream-sweater",
   "url": "https://www.ravelry.com/patterns/library/231-57-blueberry-cream-sweater",
   "external_url": "https://www.garnstudio.com/pattern.php?id=10889&cid=19",
-  "designer_name": "DROPS design",
-  "project_type": "Pullover",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "drops design",
+  "project_type": "pullover",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "DROPS Melody",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 71.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 25.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 4.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Raglan",
-    "Seamless",
-    "Short rows",
-    "Top-down",
-    "Written"
+    "in the round",
+    "raglan",
+    "seamless",
+    "short rows",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -32,12 +40,13 @@
     6.0
   ],
   "published": "2022/05/01",
-  "sizes_available": "S – M – L – XL – XXL – XXXL",
+  "sizes_available": "s – m – l – xl – xxl – xxxl",
   "rating_average": 4.071428571428571,
   "rating_count": 28,
   "difficulty_average": 3.4444444444444446,
-  "favorites_count": 3007,
-  "projects_count": 143,
+  "favorites_count": 3101,
+  "projects_count": 147,
   "free_ravelry_download": false,
-  "download_url": "https://www.garnstudio.com/pattern.php?id=10889&cid=19"
+  "download_url": "https://www.garnstudio.com/pattern.php?id=10889&cid=19",
+  "notes": "**knitted jumper in drops melody. the piece is worked top down, with raglan and double neck. sizes s - xxxl.**\r\n~~~~~~~~~~~~~~~~~~~~~~~~~\r\n\r\ndrops design: pattern ml-086\r\nyarn group d\r\n\r\n-------------------------------------------------------\r\n\r\n\r\n**sizes**:\r\ns - m - l - xl - xxl - xxxl\r\n\r\n**materials**:\r\ndrops melody from garnstudio (belongs to yarn group d)\r\n250-300-300-350-350-400 g colour 21, light blue\r\n\r\nneedles:\r\ndrops circular needle size 6 mm: length 40 cm and 80 cm.\r\ndrops circular needle size 4.5 mm: length 40 cm and 80 cm.\r\ndrops double pointed needles size 6 mm.\r\ndrops double pointed needles size 4.5 mm.\r\nthe technique magic loop can be used – you then only need circular needle of 80 cm in each size.\r\n\r\n**knitting tension**:\r\n14 stitches in width and 16 rows in height with stocking stitch = 10 x 10 cm.\r\nnote: needle size is only a guide. if you get too many stitches on 10 cm, change to a larger needle size. if you get too few stitches on 10 cm, change to a smaller needle size. "
 }

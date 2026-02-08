@@ -1,30 +1,30 @@
 {
   "id": 7312517,
-  "name": "Crochet Basic Sweater Vest",
+  "name": "crochet basic sweater vest",
   "permalink": "crochet-basic-sweater-vest",
   "url": "https://www.ravelry.com/patterns/library/crochet-basic-sweater-vest",
   "external_url": "https://vivcrochets.com/crochet-v-neck-sweater-vest/",
-  "designer_name": "Viv Crochets",
-  "project_type": "Vest",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "viv crochets",
+  "project_type": "vest",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Impeccable Solids & Mouline",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Half double crochet (hdc)",
-    "Ribbing",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "half double crochet (hdc)",
+    "ribbing",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [
     5.0
@@ -32,11 +32,12 @@
   "needle_sizes_mm": [],
   "published": "2024/01/01",
   "sizes_available": "",
-  "rating_average": 4.733333333333333,
-  "rating_count": 15,
-  "difficulty_average": 3.75,
-  "favorites_count": 2355,
-  "projects_count": 90,
+  "rating_average": 4.75,
+  "rating_count": 16,
+  "difficulty_average": 3.6470588235294117,
+  "favorites_count": 2498,
+  "projects_count": 92,
   "free_ravelry_download": false,
-  "download_url": "https://vivcrochets.com/crochet-v-neck-sweater-vest/"
+  "download_url": "https://vivcrochets.com/crochet-v-neck-sweater-vest/",
+  "notes": "this crochet pattern for a basic v-neck sweater vest features half double crochet ribbing and double crochet for the main part. its simple shape and coloring result in this classic wardrobe staple that will work in many different outfits! this pattern is for crocheters who already have at least a little experience crocheting.\r\n\r\nthis sweater vest is worked in the round for a seamless look!\r\n\r\nthe made-to-measure pattern and video tutorial follow how to make an xs size, with instructions on how to edit sizing to make it fit perfectly for you!"
 }

@@ -1,30 +1,38 @@
 {
   "id": 7436721,
-  "name": "New Duckling",
+  "name": "new duckling",
   "permalink": "new-duckling",
   "url": "https://www.ravelry.com/patterns/library/new-duckling",
   "external_url": "",
-  "designer_name": "Claire Garland",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "claire garland",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Classic",
-      "pct": null
+      "fiber": "Cashmere goat (Cashmere)",
+      "pct": 50.0
     },
     {
-      "fiber": "DROPS Sky",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 37.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 9.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 4.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Modular",
-    "Written"
+    "modular",
+    "written"
   ],
   "hook_sizes_mm": [
     1.8,
@@ -32,12 +40,13 @@
   ],
   "needle_sizes_mm": [],
   "published": "2025/06/01",
-  "sizes_available": "Approx. 11cm tall",
+  "sizes_available": "approx. 11cm tall",
   "rating_average": 5.0,
   "rating_count": 3,
   "difficulty_average": 3.0,
-  "favorites_count": 2500,
-  "projects_count": 19,
+  "favorites_count": 2597,
+  "projects_count": 20,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/18463/1004856"
+  "download_url": "http://www.ravelry.com/dls/18463/1004856",
+  "notes": "a crochet version of my lucky duckling pattern!\r\n\r\nthere are two pdfs - one us version crochet and the other uk\r\n\r\ni use basic single (double uk) crochet and i've added quite a few directional instructions so this could be deemed as 'beginner friendly'\r\n\r\ni've added links to the yarn i used although you can use whatever you like/ can get your hands on to be honest.\r\n\r\ni've also added links to the eyes i used and indeed links to the yarn should you wish to make yours similar.\r\n\r\ni hope you enjoy creating  this little crochet fellow!\r\n\r\nclaire\r\nxx"
 }

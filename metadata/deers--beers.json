@@ -1,19 +1,19 @@
 {
   "id": 970201,
-  "name": "Deers & Beers",
+  "name": "deers & beers",
   "permalink": "deers--beers",
   "url": "https://www.ravelry.com/patterns/library/deers--beers",
   "external_url": "",
-  "designer_name": "Bella Gofton",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "bella gofton",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round"
+    "in the round"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -21,18 +21,19 @@
     4.5
   ],
   "published": "2019/10/01",
-  "sizes_available": "This hat fits an average man’s head; 23 inches  (58 cm)",
-  "rating_average": 4.597701149425287,
-  "rating_count": 87,
-  "difficulty_average": 2.352272727272727,
-  "favorites_count": 2740,
-  "projects_count": 344,
+  "sizes_available": "this hat fits an average man’s head; 23 inches  (58 cm)",
+  "rating_average": 4.579545454545454,
+  "rating_count": 88,
+  "difficulty_average": 2.348314606741573,
+  "favorites_count": 2765,
+  "projects_count": 349,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/69554/562095",
+  "notes": "this hat was designed with a double brim to be extra warm for anyone spending time outside in winter here in the great white north. \r\n\r\nthis hat uses worsted weight category 4 yarn (using a yarn with a good wool content will definitely be warmer)",
   "pdf": {
     "filename": "970201.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\970201.pdf",
-    "url": "https://pdf.ravelrycache.com/bellagofton/1033315/Deers___Beers.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479864&Signature=rAHBRxBDHpj%2FhpuHmt0AxgcmnmQ%3D&key_expires=1768479864&key=7xNOq0QaNnq7p4312mLJgw",
+    "url": "https://pdf.ravelrycache.com/bellagofton/1033315/Deers___Beers.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770423456&Signature=8iwz%2BVy6RGxaHQDhC7PenljNGjQ%3D&key_expires=1770423456&key=HdcaAKXYY56bZ3_E0AhT-w",
     "size_bytes": 17027928
   }
 }

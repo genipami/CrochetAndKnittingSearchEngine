@@ -1,42 +1,47 @@
 {
   "id": 7386691,
-  "name": "Nona",
+  "name": "nona",
   "permalink": "nona-5",
   "url": "https://www.ravelry.com/patterns/library/nona-5",
   "external_url": "",
-  "designer_name": "Audrey Borrego",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "audrey borrego",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Soyeuse",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 70.0
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 30.0
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Garter stitch",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "cable",
+    "garter stitch",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Cables",
-    "Charted",
-    "Written"
+    "blocking",
+    "cables",
+    "charted",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     5.0
   ],
   "published": "2024/11/01",
-  "sizes_available": "Adjustable. 180 cm – 70 ¾\" long x 78 cm – 30 ¾\" deep",
+  "sizes_available": "adjustable. 180 cm – 70 ¾\" long x 78 cm – 30 ¾\" deep",
   "rating_average": 4.625,
   "rating_count": 8,
   "difficulty_average": 3.0,
-  "favorites_count": 3022,
+  "favorites_count": 3064,
   "projects_count": 46,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/64880/966212"
+  "download_url": "http://www.ravelry.com/dls/64880/966212",
+  "notes": "the nona shawl is an asymmetrical triangle shawl worked in an all over ribbed cable pattern. with charted and written instructions, it's a meditative project that can be adjusted length wise to use any amount of yarn.\r\n\r\n**yarn :**\r\nyou will need about 800 m – 875 yds of  dk weight yarn.\r\n\r\nthe sample was knit with fonty soyeuse (115 m – 126 yds / 50 g) in 129.\r\n\r\nthe pattern contains instructions to use any amount of yarn.\r\n\r\n**needles :**\r\n5 mm (us 8) needles\r\nor size required to get gauge\r\n\r\n**gauge :**\r\n25 sts x 22 rows per 10 cm – 4\"  in cable pattern after blocking\r\nnote that a different gauge will affect size and yarn usage.\r\n\r\none pattern repeat (30 sts x 30 rows) = 12 x 14 cm – 4 ¾ x 5 ½\"\r\n\r\n**size :**\r\nadjustable.\r\n180 cm – 70 ¾\" long x 78 cm – 30 ¾\" deep\r\n\r\n**notions :**\r\nstitch markers, tapestry needle and scissors\r\nrow counter recommended\r\ncable needle (optional)\r\n\r\n**techniques used :** \r\nasymmetrical triangle shawl\r\nsimple increases\r\ngarter and slipped stitch edge\r\ncabled edge\r\nknit / purl cables, cables with a center spine (video tutorials provided for the more complex cables)\r\nribbed border worked in pattern\r\nsimple stretchy bind-off\r\npattern includes charted and written instructions\r\n\r\n-------------------------------------------------------------------\r\nle châle nona est un châle en triangle asymétrique tricoté tout en motif de torsades et de côtes. avec des instructions en diagramme et écrites, c'est un projet méditatif dont la longueur peut s'adapter pour utiliser n'importe quelle quantité de fil.\r\n\r\n**laine :**\r\nvous aurez besoin d'environ 800 m de laine dk.\r\n\r\nle modèle a été tricoté en fonty soyeuse (115 m / 50 g) coloris 129.\r\n\r\nle patron contient des instructions pour utiliser n'importe quelle quantité de fil.\r\n\r\n**aiguilles :**\r\naiguille numéro 5 mm\r\nou numéro nécessaire pour obtenir le bon échantillon\r\n\r\n**échantillon :**\r\n25 m. x 22 rgs sur 10 cm en motif de torsades après blocage\r\nnotez qu'un échantillon différent affectera la taille du projet et le métrage nécessaire.\r\n\r\nune répétition du motif (30 m. x 30 rgs) = 12 x 14 cm – 4 ¾ x 5 ½\"\r\n\r\n**taille :**\r\nmodifiable.\r\n180 cm de long x 78 cm de profondeur\r\n\r\n**accessoires :**\r\ncompte-rangs recommandé\r\naiguille à torsades (facultatif)\r\nanneaux marqueurs, aiguille à laine et ciseaux\r\n\r\n**techniques utilisées :**\r\nchâle en triangle asymétrique\r\naugmentations simples\r\nbordure en point mousse et maille glissée\r\nbordure torsadée\r\ntorsades avec mailles endroit et envers, torsades avec pilier central (tutoriel vidéos inclus pour les torsades plus complexes)\r\nfinition en côtes\r\nrabat élastique\r\nle patron contient des diagrammes et des instructions écrites"
 }

@@ -1,39 +1,31 @@
 {
   "id": 674162,
-  "name": "Rose City Rollers Littles",
+  "name": "rose city rollers littles",
   "permalink": "rose-city-rollers-littles",
   "url": "https://www.ravelry.com/patterns/library/rose-city-rollers-littles",
   "external_url": "",
-  "designer_name": "Mara Catherine Bryner",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "mara catherine bryner",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Pebble Sock",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 88.8
     },
     {
-      "fiber": "Socks that Rock Lightweight",
-      "pct": null
-    },
-    {
-      "fiber": "Solid Sock",
-      "pct": null
-    },
-    {
-      "fiber": "Twist Fingering",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 11.2
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Kitchener stitch",
-    "Short rows"
+    "kitchener stitch",
+    "short rows"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -44,14 +36,15 @@
   "rating_average": 4.8354037267080745,
   "rating_count": 322,
   "difficulty_average": 2.1881188118811883,
-  "favorites_count": 8572,
-  "projects_count": 1642,
+  "favorites_count": 8578,
+  "projects_count": 1645,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/50576/341876",
+  "notes": "easy roll top socks for the whole family!  six new sizes from newborn up to where the original rose city rollers sizes start make it possible to knit fun, colorful socks for everyone in your life.  this is a great pattern for a beginner sock knitter, and a fun, quick knit for more advanced sock knitters.  no more pastel pink and blue baby gifts, this sock is perfect for super bright variegated, speckled, self striping and tonal yarns, and is a great way to use leftover scraps or mini skeins.\r\nif you are knitting baby gifts i have included a chart of average foot circumference and length by age for a guide.\r\nhave fun, and happy knitting!\r\n\r\n**sizes**\r\nnewborn - 4\" (10cm) foot circumference\r\nxs - 4.5\" (11.5cm) foot circumference\r\ns - 5\" (12.75cm) foot circumference\r\nm - 5.5\" (14cm) foot circumference\r\nl - 6\" (15.25cm) foot circumference\r\nxl- 6.5\" (16.5cm) foot circumference ",
   "pdf": {
     "filename": "674162.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\674162.pdf",
-    "url": "https://pdf.ravelrycache.com/Maracatherine/624776/RoseCityRollersLittlesEdition.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482765&Signature=UqoMZeDMdEdXwMOektFiF2PbiRg%3D&key_expires=1768482765&key=5_ch0UlwVA5zv7uQ4c_-UQ",
+    "url": "https://pdf.ravelrycache.com/Maracatherine/624776/RoseCityRollersLittlesEdition.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770439121&Signature=KiKLgU2gp6hsuM3Qo2ztCLl5sJw%3D&key_expires=1770439121&key=gM_o954C1FPNihdpN62P7Q",
     "size_bytes": 2225705
   }
 }

@@ -1,27 +1,31 @@
 {
   "id": 7317020,
-  "name": "Dahlia Drawstring Bags",
+  "name": "dahlia drawstring bags",
   "permalink": "dahlia-drawstring-bags",
   "url": "https://www.ravelry.com/patterns/library/dahlia-drawstring-bags",
   "external_url": "https://www.joann.com/dahlia-drawstring-bags/452410568P17.html",
-  "designer_name": "Brianna Mason",
-  "project_type": "Bag",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "brianna mason",
+  "project_type": "bag",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Wool Ease Solids, Heathers, Twists",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -29,17 +33,18 @@
   ],
   "published": "2023/12/01",
   "sizes_available": "",
-  "rating_average": 4.9,
-  "rating_count": 10,
-  "difficulty_average": 2.111111111111111,
-  "favorites_count": 1764,
+  "rating_average": 4.916666666666667,
+  "rating_count": 12,
+  "difficulty_average": 2.090909090909091,
+  "favorites_count": 1866,
   "projects_count": 128,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/92996/987515",
+  "notes": "*make 1, 2 or 3! a drawstring project bag is perfect for supplies, extra yarn, a work in progress – or gift to a maker friend. use the same color for all the parts, or use accent colors for the drawstring and embroidery.*\r\n\r\n**construction**\r\n—\r\nthis project bag is worked in the round on 16\" circular needles. 2 i-cords are created for each drawstring bag, and optional flower embroidery is added to the front.\r\n\r\n**supplies**\r\n—\r\n**yarn needed for 3 bags as pictured:**\r\n3 skeins of lion brand wool-ease yarn in colors ‘arrowood’, ‘natural heather’, and ‘blush heather’. (3oz, 85g, 197yd/180m ball), or similar worsted weight yarn.\r\n**or** (65g/150yds/138m for 1 bag)\r\n\r\n5.0mm 16” (40 cm) circular needles\r\ntwo 2.75-3.5mm double pointed needles\r\ntools: 3 stitch markers, scissors, yarn needle, measuring tape, safety pin\r\n\r\n\r\n**gauge**\r\n—\r\nworked in the round & wet blocked\r\nstockinette: 18 sts x 24 rows = 4x4”(10 cm)\r\n\r\nfinal project size: 10x10” (25x25 cm)\r\n\r\n**skills**\r\n—\r\nthis pattern requires a working knowledge of knitting in the round, casting on and binding off. experience with i-cord and a folded edge will be helpful.",
   "pdf": {
     "filename": "7317020.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7317020.pdf",
-    "url": "https://pdf.ravelrycache.com/woolbirdknits/1971671/Dahlia_Drawstring_Bags.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479832&Signature=OfYaKzMgQq%2Bj7WtECr%2FF6FA2F1s%3D&key_expires=1768479832&key=GjiwdmOMyDv1QvWY8xSenA",
+    "url": "https://pdf.ravelrycache.com/woolbirdknits/1971671/Dahlia_Drawstring_Bags.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770423229&Signature=6tqSnlMr65pdA9kazdl10T5JLv4%3D&key_expires=1770423229&key=03g-Ca2LbxpFZw3TMnWoPQ",
     "size_bytes": 3268387
   }
 }

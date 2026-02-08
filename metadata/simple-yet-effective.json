@@ -1,27 +1,27 @@
 {
   "id": 153935,
-  "name": "Simple Yet Effective",
+  "name": "simple yet effective",
   "permalink": "simple-yet-effective",
   "url": "https://www.ravelry.com/patterns/library/simple-yet-effective",
   "external_url": "",
   "designer_name": "tincanknits",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Cashmere DK",
-      "pct": null
+      "fiber": "Cashmere goat (Cashmere)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless",
-    "Written"
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -29,17 +29,18 @@
   ],
   "published": null,
   "sizes_available": "short (long)",
-  "rating_average": 4.747562296858072,
-  "rating_count": 923,
-  "difficulty_average": 1.4972796517954299,
-  "favorites_count": 22154,
-  "projects_count": 3177,
+  "rating_average": 4.748657357679914,
+  "rating_count": 931,
+  "difficulty_average": 1.4951456310679612,
+  "favorites_count": 22286,
+  "projects_count": 3192,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/23602/295074",
+  "notes": "--------------------------------------------------------\r\n--------------------------------------------------------\r\n\r\n**simple yet effective** - tin can knits \r\n\r\n--------------------------------------------------------\r\n--------------------------------------------------------\r\n\r\n*this simple little pattern knits up quick and it's perfect for that special skein. who could ask for more?*\r\n\r\n**want to keep up with tin can knits?**  sign up for our [email updates][1] and we will let you know about our [new designs][2] and [great in-depth tutorials][3].\r\n\r\n--------------------------------------------------------\r\n--------------------------------------------------------\r\n\r\n**pattern info**\r\n\r\n**sizing:** one size: 20 (45) inches around and 10 inches high (easily adjustable)\r\n\r\n**materials:** 200 (400) yards dk weight yarn\r\n(sample shown in sweet fiber cashmere dk in 'marshland')\r\n\r\n**gauge:** 22 sts & 28 rounds per 4 inches in stockinette \r\n\r\n**needles:** us #6 / 4 mm  *(or as required to meet gauge)*\r\n\r\n**helpful tutorials**\r\n[casting on for knitting in the round][4]\r\n\r\n--------------------------------------------------------\r\n--------------------------------------------------------\r\n\r\n\r\nfor all pattern abbreviations, techniques, and to contact us, visit [www.tincanknits.com][5]\r\n\r\n\r\n  [1]: http://eepurl.com/k5p8l\r\n  [2]: http://tincanknits.com/\r\n  [3]: http://tincanknits.com/techniques.html\r\n  [4]: http://blog.tincanknits.com/2013/08/17/casting-on-to-circulars/\r\n  [5]: http://www.tincanknits.com",
   "pdf": {
     "filename": "153935.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\153935.pdf",
-    "url": "https://pdf.ravelrycache.com/tincanknits/1213204/SIMPLEYETEFFECTIVE-tincanknits.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483014&Signature=DA1Wc349EqSRnjEBFEAoY5XE830%3D&key_expires=1768483014&key=kbiuE5D0q2fFGKLZ63ESKw",
+    "url": "https://pdf.ravelrycache.com/tincanknits/1213204/SIMPLEYETEFFECTIVE-tincanknits.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770440729&Signature=kCewz7Is%2Ft2Kc8HV6iB75RihCK8%3D&key_expires=1770440729&key=fEz5-XFPXXRVYsLV98F4Iw",
     "size_bytes": 416731
   }
 }

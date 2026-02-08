@@ -1,27 +1,35 @@
 {
   "id": 7293010,
-  "name": "Joy Scarf",
+  "name": "joy scarf",
   "permalink": "joy-scarf-2",
   "url": "https://www.ravelry.com/patterns/library/joy-scarf-2",
   "external_url": "https://www.alexcollinsdesigns.com/joy",
-  "designer_name": "Alex Collins Designs",
-  "project_type": "Scarf",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "alex collins designs",
+  "project_type": "scarf",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Cumbria Fingering",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 60.0
+    },
+    {
+      "fiber": "Masham / Massam (Wool)",
+      "pct": 30.0
+    },
+    {
+      "fiber": "Mohair (Mohair)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Slip stitch (sl st)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "slip stitch (sl st)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Written"
+    "blocking",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -29,11 +37,12 @@
   ],
   "published": "2023/11/01",
   "sizes_available": "80\" x 7 1/2\" (203 cm x 19 cm)",
-  "rating_average": 4.722222222222222,
-  "rating_count": 18,
-  "difficulty_average": 2.0555555555555554,
-  "favorites_count": 1835,
-  "projects_count": 98,
+  "rating_average": 4.7368421052631575,
+  "rating_count": 19,
+  "difficulty_average": 2.0,
+  "favorites_count": 1878,
+  "projects_count": 101,
   "free_ravelry_download": false,
-  "download_url": "https://www.alexcollinsdesigns.com/joy"
+  "download_url": "https://www.alexcollinsdesigns.com/joy",
+  "notes": "the joy scarf is a timeless free pattern every knitter needs in their library.\r\n\r\nit's a simple, meditative knit with a slip-stitch edge that adds structure and a neat finish. the scarf drapes beautifully and none of the edges curl.\r\n\r\nknit one for yourself and then make joy for everyone on your gift knitting list. it’s a classic, no-purl rib design that looks great on everyone.\r\n\r\n*[purchase a kit to knit joy here][1]* \r\n\r\n**skill level**\r\nsuitable for beginners who can knit and slip stitches. \r\n\r\n**finished measurements**\r\n80\" x 7 1/2\" (203 cm x 19 cm)\r\n\r\nyou can easily adapt the length by knitting more or less rows. \r\n\r\n**yarn**\r\nthe fibre co. cumbria fingering\r\n(60% merino wool, 30% masham wool, 10% mohair 300 m (328 yd) per 100 g hank) 2 hanks in nutkin.\r\n\r\n**yardage** \r\n590 yards (540 meters) \r\n\r\n**needles**\r\n4mm (us6) \r\ntapestry needle for weaving in ends\r\n\r\n**gauge (after blocking)**\r\n24 sts and 19 rows measured over 4\" (10cm) in stitch pattern.\r\n\r\n**advanced techniques** \r\n[long tail cast on][2]\r\n\r\n\r\n  [1]: https://www.alexcollinsdesigns.com/shop/joy-scarf-kit\r\n  [2]: https://www.youtube.com/watch?v=sn9cneozolc"
 }

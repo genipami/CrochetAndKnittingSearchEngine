@@ -1,33 +1,29 @@
 {
   "id": 7491196,
-  "name": "Heart Wings",
+  "name": "heart wings",
   "permalink": "heart-wings",
   "url": "https://www.ravelry.com/patterns/library/heart-wings",
   "external_url": "",
-  "designer_name": "Ashlee Brotzell",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "ashlee brotzell",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Baby Sport Solids & Marls",
-      "pct": null
-    },
-    {
-      "fiber": "Tent Sale Baby",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Charted",
-    "Mosaic",
-    "Tapestry crochet",
-    "Written"
+    "bottom-up",
+    "charted",
+    "mosaic",
+    "tapestry crochet",
+    "written"
   ],
   "hook_sizes_mm": [
     5.0
@@ -38,14 +34,15 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 18,
+  "favorites_count": 21,
   "projects_count": 5,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/80903/1047513",
+  "notes": "i created this pattern for my tunisian mosaic crochet tutorial video; you can watch that at [https://youtu.be/zzpvhewvz5k][1]. \r\n\r\nthis pattern is written just like all my other overlay mosaic crochet patterns but also includes a page to help teach you how to convert this (and all my other mosaic crochet patterns) into tunisian mosaic crochet.\r\n\r\n**you can use this information to convert any of my mosaic crochet patterns into tunisian mosaic crochet.**\r\n\r\n\r\n\r\n***important details***\r\n\r\n•\tus crochet terminology\r\n•\tchart is 15 x 17\r\n•\tsize without fringe or border: 4.5” x 5” / 11.5cm x 13cm\r\n•\t5 mm hook (h-8)\r\n•\tworsted weight yarn (22 - 37 yards total)\r\n     o\tmain color (dark lines) – 10 yards\r\n     o\tcontrasting color (background) – 12 yards\r\n     o\toptional envelope border – 15 yards\r\n•\tgauge: 14 stitches x 15 rows = 4”\r\n\r\n\r\n____\r\n\r\n**techniques**\r\n\r\nthis pattern is written up for overlay mosaic crochet (and includes an x-marked chart).\r\n\r\nyou can follow the chart or written pattern.\r\n\r\nthere is video support and information in this pattern to help teach you how to convert from the overlay mosaic crochet technique to tunisian mosaic crochet.\r\n\r\n\r\ni have youtube tutorials available for both crochet methods! follow this link to get to my youtube channel and find my other social links: [https://ashleeslint.com/link-in-bio][2]\r\n_____\r\n\r\n\r\n©️ ashlee brotzell 2025.\r\nall rights reserved. this publication is protected under federal copyright laws. reproduction or distribution, in whole or in part, in any medium, is strictly prohibited.\r\n\r\nwhat does this mean?\r\nthis is an original pattern by ashlee brotzell. you may not copy, reproduce, sell, or share any part of it whether for profit or not. this includes, but is not limited to, the written pattern, the chart, and the photos. no translations or video tutorials are allowed.\r\n\r\nsales of your finished items are, of course, unrestricted (and i wish you all the best!). i appreciate credit given to the designer when possible but it is not a requirement. you may tag me @ashleeslint or direct people to my website [www.ashleeslint.com][3]\r\n\r\n\r\n  [1]: https://youtu.be/zzpvhewvz5k\r\n  [2]: https://ashleeslint.com/link-in-bio/\r\n  [3]: https://ashleeslint.com/",
   "pdf": {
     "filename": "7491196.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7491196.pdf",
-    "url": "https://pdf.ravelrycache.com/ashleeslint/2112836/HeartWingsTunisianTutorialAshleeBrotzell.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480808&Signature=EPUrUeyrPX3n6s8gP8yP1Fxx61Y%3D&key_expires=1768480808&key=oJFr2rhcdCDFVaIGSkedAg",
+    "url": "https://pdf.ravelrycache.com/ashleeslint/2112836/HeartWingsTunisianTutorialAshleeBrotzell.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770428851&Signature=LXbOiIWzZDg7hd0286UyQgmhrE4%3D&key_expires=1770428851&key=4Ad6kaXV3GVs5giae85bCA",
     "size_bytes": 1203884
   }
 }

@@ -1,34 +1,38 @@
 {
   "id": 880061,
-  "name": "Diagon Ally Socks",
+  "name": "diagon ally socks",
   "permalink": "diagon-ally-socks",
   "url": "https://www.ravelry.com/patterns/library/diagon-ally-socks",
   "external_url": "https://knotions.com/issues/december-2018/pattern-december-2018/diagon-ally-socks/",
-  "designer_name": "Lori Wagner",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "lori wagner",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Sock",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 89.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 11.0
     }
   ],
   "stitches_used": [
-    "Broken rib",
-    "Cable",
-    "Single crochet (sc)",
-    "Slip stitch (sl st)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "broken rib",
+    "cable",
+    "single crochet (sc)",
+    "slip stitch (sl st)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Cables",
-    "Charted",
-    "In the round",
-    "Kitchener stitch",
-    "Written"
+    "blocking",
+    "cables",
+    "charted",
+    "in the round",
+    "kitchener stitch",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -36,17 +40,18 @@
   ],
   "published": "2018/11/01",
   "sizes_available": "7 (7.75, 8.5)\" /18 (19.5, 21.5) cm",
-  "rating_average": 4.84375,
-  "rating_count": 192,
-  "difficulty_average": 2.8863636363636362,
-  "favorites_count": 6804,
-  "projects_count": 952,
+  "rating_average": 4.83419689119171,
+  "rating_count": 193,
+  "difficulty_average": 2.8813559322033897,
+  "favorites_count": 6854,
+  "projects_count": 962,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/44393/563483",
+  "notes": "the inspiration for these socks came from my love of all things harry potter. i imagined mrs. weasley magically knitting socks for her children before they left for hogwarts to start off the school year! she would need to make quite a few pairs of them so the pattern needed to be easy to memorize yet entertaining. the diagon ally socks begin with a twisted rib cuff that flows into a broken rib pattern. after a slip stitch heel is worked, a faux cable is created with yarn overs and decreases to give a sharp contrast to the broken rib and stockinette stitch design for the top of the sock while the sole remains in stockinette stitch. the toe of the sock is continued in stockinette and closed with the kitchener stitch.\r\n\r\n**finished measurements**\r\nfoot circumference: 7 (7.75, 8.5)\" /18 (19.5, 21.5) cm\r\ncuff length: 6\" (15 cm)\r\n.5\" (1.3 cm) negative ease recommended\r\n**yarn**\r\nlakshmi’s dreams sock yarn (89% wool, 11% nylon/polyamide; 437 yards (100 meters)/100 grams); color: nordsee, 1 (1, 2) skeins \r\nneedles\r\nus size 1 (2.25 mm): dpns, or two 24\" (60 cm) circular needles for two circulars technique, or one 32\" (80 cm) or longer circular needle for magic loop technique, or size to obtain gauge\r\n**notions**\r\ntape measure or ruler\r\nyarn needle\r\nremovable stitch marker\r\n**gauge**\r\n34 sts and 48 rows = 4\" [10 cm] in st st in the round after wet blocking.\r\n36 sts and 52 rows = 4\" [10 cm] in broken rib pattern in the round after wet blocking.\r\n\r\n**errata:**\r\n\r\n**right gusset** should read:\r\n**set up rnd 3 gusset:** k to instep, k28 (31, **34**), k2tog, k1 (move k1 back to instep ndl), yo, k to end of rnd.\r\n",
   "pdf": {
     "filename": "880061.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\880061.pdf",
-    "url": "https://pdf.ravelrycache.com/davenlori98/1956225/Diagon_Ally_Socks_v1.1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479888&Signature=Q5vcNAxfcVKJTadRCVrrI3bsLJA%3D&key_expires=1768479888&key=HGGnyozzevIotTO7nfh68Q",
+    "url": "https://pdf.ravelrycache.com/davenlori98/1956225/Diagon_Ally_Socks_v1.1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770423578&Signature=vt2SHO4oXNZMILz0Izl5DxPvMyI%3D&key_expires=1770423578&key=k_UYpMLpAXlqTHYe6-jWpA",
     "size_bytes": 1041931
   }
 }

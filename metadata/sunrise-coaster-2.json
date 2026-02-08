@@ -1,23 +1,23 @@
 {
   "id": 1269979,
-  "name": "Sunrise Coaster",
+  "name": "sunrise coaster",
   "permalink": "sunrise-coaster-2",
   "url": "https://www.ravelry.com/patterns/library/sunrise-coaster-2",
   "external_url": "https://tlycblog.com/sunrise-coaster-free-crochet-pattern/",
-  "designer_name": "Toni Lipsey",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "toni lipsey",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "24/7 Cotton",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     4.5
@@ -25,11 +25,12 @@
   "needle_sizes_mm": [],
   "published": "2022/09/01",
   "sizes_available": "",
-  "rating_average": 4.94488188976378,
-  "rating_count": 127,
-  "difficulty_average": 1.8442622950819672,
-  "favorites_count": 7408,
-  "projects_count": 581,
+  "rating_average": 4.947368421052632,
+  "rating_count": 133,
+  "difficulty_average": 1.8294573643410852,
+  "favorites_count": 7577,
+  "projects_count": 591,
   "free_ravelry_download": false,
-  "download_url": "https://tlycblog.com/sunrise-coaster-free-crochet-pattern/"
+  "download_url": "https://tlycblog.com/sunrise-coaster-free-crochet-pattern/",
+  "notes": ""
 }

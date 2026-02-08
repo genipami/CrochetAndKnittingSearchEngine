@@ -1,27 +1,31 @@
 {
   "id": 7364718,
-  "name": "So Sporty Socks",
+  "name": "so sporty socks",
   "permalink": "so-sporty-socks",
   "url": "https://www.ravelry.com/patterns/library/so-sporty-socks",
   "external_url": "https://keenwhale.com/so-sporty-socks/",
-  "designer_name": "Natalija keenWhale",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "natalija keenwhale",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Arwetta",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Kitchener stitch",
-    "Short rows",
-    "Written"
+    "charted",
+    "kitchener stitch",
+    "short rows",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -32,8 +36,9 @@
   "rating_average": 4.642857142857143,
   "rating_count": 14,
   "difficulty_average": 4.166666666666667,
-  "favorites_count": 2697,
-  "projects_count": 94,
+  "favorites_count": 2738,
+  "projects_count": 100,
   "free_ravelry_download": false,
-  "download_url": "https://keenwhale.com/so-sporty-socks/"
+  "download_url": "https://keenwhale.com/so-sporty-socks/",
+  "notes": "the pattern is designed for 72 stitches and a size 39-40 (eu). i knitted with 2.0 mm needles.\r\n\r\nin the pattern, you’ll find:\r\n\r\nall steps for knitting the sporty cuff with a heel tab. i’ll explain how to do a provisional cast-on with waste yarn, knit short rows, and join the provisional cast-on edge with the main row.\r\n\r\ninstructions for knitting and shaping a reinforced heel, a simple stitch pattern for the sock front, and how to integrate the arch support section.\r\n\r\nwe’ll also knit a wedge toe and close it with the kitchener stitch.\r\n\r\nall of this is supported by detailed videos in two parts. \r\nlinks to the videos are included in the guide."
 }

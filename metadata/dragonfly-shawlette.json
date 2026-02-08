@@ -1,26 +1,26 @@
 {
   "id": 903823,
-  "name": "Dragonfly shawlette",
+  "name": "dragonfly shawlette",
   "permalink": "dragonfly-shawlette",
   "url": "https://www.ravelry.com/patterns/library/dragonfly-shawlette",
   "external_url": "https://ellej.org/en/df-crochetshawl/",
-  "designer_name": "Elena Kozhukhar",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Sport",
+  "designer_name": "elena kozhukhar",
+  "project_type": "shawl/wrap",
+  "fiber_art": "crochet",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Miami",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Seamless"
+    "charted",
+    "seamless"
   ],
   "hook_sizes_mm": [
     3.5
@@ -31,8 +31,9 @@
   "rating_average": 4.619047619047619,
   "rating_count": 21,
   "difficulty_average": 2.75,
-  "favorites_count": 1585,
+  "favorites_count": 1628,
   "projects_count": 92,
   "free_ravelry_download": false,
-  "download_url": "https://ellej.org/en/df-crochetshawl/"
+  "download_url": "https://ellej.org/en/df-crochetshawl/",
+  "notes": "мастер-класс на русском языке - **https://ellej.org/df-crochetshawl/**\r\n\r\nwelcome to my youtube channels ↓↓↓\r\n\r\n**ru** - https://www.youtube.com/channel/uclogf2kcy7y-f3mscw3sdsa\r\n\r\n**eng** - https://www.youtube.com/channel/ucungzzo2bt1izw8--0u4ngw\r\n\r\n"
 }

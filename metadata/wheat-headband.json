@@ -1,40 +1,41 @@
 {
   "id": 1343058,
-  "name": "Wheat Headband",
+  "name": "wheat headband",
   "permalink": "wheat-headband",
   "url": "https://www.ravelry.com/patterns/library/wheat-headband",
   "external_url": "https://mirellamoments.com/wheat-headband-knitting-pattern/",
-  "designer_name": "Mirella Moments",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Sport",
+  "designer_name": "mirella moments",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Catania Solids",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Lace",
-    "Reverse stockinette",
-    "Stockinette stitch"
+    "garter stitch",
+    "lace",
+    "reverse stockinette",
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "Lace",
-    "Seamless"
+    "lace",
+    "seamless"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.0
   ],
   "published": "2023/06/01",
-  "sizes_available": "Adult medium",
+  "sizes_available": "adult medium",
   "rating_average": 4.818181818181818,
   "rating_count": 11,
   "difficulty_average": 2.1,
-  "favorites_count": 1467,
+  "favorites_count": 1528,
   "projects_count": 69,
   "free_ravelry_download": false,
-  "download_url": "https://mirellamoments.com/wheat-headband-knitting-pattern/"
+  "download_url": "https://mirellamoments.com/wheat-headband-knitting-pattern/",
+  "notes": "the wheat headband is a cute spring or summer accessory.\r\n\r\nthe pattern features a lace stitch on a reverse stockinette background with garter stitch edging. the pattern is a four-row repeat.\r\n\r\nthe headband is tied at the back of the head with i-cord ties. they are perfect for adjusting the fitting!\r\n"
 }

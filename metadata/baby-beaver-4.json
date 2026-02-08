@@ -1,37 +1,29 @@
 {
   "id": 7358210,
-  "name": "Baby beaver",
+  "name": "baby beaver",
   "permalink": "baby-beaver-4",
   "url": "https://www.ravelry.com/patterns/library/baby-beaver-4",
   "external_url": "",
-  "designer_name": "Kati Galusz",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "kati galusz",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Canadiana Solids (New)",
-      "pct": null
-    },
-    {
-      "fiber": "Simply Soft",
-      "pct": null
-    },
-    {
-      "fiber": "Soft (Heathers & Solids)",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Popcorn",
-    "Single crochet (sc)",
-    "Slip stitch (sl st)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "popcorn",
+    "single crochet (sc)",
+    "slip stitch (sl st)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     3.5
@@ -42,14 +34,15 @@
   "rating_average": 5.0,
   "rating_count": 3,
   "difficulty_average": 2.6666666666666665,
-  "favorites_count": 686,
+  "favorites_count": 704,
   "projects_count": 16,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/20972/1024997",
+  "notes": "these baby beavers work up fast and require only small amounts of yarn and little sewing, but still have cute details like a textured stitch used for the tail, and tiny toes giving a webbed look to their rear feet.\r\n\r\n**size**\r\nabout 11cm/3 ¼” long if made with the recommended yarns.\r\n\r\n**tools and materials:**\r\n* worsted weight yarn in light brown and dark brown\r\n* 3.5mm(e) crochet hook\r\n* 6mm black plastic safety eyes\r\n* optionally, a wire cutter to shorten the stems of the eyes\r\n* fiberfill stuffing\r\n* stitch marker, pair of scissors, pins, yarn needle\r\n\r\n**difficulty**\r\nthis pattern is suitable for intermediate level crocheters, who are confident with basic stitches (ch, sl st, sc, dc, working in flo/blo) and frequently used amigurumi techniques (invisible decrease, magic loop).\r\n\r\nhead, body (including popcorn st front legs) and tail are crocheted in one piece, so there is not a lot of assembly in the end - only the ears, nose, and rear feet must be sewn on.\r\n\r\nthe pattern is written in english using us crochet terminology (uk/aus equivalents provided). it contains many in-progress photos, but also includes a text-only appendix for easy printing, if you prefer working from a printed pattern but want to save ink and paper.\r\n\r\nfinished amigurumi made from this pattern are yours to keep or gift or sell, i only ask you to credit me as the designer in case you decide to sell them.\r\n\r\n> do the babies look a bit lost on their\r\n> own? my [busy beavers][1] pattern was\r\n> designed to round out the family: it\r\n> includes two differently posed\r\n> grown-up beavers, plus some foods to\r\n> share with the youngsters\r\n\r\n\r\n  [1]: https://www.ravelry.com/patterns/library/busy-beavers",
   "pdf": {
     "filename": "7358210.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7358210.pdf",
-    "url": "https://pdf.ravelrycache.com/Luna1130/2059237/baby_beaver.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478877&Signature=LdK6JfatUIzPnL4sGWcFEnelte4%3D&key_expires=1768478877&key=1YOP9KTiODtz18r6X4PK-A",
+    "url": "https://pdf.ravelrycache.com/Luna1130/2059237/baby_beaver.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770417872&Signature=q%2FiHdHscpHfC3M%2B9qu5oFaG7ZVg%3D&key_expires=1770417872&key=njFJZb1uwXyqWF835ZtXlg",
     "size_bytes": 6723981
   }
 }

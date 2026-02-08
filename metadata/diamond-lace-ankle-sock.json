@@ -1,43 +1,52 @@
 {
   "id": 1267991,
-  "name": "Diamond Lace Ankle Sock",
+  "name": "diamond lace ankle sock",
   "permalink": "diamond-lace-ankle-sock",
   "url": "https://www.ravelry.com/patterns/library/diamond-lace-ankle-sock",
   "external_url": "",
-  "designer_name": "Jennifer Anne",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "jennifer anne",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Golden Socks 4-Fach Business Bamboo",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 45.0
+    },
+    {
+      "fiber": "Rayon from Bamboo (Bamboo)",
+      "pct": 30.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "lace",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Kitchener stitch",
-    "Lace",
-    "Short rows",
-    "Written"
+    "charted",
+    "in the round",
+    "kitchener stitch",
+    "lace",
+    "short rows",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.25
   ],
   "published": "2022/09/01",
-  "sizes_available": "Small (EU 35-37), Medium (EU 38-40), Large (EU 41-43)",
+  "sizes_available": "small (eu 35-37), medium (eu 38-40), large (eu 41-43)",
   "rating_average": 4.888888888888889,
   "rating_count": 18,
   "difficulty_average": 3.3529411764705883,
-  "favorites_count": 1626,
-  "projects_count": 110,
+  "favorites_count": 1639,
+  "projects_count": 113,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/93228/796339"
+  "download_url": "http://www.ravelry.com/dls/93228/796339",
+  "notes": "do you want to knit socks, but it's still too warm where you live? how about a lacy ankle sock!\r\n\r\nthis is an intermediate pattern, but i've included some resources below for adventurous beginners or if you need a refresh on some of the skills used.\r\n\r\nyou like charts? i have charts. you hate charts? i have written instructions. download whichever you prefer (or both!) - there is also a printer friendly version available.\r\n\r\nthis pattern has been tested in all sizes, but not tech edited.\r\n\r\n**skills**\r\n* knitting in the round\r\n* provisional cast-on or picking up cast-on stitches\r\n* decreasing (k2tog, ssk, sk2p)\r\n* german short rows (or other short row method of your choice)\r\n* heel flap and gusset (or substitute whichever heel you prefer)\r\n* lace (chart or written)\r\n* kitchener stitch\r\n\r\n**resources**\r\n\r\nhere is a collection of third party resources that i think may be useful when knitting this pattern. i am not responsible for the content linked below.\r\n\r\n[choosing yarn for socks][1] - laine magazine\r\n\r\n[how to knit a provisional cast-on with a crochet hook][2] - nimble needles\r\n\r\n[joining a folded brim][3] - kelbourne woolens (same technique used for the folded cuff)\r\n\r\n[how to do the kitchener stitch][4] - nimble needles\r\n\r\n**acknowledgements**\r\n\r\na big shoutout to my fabulous testers who helped me to refine my pattern and make sure it worked in multiple size. \r\n\r\n[gwenoveva](/people/gwenoveva)\r\n[nicolasina](/people/nicolasina)\r\n[jen555](/people/jen555)\r\n[aiko1122](/people/aiko1122)\r\n[tanjamnz](/people/tanjamnz)\r\n[sm13](/people/sm13)\r\n[azcactuswren](/people/azcactuswren) \r\n[envista](/people/envista)\r\n[winteroses](/people/winteroses)\r\n[luzie1959](/people/luzie1959)\r\n[bromache](/people/bromache)\r\n[aimeern](/people/aimeern)\r\n[subala28](/people/subala28)\r\n[lichknights](/people/lichknights)\r\n[sunrise0611](/people/sunrise0611)\r\n[maskiano](/people/maskiano)\r\n[jooleej](/people/jooleej)\r\n\r\nhave you noticed an error in this pattern? you can email me at jenniferfaultier@gmail.com\r\n\r\n\r\n  [1]: https://lainemagazine.com/blog/2020/3/13/choosing-yarn-for-socks\r\n  [2]: https://nimble-needles.com/stitches/how-to-knit-a-provisional-cast-on-with-a-crochet-hook/\r\n  [3]: https://kelbournewoolens.com/blog/2015/11/tips-and-tricks-joining-a-folded-brim/\r\n  [4]: https://nimble-needles.com/stitches/how-to-do-the-kitchener-stitch/\r\n  [5]: https://form.jotform.com/223363764148056"
 }

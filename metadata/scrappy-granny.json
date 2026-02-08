@@ -1,53 +1,50 @@
 {
   "id": 832393,
-  "name": "Scrappy Granny",
+  "name": "scrappy granny",
   "permalink": "scrappy-granny",
   "url": "https://www.ravelry.com/patterns/library/scrappy-granny",
   "external_url": "",
-  "designer_name": "Knitty Natty",
-  "project_type": "Other",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Fingering",
+  "designer_name": "knitty natty",
+  "project_type": "other",
+  "fiber_art": "crochet",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Biscotti Sock Fingering Weight",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 81.7
     },
     {
-      "fiber": "Everyday Sock",
-      "pct": null
-    },
-    {
-      "fiber": "Lore Sock",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 18.3
     }
   ],
   "stitches_used": [
-    "Granny",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "granny",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     3.25
   ],
   "needle_sizes_mm": [],
   "published": "2018/05/01",
-  "sizes_available": "Makes a 4.5 inch square",
+  "sizes_available": "makes a 4.5 inch square",
   "rating_average": 4.92,
   "rating_count": 25,
   "difficulty_average": 1.565217391304348,
-  "favorites_count": 1582,
+  "favorites_count": 1596,
   "projects_count": 223,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/69242/460216",
+  "notes": "one more way to use those leftover bits of sock yarn- this scrappy granny square works up quickly. make one {coaster} or hundreds {king-size bed spread}. the creative power is in your hooky hands!\r\n\r\n8-10 grams on a size d hook creates a 4.5 inch square- *results may vary.*\r\n\r\n**pattern includes instructions for one granny square. does not include how to join squares for a blanket.**\r\n\r\npattern was written for simplicity and therefore does not include a legend for abbreviations. all abbreviations are in standard us crochet terms.\r\n\r\nyou can now find the **blog post with photo tutorial** [here][1] and a **full video tutorial** [here][2].\r\n\r\n\r\n  [1]: https://knittynatty.com/2018/12/12/scrappy-granny-photo-tutorial/\r\n  [2]: https://www.youtube.com/watch?v=lu2qffaudra",
   "pdf": {
     "filename": "832393.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\832393.pdf",
-    "url": "https://pdf.ravelrycache.com/knatalia/972675/Scrappy_Granny.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482899&Signature=p71sNV1HDY5%2F1yjP%2B2zendNmpqc%3D&key_expires=1768482899&key=lFuYECgUCEamvPkvWiOIUg",
+    "url": "https://pdf.ravelrycache.com/knatalia/972675/Scrappy_Granny.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770439673&Signature=YipfkYbj%2B%2B5c6hLGR%2BGNHV5MPyM%3D&key_expires=1770439673&key=sSwoVvdGm8NyQyriZOkaFQ",
     "size_bytes": 150053
   }
 }

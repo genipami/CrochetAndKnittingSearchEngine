@@ -1,31 +1,35 @@
 {
   "id": 793592,
-  "name": "Tiilda Hat",
+  "name": "tiilda hat",
   "permalink": "tiilda-hat",
   "url": "https://www.ravelry.com/patterns/library/tiilda-hat",
   "external_url": "",
-  "designer_name": "Inese Sang",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "inese sang",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Vintage Chunky",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 50.0
+    },
+    {
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 50.0
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "cable",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Cables",
-    "Charted",
-    "In the round",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "cables",
+    "charted",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -33,18 +37,19 @@
     5.0
   ],
   "published": "2017/11/01",
-  "sizes_available": "One Size - to fit head circumference of 22”-23” (56cm-58.5cm) ",
-  "rating_average": 4.759433962264151,
-  "rating_count": 636,
-  "difficulty_average": 2.8697068403908794,
-  "favorites_count": 25312,
-  "projects_count": 2582,
+  "sizes_available": "one size - to fit head circumference of 22”-23” (56cm-58.5cm) ",
+  "rating_average": 4.76056338028169,
+  "rating_count": 639,
+  "difficulty_average": 2.8670988654781198,
+  "favorites_count": 25456,
+  "projects_count": 2609,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/62316/431241",
+  "notes": "**please, consider adding the pattern to your favorites if you like it or plan on making it**\r\n\r\n**note: if you are a tight knitter, add an extra repeat or go up a needle size **\r\n\r\n**tiilda hat** \r\ntiilda hat is a simple, joyous project, that just like tiilda mittens was born out of warm memories of cold, sparkling white and beautiful winters in latvia. it's a fast and rewarding knit, with a simple pattern repeat and lots of texture, and due to the bulky weight yarn can be finished in one evening. \r\n\r\n*you can read more and download the free tiilda mittens pattern here: **[tiilda mittens](/patterns/library/tiilda-mittens)***\r\n\r\nthe pattern includes written instructions and cable pattern chart.\r\n\r\n**size** \r\none size - to fit head circumference of 22\" - 23\"  (56cm - 58.5cm)\r\n\r\n**yarn & yardage** \r\nderamores vintage chunky, 50% merino wool, 50% acrylic, 153yards (140m) per 100gr ball. \r\n1 ball in colour chalk. \r\nor \r\nbulky (chunky) weight yarn. approximately 147-153 yards (135m-140m). \r\n*yardage includes 3 3/8\" (85mm) pompom*\r\n\r\n**needles** \r\nus 6/ 4mm circulars with 16\" (40cm) cable\r\nus 8/ 5mm circulars with 16\" (40cm) cable\r\n\r\n**gauge** \r\n15 stitches and 22 rows to 4” (10cm) in larger size needles\r\n\r\n**notions** \r\ncable needle, stitch marker, tapestry needle, 3 3/8\" (85mm) size pompom maker  \r\n\r\nhappy knitting! \r\n\r\n",
   "pdf": {
     "filename": "793592.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\793592.pdf",
-    "url": "https://pdf.ravelrycache.com/inesesang/1421219/Tiilda_Hat_Isang.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483738&Signature=okIps7Uv4LBcMQOmoQlaZ1kKWGM%3D&key_expires=1768483738&key=2K-674ZnIi9F-0u9zkZvmA",
+    "url": "https://pdf.ravelrycache.com/inesesang/1421219/Tiilda_Hat_Isang.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770444739&Signature=27gPe38qMBlexnn76TwH7ADAvVY%3D&key_expires=1770444739&key=2-j7eHL7bgE6ebNeO4UT8w",
     "size_bytes": 471843
   }
 }

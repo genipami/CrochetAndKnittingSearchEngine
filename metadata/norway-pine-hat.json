@@ -1,36 +1,32 @@
 {
   "id": 1181998,
-  "name": "Norway Pine Hat",
+  "name": "norway pine hat",
   "permalink": "norway-pine-hat",
   "url": "https://www.ravelry.com/patterns/library/norway-pine-hat",
   "external_url": "",
-  "designer_name": "Sarah Rody",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "sarah rody",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Rios",
-      "pct": null
-    },
-    {
-      "fiber": "Superwash Merino",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Moss/Linen stitch",
-    "Ribbing",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "cable",
+    "moss/linen stitch",
+    "ribbing",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Cables",
-    "Charted",
-    "In the round",
-    "Seamless"
+    "bottom-up",
+    "cables",
+    "charted",
+    "in the round",
+    "seamless"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -38,18 +34,19 @@
     4.5
   ],
   "published": "2021/10/01",
-  "sizes_available": "Adult medium",
-  "rating_average": 4.796407185628743,
-  "rating_count": 167,
-  "difficulty_average": 3.694267515923567,
-  "favorites_count": 8030,
-  "projects_count": 708,
+  "sizes_available": "adult medium",
+  "rating_average": 4.8011695906432745,
+  "rating_count": 171,
+  "difficulty_average": 3.7,
+  "favorites_count": 8107,
+  "projects_count": 719,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/77870/729923",
+  "notes": "i designed this hat to use some beautiful hand-dyed yarn made by the yarn store in my parents’ hometown of ely, minnesota. the cable pattern in the hat comes from cailyn meyer’s logi scarf: [https://www.ravelry.com/patterns/library/logi-2][1]. her pattern, and mine, are shared freely under the creative commons attribution - noncommercial-share alike 3.0 united states license. \r\n\r\nnorway pine trees, more commonly known as red pine trees, are abundant in ely. i choose the name norway pine for the hat to acknowledge ely and the source of the yarn as well as the norse myth that cailyn used to name the logi pattern. \r\n\r\nmaterials\r\nyarn: about 200-225 yds (185-205 m) of worsted weight yarn. i used sisu hand dye worsted from sisu designs: [https://sisudesigns.org/][2]. this is a lighter worsted weight (218 yds/200 m per 100 g). malabrigo rios or knit picks wool of the andes would be a good substitute, or pretty much any worsted weight yarn. if you are worried about running out of yarn, you can opt for a single brim. \r\n\r\nneedles: size us 7 (4.5 mm) needles, or whatever size is needed to make gauge, 16-inch circulars, and double pointed needles (or your preferred method of medium and small circumference knitting in the round). \r\n\r\nsize us 5 (3.75 mm) needles, or 1-2 sizes smaller than your main needles, 16-inch circulars for knitting the brim ribbing. \r\n\r\ngauge\r\nabout 24 stitches and 32 rows in 4 inches by 4 inches (10cm by 10cm) of moss stitch, using the larger needles. i used us 6 needles, but i usually have to use smaller needles, so i’m guessing that us 7 will work for most people. \r\n\r\nsizing\r\nthis hat fits my 22-inch (56 cm) head quite nicely. due to the stretch of the cables and moss stitch, i think it would fit about 20-24 inches (51-61 cm).to adjust the size, you could change the gauge, change the length the ribbing, or add or subtract multiples of 4 stitches from the moss stitch panels. \r\n\r\nsome knitters are finding this hat a little large. the last picture is a variation on the version 2 chart that has a cast on of 96 st instead of 112 for snugger ribbing and also takes 8 rounds off of the top in case your hat is getting too long. \r\n\r\ntwo versions\r\nthere are two versions of the hat/chart. version 1 (shown in green) has more moss stitch and 3 cable panels. version 2 (shown in orange) has less moss stitch and 4 cable panels. the fit is similar. \r\n\r\n\r\n  [1]: https://www.ravelry.com/patterns/library/logi-2\r\n  [2]: https://sisudesigns.org/",
   "pdf": {
     "filename": "1181998.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1181998.pdf",
-    "url": "https://pdf.ravelrycache.com/srody/1389250/NorwayPine.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482125&Signature=3AFe3MsV%2F8HMHl1KSAvT0W4tOHY%3D&key_expires=1768482125&key=Lnt9pDC19-Xipgs7QKDnsA",
+    "url": "https://pdf.ravelrycache.com/srody/1389250/NorwayPine.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770435670&Signature=zGBbbsi%2ByAGqf%2BYxNtrQIJGmR6Q%3D&key_expires=1770435670&key=_DE_Uhn5laNoYOZ45WJ9kQ",
     "size_bytes": 4898886
   }
 }

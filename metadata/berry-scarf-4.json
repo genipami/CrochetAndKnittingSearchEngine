@@ -1,40 +1,41 @@
 {
   "id": 1098578,
-  "name": "Berry Scarf",
+  "name": "berry scarf",
   "permalink": "berry-scarf-4",
   "url": "https://www.ravelry.com/patterns/library/berry-scarf-4",
   "external_url": "",
-  "designer_name": "Ayeong Son",
-  "project_type": "Scarf",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "ayeong son",
+  "project_type": "scarf",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Tosh Vintage",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Bobble",
-    "Garter stitch",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "bobble",
+    "garter stitch",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Written"
+    "charted",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     4.0
   ],
   "published": "2020/12/01",
-  "sizes_available": "Kids, Adults",
-  "rating_average": 4.7594936708860756,
-  "rating_count": 79,
-  "difficulty_average": 2.92,
-  "favorites_count": 6314,
-  "projects_count": 269,
+  "sizes_available": "kids, adults",
+  "rating_average": 4.771084337349397,
+  "rating_count": 83,
+  "difficulty_average": 2.8860759493670884,
+  "favorites_count": 6421,
+  "projects_count": 274,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/86120/664396"
+  "download_url": "http://www.ravelry.com/dls/86120/664396",
+  "notes": "berry scarf is based on a traditional bow tie scarf and designed with bobble and knot details. the scarf is very light and easy to carry. this pattern includes kids/adults size together so you can wear the same scarf with your kid. you can see the tutorials on the link below. \r\nhttps://youtu.be/v4elgb_-c98\r\n\r\n"
 }

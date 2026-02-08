@@ -1,40 +1,45 @@
 {
   "id": 1123291,
-  "name": "Socke 3",
+  "name": "socke 3",
   "permalink": "socke-3",
   "url": "https://www.ravelry.com/patterns/library/socke-3",
   "external_url": "https://nimble-needles.com/tutorials/how-to-knit-socks-for-beginners-the-easy-way/",
-  "designer_name": "Norman Schwarze",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "norman schwarze",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Springy Merino Nylon",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Kitchener stitch",
-    "Seamless",
-    "Top-down",
-    "Written"
+    "in the round",
+    "kitchener stitch",
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.5
   ],
   "published": "2021/03/01",
-  "sizes_available": "US 8,5 / EU 42",
-  "rating_average": 4.732394366197183,
-  "rating_count": 71,
-  "difficulty_average": 3.2153846153846155,
-  "favorites_count": 864,
-  "projects_count": 289,
+  "sizes_available": "us 8,5 / eu 42",
+  "rating_average": 4.736111111111111,
+  "rating_count": 72,
+  "difficulty_average": 3.196969696969697,
+  "favorites_count": 886,
+  "projects_count": 293,
   "free_ravelry_download": false,
-  "download_url": "https://nimble-needles.com/tutorials/how-to-knit-socks-for-beginners-the-easy-way/"
+  "download_url": "https://nimble-needles.com/tutorials/how-to-knit-socks-for-beginners-the-easy-way/",
+  "notes": "a very detailed **(video) tutorial** for some plain vanilla socks. all techniques and steps are explained using big pictures and very detailed written instructions. \r\n\r\n**this is a very detailed recipe** and not so much a pattern. i will show you how exactly you need to proceed to adapt the design so your socks will fit perfectly - no matter your size or gener.\r\n\r\nyou can pick any fingering or dk weight yarn, and use double-pointed knitting needles matching the weight (size 1-3). you do, however, need to knit a swatch to figure out your size.\r\n\r\nyou can knit these socks in one color or stripes (instructions are included for both versions).\r\n\r\n**these socks are knit the traditional way.** this means: top-down, with a gusset, on dpns. if you know how to, you could possibly adapt the design to magic loop as well (though the video is with dpns).\r\n\r\nfor sizes below 9, you only need one 100 gram skein. but i use three as i wanted to achieve stripes.\r\n\r\n**further materials:**\r\nyou will also need a crochet hook and a measuring tape"
 }

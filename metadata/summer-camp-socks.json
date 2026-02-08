@@ -1,48 +1,57 @@
 {
   "id": 956682,
-  "name": "Summer Camp Socks",
+  "name": "summer camp socks",
   "permalink": "summer-camp-socks",
   "url": "https://www.ravelry.com/patterns/library/summer-camp-socks",
   "external_url": "",
-  "designer_name": "Jill Zielinski",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "jill zielinski",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Primo Fingering",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Cashmere goat (Cashmere)",
+      "pct": 20.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 5.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "In the round",
-    "Kitchener stitch",
-    "Seamless",
-    "Top-down",
-    "Written"
+    "blocking",
+    "in the round",
+    "kitchener stitch",
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.25
   ],
   "published": "2019/08/01",
-  "sizes_available": "Women’s Medium ",
-  "rating_average": 4.820143884892087,
-  "rating_count": 139,
-  "difficulty_average": 2.5203252032520327,
-  "favorites_count": 5432,
-  "projects_count": 813,
+  "sizes_available": "women’s medium ",
+  "rating_average": 4.822695035460993,
+  "rating_count": 141,
+  "difficulty_average": 2.536,
+  "favorites_count": 5476,
+  "projects_count": 822,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/19171/552220",
+  "notes": "speckled yarn, color-blocking, and stripes gives a simple ribbed sock a whole lot of character! options to knit top-down on dpns or magic loop, this fingering weight design is my go-to sock pattern. i hope it will be yours too!\r\n\r\n\r\n* * *\r\n\r\n\r\n**size:**\r\nwomen’s medium (model shown is a size 7 us)\r\n\r\n**finished measurements:**\r\napprox 8.5\" / 21 cm foot circumference with foot length adjusted to fit. sample shown is 9” / 23 cm long.\r\n\r\n**yarn:**\r\nplucky knitter primo fingering (75% merino, 20% cashmere, 5% nylon; 440 yd / 402 m per 115 g);\r\nnorthport (mc) and summer suit (cc). 1 skein of each color.\r\nor... \r\nfingering weight yarn in the following amounts: \r\n• approx 295 yds / 270 m mc\r\n• approx 85 yds / 77 m of cc\r\n\r\n**gauge:**\r\n34 sts x 44 rnds = 4\" / 10 cm in stockinette stitch\r\n\r\n**needles:**\r\n*needles listed are suggested. always take time to swatch.*\r\n• size us 1 / 2.25 mm set of 5 double pointed needles (dpns) (dpn directions)—or size necessary to obtain gauge\r\nor\r\n• size us 1 / 2.25 mm 40” circular needle (magic loop directions)—or size necessary to obtain gauge\r\n\r\n**tools:**\r\nstitch marker(s) and tapestry needle\r\n\r\n**notes:**\r\n• this pattern is written for both double pointed needles method and magic loop method.\r\n• in sections where both are indicated be sure to choose which method and follow that set of instructions.\r\n",
   "pdf": {
     "filename": "956682.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\956682.pdf",
-    "url": "https://pdf.ravelrycache.com/Knitterella/1023750/KNI-PAT35-SummerCampSocks-v2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483435&Signature=lhMjOTE7PXUzYxegNor37YLMZ1Y%3D&key_expires=1768483435&key=BRXSFwOPOOduAf-c1cJUbw",
+    "url": "https://pdf.ravelrycache.com/Knitterella/1023750/KNI-PAT35-SummerCampSocks-v2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770442892&Signature=boEtoFbN0bNuuhqG2uKfSR4dbwU%3D&key_expires=1770442892&key=hgJuecZztobHSwAHxFCE1w",
     "size_bytes": 3373675
   }
 }

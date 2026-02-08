@@ -1,28 +1,28 @@
 {
   "id": 7492931,
-  "name": "Celina",
+  "name": "celina",
   "permalink": "celina-6",
   "url": "https://www.ravelry.com/patterns/library/celina-6",
   "external_url": "https://en.filcolana.dk/celina.html",
-  "designer_name": "Sanne Bjerregaard",
-  "project_type": "Vest",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "sanne bjerregaard",
+  "project_type": "vest",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Alva",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 50.0
     },
     {
-      "fiber": "Pernilla",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 50.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "In the round",
-    "Top-down",
-    "Written"
+    "in the round",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -30,12 +30,13 @@
     4.0
   ],
   "published": "2026/01/01",
-  "sizes_available": "XS (S) M (L) XL (2XL) 3XL",
+  "sizes_available": "xs (s) m (l) xl (2xl) 3xl",
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 832,
-  "projects_count": 2,
+  "favorites_count": 909,
+  "projects_count": 4,
   "free_ravelry_download": false,
-  "download_url": "https://en.filcolana.dk/celina.html"
+  "download_url": "https://en.filcolana.dk/celina.html",
+  "notes": "the slipover is knitted from the top down.\r\n\r\nit is worked back and forth across the shoulder section, with increases on every row, on both sides of the shoulders. a yarn over is made on every row and the dropped on the following row, to make the height ofthe shoulder stitches match the gauge of the shoulder width.\r\n\r\nonce the full shoulder width has been reached, the work is divided, and the back and front are knitted separately down to the join under the armhole. from there, the body is worked in the round.\r\n\r\nthe body is finished with a rib edge and are finished with an italian bind off.\r\n\r\nstitches are then picked up along the armhole edges and neckline, which are also worked in rib.\r\n\r\nall rib edges are finished with an italian bind-off."
 }

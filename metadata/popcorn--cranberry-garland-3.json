@@ -1,29 +1,33 @@
 {
   "id": 7394858,
-  "name": "Popcorn & Cranberry Garland",
+  "name": "popcorn & cranberry garland",
   "permalink": "popcorn--cranberry-garland-3",
   "url": "https://www.ravelry.com/patterns/library/popcorn--cranberry-garland-3",
   "external_url": "https://www.deliacreates.com/popcorn-cranberry-crochet-garland-tutorial/",
-  "designer_name": "Delia Randall",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Bulky",
+  "designer_name": "delia randall",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Wool Ease Thick & Quick",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Popcorn",
-    "Puff stitch",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "lace",
+    "popcorn",
+    "puff stitch",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Lace",
-    "Written"
+    "lace",
+    "written"
   ],
   "hook_sizes_mm": [
     3.25,
@@ -35,8 +39,9 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 184,
-  "projects_count": 18,
+  "favorites_count": 199,
+  "projects_count": 19,
   "free_ravelry_download": false,
-  "download_url": "https://www.deliacreates.com/popcorn-cranberry-crochet-garland-tutorial/"
+  "download_url": "https://www.deliacreates.com/popcorn-cranberry-crochet-garland-tutorial/",
+  "notes": "materials\r\n* super bulky yarn (i used 2 skeins of wool-ease thick & quick - 106 yds each to fill a 7-foot tree)\r\n* 6.5mm and 3.25mm hook (6.5mm for the yarn & 3.25mm for the beads)\r\n* 12mm wooden beads with 3mm hole (see pattern for link to beads used - 172 for a 24 ft. long garland)\r\n* scissors\r\n* optional: jar opener or deflated balloon\r\n\r\nsizing\r\none skein of super bulky yarn that is about 106 yards long, worked with 1 bead in between each puff stitch (172 beads total), equals about 24.5 feet long. depending on how densely you want your garland laced around your tree, i would recommend 2-3 garlands for a 7-8 foot tree."
 }

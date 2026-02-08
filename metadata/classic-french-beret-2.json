@@ -1,27 +1,27 @@
 {
   "id": 303370,
-  "name": "Classic French Beret",
+  "name": "classic french beret",
   "permalink": "classic-french-beret-2",
   "url": "https://www.ravelry.com/patterns/library/classic-french-beret-2",
   "external_url": "",
-  "designer_name": "Erika Larner",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "erika larner",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Cashmere 4 Ply",
-      "pct": null
+      "fiber": "Cashmere goat (Cashmere)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -30,17 +30,18 @@
   ],
   "published": "2012/02/01",
   "sizes_available": "medium",
-  "rating_average": 4.787096774193548,
-  "rating_count": 155,
-  "difficulty_average": 2.0134228187919465,
-  "favorites_count": 4858,
-  "projects_count": 523,
+  "rating_average": 4.789808917197452,
+  "rating_count": 157,
+  "difficulty_average": 2.013245033112583,
+  "favorites_count": 4898,
+  "projects_count": 530,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/27736/94531",
+  "notes": "this pattern is available for free\r\n\r\na simple, tailored beret. no fancy stitches, just a showcase for a gorgeous yarn! soft and light, just right for a wintry day in the city of lights…\r\n\r\nthe yarn does all the work in this chic and quick to knit hat. keep it simple with a luxe, tonal, hand painted fabric, pair it with a trench coat and a bold scarf, and when you go to paris you will be asked for directions. i was!\r\n\r\nthis is my first published pattern, so i would welcome any feedback…\r\n",
   "pdf": {
     "filename": "303370.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\303370.pdf",
-    "url": "https://pdf.ravelrycache.com/badknitty/147213/Classic_French_Beret.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479571&Signature=4o%2Fy8sy4Zfza%2BjX8cNLqR5RjfaQ%3D&key_expires=1768479571&key=PL_xA9AKOuCXYb1Mvhockw",
+    "url": "https://pdf.ravelrycache.com/badknitty/147213/Classic_French_Beret.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770421684&Signature=S07NqbkY0%2FvyypJ3JFllLG%2FyH00%3D&key_expires=1770421684&key=hL6vg2RsyBHFb3RpJ9IRbA",
     "size_bytes": 601374
   }
 }

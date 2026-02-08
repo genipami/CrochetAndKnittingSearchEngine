@@ -1,31 +1,27 @@
 {
   "id": 7482844,
-  "name": "Bobble Frost Snowflake",
+  "name": "bobble frost snowflake",
   "permalink": "bobble-frost-snowflake",
   "url": "https://www.ravelry.com/patterns/library/bobble-frost-snowflake",
   "external_url": "",
-  "designer_name": "Renata Saj",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Lace",
+  "designer_name": "renata saj",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "lace",
   "materials": [
     {
-      "fiber": "Catona",
-      "pct": null
-    },
-    {
-      "fiber": "Maxi Sweet Treat",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Bobble",
-    "Lace",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "bobble",
+    "lace",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Lace"
+    "lace"
   ],
   "hook_sizes_mm": [
     2.0
@@ -34,10 +30,11 @@
   "published": "2025/11/01",
   "sizes_available": "8 cm (cotton thread), 10 cm (fingering yarn)",
   "rating_average": 5.0,
-  "rating_count": 9,
-  "difficulty_average": 3.25,
-  "favorites_count": 1187,
-  "projects_count": 36,
+  "rating_count": 11,
+  "difficulty_average": 2.9,
+  "favorites_count": 1288,
+  "projects_count": 38,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/77842/1040999"
+  "download_url": "http://www.ravelry.com/dls/77842/1040999",
+  "notes": "materials:\r\nyarn: any cotton thread, lace or fingering yarn and optioneel glitter thread held together (size 10 thread, lace weight of fingering yarn)\r\nin the pattern:  \r\n1. cotton thread - scheepjes maxi sweet treat, 25 g/140 m and drops glitter silver: 700 meters 10g\r\nhook: 1,75 - 2 mm \r\nsize: 8 cm\r\n\r\n2. fingering yarn - scheepjes catona\r\nhook: 2,5 mm \r\nsize: 10 cm\r\nscissors, tapestry needle to weave in ends. you can use any similar yarn and suitable hook.\r\n\r\nskill level: intermediate"
 }

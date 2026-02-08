@@ -1,28 +1,28 @@
 {
   "id": 707632,
-  "name": "PussyHat Project",
+  "name": "pussyhat project",
   "permalink": "pussyhat-project",
   "url": "https://www.ravelry.com/patterns/library/pussyhat-project",
   "external_url": "https://www.pussyhatproject.com",
-  "designer_name": "Kat Coyle",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "kat coyle",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Worsted",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Seamed",
-    "Written"
+    "bottom-up",
+    "seamed",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -30,17 +30,18 @@
   ],
   "published": "2016/11/01",
   "sizes_available": "medium",
-  "rating_average": 4.631639281620176,
-  "rating_count": 2617,
-  "difficulty_average": 1.375319459656809,
-  "favorites_count": 14763,
-  "projects_count": 13058,
+  "rating_average": 4.631779984721161,
+  "rating_count": 2618,
+  "difficulty_average": 1.3751824817518248,
+  "favorites_count": 14847,
+  "projects_count": 13063,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/44/369996",
+  "notes": "the [pussyhat project][1] aims to: \r\n\r\n1. provide the people of the women’s march on washington d.c. a means to make a unique collective visual statement which will help activists be better heard.\r\n2. provide people who cannot physically be on the national mall a way to represent them- selves and support women’s rights.\r\n\r\n**the more we are seen, the more we are heard.\r\nlet’s come together to support women’s rights in a creative and impactful way.**\r\n\r\nif you are a knitter who wants to participate in the women’s march on washington d.c., but perhaps cannot attend yourself, please consider making a pink hat for a person who will be there. the weather in d.c. that day will be a high of 35-45°f and a low of 15-25°f, so hats will be practically important to keep warm.\r\n\r\nwe have a [ravelry group][2] if you'd like to chat with other pussyhat makers! [come join us][3]! posting about the hat somewhere that uses hashtags? use #pussyhatproject  \r\n\r\nfor more information about the pussyhat project, the women's march on dc, and easy, adorable hat, check out the .pdf here and visit [pussyhatproject.com][4] \r\n\r\n[her][5] er en versjon av pussyhat oppskrift av kat coyle på norsk, strikket på rundpinner eller rette pinner.\r\n\r\n[nederlandstalig][6]\r\n\r\n\r\n  [1]: https://www.pussyhatproject.com/\r\n  [2]: http://www.ravelry.com/groups/pussyhat-project\r\n  [3]: http://www.ravelry.com/groups/pussyhat-project\r\n  [4]: https://www.pussyhatproject.com/\r\n  [5]: http://karnknits.blogspot.no/2017/01/pussyhat-lue-strikkeoppskrift-pa-norsk.html\r\n  [6]: http://flowersandfeathers.be/2017/02/28/diy-brei-een-pussyhat-nederlandstalig-patroon/",
   "pdf": {
     "filename": "707632.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\707632.pdf",
-    "url": "https://pdf.ravelrycache.com/katcoyle/650358/PussyProjectPDF4pages11-26.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482592&Signature=WIrbKBMGUTuj1D94dZdrjELEBCk%3D&key_expires=1768482592&key=mIvAt-hmL48IIRZ6-jyu2w",
+    "url": "https://pdf.ravelrycache.com/katcoyle/650358/PussyProjectPDF4pages11-26.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770438192&Signature=nbjPXv0adG%2BS3lGJnXsgDJoyJkA%3D&key_expires=1770438192&key=Ia1W84ZcfnBKhN1YOXZZRQ",
     "size_bytes": 5763934
   }
 }

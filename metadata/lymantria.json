@@ -1,22 +1,26 @@
 {
   "id": 1059595,
-  "name": "Lymantria",
+  "name": "lymantria",
   "permalink": "lymantria",
   "url": "https://www.ravelry.com/patterns/library/lymantria",
   "external_url": "",
-  "designer_name": "Woolen Fantasies by Ewa Hanc",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Fingering",
+  "designer_name": "woolen fantasies by ewa hanc",
+  "project_type": "shawl/wrap",
+  "fiber_art": "crochet",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Whirl",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 60.0
+    },
+    {
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 40.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [
@@ -28,14 +32,15 @@
   "rating_average": 4.911764705882353,
   "rating_count": 34,
   "difficulty_average": 4.0606060606060606,
-  "favorites_count": 3839,
+  "favorites_count": 3868,
   "projects_count": 115,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/76616/632340",
+  "notes": "dane techniczne chusty:\r\n\r\nwłóczka: scheepjes whirl liquorice yumyum 60% bawełna, 40% akryl, 1000 m, długość optymalna włóczki to około 1000 – 1500 m.\r\nszydełko: 3,75\r\nwymiary chusty: 170x85 cm\r\n\r\nrozmiar można dopasować za pomocą dowolnego rozmiaru szydełka i długości włóczki.\r\n\r\nwzór zawiera schemat, legendę w języku polskim oraz krótki komentarz z uwagami do schematu.\r\n\r\nwięcej informacji znajdziesz na: https://www.facebook.com/brecatewabrandys",
   "pdf": {
     "filename": "1059595.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1059595.pdf",
-    "url": "https://pdf.ravelrycache.com/BreCatEwaBrandys/1176060/Lymantria.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481591&Signature=IR4OS8E9ViEaonBjyJzIrK8BAk4%3D&key_expires=1768481591&key=KufSLvfomkIi-mASptGpjw",
+    "url": "https://pdf.ravelrycache.com/BreCatEwaBrandys/1176060/Lymantria.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770432857&Signature=1M8m3AkY8wsUIruzijY%2BjWrTSVk%3D&key_expires=1770432857&key=YcjWC5HLAifLWCw9dXCG7A",
     "size_bytes": 5644865
   }
 }

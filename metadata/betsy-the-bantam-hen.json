@@ -1,22 +1,22 @@
 {
   "id": 7299200,
-  "name": "Betsy the Bantam Hen",
+  "name": "betsy the bantam hen",
   "permalink": "betsy-the-bantam-hen",
   "url": "https://www.ravelry.com/patterns/library/betsy-the-bantam-hen",
   "external_url": "",
-  "designer_name": "Miss WitchCrafts",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Bulky",
+  "designer_name": "miss witchcrafts",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Blanket",
-      "pct": null
+      "fiber": "Polyester (Polyester)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     8.0,
@@ -28,14 +28,15 @@
   "rating_average": 4.9375,
   "rating_count": 16,
   "difficulty_average": 2.0714285714285716,
-  "favorites_count": 1644,
-  "projects_count": 57,
+  "favorites_count": 1654,
+  "projects_count": 58,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/99252/897221",
+  "notes": "easy low-sew amigurumi recommended for advanced beginner to intermediate level crocheters.\r\n\r\nupdate: as of april 2025, the pdf pattern for betsy is new and improved!\r\n\r\nplease see the newly formatted written pattern that now includes a cozy nest add on for betsy!",
   "pdf": {
     "filename": "7299200.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7299200.pdf",
-    "url": "https://pdf.ravelrycache.com/MissWitchCrafts/2015425/Betsy_the_Bantam_Hen.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479105&Signature=fUq1wkNElmXyZK22dQ7336v4J10%3D&key_expires=1768479105&key=sATvevSwYXV2v0pjZrEXKg",
+    "url": "https://pdf.ravelrycache.com/MissWitchCrafts/2015425/Betsy_the_Bantam_Hen.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770418990&Signature=vE9P0Jc7SsCOdiyN1lpjz9FlLmA%3D&key_expires=1770418990&key=g70wkfGADNuUuuanyaA9Iw",
     "size_bytes": 1046209
   }
 }

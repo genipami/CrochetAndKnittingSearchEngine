@@ -1,26 +1,30 @@
 {
   "id": 7447286,
-  "name": "Columbine Pentagon",
+  "name": "columbine pentagon",
   "permalink": "columbine-pentagon",
   "url": "https://www.ravelry.com/patterns/library/columbine-pentagon",
   "external_url": "",
-  "designer_name": "The sky crochet",
-  "project_type": "Other",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "the sky crochet",
+  "project_type": "other",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Milk Cotton(依棉)",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Written"
+    "blocking",
+    "written"
   ],
   "hook_sizes_mm": [
     3.5
@@ -31,14 +35,15 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 414,
+  "favorites_count": 425,
   "projects_count": 7,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/105837/1013472",
+  "notes": "this pattern is inspired by the *red and yellow columbine flower.*\r\nit is an afghan block. can be used as a blanket, cushion cover, throw, table runner or bag.\r\nbeautiful textured floral and simple pattern.\r\n\r\ncrochet terms\r\nus\r\nskill level\r\nexperimental beginners and intermediate.\r\npattern\r\nwritten instructions and step by step images for every round.\r\nsize\r\n20cm x 20cm/8” x 8” (after blocking)\r\ngauge\r\nmedium tension\r\nhook size\r\n3.5 mm\r\nyarn\r\nyimian(依棉) milk cotton(依棉), 50gm ball\r\n\r\ncolourway\r\ncolour a - wine red × 1 balls \r\ncolour b - autumn yellow × 1 balls\r\ncolour c - watermelon red × 1 balls\r\ncolour d - candy corn × 1 balls\r\ncolour e - grass green × 1 balls\r\ncolour f - ink green × 1 balls\r\n\r\n\r\n\r\ninstagram- [@sadika_sobhan][1]\r\npattern workshop group- [the sky crochet pattern group][2] \r\nspecial thanks to all my lovely testers. you made a great and very helpful job. thank you so much.\r\nsadika\r\n\r\n\r\n  [1]: https://www.instagram.com/sadika_sobhan?igsh=mwq5mgl6emqwbnpjda==\r\n  [2]: https://www.facebook.com/share/g/1cdwmns4ge/",
   "pdf": {
     "filename": "7447286.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7447286.pdf",
-    "url": "https://pdf.ravelrycache.com/sadika2/2032573/Columbine_Pentagon_.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479643&Signature=R0yQdSuuyrq3v3pylA%2Bip9mtR1U%3D&key_expires=1768479643&key=Fnu3Vo4GepmAq7_5WGrkZg",
+    "url": "https://pdf.ravelrycache.com/sadika2/2032573/Columbine_Pentagon_.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770422066&Signature=KiswYuLGXG73ewXLcNDPbdNTI2k%3D&key_expires=1770422066&key=ZjUTaT_s_m0P67K99NgwSw",
     "size_bytes": 18901855
   }
 }

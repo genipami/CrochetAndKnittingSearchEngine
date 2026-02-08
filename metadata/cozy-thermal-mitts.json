@@ -1,26 +1,26 @@
 {
   "id": 190477,
-  "name": "Cozy Thermal Mitts",
+  "name": "cozy thermal mitts",
   "permalink": "cozy-thermal-mitts",
   "url": "https://www.ravelry.com/patterns/library/cozy-thermal-mitts",
   "external_url": "",
-  "designer_name": "Karen Everitt",
-  "project_type": "Mittens/Gloves",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "karen everitt",
+  "project_type": "mittens/gloves",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Merino Worsted",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch"
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless",
-    "Written"
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -28,17 +28,18 @@
   ],
   "published": "2010/08/01",
   "sizes_available": "",
-  "rating_average": 4.587931034482758,
-  "rating_count": 580,
-  "difficulty_average": 2.2320819112627985,
-  "favorites_count": 9652,
-  "projects_count": 1917,
+  "rating_average": 4.590051457975986,
+  "rating_count": 583,
+  "difficulty_average": 2.232597623089983,
+  "favorites_count": 9696,
+  "projects_count": 1935,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/13793/41169",
+  "notes": "this pattern is being test knit.  hope to release it in august.  i love all things thermal and wanted some fingerless mitts that had stockinette stitch  on the palm side to eliminate any bulk there........needed cozy thermals for my hands:)",
   "pdf": {
     "filename": "190477.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\190477.pdf",
-    "url": "https://pdf.ravelrycache.com/symonangel/438781/Cozy_Thermal_Mitts_re-do_2015.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479744&Signature=jIPIaK6GLXdGKz2mXfwlAiGEZNk%3D&key_expires=1768479744&key=yOT7IEefwhmVDPr2_0_C3w",
+    "url": "https://pdf.ravelrycache.com/symonangel/438781/Cozy_Thermal_Mitts_re-do_2015.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770422486&Signature=RYvUq4VRDAunMCe7p2Zbx1dk5kc%3D&key_expires=1770422486&key=qRCUR3_qVmiCch7hwKNR4Q",
     "size_bytes": 384946
   }
 }

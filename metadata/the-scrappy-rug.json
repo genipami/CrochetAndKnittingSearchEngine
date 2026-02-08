@@ -1,35 +1,27 @@
 {
   "id": 1133215,
-  "name": "The Scrappy Rug",
+  "name": "the scrappy rug",
   "permalink": "the-scrappy-rug",
   "url": "https://www.ravelry.com/patterns/library/the-scrappy-rug",
   "external_url": "",
-  "designer_name": "Sheila Boyer - Pebbaluna",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Super Bulky",
+  "designer_name": "sheila boyer - pebbaluna",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "super bulky",
   "materials": [
     {
-      "fiber": "Sugar'n Cream Stripes",
-      "pct": null
-    },
-    {
-      "fiber": "Sugar'n Cream The Original (Ombres)",
-      "pct": null
-    },
-    {
-      "fiber": "Sugar'n Cream The Original (Solids)",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "lace",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Lace"
+    "in the round",
+    "lace"
   ],
   "hook_sizes_mm": [
     9.0
@@ -40,14 +32,15 @@
   "rating_average": 4.125,
   "rating_count": 8,
   "difficulty_average": 1.375,
-  "favorites_count": 4975,
-  "projects_count": 69,
+  "favorites_count": 5020,
+  "projects_count": 72,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/79705/692083",
+  "notes": "this crochet rug is the perfect stash buster- it is made using 8 strands of worsted weight yarn held together, so adding scraps of yarn is easy to do. the rug can be made as big or as small as you would like- you could even make mini ones and use them as place mats!\r\n\r\n\r\nadding all sorts of colors makes for a very fun and colorful rug! there is no “wrong” color!",
   "pdf": {
     "filename": "1133215.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1133215.pdf",
-    "url": "https://pdf.ravelrycache.com/3moonknits/1307371/The_Scrappy_Crochet_Rug.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483678&Signature=0cQFuwPVO4lacyBABPdJezFhEVc%3D&key_expires=1768483678&key=ZJmLzvnzkFvuG_Xe9pO8mg",
+    "url": "https://pdf.ravelrycache.com/3moonknits/1307371/The_Scrappy_Crochet_Rug.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770444452&Signature=ByYOCWRYYOtiCqTsYEclbqJtaMo%3D&key_expires=1770444452&key=4BtLUv_XR7soA_Yqr9W0bw",
     "size_bytes": 1556592
   }
 }

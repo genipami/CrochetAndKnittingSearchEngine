@@ -1,46 +1,55 @@
 {
   "id": 945781,
-  "name": "Wish You Were Here",
+  "name": "wish you were here",
   "permalink": "wish-you-were-here-3",
   "url": "https://www.ravelry.com/patterns/library/wish-you-were-here-3",
   "external_url": "",
-  "designer_name": "The Kitchen Sink Shop",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "the kitchen sink shop",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Luxury MCN",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 70.0
+    },
+    {
+      "fiber": "Cashmere goat (Cashmere)",
+      "pct": 20.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Treble crochet (tr)"
+    "lace",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Kitchener stitch",
-    "Lace",
-    "Written"
+    "in the round",
+    "kitchener stitch",
+    "lace",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.25
   ],
   "published": "2019/07/01",
-  "sizes_available": "Adult Small and Adult Medium",
+  "sizes_available": "adult small and adult medium",
   "rating_average": 4.875,
   "rating_count": 120,
   "difficulty_average": 2.4622641509433962,
-  "favorites_count": 3497,
-  "projects_count": 438,
+  "favorites_count": 3508,
+  "projects_count": 440,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/73541/544518",
+  "notes": "like postcard from your favourite trip, these shortie socks are the perfect pattern to knit while on vacation or with a special skein of yarn picked up in your travels.  for me, knitting projects are always infused with memories of the place and time i spent knitting on them, and none more so than summer knitting projects!  whether you’re on the beach, camping, at the cottage or in your own backyard, wish you were here socks are a fun and simple knit with a super easy-to-memorize lace pattern!  these socks knit up in no time and are a great stash buster too!  so gather round the campfire and knit along with me!\r\n\r\nthese socks are knit cuff down with a simple 9 stitch lace pattern that is repeated once down the side of each sock (mirrored).\r\n\r\nthe pattern is written for dpns but can be adapted for magic loop or circular needles.\r\n\r\nalthough the pattern is written as a shortie sock pattern, of course you can knit the leg as long as you like!",
   "pdf": {
     "filename": "945781.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\945781.pdf",
-    "url": "https://pdf.ravelrycache.com/KitchenSinkShop/999648/Wish_You_Were_Here_Socks_-_Final_updated_0720.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484179&Signature=KiI79yxpQvwluvJUQDF23JMvDYw%3D&key_expires=1768484179&key=l7t0XRNnKnyaqIidHIEAuQ",
+    "url": "https://pdf.ravelrycache.com/KitchenSinkShop/999648/Wish_You_Were_Here_Socks_-_Final_updated_0720.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770447098&Signature=bNgCnKcIFTJTXp%2B0wkiH6IDYLXw%3D&key_expires=1770447098&key=2GjV7H19tf9V-67nlRyGYw",
     "size_bytes": 1061682
   }
 }

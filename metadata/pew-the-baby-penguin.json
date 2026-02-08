@@ -1,24 +1,28 @@
 {
   "id": 1091842,
-  "name": "Pew the baby penguin",
+  "name": "pew the baby penguin",
   "permalink": "pew-the-baby-penguin",
   "url": "https://www.ravelry.com/patterns/library/pew-the-baby-penguin",
   "external_url": "https://khuccay.com/free-pattern-pew-the-baby-penguin/",
-  "designer_name": "Khuc cay",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "khuc cay",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Softfun",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 60.0
+    },
+    {
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 40.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)"
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     2.5
@@ -26,11 +30,12 @@
   "needle_sizes_mm": [],
   "published": "2020/12/01",
   "sizes_available": "10 cm",
-  "rating_average": 4.803921568627451,
-  "rating_count": 51,
-  "difficulty_average": 2.5531914893617023,
-  "favorites_count": 7589,
-  "projects_count": 226,
+  "rating_average": 4.8076923076923075,
+  "rating_count": 52,
+  "difficulty_average": 2.5833333333333335,
+  "favorites_count": 7626,
+  "projects_count": 228,
   "free_ravelry_download": false,
-  "download_url": "https://khuccay.com/free-pattern-pew-the-baby-penguin/"
+  "download_url": "https://khuccay.com/free-pattern-pew-the-baby-penguin/",
+  "notes": "materials\r\n\r\nyarn :  depends on your choice, i used dk weight yarn (140m/50gr) with colors: black, grey, cream. small amount of red, white, green, yellow\r\n\r\nhook : size 2.5 mm\r\n\r\ntwo 5mm safety eyes, one small button\r\n\r\nstuffing (polyfill, cotton wool, etc.), needle for sewing, scissors, pins\r\n\r\npink blush for the cheeks\r\n\r\nthe size of the penguin will vary, depending on the yarn used. if you use the same materials as me, the finished size is 10 cm (without hat)."
 }

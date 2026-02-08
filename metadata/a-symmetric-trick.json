@@ -1,26 +1,26 @@
 {
   "id": 838345,
-  "name": "A symmetric trick",
+  "name": "a symmetric trick",
   "permalink": "a-symmetric-trick",
   "url": "https://www.ravelry.com/patterns/library/a-symmetric-trick",
   "external_url": "",
-  "designer_name": "Nicola Susen",
-  "project_type": "Scarf",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "nicola susen",
+  "project_type": "scarf",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Wollmeisen Rolls",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamless",
-    "Written"
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -28,11 +28,12 @@
   ],
   "published": "2018/06/01",
   "sizes_available": "",
-  "rating_average": 4.837837837837838,
-  "rating_count": 111,
-  "difficulty_average": 1.9626168224299065,
-  "favorites_count": 5810,
-  "projects_count": 417,
+  "rating_average": 4.839285714285714,
+  "rating_count": 112,
+  "difficulty_average": 1.9722222222222223,
+  "favorites_count": 5833,
+  "projects_count": 418,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/29707/464495"
+  "download_url": "http://www.ravelry.com/dls/29707/464495",
+  "notes": "maximum freedom! your yarn. your gauge. your size.\r\n\r\ni like symmetrical shapes. symmetry is harmony.\r\nbut i am also fascinated by squaring the circle and i like to unite opposites.\r\na little trick turns the sideways-knitted classic into a symmetrical, isosceles triangle, while the long color gradient remains asymmetrical.\r\n\r\nwollmeise rolls are available at the [wollmeise webshop][1]\r\n\r\n----------------------------------------------------------------------------------------\r\n\r\nmaximale freiheit! dein garn. deine maschen. deine größe.\r\n\r\nich mag symmetrische formen. symmetrie ist harmonie.\r\naber mich fasziniert auch die quadratur des kreises und ich verbinde gerne gegensätze miteinander.\r\nmit einem kleinen trick wird hier der seitwärts-klassiker zu einem symmetrischen, gleichschenkligen dreieck, bei dem der lange farbverlauf asymmetrisch bleibt.\r\n\r\nwollmeise rolls bekommt ihr im [wollmeise webshop][1]\r\n\r\n  [1]: https://www.rohrspatzundwollmeise.de/specials/wollmeisen-rolls/"
 }

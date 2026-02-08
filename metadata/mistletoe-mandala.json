@@ -1,29 +1,29 @@
 {
   "id": 7481840,
-  "name": "Mistletoe Mandala",
+  "name": "mistletoe mandala",
   "permalink": "mistletoe-mandala",
   "url": "https://www.ravelry.com/patterns/library/mistletoe-mandala",
   "external_url": "https://virklust.wordpress.com/2025/11/25/mistletoe-mandala/",
-  "designer_name": "Karin Åshammar/Virklust",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Fingering",
+  "designer_name": "karin åshammar/virklust",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Catona",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Cluster stitch",
-    "Double crochet (dc)",
-    "Half double crochet (hdc)",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "cluster stitch",
+    "double crochet (dc)",
+    "half double crochet (hdc)",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     3.0
@@ -34,8 +34,9 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 213,
+  "favorites_count": 224,
   "projects_count": 5,
   "free_ravelry_download": false,
-  "download_url": "https://virklust.wordpress.com/2025/11/25/mistletoe-mandala/"
+  "download_url": "https://virklust.wordpress.com/2025/11/25/mistletoe-mandala/",
+  "notes": "textured doily/wall hanging which, depending on your color combination, can be suitable for a number of occasions. \r\n\r\nskill level: intermediate/advanced beginner.\r\n\r\nfinished size: approx 31 cm/12\" in suggested yarn. \r\n\r\nstitches used: sc, hdc, dc, tr, fpsc, fp/bpdc, dc cluster, picot. \r\n\r\nwritten instructions with some explanatory photos. "
 }

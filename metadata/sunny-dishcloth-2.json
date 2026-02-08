@@ -1,27 +1,27 @@
 {
   "id": 7492693,
-  "name": "Sunny Dishcloth",
+  "name": "sunny dishcloth",
   "permalink": "sunny-dishcloth-2",
   "url": "https://www.ravelry.com/patterns/library/sunny-dishcloth-2",
   "external_url": "https://www.knitpicks.com/sunny-dishcloth/p/N10116",
-  "designer_name": "Knit Picks Design Team",
-  "project_type": "Dishcloth",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "knit picks design team",
+  "project_type": "dishcloth",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Dishie",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch"
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "Charted",
-    "Seamless",
-    "Worked flat",
-    "Written"
+    "charted",
+    "seamless",
+    "worked flat",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -29,11 +29,12 @@
   ],
   "published": "2026/01/01",
   "sizes_available": "8.5″ width × 8.5″ length",
-  "rating_average": 0,
-  "rating_count": null,
-  "difficulty_average": 0,
-  "favorites_count": 57,
-  "projects_count": 5,
+  "rating_average": 4.333333333333333,
+  "rating_count": 3,
+  "difficulty_average": 1.3333333333333333,
+  "favorites_count": 77,
+  "projects_count": 7,
   "free_ravelry_download": false,
-  "download_url": "https://www.knitpicks.com/sunny-dishcloth/p/N10116"
+  "download_url": "https://www.knitpicks.com/sunny-dishcloth/p/N10116",
+  "notes": "add a bit of whimsy to wash-up! this cheerful dishcloth is knit in simple knit and purls and is perfect for a beginner knitter.\r\n\r\npattern is both charted and written out."
 }

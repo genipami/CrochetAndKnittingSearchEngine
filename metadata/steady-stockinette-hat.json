@@ -1,40 +1,49 @@
 {
   "id": 7478035,
-  "name": "Steady Stockinette Hat",
+  "name": "steady stockinette hat",
   "permalink": "steady-stockinette-hat",
   "url": "https://www.ravelry.com/patterns/library/steady-stockinette-hat",
   "external_url": "",
-  "designer_name": "Allison Schmidt",
-  "project_type": "Child",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "allison schmidt",
+  "project_type": "child",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Tweedy",
-      "pct": null
+      "fiber": "Falkland (Wool)",
+      "pct": 50.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 38.0
+    },
+    {
+      "fiber": "Other (Other)",
+      "pct": 12.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.25
   ],
   "published": "2025/11/01",
-  "sizes_available": "Newborn, Baby, Toddler, Child, (Adult Small, Medium, Large)",
-  "rating_average": 5.0,
-  "rating_count": 3,
-  "difficulty_average": 2.5,
-  "favorites_count": 783,
-  "projects_count": 45,
+  "sizes_available": "newborn, baby, toddler, child, (adult small, medium, large)",
+  "rating_average": 4.5,
+  "rating_count": 4,
+  "difficulty_average": 2.8,
+  "favorites_count": 892,
+  "projects_count": 62,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/83581/1037095"
+  "download_url": "http://www.ravelry.com/dls/83581/1037095",
+  "notes": "the basic stockinette hat that i just can’t stop making. after making one of these hats for everyone in my family, i decided it was time to figure out the pattern for any size i’d need. includes slouchy and fitted lengths. enjoy knitting your steady stockinette hat!\r\n\r\nsizes:\r\nnewborn, baby, toddler, child, (adult small, medium, large)\r\nthis hat is intended to have 1-2 inches (2.5-5 cm) of negative ease.\r\n\r\ncircumference inches: 12, 15, 17, 18 (19, 20, 22) or 30.5, 38, 43, 46 (48, 50, 56) cm.\r\n\r\nyarn requirements: \r\ndk weight yarn, i used hedgehog fibers tweedy (100g = 250 yards)\r\n\r\n88, 125, 175, 190, (237, 275, 325) yards\r\n\r\nus size #3 (3.25 mm) circular needles, or needles needed to get gauge. hat can be knit in magic loop or dpns\r\n\r\ngauge:\r\n21 sts x 32 rows = 4 inches (10 cm) in stockinette.\r\n\r\nnotions:\r\n5 removable stitch markers, tapestry needle, scissors.\r\n\r\npattern offers 3 instructions for creating the brim and fitted and slouchy lengths."
 }

@@ -1,36 +1,41 @@
 {
   "id": 7283437,
-  "name": "Cozy Winter Scarf",
+  "name": "cozy winter scarf",
   "permalink": "cozy-winter-scarf-3",
   "url": "https://www.ravelry.com/patterns/library/cozy-winter-scarf-3",
   "external_url": "https://easycrochet.com/crochet-winter-scarf-pattern/",
-  "designer_name": "Krista Cagle",
-  "project_type": "Scarf",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "krista cagle",
+  "project_type": "scarf",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Touch of Alpaca",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 90.0
+    },
+    {
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)"
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     6.5
   ],
   "needle_sizes_mm": [],
   "published": "2023/10/01",
-  "sizes_available": "One Size",
-  "rating_average": 4.5,
-  "rating_count": 6,
+  "sizes_available": "one size",
+  "rating_average": 4.571428571428571,
+  "rating_count": 7,
   "difficulty_average": 2.0,
-  "favorites_count": 395,
-  "projects_count": 38,
+  "favorites_count": 423,
+  "projects_count": 42,
   "free_ravelry_download": false,
-  "download_url": "https://easycrochet.com/crochet-winter-scarf-pattern/"
+  "download_url": "https://easycrochet.com/crochet-winter-scarf-pattern/",
+  "notes": ""
 }

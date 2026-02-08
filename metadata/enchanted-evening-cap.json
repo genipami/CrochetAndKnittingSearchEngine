@@ -1,43 +1,48 @@
 {
   "id": 7302216,
-  "name": "Enchanted Evening Cap",
+  "name": "enchanted evening cap",
   "permalink": "enchanted-evening-cap",
   "url": "https://www.ravelry.com/patterns/library/enchanted-evening-cap",
   "external_url": "",
-  "designer_name": "Amie Ochsenfeld",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "amie ochsenfeld",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Tough DK",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round"
+    "in the round"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     5.0
   ],
   "published": "2023/12/01",
-  "sizes_available": "Adult - One size",
+  "sizes_available": "adult - one size",
   "rating_average": 5.0,
   "rating_count": 13,
   "difficulty_average": 1.9230769230769231,
-  "favorites_count": 242,
-  "projects_count": 68,
+  "favorites_count": 245,
+  "projects_count": 69,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/56722/899732",
+  "notes": "a whimsical hat pattern that incorporates a double layered brim that will provide extra warmth around your ears on a crisp, cold day.  the enchanted evening cap is a magical hat pattern that will become your favorite go-to pattern for gift giving or for yourself.  \r\n\r\nbefore entering this enchanted knitting adventure, you should know the basics of stockinette stitch in the round, picking up stitches, and decreasing stitches.  \r\n\r\nif you have never made a double brim hat, i include instructions on how to do so in the pattern.  \r\n\r\nfor this charming hat pattern, you will need at least 65 grams of dk weight yarn.  in the pattern pictures, i used kimber's cozy creations tough dk in her self-striping colorway \"practical magic.\"\r\n\r\nthe finished, unblocked hat measures 9.75\" across at the widest point on the brim, 10 stitches per 2\", and 15 rows per 2\"\r\n\r\nthank you for your interest in the enchanted evening cap.  ",
   "pdf": {
     "filename": "7302216.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7302216.pdf",
-    "url": "https://pdf.ravelrycache.com/punkincurls/1766031/Enchanted_Evening_Cap.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480123&Signature=hpyUTEQzr4RVmw436GKWKfnXcTA%3D&key_expires=1768480123&key=S3gWcmhiDhYs3zjocaKgqQ",
+    "url": "https://pdf.ravelrycache.com/punkincurls/1766031/Enchanted_Evening_Cap.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770425092&Signature=Kxl3oec2gK%2BIYI5%2BSEQmXw2tZU0%3D&key_expires=1770425092&key=03oI1DwnuGbep7Vc3LtrFg",
     "size_bytes": 3480073
   }
 }

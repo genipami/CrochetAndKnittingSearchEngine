@@ -1,45 +1,50 @@
 {
   "id": 580119,
-  "name": "Rose City Rollers",
+  "name": "rose city rollers",
   "permalink": "rose-city-rollers",
   "url": "https://www.ravelry.com/patterns/library/rose-city-rollers",
   "external_url": "",
-  "designer_name": "Mara Catherine Bryner",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "mara catherine bryner",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Sock",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 90.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Kitchener stitch",
-    "Top-down"
+    "in the round",
+    "kitchener stitch",
+    "top-down"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.25
   ],
   "published": "2015/05/01",
-  "sizes_available": "S, M, L",
-  "rating_average": 4.8104125736738705,
-  "rating_count": 3054,
-  "difficulty_average": 2.210142410559222,
-  "favorites_count": 32756,
-  "projects_count": 17053,
+  "sizes_available": "s, m, l",
+  "rating_average": 4.810457516339869,
+  "rating_count": 3060,
+  "difficulty_average": 2.210197710718002,
+  "favorites_count": 32815,
+  "projects_count": 17078,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/50576/273690",
+  "notes": "easy, roll-top ankle socks perfect for summer knitting and wearing. these socks are knit from the top down, with a tradition heel flap and heel turn and three size options.  it's a great pattern for a beginner sock knitter, and a fun quick knit for more advanced sock knitters.  this sock is perfect for super bright, variegated yarns, they add a fun pop of color to any summer outfit!",
   "pdf": {
     "filename": "580119.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\580119.pdf",
-    "url": "https://pdf.ravelrycache.com/Maracatherine/474161/Rose_City_Rollers-2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482768&Signature=gVXMcK3v2Gk300XRyEnGhjkuGyA%3D&key_expires=1768482768&key=Zzx7BtSt8O93d4En9OwYdg",
+    "url": "https://pdf.ravelrycache.com/Maracatherine/474161/Rose_City_Rollers-2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770439124&Signature=lbtvtDjnGYjdyr4v44vIaP%2FcODE%3D&key_expires=1770439124&key=2uOH5tZZwqRdbPbd4vBx7g",
     "size_bytes": 19089509
   }
 }

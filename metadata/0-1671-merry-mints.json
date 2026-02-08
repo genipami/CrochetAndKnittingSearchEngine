@@ -1,30 +1,34 @@
 {
   "id": 7486278,
-  "name": "0-1671 Merry Mints",
+  "name": "0-1671 merry mints",
   "permalink": "0-1671-merry-mints",
   "url": "https://www.ravelry.com/patterns/library/0-1671-merry-mints",
   "external_url": "https://www.garnstudio.com/pattern.php?id=12518&cid=19",
-  "designer_name": "DROPS design",
-  "project_type": "Home",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "drops design",
+  "project_type": "home",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "DROPS Cotton Merino",
-      "pct": null
+      "fiber": "Metallic (Metallic)",
+      "pct": 50.0
     },
     {
-      "fiber": "DROPS Glitter",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 25.0
+    },
+    {
+      "fiber": "Merino (Merino)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamed",
-    "Written"
+    "seamed",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -35,8 +39,9 @@
   "rating_average": 4.75,
   "rating_count": 4,
   "difficulty_average": 1.25,
-  "favorites_count": 299,
+  "favorites_count": 335,
   "projects_count": 12,
   "free_ravelry_download": false,
-  "download_url": "https://www.garnstudio.com/pattern.php?id=12518&cid=19"
+  "download_url": "https://www.garnstudio.com/pattern.php?id=12518&cid=19",
+  "notes": "knitted christmas bauble in drops cotton merino. the piece is worked back and forth in garter stitch and stripes/spiral. theme: christmas.\r\ndrops design: pattern cm-164; yarn group b\r\n#dropsmerrymints\r\n\r\n**size**: diameter = 6 cm.\r\n\r\n**yarn:**\r\ndrops cotton merino from garnstudio\r\n50 g colour 01, off white\r\n50 g colour 06, cherry red\r\n\r\n1 bauble weighs approx. 10 g, without wadding.\r\n\r\n**accessories**:\r\nwadding.\r\ndrops glitter or left-over strand for loop.\r\n\r\n**needles**:\r\ndrops single pointed needles size 3 mm.\r\n\r\n**knitting tension**:\r\n23 stitches in width and 48 rows in height with garter stitch on needle size 3 mm = 10 x 10 cm."
 }

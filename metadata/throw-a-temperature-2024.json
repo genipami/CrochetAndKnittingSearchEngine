@@ -1,26 +1,30 @@
 {
   "id": 7304192,
-  "name": "Throw a temperature 2024",
+  "name": "throw a temperature 2024",
   "permalink": "throw-a-temperature-2024",
   "url": "https://www.ravelry.com/patterns/library/throw-a-temperature-2024",
   "external_url": "https://www.svartafaret.se/temperaturfilt-dampade-disa-392785-3",
-  "designer_name": "Svarta Fåret",
-  "project_type": "Blanket",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Sport",
+  "designer_name": "svarta fåret",
+  "project_type": "blanket",
+  "fiber_art": "crochet",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Tilda",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 50.0
+    },
+    {
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 50.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Modular",
-    "Seamless",
-    "Written"
+    "modular",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [
     3.5
@@ -28,11 +32,12 @@
   "needle_sizes_mm": [],
   "published": "2024/01/01",
   "sizes_available": "",
-  "rating_average": 4.857142857142857,
-  "rating_count": 7,
-  "difficulty_average": 3.8333333333333335,
-  "favorites_count": 813,
+  "rating_average": 4.75,
+  "rating_count": 8,
+  "difficulty_average": 4.142857142857143,
+  "favorites_count": 837,
   "projects_count": 74,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/87501/901235"
+  "download_url": "http://www.ravelry.com/dls/87501/901235",
+  "notes": "join us for a truly colorful cal that will last for the whole year! we will crochet a hexagon inspired by saskia (sassy sheep) every day in colors based on the temperature and by the end of the year you will have a big, beautiful blanket that will show the temperature through the year. choose which yarn you want to use, the gauge, size and feeling of the material is all depending on your own choice.\r\n\r\n#throwatemperature\r\n\r\njoin the cal on facebook! https://www.facebook.com/groups/1864129200706786 "
 }

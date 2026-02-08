@@ -1,29 +1,37 @@
 {
   "id": 1199770,
-  "name": "0-1553 Forest Spell",
+  "name": "0-1553 forest spell",
   "permalink": "0-1553-forest-spell",
   "url": "https://www.ravelry.com/patterns/library/0-1553-forest-spell",
   "external_url": "https://www.garnstudio.com/pattern.php?id=10640&cid=19",
-  "designer_name": "DROPS design",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Sport",
+  "designer_name": "drops design",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "DROPS Nord",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 45.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 30.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Seamless",
-    "Stranded colorwork",
-    "Written"
+    "charted",
+    "in the round",
+    "seamless",
+    "stranded colorwork",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -34,8 +42,9 @@
   "rating_average": 4.463414634146342,
   "rating_count": 41,
   "difficulty_average": 3.5428571428571427,
-  "favorites_count": 6503,
-  "projects_count": 263,
+  "favorites_count": 6579,
+  "projects_count": 268,
   "free_ravelry_download": false,
-  "download_url": "https://www.garnstudio.com/pattern.php?id=10640&cid=19"
+  "download_url": "https://www.garnstudio.com/pattern.php?id=10640&cid=19",
+  "notes": "knitted socks with nordic pattern in drops nord. size 35 to 43 theme: christmas.\r\n\r\ndrops design: pattern no-051;  yarn group a\r\n\r\n**size**:\r\n35/37 - 38/40 - 41/43\r\nfoot length: 22-24-27 cm\r\nleg height down to heel: approx. 17-18-19 cm\r\n\r\n**materials**:\r\ndrops nord from garnstudio (belongs to yarn group a)\r\n100-100-100 g colour 19, forest green\r\n50-50-50 g colour 03, pearl grey\r\n\r\nneedles:\r\ndrops double pointed needles size 2.5 mm\r\n\r\n**knitting tension**:\r\n26 stitches in width and 34 rows vertically in stocking stitch = 10 x 10 cm."
 }

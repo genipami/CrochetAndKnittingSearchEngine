@@ -1,25 +1,29 @@
 {
   "id": 1109618,
-  "name": "Modern Granny Boho Bag",
+  "name": "modern granny boho bag",
   "permalink": "modern-granny-boho-bag",
   "url": "https://www.ravelry.com/patterns/library/modern-granny-boho-bag",
   "external_url": "https://thecrochetcrowd.com/crochet-modern-granny-boho-bag/",
-  "designer_name": "Jeanne Steinhilber",
-  "project_type": "Bag",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "jeanne steinhilber",
+  "project_type": "bag",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Cotton Cakes",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 60.0
+    },
+    {
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 40.0
     }
   ],
   "stitches_used": [
-    "Granny",
-    "Treble crochet (tr)"
+    "granny",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     5.0
@@ -27,11 +31,12 @@
   "needle_sizes_mm": [],
   "published": "2021/01/01",
   "sizes_available": "",
-  "rating_average": 4.84375,
-  "rating_count": 32,
+  "rating_average": 4.848484848484849,
+  "rating_count": 33,
   "difficulty_average": 2.4375,
-  "favorites_count": 4399,
-  "projects_count": 149,
+  "favorites_count": 4424,
+  "projects_count": 151,
   "free_ravelry_download": false,
-  "download_url": "https://thecrochetcrowd.com/crochet-modern-granny-boho-bag/"
+  "download_url": "https://thecrochetcrowd.com/crochet-modern-granny-boho-bag/",
+  "notes": "the crochet modern granny boho bag is fun market tote that you can crochet in just a few hours.  the caron cotton cakes makes the striping very easy or use any cotton yarn and create your own color design."
 }

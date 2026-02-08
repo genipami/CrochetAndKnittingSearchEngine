@@ -1,24 +1,32 @@
 {
   "id": 7442403,
-  "name": "Wee Love Bug",
+  "name": "wee love bug",
   "permalink": "wee-love-bug",
   "url": "https://www.ravelry.com/patterns/library/wee-love-bug",
   "external_url": "",
-  "designer_name": "Taiga Hilliard",
-  "project_type": "Baby",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "taiga hilliard",
+  "project_type": "baby",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Burly",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Cashmere goat (Cashmere)",
+      "pct": 10.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "Seamless",
-    "Top-down",
-    "Written"
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -30,14 +38,15 @@
   "rating_average": 5.0,
   "rating_count": 5,
   "difficulty_average": 2.2,
-  "favorites_count": 317,
-  "projects_count": 15,
+  "favorites_count": 334,
+  "projects_count": 16,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/21945/1009528",
+  "notes": "wee love bug is a super-fast to knit baby sweater and only takes about an hour or so to make from start to finish.\r\n\r\nthis is knit top down, and you will only have 2\r\nends to weave in.\r\n\r\n\r\n\r\nfor a larger version: [here][1]\r\n\r\n\r\n  [1]: https://www.ravelry.com/patterns/library/wee-love-bug-2",
   "pdf": {
     "filename": "7442403.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7442403.pdf",
-    "url": "https://pdf.ravelrycache.com/cashmerejunkie/2054856/Wee_Love_Bug.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484107&Signature=%2BdVS%2BihGBFzgnnPJsbaAptV6fgs%3D&key_expires=1768484107&key=AaEE-igQlk6uom2Isy1n7w",
+    "url": "https://pdf.ravelrycache.com/cashmerejunkie/2054856/Wee_Love_Bug.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770446699&Signature=yKjbDWQf35e%2FPuiNdngitvGRoqI%3D&key_expires=1770446699&key=E3uQYyccsAGk5eAvUqiY0A",
     "size_bytes": 451851
   }
 }

@@ -1,27 +1,31 @@
 {
   "id": 128208,
-  "name": "Simple How-To-Knit Sock / Socken Stricken",
+  "name": "simple how-to-knit sock / socken stricken",
   "permalink": "simple-how-to-knit-sock---socken-stricken",
   "url": "https://www.ravelry.com/patterns/library/simple-how-to-knit-sock---socken-stricken",
   "external_url": "https://schachenmayr.com/en/free-patterns/socks-guide-r0333",
-  "designer_name": "Regia Designteam",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "regia designteam",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "4-fädig Color",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Kitchener stitch",
-    "Written"
+    "in the round",
+    "kitchener stitch",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -33,8 +37,9 @@
   "rating_average": 4.238095238095238,
   "rating_count": 126,
   "difficulty_average": 2.9,
-  "favorites_count": 924,
+  "favorites_count": 927,
   "projects_count": 894,
   "free_ravelry_download": false,
-  "download_url": "https://schachenmayr.com/en/free-patterns/socks-guide-r0333"
+  "download_url": "https://schachenmayr.com/en/free-patterns/socks-guide-r0333",
+  "notes": "a photo tutorial and generic sock pattern for knitting simple socks. includes a comprehensive chart for knitting many different sizes of socks (sizing given in eu sizes and length of foot in cm).\r\n\r\ncovers the welt, a round heel, and toe decrease\r\n\r\nleaflet comes free with yarn purchase.\r\n\r\n\r\noften comes along with the leaflet sock patterns for regia 4ply and 6ply, which can be found [here][4].\r\n\r\n\r\n"
 }

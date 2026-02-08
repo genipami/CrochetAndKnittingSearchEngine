@@ -1,39 +1,39 @@
 {
   "id": 321223,
-  "name": "Time Traveler Socks",
+  "name": "time traveler socks",
   "permalink": "time-traveler-socks",
   "url": "https://www.ravelry.com/patterns/library/time-traveler-socks",
   "external_url": "",
-  "designer_name": "Liz Sedmak",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "liz sedmak",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "DROPS Fabel",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 50.0
     },
     {
-      "fiber": "Felici Fingering Weight",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     },
     {
-      "fiber": "Linie 3 Supersocke 100",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Ribbing",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "ribbing",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Kitchener stitch",
-    "Seamless",
-    "Short rows",
-    "Written"
+    "charted",
+    "in the round",
+    "kitchener stitch",
+    "seamless",
+    "short rows",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -44,14 +44,15 @@
   "rating_average": 4.581850533807829,
   "rating_count": 562,
   "difficulty_average": 2.51268115942029,
-  "favorites_count": 9383,
-  "projects_count": 2936,
+  "favorites_count": 9434,
+  "projects_count": 2946,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/13533/109598",
+  "notes": "> if you like this pattern, please consider making a donation to comfort and cuddle, a 501(c)(3) organization that provides small hand knit and crocheted comfort blankets to children in need.  you can donate via paypal or credit card at [comfort and cuddle donations][1].\r\n\r\ni call this pattern time traveler not just because of the colorway i used when designing it, but also because the socks knit up so fast you'll feel like someone's been messing with your time and relative dimension in space!\r\n\r\nthis toe-up sock uses simple (yet interesting) variegated ribbing and a fleegle heel for a project that flies right off your needles and fits spectacularly. knit it in your favorite self-striping, self-patterning, pooling, or variegated yarn.\r\n\r\nit's great for a beginning sock knitter because the pattern requires no picking up of gusset stitches, no wrap and turn short rows, and no kitchener stitch. the foot length is completely adjustable for any size.\r\n\r\n",
   "pdf": {
     "filename": "321223.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\321223.pdf",
-    "url": "https://pdf.ravelrycache.com/completelyhooked/199331/Time_Traveler_Sock_Pattern_v6.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483748&Signature=tkgEIL6BRepNCfJi3WzVGPw702Y%3D&key_expires=1768483748&key=VJu7C6KG4_Rss_jbadQrUg",
+    "url": "https://pdf.ravelrycache.com/completelyhooked/199331/Time_Traveler_Sock_Pattern_v6.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770444764&Signature=O8ngasLfWY51zXpB7P%2F9p86WO6o%3D&key_expires=1770444764&key=ZqXAl3U8ti515kk3tj7lng",
     "size_bytes": 281058
   }
 }

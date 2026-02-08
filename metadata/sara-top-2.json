@@ -1,40 +1,45 @@
 {
   "id": 1016471,
-  "name": "Sara top",
+  "name": "sara top",
   "permalink": "sara-top-2",
   "url": "https://www.ravelry.com/patterns/library/sara-top-2",
   "external_url": "https://novita.com/en/patterns/sara-top-novita-wool-cotton",
-  "designer_name": "Novita",
-  "project_type": "Tank/Camisole",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "novita",
+  "project_type": "tank/camisole",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Wool Cotton",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 55.0
+    },
+    {
+      "fiber": "Cotton (Cotton)",
+      "pct": 45.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Charted",
-    "Seamed",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "charted",
+    "seamed",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     4.0
   ],
   "published": "2020/03/01",
-  "sizes_available": "XS(S)M(L)XL(XXL)",
+  "sizes_available": "xs(s)m(l)xl(xxl)",
   "rating_average": 4.39344262295082,
   "rating_count": 61,
   "difficulty_average": 2.642857142857143,
-  "favorites_count": 12334,
+  "favorites_count": 12412,
   "projects_count": 322,
   "free_ravelry_download": false,
-  "download_url": "https://novita.com/en/patterns/sara-top-novita-wool-cotton"
+  "download_url": "https://novita.com/en/patterns/sara-top-novita-wool-cotton",
+  "notes": "this top is worked seamlessly from hem to armholes. it's symmetrical, so you can choose whether you want the buttons front or back.\r\n\r\nsize\r\nxs(s)m(l)xl(xxl)\r\n\r\ndimensions when completed\r\nbody circumference 80(88)96(104)112(120) cm/31½(34¾)37¾(41)44(47¼) in\r\nside length 29(30)31(32)33(34) cm/11½(11¾)12¼(12½)13(13½) in\r\nheight of armhole 17(18)19(20)20(21) cm/6¾(7)7½(7¾)7¾(8¼) in\r\n\r\nyarn\r\nnovita wool cotton\r\n(010) off white 200(200)250(300)300(350) g\r\n\r\nother supplies\r\ncircular needles (80 cm/32 in) novita 4 mm (uk 8/us 6) or size needed to obtain gauge\r\n\r\nother supplies\r\n5 buttons"
 }

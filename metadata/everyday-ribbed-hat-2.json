@@ -1,37 +1,38 @@
 {
   "id": 7402415,
-  "name": "Everyday Ribbed Hat",
+  "name": "everyday ribbed hat",
   "permalink": "everyday-ribbed-hat-2",
   "url": "https://www.ravelry.com/patterns/library/everyday-ribbed-hat-2",
   "external_url": "https://bhookedcrochet.com/2022/03/18/everyday-rib-knit-hat/",
-  "designer_name": "B.Hooked Crochet & Knitting",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "b.hooked crochet & knitting",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Natural Wool",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round"
+    "in the round"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     4.5
   ],
   "published": "2022/03/01",
-  "sizes_available": "Small, Large",
-  "rating_average": 4.8108108108108105,
-  "rating_count": 37,
+  "sizes_available": "small, large",
+  "rating_average": 4.809523809523809,
+  "rating_count": 42,
   "difficulty_average": 2.0,
-  "favorites_count": 533,
-  "projects_count": 127,
+  "favorites_count": 592,
+  "projects_count": 145,
   "free_ravelry_download": false,
-  "download_url": "https://bhookedcrochet.com/2022/03/18/everyday-rib-knit-hat/"
+  "download_url": "https://bhookedcrochet.com/2022/03/18/everyday-rib-knit-hat/",
+  "notes": "**recommended supplies**\r\napprox 138(160) yds; la mia natural wool (colorway pictured: beige)\r\nus 7 circular needles, 16″\r\nus 7 double pointed needles or\r\nus 7 circular needles, 24″ or longer\r\nyarn needle\r\nscissors\r\n\r\n**pattern notes**\r\nthis simple ribbed knit hat is worked in the round starting with 16″ circular needles. you’ll be able to use these needles until you get to about round 6 of the crown decreases. at that point, the stitches will no longer stretch around the 16″ circumference, and you’ll need to switch to double pointed needles, or a 32″ circular needle (of the same 4.5mm size) to finish the crown decreases.\r\n\r\nmagic loop is our preferred method over using double-pointed needles so that’s what we demonstrate in the tutorial."
 }

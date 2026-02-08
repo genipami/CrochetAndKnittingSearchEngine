@@ -1,28 +1,28 @@
 {
   "id": 1084426,
-  "name": "Maja - cardigan",
+  "name": "maja - cardigan",
   "permalink": "maja---cardigan",
   "url": "https://www.ravelry.com/patterns/library/maja---cardigan",
   "external_url": "https://www.jarbo.se/maja-islandskofta-med-monsterstickat-ok-92621",
-  "designer_name": "Hélène Magnússon",
-  "project_type": "Cardigan",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "hélène magnússon",
+  "project_type": "cardigan",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Léttlopi",
-      "pct": null
+      "fiber": "Icelandic (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Seamless",
-    "Stranded colorwork",
-    "Top-down"
+    "bottom-up",
+    "in the round",
+    "seamless",
+    "stranded colorwork",
+    "top-down"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -30,12 +30,13 @@
     4.5
   ],
   "published": "2020/11/01",
-  "sizes_available": "XS (S) M (L) XL (2XL) 3XL (4XL)",
-  "rating_average": 4.632911392405063,
-  "rating_count": 237,
-  "difficulty_average": 4.465753424657534,
-  "favorites_count": 25486,
-  "projects_count": 1226,
+  "sizes_available": "xs (s) m (l) xl (2xl) 3xl (4xl)",
+  "rating_average": 4.630705394190872,
+  "rating_count": 241,
+  "difficulty_average": 4.434977578475336,
+  "favorites_count": 25818,
+  "projects_count": 1240,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/82366/652970"
+  "download_url": "http://www.ravelry.com/dls/82366/652970",
+  "notes": "**free pattern from järbo.** \r\n\r\n\r\n*january 2022: some of you seemed to have problems increasing in the sleeves within the motif so i draw a chart for each size: you will find it [here][1]. hope that helps! kindly, hélène*\r\n\r\n> january 2025: if you like the maja\r\n> cardigan, you may enjoy as well [maja\r\n> light][2], the top down dk version\r\n> (instructions are both for a pullover\r\n> and cardigan). warmly, hélène\r\n\r\n***we are happy to be able to share our patterns with you for free! unfortunately, we are not able to answer dm’s here on ravelry.\r\nhowever, we hope you will like the pattern and will enjoy seeing your project come to life!***\r\n\r\n**inspiration and free patterns**\r\nfollow järbo on [instagram][3]\r\n\r\n**reseller map**\r\n[jarbo.se][4] - brand website, in swedish\r\n[find a reseller][5] - nordic region, in swedish\r\n\r\n**our official online stores**\r\n[eddna.se][6], [eddna.no][7], [eddna.de][8], [eddna.at][9], [eddna.nl][10], [eddna.be][11]\r\n\r\njärbo is a swedish brand established in 1896. we offer nordic design, selected yarns and accessories in stores and online.\r\n\r\n\r\n  [1]: https://icelandicknitter.com/maja-cardigan-the-full-story-and-the-sleeves-charts/\r\n  [2]: https://www.ravelry.com/patterns/library/maja-light\r\n  [3]: https://www.instagram.com/jarbogarn/\r\n  [4]: https://www.jarbo.se/\r\n  [5]: https://www.jarbo.se/hitta-butik\r\n  [6]: https://www.eddna.se/\r\n  [7]: https://www.eddna.no/\r\n  [8]: https://www.eddna.de/\r\n  [9]: https://www.eddna.at/\r\n  [10]: https://www.eddna.nl/\r\n  [11]: https://www.eddna.be/"
 }

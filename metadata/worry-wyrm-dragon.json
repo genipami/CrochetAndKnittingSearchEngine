@@ -1,26 +1,26 @@
 {
   "id": 7313851,
-  "name": "Worry Wyrm Dragon",
+  "name": "worry wyrm dragon",
   "permalink": "worry-wyrm-dragon",
   "url": "https://www.ravelry.com/patterns/library/worry-wyrm-dragon",
   "external_url": "",
-  "designer_name": "Thalia Evans",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "thalia evans",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Half double crochet (hdc)",
-    "Lace",
-    "Popcorn",
-    "Single crochet (sc)",
-    "Slip stitch (sl st)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "half double crochet (hdc)",
+    "lace",
+    "popcorn",
+    "single crochet (sc)",
+    "slip stitch (sl st)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Lace",
-    "Written"
+    "lace",
+    "written"
   ],
   "hook_sizes_mm": [
     3.5
@@ -28,17 +28,18 @@
   "needle_sizes_mm": [],
   "published": "2024/02/01",
   "sizes_available": "one size",
-  "rating_average": 4.638461538461539,
-  "rating_count": 130,
-  "difficulty_average": 3.1587301587301586,
-  "favorites_count": 10147,
-  "projects_count": 492,
+  "rating_average": 4.641221374045801,
+  "rating_count": 131,
+  "difficulty_average": 3.141732283464567,
+  "favorites_count": 10417,
+  "projects_count": 503,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/104268/908383",
+  "notes": "pattern for a little dragon fidget toy, a variation on the worry worm idea! it has a stuffed plush head and a slinky, bendy body.\r\n\r\nthis is a no-sew pattern with no separate pieces to attach, everything is crocheted in place as you go. written pattern with progress photos.\r\n\r\nthese dragons are good for using up scraps of yarn and leaving as random acts of crochet kindness to brighten a stranger's day!\r\n\r\n**you’ll need:**\r\n- 3.5mm crochet hook\r\n- dk yarn of your choice\r\n- very small amount of stuffing (yarn scraps will do for this!)\r\n- needle, scissors, stitch marker\r\n- for the eyes: black (or contrasting) and white embroidery thread, or alternatively small safety eyes or two 4mm beads\r\n\r\nstitches used:\r\nchain, slip stitch, single crochet, half double crochet, double crochet, popcorn.\r\n\r\napprox finished size 6-7 inches long.\r\n\r\n",
   "pdf": {
     "filename": "7313851.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7313851.pdf",
-    "url": "https://pdf.ravelrycache.com/ThaliaEvansArt/1785655/worry_wyrm_pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484247&Signature=I5zPtpsjFBxRB0WtgH8BqNA6HDY%3D&key_expires=1768484247&key=uYIIvpvA5F9ApgmbLiiISw",
+    "url": "https://pdf.ravelrycache.com/ThaliaEvansArt/1785655/worry_wyrm_pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770447274&Signature=NwNCYaHWxof9LdWNYQjteVa%2FOoc%3D&key_expires=1770447274&key=6AODRolTUjCzBpch1igDCQ",
     "size_bytes": 1838154
   }
 }

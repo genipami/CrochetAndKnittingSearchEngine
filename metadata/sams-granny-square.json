@@ -1,45 +1,38 @@
 {
   "id": 7393733,
-  "name": "Sam’s Granny Square",
+  "name": "sam’s granny square",
   "permalink": "sams-granny-square",
   "url": "https://www.ravelry.com/patterns/library/sams-granny-square",
   "external_url": "https://cluelessrebel76.blogspot.com/2024/12/sams-granny-square.html",
-  "designer_name": "Theresa Cruz-Roman",
-  "project_type": "Blanket",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "theresa cruz-roman",
+  "project_type": "blanket",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Softee Baby, Solids & Marls",
-      "pct": null
-    },
-    {
-      "fiber": "Super Saver (Prints / Variegated)",
-      "pct": null
-    },
-    {
-      "fiber": "Super Saver (solids)",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Granny"
+    "granny"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     4.25
   ],
   "needle_sizes_mm": [],
   "published": "2024/12/01",
-  "sizes_available": "One size",
+  "sizes_available": "one size",
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 64,
+  "favorites_count": 68,
   "projects_count": 25,
   "free_ravelry_download": false,
-  "download_url": "https://cluelessrebel76.blogspot.com/2024/12/sams-granny-square.html"
+  "download_url": "https://cluelessrebel76.blogspot.com/2024/12/sams-granny-square.html",
+  "notes": "i created this pattern as i was working on a granny square blanket for my husband and got tired of breaking off and weaving in my ends for every round. hope you enjoy!"
 }

@@ -1,32 +1,28 @@
 {
   "id": 7346368,
-  "name": "Sea Turtle",
+  "name": "sea turtle",
   "permalink": "sea-turtle-36",
   "url": "https://www.ravelry.com/patterns/library/sea-turtle-36",
   "external_url": "https://sites.google.com/view/fat-dog-crochet/free-patterns/no-sew-sea-turtle-free-pattern",
-  "designer_name": "Fat Dog Crochet",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Bulky",
+  "designer_name": "fat dog crochet",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Blanket",
-      "pct": null
-    },
-    {
-      "fiber": "Cozy with a Twist",
-      "pct": null
+      "fiber": "Polyester (Polyester)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Half double crochet (hdc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "half double crochet (hdc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless",
-    "Written"
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [
     5.5
@@ -37,8 +33,9 @@
   "rating_average": 4.8,
   "rating_count": 5,
   "difficulty_average": 2.4,
-  "favorites_count": 523,
+  "favorites_count": 532,
   "projects_count": 20,
   "free_ravelry_download": false,
-  "download_url": "https://sites.google.com/view/fat-dog-crochet/free-patterns/no-sew-sea-turtle-free-pattern"
+  "download_url": "https://sites.google.com/view/fat-dog-crochet/free-patterns/no-sew-sea-turtle-free-pattern",
+  "notes": "**this pattern is now also available as an inexpensive (only $1) pdf on etsy.**\r\n[here is the pdf pattern][1]\r\n\r\nthis amazing sea turtle is no sew. it takes less than an hour to crochet and you crochet the fins and head in as you go. to crochet this turtle you need to know how to do these basic stitches as well as half double crochet and half double crochet increases.\r\n\r\nif you make any of patterns i would appreciate if you would make a project (with photos) so that i can see your beautiful creations!\r\n\r\n\r\n  [1]: https://fatdogcrochet.etsy.com/listing/1840067102/no-sew-sea-turtle-crochet-pattern-squirt"
 }

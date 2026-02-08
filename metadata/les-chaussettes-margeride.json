@@ -1,25 +1,29 @@
 {
   "id": 7379678,
-  "name": "Les chaussettes Margeride",
+  "name": "les chaussettes margeride",
   "permalink": "les-chaussettes-margeride",
   "url": "https://www.ravelry.com/patterns/library/les-chaussettes-margeride",
   "external_url": "",
-  "designer_name": "Julie Esnault",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "julie esnault",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Arwetta",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 40.0
     },
     {
-      "fiber": "Jawoll Superwash 75/25",
-      "pct": null
+      "fiber": "Corriedale (Wool)",
+      "pct": 37.5
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 22.5
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [],
@@ -28,18 +32,19 @@
     2.75
   ],
   "published": "2024/10/01",
-  "sizes_available": "Tailles : 56/64/72 mailles ",
+  "sizes_available": "tailles : 56/64/72 mailles ",
   "rating_average": 4.857142857142857,
   "rating_count": 7,
   "difficulty_average": 4.142857142857143,
-  "favorites_count": 509,
+  "favorites_count": 518,
   "projects_count": 37,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/91931/960439",
+  "notes": "l'inspiration ce fait à tout moment de notre vie, les chaussettes margeride résultent d'une randonnée dans cette région sublime. \r\nun patron pour vous remercier d'être toujours présent à mes côtés.\r\n\r\ntailles proposées : \t\t\t\t\t\t\t                                              \r\n56; 64; 72 \r\n\r\néchantillon : \r\nsur 10 cm de jersey en rond, 32 mailles x 44 rangs, aiguille 2,50.\r\n\r\nmatériels : \r\n\r\npour les tailles 56 et 64 :\r\n200m pour 50 g de laine fingering de préférence sans trop de speckels, un coloris semi-solide par exemple.\r\n80m pour 20 g de laine fingering contrastante.\r\npour la taille 72 :\r\n400m pour 100g de laine fingering de préférence sans trop de speckels, un coloris semi-solide par exemple..\r\n120m pour 30 g de laine fingering contrastante.\r\naiguille : 2,50 mm et 2,75 mm\r\n4 anneaux marqueurs \r\naiguille à laine\r\naiguille à torsade\r\n\r\nbon tricot !",
   "pdf": {
     "filename": "7379678.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7379678.pdf",
-    "url": "https://pdf.ravelrycache.com/Loliepelote/1906622/les_margerides.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481386&Signature=YoVAF0RchNMYoB2Go2uK9x%2FFg%2FA%3D&key_expires=1768481386&key=qpi3DrPSFTY2tgCCwxxJUw",
+    "url": "https://pdf.ravelrycache.com/Loliepelote/1906622/les_margerides.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770431759&Signature=zoZyezhYtNseU1I2442K7rUK8HY%3D&key_expires=1770431759&key=vNuitsxe6nZLHYpfizc5Lg",
     "size_bytes": 2668116
   }
 }

@@ -1,27 +1,27 @@
 {
   "id": 721498,
-  "name": "Oma Leni's Chunky Mittens",
+  "name": "oma leni's chunky mittens",
   "permalink": "oma-lenis-chunky-mittens",
   "url": "https://www.ravelry.com/patterns/library/oma-lenis-chunky-mittens",
   "external_url": "",
-  "designer_name": "Gralina Frie",
-  "project_type": "Mittens/Gloves",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "gralina frie",
+  "project_type": "mittens/gloves",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Álafosslopi",
-      "pct": null
+      "fiber": "Icelandic (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch"
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Kitchener stitch",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "kitchener stitch",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -29,18 +29,19 @@
     5.5
   ],
   "published": "2017/01/01",
-  "sizes_available": "S (M) L",
-  "rating_average": 4.12280701754386,
-  "rating_count": 57,
-  "difficulty_average": 2.6785714285714284,
-  "favorites_count": 3404,
-  "projects_count": 297,
+  "sizes_available": "s (m) l",
+  "rating_average": 4.166666666666667,
+  "rating_count": 60,
+  "difficulty_average": 2.610169491525424,
+  "favorites_count": 3457,
+  "projects_count": 308,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/15732/377747",
+  "notes": "these are classic plain, well fitting and very warm mittens. knit up in the wonderful alafosslopi and using large needles, this is a quick knit. you can easily finish a pair in a day. \r\n\r\n",
   "pdf": {
     "filename": "721498.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\721498.pdf",
-    "url": "https://pdf.ravelrycache.com/Gralina/667840/Oma_Lenis_Chunky_mittens_with_thumbs....pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482224&Signature=bfnBH0yfnueq5x5JH9NEDf36AqE%3D&key_expires=1768482224&key=im1rnFbyZoarFLXbIcGVsw",
+    "url": "https://pdf.ravelrycache.com/Gralina/667840/Oma_Lenis_Chunky_mittens_with_thumbs....pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770436062&Signature=ascvhS5C38UBxrdA%2F8E4Yz25U3o%3D&key_expires=1770436062&key=78oi6_XG2t9zP_nkR9A-yQ",
     "size_bytes": 22837453
   }
 }

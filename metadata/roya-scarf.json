@@ -1,44 +1,48 @@
 {
   "id": 7486861,
-  "name": "Roya Scarf",
+  "name": "roya scarf",
   "permalink": "roya-scarf",
   "url": "https://www.ravelry.com/patterns/library/roya-scarf",
   "external_url": "",
-  "designer_name": "Sanne Kalmbacher",
-  "project_type": "Scarf",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "sanne kalmbacher",
+  "project_type": "scarf",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Balance",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 71.2
     },
     {
-      "fiber": "Kimono Singles",
-      "pct": null
+      "fiber": "Tencel / Lyocell (Tencel)",
+      "pct": 10.0
     },
     {
-      "fiber": "Luxury Lady",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 7.5
     },
     {
-      "fiber": "Wolkenspiel",
-      "pct": null
+      "fiber": "Yak (Yak)",
+      "pct": 5.0
     },
     {
-      "fiber": "YaSo",
-      "pct": null
+      "fiber": "Silk (Silk)",
+      "pct": 3.8
+    },
+    {
+      "fiber": "Cashmere goat (Cashmere)",
+      "pct": 2.5
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Seamless",
-    "Written"
+    "charted",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -49,14 +53,15 @@
   "rating_average": 4.75,
   "rating_count": 4,
   "difficulty_average": 3.4,
-  "favorites_count": 1721,
-  "projects_count": 24,
+  "favorites_count": 1798,
+  "projects_count": 26,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/65180/1044404",
+  "notes": "roya scarf is a knitted small scarf, starting and ending with a triangle. \r\n\r\nyou can find suitable yarn at www.querstricker.de\r\nchoose any fingering weight yarn you like (approx. 360–400 m).\r\n\r\nfollow me on instagram: kalmknit\r\nfor instagram use: #royascarf #kalmknit\r\n\r\nthis pattern is free, but if you want to say “thank you”, please create a project here on ravelry.\r\nif you like to give me a little support for my next projects, feel free to do this to my paypal account: as a friend to: s.kalmbacher@online.de\r\n\r\nenjoy the pattern!",
   "pdf": {
     "filename": "7486861.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7486861.pdf",
-    "url": "https://pdf.ravelrycache.com/Kalmknit/2105883/roya_scarf_final_1.1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482800&Signature=w6U98p0cFYFrWdxoDH4D%2FrR0gPs%3D&key_expires=1768482800&key=aSPZ-1yDboqbdjajEOwJEA",
+    "url": "https://pdf.ravelrycache.com/Kalmknit/2105883/roya_scarf_final_1.1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770439221&Signature=t5ZZ%2F6gmvCgpQqBLGW7iBGOedIc%3D&key_expires=1770439221&key=Z9k_Agl9AyfUTXQ0_TBX1Q",
     "size_bytes": 3598927
   }
 }

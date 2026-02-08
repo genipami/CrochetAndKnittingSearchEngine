@@ -1,38 +1,39 @@
 {
   "id": 7404598,
-  "name": "Knit + Fold Slippers",
+  "name": "knit + fold slippers",
   "permalink": "knit--fold-slippers",
   "url": "https://www.ravelry.com/patterns/library/knit--fold-slippers",
   "external_url": "https://www.purlsoho.com/create/2025/02/01/knit-fold-slippers/",
-  "designer_name": "Purl Soho",
-  "project_type": "Other",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "purl soho",
+  "project_type": "other",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Knitting Yarn DK",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamed",
-    "Written"
+    "seamed",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.25
   ],
   "published": "2025/02/01",
-  "sizes_available": "Baby (Toddler Small, Toddler Large, Little Kid) (Big Kid, Adult Small, Adult Medium, Adult Large, Adult Extra Large)",
+  "sizes_available": "baby (toddler small, toddler large, little kid) (big kid, adult small, adult medium, adult large, adult extra large)",
   "rating_average": 4.5625,
   "rating_count": 16,
   "difficulty_average": 2.8125,
-  "favorites_count": 3735,
-  "projects_count": 123,
+  "favorites_count": 3817,
+  "projects_count": 126,
   "free_ravelry_download": false,
-  "download_url": "https://www.purlsoho.com/create/2025/02/01/knit-fold-slippers/"
+  "download_url": "https://www.purlsoho.com/create/2025/02/01/knit-fold-slippers/",
+  "notes": "materials\r\npurl soho’s [knitting yarn dk][1], 100% merino wool. each ball of this light worsted/dk-weight yarn is approximately 219 yards/ 100 grams.\r\n- color a: 1 ball; approximately 25 (40, 55, 70, 90) (115, 140, 170, 200) total yards required. we used spring sky for one set and acorn brown for the other.\r\n- color b: 1 ball; approximately 60 (75, 85, 105, 120) (145, 165, 195, 219) total yards required. we used golden raisin with spring sky and petal pink with acorn brown.\r\n\r\nyou'll also need...\r\n- us 3 (3.25 mm), 20-inch [circular knitting needles][2]\r\n- 5 removable [stitch markers][3]\r\n- optional: purl soho’s [pom pom maker set][4], small + large size\r\n\r\ngauge\r\n24 stitches and 48 rows = 4 inches in garter stitch\r\n\r\nsizes\r\nbaby (toddler small, toddler large, little kid) (big kid, adult small, adult medium, adult large, adult extra large)\r\n\r\nto fit actual foot length of 4–4½ (4½–5½, 5½–6½, 6½–7½, 7½–8½) (8½–9½, 9½–10½, 10½–11¼, 11¼–12¼) inches with 0 to 1 inch(es) of negative ease\r\n- finished foot length: 3¾ (4¾, 5¾, 6½, 7½) (8½, 9½, 10¼, 11¼) inches\r\n- finished foot width: 2 (2¼, 2¾, 3¼, 3¾) (4¼, 4¾, 5¼, 5¾) inches\r\n\r\nsamples: we knit the adult medium size, worn on a women’s us 8 size foot.\r\n\r\ndesigned by purl soho designer, [hiromi glover][5]. see even more of hiromi’s work [on her instagram][6]!\r\n\r\n\r\n  [1]: https://www.purlsoho.com/knitting-yarn-dk.html\r\n  [2]: https://www.purlsoho.com/tools-and-notions/collection_filter--circular_needles.html\r\n  [3]: https://www.purlsoho.com/tools-and-notions/collection_filter--stitch_markers.html\r\n  [4]: https://www.purlsoho.com/pom-pom-maker-set.html\r\n  [5]: https://www.purlsoho.com/create/tag/hiromi-glover-for-purl-soho/\r\n  [6]: https://www.instagram.com/mignonnegrise/"
 }

@@ -1,39 +1,44 @@
 {
   "id": 7457445,
-  "name": "Skyggespil",
+  "name": "skyggespil",
   "permalink": "skyggespil",
   "url": "https://www.ravelry.com/patterns/library/skyggespil",
   "external_url": "https://en.filcolana.dk/skyggespil.html",
-  "designer_name": "Karen S. Lauger",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "karen s. lauger",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Arwetta",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Charted",
-    "In the round"
+    "bottom-up",
+    "charted",
+    "in the round"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.5
   ],
   "published": "2025/08/01",
-  "sizes_available": "S (M) L (XL)",
+  "sizes_available": "s (m) l (xl)",
   "rating_average": 4.75,
   "rating_count": 4,
   "difficulty_average": 6.25,
-  "favorites_count": 428,
+  "favorites_count": 437,
   "projects_count": 9,
   "free_ravelry_download": false,
-  "download_url": "https://en.filcolana.dk/skyggespil.html"
+  "download_url": "https://en.filcolana.dk/skyggespil.html",
+  "notes": "the hat is worked in the round, from the bottom up, following the chart. it is knitted using a technique similar to the  marisle\r\ntechnique, alternating between garter ridges worked with one strand of each colour held together, and double knitting, where stitches are worked alternately in one colour or the other.\r\nthe hat is worked straight upwards and then shaped at the top with decreases, using garter stitch only.\r\nthe hat features a folded brim, which is turned up at the end."
 }

@@ -1,44 +1,40 @@
 {
   "id": 181549,
-  "name": "The Age of Brass and Steam Kerchief",
+  "name": "the age of brass and steam kerchief",
   "permalink": "the-age-of-brass-and-steam-kerchief",
   "url": "https://www.ravelry.com/patterns/library/the-age-of-brass-and-steam-kerchief",
   "external_url": "https://www.orangefloweryarn.com/free-patterns-1",
-  "designer_name": "Orange Flower Yarn",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "orange flower yarn",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "BFL/Silk DK",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 40.0
     },
     {
-      "fiber": "DK 250",
-      "pct": null
+      "fiber": "Bluefaced Leicester (BFL) (Wool)",
+      "pct": 31.0
     },
     {
-      "fiber": "Luna | DK",
-      "pct": null
+      "fiber": "Polwarth (Wool)",
+      "pct": 20.0
     },
     {
-      "fiber": "SW Merino | DK",
-      "pct": null
-    },
-    {
-      "fiber": "SW Polwarth DK",
-      "pct": null
+      "fiber": "Silk (Silk)",
+      "pct": 9.0
     }
   ],
   "stitches_used": [
-    "Eyelet lace",
-    "Garter stitch",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "eyelet lace",
+    "garter stitch",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Top-down",
-    "Written"
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -46,11 +42,12 @@
   ],
   "published": "2010/05/01",
   "sizes_available": " kerchief and shawl",
-  "rating_average": 4.590989226248776,
-  "rating_count": 5105,
-  "difficulty_average": 1.9471627906976745,
-  "favorites_count": 80856,
-  "projects_count": 16269,
+  "rating_average": 4.5913094539048735,
+  "rating_count": 5109,
+  "difficulty_average": 1.9477598066555122,
+  "favorites_count": 81255,
+  "projects_count": 16311,
   "free_ravelry_download": false,
-  "download_url": "https://www.orangefloweryarn.com/free-patterns-1"
+  "download_url": "https://www.orangefloweryarn.com/free-patterns-1",
+  "notes": "a unisex triangular kerchief/shawl knitted in dk weight yarn.\r\n\r\nthe kerchief: approx. 53 in x  15 in (135 cm x 38 cm)\r\n100 grams of dk weight yarn  \r\n\r\nthe shawl: approx. 68 in x 20 in   (172 cm x 50 cm)\r\n160 grams of dk weight yarn\r\n\r\nthis pattern could easily be made with fingering to worsted weight yarn. by simply adding more repeats of the stockinette and garter ribbed eyelet sections, you can make a kerchief or shawl as large as you wish. note that yardage requirements will vary with different yarn weights.\r\n\r\nneedle: 24 or 32 inch circular needle for knitting flat \r\n\r\n\r\n***this free pattern is for personal, non-commercial use only you may not sell, reproduce, or distribute the pattern.*** \r\n\r\n*you may sell items made from this pattern for charity auctions or fund raisers.*\r\n\r\nnote: this pattern was designed without beads and does not include instructions for adding beads."
 }

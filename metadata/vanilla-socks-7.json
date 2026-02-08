@@ -1,46 +1,47 @@
 {
   "id": 1242970,
-  "name": "Vanilla Socks",
+  "name": "vanilla socks",
   "permalink": "vanilla-socks-7",
   "url": "https://www.ravelry.com/patterns/library/vanilla-socks-7",
   "external_url": "",
-  "designer_name": "The Blue Mouse",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "the blue mouse",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "I Love This Yarn! Solids",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Kitchener stitch",
-    "Short rows",
-    "Written"
+    "in the round",
+    "kitchener stitch",
+    "short rows",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.75
   ],
   "published": "2022/05/01",
-  "sizes_available": "1 (2, 3)[4, 5, 6] - Foot Circumference: 7.5 (8, 8.5)[9, 9.5, 10] inches {19 (20.5, 21.5)[23, 24, 25.5] cm}",
+  "sizes_available": "1 (2, 3)[4, 5, 6] - foot circumference: 7.5 (8, 8.5)[9, 9.5, 10] inches {19 (20.5, 21.5)[23, 24, 25.5] cm}",
   "rating_average": 4.8,
   "rating_count": 35,
   "difficulty_average": 2.393939393939394,
-  "favorites_count": 1394,
-  "projects_count": 149,
+  "favorites_count": 1434,
+  "projects_count": 154,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/60848/780264",
+  "notes": "this pattern has a full [free video tutorial][2] on youtube\r\n\r\nthis sock pattern is worked from the cuff down using magic loop, and features a heel flap and gusset. it's worked entirely in stockinette stitch making it a vanilla sock pattern. it's a really simple and easy knitting pattern perfect for beginner sock knitters who are just wanting to learn how to knit socks. \r\n\r\n**skill level**\r\nbeginner sock knitter\r\nthe pattern is very simple and easy, including a full 1hr+ video tutorial. you will need to know how to work a cast on and the basic knit and purl stitch. other than that, i walk you through the rest in the video tutorials.\r\n\r\n**materials**\r\nyarn - worsted weight:\r\nyardage will vary based on size and length of foot but the sample (size 2) took approx. 150 yards {137 m}.\r\n\r\n*sample uses: i love this yarn (100% acrylic - 355 yards {325 m}/ 199g) in the colorway 'glacier'.* \r\n\r\n**needles**\r\n- us 5 {3.75 mm} 32″ (80 cm) circumference (or longer).\r\nor size needed to match gauge.\r\n\r\nother materials\r\nyarn needle, stitch markers.\r\n\r\n**gauge**\r\nstockinette - worked in the round\r\n17 sts / 26 rounds = 4″ {10 cm}.\r\n\r\n**sizing**\r\nsizes 1 (2, 3)[4, 5, 6]\r\nsizes cover a range for men & women\r\n- foot circumference: 7.5 (8, 8.5)[9, 9.5, 10] inches {19 (20.5, 21.5)[23, 24, 25.5] cm}\r\ni recommend choosing a size with 0.5-1\" {1.5-2.5 cm} of negative ease (see notes on page 2 for explanation of ease).\r\n-foot length is customizable.\r\n\r\n\r\n  [1]: https://youtu.be/ijjueuyzwlg\r\n  [2]: https://youtu.be/ijjueuyzwlg",
   "pdf": {
     "filename": "1242970.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1242970.pdf",
-    "url": "https://pdf.ravelrycache.com/thebluemouse/1497754/Vanilla_Socks.WORSTED.Final.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483990&Signature=wrOCnEeMl96nYQwKLwvWju23OBA%3D&key_expires=1768483990&key=RmXMfbphPBEluUXHAtQQfg",
+    "url": "https://pdf.ravelrycache.com/thebluemouse/1497754/Vanilla_Socks.WORSTED.Final.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770445987&Signature=f3ssHgZjxItZbtkmQhYExrK2Zfg%3D&key_expires=1770445987&key=myNAwhgiMn4mzFMAiMtfIA",
     "size_bytes": 6444595
   }
 }

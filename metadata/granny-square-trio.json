@@ -1,43 +1,44 @@
 {
   "id": 7447841,
-  "name": "Granny Square Trio",
+  "name": "granny square trio",
   "permalink": "granny-square-trio",
   "url": "https://www.ravelry.com/patterns/library/granny-square-trio",
   "external_url": "",
-  "designer_name": "Juan Ramon - (Juan The Yarn Addict)",
-  "project_type": "Blanket",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "juan ramon - (juan the yarn addict)",
+  "project_type": "blanket",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Super Saver (solids)",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Granny",
-    "Treble crochet (tr)"
+    "granny",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     6.0
   ],
   "needle_sizes_mm": [],
   "published": "2025/07/01",
-  "sizes_available": "Can be made to any size",
+  "sizes_available": "can be made to any size",
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 82,
+  "favorites_count": 88,
   "projects_count": 12,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/105459/1013821",
+  "notes": "",
   "pdf": {
     "filename": "7447841.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7447841.pdf",
-    "url": "https://pdf.ravelrycache.com/JuanTheYarnAddict/2033405/Granny_Square_Trio_Final.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480698&Signature=RoP8G%2F0Olbf5zUk6YLztEqo5AcA%3D&key_expires=1768480698&key=-_bdk3ACxNwrQmfH0y6jsw",
+    "url": "https://pdf.ravelrycache.com/JuanTheYarnAddict/2033405/Granny_Square_Trio_Final.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770427992&Signature=StjMbRdHmRt%2FP5cWJXacHgKNB7Y%3D&key_expires=1770427992&key=T9rNrEosnpc9_4Vu3pvLhQ",
     "size_bytes": 859848
   }
 }

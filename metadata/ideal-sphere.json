@@ -1,20 +1,20 @@
 {
   "id": 171042,
-  "name": "Ideal Sphere",
+  "name": "ideal sphere",
   "permalink": "ideal-sphere",
   "url": "https://www.ravelry.com/patterns/library/ideal-sphere",
   "external_url": "https://mspremiseconclusion.wordpress.com/",
-  "designer_name": "Emily Premise-Conclusion",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Any gauge - designed for any gauge",
+  "designer_name": "emily premise-conclusion",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "any gauge - designed for any gauge",
   "materials": [],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round"
+    "in the round"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [],
@@ -23,14 +23,15 @@
   "rating_average": 4.767932489451477,
   "rating_count": 237,
   "difficulty_average": 1.8875502008032128,
-  "favorites_count": 9322,
+  "favorites_count": 9354,
   "projects_count": 872,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/10867/32623",
+  "notes": "this pattern is for mathematically ideal crochet spheres of different sizes! there are 10 different sizes in this pattern. turns out the number of stitches in each row scales with sin(theta), where theta is the polar angle of the sphere.\r\n\r\ni haven't made all of these spheres myself (that would just be too much spherey-ness for me!) but the pattern for each sphere is based on calculations that i've made. please let me know if you try one out and the pattern doesn't work out the greatest!\r\n\r\nif you want more information about how i came up with the pattern, you can check out my blog.\r\nenjoy the spheres!\r\n\r\n*** update: there was an error spotted on the 10 row sphere, so i have updated to a new version on 03/25/10.\r\n\r\n***oops #2 located on the 16 row sphere. updated again 03/27/10\r\n\r\n",
   "pdf": {
     "filename": "171042.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\171042.pdf",
-    "url": "https://pdf.ravelrycache.com/MsPremiseConcln/48971/Ideal_Sphere.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480989&Signature=h0eFferfNhgaXQSRFiuP86eEp1U%3D&key_expires=1768480989&key=nZFhpdSXrLqxMPRQDZpV4w",
+    "url": "https://pdf.ravelrycache.com/MsPremiseConcln/48971/Ideal_Sphere.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770429786&Signature=2jwmaM7FLLfottSziL7PHTFquic%3D&key_expires=1770429786&key=C-a0AEROjskKhMjHDttM7g",
     "size_bytes": 148649
   }
 }

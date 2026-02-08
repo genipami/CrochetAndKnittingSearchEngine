@@ -1,28 +1,28 @@
 {
   "id": 872785,
-  "name": "Amigurumi octopus",
+  "name": "amigurumi octopus",
   "permalink": "amigurumi-octopus-18",
   "url": "https://www.ravelry.com/patterns/library/amigurumi-octopus-18",
   "external_url": "https://www.lilleliis.com/amigurumi-crochet-freebies/amigurumi-octopus-pattern/",
-  "designer_name": "Mari-Liis Lille",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "mari-liis lille",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Freesia",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Half double crochet (hdc)",
-    "Single crochet (sc)"
+    "double crochet (dc)",
+    "half double crochet (hdc)",
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless",
-    "Written"
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [
     2.5
@@ -33,8 +33,9 @@
   "rating_average": 4.913978494623656,
   "rating_count": 93,
   "difficulty_average": 2.4166666666666665,
-  "favorites_count": 5437,
-  "projects_count": 383,
+  "favorites_count": 5484,
+  "projects_count": 386,
   "free_ravelry_download": false,
-  "download_url": "https://www.lilleliis.com/amigurumi-crochet-freebies/amigurumi-octopus-pattern/"
+  "download_url": "https://www.lilleliis.com/amigurumi-crochet-freebies/amigurumi-octopus-pattern/",
+  "notes": "made almost in one piece. you only need to add the ruffle later. in my pattern the tentacles are crocheted to the body, so it`s safer for little babies. i also didn`t use safety eyes. instead the eyes can be embroidered or skipped at all.\r\n\r\nskill level: intermediate\r\nskills needed: single crochet, half double crochet, double crochet, working in the back and front loops."
 }

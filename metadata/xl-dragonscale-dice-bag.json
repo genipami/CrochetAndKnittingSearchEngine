@@ -1,39 +1,48 @@
 {
   "id": 876857,
-  "name": "XL Dragonscale Dice Bag",
+  "name": "xl dragonscale dice bag",
   "permalink": "xl-dragonscale-dice-bag",
   "url": "https://www.ravelry.com/patterns/library/xl-dragonscale-dice-bag",
   "external_url": "https://hooksnsunshine.wordpress.com/2018/11/05/xl-dragonscale-dice-bag/",
-  "designer_name": "Jessica Ryan",
-  "project_type": "Bag",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "jessica ryan",
+  "project_type": "bag",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Metallic",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 63.0
+    },
+    {
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 28.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 9.0
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Single crochet (sc)"
+    "lace",
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Lace"
+    "bottom-up",
+    "in the round",
+    "lace"
   ],
   "hook_sizes_mm": [
     5.5
   ],
   "needle_sizes_mm": [],
   "published": "2018/11/01",
-  "sizes_available": "XL",
-  "rating_average": 4.6875,
-  "rating_count": 48,
-  "difficulty_average": 3.717391304347826,
-  "favorites_count": 2984,
-  "projects_count": 193,
+  "sizes_available": "xl",
+  "rating_average": 4.673469387755102,
+  "rating_count": 49,
+  "difficulty_average": 3.702127659574468,
+  "favorites_count": 3001,
+  "projects_count": 196,
   "free_ravelry_download": false,
-  "download_url": "https://hooksnsunshine.wordpress.com/2018/11/05/xl-dragonscale-dice-bag/"
+  "download_url": "https://hooksnsunshine.wordpress.com/2018/11/05/xl-dragonscale-dice-bag/",
+  "notes": "this jumbo dice bag looks just like a dragon’s egg and is surely the best place \r\nto keep your dragon’s hoard safe!\r\nthe bag measures approximately 8” tall and 6” wide when finished,perfect for a large dice collection.\r\n"
 }

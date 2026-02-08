@@ -1,34 +1,30 @@
 {
   "id": 1342434,
-  "name": "Frühchenmütze",
+  "name": "frühchenmütze",
   "permalink": "fruhchenmutze",
   "url": "https://www.ravelry.com/patterns/library/fruhchenmutze",
   "external_url": "https://youtu.be/KrbpDQ6F_SM",
-  "designer_name": "Sarah Stosno",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "sarah stosno",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "4-fädig 4-ply",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 76.7
     },
     {
-      "fiber": "Meilenweit",
-      "pct": null
-    },
-    {
-      "fiber": "Opal 4-fach | 4-ply",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 23.3
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Top-down"
+    "in the round",
+    "top-down"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -37,12 +33,13 @@
     3.5
   ],
   "published": "2023/05/01",
-  "sizes_available": "XS (Frühchen/preemie)",
+  "sizes_available": "xs (frühchen/preemie)",
   "rating_average": 5.0,
   "rating_count": 4,
   "difficulty_average": 1.5,
-  "favorites_count": 121,
-  "projects_count": 71,
+  "favorites_count": 128,
+  "projects_count": 73,
   "free_ravelry_download": false,
-  "download_url": "https://youtu.be/KrbpDQ6F_SM"
+  "download_url": "https://youtu.be/KrbpDQ6F_SM",
+  "notes": "die video-anleitung zeigt dir, wie du aus sockenwolle frühchenmützen für frühgeborene babys stricken kannst.\r\n\r\n**größe:** \r\n\r\n* einheitsgröße - durch das rippenmuster\r\n  sind diese mützchen sehr elastisch.\r\n\r\n**material:**\r\n\r\n* 20 g 4-fädige sockenwolle\r\n* rundnadel oder nadelspiel, nadelstärke 2,5-3,5\r\n* maßband\r\n* schere und vernähnadel\r\n\r\n**skills:**\r\n\r\n* kreuzanschlag\r\n* rechte und linke maschen\r\n* abnahmen (links und rechts\r\n  zusammenstricken)"
 }

@@ -1,26 +1,26 @@
 {
   "id": 357395,
-  "name": "Norwegian Mittens for Mimi",
+  "name": "norwegian mittens for mimi",
   "permalink": "norwegian-mittens-for-mimi",
   "url": "https://www.ravelry.com/patterns/library/norwegian-mittens-for-mimi",
   "external_url": "",
-  "designer_name": "Anna Mazzarella",
-  "project_type": "Mittens/Gloves",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "anna mazzarella",
+  "project_type": "mittens/gloves",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Østlandsgarn",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Stranded colorwork"
+    "charted",
+    "in the round",
+    "stranded colorwork"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -32,17 +32,18 @@
   ],
   "published": "2012/11/01",
   "sizes_available": "large child through large adult",
-  "rating_average": 4.625,
-  "rating_count": 328,
-  "difficulty_average": 3.678233438485804,
-  "favorites_count": 16651,
-  "projects_count": 1451,
+  "rating_average": 4.629518072289157,
+  "rating_count": 332,
+  "difficulty_average": 3.6853582554517135,
+  "favorites_count": 16922,
+  "projects_count": 1468,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/32678/124024",
+  "notes": "pattern for norwegian selbuvotter which i designed after seeing someone wearing mittens with a pattern similar to this. i made these for my little sister but they were so pretty i had to make myself a pair, too. the size is easily changed by switching needle size, as outlined in the pattern. this pattern isn't too tough and uses pretty big needles and yarn compared to many norwegian mittens, so it's a good start for someone who wants to try making a traditional norwegian mitten for the first time.\r\n\r\n2 skeins of yarn needed, one of each color. any yarn is ok, i prefer 100% wool because it blocks so nicely and is so warm, but you can use superwash or merino if 100% wool makes you itch.",
   "pdf": {
     "filename": "357395.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\357395.pdf",
-    "url": "https://pdf.ravelrycache.com/Fireinthepriory/671082/Mittens_for_Mimi_update.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482129&Signature=%2FjJaXAK%2BTgDTAdE5uOiriR%2BpRh0%3D&key_expires=1768482129&key=sTPu1DCWrElwziHL678gdA",
+    "url": "https://pdf.ravelrycache.com/Fireinthepriory/671082/Mittens_for_Mimi_update.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770435681&Signature=J2CJkk5hHCW5bJKgsNRQsu6arJc%3D&key_expires=1770435681&key=FqSv9NWqDSpphIZslMNB6A",
     "size_bytes": 3365837
   }
 }

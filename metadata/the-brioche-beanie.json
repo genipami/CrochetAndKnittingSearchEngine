@@ -1,40 +1,44 @@
 {
   "id": 7321923,
-  "name": "The Brioche Beanie",
+  "name": "the brioche beanie",
   "permalink": "the-brioche-beanie",
   "url": "https://www.ravelry.com/patterns/library/the-brioche-beanie",
   "external_url": "",
-  "designer_name": "Marte Kamperud",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Sport",
+  "designer_name": "marte kamperud",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Alpaca Silver",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 50.0
     },
     {
-      "fiber": "Cool Wool",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 37.5
     },
     {
-      "fiber": "DROPS Baby Merino",
-      "pct": null
+      "fiber": "Bombyx / Cultivated / Mulberry (Silk)",
+      "pct": 5.8
     },
     {
-      "fiber": "DROPS Brushed Alpaca Silk",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 5.0
+    },
+    {
+      "fiber": "Polyester (Polyester)",
+      "pct": 1.8
     }
   ],
   "stitches_used": [
-    "Brioche stitch",
-    "Treble crochet (tr)"
+    "brioche stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Brioche",
-    "In the round",
-    "Written"
+    "bottom-up",
+    "brioche",
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -42,18 +46,19 @@
     4.0
   ],
   "published": "2024/03/01",
-  "sizes_available": "S/M (M/L)",
-  "rating_average": 4.857142857142857,
-  "rating_count": 14,
-  "difficulty_average": 4.5,
-  "favorites_count": 2362,
-  "projects_count": 75,
+  "sizes_available": "s/m (m/l)",
+  "rating_average": 4.733333333333333,
+  "rating_count": 15,
+  "difficulty_average": 4.571428571428571,
+  "favorites_count": 2665,
+  "projects_count": 83,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/104784/914881",
+  "notes": "the reversible brioche beanie is knitted in the round from the bottom up, working with two colors in brioche stitches, which makes the beanie reversible / double sided. \r\n\r\nusing techniques as: cast on, knitting in the round, knitting with double pointed needles, yarn over, knitting and purling brioche stitches, decreasing right and left in brioche, cast off, weaving in ends. \r\n\r\npattern features:\r\n\r\n- reversible design\r\n- clear, step-by-step instructions\r\n- light and wearable\r\n\r\n\r\nsizing:\r\n\r\n- s/m: fits a head circumference of approximately 54 cm - 56 cm\r\n- m/l: fits a head circumference of approximately 56 cm - 58 cm\r\n\r\n\r\ngauge:\r\n\r\n- 10 cm x 10 cm = 17 stitches x 27 rows\r\n\r\n\r\nmaterials needed:\r\n\r\n- 50g (100g) of lana grossa cool wool + 25g (50g) of alpaca silver from katia concept\r\n- circular needles: size 4 mm, length 40 cm\r\n- double-pointed needles: size 3.5 mm\r\n- tapestry needle for weaving in ends\r\n- stitch markers\r\n- (optional) elastic thread for added elasticity\r\n\r\ncolor suggestions:\r\n\r\nexample 1 (s/m):\r\ncolor 1: lana grossa cool wool in color 2068 (burgundy)\r\ncolor 2: alpaca silver from katia concept in color 269 (mint)\r\n\r\nexample 2 (m/l):\r\nboth colors in lana grossa cool wool:\r\ncolor 1: 2021 (green)\r\ncolor 2: 2045 (pink)\r\n\r\nit is recommended that at least one of the yarns be merino wool to help maintain the beanie's shape.\r\n\r\nthis is a digital download (pdf) with detailed instructions. no physical item will be shipped.\r\n",
   "pdf": {
     "filename": "7321923.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7321923.pdf",
-    "url": "https://pdf.ravelrycache.com/nanneknitwear/1979455/The_Brioche_Beanie_-_English_Knitting_Pattern_by_nanneknitwear.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483585&Signature=TqJhbxH8hFIZx%2FAlQIRTyxPJHDE%3D&key_expires=1768483585&key=0Wmifa106K9RmZZrd35gvw",
+    "url": "https://pdf.ravelrycache.com/nanneknitwear/1979455/The_Brioche_Beanie_-_English_Knitting_Pattern_by_nanneknitwear.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770443958&Signature=X2Qrk4ibpekjyzWFlGiyBWg7S60%3D&key_expires=1770443958&key=DUvGbLv2mlg7gy_rX1KCDg",
     "size_bytes": 933351
   }
 }

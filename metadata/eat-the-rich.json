@@ -1,33 +1,29 @@
 {
   "id": 7407128,
-  "name": "Eat the Rich",
+  "name": "eat the rich",
   "permalink": "eat-the-rich",
   "url": "https://www.ravelry.com/patterns/library/eat-the-rich",
   "external_url": "",
-  "designer_name": "Lanja Khon-Engheim",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "lanja khon-engheim",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Sølje",
-      "pct": null
-    },
-    {
-      "fiber": "Vilje",
-      "pct": null
+      "fiber": "Norwegian (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Charted",
-    "In the round",
-    "Seamed",
-    "Stranded colorwork"
+    "bottom-up",
+    "charted",
+    "in the round",
+    "seamed",
+    "stranded colorwork"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -35,17 +31,18 @@
   ],
   "published": "2025/02/01",
   "sizes_available": "adult ",
-  "rating_average": 4.72,
-  "rating_count": 25,
-  "difficulty_average": 3.6,
-  "favorites_count": 3335,
-  "projects_count": 118,
+  "rating_average": 4.730769230769231,
+  "rating_count": 26,
+  "difficulty_average": 3.619047619047619,
+  "favorites_count": 3506,
+  "projects_count": 121,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/28113/982597",
+  "notes": "[welcome to the world of oligarchy][1]. [oligarchy is not just a russian phenomenon. it exists right here in the usa.][2] --bernie sanders\r\n\r\nthis design was inspired in part by artfiend's [deathflake][3]. \r\n\r\nthe pattern calls for fingering weight in the following quantities: \r\nmain colour (natural) 85m/93 yards \r\ncontrast colour (red) 85m/93 yards \r\n\r\nthe pompom used an additional 42m/46 yards of the contrast colour. \r\n\r\nsome knitters have reported that this pattern runs small when worked with fingering weight yarn. if you experience this problem, you can try working with sport weight yarn at the same gauge. \r\n\r\nthe pattern assumes that you have experience with stranded colourwork, knitting in the round, and reading charts. \r\n\r\nyou can read about my design process for this hat in [this post][4]. \r\n\r\n\r\n  [1]: https://youtu.be/79kdkweoj1s?si=1jbd5nqttyujpub_\r\n  [2]: https://youtu.be/sp2uyvqsnns?si=oltxlccljz9ont9g\r\n  [3]: https://www.ravelry.com/patterns/library/deathflake-chart\r\n  [4]: https://jaggedlines.substack.com/p/how-i-knitted-the-eat-the-rich-hat",
   "pdf": {
     "filename": "7407128.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7407128.pdf",
-    "url": "https://pdf.ravelrycache.com/lanechka/1969129/Eat_the_Rich_MARCH_2025.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480050&Signature=YdhhVAmIDcUbevsM4UABJJQ%2Bgyk%3D&key_expires=1768480050&key=tl7FqITp8nvoRG2FCvtx0w",
+    "url": "https://pdf.ravelrycache.com/lanechka/1969129/Eat_the_Rich_MARCH_2025.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770424662&Signature=1rw%2B917RUVquVZLwYiVKcnbwM1c%3D&key_expires=1770424662&key=2oZL1xuKRE2h-0xH2JFEXA",
     "size_bytes": 4854416
   }
 }

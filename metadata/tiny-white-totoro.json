@@ -1,27 +1,31 @@
 {
   "id": 7425969,
-  "name": "Tiny White Totoro",
+  "name": "tiny white totoro",
   "permalink": "tiny-white-totoro",
   "url": "https://www.ravelry.com/patterns/library/tiny-white-totoro",
   "external_url": "",
-  "designer_name": "Demi Tran",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Sport",
+  "designer_name": "demi tran",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Jeans (Джинс)",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 55.0
+    },
+    {
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 45.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Half double crochet (hdc)",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "half double crochet (hdc)",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     2.0
@@ -32,14 +36,15 @@
   "rating_average": 5.0,
   "rating_count": 3,
   "difficulty_average": 1.6666666666666667,
-  "favorites_count": 1217,
-  "projects_count": 17,
+  "favorites_count": 1307,
+  "projects_count": 19,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/107205/997111",
+  "notes": "this is crochet doll pattern/ amigurumi pattern in pdf file, not the actual toys.\r\n\r\n**language:** english\r\n\r\n**materials and tools required:**\r\n\r\n1. yarn: any sport or dk light weight yarn. i used yarnart jeans (4ply, 55% cotton, 45% acrylic)\r\n2. hook: size 2.0mm\r\n3. safety eyes: 5mm\r\n4. wire: a short piece of wire about 10cm long\r\n5. hot glue or glue that can be used for yarn\r\n6. fiberfill\r\n7. stitch markers\r\n8. yarn needle\r\n9. scissors\r\n10. pins (optional)\r\n\r\n\r\n**basic crochet skills required:** the magic ring, chain, single crochet, half double crochet, double crochet, increase, decrease.\r\n\r\n**size:** if you use yarn as me, the finished totoro will be 7.5cm / 3inch tall (including the leaf).\r\n\r\nshould you have any questions regarding this crochet pattern or need assistance, please feel free to contact us via the following channels:\r\n\r\n- direct message\r\n- instagram: demiwool\r\n\r\nif you are unable to find the files, kindly contact demiwool via direct message, providing your email address.\r\n\r\n*this pattern is for personal use only. please do not copy, re-selling, share, translate or distribute all or part of this pattern. you may sell finished products from this pattern, provided using the hashtag #demiwool to credit us as designer.*",
   "pdf": {
     "filename": "7425969.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7425969.pdf",
-    "url": "https://pdf.ravelrycache.com/demiwool/1995087/Free_pattern_white_totoro_demiwool.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483798&Signature=eg1yaZCqESsOnxUE31oIOKIMxL8%3D&key_expires=1768483798&key=KNCTjoUA7lJjK3_vBiUJvg",
+    "url": "https://pdf.ravelrycache.com/demiwool/1995087/Free_pattern_white_totoro_demiwool.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770444895&Signature=x64LZQF3QleXo3CioU7r0CHNmkc%3D&key_expires=1770444895&key=Y46fsB8glDc6mYQyUrkO0w",
     "size_bytes": 1292615
   }
 }

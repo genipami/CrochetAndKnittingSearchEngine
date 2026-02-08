@@ -1,23 +1,23 @@
 {
   "id": 1157619,
-  "name": "Paisley the Pig",
+  "name": "paisley the pig",
   "permalink": "paisley-the-pig",
   "url": "https://www.ravelry.com/patterns/library/paisley-the-pig",
   "external_url": "https://jesshuff.com/paisley-the-pig-free-amigurumi-pattern/",
-  "designer_name": "Jess Huff",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "jess huff",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Basix",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     3.5
@@ -27,9 +27,10 @@
   "sizes_available": "",
   "rating_average": 4.9655172413793105,
   "rating_count": 29,
-  "difficulty_average": 3.3703703703703702,
-  "favorites_count": 2736,
-  "projects_count": 100,
+  "difficulty_average": 3.3214285714285716,
+  "favorites_count": 2756,
+  "projects_count": 101,
   "free_ravelry_download": false,
-  "download_url": "https://jesshuff.com/paisley-the-pig-free-amigurumi-pattern/"
+  "download_url": "https://jesshuff.com/paisley-the-pig-free-amigurumi-pattern/",
+  "notes": "if you’re a fan of easy amigurumi patterns, you’ll love making paisley! this crochet pig stands 14 inches (36cm) tall when crocheted with a 3.5mm hook and worsted-weight yarn."
 }

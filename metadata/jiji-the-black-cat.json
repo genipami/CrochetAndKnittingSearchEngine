@@ -1,27 +1,31 @@
 {
   "id": 7464006,
-  "name": "Jiji the black cat",
+  "name": "jiji the black cat",
   "permalink": "jiji-the-black-cat",
   "url": "https://www.ravelry.com/patterns/library/jiji-the-black-cat",
   "external_url": "",
-  "designer_name": "Demi Tran",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Any gauge - designed for any gauge",
+  "designer_name": "demi tran",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "any gauge - designed for any gauge",
   "materials": [
     {
-      "fiber": "Jeans (Джинс)",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 55.0
+    },
+    {
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 45.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Single crochet (sc)",
-    "Slip stitch (sl st)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "single crochet (sc)",
+    "slip stitch (sl st)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     2.0
@@ -29,17 +33,18 @@
   "needle_sizes_mm": [],
   "published": "2025/09/01",
   "sizes_available": "10cm / 4inches",
-  "rating_average": 4.25,
-  "rating_count": 4,
-  "difficulty_average": 2.5,
-  "favorites_count": 1308,
+  "rating_average": 4.4,
+  "rating_count": 5,
+  "difficulty_average": 2.4,
+  "favorites_count": 1460,
   "projects_count": 20,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/107205/1025947",
+  "notes": "**language: english\r\ncrochet terminology: us**\r\n\r\n**materials and tools required:**\r\n\r\n- yarn: i use yarnart jeans cotton yarn. you are welcome to use any yarn you prefer, just remember to adjust the hook size to match the yarn. \r\n- hook: size 2.0mm.\r\n- white and black wool felt to make eyes\r\n- fiberfill\r\n- stitch markers\r\n- yarn needle\r\n- scissors\r\n- pins (optional)\r\n\r\n**size:** if you use the same yarn as me, the finished cat will be 10cm / 4inch tall.\r\n\r\n**basic crochet skills required:** the magic ring, chain, slip stitch, single crochet, double crochet, increase, decrease.\r\n\r\nshould you have any questions regarding this crochet pattern or need assistance, please feel free to contact us via the following channels:\r\n\r\n**- direct message\r\n- instagram: demiwool**\r\n\r\n*this pattern is for personal use only. please do not copy, re-selling, share, translate or distribute all or part of this pattern. you may sell finished products from this pattern, provided using the hashtag #demiwool to credit us as designer.*",
   "pdf": {
     "filename": "7464006.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7464006.pdf",
-    "url": "https://pdf.ravelrycache.com/demiwool/2061357/Jiji_Cat_demiwool.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481086&Signature=nPy1tx3mNXjzt47YlHPuMm4MVT4%3D&key_expires=1768481086&key=5eAVdR5e0JKP-ch5OJ9WyA",
+    "url": "https://pdf.ravelrycache.com/demiwool/2061357/Jiji_Cat_demiwool.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770430274&Signature=oAtp1op4cPH1GxlqC2QzajYvjsI%3D&key_expires=1770430274&key=24OsSR3hje0SGlO06bonuA",
     "size_bytes": 1267137
   }
 }

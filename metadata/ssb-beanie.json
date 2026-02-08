@@ -1,29 +1,29 @@
 {
   "id": 7441337,
-  "name": "SSB Beanie",
+  "name": "ssb beanie",
   "permalink": "ssb-beanie",
   "url": "https://www.ravelry.com/patterns/library/ssb-beanie",
   "external_url": "",
-  "designer_name": "Jolene Munoz",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "jolene munoz",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "220 Superwash® Merino",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 50.0
     },
     {
-      "fiber": "Ultra® Wool",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 50.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Stranded colorwork"
+    "in the round",
+    "stranded colorwork"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -31,18 +31,19 @@
     5.0
   ],
   "published": "2025/06/01",
-  "sizes_available": "Adult",
+  "sizes_available": "adult",
   "rating_average": 5.0,
   "rating_count": 7,
   "difficulty_average": 2.7142857142857144,
-  "favorites_count": 130,
+  "favorites_count": 134,
   "projects_count": 21,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/100104/1008553",
+  "notes": "**s**tar **s**pangled **b**anner? or **s**ubmersible **s**hip **b**allistic (aka submarine)?\r\nyou choose!\r\n\r\nwhether you knit the ssb beanie in red, white & blue or choose your favorite color combination, we hope you enjoy our free pattern!\r\n\r\nnautilus 1954 is a community of knitters and crocheters that have taken the mission to express gratitude and love to our united states navy submarine fleet through handknit & crocheted wool hats.\r\n\r\nfind us on facebook (nautilus1954) & instagram (@nautilus_1954), email woolhats@nautilus1954.com for more information and join our ravelry group [nautilus 1954](/groups/nautilus-1954).",
   "pdf": {
     "filename": "7441337.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7441337.pdf",
-    "url": "https://pdf.ravelrycache.com/MJolene96/2022481/SSB_Beanie.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483336&Signature=dFg4GfHnaWajjRFPjCL32J%2BbHzA%3D&key_expires=1768483336&key=1ytyKGsn78MqlMdTfTTC3g",
+    "url": "https://pdf.ravelrycache.com/MJolene96/2022481/SSB_Beanie.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770442181&Signature=2XTWgibbzR2l6sPSQptWdoisvLo%3D&key_expires=1770442181&key=afwGj4yyzj3iMRcZGrEX7Q",
     "size_bytes": 328882
   }
 }

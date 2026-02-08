@@ -1,53 +1,58 @@
 {
   "id": 886676,
-  "name": "Heritage Sock",
+  "name": "heritage sock",
   "permalink": "heritage-sock",
   "url": "https://www.ravelry.com/patterns/library/heritage-sock",
   "external_url": "",
-  "designer_name": "Rachel Nutting",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "rachel nutting",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Sock Weight Merino",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Lace",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "cable",
+    "lace",
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Cables",
-    "Charted",
-    "In the round",
-    "Kitchener stitch",
-    "Lace",
-    "Seamless",
-    "Top-down",
-    "Written"
+    "cables",
+    "charted",
+    "in the round",
+    "kitchener stitch",
+    "lace",
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.25
   ],
   "published": "2018/12/01",
-  "sizes_available": "Adult Small, Medium, Large",
+  "sizes_available": "adult small, medium, large",
   "rating_average": 4.82,
   "rating_count": 50,
   "difficulty_average": 2.8666666666666667,
-  "favorites_count": 3869,
-  "projects_count": 202,
+  "favorites_count": 3913,
+  "projects_count": 206,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/33649/500769",
+  "notes": "> receive 20% off when you purchase 3 or\r\n> more patterns! no coupon code needed.\r\n\r\n**description**\r\nheritage sock is a top-down sock which features a simple lace pattern and small framing cables which do not require the use of a cable needle. the pattern includes both written and charted instructions. this sock includes standard heel flap directions and a kitchener stitch toe. a beautiful yet durable sock that will showcase variegated and tonal yarns perfectly. \r\n\r\n**finished sizes**\r\nadult (s, m, l)\r\nleg circumference - (7\", 8\", 9\")\r\n\r\n**yarn**\r\n1 skein woodland yarn co merino sock weight - 75/25 superwash merino/nylon, or any fingering weight yarn of your choice. \r\n\r\n**gauge**\r\n32 stitches = 4\"\r\n\r\n**needles**\r\nus 1 (2.25mm) or us 1.5 (2.5mm), whichever needed to obtain gauge. \r\n\r\n**notions**\r\n2 stitch markers\r\ntapestry needle\r\n\r\n#rachelnuttingknits\r\n\r\n*@rachelnuttingknits on instagram*\r\n\r\n",
   "pdf": {
     "filename": "886676.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\886676.pdf",
-    "url": "https://pdf.ravelrycache.com/ZenFibers/1058716/Heritage_Sock_Pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480857&Signature=tKYTCZWI476t2Q71E4%2B2SgZetjE%3D&key_expires=1768480857&key=TULpOiH9o5uBKSwYZvvvjQ",
+    "url": "https://pdf.ravelrycache.com/ZenFibers/1058716/Heritage_Sock_Pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770429022&Signature=195oR3I5S46O4TYTz9aa7YKLtxY%3D&key_expires=1770429022&key=hDlMQKiEbmeoc4SRXM3YNg",
     "size_bytes": 566452
   }
 }

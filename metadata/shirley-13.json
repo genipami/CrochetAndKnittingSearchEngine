@@ -1,25 +1,25 @@
 {
   "id": 7458498,
-  "name": "Shirley",
+  "name": "shirley",
   "permalink": "shirley-13",
   "url": "https://www.ravelry.com/patterns/library/shirley-13",
   "external_url": "",
-  "designer_name": "Ineke Mooijenkind",
-  "project_type": "Other",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "ineke mooijenkind",
+  "project_type": "other",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Special Double Knit",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     4.0
@@ -30,8 +30,9 @@
   "rating_average": 4.666666666666667,
   "rating_count": 3,
   "difficulty_average": 4.333333333333333,
-  "favorites_count": 289,
+  "favorites_count": 312,
   "projects_count": 23,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/66528/1021862"
+  "download_url": "http://www.ravelry.com/dls/66528/1021862",
+  "notes": "shirley is made for the bamcal 2025 and is a 10 inch square made with stylecraft special double knit and a 4mm hook.\r\n\r\nyou can follow a 2, 3, 5 or 7 colour scheme, these are\r\nlisted in the separate pdf, as well as the yarn amounts\r\nused per round.\r\n\r\nthere are also instructions for if you want to use just one colour.\r\n\r\nif you want to use aran/worsted weight yarn with hook size 5mm it will give you a 12 inch square.\r\n\r\nhave fun making the square :)"
 }

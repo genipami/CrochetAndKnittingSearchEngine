@@ -1,40 +1,41 @@
 {
   "id": 1354188,
-  "name": "One More Mistake Beanie",
+  "name": "one more mistake beanie",
   "permalink": "one-more-mistake-beanie",
   "url": "https://www.ravelry.com/patterns/library/one-more-mistake-beanie",
   "external_url": "https://knitq.com/one-more-mistake-beanie/",
-  "designer_name": "KnitQ",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Sport",
+  "designer_name": "knitq",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Promo Fin",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
     "1x1 rib",
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Seamless",
-    "Written"
+    "charted",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.5
   ],
   "published": "2023/08/01",
-  "sizes_available": "Adult Medium",
-  "rating_average": 4.791666666666667,
-  "rating_count": 24,
-  "difficulty_average": 2.5217391304347827,
-  "favorites_count": 2248,
-  "projects_count": 135,
+  "sizes_available": "adult medium",
+  "rating_average": 4.8,
+  "rating_count": 25,
+  "difficulty_average": 2.5,
+  "favorites_count": 2338,
+  "projects_count": 144,
   "free_ravelry_download": false,
-  "download_url": "https://knitq.com/one-more-mistake-beanie/"
+  "download_url": "https://knitq.com/one-more-mistake-beanie/",
+  "notes": "a simple beanie pattern featuring the mistake rib stitch, with a folded 1x1 rib brim.\r\n\r\nthis pattern is available in one size which will fit most average adult heads. you can size up or down by adjusting the number of stitches in increments of 16.\r\n\r\nthe gauge listed was measured with the hat comfortably stretched, as it would be stretched while worn.\r\n\r\nif you do a simple brim (rather than a folded one) you should be able to get away with using a single skein of yarn.\r\n"
 }

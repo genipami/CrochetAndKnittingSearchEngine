@@ -1,42 +1,47 @@
 {
   "id": 7432347,
-  "name": "Springtime Journey Blanket",
+  "name": "springtime journey blanket",
   "permalink": "springtime-journey-blanket",
   "url": "https://www.ravelry.com/patterns/library/springtime-journey-blanket",
   "external_url": "https://madebygootie.com/crochet/color-block-crochet-blanket/",
-  "designer_name": "Gootie (Agat Rottman)",
-  "project_type": "Blanket",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "gootie (agat rottman)",
+  "project_type": "blanket",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Comfy",
-      "pct": null
+      "fiber": "Pima (Cotton)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Treble crochet (tr)"
+    "lace",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Cables",
-    "Charted",
-    "Lace",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "cables",
+    "charted",
+    "lace",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [
     4.5
   ],
   "needle_sizes_mm": [],
   "published": "2025/05/01",
-  "sizes_available": "Baby Blanket: 31x34 in (79x86 cm), Lapghan40x42 in (102x107 cm), Throw: 45x55 in (114x140 cm)",
+  "sizes_available": "baby blanket: 31x34 in (79x86 cm), lapghan40x42 in (102x107 cm), throw: 45x55 in (114x140 cm)",
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 774,
+  "favorites_count": 822,
   "projects_count": 15,
   "free_ravelry_download": false,
-  "download_url": "https://madebygootie.com/crochet/color-block-crochet-blanket/"
+  "download_url": "https://madebygootie.com/crochet/color-block-crochet-blanket/",
+  "notes": "the tranquility blanket is a free crochet along.\r\n\r\n** the free crochet along starts on june 3rd 2025.**\r\n\r\n> **[the full blanket pdf pattern is already available for purchase\r\n> here][1]**\r\n\r\n----------------------------------------\r\n\r\nthe pattern offers 3 blanket sizes - baby blanket, throw, and lapghan, you can choose which size you want to make!\r\n\r\nthe crochet along will take place for 4 weeks, the different sections will be released twice a week (tuesday & friday) and will be available to view for free on the blog.\r\n\r\nthe links to all the different parts will be updated on **[the main cal post][2]**, where you can also find the full event details, materials needed and yarn quantities. \r\n\r\n\r\n  [1]: https://madebygootie.com/springtime-journey-blanket-pattern/\r\n  [2]: https://madebygootie.com/crochet/color-block-crochet-blanket//"
 }

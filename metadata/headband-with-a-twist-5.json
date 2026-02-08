@@ -1,35 +1,40 @@
 {
   "id": 971032,
-  "name": "Headband with a twist",
+  "name": "headband with a twist",
   "permalink": "headband-with-a-twist-5",
   "url": "https://www.ravelry.com/patterns/library/headband-with-a-twist-5",
   "external_url": "https://mirellamoments.com/headband-in-english-rib-with-a-twist/",
-  "designer_name": "Mirella Moments",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "mirella moments",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "DROPS Lima",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 65.0
+    },
+    {
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 35.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "Seamed",
-    "Written"
+    "seamed",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.5
   ],
   "published": "2019/10/01",
-  "sizes_available": "Adult size 56-58cm (easily adjustable)",
-  "rating_average": 4.825101214574898,
-  "rating_count": 1235,
-  "difficulty_average": 2.132938187976291,
-  "favorites_count": 41543,
-  "projects_count": 6230,
+  "sizes_available": "adult size 56-58cm (easily adjustable)",
+  "rating_average": 4.826226870474658,
+  "rating_count": 1243,
+  "difficulty_average": 2.1321548821548824,
+  "favorites_count": 41971,
+  "projects_count": 6277,
   "free_ravelry_download": false,
-  "download_url": "https://mirellamoments.com/headband-in-english-rib-with-a-twist/"
+  "download_url": "https://mirellamoments.com/headband-in-english-rib-with-a-twist/",
+  "notes": "the headband is knit back and forth in the english rib, which is very warm and comfortable to wear. it has a twist in the middle - not only this looks classy, but it’s also a clever way to hide the seam.\r\n\r\nthe size is easily adjustable.\r\n\r\nfor this project, i chose an alpaca and wool mix, that is warm and just a little fluffy. the yarn is very soft and great to work with. i used less than one skein."
 }

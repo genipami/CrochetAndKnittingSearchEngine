@@ -1,22 +1,26 @@
 {
   "id": 1184383,
-  "name": "Fischermütze",
+  "name": "fischermütze",
   "permalink": "fischermutze",
   "url": "https://www.ravelry.com/patterns/library/fischermutze",
   "external_url": "https://strickfisch.com/kinder-muetze-aus-ramie-deluxe-atelier-zitron-kostenlose-strickanleitung/",
-  "designer_name": "Sandra Fischer",
-  "project_type": "Child",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Sport",
+  "designer_name": "sandra fischer",
+  "project_type": "child",
+  "fiber_art": "knitting",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Ramie Deluxe",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Ramie (Plant fiber)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [],
@@ -24,18 +28,19 @@
     3.5
   ],
   "published": "2021/08/01",
-  "sizes_available": "Kids, Damen",
-  "rating_average": 5.0,
-  "rating_count": 17,
-  "difficulty_average": 1.625,
-  "favorites_count": 1223,
-  "projects_count": 102,
+  "sizes_available": "kids, damen",
+  "rating_average": 4.947368421052632,
+  "rating_count": 19,
+  "difficulty_average": 1.6111111111111112,
+  "favorites_count": 1243,
+  "projects_count": 106,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/49666/731871",
+  "notes": "bei dieser einfachen mütze werden lediglich rechte und linke maschen gestrickt. du solltest außerdem zwei maschen zusammen stricken können.\r\n\r\ndie größenangaben beziehen sich auf eine kinder- sowie eine damenmütze. die größe lässt sich jedoch in schritten von 12 maschen problemlos anpassen.\r\n\r\ndie mütze kann gekrempelt, sowie einfach getragen werden.",
   "pdf": {
     "filename": "1184383.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1184383.pdf",
-    "url": "https://pdf.ravelrycache.com/Strick-Fisch/2068719/Fischermutze-kostenfreie_Anleitung.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480395&Signature=gEVYDN%2BbGg1jfTd60FlD0HELtzU%3D&key_expires=1768480395&key=FOYE8BEV8dOryfhGkx2v2A",
+    "url": "https://pdf.ravelrycache.com/Strick-Fisch/2068719/Fischermutze-kostenfreie_Anleitung.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770426128&Signature=y4K4BfV7Xy8MGtw5Yv%2BDILpDWF4%3D&key_expires=1770426128&key=tm59eSTN7Tk_E4V08TB_9w",
     "size_bytes": 1766589
   }
 }

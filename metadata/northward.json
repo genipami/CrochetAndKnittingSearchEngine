@@ -1,39 +1,35 @@
 {
   "id": 133526,
-  "name": "Northward",
+  "name": "northward",
   "permalink": "northward",
   "url": "https://www.ravelry.com/patterns/library/northward",
   "external_url": "http://tincanknits.com/pattern-TCK-northward.html",
   "designer_name": "tincanknits",
-  "project_type": "Child",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "project_type": "child",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Chunky",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 66.7
     },
     {
-      "fiber": "Home",
-      "pct": null
-    },
-    {
-      "fiber": "Quarry",
-      "pct": null
+      "fiber": "Targhee-Columbia (Wool)",
+      "pct": 33.3
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "cable",
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Cables",
-    "In the round",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "cables",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -41,18 +37,19 @@
     6.5
   ],
   "published": "2009/07/01",
-  "sizes_available": "baby (child, adult SM, adult L)",
-  "rating_average": 4.705882352941177,
-  "rating_count": 765,
-  "difficulty_average": 2.2912873862158647,
-  "favorites_count": 9790,
-  "projects_count": 2670,
+  "sizes_available": "baby (child, adult sm, adult l)",
+  "rating_average": 4.706266318537859,
+  "rating_count": 766,
+  "difficulty_average": 2.294805194805195,
+  "favorites_count": 9795,
+  "projects_count": 2675,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/23602/280375",
+  "notes": "--------------------------------------------------------\r\n--------------------------------------------------------\r\n\r\n**northward** - by tin can knits\r\n\r\n--------------------------------------------------------\r\n--------------------------------------------------------\r\n\r\n*simple chunky cables make the perfect hat to keep noggins warm in the long northern winter.*\r\n\r\n--------------------------------------------------------\r\n--------------------------------------------------------\r\n\r\n**like our knits?**  [get our email updates][3] to hear about new designs, tutorials and subscriber-only special offers!\r\n\r\n--------------------------------------------------------\r\n--------------------------------------------------------\r\n\r\n**pattern info**\r\n============\r\n\r\n**sizing:**   \r\nbaby (child, **adult s/m, adult l**)\r\nfits head 14 (17, **20, 23**) inches around\r\n\r\n**yarn**   \r\n70 (80, 100, 120) yds bulky weight yarn \r\n*(samples in brooklyn tweed quarry in ‘citrine’ and ‘lazulite’ and brooklyn tweed shelter held doubled in ‘cinnabar’ and ‘tartan’)*\r\n\r\n**needles:**  \r\nus #9 / 5.5mm 16” circular and us #10.5 / 6.5mm 16” circular and dpns; baby size worked entirely on dpns (or as required to meet gauge)\r\n\r\n**gauge:**  \r\n14 sts & 20 rounds / 4” in stockinette on larger \t\tneedles\r\n\r\n**notions:** \r\nstitch marker, cable needle, darning needle, pom pom maker (optional)\r\n\r\n--------------------------------------------------------\r\n--------------------------------------------------------\r\n\r\nfor all pattern abbreviations, techniques, and to contact us, visit [www.tincanknits.com][6]\r\n\r\n--------------------------------------------------------\r\n--------------------------------------------------------\r\n\r\n\r\n  [1]: http://www.ravelry.com/patterns/sources/max--bodhis-wardrobe\r\n  [2]: http://www.ravelry.com/patterns/sources/max--bodhis-wardrobe\r\n  [3]: http://eepurl.com/k5p8l\r\n  [4]: http://www.ravelry.com/yarns/library/rainbow-heirloom-sweater\r\n  [5]: http://www.ravelry.com/yarns/library/the-uncommon-thread-merino-dk\r\n  [6]: www.tincanknits.com",
   "pdf": {
     "filename": "133526.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\133526.pdf",
-    "url": "https://pdf.ravelrycache.com/tincanknits/1028909/NORTHWARD-tincanknits.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482119&Signature=iWkUuQsGNlJZhRXv%2B4QbQZWiwCU%3D&key_expires=1768482119&key=GSwSlKyJLPMfO8LwlqoYrQ",
+    "url": "https://pdf.ravelrycache.com/tincanknits/1028909/NORTHWARD-tincanknits.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770435662&Signature=Upt3uS4qjpnFsJq5o5gtAA54NlM%3D&key_expires=1770435662&key=zkrIdLbJQ9SRCVu-oanY4A",
     "size_bytes": 1410558
   }
 }

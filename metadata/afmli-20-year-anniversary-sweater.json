@@ -1,28 +1,28 @@
 {
   "id": 280692,
-  "name": "Afmæli 20-year Anniversary Sweater",
+  "name": "afmæli 20-year anniversary sweater",
   "permalink": "afmli-20-year-anniversary-sweater",
   "url": "https://www.ravelry.com/patterns/library/afmli-20-year-anniversary-sweater",
-  "external_url": "https://lopidesign.is/en/shop/kids/afmaeli-3/",
-  "designer_name": "Védís Jónsdóttir for Ístex",
-  "project_type": "Child",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "external_url": "https://www.lopidesign.is/products/afmaeli-anniversary",
+  "designer_name": "védís jónsdóttir for ístex",
+  "project_type": "child",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Léttlopi",
-      "pct": null
+      "fiber": "Icelandic (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Charted",
-    "In the round",
-    "Stranded colorwork"
+    "bottom-up",
+    "charted",
+    "in the round",
+    "stranded colorwork"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -30,12 +30,13 @@
     4.5
   ],
   "published": "2011/01/01",
-  "sizes_available": "8, 10 & 12 yrs, S, M, L, X1",
-  "rating_average": 4.700911350455676,
-  "rating_count": 1207,
-  "difficulty_average": 3.796108291032149,
-  "favorites_count": 40111,
-  "projects_count": 4116,
+  "sizes_available": "8, 10 & 12 yrs, s, m, l, x1",
+  "rating_average": 4.701652892561984,
+  "rating_count": 1210,
+  "difficulty_average": 3.7979712595097213,
+  "favorites_count": 40359,
+  "projects_count": 4134,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/56704/348771"
+  "download_url": "http://www.ravelry.com/dls/56704/348771",
+  "notes": "body and sleeves are worked in the round from lower edge to underarms, then joined to work yoke in the round.\r\n \r\nin celebration of our 20th anniversary, istex, the principal manufacturer of the renowned icelandic lopi yarn, offers this  traditional icelandic sweater pattern, especially created for us by knitting designer védís jónsdóttir, as a gift to all lopi knitters.  afmæli means \"anniversary\" in icelandic.\r\n\r\nwe hope you enjoy knitting this beautiful sweater.\r\n  "
 }

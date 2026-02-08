@@ -1,25 +1,25 @@
 {
   "id": 216489,
-  "name": "Grammy's Hat ",
+  "name": "grammy's hat ",
   "permalink": "grammys-hat",
   "url": "https://www.ravelry.com/patterns/library/grammys-hat",
   "external_url": "http://www.tanisfiberarts.com/blog/2010/12/grammys-hats-and-mittens-pattern.html",
-  "designer_name": "Tanis Lavallee",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "tanis lavallee",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Green Label Aran Weight",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)"
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless"
+    "in the round",
+    "seamless"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -31,14 +31,15 @@
   "rating_average": 4.730569948186528,
   "rating_count": 193,
   "difficulty_average": 1.641711229946524,
-  "favorites_count": 3139,
+  "favorites_count": 3146,
   "projects_count": 1089,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/5968/57857",
+  "notes": "a super simple, super fun, basic hat pattern. passed down to me by my grammy, this is my go-to hat pattern for functional, comfy, cozy winter gear. \r\n\r\ngreat for using up scraps of worsted weight yarn, and great for gift knitting!\r\n\r\nthis pdf download includes my grammy’s mitts pattern as well.",
   "pdf": {
     "filename": "216489.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\216489.pdf",
-    "url": "https://pdf.ravelrycache.com/tanisfiberarts/87704/grammysknits.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480682&Signature=YfDPWRXx5lI92K%2BjLDU1HdN7KsE%3D&key_expires=1768480682&key=zSK1idjfxMwcDaQAkRzufQ",
+    "url": "https://pdf.ravelrycache.com/tanisfiberarts/87704/grammysknits.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770427835&Signature=T%2BxQBK9a7outM4O6cmtfIgUskAI%3D&key_expires=1770427835&key=JHPYz76ASR-QHHWTmmxENg",
     "size_bytes": 3064726
   }
 }

@@ -1,29 +1,33 @@
 {
   "id": 832890,
-  "name": "Skimmer Socks Revisited",
+  "name": "skimmer socks revisited",
   "permalink": "skimmer-socks-revisited",
   "url": "https://www.ravelry.com/patterns/library/skimmer-socks-revisited",
   "external_url": "http://sheilatoystromberg.com/product/skimmer_socks_revisited/",
-  "designer_name": "Sheila Toy Stromberg",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "sheila toy stromberg",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Sock",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 90.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless",
-    "Short rows",
-    "Written"
+    "in the round",
+    "seamless",
+    "short rows",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -31,18 +35,19 @@
     2.25
   ],
   "published": "2018/05/01",
-  "sizes_available": "Extra Small (Small, Medium, Large, Extra Large, Extra-Extra Large)",
-  "rating_average": 4.6,
-  "rating_count": 195,
-  "difficulty_average": 2.7708333333333335,
-  "favorites_count": 11447,
-  "projects_count": 1092,
+  "sizes_available": "extra small (small, medium, large, extra large, extra-extra large)",
+  "rating_average": 4.6020408163265305,
+  "rating_count": 196,
+  "difficulty_average": 2.772020725388601,
+  "favorites_count": 11481,
+  "projects_count": 1095,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/30025/460443",
+  "notes": "**if you enjoyed this freebie, consider leaving me a tip on [my ko-fi!][1]**\r\n\r\nthis pattern will fit a wide range of feet, from large children through every adult size imaginable! you will need to know the arch circumference and the foot length of the wearer before you get started. \r\ndue to the popularity of this pattern, i decided to add a tutorial video so that those who are beginners to toe-up sock patterns don’t get lost along the way. i will walk you through ever step. see the tutorial here: [https://youtu.be/oi-v6xsrsf8][2] . \r\n\r\n**sizes:**  extra small (small, medium, large, extra large, extra-extra large) to measure an actual arch circumference of 5.75” (6.75”, 7.75”, 8.75”, 9.75”, 10.75”)/14.5 (17, 19.5, 22, 25, 27.5) cm. (see diagram at right.)\r\n\r\n**yarn:**  125 (135, 145, 155, 170, 185) yards/115 (125, 130, 140, 155, 170) meters of sock weight yarn. this is a great pattern to use up scraps and odd bits of yarn! sample shown in hedgehog fibres sock minis colorways harajuku and boom box. \r\n\r\n**needles:**  size us 1 / 2.25 mm circular needles or double-point needles and size us 0/2 mm circular or double-point needles, or size needed to obtain gauge plus 1 size smaller. if you are more comfortable working with size us 2/2.75 mm needles for the main needles and don’t get gauge, make sure you bump down 1 – 2 sock sizes than what you’d normally pick.\r\n\r\ngauge:  32 – 34 stitches x 40 rows = 4”/10 cm in stockinette stitch. \r\n\r\n**notions:**  1 locking stitch marker, a small stitch holder, and a tapestry needle.\r\n\r\n**techniques:**  knitting in the round, judy’s magic cast-on, basic increase and decreases, short rows (wrap and turn), and picking up stitches. this is an appropriate pattern for experienced knitters who are beginners to sock knitting. \r\n\r\n\r\nfor first notice to opening of tests, new patterns, and as always, fantastic freebies, like me on facebook:\r\n\r\n[knitorious s h e][3]\r\n\r\n\r\n  [1]: https://ko-fi.com/knitoriousshe\r\n  [2]: https://youtu.be/oi-v6xsrsf8\r\n  [3]: https://www.facebook.com/pages/knitorious-s-h-e/737944959561355",
   "pdf": {
     "filename": "832890.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\832890.pdf",
-    "url": "https://pdf.ravelrycache.com/sheilatoy/2016692/skimmer_socks_revisited_V6.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483063&Signature=n0hnO9cBoF3EL6tQ9VJsZmR9BfI%3D&key_expires=1768483063&key=SXT2E03xKy_WmoAhiNA3cw",
+    "url": "https://pdf.ravelrycache.com/sheilatoy/2016692/skimmer_socks_revisited_V6.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770440919&Signature=c11KcDy29x1sREjbFmf%2Fq3cJHrA%3D&key_expires=1770440919&key=CTfVmnhdEzAgMOjb26ytwQ",
     "size_bytes": 5764138
   }
 }

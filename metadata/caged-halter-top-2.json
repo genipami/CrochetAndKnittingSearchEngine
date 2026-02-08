@@ -1,37 +1,38 @@
 {
   "id": 7384645,
-  "name": "Caged Halter Top",
+  "name": "caged halter top",
   "permalink": "caged-halter-top-2",
   "url": "https://www.ravelry.com/patterns/library/caged-halter-top-2",
   "external_url": "https://www.youtube.com/watch?v=buVM2R0ag0Q",
-  "designer_name": "Brittany Jackson",
-  "project_type": "Tank/Camisole",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "brittany jackson",
+  "project_type": "tank/camisole",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Sugar'n Cream The Original (Solids)",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Modular"
+    "modular"
   ],
   "hook_sizes_mm": [
     5.0
   ],
   "needle_sizes_mm": [],
   "published": "2021/08/01",
-  "sizes_available": "XS-XL",
+  "sizes_available": "xs-xl",
   "rating_average": 4.818181818181818,
   "rating_count": 11,
   "difficulty_average": 2.8,
-  "favorites_count": 1166,
-  "projects_count": 37,
+  "favorites_count": 1322,
+  "projects_count": 41,
   "free_ravelry_download": false,
-  "download_url": "https://www.youtube.com/watch?v=buVM2R0ag0Q"
+  "download_url": "https://www.youtube.com/watch?v=buVM2R0ag0Q",
+  "notes": "materials used:\r\nlily’s sugar n cream weight 4 cotton yarn in the color “teal”\r\n5 mm crochet hook\r\nscissors \r\nstitch markers\r\ntapestry needle"
 }

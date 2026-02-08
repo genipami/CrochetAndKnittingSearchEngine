@@ -1,21 +1,21 @@
 {
   "id": 907441,
-  "name": "Lovikkavantar till hela familjen",
+  "name": "lovikkavantar till hela familjen",
   "permalink": "lovikkavantar-till-hela-familjen",
   "url": "https://www.ravelry.com/patterns/library/lovikkavantar-till-hela-familjen",
   "external_url": "https://www.jarbo.se/lovikkavantar-till-hela-familjen-92187",
-  "designer_name": "Järbo",
-  "project_type": "Mittens/Gloves",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "järbo",
+  "project_type": "mittens/gloves",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Lovikka",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [],
@@ -27,14 +27,15 @@
   "rating_average": 4.666666666666667,
   "rating_count": 18,
   "difficulty_average": 2.388888888888889,
-  "favorites_count": 349,
-  "projects_count": 171,
+  "favorites_count": 356,
+  "projects_count": 177,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/82366/939817",
+  "notes": "***this pattern is from our archive which means that no erratas will be made. unfortunately, we are not able to answer pattern questions here on ravelry.\r\n however! we are happy to be able to share our patterns with you for free and will enjoy seeing your project come to life!***\r\n\r\n**inspiration and free patterns**\r\nfollow järbo on [instagram][1]\r\n\r\n**reseller map**\r\n[jarbo.se][2] - brand website, in swedish\r\n[find a reseller][3] - nordic region, in swedish\r\n\r\n**our official online stores**\r\n[eddna.se][4], [eddna.no][5], [eddna.de][6], [eddna.at][7], [eddna.nl][8], [eddna.be][9]\r\n\r\njärbo is a swedish brand established in 1896. we offer nordic design, selected yarns and accessories in stores and online.\r\n\r\n  [1]: https://www.instagram.com/jarbogarn/\r\n  [2]: https://www.jarbo.se/\r\n  [3]: https://www.jarbo.se/hitta-butik\r\n  [4]: https://www.eddna.se/\r\n  [5]: https://www.eddna.no/\r\n  [6]: https://www.eddna.de/\r\n  [7]: https://www.eddna.at/\r\n  [8]: https://www.eddna.nl/\r\n  [9]: https://www.eddna.be/\r\n",
   "pdf": {
     "filename": "907441.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\907441.pdf",
-    "url": "https://pdf.ravelrycache.com/JarboGarn/1860202/92187_low.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481564&Signature=1nbLtY23p2U6dCVkhv67MUEoLNE%3D&key_expires=1768481564&key=23XqVMjzvYt9xVjpD0daEw",
+    "url": "https://pdf.ravelrycache.com/JarboGarn/1860202/92187_low.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770432724&Signature=cxNPp4%2F07eHLkkgzxKB1I4%2BzQxU%3D&key_expires=1770432724&key=SPfu7JMlfXI13nAn9Ggczg",
     "size_bytes": 265404
   }
 }

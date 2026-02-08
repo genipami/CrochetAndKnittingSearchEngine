@@ -1,28 +1,28 @@
 {
   "id": 860188,
-  "name": "Scrub it Scrubby",
+  "name": "scrub it scrubby",
   "permalink": "scrub-it-scrubby",
   "url": "https://www.ravelry.com/patterns/library/scrub-it-scrubby",
   "external_url": "",
-  "designer_name": "Pam Stiff",
-  "project_type": "Dishcloth",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Bulky",
+  "designer_name": "pam stiff",
+  "project_type": "dishcloth",
+  "fiber_art": "crochet",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Scrub-Ology Scrub It!",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "lace",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Lace",
-    "Seamless"
+    "in the round",
+    "lace",
+    "seamless"
   ],
   "hook_sizes_mm": [
     6.0
@@ -33,14 +33,15 @@
   "rating_average": 4.555555555555555,
   "rating_count": 36,
   "difficulty_average": 1.8484848484848484,
-  "favorites_count": 1934,
+  "favorites_count": 1950,
   "projects_count": 127,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/6334/481105",
+  "notes": "pattern updated 1/23/2023\r\n\r\nscrubby is seamless worked in a spiral so no joins. works up fast.\r\n## **unsinkable scrubby** ##\r\nusing a serrated knife shave a small amount of foam from a pool noodle and place inside before you close it.  pool noodles never get hard so it is always squeezable. \r\n\r\ncheck out my other free pattern using this yarn here:\r\nhttps://www.ravelry.com/patterns/library/wheel-scrub-it-scrubby\r\n\r\n",
   "pdf": {
     "filename": "860188.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\860188.pdf",
-    "url": "https://pdf.ravelrycache.com/nana48532/1612366/Scrub_it_Scrubby.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482903&Signature=zVq%2FKO4FLU99MK8IpAlJifg8KbY%3D&key_expires=1768482903&key=TTd-hC_j1XDphmycIeqRDg",
+    "url": "https://pdf.ravelrycache.com/nana48532/1612366/Scrub_it_Scrubby.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770439715&Signature=8TMD7SCc4GUxRsU%2BI5G%2Fd9rXYcE%3D&key_expires=1770439715&key=4YIOiSZFKYhTBfoxE_PrpQ",
     "size_bytes": 88596
   }
 }

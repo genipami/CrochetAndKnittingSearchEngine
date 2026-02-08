@@ -1,25 +1,25 @@
 {
   "id": 620890,
-  "name": "Ridged Crochet Hat",
+  "name": "ridged crochet hat",
   "permalink": "ridged-crochet-hat",
   "url": "https://www.ravelry.com/patterns/library/ridged-crochet-hat",
   "external_url": "https://www.yarnspirations.com/red-heart-ridged-crochet-hat/RHC0116-018556M.html",
-  "designer_name": "Becky Barker",
-  "project_type": "Hat",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "becky barker",
+  "project_type": "hat",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Super Saver (solids)",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     5.0,
@@ -27,12 +27,13 @@
   ],
   "needle_sizes_mm": [],
   "published": "2015/11/01",
-  "sizes_available": "Finished Hat Size: 20” (22”) [51 (56) cm] in circumference",
+  "sizes_available": "finished hat size: 20” (22”) [51 (56) cm] in circumference",
   "rating_average": 4.666666666666667,
   "rating_count": 60,
   "difficulty_average": 2.3508771929824563,
-  "favorites_count": 861,
-  "projects_count": 281,
+  "favorites_count": 873,
+  "projects_count": 282,
   "free_ravelry_download": false,
-  "download_url": "https://www.yarnspirations.com/on/demandware.static/-/Sites-master-catalog-spinrite/default/dw18d08a9f/PDF/RHC0116-018556M.pdf"
+  "download_url": "https://www.yarnspirations.com/on/demandware.static/-/Sites-master-catalog-spinrite/default/dw18d08a9f/PDF/RHC0116-018556M.pdf",
+  "notes": "[super saver solids](/yarns/library/red-heart-super-saver-solids) labels with the photo have both spanish & english instructions.\r\n\r\nnotes\r\nthe ch-2 worked at the beginning of a round does not count as a stitch. do not turn at the end of each round.\r\n\r\nhook used: \r\n5.0mm [us h-8] for size medium or 6.0mm [us j-10] for size large\r\n\r\n[en español][1]\r\n\r\n\r\n  [1]: http://www.redheart.mx/instrucciones-gratis/gorro-de-crochet-con-crestas"
 }

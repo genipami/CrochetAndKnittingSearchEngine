@@ -1,27 +1,27 @@
 {
   "id": 911858,
-  "name": "Izzy Buddy Boy Dolls",
+  "name": "izzy buddy boy dolls",
   "permalink": "izzy-buddy-boy-dolls",
   "url": "https://www.ravelry.com/patterns/library/izzy-buddy-boy-dolls",
   "external_url": "",
-  "designer_name": "Esther Braithwaite",
-  "project_type": "Toys",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "esther braithwaite",
+  "project_type": "toys",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Simply DK",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Treble crochet (tr)"
+    "cable",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Cables",
-    "Charted",
-    "In the round"
+    "cables",
+    "charted",
+    "in the round"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -32,14 +32,15 @@
   "rating_average": 4.7894736842105265,
   "rating_count": 57,
   "difficulty_average": 2.4150943396226414,
-  "favorites_count": 2907,
-  "projects_count": 251,
+  "favorites_count": 2923,
+  "projects_count": 250,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/74486/520911",
+  "notes": "add personality to your charity knitting project with instructions for knitting in the round and four sweater options with colourwork and cables.\r\n\r\nfor more information about the history and legacy of izzy dolls in canada please visit: https://www.hpicanada.ca/ ",
   "pdf": {
     "filename": "911858.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\911858.pdf",
-    "url": "https://pdf.ravelrycache.com/estherjoy/951901/Izzy_Buddy_Boy_Doll_Pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481042&Signature=oZc8J%2FvSrQhFu49DuicHD2um0vs%3D&key_expires=1768481042&key=2XCxhy2ZzMaEYpGscDUi7Q",
+    "url": "https://pdf.ravelrycache.com/estherjoy/951901/Izzy_Buddy_Boy_Doll_Pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770430050&Signature=acJspsUL9FZrX6VQH3OSQMgfBLU%3D&key_expires=1770430050&key=nf2cO5TOcjhFbA34rDqdxw",
     "size_bytes": 559738
   }
 }

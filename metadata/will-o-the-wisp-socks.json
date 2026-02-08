@@ -1,44 +1,45 @@
 {
   "id": 808569,
-  "name": "Will O' The Wisp Socks",
+  "name": "will o' the wisp socks",
   "permalink": "will-o-the-wisp-socks",
   "url": "https://www.ravelry.com/patterns/library/will-o-the-wisp-socks",
   "external_url": "",
-  "designer_name": "This Handmade Life",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "this handmade life",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Fernan 4 Ply",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Lace"
+    "lace"
   ],
   "techniques_used": [
-    "Charted",
-    "Kitchener stitch",
-    "Lace"
+    "charted",
+    "kitchener stitch",
+    "lace"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.5
   ],
   "published": "2018/02/01",
-  "sizes_available": "Womens Medium",
-  "rating_average": 4.841584158415841,
-  "rating_count": 202,
-  "difficulty_average": 2.5473684210526315,
-  "favorites_count": 5780,
-  "projects_count": 753,
+  "sizes_available": "womens medium",
+  "rating_average": 4.8431372549019605,
+  "rating_count": 204,
+  "difficulty_average": 2.5416666666666665,
+  "favorites_count": 5807,
+  "projects_count": 759,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/55875/443057",
+  "notes": "will o' the wisp socks are a cozy and comfy sock pattern to knit. a very easy lace that is both wispy and relaxing. before you know it your socks will be done. its easy to memorize which is always nice. there is a lovely short rounded toe perfect for those who do not like the kitchener.\r\n\r\nthe lace design is knit on the front of the sock, the instep. its looks lovely on the back as well if you wish. the lace stitch is charted and the socks are knit on circulars using magic loop. this can be changed to dpns if you wish. the pattern only includes size medium. both length and size are easily adjustable, since the lace is not an all over pattern.\r\n\r\nthis pattern has not been tech edited or test knit, please get in touch with me if there are any issues. happy knitting!",
   "pdf": {
     "filename": "808569.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\808569.pdf",
-    "url": "https://pdf.ravelrycache.com/thishandmadelife/793882/willothewisppattern1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484144&Signature=%2F9F906y2wxoJLWj21SoPzg2%2F2vc%3D&key_expires=1768484144&key=iAOy7MnCal7rs18xJQl_ng",
+    "url": "https://pdf.ravelrycache.com/thishandmadelife/793882/willothewisppattern1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770446949&Signature=j8dfByH6%2FomMJdTQ6BWxoOyj7ik%3D&key_expires=1770446949&key=M9tnta2Ua2ljmq1PGifugQ",
     "size_bytes": 1756713
   }
 }

@@ -1,31 +1,27 @@
 {
   "id": 7468407,
-  "name": "Placket Tee for Mini AG Dolls",
+  "name": "placket tee for mini ag dolls",
   "permalink": "placket-tee-for-mini-ag-dolls",
   "url": "https://www.ravelry.com/patterns/library/placket-tee-for-mini-ag-dolls",
   "external_url": "",
-  "designer_name": "Dawn Smith",
-  "project_type": "Toys",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "dawn smith",
+  "project_type": "toys",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Nature Spun Fingering",
-      "pct": null
-    },
-    {
-      "fiber": "Palette",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Puff stitch",
-    "Stockinette stitch"
+    "puff stitch",
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless",
-    "Top-down"
+    "in the round",
+    "seamless",
+    "top-down"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -37,14 +33,15 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 79,
+  "favorites_count": 83,
   "projects_count": 14,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/13169/1029336",
+  "notes": "this tee is knitted top down with a placket in the back to make it easier to put on your doll. it is knitted flat to the bottom of the placket and then in the round to the hem.\r\n\r\nany fingering weight yarn should work just fine. i have used from 18 wpi yarn to 23 wpi. you just need 10 -12 yards, so this is a good use for those little balls you’ve probably been collecting.\r\n\r\ni put the gauge in, but i wouldn’t worry too much about it. at this size it’s easier to just start and see if it will fit your doll rather than knit a gauge square.\r\n\r\ntips:\r\n\r\n* sometimes the sleeves will want to flare out a bit, especially with a thicker yarn. what i normally do in that case is zhuzh them with my fingers, sort of pinching them to make them lay down.  \r\n* you can also change to a smaller needle for the sleeve cast-off section only to keep the sleeves from flaring out. it's a bit fiddly, but works well. it gives a slightly puffed-sleeve look.\r\n* i found several ways to style the tees during a recent 12 items, 12 looks instagram challenge. see the photo for what i did.\r\n\r\nthis pattern is free, but if you want to say “thank you”, please create a project page here on ravelry.\r\n\r\n",
   "pdf": {
     "filename": "7468407.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7468407.pdf",
-    "url": "https://pdf.ravelrycache.com/crazyquilter/2069796/Placket_tee_for_AG_mini_dolls.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482447&Signature=VV86oHUPEr7zpdKSmYdSGFPBJwY%3D&key_expires=1768482447&key=2vLZEYAYOISGnL77SmxyGQ",
+    "url": "https://pdf.ravelrycache.com/crazyquilter/2069796/Placket_tee_for_AG_mini_dolls.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770437271&Signature=Zk1xFDQNvPgT33aOCyycoYyGZSw%3D&key_expires=1770437271&key=b1k0w8q5XZF9rqAtJNjbyg",
     "size_bytes": 297165
   }
 }

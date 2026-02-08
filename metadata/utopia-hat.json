@@ -1,45 +1,46 @@
 {
   "id": 913942,
-  "name": "Utopia Hat",
+  "name": "utopia hat",
   "permalink": "utopia-hat",
   "url": "https://www.ravelry.com/patterns/library/utopia-hat",
   "external_url": "",
-  "designer_name": "Mimi Christien",
-  "project_type": "Hat",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "mimi christien",
+  "project_type": "hat",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Anti-Pilling Everyday Worsted Solids, Marls & Heathers",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Ribbing"
+    "double crochet (dc)",
+    "ribbing"
   ],
   "techniques_used": [
-    "In the round",
-    "Top-down",
-    "Written"
+    "in the round",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [
     5.5
   ],
   "needle_sizes_mm": [],
   "published": null,
-  "sizes_available": "Adult",
-  "rating_average": 4.588235294117647,
-  "rating_count": 34,
+  "sizes_available": "adult",
+  "rating_average": 4.6,
+  "rating_count": 35,
   "difficulty_average": 3.1379310344827585,
-  "favorites_count": 1520,
-  "projects_count": 127,
+  "favorites_count": 1543,
+  "projects_count": 131,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/74631/522387",
+  "notes": "i was looking for a hat with lot of texture and didn't really find anything i liked, so created my own. this hat is worked in one piece, top down. the crown has posted stitches every x stitches, then it blends into the main fpdc/dc texture of the hat, and there's fpdc ribbing for the edging. gauge isn't overly important, but the finished hat should fit a standard adult head.\r\n\r\nenjoy! :)\r\n",
   "pdf": {
     "filename": "913942.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\913942.pdf",
-    "url": "https://pdf.ravelrycache.com/mimiducky/954793/Utopia_Hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483961&Signature=DQhME4cTmMo96HJm4qrWpc8FyYI%3D&key_expires=1768483961&key=mMWWpUKhiynGCahjgcEzBg",
+    "url": "https://pdf.ravelrycache.com/mimiducky/954793/Utopia_Hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770445851&Signature=otD%2BlfX6Go70x1VTfj45p%2FaKtDs%3D&key_expires=1770445851&key=TK8KhgEugzgeKQLGABruRw",
     "size_bytes": 326509
   }
 }

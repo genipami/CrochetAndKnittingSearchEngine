@@ -1,26 +1,26 @@
 {
   "id": 175201,
-  "name": "Garter Rib Baby Blanket",
+  "name": "garter rib baby blanket",
   "permalink": "garter-rib-baby-blanket",
   "url": "https://www.ravelry.com/patterns/library/garter-rib-baby-blanket",
   "external_url": "https://www.orangefloweryarn.com/free-patterns-1",
-  "designer_name": "Orange Flower Yarn",
-  "project_type": "Blanket",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "orange flower yarn",
+  "project_type": "blanket",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "DK 250",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Written"
+    "charted",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -28,11 +28,12 @@
   ],
   "published": "2010/04/01",
   "sizes_available": "30\"x32\" ",
-  "rating_average": 4.546891464699684,
-  "rating_count": 949,
-  "difficulty_average": 1.5761904761904761,
-  "favorites_count": 29203,
-  "projects_count": 3627,
+  "rating_average": 4.546413502109704,
+  "rating_count": 948,
+  "difficulty_average": 1.5767397521448998,
+  "favorites_count": 29355,
+  "projects_count": 3638,
   "free_ravelry_download": false,
-  "download_url": "https://www.orangefloweryarn.com/free-patterns-1"
+  "download_url": "https://www.orangefloweryarn.com/free-patterns-1",
+  "notes": "a free pattern for a baby blanket in garter rib.\r\n\r\nrequires approx. 680 yards for a finished size of 30\"x32\" \r\n\r\n\r\n***this free pattern is for personal, non-commercial use only. you may not sell, reproduce, or distribute the pattern.*** \r\n\r\n*you may sell items made from this pattern for charity auctions or fund raisers.*"
 }

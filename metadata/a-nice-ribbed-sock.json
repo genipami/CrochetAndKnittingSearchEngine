@@ -1,27 +1,27 @@
 {
   "id": 183915,
-  "name": "A Nice Ribbed Sock",
+  "name": "a nice ribbed sock",
   "permalink": "a-nice-ribbed-sock",
   "url": "https://www.ravelry.com/patterns/library/a-nice-ribbed-sock",
   "external_url": "",
-  "designer_name": "Glenna C.",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "glenna c.",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Socks that Rock Lightweight",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Ribbing",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "ribbing",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -29,17 +29,18 @@
   ],
   "published": "2010/06/01",
   "sizes_available": "one, fits foot/ankle 8-9 ins around",
-  "rating_average": 4.64625850340136,
-  "rating_count": 1176,
-  "difficulty_average": 2.2861981371718882,
-  "favorites_count": 16393,
-  "projects_count": 6375,
+  "rating_average": 4.6471586089906705,
+  "rating_count": 1179,
+  "difficulty_average": 2.2857142857142856,
+  "favorites_count": 16526,
+  "projects_count": 6411,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/72/37781",
+  "notes": "i love knitting socks of all kinds – from the very simple to the very complex. when i need something basic, i cast on a pair of ribbed socks in a colourway that pleases me. ribbing is no more difficult than plain stockinette and can likewise be used with solid or multi-coloured sock yarns of any kind, but adds extra snugness in the fit. \r\n\r\nfeel free to use your choice of fingering weight yarn! something that works well at 8 sts/inch is best.\r\n\r\nthis is a basic, cuff-down, 3x1 ribbed sock pattern with a flap heel and gussets. it is written for fingering-weight yarn for one size of 64 sts around, to fit foot/ankle circumference of 8-9 inches. to accommodate smaller or larger foot sizes, decrease or increase the number of cast-on stitches by a multiple of 4. \r\n\r\n*please note i am not able to guarantee pattern support for free patterns after their 1st year of release. \r\nthis pattern was originally released in 2010.*\r\n",
   "pdf": {
     "filename": "183915.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\183915.pdf",
-    "url": "https://pdf.ravelrycache.com/GlennaC/268506/NiceRibbedSock-July18-13.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478613&Signature=jRGqhRwhbWq4eupEqns2dxeI%2FjA%3D&key_expires=1768478613&key=GrAz_83oP7Xdh1dn2d39oA",
+    "url": "https://pdf.ravelrycache.com/GlennaC/268506/NiceRibbedSock-July18-13.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770416303&Signature=7CuzczNQzu6sw9kmT9c7196DpoE%3D&key_expires=1770416303&key=F8yD2_9MvPgTL_7MY9FNeQ",
     "size_bytes": 660269
   }
 }

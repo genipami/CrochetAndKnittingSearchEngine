@@ -1,34 +1,38 @@
 {
   "id": 7472829,
-  "name": "Riverbed Hat",
+  "name": "riverbed hat",
   "permalink": "riverbed-hat-3",
   "url": "https://www.ravelry.com/patterns/library/riverbed-hat-3",
   "external_url": "https://celesteknitwear.com/riverbed-hat-knitting-pattern/",
-  "designer_name": "Celeste Knitwear",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "celeste knitwear",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "DROPS Daisy",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 50.0
     },
     {
-      "fiber": "DROPS Kid-Silk",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 37.5
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 12.5
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "cable",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Bottom-up",
-    "Cables",
-    "In the round",
-    "Seamless"
+    "blocking",
+    "bottom-up",
+    "cables",
+    "in the round",
+    "seamless"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -36,12 +40,13 @@
     4.0
   ],
   "published": "2025/10/01",
-  "sizes_available": "XS, S, M, L, XL",
-  "rating_average": 0,
-  "rating_count": null,
-  "difficulty_average": 1.3333333333333333,
-  "favorites_count": 1064,
-  "projects_count": 12,
+  "sizes_available": "xs, s, m, l, xl",
+  "rating_average": 5.0,
+  "rating_count": 4,
+  "difficulty_average": 1.4,
+  "favorites_count": 1138,
+  "projects_count": 17,
   "free_ravelry_download": false,
-  "download_url": "https://celesteknitwear.com/riverbed-hat-knitting-pattern/"
+  "download_url": "https://celesteknitwear.com/riverbed-hat-knitting-pattern/",
+  "notes": "the riverbed hat is knit in the round from the bottom up with two strands of yarn held together – dk-weight merino wool and mohair. \r\n\r\nthe design features a simple cable rib stitch. the pattern is a 4-row repeat.\r\n\r\nthe crown decreases are done in the last 7 rounds, and the top of the hat has a gathered look.\r\n\r\nthe long-tail tubular cast-on is used for this hat, but it is optional."
 }

@@ -1,32 +1,36 @@
 {
   "id": 1285882,
-  "name": "Hoodie",
+  "name": "hoodie",
   "permalink": "hoodie-19",
   "url": "https://www.ravelry.com/patterns/library/hoodie-19",
   "external_url": "https://gohandmade.net/shop/263-clothing/6001-hoodie-xs---xxl---uk/",
-  "designer_name": "Go Handmade",
-  "project_type": "Pullover",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "go handmade",
+  "project_type": "pullover",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Cosy",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 41.5
     },
     {
-      "fiber": "Soft Bamboo Fine",
-      "pct": null
+      "fiber": "Rayon from Bamboo (Bamboo)",
+      "pct": 35.0
+    },
+    {
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 23.5
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Seamed",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "seamed",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -35,12 +39,13 @@
     5.0
   ],
   "published": "2022/10/01",
-  "sizes_available": "XS to XXL 100 cm-148 cm chest",
-  "rating_average": 3.7083333333333335,
-  "rating_count": 24,
+  "sizes_available": "xs to xxl 100 cm-148 cm chest",
+  "rating_average": 3.6,
+  "rating_count": 25,
   "difficulty_average": 4.739130434782608,
-  "favorites_count": 7617,
-  "projects_count": 121,
+  "favorites_count": 7778,
+  "projects_count": 126,
   "free_ravelry_download": false,
-  "download_url": "https://gohandmade.net/upload_dir/shop/96741_Hoodie_Booklet_Adult_3.udg.pdf"
+  "download_url": "https://gohandmade.net/upload_dir/shop/96741_Hoodie_Booklet_Adult_3.udg.pdf",
+  "notes": "free pattern download in [**english**][1] and  [**danish**][2] only.\r\n\r\n\r\n---------------------\r\n\r\n**yarn usage**\r\n\r\n* xs: cosy 600 g soft bamboo ”fine” 350\r\n  g\r\n* s: cosy 650 g soft bamboo ”fine” 350 g\r\n* m: cosy 700 g soft bamboo ”fine” 400 g\r\n* l: cosy 750 g soft bamboo ”fine” 400 g\r\n* xl: cosy 800 g soft bamboo ”fine” 450\r\n  g\r\n* xxl: cosy 850 g soft bamboo ”fine” 450\r\n  g\r\n\r\n**materiales**\r\n\r\n* circular needles: 3,5 mm and 5,0 mm\r\n* double pointed needles: 3,0 mm\r\n\r\n**gauge**: 17 sts x 23 r in stocking st on 5,0 mm = 10 x 10 cm\r\n\r\n*the given amounts of yarn are for guidance\r\nonly.*\r\n\r\n**abbreviations and definitions**\r\nst(s) stitch(es)\r\nrnd round(s)\r\nn needle(s)\r\nk knit\r\np purl\r\nrs right side - k all sts\r\nws wrong side - p all sts\r\nedge st edge stitch - knit first and last st in every row\r\nk2tog decrease -knit 2 sts together through back loops in the beginning, knit 2 sts toghether in the end\r\nm1b increase - from the back, lift loop between sts with left needle, knit into front st.\r\n(..) indicates number of sts on the n for the 6 sizes\r\n\\* ... \\* the instructions shown between these stars must be repeated for the whole round/row or with the number indicated after x.\r\n\r\n**guide**:\r\nknit bottom up on circular needles, up to where the pocket starts.\r\nthe pocket is worked back and forth, while the rest of the work is on hold. when the pocket is done, put it on hold and work the rest to the height of the pocket.\r\nthe front piece is knit together with the pocket - continue working up to the armholes.\r\ndivide in back and front piece, finish the parts separately.\r\nsew the shoulders together and pick up sts for the hood.\r\nwork the arms back and forth and sew them on.\r\n\r\n\r\n  [1]: https://gohandmade.net/shop/263-clothing/6001-hoodie-xs---xxl---uk/\r\n  [2]: https://gohandmade.net/shop/256-clothing/5998-hoodie-xs---xxl---dk/"
 }

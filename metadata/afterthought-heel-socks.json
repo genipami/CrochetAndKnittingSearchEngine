@@ -1,27 +1,27 @@
 {
   "id": 247406,
-  "name": "AfterThought Heel Socks",
+  "name": "afterthought heel socks",
   "permalink": "afterthought-heel-socks",
   "url": "https://www.ravelry.com/patterns/library/afterthought-heel-socks",
   "external_url": "",
-  "designer_name": "Laura Linneman",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "laura linneman",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Arial Striping",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch"
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "In the round",
-    "Kitchener stitch",
-    "Seamless",
-    "Top-down"
+    "in the round",
+    "kitchener stitch",
+    "seamless",
+    "top-down"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -32,14 +32,15 @@
   "rating_average": 4.66088840736728,
   "rating_count": 923,
   "difficulty_average": 2.3636363636363638,
-  "favorites_count": 9969,
-  "projects_count": 6119,
+  "favorites_count": 9979,
+  "projects_count": 6121,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/1290/67051",
+  "notes": "a simple top-down sock pattern to accompany the after thought heel tutorial found here.\r\n\r\n\r\n[updated afterthought heel tutorial.][2]\r\n\r\n\r\n\r\n  [2]: http://theknitgirllls.com/index.php/2011/03/tutorial-series-afterthought-heel/",
   "pdf": {
     "filename": "247406.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\247406.pdf",
-    "url": "https://pdf.ravelrycache.com/LaLa/207051/Afterthought_heel_socksv.4.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478680&Signature=8U4U3oKVANT%2BDAo%2BgZYvulEM4bM%3D&key_expires=1768478680&key=FBZOWUC7iGYdYWZLGxsYJg",
+    "url": "https://pdf.ravelrycache.com/LaLa/207051/Afterthought_heel_socksv.4.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770416586&Signature=dt5RDkT4MeIkqCi1Onf606LvnAE%3D&key_expires=1770416586&key=D_DEl9GSpU-HXSs8l1ge5Q",
     "size_bytes": 4384278
   }
 }

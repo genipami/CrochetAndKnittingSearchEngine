@@ -1,42 +1,47 @@
 {
   "id": 944373,
-  "name": "Everyday Cotton Cardigan",
+  "name": "everyday cotton cardigan",
   "permalink": "everyday-cotton-cardigan",
   "url": "https://www.ravelry.com/patterns/library/everyday-cotton-cardigan",
   "external_url": "https://www.sewrella.com/crochet-everyday-cotton-cardigan-free-pattern",
-  "designer_name": "Ashleigh Kiser",
-  "project_type": "Cardigan",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "ashleigh kiser",
+  "project_type": "cardigan",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Coboo",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 51.0
+    },
+    {
+      "fiber": "Rayon from Bamboo (Bamboo)",
+      "pct": 49.0
     }
   ],
   "stitches_used": [
-    "Back post stitch",
-    "Double crochet (dc)",
-    "Half double crochet (hdc)",
-    "Slip stitch (sl st)",
-    "Treble crochet (tr)"
+    "back post stitch",
+    "double crochet (dc)",
+    "half double crochet (hdc)",
+    "slip stitch (sl st)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Seamed",
-    "Written"
+    "bottom-up",
+    "seamed",
+    "written"
   ],
   "hook_sizes_mm": [
     5.0
   ],
   "needle_sizes_mm": [],
   "published": "2019/07/01",
-  "sizes_available": "XS (S, M, L, 1X, 2X, 3X)",
+  "sizes_available": "xs (s, m, l, 1x, 2x, 3x)",
   "rating_average": 4.7631578947368425,
   "rating_count": 38,
   "difficulty_average": 2.6578947368421053,
-  "favorites_count": 6833,
-  "projects_count": 187,
+  "favorites_count": 6900,
+  "projects_count": 190,
   "free_ravelry_download": false,
-  "download_url": "https://www.sewrella.com/crochet-everyday-cotton-cardigan-free-pattern"
+  "download_url": "https://www.sewrella.com/crochet-everyday-cotton-cardigan-free-pattern",
+  "notes": "this adult sized crochet cardigan can be worked up simply and easy! it only using a few rectangles, some seaming, and a trim! it is a great project for those still new to the craft - great for an adventurous beginner. it is the perfect size and weight - not too chunky but soft, plush, and warm.\r\n\r\npattern includes sizes xs-3xl womens.\r\n\r\nthis is an easy level crochet pattern, and the techniques you will need to know are half double crochet, double crochet, front and back post double crochet, chain stitch, and slip stitch."
 }

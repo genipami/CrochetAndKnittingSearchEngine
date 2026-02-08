@@ -1,28 +1,32 @@
 {
   "id": 7490856,
-  "name": "Vuodenvartijat",
+  "name": "vuodenvartijat",
   "permalink": "vuodenvartijat",
   "url": "https://www.ravelry.com/patterns/library/vuodenvartijat",
   "external_url": "",
-  "designer_name": "Johanna Wallius",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "johanna wallius",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "7 Veljestä",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Stranded colorwork",
-    "Top-down",
-    "Written"
+    "charted",
+    "in the round",
+    "stranded colorwork",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -30,11 +34,12 @@
   ],
   "published": "2025/12/01",
   "sizes_available": "1, 2",
-  "rating_average": 5.0,
-  "rating_count": 4,
-  "difficulty_average": 2.0,
-  "favorites_count": 273,
-  "projects_count": 94,
+  "rating_average": 4.8,
+  "rating_count": 10,
+  "difficulty_average": 2.5,
+  "favorites_count": 418,
+  "projects_count": 141,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/113641/1047316"
+  "download_url": "http://www.ravelry.com/dls/113641/1047316",
+  "notes": "**nämä sukat ovat sukkalaatikko 2026 -haasteen tammikuun ohje.** \r\n\r\nlisätietoja haasteesta instagramista @johanna.wallius\r\n\r\n**vuodenvartijat**\r\n\r\nvuodenvartija seisoo ajan portilla, siinä missä vanha vuosi päättyy ja uusi syntyy. ne suojaavat kulkijaa pakkaselta ja kantavat mukanaan muinaisen vartijan voimaa, joka ei horju, vaikka tuuli käy ja pakkanen paukkuu.\r\n\r\n#sukkalaatikko2026\r\n\r\n**de här sockorna är januari­mönstret i utmaningen sukkalaatikko 2026.**\r\n\r\nmer information om utmaningen finns på instagram @johanna.wallius\r\n\r\n**årsväktarna**\r\n\r\nårsväktaren står vid tidens port, där det gamla året tar slut och det nya föds. de skyddar vandraren mot kölden och bär med sig den uråldriga väktarens kraft, som inte vacklar även när vinden viner och kölden biter.\r\n\r\n**these socks are the january pattern for the sukkalaatikko 2026 challenge. (box of socks)**\r\n\r\nfor more information about the challenge, visit instagram: @johanna.wallius\r\n\r\n**the year guardians**\r\nthe year guardian stands at the threshold of time, where the old year comes to an end and the new one begins. they shield the traveler from the cold and carry the power of an ancient sentinel—steadfast and unwavering even as the wind howls and the frost bites."
 }

@@ -1,13 +1,13 @@
 {
   "id": 700444,
-  "name": "Herringbone Hat",
+  "name": "herringbone hat",
   "permalink": "herringbone-hat-7",
   "url": "https://www.ravelry.com/patterns/library/herringbone-hat-7",
   "external_url": "",
-  "designer_name": "Anne Mizoguchi",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "anne mizoguchi",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
       "fiber": "Looped Yarn Works Dupont Circle DK",
@@ -15,14 +15,14 @@
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Colorwork",
-    "In the round",
-    "Seamless",
-    "Stranded colorwork"
+    "bottom-up",
+    "colorwork",
+    "in the round",
+    "seamless",
+    "stranded colorwork"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -30,18 +30,19 @@
     4.0
   ],
   "published": "2016/10/01",
-  "sizes_available": "Baby (Child, Adult)",
+  "sizes_available": "baby (child, adult)",
   "rating_average": 4.63671875,
   "rating_count": 256,
   "difficulty_average": 2.8924302788844622,
-  "favorites_count": 11388,
-  "projects_count": 1052,
+  "favorites_count": 11428,
+  "projects_count": 1054,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/16060/361428",
+  "notes": "a family of hats is a fun, easy collection of patterns designed as an introduction to stranded colorwork! three skeins of looped yarn works dupont dk will yield three or more hats depending on size. \r\n\r\nenjoy learning how to knit stranded colorwork with these easy patterns and don't forget the pom poms! ",
   "pdf": {
     "filename": "700444.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\700444.pdf",
-    "url": "https://pdf.ravelrycache.com/annemade/634357/HerringboneHatPattern_2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480877&Signature=UL7HEHRNFirbgdVwvvYXjNq%2FQFU%3D&key_expires=1768480877&key=uGmWIPh6gGdPPgJruNfjqQ",
+    "url": "https://pdf.ravelrycache.com/annemade/634357/HerringboneHatPattern_2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770429087&Signature=GwNjJWcLvba7t9yr%2BvzHeMjf%2BUY%3D&key_expires=1770429087&key=25SB6YvihlarXUO-Jh318w",
     "size_bytes": 948406
   }
 }

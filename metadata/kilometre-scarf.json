@@ -1,49 +1,50 @@
 {
   "id": 1309141,
-  "name": "Kilometre Scarf",
+  "name": "kilometre scarf",
   "permalink": "kilometre-scarf",
   "url": "https://www.ravelry.com/patterns/library/kilometre-scarf",
   "external_url": "",
-  "designer_name": "Florence Miller",
-  "project_type": "Scarf",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "florence miller",
+  "project_type": "scarf",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Skall Studio Recycled Cashmere",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 70.0
     },
     {
-      "fiber": "Soft Silk Mohair",
-      "pct": null
+      "fiber": "Silk (Silk)",
+      "pct": 30.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Kitchener stitch"
+    "in the round",
+    "kitchener stitch"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     4.5
   ],
   "published": "2023/02/01",
-  "sizes_available": "One size",
-  "rating_average": 4.953125,
-  "rating_count": 64,
-  "difficulty_average": 1.7611940298507462,
-  "favorites_count": 8154,
-  "projects_count": 382,
+  "sizes_available": "one size",
+  "rating_average": 4.943661971830986,
+  "rating_count": 71,
+  "difficulty_average": 1.7972972972972974,
+  "favorites_count": 8774,
+  "projects_count": 413,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/95603/835361",
+  "notes": "the kilometre scarf is a soft, double layered stockinette scarf with no visible wrong side. it uses one kilometre of your preferred dk weight yarn to create a piece you’ll reach for all winter.\r\n\r\nsizes: one size\r\nmeasurements: the finished scarf measures approximately 25cm by 180cm. you can knit it to your preferred length, but if you would like it to be much longer, you may end up needing more yarn.\r\nneedles: 4.5mm circular needles (100cm and 40cm lengths)\r\ngauge: 20 stitches x 26 rows on 4.5mm needles in stockinette.\r\nyarn: approximately 1000m of your preferred dk weight yarn, or 1000m each of a fingering weight yarn and silk mohair.\r\nthe sample uses 5 skeins of cashmere from skall studio and 5 skeins of soft silk mohair from knitting for olive.\r\nnotions: two stitch markers, a needle to weave in ends.\r\n",
   "pdf": {
     "filename": "1309141.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1309141.pdf",
-    "url": "https://pdf.ravelrycache.com/flrln/1618273/KILOMETRE_SCARF_V1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481185&Signature=OycgSt6w%2BkceFZ9Fspt%2Fr0L6DOE%3D&key_expires=1768481186&key=H81psUbB7bfqHmWvepA5YQ",
+    "url": "https://pdf.ravelrycache.com/flrln/1618273/KILOMETRE_SCARF_V1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770430761&Signature=Vt8Kwk8Rv0HPYdXkXqznBT%2Bh2e4%3D&key_expires=1770430761&key=I3DwfGuUz7Az_vVaQ-qX5g",
     "size_bytes": 1998315
   }
 }

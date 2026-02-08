@@ -1,45 +1,46 @@
 {
   "id": 7435424,
-  "name": "Labubu Knit Beanie Hat",
+  "name": "labubu knit beanie hat",
   "permalink": "labubu-knit-beanie-hat",
   "url": "https://www.ravelry.com/patterns/library/labubu-knit-beanie-hat",
   "external_url": "",
-  "designer_name": "Stephanie Connolly",
-  "project_type": "Toys",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "stephanie connolly",
+  "project_type": "toys",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Eco Puna",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "lace",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Lace"
+    "bottom-up",
+    "lace"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.25
   ],
   "published": "2025/05/01",
-  "sizes_available": "One Size",
+  "sizes_available": "one size",
   "rating_average": 4.954545454545454,
   "rating_count": 22,
   "difficulty_average": 1.5263157894736843,
-  "favorites_count": 862,
-  "projects_count": 122,
+  "favorites_count": 893,
+  "projects_count": 126,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/111810/1003908",
+  "notes": "a whimsical, creature inspired hat for mischief- makers of all sizes. \r\n\r\none size only.\r\n\r\npattern info: this is a simple 2 x 2 ribbed hat with a stretchy, snug brim. one size fits most labubus.\r\n\r\nus size 3 needles, 40\" circular needles \r\n\r\nyarn- choose one option:\r\n\r\ndk weight, held single. 25 yards total or;\r\n\r\nfingering weight yarn, held double. 50 yards total or;\r\n\r\n1 strand fingering weight yarn held with 1 strand laceweight mohair. 25 yards of each.",
   "pdf": {
     "filename": "7435424.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7435424.pdf",
-    "url": "https://pdf.ravelrycache.com/niconico22/2011956/Labubu_Knit_Beanie_Download.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481277&Signature=GDZcY%2F7Mo6EpD23DHtV4A7fXvM4%3D&key_expires=1768481277&key=nz_2jd6t7RgkhZoo_ppKxg",
+    "url": "https://pdf.ravelrycache.com/niconico22/2011956/Labubu_Knit_Beanie_Download.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770431207&Signature=0m6UGuxZaYtGMDHRT2h4SIS2IXo%3D&key_expires=1770431207&key=X8sNneuZ8GAcQXgQhOfHnA",
     "size_bytes": 1784653
   }
 }

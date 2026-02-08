@@ -1,26 +1,30 @@
 {
   "id": 536119,
-  "name": "Fingerless Gloves",
+  "name": "fingerless gloves",
   "permalink": "fingerless-gloves-211",
   "url": "https://www.ravelry.com/patterns/library/fingerless-gloves-211",
   "external_url": "http://crejjtion.com/pattern/fingerless-gloves-2/",
-  "designer_name": "Maaike van Koert",
-  "project_type": "Mittens/Gloves",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Fingering",
+  "designer_name": "maaike van koert",
+  "project_type": "mittens/gloves",
+  "fiber_art": "crochet",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Invicta Extra",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     3.0
@@ -28,11 +32,12 @@
   "needle_sizes_mm": [],
   "published": "2014/11/01",
   "sizes_available": "one size ",
-  "rating_average": 4.310526315789474,
-  "rating_count": 190,
-  "difficulty_average": 4.301587301587301,
-  "favorites_count": 14701,
-  "projects_count": 902,
+  "rating_average": 4.302083333333333,
+  "rating_count": 192,
+  "difficulty_average": 4.3,
+  "favorites_count": 14794,
+  "projects_count": 915,
   "free_ravelry_download": false,
-  "download_url": "http://crejjtion.com/pattern/fingerless-gloves-2/"
+  "download_url": "http://crejjtion.com/pattern/fingerless-gloves-2/",
+  "notes": "with this free crochet pattern, work up your new favourite fingerless gloves. the are very delicate and excellent fitting.\r\n\r\nthe gloves are worked in the round, including the thumb.\r\n\r\nthe pattern is written in us and uk english, as well as in dutch and includes detailed pictures to guide you through.\r\n\r\n[thanks to milla there's a finnish translation here][1] and a [spanish translation coming soon][2].\r\n\r\n[for a chunky version of this pattern, please have a look][3].\r\n\r\n\r\n  [1]: https://meandyarn.wordpress.com/2015/11/04/kammekkaat/\r\n  [2]: http://hastaelmonyo.com/\r\n  [3]: http://www.ravelry.com/patterns/library/chunky-fingerless-gloves-2"
 }

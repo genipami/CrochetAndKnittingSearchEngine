@@ -1,19 +1,19 @@
 {
   "id": 7425126,
-  "name": "Cute Mini Octopus",
+  "name": "cute mini octopus",
   "permalink": "cute-mini-octopus",
   "url": "https://www.ravelry.com/patterns/library/cute-mini-octopus",
   "external_url": "",
-  "designer_name": "Amanda Gosnell",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "amanda gosnell",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round"
+    "in the round"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [],
@@ -22,14 +22,15 @@
   "rating_average": 4.333333333333333,
   "rating_count": 3,
   "difficulty_average": 2.0,
-  "favorites_count": 200,
-  "projects_count": 15,
+  "favorites_count": 208,
+  "projects_count": 16,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/111236/996524",
+  "notes": "this free pattern for a mini octopus includes instructions for three different styles of tentacles. the pattern works well with worsted weight yarn and a 3.0 mm or 3.5 mm hook, however, you can use smaller or heavier weight yarn and an appropriate sized hook for the yarn size. the pattern includes a size chart with recommendations for yarn size and tentacles based on hook size.\r\n\r\nnote: the octopuses in the pattern were made using big twist value yarn which sadly won't be available much longer once joanns is closed and 3.0 mm, 3.5 mm hooks.\r\n",
   "pdf": {
     "filename": "7425126.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7425126.pdf",
-    "url": "https://pdf.ravelrycache.com/drpepperholik/1993658/CuteMiniOctopus.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479812&Signature=O7%2FdeHUEZPmf4ea%2BSiLw3P6M5a4%3D&key_expires=1768479812&key=3GKetBjbJmUd4b1GyMtPfg",
+    "url": "https://pdf.ravelrycache.com/drpepperholik/1993658/CuteMiniOctopus.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770423148&Signature=%2BRCJz3pC%2FbbmyeNIiArSaHc9cwo%3D&key_expires=1770423148&key=m37xaXRKzLBsvZBAoruSWg",
     "size_bytes": 5148411
   }
 }

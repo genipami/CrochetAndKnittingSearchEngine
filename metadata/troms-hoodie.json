@@ -1,45 +1,50 @@
 {
   "id": 1087173,
-  "name": "Tromsø Hoodie",
+  "name": "tromsø hoodie",
   "permalink": "troms-hoodie",
   "url": "https://www.ravelry.com/patterns/library/troms-hoodie",
   "external_url": "https://sisuknitwear.com/collections/gratis/products/hoodie",
-  "designer_name": "Sisu Knitwear",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "sisu knitwear",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Børstet Alpakka",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 79.0
     },
     {
-      "fiber": "Kos",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 16.5
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 4.5
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Treble crochet (tr)"
+    "lace",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Lace",
-    "Seamed",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "lace",
+    "seamed",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     6.0
   ],
   "published": "2020/11/01",
-  "sizes_available": "One Size",
-  "rating_average": 4.561946902654867,
-  "rating_count": 226,
-  "difficulty_average": 2.2904761904761903,
-  "favorites_count": 17335,
-  "projects_count": 1020,
+  "sizes_available": "one size",
+  "rating_average": 4.546610169491525,
+  "rating_count": 236,
+  "difficulty_average": 2.2831050228310503,
+  "favorites_count": 17850,
+  "projects_count": 1061,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/82050/655178"
+  "download_url": "http://www.ravelry.com/dls/82050/655178",
+  "notes": "are you a fresh beginner in knitting? perfect! this chunky and warm hoodie will be a great place to start. the pattern is easy to follow, and with big needles, small mistakes won't show. good luck.\r\n\r\n**[tromsø hoodie mini][1]**\r\n\r\n**size**\r\none size\r\n\r\n**length**\r\n40 cm (15.7 inches)\r\n\r\n**width**\r\n52 cm (20.5 inches)\r\n\r\n**gauge**\r\n15 sts on needles 6 mm (us10) = 10 cm\r\n\r\n**needle**\r\ncircular needle 6 mm (us10) 40 cm\r\n\r\n**yarn**\r\n100 g børstet alpakka by sandnes garn\r\n100 g kos by sandnes garn\r\n\r\ncolor codes used in main picture\r\nbørstet alpakka **1042** kos **1043**\r\n\r\n**[join sisu knitwear's fan club][2]**\r\n\r\n  [1]: https://www.ravelry.com/patterns/library/troms-hoodie-mini\r\n  [2]: https://www.ravelry.com/groups/sisu-knitwear-designs"
 }

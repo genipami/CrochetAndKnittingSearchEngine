@@ -1,48 +1,45 @@
 {
   "id": 983,
-  "name": "Charade",
+  "name": "charade",
   "permalink": "charade",
   "url": "https://www.ravelry.com/patterns/library/charade",
   "external_url": "",
-  "designer_name": "Sandra Park",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "sandra park",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Signature Superwash Sock",
-      "pct": null
-    },
-    {
-      "fiber": "Variegated Sock",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)"
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "In the round",
-    "Kitchener stitch",
-    "Top-down"
+    "in the round",
+    "kitchener stitch",
+    "top-down"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.25
   ],
   "published": "2009/01/01",
-  "sizes_available": "Woman's size 8-9",
-  "rating_average": 4.417561591914088,
-  "rating_count": 1583,
-  "difficulty_average": 2.2890282131661444,
-  "favorites_count": 12490,
-  "projects_count": 4570,
+  "sizes_available": "woman's size 8-9",
+  "rating_average": 4.417929292929293,
+  "rating_count": 1584,
+  "difficulty_average": 2.288220551378446,
+  "favorites_count": 12527,
+  "projects_count": 4579,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/110/1284",
+  "notes": "use either yarn listed for a different look. (shown in yarntini- vintage; and brooklyn- grey)\r\n\r\nthe sock is worked top down with an old-school, reinforced heel flap and a wide toe. the stitch pattern is quite easy to memorize without ever getting too tedious.\r\n",
   "pdf": {
     "filename": "983.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\983.pdf",
-    "url": "https://pdf.ravelrycache.com/Sandra/1144/charade_revised.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479413&Signature=qvHh3JX8wfQOi4WbROdr9kgCmig%3D&key_expires=1768479413&key=FJ-VKwdHNW4t2wz1dk7qSw",
+    "url": "https://pdf.ravelrycache.com/Sandra/1144/charade_revised.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770420838&Signature=22v6jlcmD5%2FUw1hhgITtHMXhXsQ%3D&key_expires=1770420838&key=8uDVb-a2Cz94bUI84IixGA",
     "size_bytes": 105005
   }
 }

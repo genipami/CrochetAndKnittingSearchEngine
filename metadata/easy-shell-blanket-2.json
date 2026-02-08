@@ -1,25 +1,25 @@
 {
   "id": 1370225,
-  "name": "Easy Shell Blanket",
+  "name": "easy shell blanket",
   "permalink": "easy-shell-blanket-2",
   "url": "https://www.ravelry.com/patterns/library/easy-shell-blanket-2",
   "external_url": "https://jototheworld.com/easy-shell-blanket-crochet-pattern",
-  "designer_name": "Jo Edwards",
-  "project_type": "Blanket",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "jo edwards",
+  "project_type": "blanket",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Feels like Heaven",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Shell",
-    "Treble crochet (tr)"
+    "shell",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     6.5
@@ -30,8 +30,9 @@
   "rating_average": 5.0,
   "rating_count": 6,
   "difficulty_average": 2.6,
-  "favorites_count": 381,
-  "projects_count": 18,
+  "favorites_count": 435,
+  "projects_count": 20,
   "free_ravelry_download": false,
-  "download_url": "https://jototheworld.com/easy-shell-blanket-crochet-pattern"
+  "download_url": "https://jototheworld.com/easy-shell-blanket-crochet-pattern",
+  "notes": "this easy shell blanket crochet pattern is a simple (beginner-friendly) yet stunning classic crochet shell baby blanket pattern. with step-by-step written instructions and a full video tutorial, this blanket is a delight to make and looks gorgeous when complete!\r\n"
 }

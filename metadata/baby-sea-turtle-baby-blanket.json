@@ -1,17 +1,17 @@
 {
   "id": 774670,
-  "name": "Baby Sea Turtle Baby Blanket",
+  "name": "baby sea turtle baby blanket",
   "permalink": "baby-sea-turtle-baby-blanket",
   "url": "https://www.ravelry.com/patterns/library/baby-sea-turtle-baby-blanket",
   "external_url": "https://madebymandy86.wordpress.com/2017/09/15/baby-sea-turtle-blanket/",
-  "designer_name": "Mandy Huseth",
-  "project_type": "Blanket",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "mandy huseth",
+  "project_type": "blanket",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "I Love This Yarn! Solids",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
@@ -21,12 +21,13 @@
   ],
   "needle_sizes_mm": [],
   "published": "2017/09/01",
-  "sizes_available": "29\" x 39\" Baby Blanket",
-  "rating_average": 4.82962962962963,
-  "rating_count": 135,
-  "difficulty_average": 2.612403100775194,
-  "favorites_count": 12084,
-  "projects_count": 631,
+  "sizes_available": "29\" x 39\" baby blanket",
+  "rating_average": 4.830882352941177,
+  "rating_count": 136,
+  "difficulty_average": 2.6076923076923078,
+  "favorites_count": 12154,
+  "projects_count": 633,
   "free_ravelry_download": false,
-  "download_url": "https://madebymandy86.wordpress.com/2017/09/15/baby-sea-turtle-blanket/"
+  "download_url": "https://madebymandy86.wordpress.com/2017/09/15/baby-sea-turtle-blanket/",
+  "notes": "this is the baby blanket size of the pattern.  there is a separate pattern for the throw size."
 }

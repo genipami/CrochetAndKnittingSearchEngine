@@ -1,40 +1,24 @@
 {
   "id": 759323,
-  "name": "Crochet Kitchen Scrubby",
+  "name": "crochet kitchen scrubby",
   "permalink": "crochet-kitchen-scrubby",
   "url": "https://www.ravelry.com/patterns/library/crochet-kitchen-scrubby",
   "external_url": "https://www.caabcrochet.com/crochet-kitchen-scrubby-pattern/",
-  "designer_name": "Esther Thompson",
-  "project_type": "Dishcloth",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "esther thompson",
+  "project_type": "dishcloth",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "24/7 Cotton",
-      "pct": null
-    },
-    {
-      "fiber": "Kitchen Cotton (New)",
-      "pct": null
-    },
-    {
-      "fiber": "Sugar'n Cream Stripes",
-      "pct": null
-    },
-    {
-      "fiber": "Sugar'n Cream The Original (Ombres)",
-      "pct": null
-    },
-    {
-      "fiber": "Sugar'n Cream The Original (Solids)",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Half double crochet (hdc)",
-    "Single crochet (sc)",
-    "Slip stitch (sl st)"
+    "double crochet (dc)",
+    "half double crochet (hdc)",
+    "single crochet (sc)",
+    "slip stitch (sl st)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [
@@ -46,8 +30,9 @@
   "rating_average": 4.6231884057971016,
   "rating_count": 69,
   "difficulty_average": 2.015625,
-  "favorites_count": 3149,
+  "favorites_count": 3154,
   "projects_count": 282,
   "free_ravelry_download": false,
-  "download_url": "http://www.ravelry.com/purchase/esther-thompson-designs/484128"
+  "download_url": "http://www.ravelry.com/purchase/esther-thompson-designs/484128",
+  "notes": "this cotton scrubby is designed to have the same look and feel as your kitchen sponge, but is 100% cotton and reusable. these are super easy to make! the whole project can be completed in under an hour. and with all the colors of cotton and scrubby yarn out there, the color combination possibilities are endless! great for yourself, or as an easy gift!\r\n\r\nfinished measurements: 5.25” x 3.75”\r\n\r\nmaterials:\r\nus i/9 5.5 mm crochet hook\r\nred heart scrubby yarn\r\n100% cotton size 4 yarn\r\nyarn needle for weaving in ends\r\nscissors\r\n\r\nstitches used:\r\n(ch) chain\r\n(sc) single crochet\r\n(hdc) half double crochet\r\n(sl st) slip stitch "
 }

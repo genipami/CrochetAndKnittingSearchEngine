@@ -1,27 +1,31 @@
 {
   "id": 29,
-  "name": "Clapotis",
+  "name": "clapotis",
   "permalink": "clapotis",
   "url": "https://www.ravelry.com/patterns/library/clapotis",
   "external_url": "http://www.knitty.com/ISSUEfall04/PATTclapotis.html",
-  "designer_name": "Kate Gilbert",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "kate gilbert",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Lion & Lamb Multi",
-      "pct": null
+      "fiber": "Silk (Silk)",
+      "pct": 50.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 50.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamless",
-    "Written"
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -29,11 +33,12 @@
   ],
   "published": "2004/09/01",
   "sizes_available": "",
-  "rating_average": 4.435698317449112,
-  "rating_count": 8499,
-  "difficulty_average": 2.64835045970795,
-  "favorites_count": 26441,
-  "projects_count": 23820,
+  "rating_average": 4.436021188934667,
+  "rating_count": 8495,
+  "difficulty_average": 2.6479818201493344,
+  "favorites_count": 26459,
+  "projects_count": 23817,
   "free_ravelry_download": false,
-  "download_url": "http://www.knitty.com/ISSUEfall04/PATTclapotis.html"
+  "download_url": "http://www.knitty.com/ISSUEfall04/PATTclapotis.html",
+  "notes": "(from kategilbert.com)\r\n                                                                  <em><span class=\"pattext\">french women are known for wearing scarves. starting  in september and until summer arrives, this is a most important accessory.  the scarf may be striped or patterned, colorful, wrinkled and is much  bigger than the scarves you probably have. women just wrap the scarf around their neck in a &quot;je suis belle et &ccedil;a ne demande aucun effort*&quot;  sort of way and off they go. since i have lived in paris, i have realized that these ladies are on to something. i find i am much warmer wearing a scarf, even if i'm not wearing a jacket, so here is my knit version of the french scarf. it's knit on the bias so the variegated yarn makes          diagonal stripes and stitches are carefully dropped to make a pattern in the opposite direction. this creates a scarf which tends to be a little more of a parallelogram than a rectangle, but i promise, it's nice that way. it's made of the softest, most luxurious yarn i have ever used and is a dream to wear. instructions are included at the end to modify it to create a stole. *i'm beautiful and i don't even try.</span></em>"
 }

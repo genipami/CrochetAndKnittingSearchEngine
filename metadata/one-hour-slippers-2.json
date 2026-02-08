@@ -1,23 +1,27 @@
 {
   "id": 797388,
-  "name": "One Hour Slippers",
+  "name": "one hour slippers",
   "permalink": "one-hour-slippers-2",
   "url": "https://www.ravelry.com/patterns/library/one-hour-slippers-2",
   "external_url": "https://www.allfreecrochet.com/Socks-and-Slippers/One-Hour-Crochet-Slippers",
-  "designer_name": "Kristi Simpson",
-  "project_type": "Other",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Bulky",
+  "designer_name": "kristi simpson",
+  "project_type": "other",
+  "fiber_art": "crochet",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Pacific® Chunky",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 60.0
+    },
+    {
+      "fiber": "Merino (Merino)",
+      "pct": 40.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [
@@ -26,11 +30,12 @@
   "needle_sizes_mm": [],
   "published": "2017/08/01",
   "sizes_available": "",
-  "rating_average": 4.69811320754717,
-  "rating_count": 53,
-  "difficulty_average": 2.061224489795918,
-  "favorites_count": 3061,
-  "projects_count": 247,
+  "rating_average": 4.685185185185185,
+  "rating_count": 54,
+  "difficulty_average": 2.08,
+  "favorites_count": 3080,
+  "projects_count": 250,
   "free_ravelry_download": false,
-  "download_url": "https://www.allfreecrochet.com/Socks-and-Slippers/One-Hour-Crochet-Slippers"
+  "download_url": "https://www.allfreecrochet.com/Socks-and-Slippers/One-Hour-Crochet-Slippers",
+  "notes": "want to make an adorable pair of crochet slippers in a short amount of time? these one hour crochet slippers are exactly what you need. choose some fun colorful yarn and begin crocheting yourself a pair of nice and soft crochet slippers. plus, the video tutorial breaks down just how easy it is to make these diy slippers, and is great for all of you visual learners out there. start making this slippers pattern today, and have a new pair in just one quick hour!\r\n\r\n**skill level:** intermediate\r\n\r\n**materials**:\r\n\r\n* yarn | cascade yarns pacific chunky\r\n* crochet hook"
 }

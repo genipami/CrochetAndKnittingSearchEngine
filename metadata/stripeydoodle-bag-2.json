@@ -1,34 +1,26 @@
 {
   "id": 1133643,
-  "name": "Stripeydoodle Bag",
+  "name": "stripeydoodle bag",
   "permalink": "stripeydoodle-bag-2",
   "url": "https://www.ravelry.com/patterns/library/stripeydoodle-bag-2",
   "external_url": "",
-  "designer_name": "Maradale Designs",
-  "project_type": "Bag",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "maradale designs",
+  "project_type": "bag",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Super Saver (Prints / Variegated)",
-      "pct": null
-    },
-    {
-      "fiber": "Super Saver (solids)",
-      "pct": null
-    },
-    {
-      "fiber": "Super Saver Stripes",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Seamed"
+    "bottom-up",
+    "in the round",
+    "seamed"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -39,14 +31,15 @@
   "rating_average": 5.0,
   "rating_count": 3,
   "difficulty_average": 2.6666666666666665,
-  "favorites_count": 614,
+  "favorites_count": 623,
   "projects_count": 43,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/85842/692394",
+  "notes": "when i first was learning how to knit, i stockpiled acrylic yarn. not knowing exactly what project i should cast on first or how my colors might end up, i decided i needed reusable bags. these are my project bag, food shopping, odds and ends, things for my cats; it’s great. perfect for the adventurous beginner! \r\n\r\n\r\nenjoy :)\r\n\r\n",
   "pdf": {
     "filename": "1133643.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1133643.pdf",
-    "url": "https://pdf.ravelrycache.com/shelbyrrose27/1310888/Stripeydoodle_Bag.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483425&Signature=0DHM4%2BimnOS7yxpRp5RqcKDCrzA%3D&key_expires=1768483425&key=22Ek77_fmELP2eOaKqYmRg",
+    "url": "https://pdf.ravelrycache.com/shelbyrrose27/1310888/Stripeydoodle_Bag.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770442778&Signature=5IJ7SpvCy%2BJ5SvX3g2ssAFqrTAc%3D&key_expires=1770442778&key=3g86F0G71hw1-Vy_3rbqFQ",
     "size_bytes": 88094
   }
 }

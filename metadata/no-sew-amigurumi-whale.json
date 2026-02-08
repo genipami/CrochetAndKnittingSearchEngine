@@ -1,27 +1,27 @@
 {
   "id": 1325369,
-  "name": "No Sew Amigurumi Whale",
+  "name": "no sew amigurumi whale",
   "permalink": "no-sew-amigurumi-whale",
   "url": "https://www.ravelry.com/patterns/library/no-sew-amigurumi-whale",
   "external_url": "https://theyarnbowlcrochet.com/?p=1468",
-  "designer_name": "The Yarn Bowl",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "the yarn bowl",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Baby Velvet",
-      "pct": null
+      "fiber": "Polyester (Polyester)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Half double crochet (hdc)",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "half double crochet (hdc)",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     4.0
@@ -32,8 +32,9 @@
   "rating_average": 4.666666666666667,
   "rating_count": 6,
   "difficulty_average": 2.5,
-  "favorites_count": 2049,
+  "favorites_count": 2073,
   "projects_count": 79,
   "free_ravelry_download": false,
-  "download_url": "https://theyarnbowlcrochet.com/?p=1468"
+  "download_url": "https://theyarnbowlcrochet.com/?p=1468",
+  "notes": "also used hobbii baby snuggle yarn\r\nneed a small amount of blue and white yarn\r\n\r\nmodifications made: \r\n\r\n   *with color aqua, work*\r\n**round 1:** mr, 6sc in the magic ring (6sts)\r\n**round 2:** (inc)x6 (12sts)\r\n**round 3:** (sc, inc)x6 (18sts)\r\n**round 4:** (sc, sc, inc)x6 (24sts)\r\n**round 5-8:** 24sc (24sts)\r\n**round 9:** *flo for all stitches* (slst, ch2, 2hdc) in same st, 5sc, (slst, ch3, 1trc) in same st, (1trc, ch3, slst) in same st, 5sc, (slst, ch2, 2hdc) in same st, 10 sc\r\n   *change the yarn color to white*\r\n**round 10:** blo(sc), 5sc, blo(sc)x2, 5sc, blo(sc), 10sc (24sts)\r\n**round 11:** (sc, sc, dec)x6 (18sts)\r\n**round 12:** (sc, dec)x6 (12sts)\r\n   attach the safety eyes and stuff with polyfil!\r\n**round 13:** (dec)x6 (6sts)\r\n   *leave a tail to close the opening!*\r\nthread the tail onto a tapestry needle. go under the front loop of next stitch, going from the inside of your piece to the outside. repeat for each stitch. pull to tighten and close opening. hide rest of tail inside of your piece."
 }

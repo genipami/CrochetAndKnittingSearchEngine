@@ -1,24 +1,24 @@
 {
   "id": 1302393,
-  "name": "Skull-in-tine",
+  "name": "skull-in-tine",
   "permalink": "skull-in-tine",
   "url": "https://www.ravelry.com/patterns/library/skull-in-tine",
   "external_url": "",
-  "designer_name": "Ann Wanamaker",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Lace",
+  "designer_name": "ann wanamaker",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "lace",
   "materials": [
     {
-      "fiber": "Classic 10 Crochet Thread",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Lace"
+    "bottom-up",
+    "in the round",
+    "lace"
   ],
   "hook_sizes_mm": [
     1.65
@@ -26,17 +26,18 @@
   "needle_sizes_mm": [],
   "published": "2023/01/01",
   "sizes_available": "",
-  "rating_average": 4.962962962962963,
-  "rating_count": 27,
+  "rating_average": 4.9655172413793105,
+  "rating_count": 29,
   "difficulty_average": 3.5,
-  "favorites_count": 2602,
-  "projects_count": 82,
+  "favorites_count": 2642,
+  "projects_count": 86,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/63961/829891",
+  "notes": "what do you create for the skull lover in your life..... why make them a skull-in-tine !!\r\n\r\nthis is a quick little stash buster that can be created in yarn or thread.  i have a video that you can also crochet too if you desire so come crochet with me. \r\n\r\nhttps://youtu.be/7l4rgx3amvq \r\n\r\nadditional photos by my testers antionette kuhnert, jen bee, yvetto meador, and margie smith. ",
   "pdf": {
     "filename": "1302393.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1302393.pdf",
-    "url": "https://pdf.ravelrycache.com/Annsjams/1606988/Skull-in-tine.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483071&Signature=2nf4x0YOtguuqkWfrdyGF%2BfMuUA%3D&key_expires=1768483071&key=TnskPucI5LA_l8J54chcXw",
+    "url": "https://pdf.ravelrycache.com/Annsjams/1606988/Skull-in-tine.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770440969&Signature=BnuxNnfDkuj4%2FvBEWcgRFoScW5U%3D&key_expires=1770440969&key=R4dJN2ecVkazQxxqR7ULaA",
     "size_bytes": 435941
   }
 }

@@ -1,28 +1,28 @@
 {
   "id": 7462122,
-  "name": "Rosy Dawn Hat",
+  "name": "rosy dawn hat",
   "permalink": "rosy-dawn-hat",
   "url": "https://www.ravelry.com/patterns/library/rosy-dawn-hat",
   "external_url": "https://celesteknitwear.com/rosy-dawn-hat-knitting-pattern/",
-  "designer_name": "Celeste Knitwear",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "celeste knitwear",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "DROPS Daisy",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Ribbing",
-    "Stockinette stitch"
+    "ribbing",
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "Blocking",
-    "Bottom-up",
-    "In the round",
-    "Seamless"
+    "blocking",
+    "bottom-up",
+    "in the round",
+    "seamless"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -30,12 +30,13 @@
     3.5
   ],
   "published": "2025/09/01",
-  "sizes_available": "Adult medium",
+  "sizes_available": "adult medium",
   "rating_average": 4.8,
   "rating_count": 10,
   "difficulty_average": 2.111111111111111,
-  "favorites_count": 1454,
-  "projects_count": 39,
+  "favorites_count": 1501,
+  "projects_count": 41,
   "free_ravelry_download": false,
-  "download_url": "https://celesteknitwear.com/rosy-dawn-hat-knitting-pattern/"
+  "download_url": "https://celesteknitwear.com/rosy-dawn-hat-knitting-pattern/",
+  "notes": "the rosy dawn hat is knit in the round from the bottom up with dk-weight merino wool. the design features a combination of slipped stitches and ribbing.\r\n\r\nthe crown decreases are done in the last 7 rounds, and the top of the hat has a gathered look."
 }

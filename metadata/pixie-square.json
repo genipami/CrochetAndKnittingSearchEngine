@@ -1,27 +1,27 @@
 {
   "id": 7448366,
-  "name": "Pixie Square",
+  "name": "pixie square",
   "permalink": "pixie-square",
   "url": "https://www.ravelry.com/patterns/library/pixie-square",
   "external_url": "https://www.grannylifecrochet.com/pixie-square-crochet-pattern",
   "designer_name": "mathgrrl",
-  "project_type": "Other",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "project_type": "other",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Rios",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Cluster stitch",
-    "Granny",
-    "Treble crochet (tr)"
+    "cluster stitch",
+    "granny",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Stranded colorwork",
-    "Written"
+    "stranded colorwork",
+    "written"
   ],
   "hook_sizes_mm": [
     4.5
@@ -32,8 +32,9 @@
   "rating_average": 5.0,
   "rating_count": 3,
   "difficulty_average": 4.333333333333333,
-  "favorites_count": 1156,
-  "projects_count": 22,
+  "favorites_count": 1276,
+  "projects_count": 24,
   "free_ravelry_download": false,
-  "download_url": "https://www.grannylifecrochet.com/pixie-square-crochet-pattern"
+  "download_url": "https://www.grannylifecrochet.com/pixie-square-crochet-pattern",
+  "notes": "**a modified granny square for detailed pixel-based motifs**\r\n\r\nthe *pixie square* is a new type of crochet granny square designed for detailed, high-complexity, pixellated motifs. \r\n\r\nthe techniques in this pattern are designed to hide color swaps on both the front and back of the work, and to keep a square shape without twisting. the key is to catch the carried yarn from the round below in every stitch, so that the clusters pull together. \r\n\r\nthis pixie square pattern is used in an ongoing community art project called *granny life*. this project uses mathematical algorithms (2d totalistic cellular automata, similar to conway's *game of life*) to create a coherent set of motifs. contributors from both the mathematical and crafting communities are currently submitting crocheted pixie squares in these motifs for inclusion in an art exhibition in paris in summer 2026.\r\n\r\n**you can experiment with our free motif-generator at [mathgrrl.com/granny-life][1] (it's fun and easy!)**\r\n\r\n**you are also invited to join the granny life project and community at [www.grannylifecrochet.com][2] (squares must be completed and submitted by january 2026)** \r\n\r\nor you can just enjoy this free pixie square crochet pattern for your own complex multi-colored motifs!\r\n\r\n  [1]: https://mathgrrl.com/granny-life/\r\n  [2]: https://www.grannylifecrochet.com/home"
 }

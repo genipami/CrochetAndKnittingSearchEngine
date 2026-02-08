@@ -1,36 +1,40 @@
 {
   "id": 1269475,
-  "name": "234-14  Luna Azul",
+  "name": "234-14  luna azul",
   "permalink": "234-14-luna-azul",
   "url": "https://www.ravelry.com/patterns/library/234-14-luna-azul",
   "external_url": "https://www.garnstudio.com/pattern.php?id=11014&cid=19",
-  "designer_name": "DROPS design",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "drops design",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "DROPS Alpaca",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 82.7
     },
     {
-      "fiber": "DROPS Brushed Alpaca Silk",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 8.3
     },
     {
-      "fiber": "DROPS Melody",
-      "pct": null
+      "fiber": "Bombyx / Cultivated / Mulberry (Silk)",
+      "pct": 7.7
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 1.3
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamed",
-    "Top-down",
-    "Written"
+    "in the round",
+    "seamed",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -39,11 +43,12 @@
   ],
   "published": "2022/09/01",
   "sizes_available": "",
-  "rating_average": 4.458333333333333,
-  "rating_count": 24,
-  "difficulty_average": 2.409090909090909,
-  "favorites_count": 3181,
-  "projects_count": 117,
+  "rating_average": 4.384615384615385,
+  "rating_count": 26,
+  "difficulty_average": 2.5416666666666665,
+  "favorites_count": 3253,
+  "projects_count": 121,
   "free_ravelry_download": false,
-  "download_url": "https://www.garnstudio.com/pattern.php?id=11014&cid=19"
+  "download_url": "https://www.garnstudio.com/pattern.php?id=11014&cid=19",
+  "notes": "**knitted hoodie hat/balaclava in drops alpaca and drops brushed alpaca silk or drops melody. knitted in stocking stitch.**\r\n~~~~~~~~~~~~~~~~~~~~~\r\n\r\ndrops design: pattern as-178\r\nyarn group a + c or d\r\n\r\n----------------------------------------------------------\r\n\r\n\r\n**size**:\r\ns/m - m/l\r\n\r\n**materials**:\r\ndrops alpaca from garnstudio (belongs to yarn group a)\r\n100-100 g colour 7323, sea mist\r\nand use:\r\ndrops brushed alpaca silk from garnstudio (belongs to yarn group c)\r\n75-75 g colour 21, sage green\r\n\r\nor use:\r\ndrops melody from garnstudio (belongs to yarn group d)\r\n100-100 g colour 09, light sea green\r\n\r\nneedles:\r\ndrops circular needle size 5.5 mm: length 40 and 80 cm.\r\ndrops circular needle size 4.5 mm: length 40 and 60 cm.\r\n\r\n**knitting tension:**\r\n15 stitches in width and 18 rows vertically in stocking stitch and 1 strand drops alpaca and 1 strand drops brushed alpaca silk or 1 strand drops melody = 10 x 10 cm.\r\nnote! remember that needle size is only a suggestion. if you have too many stitches on 10 cm switch to larger needles. if you have too few stitches on 10 cm switch to smaller needles. "
 }

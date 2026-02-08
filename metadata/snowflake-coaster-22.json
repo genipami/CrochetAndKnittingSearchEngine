@@ -1,25 +1,29 @@
 {
   "id": 7481221,
-  "name": "Snowflake  coaster",
+  "name": "snowflake  coaster",
   "permalink": "snowflake-coaster-22",
   "url": "https://www.ravelry.com/patterns/library/snowflake-coaster-22",
   "external_url": "https://youtu.be/ASptVd95O8E",
-  "designer_name": "Tomoko Hori",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "tomoko hori",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "なないろ彩色",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 85.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 15.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     4.0
@@ -30,8 +34,9 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 313,
+  "favorites_count": 326,
   "projects_count": 5,
   "free_ravelry_download": false,
-  "download_url": "https://youtu.be/ASptVd95O8E"
+  "download_url": "https://youtu.be/ASptVd95O8E",
+  "notes": "aran-bulky weight yarn\r\n18.6y / 17m\r\n\r\ntools\r\ncrochet hook size 4.00mm\r\ntapestry needle\r\nscissors\r\n\r\nsize\r\n5.7in\r\n\r\n作品名\r\n雪の結晶コースター\r\n\r\n使用糸\r\n極太糸　17m\r\n\r\n道具\r\nかぎ針7/0号\r\nとじ針\r\nはさみ\r\n\r\nできあがりサイズ\r\n約14.5cm"
 }

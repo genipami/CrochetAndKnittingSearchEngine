@@ -1,26 +1,30 @@
 {
   "id": 7325858,
-  "name": "Daedalus DK Socks",
+  "name": "daedalus dk socks",
   "permalink": "daedalus-dk-socks",
   "url": "https://www.ravelry.com/patterns/library/daedalus-dk-socks",
   "external_url": "",
-  "designer_name": "Kelly Menzies",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "kelly menzies",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Socks Yeah! DK",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Mosaic",
-    "Seamless"
+    "in the round",
+    "mosaic",
+    "seamless"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -31,14 +35,15 @@
   "rating_average": 4.833333333333333,
   "rating_count": 18,
   "difficulty_average": 2.9473684210526314,
-  "favorites_count": 2003,
-  "projects_count": 80,
+  "favorites_count": 2048,
+  "projects_count": 79,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/22896/917878",
+  "notes": "daedalus dk socks are knitted in the round, cuff down with a heel flap and gusset, or toe up with a shadow wrap heel.\r\nthe pattern is created using mosaic which involves slipping stitches. it has no floats and uses only 1 colour per round.\r\n\r\n**sizes** – 1, (2, 3, 4)\r\n**actual finished sock circumference:**\r\n17, (20, 23, 25.5) cm / 6.75 (7.75, 9, 10)” \r\n**to fit foot circumference:**\r\n19.5, (22.5, 25.5, 28) cm / 7.5 (8.75, 10, 11)” \r\n\r\n**yardage:**\r\nall yardage is approximated. it will depend on your knitting tension and the length of feet you are knitting for. please use it only as a guide.\r\n**mid-calf:**\r\ncolour a: 100, (130, 150, 170) m / 110, (143, 165, 186) yds. \r\ncolour b: 85, (104, 115, 125) m / 93, (114, 126, 137) yds. \r\n**shortie:**\r\ncolour a: 90, (105, 115, 130) m / 100, (115, 126, 143) yds. \r\ncolour b: 45, (56, 65, 78) m / 50, (62, 72, 86) yds. \r\ndk weight.\r\nshown in coop knits socks yeah! shades 225 sugilite, 218 quartz (mid calves) 214 pigeon, 222 prunus (shorties)\r\n\r\n",
   "pdf": {
     "filename": "7325858.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7325858.pdf",
-    "url": "https://pdf.ravelrycache.com/RowRowAndKades/2062249/Daedalus_DK_Sock_by_RowRow_and_Kades_V2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479829&Signature=eEg18qMFHtHcMDdaD%2FHL8wjN9XE%3D&key_expires=1768479829&key=naUKPwNMxlR-8daBkPHKdA",
+    "url": "https://pdf.ravelrycache.com/RowRowAndKades/2062249/Daedalus_DK_Sock_by_RowRow_and_Kades_V2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770423221&Signature=9rXpQOdvTEMRn9PK6pPVbA2NFAg%3D&key_expires=1770423221&key=Gwn97Rev2sWgPMJGSfOmXw",
     "size_bytes": 1014675
   }
 }

@@ -1,37 +1,45 @@
 {
   "id": 7330948,
-  "name": "Sprinkles On Top",
+  "name": "sprinkles on top",
   "permalink": "sprinkles-on-top-5",
   "url": "https://www.ravelry.com/patterns/library/sprinkles-on-top-5",
   "external_url": "https://www.farmtoneedle.com/sprinklesontop",
-  "designer_name": "Cozy Coffee Knits",
-  "project_type": "Child",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "cozy coffee knits",
+  "project_type": "child",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Cascade 220®",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 33.3
     },
     {
-      "fiber": "Creative Make It Tweed",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 33.3
     },
     {
-      "fiber": "Rios",
-      "pct": null
+      "fiber": "Rayon / Viscose (Rayon)",
+      "pct": 11.7
+    },
+    {
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 11.7
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch"
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "In the round",
-    "Raglan",
-    "Seamless",
-    "Short rows",
-    "Top-down",
-    "Written"
+    "in the round",
+    "raglan",
+    "seamless",
+    "short rows",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -39,12 +47,13 @@
     5.0
   ],
   "published": "2024/03/01",
-  "sizes_available": "0-6 months (6-12 months) 12-24 months (2-4 years) 4-6 years (6-8 years) 8-10 years | Adult XS (Adult Size S) Adult Size M (Adult Size L) Adult XL (Adult Size 2XL) Adult Size 3XL (Adult Size 4XL) Adult Size 5XL (Size 6XL)",
+  "sizes_available": "0-6 months (6-12 months) 12-24 months (2-4 years) 4-6 years (6-8 years) 8-10 years | adult xs (adult size s) adult size m (adult size l) adult xl (adult size 2xl) adult size 3xl (adult size 4xl) adult size 5xl (size 6xl)",
   "rating_average": 4.555555555555555,
   "rating_count": 27,
-  "difficulty_average": 2.72,
-  "favorites_count": 2204,
-  "projects_count": 131,
+  "difficulty_average": 2.8461538461538463,
+  "favorites_count": 2276,
+  "projects_count": 136,
   "free_ravelry_download": false,
-  "download_url": "https://www.farmtoneedle.com/sprinklesontop"
+  "download_url": "https://www.farmtoneedle.com/sprinklesontop",
+  "notes": "this classic raglan sweater, worked seamlessly from the top down, puts a fun spin on a timeless classic. designed to the\r\ncharm of worsted weight tweed yarn, it provides versatility with two collar options. personalize your knit with a style that suits you best."
 }

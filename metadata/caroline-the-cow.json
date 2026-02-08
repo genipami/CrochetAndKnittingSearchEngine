@@ -1,23 +1,23 @@
 {
   "id": 1153727,
-  "name": "Caroline the Cow",
+  "name": "caroline the cow",
   "permalink": "caroline-the-cow",
   "url": "https://www.ravelry.com/patterns/library/caroline-the-cow",
   "external_url": "https://jesshuff.com/caroline-the-cow-free-amigurumi-pattern/",
-  "designer_name": "Jess Huff",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "jess huff",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "I Love This Yarn! Solids",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     3.5
@@ -27,9 +27,10 @@
   "sizes_available": "",
   "rating_average": 4.852459016393443,
   "rating_count": 61,
-  "difficulty_average": 3.392156862745098,
-  "favorites_count": 7002,
-  "projects_count": 197,
+  "difficulty_average": 3.3653846153846154,
+  "favorites_count": 7053,
+  "projects_count": 199,
   "free_ravelry_download": false,
-  "download_url": "https://jesshuff.com/caroline-the-cow-free-amigurumi-pattern/"
+  "download_url": "https://jesshuff.com/caroline-the-cow-free-amigurumi-pattern/",
+  "notes": "caroline loves grazing in the pasture, smelling the daisies, and frolicking in the sunshine will all her farm friends. happy cows make the best milk!"
 }

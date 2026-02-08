@@ -1,37 +1,38 @@
 {
   "id": 638630,
-  "name": "Knockers (Crochet)",
+  "name": "knockers (crochet)",
   "permalink": "knockers-crochet",
   "url": "https://www.ravelry.com/patterns/library/knockers-crochet",
   "external_url": "http://www.knittedknockers.org/make-a-knocker/",
-  "designer_name": "Claudia Barbo",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Sport",
+  "designer_name": "claudia barbo",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Ultra Pima Fine",
-      "pct": null
+      "fiber": "Pima (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     4.5
   ],
   "needle_sizes_mm": [],
   "published": "2012/05/01",
-  "sizes_available": "A, B, C, D, DD",
+  "sizes_available": "a, b, c, d, dd",
   "rating_average": 4.47457627118644,
   "rating_count": 59,
   "difficulty_average": 2.7962962962962963,
-  "favorites_count": 739,
+  "favorites_count": 745,
   "projects_count": 263,
   "free_ravelry_download": false,
-  "download_url": "http://www.knittedknockers.org/make-a-knocker/"
+  "download_url": "http://www.knittedknockers.org/make-a-knocker/",
+  "notes": "yarn for crocheted knockers is very important as it will be worn against sensitive, scarred skin.  we recommend soft, washable, nonwool sport, baby or \"3\" weight yarn.  worsted is too heavy.  if cotton it should be mercerized to stay soft after washing.\r\n\r\nwe get the most request for pairs of neutral colors sizes c and larger at knittedknockers.org."
 }

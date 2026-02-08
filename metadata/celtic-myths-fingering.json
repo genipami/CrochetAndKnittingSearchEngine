@@ -1,33 +1,41 @@
 {
   "id": 621290,
-  "name": "Celtic Myths Fingering",
+  "name": "celtic myths fingering",
   "permalink": "celtic-myths-fingering",
   "url": "https://www.ravelry.com/patterns/library/celtic-myths-fingering",
   "external_url": "http://sidispinnt.ch",
-  "designer_name": "Asita Krebs",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "asita krebs",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "KamelSeide",
-      "pct": null
+      "fiber": "Silk (Silk)",
+      "pct": 42.5
     },
     {
-      "fiber": "Tibetan Sock",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 30.0
+    },
+    {
+      "fiber": "Camel (Camel)",
+      "pct": 17.5
+    },
+    {
+      "fiber": "Yak (Yak)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "cable",
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Cables",
-    "Top-down"
+    "blocking",
+    "cables",
+    "top-down"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -35,12 +43,13 @@
     4.0
   ],
   "published": "2015/11/01",
-  "sizes_available": "One Size",
+  "sizes_available": "one size",
   "rating_average": 4.725877192982456,
   "rating_count": 456,
   "difficulty_average": 4.070754716981132,
-  "favorites_count": 25010,
-  "projects_count": 1508,
+  "favorites_count": 25081,
+  "projects_count": 1515,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/44201/301669"
+  "download_url": "http://www.ravelry.com/dls/44201/301669",
+  "notes": "[if you like to support me and my work buy me a kofi!][1]\r\n  [1]: https://ko-fi.com/asita38254\r\n\r\nnew: i wrote the pattern for fingering weight yarn and \r\n**with a better body!**\r\nthis body doesn't have the bump where you cast on!\r\n\r\nceltic myths is a half circle shawl with a beautiful celtic cable border\r\nthe shawl will be worked top down, then we knit the border from one side to the other while fixing it to the body.\r\nafter blocking the shawl's measurement will be approximately \r\n150 x 50cm (60 x 20 inch).\r\n\r\nneu ist das celtic myths tuch auch in sockenwollstärke erhältlich!\r\n\r\n**mit verbessertem körper!** \r\nalso gibt es keine beule mehr beim anschlag!\r\n\r\nceltic myths fingering\r\nist ein halbrundes tuch mit einer wunderschönen, keltischen zopfbordüre.\r\ndas tuch beginnt von der mitte oben, danach wird die bordüre von der seite her an den tuchkörper angestrickt.\r\nnach dem spannen ist das tuch ganze \r\n150cm lang und 50cm tief.\r\n\r\n\r\n\r\n"
 }

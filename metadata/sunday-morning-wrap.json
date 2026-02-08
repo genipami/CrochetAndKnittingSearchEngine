@@ -1,28 +1,32 @@
 {
   "id": 1149258,
-  "name": "Sunday Morning Wrap",
+  "name": "sunday morning wrap",
   "permalink": "sunday-morning-wrap",
   "url": "https://www.ravelry.com/patterns/library/sunday-morning-wrap",
   "external_url": "",
-  "designer_name": "Espace Tricot",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "espace tricot",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Sunday Morning DK",
-      "pct": null
+      "fiber": "Bluefaced Leicester (BFL) (Wool)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Masham / Massam (Wool)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -30,11 +34,12 @@
   ],
   "published": "2021/06/01",
   "sizes_available": "203 cm x 38 cm (80 x 15”) after wet blocking",
-  "rating_average": 4.887096774193548,
-  "rating_count": 186,
-  "difficulty_average": 2.0419161676646707,
-  "favorites_count": 19224,
-  "projects_count": 796,
+  "rating_average": 4.888888888888889,
+  "rating_count": 189,
+  "difficulty_average": 2.0532544378698225,
+  "favorites_count": 19444,
+  "projects_count": 806,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/25132/708081"
+  "download_url": "http://www.ravelry.com/dls/25132/708081",
+  "notes": "> espace tricot is a yarn store in montreal, canada. [discover our yarns here!][1]\r\n\r\nour sunday morning dk yarn is a deliciously rustic yet soft blend of bluefaced leicester and masham fibres spun and dyed in england. the unique blend of naturally brown and off-white fibres creates a heathered effect which brings depth and dimension.\r\n\r\nas a nod to the coziness and slower pace of sunday mornings, our sunday morning wrap is a relaxing, lightly textured design worked in alternate sections of stockinette and twisted rib. in the shape of an inverted isosceles trapezoid, the elongated shape is perfect both as a light wrap and a cozy scarf, and makes for a perfectly gender neutral accessory.\r\n\r\nsample shown in the colourway offline\r\n\r\n\r\n  [1]: https://www.espacetricot.com"
 }

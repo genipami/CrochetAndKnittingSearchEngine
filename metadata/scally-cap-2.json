@@ -1,37 +1,38 @@
 {
   "id": 1365955,
-  "name": "Scally Cap",
+  "name": "scally cap",
   "permalink": "scally-cap-2",
   "url": "https://www.ravelry.com/patterns/library/scally-cap-2",
   "external_url": "https://hearthookhome.com/scally-cap-crochet-pattern/",
-  "designer_name": "Ashlea Schumaker",
-  "project_type": "Hat",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "ashlea schumaker",
+  "project_type": "hat",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Cascade 220®",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Spike stitch"
+    "single crochet (sc)",
+    "spike stitch"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     5.5
   ],
   "needle_sizes_mm": [],
   "published": "2023/09/01",
-  "sizes_available": "Adult",
-  "rating_average": 4.6,
-  "rating_count": 5,
-  "difficulty_average": 3.8333333333333335,
-  "favorites_count": 951,
-  "projects_count": 31,
+  "sizes_available": "adult",
+  "rating_average": 4.5,
+  "rating_count": 6,
+  "difficulty_average": 3.7142857142857144,
+  "favorites_count": 984,
+  "projects_count": 32,
   "free_ravelry_download": false,
-  "download_url": "http://www.ravelry.com/purchase/ashlea-konecny-designs/879489"
+  "download_url": "http://www.ravelry.com/purchase/ashlea-konecny-designs/879489",
+  "notes": "whether you call it a scally cap, a flat top hat, or a golfers hat, it is sure to be the perfect accessory for that certain someone in your life. \r\n\r\nthis hat is sized to fit an adult human head, up to about 22″ circumference."
 }

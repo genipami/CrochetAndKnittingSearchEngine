@@ -1,43 +1,44 @@
 {
   "id": 7376414,
-  "name": "Easy Does It Cabled Era",
+  "name": "easy does it cabled era",
   "permalink": "easy-does-it-cabled-era",
   "url": "https://www.ravelry.com/patterns/library/easy-does-it-cabled-era",
   "external_url": "",
-  "designer_name": "Jeri Grotberg",
-  "project_type": "Scarf",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "jeri grotberg",
+  "project_type": "scarf",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Chusku",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Garter stitch"
+    "cable",
+    "garter stitch"
   ],
   "techniques_used": [
-    "Cables"
+    "cables"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     4.5
   ],
   "published": "2024/10/01",
-  "sizes_available": "One Size 95\" wide x 14\" deep",
+  "sizes_available": "one size 95\" wide x 14\" deep",
   "rating_average": 4.857142857142857,
   "rating_count": 14,
   "difficulty_average": 2.2857142857142856,
-  "favorites_count": 2388,
-  "projects_count": 76,
+  "favorites_count": 2449,
+  "projects_count": 78,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/22166/957645",
+  "notes": "our october makers' league project takes an old favorite into a new era...\r\n\r\nit's easy does it - cabled era!\r\n\r\njeri designed this pattern with a beautiful cable twist up each side. the same easy garter stitch in between. :)\r\n\r\ni mean, look at that stitch definition!\r\n\r\nwe used a brand-new yarn - mirasol chusku. it's 100% nonsuperwash corriedale, and everything you could want in a yarn. beautiful colors, ethically sourced, and outstanding stitch definition.\r\n\r\nfun fact: chusku means \"cross-breed\" - corriedale sheep were created by crossing a lincoln long-haired sheep with a merino sheep. who knew?\r\n\r\nwe love. we know you will too. :)\r\n\r\n[find the kits here.][1]\r\n\r\n\r\n  [1]: https://www.darnknitanyway.com/shop/c/p/easy-does-it-cabled-era---october-makers-x85365197.htm",
   "pdf": {
     "filename": "7376414.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7376414.pdf",
-    "url": "https://pdf.ravelrycache.com/darnknitanyway/1910607/Easy_does_it_Cabled_Era_Makers_League.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479989&Signature=s0SFYlBU4ihyaPzmBfwIuo5Dfb4%3D&key_expires=1768479989&key=o9uQXD8alxkasv9RcVwCUQ",
+    "url": "https://pdf.ravelrycache.com/darnknitanyway/1910607/Easy_does_it_Cabled_Era_Makers_League.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770424475&Signature=89Cxe5LtZD6LDvP82CumIw5TaE0%3D&key_expires=1770424475&key=THeouuX-SdO6e0jDRll1AA",
     "size_bytes": 614754
   }
 }

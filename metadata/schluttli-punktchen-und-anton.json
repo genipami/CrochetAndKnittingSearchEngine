@@ -1,35 +1,27 @@
 {
   "id": 1343244,
-  "name": "Schlüttli \"Pünktchen und Anton\"",
+  "name": "schlüttli \"pünktchen und anton\"",
   "permalink": "schluttli-punktchen-und-anton",
   "url": "https://www.ravelry.com/patterns/library/schluttli-punktchen-und-anton",
   "external_url": "",
-  "designer_name": "Jessica Reichel",
-  "project_type": "Baby",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Sport",
+  "designer_name": "jessica reichel",
+  "project_type": "baby",
+  "fiber_art": "knitting",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Cool Wool Merino Superfein",
-      "pct": null
-    },
-    {
-      "fiber": "DROPS Baby Merino",
-      "pct": null
-    },
-    {
-      "fiber": "Sunday",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamless",
-    "Top-down",
-    "Written"
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -37,18 +29,19 @@
     3.0
   ],
   "published": "2023/06/01",
-  "sizes_available": "1-3 Monate (3-6) Monate 6-9 Monate",
-  "rating_average": 4.833333333333333,
-  "rating_count": 18,
-  "difficulty_average": 3.5294117647058822,
-  "favorites_count": 1469,
-  "projects_count": 68,
+  "sizes_available": "1-3 monate (3-6) monate 6-9 monate",
+  "rating_average": 4.842105263157895,
+  "rating_count": 19,
+  "difficulty_average": 3.4444444444444446,
+  "favorites_count": 1524,
+  "projects_count": 70,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/87774/862127",
+  "notes": "das \"schlüttli\" ist wohl der klassiker unter den babypullis und das  nicht ohne grund: die durchgängige knopfleiste vereinfacht das an- und ausziehen und ist zugleich hübsch anzusehen.\r\n\r\nnoch dazu ist so ein \"schlüttli\" schnell gestrickt. ob für die eigenen kinder, das enkelkind oder einfach als geschenk für werdende eltern: ein \"schlüttli\" ist immer eine gute idee!\r\n\r\ndas kleine pikee-muster sorgt beim stricken für ein wenig abwechslung, ohne aber direkt herausfordernd zu sein. dazu ist es neutral. das funktioniert für pünktchen und auch für anton!",
   "pdf": {
     "filename": "1343244.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1343244.pdf",
-    "url": "https://pdf.ravelrycache.com/WollgefuehlDesign/1680010/Schluttli_final.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482882&Signature=MKoVbe39%2F18RvpAGHOgA%2FAoDX1I%3D&key_expires=1768482882&key=Elq__HzwpkVq7dxbyBHK9Q",
+    "url": "https://pdf.ravelrycache.com/WollgefuehlDesign/1680010/Schluttli_final.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770439599&Signature=sFI1F97YudV%2FLaRAvzA5fw%2BunTI%3D&key_expires=1770439599&key=8TkVQwRe0cx5weaLaLbAtA",
     "size_bytes": 1171487
   }
 }

@@ -1,37 +1,37 @@
 {
   "id": 569268,
-  "name": "Heart Warming Vest",
+  "name": "heart warming vest",
   "permalink": "heart-warming-vest",
   "url": "https://www.ravelry.com/patterns/library/heart-warming-vest",
   "external_url": "",
-  "designer_name": "Betsy Teitler",
-  "project_type": "Vest",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "betsy teitler",
+  "project_type": "vest",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Berkshire Bulky",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 90.0
     },
     {
-      "fiber": "ColorWul",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 5.0
     },
     {
-      "fiber": "Lamb's Pride Bulky",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 5.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Ribbing",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "ribbing",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Seamless"
+    "bottom-up",
+    "in the round",
+    "seamless"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -43,14 +43,15 @@
   "rating_average": 4.65,
   "rating_count": 80,
   "difficulty_average": 2.1818181818181817,
-  "favorites_count": 3314,
-  "projects_count": 794,
+  "favorites_count": 3350,
+  "projects_count": 799,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/49329/266340",
+  "notes": "an easy, cozy vest knit in the round in bulky yarn with a garter stitch yoke and rolled finishes for extra warmth and coverage.  no seaming and, after the ribbing, no purling!\r\n",
   "pdf": {
     "filename": "569268.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\569268.pdf",
-    "url": "https://pdf.ravelrycache.com/yarnhabit/458149/Heart_Warming_Vest_Pattern_-_FINAL_3-28-15.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480806&Signature=SsB3mU9Gl%2FOTCRf6vn%2BJ8P07TI0%3D&key_expires=1768480806&key=jtH4t7yubJXzIg08s29DDw",
+    "url": "https://pdf.ravelrycache.com/yarnhabit/458149/Heart_Warming_Vest_Pattern_-_FINAL_3-28-15.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770428849&Signature=JAX97fk7BS3V4j7ccbcY0Ub5go0%3D&key_expires=1770428849&key=rUaT4ZN0tp_Fx05ix7N5-g",
     "size_bytes": 467389
   }
 }

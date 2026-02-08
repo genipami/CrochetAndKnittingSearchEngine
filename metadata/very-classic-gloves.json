@@ -1,41 +1,46 @@
 {
   "id": 1366779,
-  "name": "Very Classic Gloves",
+  "name": "very classic gloves",
   "permalink": "very-classic-gloves",
   "url": "https://www.ravelry.com/patterns/library/very-classic-gloves",
   "external_url": "https://www.purlsoho.com/create/2023/09/25/very-classic-gloves/",
-  "designer_name": "Purl Soho",
-  "project_type": "Mittens/Gloves",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "purl soho",
+  "project_type": "mittens/gloves",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Cygnet",
-      "pct": null
+      "fiber": "Cashmere goat (Cashmere)",
+      "pct": 70.0
+    },
+    {
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 30.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.0
   ],
   "published": "2023/09/01",
-  "sizes_available": "Kid/Junior (Adult Small, Adult Medium, Adult Large)",
-  "rating_average": 4.666666666666667,
-  "rating_count": 63,
-  "difficulty_average": 3.466666666666667,
-  "favorites_count": 8446,
-  "projects_count": 506,
+  "sizes_available": "kid/junior (adult small, adult medium, adult large)",
+  "rating_average": 4.661764705882353,
+  "rating_count": 68,
+  "difficulty_average": 3.4375,
+  "favorites_count": 8836,
+  "projects_count": 528,
   "free_ravelry_download": false,
-  "download_url": "https://www.purlsoho.com/create/2023/09/25/very-classic-gloves/"
+  "download_url": "https://www.purlsoho.com/create/2023/09/25/very-classic-gloves/",
+  "notes": "materials\r\n\r\nfingerless version\r\n\r\n- 1 (2, 2, 2) skein(s) of purl soho’s [cygnet][1], 70% undyed white cashmere and 30% natural-color baby alpaca. each skein is 164 yards/ 50 grams; approximately 160 (215, 250, 305) yards required for fingerless version. we used the color rock salt.\r\n\r\nfull glove version\r\n\r\n- 2 (2, 2, 3) skeins of purl soho’s [cygnet][2], 70% undyed white cashmere and 30% natural-color baby alpaca. each skein is 164 yards/ 50 grams; approximately 210 (270, 310, 380) yards required for full glove version. we used heirloom white.\r\n\r\nyou will also need…\r\n\r\n- a set of us 2 (3 mm) [double pointed needles][3]\r\n- [stitch markers][4], including 1 unique\r\n- [stitch holder][5] and scrap yarn\r\n\r\nnote: if you want to use [magic loop][6] for the cuff, thumb gusset, and upper palm sections of this pattern, you'll also need a pair of us 2, 32-inch or longer [circular knitting needles][7].  we still recommend double pointed needles for the fingers, though, since those extra tiny circumferences can be tricky.\r\n\r\ngauge\r\n34 stitches and 40 rounds = 4 inches in stockinette stitch\r\n\r\nsizes\r\nkid/junior (adult small, adult medium, adult large)\r\n\r\n- finished circumference at palm: 6 (6¾, 7¼, 8¼) inches\r\n- fingerless gloves finished length from cuff to end of middle finger: 8½ (9½, 10½, 11¼) inches, with instructions to modify\r\n- gloves finished length from cuff to tip of middle finger: 10½ (11½, 12½, 13½) inches, with instructions to modify\r\n\r\nnote: finger length can vary a lot from person to person. while pattern provides lengths for each finger, test fit the gloves on the intended wearer, if possible, as you work the fingers.\r\n\r\nsamples: we knit the fingerless version in adult large and the full glove version in adult small.\r\n\r\nbased on [gem gloves][8] design by [whitney van nes][9] and updated by purl soho designer, [gianna mueller][10]. click [here][11] to see even more of gianna’s designs!\r\n\r\n\r\n  [1]: https://www.purlsoho.com/cygnet.html\r\n  [2]: https://www.purlsoho.com/cygnet.html\r\n  [3]: https://www.purlsoho.com/tools-and-notions/collection_filter--double_pointed_needles.html\r\n  [4]: https://www.purlsoho.com/tools-and-notions/collection_filter--stitch_markers.html\r\n  [5]: https://www.purlsoho.com/tools-and-notions/collection_filter--stitch_holders.html\r\n  [6]: https://www.purlsoho.com/create/magic-loop/\r\n  [7]: https://www.purlsoho.com/tools-and-notions/collection_filter--circular_needles.html\r\n  [8]: https://www.purlsoho.com/create/2013/01/11/whits-knits-gem-gloves/\r\n  [9]: https://www.purlsoho.com/create/tag/whitney-van-nes-for-purl-soho/\r\n  [10]: https://www.purlsoho.com/create/tag/gianna-mueller-for-purl-soho/\r\n  [11]: https://www.instagram.com/giannaknits/"
 }

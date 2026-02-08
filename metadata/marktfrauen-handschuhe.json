@@ -1,30 +1,30 @@
 {
   "id": 624703,
-  "name": "Marktfrauen-Handschuhe",
+  "name": "marktfrauen-handschuhe",
   "permalink": "marktfrauen-handschuhe",
   "url": "https://www.ravelry.com/patterns/library/marktfrauen-handschuhe",
   "external_url": "http://knitcatsgestrick.blogspot.de/",
-  "designer_name": "knitcats Design",
-  "project_type": "Mittens/Gloves",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "knitcats design",
+  "project_type": "mittens/gloves",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Super Soxx Nature 4 ply",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 87.5
     },
     {
-      "fiber": "Trekking XXL",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 12.5
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round"
+    "in the round"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -32,11 +32,12 @@
   ],
   "published": "2015/11/01",
   "sizes_available": "",
-  "rating_average": 4.723529411764706,
-  "rating_count": 170,
-  "difficulty_average": 2.2960526315789473,
-  "favorites_count": 4445,
-  "projects_count": 775,
+  "rating_average": 4.72189349112426,
+  "rating_count": 169,
+  "difficulty_average": 2.2913907284768213,
+  "favorites_count": 4468,
+  "projects_count": 783,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/29055/304260"
+  "download_url": "http://www.ravelry.com/dls/29055/304260",
+  "notes": "meine oma hat mir immer gesagt.....*kindchen, wenn dein puls warm ist, dann sind es deine hände auch*.....;o) \r\n\r\nund so stricke ich schon die ganzen letzten jahre fingerlose handschuhstulpen. für euch habe ich nun mal meine version aufgeschrieben.\r\n\r\ndiese anleitung lässt sich problemlos auf alle handgrößen ändern.\r\n\r\n22.11.2017  \r\nniederländische übersetzung verfügbar, danke an pamkra\r\n"
 }

@@ -1,32 +1,40 @@
 {
   "id": 1355609,
-  "name": "Fading Shells Shawl",
+  "name": "fading shells shawl",
   "permalink": "fading-shells-shawl",
   "url": "https://www.ravelry.com/patterns/library/fading-shells-shawl",
   "external_url": "https://www.yarnspirations.com/products/Caron-Fading-Shells-Crochet-Shawl?utm_source=ravelry&utm_medium=referral",
-  "designer_name": "Yarnspirations Design Studio",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Bulky",
+  "designer_name": "yarnspirations design studio",
+  "project_type": "shawl/wrap",
+  "fiber_art": "crochet",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Colorama Halo Perfect Phasing",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 71.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 18.0
+    },
+    {
+      "fiber": "Polyester (Polyester)",
+      "pct": 11.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Half double crochet (hdc)",
-    "Shell",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "half double crochet (hdc)",
+    "shell",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Colorwork",
-    "Lace",
-    "Seamless",
-    "Written"
+    "charted",
+    "colorwork",
+    "lace",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [
     6.5
@@ -37,8 +45,9 @@
   "rating_average": 4.583333333333333,
   "rating_count": 12,
   "difficulty_average": 3.5833333333333335,
-  "favorites_count": 326,
+  "favorites_count": 338,
   "projects_count": 41,
   "free_ravelry_download": false,
-  "download_url": "https://cdn.shopify.com/s/files/1/0711/5132/1403/files/CAC0126-035100M.pdf"
+  "download_url": "https://cdn.shopify.com/s/files/1/0711/5132/1403/files/CAC0126-035100M.pdf",
+  "notes": "from lively colors to the lovely shell stitch motif, this crochet shawl is exquisitely styled. worked in soft and luxurious caron colorama halo, the yarn does all the colorwork for you, featuring bright color gradients. you'll do single crochet, chains, double crochet, and half double crochet to create the lacy triangular shape. shawl style lends itself well to a one-ball project, so just keep crocheting until you run out of yarn​!\r\n\r\nmaterials\r\ncaron® colorama halo™ perfect phasing™ \r\n(8 oz/227 g; 481 yds/440 m)\r\n\r\nblue raspberry (76020) 2 cakes or 695 yds/630 m\r\n\r\nmeasurements\r\napprox 37\" [94 cm] deep x 59\" [150 cm] wide. "
 }

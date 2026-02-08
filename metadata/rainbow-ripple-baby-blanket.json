@@ -1,26 +1,30 @@
 {
   "id": 200949,
-  "name": "Rainbow Ripple Baby Blanket",
+  "name": "rainbow ripple baby blanket",
   "permalink": "rainbow-ripple-baby-blanket",
   "url": "https://www.ravelry.com/patterns/library/rainbow-ripple-baby-blanket",
   "external_url": "",
-  "designer_name": "Celeste Young",
-  "project_type": "Blanket",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "celeste young",
+  "project_type": "blanket",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Comfort Solids & Heathers",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 50.0
+    },
+    {
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 50.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     5.0
@@ -28,11 +32,12 @@
   "needle_sizes_mm": [],
   "published": "2010/09/01",
   "sizes_available": "45\" diameter, point-to-point",
-  "rating_average": 4.766419981498612,
-  "rating_count": 2162,
-  "difficulty_average": 2.1596483109671447,
-  "favorites_count": 42682,
-  "projects_count": 9323,
+  "rating_average": 4.767313019390581,
+  "rating_count": 2166,
+  "difficulty_average": 2.1602771362586606,
+  "favorites_count": 42855,
+  "projects_count": 9374,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/2231/44913"
+  "download_url": "http://www.ravelry.com/dls/2231/44913",
+  "notes": "***please feel free to donate and sell finished items using this pattern, or to teach classes using it.  thank you all for your love and support over the years!  enjoy!***\r\n\r\nthis pattern is my absolute favorite go-to gift for new babies and special kids.  it works up quickly, too -- what more could you ask for!?  \r\n\r\nthe formula for the round ripple is nothing new, but i love to add the rainbow colors and white stripes to create contrast.  inspired by, but not quite the same as so many others have done here and on [crochetville][1]!  happy crocheting :)\r\n\r\n**pattern is written in us crochet terms.**\r\n\r\n**new** norwegian, german, french and spanish versions now available for free download!  danish version (without color changes) available [here][2].\r\n\r\n\r\n  [1]: http://www.crochetville.org\r\n  [2]: http://curlycurly.dk/?p=77"
 }

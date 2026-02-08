@@ -1,36 +1,41 @@
 {
   "id": 7426581,
-  "name": "Hot Springs Towel Set",
+  "name": "hot springs towel set",
   "permalink": "hot-springs-towel-set",
   "url": "https://www.ravelry.com/patterns/library/hot-springs-towel-set",
   "external_url": "https://www.purlsoho.com/create/2025/04/25/hot-springs-towel-set/",
-  "designer_name": "Purl Soho",
-  "project_type": "Dishcloth",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "purl soho",
+  "project_type": "dishcloth",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "June Worsted",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 70.0
+    },
+    {
+      "fiber": "Flax (Linen)",
+      "pct": 30.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     4.5
   ],
   "published": "2025/04/01",
-  "sizes_available": "Washcloth (Hand Towel, Bath Towel)",
-  "rating_average": 4.75,
-  "rating_count": 8,
-  "difficulty_average": 1.5,
-  "favorites_count": 1469,
-  "projects_count": 35,
+  "sizes_available": "washcloth (hand towel, bath towel)",
+  "rating_average": 4.818181818181818,
+  "rating_count": 11,
+  "difficulty_average": 1.5454545454545454,
+  "favorites_count": 1527,
+  "projects_count": 40,
   "free_ravelry_download": false,
-  "download_url": "https://www.purlsoho.com/create/2025/04/25/hot-springs-towel-set/"
+  "download_url": "https://www.purlsoho.com/create/2025/04/25/hot-springs-towel-set/",
+  "notes": "materials\r\n- 1 (3, 9) balls of purl soho’s [june worsted][1], 70% organically grown cotton and 30% linen. each ball of this worsted/aran-weight yarn is 164 yards/ 100 grams; approximately 65 (480, 1395) yards required. we used the colors pale denim and peach canyon.\r\n- us 7 (4.5 mm), straight or 24-inch circular [knitting needles][2]\r\n- if using straight needles, for washcloth and hand towel: two us 7 [double pointed needles][3] for i-cord\r\n\r\ngauge\r\n21 stitches and 26 rows = 4 inches in stitch pattern\r\n\r\nsizes\r\nwashcloth (hand towel, bath towel)\r\n\r\nfinished dimensions: 6¾ inches wide x 9 inches long (17¼ inches wide x 30 inches long, 29½ inches wide x 50 inches long)\r\n\r\ndesigned by purl soho designer, [gianna mueller][4]. see more of gianna’s designs [on her instagram][5]!\r\n\r\n\r\n  [1]: https://www.purlsoho.com/june-worsted.html\r\n  [2]: https://www.purlsoho.com/tools-and-notions/collection_filter--circular_needles--straight_needles.html\r\n  [3]: https://www.purlsoho.com/tools-and-notions/collection_filter--double_pointed_needles.html\r\n  [4]: https://www.purlsoho.com/create/tag/gianna-mueller-for-purl-soho/\r\n  [5]: https://www.instagram.com/giannaknits/"
 }

@@ -1,25 +1,25 @@
 {
   "id": 1024528,
-  "name": "Grandma's Favorite Dishcloth",
+  "name": "grandma's favorite dishcloth",
   "permalink": "grandmas-favorite-dishcloth-2",
   "url": "https://www.ravelry.com/patterns/library/grandmas-favorite-dishcloth-2",
   "external_url": "https://www.goodknitkisses.com/knit-grandmas-favorite-dishcloth/",
-  "designer_name": "Kristen Mangus",
-  "project_type": "Dishcloth",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "kristen mangus",
+  "project_type": "dishcloth",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Handicrafter Cotton Twists",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Garter stitch"
+    "garter stitch"
   ],
   "techniques_used": [
-    "C2C",
-    "Written"
+    "c2c",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -27,11 +27,12 @@
   ],
   "published": "2020/04/01",
   "sizes_available": "8.5\" x 8.5\" (21.5 cm x 21.5 cm)",
-  "rating_average": 4.942857142857143,
-  "rating_count": 35,
-  "difficulty_average": 1.7941176470588236,
-  "favorites_count": 367,
-  "projects_count": 237,
+  "rating_average": 4.944444444444445,
+  "rating_count": 36,
+  "difficulty_average": 1.7714285714285714,
+  "favorites_count": 372,
+  "projects_count": 242,
   "free_ravelry_download": false,
-  "download_url": "http://www.ravelry.com/purchase/goodknitkisses/604916"
+  "download_url": "http://www.ravelry.com/purchase/goodknitkisses/604916",
+  "notes": "classic, timeless,and able to handle the toughest jobs. that’s grandma. we can also say that about grandma’s favorite dishcloth pattern.  \r\n\r\nknit this iconic dishcloth from corner to corner in garter stitch by using some simple increases and decreases.  once you learn the techniques this pattern will be sure to become your favorite too."
 }

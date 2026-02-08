@@ -1,39 +1,39 @@
 {
   "id": 7379260,
-  "name": "FAKE SWEATER Scarf",
+  "name": "fake sweater scarf",
   "permalink": "fake-sweater-scarf",
   "url": "https://www.ravelry.com/patterns/library/fake-sweater-scarf",
   "external_url": "",
-  "designer_name": "Susanne Müller",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "susanne müller",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Alpaca 1",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 50.0
     },
     {
-      "fiber": "Como",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 25.0
     },
     {
-      "fiber": "Jensen Yarn",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 15.0
     },
     {
-      "fiber": "Premia",
-      "pct": null
+      "fiber": "Silk (Silk)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamless",
-    "Written"
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -41,12 +41,13 @@
     4.5
   ],
   "published": "2024/10/01",
-  "sizes_available": "S/M (L/XL)",
+  "sizes_available": "s/m (l/xl)",
   "rating_average": 4.846153846153846,
   "rating_count": 13,
   "difficulty_average": 2.2142857142857144,
-  "favorites_count": 2495,
-  "projects_count": 65,
+  "favorites_count": 2555,
+  "projects_count": 66,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/77885/960009"
+  "download_url": "http://www.ravelry.com/dls/77885/960009",
+  "notes": "der fake sweater scarf ist ein schlichter schal, der um die schultern gelegt und vorne locker geknotet wird, ähnlich wie ein über den schultern getragener pullover - daher auch der name. der schal ist einfach zu stricken und ein perfektes anfänger-projekt.\r\n\r\ner wird in einem stück in reihen gestrickt. zunächst wird der rücken glatt rechts mit halbpatent-bündchen gearbeitet. dann wird die arbeit aufgeteilt, rechter und linker „ärmel“ werden separat gestrickt und ebenfalls mit einem halbpatent-bündchen abgeschlossen.\r\n\r\nverwendete techniken: kreuzanschlag, halbpatent mit umschlägen, abketten als i-cord, links und rechts geneigte abnahmen.\r\n\r\n**größe**\r\ns/m (l/xl)\r\nschulterbreite: 46 (49) cm\r\nrückenlänge: ca. 35 (38) cm\r\närmellänge: ca. 62 (64) cm\r\n\r\n**maschenprobe**\r\nglatt rechts mit nd 4,5 mm: 19-20 m x 29 r = 10 x 10 cm (gewaschen gemessen).\r\nzum anpassen der maschenproben ggf. eine andere nadelgröße wählen.\r\n\r\n**nadeln**\r\nrundstricknadel 4,5 mm / 80 - 100 cm.\r\nrundstricknadel 3,5 mm / 80 - 100 cm für die bündchen\r\n\r\n**garn**\r\n*zweifädig:*\r\n200 (200) g ‚jensen yarn‘ von isager (100 % schurwolle; ll 125 m/50 g) zusammen mit  100 (100) g ‚alpaca 1’ von isager (100 % alpaka; 400 m/50 g), auf dem titelfoto in fb. 2 s \r\noder\r\n100 (100-125) g ‚como‘ von lamana (100 % schurwolle; ll 120 m/25 g) zusammen mit  50 (50) g ‚premia’ von lamana (60 % mohair, 40 % seide; 300 m / 25 g), auf dem foto oben in fb. ‚anthrazit‘.\r\n\r\n*einfädig:*\r\n200 (200) g ‚feel good yarn‘ von wool and the gang (70% baby alpaka, 7% merino-wolle, 23% nylon; \r\nll 130 m/50 g)\r\noder\r\n200 (200-250) g ‚snefnug‘ von camarose (55 % alpaka, 35 % baumwolle, 10 % schurwolle; ll 110 m/50 g)"
 }

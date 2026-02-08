@@ -1,27 +1,27 @@
 {
   "id": 366714,
-  "name": "Linen Scarf",
+  "name": "linen scarf",
   "permalink": "linen-scarf-3",
   "url": "https://www.ravelry.com/patterns/library/linen-scarf-3",
   "external_url": "",
-  "designer_name": "Heidi Cantway",
-  "project_type": "Scarf",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Fingering",
+  "designer_name": "heidi cantway",
+  "project_type": "scarf",
+  "fiber_art": "crochet",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Fingering",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Moss/Linen stitch",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "moss/linen stitch",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamless",
-    "Written"
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [
     3.5
@@ -32,14 +32,15 @@
   "rating_average": 4.7711442786069655,
   "rating_count": 201,
   "difficulty_average": 1.5612244897959184,
-  "favorites_count": 7099,
-  "projects_count": 781,
+  "favorites_count": 7134,
+  "projects_count": 784,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/31295/129863",
+  "notes": "this scarf is designed to mimic the knit linen stitch, with the perk that it’s double sided and is a lot quicker to work up. it is worked lengthwise with fringe added at the end if desired. variegated yarn is recommended, but solid colors can be used to created an alternating pattern of stripes.\r\n\r\nnote: the yardage amount given is a close approximation. less or more yardage can be used to make a shorter/narrower or longer/wider scarf.\r\n\r\nnote: if it looks like there will be pooling of colors, try working every few rows or every other row with a second skein or the inside and outside of the ball.",
   "pdf": {
     "filename": "366714.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\366714.pdf",
-    "url": "https://pdf.ravelrycache.com/heidijoh/208044/crochetlinenscarf.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481436&Signature=08aCw5xckrfE6InkCxBeua6rtBs%3D&key_expires=1768481436&key=VT-sKWUOkeuB4ZEen_CDfw",
+    "url": "https://pdf.ravelrycache.com/heidijoh/208044/crochetlinenscarf.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770432074&Signature=6Gcwla4rUOCql4viR6BmaObHDco%3D&key_expires=1770432074&key=P0RDkXpCFD5JYDwgmOsARg",
     "size_bytes": 10023286
   }
 }

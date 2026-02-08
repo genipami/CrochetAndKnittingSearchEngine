@@ -1,40 +1,41 @@
 {
   "id": 1280338,
-  "name": "Little Mitered Stripes Blanket",
+  "name": "little mitered stripes blanket",
   "permalink": "little-mitered-stripes-blanket",
   "url": "https://www.ravelry.com/patterns/library/little-mitered-stripes-blanket",
   "external_url": "https://www.purlsoho.com/create/2022/10/17/little-mitered-stripes-blanket/",
-  "designer_name": "Purl Soho",
-  "project_type": "Blanket",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "purl soho",
+  "project_type": "blanket",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Knitting Yarn DK",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Modular",
-    "Written"
+    "bottom-up",
+    "modular",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     4.0
   ],
   "published": "2022/10/01",
-  "sizes_available": "Crib (Throw)",
-  "rating_average": 4.67741935483871,
-  "rating_count": 31,
-  "difficulty_average": 2.206896551724138,
-  "favorites_count": 3883,
-  "projects_count": 158,
+  "sizes_available": "crib (throw)",
+  "rating_average": 4.6875,
+  "rating_count": 32,
+  "difficulty_average": 2.2,
+  "favorites_count": 3977,
+  "projects_count": 162,
   "free_ravelry_download": false,
-  "download_url": "https://www.purlsoho.com/create/2022/10/17/little-mitered-stripes-blanket/"
+  "download_url": "https://www.purlsoho.com/create/2022/10/17/little-mitered-stripes-blanket/",
+  "notes": "materials\r\n\r\n8 (14) skeins of purl soho’s [knitting yarn dk][1], 100% merino wool. each skein is 219 yards/ 100 grams.\r\n\r\n- color a: 4 (7) skeins; approximately 835 (1525) yards required. we used heirloom white.\r\n- color b: 4 (7) skeins; approximately 800 (1330) yards required. we used violet sea for the crib size and flax flower blue for the throw size.\r\n\r\nyou'll also need...\r\n\r\n- us 6 (4 mm), 40- or 47- inch [circular needles][2]\r\n- [stitch markers][3] or scrap yarn\r\n\r\nwe also love how this pattern works up in heirloom white plus new leaf green or piglet pink, but with 20 colors of [knitting yarn dk][4] to choose from, the options are endless!\r\n\r\ngauge\r\n21 stitches and 40 rows = 4 inches in garter stitch\r\n\r\nsizes\r\ncrib (throw)\r\n\r\nfinished dimensions: approximately 30 (40) inches wide x 40 (53) inches long\r\n\r\n\r\ndesigned by purl soho designer, [hiromi glover][5], based on the original [little mitered stripes scarf][6] by [jake canton][7]. click [here][8] to see even more of hiromi’s work!\r\n\r\n\r\n  [1]: https://www.purlsoho.com/knitting-yarn-dk.html\r\n  [2]: https://www.purlsoho.com/tools/knitting-needles.html?type_filter=881\r\n  [3]: https://www.purlsoho.com/tools/notions.html?collection_filter=964\r\n  [4]: https://www.purlsoho.com/knitting-yarn-dk.html\r\n  [5]: https://www.purlsoho.com/create/tag/hiromi-glover-for-purl-soho/\r\n  [6]: https://www.purlsoho.com/create/2019/04/17/little-mitered-stripes-scarf/\r\n  [7]: https://www.purlsoho.com/create/tag/jake-canton-for-purl-soho/\r\n  [8]: https://www.instagram.com/mignonnegrise/"
 }

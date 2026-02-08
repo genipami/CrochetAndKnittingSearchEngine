@@ -1,49 +1,54 @@
 {
   "id": 142270,
-  "name": "Podster Gloves",
+  "name": "podster gloves",
   "permalink": "podster-gloves",
   "url": "https://www.ravelry.com/patterns/library/podster-gloves",
   "external_url": "",
-  "designer_name": "Glenna C.",
-  "project_type": "Mittens/Gloves",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "glenna c.",
+  "project_type": "mittens/gloves",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Purple Label Cashmere Sock",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 85.0
     },
     {
-      "fiber": "Smooshy 100% Merino",
-      "pct": null
+      "fiber": "Cashmere goat (Cashmere)",
+      "pct": 10.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 5.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.5
   ],
   "published": "2009/09/01",
-  "sizes_available": "S(L)",
-  "rating_average": 4.3061224489795915,
-  "rating_count": 490,
+  "sizes_available": "s(l)",
+  "rating_average": 4.307535641547862,
+  "rating_count": 491,
   "difficulty_average": 4.0686070686070686,
-  "favorites_count": 9529,
-  "projects_count": 1967,
+  "favorites_count": 9576,
+  "projects_count": 1976,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/72/22771",
+  "notes": "hello, people of the pod. do your hands get cold in the fall and winter? do you like to take your digital music player with you wherever you go? do you get tired of having to rip your entire mitten off of your hands in order to dial your ipod controls, thus exposing your delicate modern technology-addicted hand to the elements? \r\n\r\nworry no more, my knitting-capable friends. this convertible mitten/glove pattern is here for you. be sure to note suggested modifications, including the simple addition of a peek-a-boo or 'podster' thumb, to allow your thumb to slip in and out of the glove for easy access to your music player controls without removing your whole glove. \r\n\r\n*please note i am not able to guarantee pattern support for free patterns after their 1st year of release. \r\nthis pattern was originally released in 2009 and re-released in 2013.*\r\n\r\n\r\nsizing: s(l)\r\n* to fit hand circumference 6-6.75 ins (7-8 ins) around; roughly equivalent to women’s small(women’s large/men’s small). \r\n\r\nto execute this pattern, knitters will be required to: \r\n•\twork in the round\r\n•\twork knit and purl sts\r\n•\twork increases (m1) and decreases (ssk, k2tog, p2tog)\r\n•\tpick up sts (for working fingers and thumb)\r\n\r\n*note: the pattern instructions direct you to work in the round, however i do not indicate which method specifically. i assume that if you are making these gloves, you are comfortable with at least one method already and know which method that is. use whatever method you are comfortable with - dpns, magic loop, or 2 circulars. this sample was worked using magic loop method.*\r\n\r\n",
   "pdf": {
     "filename": "142270.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\142270.pdf",
-    "url": "https://pdf.ravelrycache.com/GlennaC/317574/Podsters-Dec30-13-PDF.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482477&Signature=uVX4RcFp00%2FzHT5HxBS1s%2BXppYo%3D&key_expires=1768482477&key=zYDsz5Eo-MKA3Wo9lIOkmw",
+    "url": "https://pdf.ravelrycache.com/GlennaC/317574/Podsters-Dec30-13-PDF.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770437434&Signature=2OWuVpeBWEMnJQtJLeGa3Ar474w%3D&key_expires=1770437434&key=QQV81rn9BiOQnOAr2Vg-6A",
     "size_bytes": 1366757
   }
 }

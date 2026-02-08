@@ -1,24 +1,24 @@
 {
   "id": 1236328,
-  "name": "Sunflower Earring",
+  "name": "sunflower earring",
   "permalink": "sunflower-earring",
   "url": "https://www.ravelry.com/patterns/library/sunflower-earring",
   "external_url": "",
-  "designer_name": "Akeish Fearon",
-  "project_type": "Other",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Lace",
+  "designer_name": "akeish fearon",
+  "project_type": "other",
+  "fiber_art": "crochet",
+  "yarn_weight": "lace",
   "materials": [
     {
-      "fiber": "Classic 10 Crochet Thread",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)"
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     1.25
@@ -29,14 +29,15 @@
   "rating_average": 4.538461538461538,
   "rating_count": 13,
   "difficulty_average": 3.0,
-  "favorites_count": 2735,
+  "favorites_count": 2773,
   "projects_count": 37,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/94267/774594",
+  "notes": "this crochet sunflower earrings pattern is free. you can easily make these cute earrings for you and yours. written using u.s terminology. and even though the crochet level required is intermediate, a beginner can attempt it. happy crocheting.\r\n\r\nmaterials needed : 1.25mm hook, size 10 cotton crochet thread ( yellow and brown or natural or black), stitch marker, yarning needle, pair of earring hooks, scissors , pliers.\r\n\r\nsize: one size 4cm x 4cm ",
   "pdf": {
     "filename": "1236328.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1236328.pdf",
-    "url": "https://pdf.ravelrycache.com/ElementalKnots/1492010/Sunflower_Earring_-_Elemental_Knots_v1.1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483467&Signature=AB%2BJgSRnLzFSM5J88b6aXimzSgg%3D&key_expires=1768483467&key=xcpMVa1KqTcepBK5ACkngQ",
+    "url": "https://pdf.ravelrycache.com/ElementalKnots/1492010/Sunflower_Earring_-_Elemental_Knots_v1.1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770443071&Signature=ztI7gMrxELBU9R4d1IaT2dAMMHo%3D&key_expires=1770443071&key=wP1xYcMXMKf8PANJGFHgQw",
     "size_bytes": 960539
   }
 }

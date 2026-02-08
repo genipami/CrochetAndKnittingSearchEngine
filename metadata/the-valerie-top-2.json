@@ -1,38 +1,39 @@
 {
   "id": 1222358,
-  "name": "The Valerie Top",
+  "name": "the valerie top",
   "permalink": "the-valerie-top-2",
   "url": "https://www.ravelry.com/patterns/library/the-valerie-top-2",
   "external_url": "https://www.youtube.com/watch?v=afrA2Dg_GQo",
-  "designer_name": "Kelsie Beckham",
-  "project_type": "Tank/Camisole",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "kelsie beckham",
+  "project_type": "tank/camisole",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Sugar'n Cream The Original (Solids)",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Written"
+    "bottom-up",
+    "written"
   ],
   "hook_sizes_mm": [
     4.0
   ],
   "needle_sizes_mm": [],
   "published": "2022/03/01",
-  "sizes_available": "XS-XXL",
+  "sizes_available": "xs-xxl",
   "rating_average": 5.0,
   "rating_count": 17,
   "difficulty_average": 2.066666666666667,
-  "favorites_count": 1541,
-  "projects_count": 61,
+  "favorites_count": 1586,
+  "projects_count": 62,
   "free_ravelry_download": false,
-  "download_url": "http://www.ravelry.com/purchase/passioknit-goods/762804"
+  "download_url": "http://www.ravelry.com/purchase/passioknit-goods/762804",
+  "notes": "separate written instructions for each size. includes a size chart. includes sizes xs-xxl. 16 dc x 9 rows = 4x4\" square. you should buy 1-2 lily sugar n cream cotton super size 190 yd skeins. "
 }

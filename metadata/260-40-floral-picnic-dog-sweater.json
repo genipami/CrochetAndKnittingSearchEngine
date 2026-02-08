@@ -1,28 +1,32 @@
 {
   "id": 7476023,
-  "name": "260-40 Floral Picnic Dog Sweater",
+  "name": "260-40 floral picnic dog sweater",
   "permalink": "260-40-floral-picnic-dog-sweater",
   "url": "https://www.ravelry.com/patterns/library/260-40-floral-picnic-dog-sweater",
   "external_url": "https://www.garnstudio.com/pattern.php?id=12453&cid=19",
-  "designer_name": "DROPS design",
-  "project_type": "Pet",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "drops design",
+  "project_type": "pet",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "DROPS Fiesta",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless",
-    "Top-down",
-    "Written"
+    "in the round",
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -30,12 +34,13 @@
     3.5
   ],
   "published": "2025/10/01",
-  "sizes_available": "XS - S - M",
+  "sizes_available": "xs - s - m",
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 95,
+  "favorites_count": 120,
   "projects_count": 8,
   "free_ravelry_download": false,
-  "download_url": "https://www.garnstudio.com/pattern.php?id=12453&cid=19"
+  "download_url": "https://www.garnstudio.com/pattern.php?id=12453&cid=19",
+  "notes": "**knitted jumper for dog in drops fiesta. piece is knitted from the neck to tail in stocking stitch and rib.**\r\n~~~~~~~~~~~~~~~~~~~~~~\r\n\r\n#floralpicnicdogsweater\r\ndrops design: pattern fs-042\r\nyarn group b\r\n\r\n----------------------------------------------------------\r\n\r\n\r\n**size**:\r\nxs - s - m\r\nmeasurements:\r\nback length: approx. 24-32-40 cm, measured along the back (without neck edge).\r\nfits chest measurements approx.: 28/32-38/42-48/52 cm.\r\nexample of dog breeds: xs = chihuahua,\r\ns = bichon frisé, m = cocker spaniel\r\n\r\n**yarn**:\r\ndrops fiesta from garnstudio (belongs to yarn group b)\r\n100-100-150 g colour 29, garden party\r\n\r\n**needles**:\r\ndrops circular needle size 3.5 mm: length 40 cm.\r\ndrops circular needle size 3 mm: length 40 cm.\r\ndrops double pointed needles size 3.5 mm.\r\ndrops double pointed needles size 3 mm.\r\nthe technique magic loop can be used- you then only need circular needle of 80 cm in each size.\r\n\r\n**knitting tension**:\r\n22 stitches in width and 30 rows vertically in stocking stitch on needle size 3.5 = 10 x 10 cm.\r\nnote! remember that needle size is only a suggestion. if you have too many stitches on 10 cm switch to larger needles. if you have too few stitches on 10 cm switch to smaller needles."
 }

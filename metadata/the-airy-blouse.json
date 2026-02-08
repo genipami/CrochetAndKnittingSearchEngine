@@ -1,29 +1,33 @@
 {
   "id": 7445644,
-  "name": "The Airy Blouse",
+  "name": "the airy blouse",
   "permalink": "the-airy-blouse",
   "url": "https://www.ravelry.com/patterns/library/the-airy-blouse",
   "external_url": "",
   "designer_name": "dragonfruitknit",
-  "project_type": "Pullover",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Lace",
+  "project_type": "pullover",
+  "fiber_art": "knitting",
+  "yarn_weight": "lace",
   "materials": [
     {
-      "fiber": "Silk Mohair",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 70.0
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 30.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Raglan",
-    "Seamless",
-    "Top-down",
-    "Written"
+    "in the round",
+    "raglan",
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -34,14 +38,15 @@
   "rating_average": 4.916666666666667,
   "rating_count": 12,
   "difficulty_average": 2.090909090909091,
-  "favorites_count": 2218,
-  "projects_count": 52,
+  "favorites_count": 2417,
+  "projects_count": 57,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/112459/1012170",
+  "notes": "yarn: 50g midara silk mohair 214\r\ngauge: 14st by 23 rows\r\nsize: small (medium) large\r\ndifficulty: ★☆☆☆☆\r\nconstruction: top down, raglan\r\ngarment measurements: 94 cm circumference, 36 cm length \r\n\r\n\r\nmaterials\r\n\r\n5.5 mm circular needles, 40 cm and 80 cm\r\n50g silk mohair yarn \r\nscissors\r\ntapestry needle\r\n",
   "pdf": {
     "filename": "7445644.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7445644.pdf",
-    "url": "https://pdf.ravelrycache.com/dragonfruitknit/2031310/The_Airy_Blouse_Updated_7_16-2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483565&Signature=6u%2Fk3mcA2QcaVPQ2JZFxKW%2ByNkY%3D&key_expires=1768483565&key=nliXzQXeNO5GI1DVyScB5g",
+    "url": "https://pdf.ravelrycache.com/dragonfruitknit/2031310/The_Airy_Blouse_Updated_7_16-2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770443883&Signature=R3gN55fFzOzJLHdHA23XPVzK%2Bpc%3D&key_expires=1770443883&key=bjTlh7gn-olCZZWx6HN2Ag",
     "size_bytes": 1614738
   }
 }

@@ -1,30 +1,30 @@
 {
   "id": 1217947,
-  "name": "Up & Down Vanilla Swirl",
+  "name": "up & down vanilla swirl",
   "permalink": "up--down-vanilla-swirl",
   "url": "https://www.ravelry.com/patterns/library/up--down-vanilla-swirl",
   "external_url": "",
-  "designer_name": "Holly Isaac",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "holly isaac",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Classic Sock",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 50.0
     },
     {
-      "fiber": "Merino Nylon Fingering",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     },
     {
-      "fiber": "Strong Sock",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [],
@@ -32,18 +32,19 @@
     2.25
   ],
   "published": "2022/02/01",
-  "sizes_available": "XS, S, M, M/L, L, XL",
-  "rating_average": 4.633333333333334,
-  "rating_count": 30,
-  "difficulty_average": 2.5925925925925926,
-  "favorites_count": 1834,
-  "projects_count": 290,
+  "sizes_available": "xs, s, m, m/l, l, xl",
+  "rating_average": 4.65625,
+  "rating_count": 32,
+  "difficulty_average": 2.586206896551724,
+  "favorites_count": 1863,
+  "projects_count": 301,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/70894/758912",
+  "notes": "this is my go-to vanilla pattern when using self-striping or highly variegated yarns. with a high instep, usually a heel flap and gusset fits best. but i don't like having the stripes disrupted in the instep area, or large sections of pooling that can happen with highly variegated yarns. so a short row heel is preferred for those yarns. however, i still need a gusset for my high instep! hence these socks.\r\n\r\npattern can be worked either toe up or cuff down (instructions included for both). \r\n\r\n6 sizes available\r\n\r\neasily adjustable!\r\n\r\ni have discovered that if i use contrasting yarn (leftovers or minis or whatever) for heels, toes, and cuffs, i can usually get two pairs of adult medium sized socks out of one skein.\r\n\r\nall sizes have been tested.",
   "pdf": {
     "filename": "1217947.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1217947.pdf",
-    "url": "https://pdf.ravelrycache.com/hollyisaac/1454370/Up___Down_Vanilla_Swirl4.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483947&Signature=e0X1lXoNpH2B%2BKBRJmvr1jP7BIU%3D&key_expires=1768483947&key=3HcqQ8wiRZP71xsuxYXy-A",
+    "url": "https://pdf.ravelrycache.com/hollyisaac/1454370/Up___Down_Vanilla_Swirl4.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770445786&Signature=IiQFPEDqtqciAKV9tb9qo926ujc%3D&key_expires=1770445786&key=OSoeDYb2JjbjwHA6Uv-u4A",
     "size_bytes": 334819
   }
 }

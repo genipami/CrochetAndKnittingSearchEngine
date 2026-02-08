@@ -1,29 +1,37 @@
 {
   "id": 1297444,
-  "name": "0-1587 Jolly Bounty",
+  "name": "0-1587 jolly bounty",
   "permalink": "0-1587-jolly-bounty",
   "url": "https://www.ravelry.com/patterns/library/0-1587-jolly-bounty",
   "external_url": "https://www.garnstudio.com/pattern.php?id=11191&cid=19",
-  "designer_name": "DROPS design",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "drops design",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "DROPS Belle",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 53.0
+    },
+    {
+      "fiber": "Rayon / Viscose (Rayon)",
+      "pct": 33.0
+    },
+    {
+      "fiber": "Flax (Linen)",
+      "pct": 14.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Lace",
-    "Seamed",
-    "Written"
+    "charted",
+    "in the round",
+    "lace",
+    "seamed",
+    "written"
   ],
   "hook_sizes_mm": [
     3.0
@@ -34,8 +42,9 @@
   "rating_average": 4.5,
   "rating_count": 4,
   "difficulty_average": 3.6666666666666665,
-  "favorites_count": 719,
+  "favorites_count": 721,
   "projects_count": 28,
   "free_ravelry_download": false,
-  "download_url": "https://www.garnstudio.com/pattern.php?id=11191&cid=19"
+  "download_url": "https://www.garnstudio.com/pattern.php?id=11191&cid=19",
+  "notes": "**crocheted cornet in drops belle. piece is crocheted as a square from the middle and outwards. theme: christmas.**\r\n~~~~~~~~~~~~~~~~~~~~~\r\n\r\ndrops design: pattern vs-096\r\nyarn group b\r\n\r\n----------------------------------------------------------\r\n\r\n\r\n**size**:\r\n1 square measures approx. 12 x 12 cm.\r\n\r\n**yarn**:\r\ndrops belle from garnstudio (belongs to yarn group b)\r\n50 g colour 24, sand\r\n50 g colour 25, forest brown\r\n\r\n1 cornet weighs approx. 12 g.\r\n\r\n**crochet hook**:\r\ndrops crochet hook size 3 mm\r\n\r\n**crochet tension**:\r\n22 treble crochets in width and 11 rows vertically = 10 x 10 cm.\r\nnote! remember that hook size is only a suggestion. if you have too many stitches on 10 cm switch to larger hook. if you have too few stitches on 10 cm switch to smaller hook. "
 }

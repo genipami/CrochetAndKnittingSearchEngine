@@ -1,34 +1,30 @@
 {
   "id": 591197,
-  "name": "Basic Childrens Poncho",
+  "name": "basic childrens poncho",
   "permalink": "basic-childrens-poncho",
   "url": "https://www.ravelry.com/patterns/library/basic-childrens-poncho",
   "external_url": "",
-  "designer_name": "Shaina Bilow",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "shaina bilow",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Shepherd Worsted Multi",
-      "pct": null
-    },
-    {
-      "fiber": "Tosh Chunky",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless",
-    "Top-down",
-    "Written"
+    "in the round",
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -39,14 +35,15 @@
   "rating_average": 4.772222222222222,
   "rating_count": 180,
   "difficulty_average": 1.807909604519774,
-  "favorites_count": 3428,
-  "projects_count": 615,
+  "favorites_count": 3443,
+  "projects_count": 616,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/34862/281158",
+  "notes": "> [get email updates][1] to hear about shaina’s new designs, video tutorials, class schedule, and receive subscriber-only introductory discounts on pattern releases!\r\n\r\nexperience level: beginner\r\n\r\nthis is a tried-and-true basic children’s poncho. the rolled neckline, stockinette body with visible increases on the front and back, and garter stitch border all combine to make a simple project that really lets the yarn you choose shine! the pattern is written for dk, worsted, and chunky weight yarns and can be sized larger or smaller by changing the length you knit the body. \r\n\r\nfor an adult version of this design, check out the [basic adult poncho][2] pattern\r\n\r\n***construction details***\r\nthe basic children’s poncho is worked from the top-down in the round to the desired length. increases are made every other round using the knit in the front and back technique. \r\n\r\n***techniques necessary***\r\ncast on\r\nbind off\r\njoin in the round\r\nkfb increase\r\n\r\n***finished measurements*** \r\n18” neck circumference (all sizes), length of 15 (16, 17, 18)”\r\n\r\n***yarn***\r\ndk weight yarn – 550-900 yards\r\nworsted weight yarn – 475-800 yards\r\nchunky weight yarn – 400-700 yards\r\n\r\n***gauge*** \r\ndk weight – 20 sts and 28 rows = 4” in stockinette stitch on size 6 needles or size needed to obtain gauge\r\nworsted weight – 16 sts and 25 rows = 4” in stockinette stitch on size 9 needles or size needed to obtain gauge\r\nchunky weight – 14 sts and 20 rows = 4” in stockinette stitch on size 10.5 needles or size needed to obtain gauge\r\n\r\n***needles*** \r\ncircular needles in 16”, 24”, and 32” or 40” lengths\r\ndk weight – us 6 (4mm)\r\nworsted weight – us 9 (5.5mm)\r\nchunky weight – us 10.5 (6.5mm)\r\nadjust needle size as necessary to obtain correct gauge.\r\n\r\n***other materials***\r\nthree stitch markers (one of which is a distinguishing style or color) and a tapestry needle. \r\n\r\n\r\n  [1]: https://www.shainabilow.com/mailing-list\r\n  [2]: https://www.ravelry.com/patterns/library/basic-adult-poncho",
   "pdf": {
     "filename": "591197.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\591197.pdf",
-    "url": "https://pdf.ravelrycache.com/ShainaBilow/1093459/Basic_Childrens_Poncho_.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478992&Signature=PtPHCuW50Vu21SITiHEu3i%2FFNJk%3D&key_expires=1768478992&key=pmQLOQSpRSng0VnKJORriA",
+    "url": "https://pdf.ravelrycache.com/ShainaBilow/1093459/Basic_Childrens_Poncho_.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770418337&Signature=kWckwJgVFXleCWRTnXbEh4NImRI%3D&key_expires=1770418337&key=TGYwOwHVRveAbj3CzPQItQ",
     "size_bytes": 403568
   }
 }

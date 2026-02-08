@@ -1,27 +1,27 @@
 {
   "id": 1265409,
-  "name": "Worsted Helical Hat",
+  "name": "worsted helical hat",
   "permalink": "worsted-helical-hat",
   "url": "https://www.ravelry.com/patterns/library/worsted-helical-hat",
   "external_url": "",
-  "designer_name": "Andromeda W. Unsure",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "andromeda w. unsure",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Rios",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -30,17 +30,18 @@
   ],
   "published": "2022/08/01",
   "sizes_available": "",
-  "rating_average": 4.75,
-  "rating_count": 16,
-  "difficulty_average": 2.5625,
-  "favorites_count": 863,
-  "projects_count": 113,
+  "rating_average": 4.722222222222222,
+  "rating_count": 18,
+  "difficulty_average": 2.5,
+  "favorites_count": 873,
+  "projects_count": 117,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/96198/798986",
+  "notes": "learn helical knitting with this free pattern! \r\nexcellent for stashbusting partial skeins of worsted/aran yarn, perhaps from previous hats. \r\n\r\nthere are also two brim options: regular and extra thick. \r\n\r\none size available (for now)\r\n*adult/teen unisex finished circumference - 23.5 inches*\r\n\r\n\r\n\r\nthis pattern is free for personal use and should not be sold. \r\n\r\n**8-24-2022 error (fixed): decrease round 2 should be: ssk, k to 2 sts before marker, then (k2tog, sm, ssk, k to 2 sts before marker) 7 times, k2tog**\r\n",
   "pdf": {
     "filename": "1265409.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1265409.pdf",
-    "url": "https://pdf.ravelrycache.com/andromedaunsure/1540034/Updated_Helical_Hat_Knitting_Pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484250&Signature=3rCDx48ElUfTO6HTz6p69wyodgo%3D&key_expires=1768484250&key=pbMmPhROZhbfVdHPVbTTow",
+    "url": "https://pdf.ravelrycache.com/andromedaunsure/1540034/Updated_Helical_Hat_Knitting_Pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770447279&Signature=bbLBd0Jp8J830wYhg2moxFbW6uY%3D&key_expires=1770447279&key=it07fYJfP0K9QGyx3jT41Q",
     "size_bytes": 163432
   }
 }

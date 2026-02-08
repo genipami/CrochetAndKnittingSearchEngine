@@ -1,21 +1,25 @@
 {
   "id": 1198620,
-  "name": "Star Ornament",
+  "name": "star ornament",
   "permalink": "star-ornament-12",
   "url": "https://www.ravelry.com/patterns/library/star-ornament-12",
   "external_url": "",
-  "designer_name": "Adella Dutra",
-  "project_type": "Home",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "adella dutra",
+  "project_type": "home",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "LB Collection Fifty Fifty",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 50.0
+    },
+    {
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 50.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [],
@@ -23,18 +27,19 @@
     8.0
   ],
   "published": "2021/12/01",
-  "sizes_available": "One Size",
+  "sizes_available": "one size",
   "rating_average": 4.909090909090909,
   "rating_count": 44,
   "difficulty_average": 2.4,
-  "favorites_count": 4711,
-  "projects_count": 202,
+  "favorites_count": 4731,
+  "projects_count": 204,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/63558/743920",
+  "notes": "gauge\r\n6 sts in 5 cm (2”)\r\n\r\nmeasurements \r\none size: 16 x 16 cm (6.5” x 6.5”)\r\n\r\n\r\nmaterials\r\n30g of lion brand fifty fifty yarn\r\n\r\nneedles & notions\r\n8 mm (us 11) 40 cm (16”) circular needle\r\n1 marker\r\ntapestry needle\r\n1/8\" ribbon",
   "pdf": {
     "filename": "1198620.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1198620.pdf",
-    "url": "https://pdf.ravelrycache.com/thewoolmadeshop/1419428/Star_ornament.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483342&Signature=a8y2Y3HKNufr4bTJ4QsYz0HPzuU%3D&key_expires=1768483342&key=Hp0WcZDzGT2rZWiLbU1RUw",
+    "url": "https://pdf.ravelrycache.com/thewoolmadeshop/1419428/Star_ornament.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770442301&Signature=pFuE1Bfoj1lpF%2Bfh19YdWCwKwsg%3D&key_expires=1770442301&key=XkwfYV74LckirWK7wRUF3A",
     "size_bytes": 327063
   }
 }

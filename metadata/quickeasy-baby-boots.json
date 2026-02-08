@@ -1,39 +1,39 @@
 {
   "id": 831937,
-  "name": "Quick&Easy Baby Boots",
+  "name": "quick&easy baby boots",
   "permalink": "quickeasy-baby-boots",
   "url": "https://www.ravelry.com/patterns/library/quickeasy-baby-boots",
   "external_url": "https://www.youtube.com/watch?v=ohI8r2PrywY&t=19s",
-  "designer_name": "Teodora Agboola",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "teodora agboola",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Cashmerino Aran",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 50.0
     },
     {
-      "fiber": "Super Fine Merino Aran",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 38.8
     },
     {
-      "fiber": "Wool of the Andes Sport",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 8.2
     },
     {
-      "fiber": "Wool of the Andes Worsted",
-      "pct": null
+      "fiber": "Cashmere goat (Cashmere)",
+      "pct": 3.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Seamed",
-    "Short rows",
-    "Written"
+    "bottom-up",
+    "seamed",
+    "short rows",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -41,11 +41,12 @@
   ],
   "published": "2018/05/01",
   "sizes_available": "new born ",
-  "rating_average": 4.716981132075472,
-  "rating_count": 106,
-  "difficulty_average": 2.1649484536082473,
-  "favorites_count": 4544,
-  "projects_count": 468,
+  "rating_average": 4.719626168224299,
+  "rating_count": 107,
+  "difficulty_average": 2.1530612244897958,
+  "favorites_count": 4587,
+  "projects_count": 472,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/64050/459911"
+  "download_url": "http://www.ravelry.com/dls/64050/459911",
+  "notes": "this is a simple pattern for baby boots/socks, i’ve managed to knit 1 in 30min. instructions are down below, row by row and i also have a video tutorial "
 }

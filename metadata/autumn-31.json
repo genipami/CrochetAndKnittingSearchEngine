@@ -1,27 +1,27 @@
 {
   "id": 1109193,
-  "name": "Autumn",
+  "name": "autumn",
   "permalink": "autumn-31",
   "url": "https://www.ravelry.com/patterns/library/autumn-31",
   "external_url": "",
-  "designer_name": "Nazilia Zemdikhanova",
-  "project_type": "Pullover",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "nazilia zemdikhanova",
+  "project_type": "pullover",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Álafosslopi",
-      "pct": null
+      "fiber": "Icelandic (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Charted",
-    "Stranded colorwork",
-    "Written"
+    "bottom-up",
+    "charted",
+    "stranded colorwork",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -29,12 +29,13 @@
     6.0
   ],
   "published": "2021/01/01",
-  "sizes_available": "XS (S, M , L , XL, XXL) - ",
-  "rating_average": 4.483516483516484,
-  "rating_count": 91,
-  "difficulty_average": 4.345238095238095,
-  "favorites_count": 12097,
-  "projects_count": 319,
+  "sizes_available": "xs (s, m , l , xl, xxl) - ",
+  "rating_average": 4.478260869565218,
+  "rating_count": 92,
+  "difficulty_average": 4.329411764705882,
+  "favorites_count": 12219,
+  "projects_count": 321,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/86858/672749"
+  "download_url": "http://www.ravelry.com/dls/86858/672749",
+  "notes": "autumn sweater is perfect for those who´ve got some knitting skills but worry about tackling a larger project. icelandic-style sweaters are an excellent starting point! with helpful video tutorials and this free pattern, you´ll expand your knitting horizons, pick up new techniques, and feel more self-assured about tackling sweaters. moreover, using large needles (6.0mm) means you´ll see your progress in no time! \r\n\r\nthere are video tutorials to supplement written instruction:\r\npart 1: https://youtu.be/0ss8vxlnqly\r\npart 2: https://youtu.be/trucf3mztgg\r\npart 3: https://youtu.be/bgnlk1ssdek\r\n\r\nsizes: xs (s, m, l, xl, xxl):\r\n\r\nbust circumference:\r\n97 (102, 106, 111, 115, 120) cm\r\n38.2 (40.1, 41.7, 43.7, 45.3, 47.2) inches\r\n\r\n"
 }

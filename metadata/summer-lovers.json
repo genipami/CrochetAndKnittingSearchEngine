@@ -1,44 +1,45 @@
 {
   "id": 7342987,
-  "name": "Summer Lovers",
+  "name": "summer lovers",
   "permalink": "summer-lovers",
   "url": "https://www.ravelry.com/patterns/library/summer-lovers",
   "external_url": "https://biscotte.org/SummerLovers",
-  "designer_name": "Andrea Yetman",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "andrea yetman",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Bis-Sock",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 81.7
     },
     {
-      "fiber": "Super Sock",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 18.3
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "lace",
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Lace",
-    "Written"
+    "lace",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.5
   ],
   "published": "2024/05/01",
-  "sizes_available": "Adult Small (Medium, Large)",
+  "sizes_available": "adult small (medium, large)",
   "rating_average": 4.625,
   "rating_count": 16,
   "difficulty_average": 3.1538461538461537,
-  "favorites_count": 569,
-  "projects_count": 64,
+  "favorites_count": 574,
+  "projects_count": 65,
   "free_ravelry_download": false,
-  "download_url": "https://biscotte.org/SummerLovers"
+  "download_url": "https://biscotte.org/SummerLovers",
+  "notes": "the inspiration for the summer lovers socks came from the beautiful color of the yarn. as soon as i saw this yarn, i knew it would look stunning in a simple lace design. the lightly speckled yarn showcases the pattern beautifully.\r\nstaying true to the socks that i enjoy knitting, i always choose easy-to-memorize patterns that allow me to take them on the go. i hope you enjoy making these socks as much as i did!\r\n\r\n**yarn**\r\ncollection louise robert - super sock [75% mérinos sw, 25% nylon; 400 m par 100 g] - 1 écheveau - présenté en the kiss\r\nou\r\ncollection patricknits - bis-sock [85% mérinos sw, 15% nylon; 400 m par 100 g] - 1 écheveau\r\nou\r\nles laines biscotte - bis-sock [85% mérinos sw, 15% nylon; 400 m par 100 g] - 1 écheveau\r\n\r\n**needles and notions**\r\naiguille circulaire de 2,5 mm (us1,5) - 80 cm (32”) pour tricoter magic loop. ou la taille requise pour obtenir l'échantillon\r\naiguille à laine\r\nmarqueurs de mailles\r\n\r\n**sizes**\r\nadulte petit (moyen, grand). longueur du pied : ajustable.\r\n\r\n**échantillon**  \r\n36 m = 10 cm – 4 pouces"
 }

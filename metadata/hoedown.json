@@ -1,23 +1,27 @@
 {
   "id": 7454983,
-  "name": "Hoedown",
+  "name": "hoedown",
   "permalink": "hoedown",
   "url": "https://www.ravelry.com/patterns/library/hoedown",
   "external_url": "",
-  "designer_name": "Heidi Nick",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "heidi nick",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Merino Nylon Fingering 80/20",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [],
@@ -26,11 +30,12 @@
   ],
   "published": "2025/09/01",
   "sizes_available": "small, medium, large",
-  "rating_average": 4.833333333333333,
-  "rating_count": 24,
-  "difficulty_average": 3.8333333333333335,
-  "favorites_count": 216,
-  "projects_count": 116,
+  "rating_average": 4.84,
+  "rating_count": 25,
+  "difficulty_average": 3.88,
+  "favorites_count": 223,
+  "projects_count": 114,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/35392/1019253"
+  "download_url": "http://www.ravelry.com/dls/35392/1019253",
+  "notes": "sock knitters anonymous mystery sock september 2025.  \r\n\r\nfour clues will be released on september 1, 8, 15, and 22.  \r\n\r\n*inspired by the music of aaron copland*\r\n\r\n+[media title][1]\r\n\r\n\r\n  [1]: https://www.youtube.com/watch?v=un0bcd3kb3i\r\n\r\n***use coupon code hoedown and get 50% off any pattern purchase through the end of september***"
 }

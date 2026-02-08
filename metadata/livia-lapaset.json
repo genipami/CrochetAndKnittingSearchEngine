@@ -1,23 +1,27 @@
 {
   "id": 7490465,
-  "name": "Livia lapaset",
+  "name": "livia lapaset",
   "permalink": "livia-lapaset",
   "url": "https://www.ravelry.com/patterns/library/livia-lapaset",
   "external_url": "",
-  "designer_name": "Knit sipi",
-  "project_type": "Mittens/Gloves",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "knit sipi",
+  "project_type": "mittens/gloves",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "7 Veljestä",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "Cables",
-    "In the round"
+    "cables",
+    "in the round"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -28,14 +32,15 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 62,
-  "projects_count": 4,
+  "favorites_count": 78,
+  "projects_count": 6,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/109699/1047537",
+  "notes": "livia-lapaset on suunniteltu naisen käteen sopiviksi, mutta kokoa voi muuttaa helposti esimerkiksi vähentämällä tai lisäämällä silmukoita kaavion reunoilta. voit itse määritellä haluamasi pituuden lapasille.\r\n\r\nlivia-lapasten ohje kuulu neulekori 2026 -yhteisneulontaan, jota toteutetaan yhdessä emilian (@emilia_neuloo) kanssa! joka kuukausi julkaistaan tähän kuuluva ohje joko minun tai emilian [emilianeulooo](/people/emilianeulooo) ravelryssä. voit laittaa minulle viestiä, mikäli tarvitset lapasten tekemisessä neuvoa. valloittavia neulehetkiä lapasten parissa! <3 \r\n\r\nolisi ihanaa nähdä mitä luot ohjeellani! jos jaat kuvia valmiista lapasistasi tai neuleprosessista instagramissa, merkitse minut (@knitsipi) sekä emilia (@emilia_neuloo) ja käytä hashtageja #livialapset #neulekori, niin voimme ihailla töitäsi.",
   "pdf": {
     "filename": "7490465.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7490465.pdf",
-    "url": "https://pdf.ravelrycache.com/Knitsipi/2112889/LIVIA-LAPASET_-_NEULEOHJE.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481493&Signature=psEITo4g6shzfzPROwxkUq%2BBXAk%3D&key_expires=1768481493&key=maITODma9WlKfQNgcamotg",
+    "url": "https://pdf.ravelrycache.com/Knitsipi/2112889/LIVIA-LAPASET_-_NEULEOHJE.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770432478&Signature=RHhKTA3gFhVV7MMlvAsLXkJiwUk%3D&key_expires=1770432478&key=PhogKsapVSrIe8NwnBS-vA",
     "size_bytes": 1799122
   }
 }

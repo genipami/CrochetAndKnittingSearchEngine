@@ -4,23 +4,27 @@
   "permalink": "noisette-shawlette",
   "url": "https://www.ravelry.com/patterns/library/noisette-shawlette",
   "external_url": "",
-  "designer_name": "Trust the mojo",
-  "project_type": "Scarf",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Sport",
+  "designer_name": "trust the mojo",
+  "project_type": "scarf",
+  "fiber_art": "knitting",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Silky Lace",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "lace",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Lace"
+    "lace"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -29,10 +33,11 @@
   "published": "2025/09/01",
   "sizes_available": "one size",
   "rating_average": 5.0,
-  "rating_count": 6,
-  "difficulty_average": 3.6,
-  "favorites_count": 1539,
-  "projects_count": 33,
+  "rating_count": 7,
+  "difficulty_average": 3.5,
+  "favorites_count": 1646,
+  "projects_count": 38,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/70238/1027574"
+  "download_url": "http://www.ravelry.com/dls/70238/1027574",
+  "notes": "knit the noisette shawlette, a delicate accessory designed by trust the mojo with just one ball of concept silky lace.\r\nthis small scarf is worked from tip to tip, with integrated i-cord edges and a pattern that combines wavy textures and openwork reminiscent of tiny hazelnuts.\r\nan elegant design with bias-knit tips, perfect for wrapping gently around the neck or draping over the shoulders.\r\nenjoy knitting this stylish shawlette in your favourite shades of concept silky lace. noisette shawlette is the perfect handmade gift for this christmas!"
 }

@@ -1,21 +1,25 @@
 {
   "id": 7433676,
-  "name": "Pull Rose Slipover",
+  "name": "pull rose slipover",
   "permalink": "pull-rose-slipover",
   "url": "https://www.ravelry.com/patterns/library/pull-rose-slipover",
   "external_url": "https://www.youtube.com/watch?v=7Wo3vKKt66Q",
-  "designer_name": "Stéphanie L",
-  "project_type": "Vest",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "stéphanie l",
+  "project_type": "vest",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "DROPS Brushed Alpaca Silk",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 56.0
     },
     {
-      "fiber": "DROPS Flora",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 32.5
+    },
+    {
+      "fiber": "Bombyx / Cultivated / Mulberry (Silk)",
+      "pct": 11.5
     }
   ],
   "stitches_used": [],
@@ -26,12 +30,13 @@
     5.0
   ],
   "published": "2025/02/01",
-  "sizes_available": "S - XXL",
-  "rating_average": 5.0,
+  "sizes_available": "s - xxl",
+  "rating_average": 4.9,
   "rating_count": 10,
   "difficulty_average": 2.5,
-  "favorites_count": 296,
-  "projects_count": 34,
+  "favorites_count": 338,
+  "projects_count": 36,
   "free_ravelry_download": false,
-  "download_url": "https://www.youtube.com/watch?v=7Wo3vKKt66Q"
+  "download_url": "https://www.youtube.com/watch?v=7Wo3vKKt66Q",
+  "notes": ""
 }

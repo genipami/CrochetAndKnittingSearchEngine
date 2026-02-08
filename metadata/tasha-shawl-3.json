@@ -1,45 +1,46 @@
 {
   "id": 7493876,
-  "name": "Tasha Shawl",
+  "name": "tasha shawl",
   "permalink": "tasha-shawl-3",
   "url": "https://www.ravelry.com/patterns/library/tasha-shawl-3",
   "external_url": "",
-  "designer_name": "Caro in the City",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "caro in the city",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Woolstok Worsted",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Slip stitch (sl st)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "slip stitch (sl st)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Mosaic",
-    "Written"
+    "mosaic",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     5.0
   ],
   "published": "2026/01/01",
-  "sizes_available": "One size",
+  "sizes_available": "one size",
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 2549,
-  "projects_count": 12,
+  "favorites_count": 3125,
+  "projects_count": 19,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/63080/1049406",
+  "notes": "read about my knitting adventures on [substack][2].\r\n\r\n---------------------------------------------------------------------\r\n\r\nafter the whirlwind of the holidays, it’s time for peaceful, calm, meditative, in-the-moment knitting. when i think of intentional crafting, i think of tasha tudor, one of the most influential women in my life. she is my inspiration for the tasha shawl.\r\n\r\ncalming colors, rhythmic slip-stitch sections , restful stockinette, a classic, functional triangular shape, understated warmth... \r\n\r\nhere are the basic skills you will need to knit the tasha shawl:\r\n\r\nlong-tail cast on\r\nknit\r\npurl\r\nslip stitch\r\nbind off \r\nm1r and m1l increases\r\n(yo) yarn over\r\npurl through back loop\r\nweave in ends as you go\r\n\r\nmain color: four 50g skeins blue sky fibers woolstok, colorway 1312 drift wood\r\ncontrast color: one 50g skein blue sky fibers woolstok, colorway 1324 morning frost\r\n(50 g [1.76 oz] =  112 m [123 yds])\r\n\r\nblocked gauge: 20 sts/ 24 rows = 4 inches (10 cm) square in slip stitch and stockinette stitch on \r\n5.0 mm [us8] needles or needle size needed to obtain gauge\r\n\r\nwingspan: approximately \r\n178 cm [70\"]\r\ndepth: approximately  69 cm [27\"]\r\n\r\n\r\n  [1]: https://ko-fi.com/carointhecity\r\n  [2]: https://caroknitsinthecity.substack.com/",
   "pdf": {
     "filename": "7493876.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7493876.pdf",
-    "url": "https://pdf.ravelrycache.com/carointhecity/2117065/Tasha_Shawl__8_.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483521&Signature=PvUwjEw6UhePuRvTAYnY4qYuVXw%3D&key_expires=1768483521&key=sL8gILFRLUro-wVBL36PFQ",
+    "url": "https://pdf.ravelrycache.com/carointhecity/2117065/Tasha_Shawl__8_.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770443553&Signature=FmZEgfMkAk8kTBnlBdKFxyV%2BWKo%3D&key_expires=1770443553&key=A-grmGjInpHLpYxk0DmIvg",
     "size_bytes": 1556933
   }
 }

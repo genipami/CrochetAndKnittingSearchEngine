@@ -1,36 +1,37 @@
 {
   "id": 7291737,
-  "name": "Kids Hoodie",
+  "name": "kids hoodie",
   "permalink": "kids-hoodie-7",
   "url": "https://www.ravelry.com/patterns/library/kids-hoodie-7",
   "external_url": "https://hearthookhome.com/harvest-hoodie-child-sizes/",
-  "designer_name": "Ashlea Schumaker",
-  "project_type": "Child",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "ashlea schumaker",
+  "project_type": "child",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Brava Worsted",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "Raglan",
-    "Top-down",
-    "Written"
+    "raglan",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [
     6.0
   ],
   "needle_sizes_mm": [],
   "published": "2023/11/01",
-  "sizes_available": "9/12M, 18M, 2/3T, 4/5T, 6/8Y, 10/12Y, 12/14Y",
+  "sizes_available": "9/12m, 18m, 2/3t, 4/5t, 6/8y, 10/12y, 12/14y",
   "rating_average": 4.666666666666667,
   "rating_count": 3,
   "difficulty_average": 3.3333333333333335,
-  "favorites_count": 1043,
-  "projects_count": 48,
+  "favorites_count": 1086,
+  "projects_count": 50,
   "free_ravelry_download": false,
-  "download_url": "http://www.ravelry.com/purchase/ashlea-konecny-designs/891272"
+  "download_url": "http://www.ravelry.com/purchase/ashlea-konecny-designs/891272",
+  "notes": "this is an easy, fun pattern for a top-down raglan style hoodie with pocket. of course as always, the hood and the pocket are optional.\r\n\r\nsizes range from 9/12m to 12/14youth.\r\n\r\nyou will need worsted weight yarn and a j/6 mm hook or size needed to obtain gauge."
 }

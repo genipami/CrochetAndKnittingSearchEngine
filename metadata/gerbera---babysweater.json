@@ -1,30 +1,38 @@
 {
   "id": 1369198,
-  "name": "Gerbera - babysweater",
+  "name": "gerbera - babysweater",
   "permalink": "gerbera---babysweater",
   "url": "https://www.ravelry.com/patterns/library/gerbera---babysweater",
   "external_url": "https://www.jarbo.se/gerbera-babytroja-92904",
-  "designer_name": "Agnes Brandels",
-  "project_type": "Baby",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "agnes brandels",
+  "project_type": "baby",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "No 3 - Yak Blend with Silk and Alpaca",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 70.0
+    },
+    {
+      "fiber": "Bombyx / Cultivated / Mulberry (Silk)",
+      "pct": 20.0
+    },
+    {
+      "fiber": "Yak (Yak)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Seamless",
-    "Short rows",
-    "Stranded colorwork",
-    "Top-down",
-    "Written"
+    "charted",
+    "in the round",
+    "seamless",
+    "short rows",
+    "stranded colorwork",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -33,11 +41,12 @@
   ],
   "published": "2023/10/01",
   "sizes_available": "0-2 (2-6) 6-12 (12-24) mon 2-4 years",
-  "rating_average": 4.64,
-  "rating_count": 25,
-  "difficulty_average": 3.52,
-  "favorites_count": 3888,
-  "projects_count": 150,
+  "rating_average": 4.666666666666667,
+  "rating_count": 27,
+  "difficulty_average": 3.5185185185185186,
+  "favorites_count": 4003,
+  "projects_count": 157,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/82366/881902"
+  "download_url": "http://www.ravelry.com/dls/82366/881902",
+  "notes": "***we are happy to be able to share our patterns with you for free! unfortunately, we are not able to answer dm’s here on ravelry.\r\nhowever, we hope you will like the pattern and will enjoy seeing your project come to life!***\r\n\r\n**inspiration and free patterns**\r\nfollow järbo on [instagram][1]\r\n\r\n**reseller map**\r\n[jarbo.se][2] - brand website, in swedish\r\n[find a reseller][3] - nordic region, in swedish\r\n\r\n**our official online stores**\r\n[eddna.se][4], [eddna.no][5], [eddna.de][6], [eddna.at][7], [eddna.nl][8], [eddna.be][9]\r\n\r\njärbo is a swedish brand established in 1896. we offer nordic design, selected yarns and accessories in stores and online.\r\n\r\n  [1]: https://www.instagram.com/jarbogarn/\r\n  [2]: https://www.jarbo.se/\r\n  [3]: https://www.jarbo.se/hitta-butik\r\n  [4]: https://www.eddna.se/\r\n  [5]: https://www.eddna.no/\r\n  [6]: https://www.eddna.de/\r\n  [7]: https://www.eddna.at/\r\n  [8]: https://www.eddna.nl/\r\n  [9]: https://www.eddna.be/\r\n"
 }

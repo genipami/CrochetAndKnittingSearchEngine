@@ -1,28 +1,28 @@
 {
   "id": 648668,
-  "name": "Mtoto Overalls",
+  "name": "mtoto overalls",
   "permalink": "mtoto-overalls",
   "url": "https://www.ravelry.com/patterns/library/mtoto-overalls",
   "external_url": "",
-  "designer_name": "Sanni Koivumäki",
-  "project_type": "Baby",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Sport",
+  "designer_name": "sanni koivumäki",
+  "project_type": "baby",
+  "fiber_art": "knitting",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "DROPS Baby Merino",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless",
-    "Short rows",
-    "Top-down",
-    "Written"
+    "in the round",
+    "seamless",
+    "short rows",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -33,8 +33,9 @@
   "rating_average": 4.5625,
   "rating_count": 80,
   "difficulty_average": 2.8354430379746836,
-  "favorites_count": 3707,
-  "projects_count": 468,
+  "favorites_count": 3730,
+  "projects_count": 470,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/55725/322154"
+  "download_url": "http://www.ravelry.com/dls/55725/322154",
+  "notes": "mtoto overalls in danish: https://strikkeglad.dk/47715/mtoto-overalls/\r\n\r\nsimple loose-fit baby overalls make the best present for a newborn! sizes available from newborn (56cm) to 12 months (80cm). \r\n\r\n**3/4/2016**: english pattern uploaded & finished chest measurements added to finnish pdf! please let me know if you find any mistakes or have any problems with the pattern.\r\n\r\n**3/14/2016**: a few errors corrected in both english & finnish pdf's!\r\n"
 }

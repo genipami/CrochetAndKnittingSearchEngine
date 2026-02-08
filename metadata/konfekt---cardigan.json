@@ -1,30 +1,30 @@
 {
   "id": 7382564,
-  "name": "Konfekt - cardigan",
+  "name": "konfekt - cardigan",
   "permalink": "konfekt---cardigan",
   "url": "https://www.ravelry.com/patterns/library/konfekt---cardigan",
   "external_url": "https://www.svartafaret.se/pretty-x-mas-cardigan-candy-cane-392881",
-  "designer_name": "Agnes Brandels",
-  "project_type": "Child",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "agnes brandels",
+  "project_type": "child",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Merino",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Charted",
-    "In the round",
-    "Seamless",
-    "Stranded colorwork",
-    "Written"
+    "bottom-up",
+    "charted",
+    "in the round",
+    "seamless",
+    "stranded colorwork",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -32,12 +32,13 @@
     4.0
   ],
   "published": "2024/11/01",
-  "sizes_available": "98/104 (110/116) 122/128 (134/140) 146/152 cl XS (S) M (L) XL (2XL) 3XL (4XL)",
+  "sizes_available": "98/104 (110/116) 122/128 (134/140) 146/152 cl xs (s) m (l) xl (2xl) 3xl (4xl)",
   "rating_average": 4.833333333333333,
   "rating_count": 6,
   "difficulty_average": 5.0,
-  "favorites_count": 542,
+  "favorites_count": 564,
   "projects_count": 39,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/87501/962863"
+  "download_url": "http://www.ravelry.com/dls/87501/962863",
+  "notes": "***we are happy to be able to share our patterns with you for free! unfortunately, we are not able to answer dm’s here on ravelry.\r\nhowever, we hope you will like the pattern and will enjoy seeing your project come to life!***\r\n\r\n**inspiration and free patterns**\r\nfollow svarta fåret on [instagram][1]\r\n\r\n**reseller map**\r\n[svartafaret.se][2] - brand website, in swedish\r\n[find a reseller][3] - nordic region, in swedish\r\n\r\n**our official online stores**\r\n[eddna.se][4], [eddna.no][5], [eddna.de][6], [eddna.at][7], [eddna.nl][8], [eddna.be][9]\r\n\r\n  [1]: https://www.instagram.com/svartafaretgarn/\r\n  [2]: https://www.svartafaret.se/\r\n  [3]: https://www.svartafaret.se/hitta-butik\r\n  [4]: https://www.eddna.se/\r\n  [5]: https://www.eddna.no/\r\n  [6]: https://www.eddna.de/\r\n  [7]: https://www.eddna.at/\r\n  [8]: https://www.eddna.nl/\r\n  [9]: https://www.eddna.be/\r\n"
 }

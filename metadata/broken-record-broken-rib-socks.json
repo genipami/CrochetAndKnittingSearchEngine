@@ -1,47 +1,52 @@
 {
   "id": 1182999,
-  "name": "Broken Record Broken Rib Socks",
+  "name": "broken record broken rib socks",
   "permalink": "broken-record-broken-rib-socks",
   "url": "https://www.ravelry.com/patterns/library/broken-record-broken-rib-socks",
   "external_url": "https://payhip.com/b/CYqPS",
-  "designer_name": "Alex Parker Mooney",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "alex parker mooney",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Classic Rock Sock",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Broken rib",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "broken rib",
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Kitchener stitch",
-    "Written"
+    "in the round",
+    "kitchener stitch",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.25
   ],
   "published": "2021/10/01",
-  "sizes_available": "S, M, L",
-  "rating_average": 4.862745098039215,
-  "rating_count": 153,
-  "difficulty_average": 2.335570469798658,
-  "favorites_count": 5782,
-  "projects_count": 909,
+  "sizes_available": "s, m, l",
+  "rating_average": 4.85625,
+  "rating_count": 160,
+  "difficulty_average": 2.3141025641025643,
+  "favorites_count": 5974,
+  "projects_count": 932,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/90001/730741",
+  "notes": "these socks are dedicated to rachael of wool & vinyl. rachael makes the most stunning yarns inspired by music; from old folk to grunge to rock, her colorways have you covered. she primarily works in tonals and wild speckles in bright, saturated colors that just scream to be the stars of their projects. i have knit up so many of her yarns into this same sock pattern, which i've knit so often that i feel like a broken record!\r\n\r\nthese are basic, beginner-friendly socks. they are worked cuff-down, with a heel flap and gusset construction and a wedge toe. i hope that this pattern is approachable for anyone who aspires to knit socks out of those beautiful, irresistible single skeins. these might be just the ticket.\r\n\r\nsizes:\r\ns (m, l)\r\nfits approximate foot circumference of 7 (8, 9)” / 17.5 (20, 22.5)cm\r\n\r\ngauge:\r\n32 sts x 48 rounds in stockinette stitch over 4” x 4” / 10cm x 10cm\r\n\r\nneedles:\r\nus 1/2.25mm needles\r\n\r\nyarn:\r\nwool & vinyl classic rock sock (80% merino wool, 20% nylon) in any colorway (shown in \"helena\") - 400yds/366m per 100g skein\r\nor 1 skein of comparable fingering weight\r\nyarn\r\n\r\n*this pattern has been professionally tech edited.*",
   "pdf": {
     "filename": "1182999.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1182999.pdf",
-    "url": "https://pdf.ravelrycache.com/leftsockbestsock/1391096/Broken_Record_Broken_Rib_Socks_-_v2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479246&Signature=%2BQ8aIoYOci6zeBp3uz%2B9MD8uIOY%3D&key_expires=1768479246&key=8vFQbLUCL8vzSZCgchZAhA",
+    "url": "https://pdf.ravelrycache.com/leftsockbestsock/1391096/Broken_Record_Broken_Rib_Socks_-_v2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770419829&Signature=QKIBh5q38hR5PchcVkDvPc0BDYo%3D&key_expires=1770419829&key=pGT59j7qVKqPATmeOMQ_cQ",
     "size_bytes": 6896574
   }
 }

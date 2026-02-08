@@ -1,27 +1,31 @@
 {
   "id": 614143,
-  "name": "Simple Shawl",
+  "name": "simple shawl",
   "permalink": "simple-shawl-8",
   "url": "https://www.ravelry.com/patterns/library/simple-shawl-8",
   "external_url": "",
-  "designer_name": "Jane Hunter",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "jane hunter",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Oasis Grande",
-      "pct": null
+      "fiber": "Silk (Silk)",
+      "pct": 50.0
+    },
+    {
+      "fiber": "Camel (Camel)",
+      "pct": 50.0
     }
   ],
   "stitches_used": [
-    "Eyelet lace",
-    "Garter stitch",
-    "Treble crochet (tr)"
+    "eyelet lace",
+    "garter stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Top-down",
-    "Written"
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -29,18 +33,19 @@
     4.0
   ],
   "published": null,
-  "sizes_available": "Approx 180 cms wide and 38cms deep at deepest point",
-  "rating_average": 4.72,
-  "rating_count": 300,
-  "difficulty_average": 2.027586206896552,
-  "favorites_count": 20503,
-  "projects_count": 1212,
+  "sizes_available": "approx 180 cms wide and 38cms deep at deepest point",
+  "rating_average": 4.723684210526316,
+  "rating_count": 304,
+  "difficulty_average": 2.0204778156996586,
+  "favorites_count": 20640,
+  "projects_count": 1222,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/47374/296619",
+  "notes": "i designed this simple shawl using my most favourite aspects of the many small shawls i have made over the years - garter stitch, eyelets and picots.\r\n\r\nthe pattern is designed to use a single skein of 4 ply/fingering weight sock weight yarn and uses approximately 400 metres of yarn.  (i used skein queen oasis grande and had 10g of yarn remaining after the cast off).\r\n\r\nthe eyelet section of the shawl is optional. it is knit as part of the main body of the shawl, almost at the end before the picot cast off.\r\n\r\nthe finished shawl should have a loose drape, so choose a needle size to give this effect with the yarn you are planning to use.  there is no gauge for the shawl but if your stitches are too tight then the finished shawl may feel a little stiff.\r\n\r\ni hope you enjoy the pattern.\r\n\r\nhappy knitting!",
   "pdf": {
     "filename": "614143.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\614143.pdf",
-    "url": "https://pdf.ravelrycache.com/janehunter8/965817/Simple_Shawl_Updated_Version_2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482999&Signature=olm%2B56IiP5KQu%2Bf8mcpJ4CmzF%2BY%3D&key_expires=1768482999&key=vjMuAqokI1IwIijc2U1R5A",
+    "url": "https://pdf.ravelrycache.com/janehunter8/965817/Simple_Shawl_Updated_Version_2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770440653&Signature=Jjv9Qf2MFBNlzFW7PMW94eM%2BuwA%3D&key_expires=1770440653&key=htTRSfy6dCBSzXYfC6BmKw",
     "size_bytes": 658769
   }
 }

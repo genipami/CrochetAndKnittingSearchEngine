@@ -1,36 +1,40 @@
 {
   "id": 1169318,
-  "name": "Nordstrand",
+  "name": "nordstrand",
   "permalink": "nordstrand",
   "url": "https://www.ravelry.com/patterns/library/nordstrand",
   "external_url": "http://filcolana.dk/da/node/1810",
-  "designer_name": "Hanne Rimmen",
-  "project_type": "Pullover",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "hanne rimmen",
+  "project_type": "pullover",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Peruvian",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 50.0
     },
     {
-      "fiber": "Tilia",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 35.0
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 15.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Seamless",
-    "Short rows",
-    "Stranded colorwork",
-    "Top-down",
-    "Written"
+    "charted",
+    "in the round",
+    "seamless",
+    "short rows",
+    "stranded colorwork",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -38,12 +42,13 @@
     4.5
   ],
   "published": "2021/08/01",
-  "sizes_available": "S (M) L (XL) 2XL (3XL)",
-  "rating_average": 4.790322580645161,
-  "rating_count": 62,
+  "sizes_available": "s (m) l (xl) 2xl (3xl)",
+  "rating_average": 4.73015873015873,
+  "rating_count": 63,
   "difficulty_average": 3.189655172413793,
-  "favorites_count": 7056,
-  "projects_count": 228,
+  "favorites_count": 7125,
+  "projects_count": 229,
   "free_ravelry_download": false,
-  "download_url": "http://filcolana.dk/da/node/1810"
+  "download_url": "http://filcolana.dk/da/node/1810",
+  "notes": "this soft and warm sweater with the characteristic rounded nordic yoke is inspired by beach life and its great contrasts; storm and silence, rows of lyme grass as far as the eye can see, and the eternal sea.\r\n\r\n- - -\r\n\r\ndieser weiche und warme pullover mit seiner charakteristischen, nordischen rundpasse ist vom leben am strand und seinen starken kontrasten inspiriert. \r\nsturm und stille, strandhafer soweit das auge reicht und das ewige meer. \r\n\r\n- - -\r\n\r\ndenne bløde og varme sweater med det karakteristiske nordiske runde bærestykke er inspireret af livet ved strande med de store kontraster. \r\nstorm og stilhed, rækker af marehalm så langt øjet kan se og det evige hav.\r\n"
 }

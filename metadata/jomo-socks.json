@@ -1,27 +1,31 @@
 {
   "id": 1213903,
-  "name": "JoMo Socks",
+  "name": "jomo socks",
   "permalink": "jomo-socks",
   "url": "https://www.ravelry.com/patterns/library/jomo-socks",
   "external_url": "",
-  "designer_name": "Rachel Fletcher",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "rachel fletcher",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "High Twist Superwash",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "cable",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Cables",
-    "Written"
+    "cables",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -32,14 +36,15 @@
   "rating_average": 4.739130434782608,
   "rating_count": 46,
   "difficulty_average": 2.8863636363636362,
-  "favorites_count": 1386,
-  "projects_count": 205,
+  "favorites_count": 1397,
+  "projects_count": 207,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/81984/755662",
+  "notes": "**jomo socks**\r\nthere are lots of mojo socks on ravelry and this pattern is the perfect sock to get your knitting mojo back. i also wanted to call these the mojo socks because of two very special people in my life, my twin sister, jo, my best friend, and partner in twinset & purl and my lovely mum, whose name was mo but who is no longer with us. therefore, to make them a little bit different, these are the jomo socks!\r\n\r\nthis pattern will work for any fingering weight yarn but looks especially lovely in self striping sock yarn.\r\n\r\n**pattern information**\r\n**sizes:** 1 (adult m, 64 sts)/ 2 (adult l, 72 sts)\r\nto fit approximately 8-inch (20 cm)/9-inch (22.5 cm) foot circumference.\t\t\t\r\n**yarn:** the dotty wool co high twist sw merino sock (80% sw merino wool/20% nylon) 100g/365m (399yds) in the sunset colour way. \r\n**needles:** 2.5 mm / us 1.5 (or size needed to get gauge).\r\n**gauge:** 8 sts & 12 rounds = 1 inch / 2.5 cm in stocking stitch\r\n**notions:** stitch markers and cable needle",
   "pdf": {
     "filename": "1213903.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1213903.pdf",
-    "url": "https://pdf.ravelrycache.com/Twinsetandpurl/1445235/JoMo_Socks.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481089&Signature=i0voSF1cbQie1NopIVtmt7hCv7I%3D&key_expires=1768481089&key=h_wmO3NoYWHDr4emdAUgAA",
+    "url": "https://pdf.ravelrycache.com/Twinsetandpurl/1445235/JoMo_Socks.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770430315&Signature=SF36rX692CQ5Pfas62oiYuBw2mE%3D&key_expires=1770430315&key=XhRsirvheRkw_yr4xUKf9A",
     "size_bytes": 646485
   }
 }

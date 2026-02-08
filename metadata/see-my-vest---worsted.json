@@ -1,39 +1,35 @@
 {
   "id": 7371051,
-  "name": "See My Vest - Worsted",
+  "name": "see my vest - worsted",
   "permalink": "see-my-vest---worsted",
   "url": "https://www.ravelry.com/patterns/library/see-my-vest---worsted",
   "external_url": "",
-  "designer_name": "Emily Bolduan",
-  "project_type": "Vest",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "emily bolduan",
+  "project_type": "vest",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Dooish in the Oil",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 66.7
     },
     {
-      "fiber": "Heirloom Merino Fleck 8ply",
-      "pct": null
-    },
-    {
-      "fiber": "Woolly 8ply",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 33.3
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "lace",
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Lace",
-    "Seamless",
-    "Top-down",
-    "Written"
+    "in the round",
+    "lace",
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -41,18 +37,19 @@
     4.5
   ],
   "published": "2024/09/01",
-  "sizes_available": "XS (S, M, L, XL, 2XL, 3XL, 4XL, 5XL)",
-  "rating_average": 4.790909090909091,
-  "rating_count": 110,
-  "difficulty_average": 2.4622641509433962,
-  "favorites_count": 7952,
-  "projects_count": 511,
+  "sizes_available": "xs (s, m, l, xl, 2xl, 3xl, 4xl, 5xl)",
+  "rating_average": 4.807017543859649,
+  "rating_count": 114,
+  "difficulty_average": 2.4727272727272727,
+  "favorites_count": 8665,
+  "projects_count": 560,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/63586/953099",
+  "notes": "this vest is designed to be super easy, and fun to knit, making it a great project for beginner garment knitters. with its relaxed and comfortable fit you will find yourself reaching for this vest often, and its simplicity makes it a fantastic wardrobe staple.\r\n\r\nthe pattern includes detailed instructions with some handy extra tips for newbies. starting at the back shoulders, it is knit top-down on circular needles, which is a great method to check the fit as you go, and is very easy to add or subtract length. there are also some handy hints for picking up stitches for the neck and armbands, which you can apply any time you need to pick stitches up in future!\r\n\r\n**sizes: xs (s, m,** l, xl, 2xl, **3xl, 4xl, 5xl)**\r\n\r\n**to fit bust:** \r\n**71-76 (81-86, 91-96,** 101-106, 111-117, 122-127, **132-137, 142-147, 152-158)**cm\r\n\r\n**28-30 (32-34, 36-38,** 40-42, 44-46, 48-50, **52-54, 56-58, 60-62)** inches\r\n\r\n**finished bust:** \r\n**76 (86, 96,** 106, 116, 126, **136, 146, 156)** cm\r\n**30 (34, 38,** 41.5, 45.5, 49.5, **53.5, 57.5, 61.5)** inches\r\ndesigned to fit with between 0-3cm / 0-1.5” of positive ease depending on preferred fit\r\n\r\n**yarn:** 8ply to light 10ply / dk to worsted weight yarn.\r\n\r\nwe used woolly 8ply (100m/50g) for our main sample.\r\nanother gorgeous option is to use a 4ply / fingering weight yarn held with 1 strand of lace mohair.\r\n\r\n**quantity:** approximately **352 (414, 488,** 539, 613, 690, **745, 850, 910)** metres\r\n\r\nthe fit of our sample is fairly cropped, but you can easily adjust the length.\r\nif adding length to body, you will need approximately **20 (22, 25,** 27, 30, 32, **35, 37, 40)** extra metres of yarn for every 2.5cm of length added.\r\n\r\n**needles:** \r\n**body:** 4.50mm 60-100cm circular needles depending on pattern size.\r\n**edging:** 3.50mm 40cm (optional), 60cm, and 80-100cm circular needles.\r\nif you don’t mind the magic loop technique, you can just use the longer needles.\r\n\r\nadjust needle size as necessary to match pattern gauge.\r\n\r\n**gauge:** 18 sts x 25 rows to 10cm in stocking stitch on larger needles\r\n\r\n**extras:** 1-2 stitch markers; a stitch holder, spare circular needles or scrap yarn for holding stitches\r\n\r\n**sample 1:** is a size s, and was knit in woolly 8ply. we added stripes by knitting 10 rows of each colour. we used the following approximate quantities of each colour:\r\n- 1.5 balls in peachy keen\r\n- 1.5 balls in quackers\r\n- 2.5 balls in punkin\r\n\r\n**sample 2:** is a size m, and was knit in heirloom merino fleck 8ply in col 6552 linen.",
   "pdf": {
     "filename": "7371051.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7371051.pdf",
-    "url": "https://pdf.ravelrycache.com/hellomakermaker/1890960/Maker_Maker_See_My_Vest_Worsted_-_V1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482925&Signature=VJxJZj7xq6OlDn%2B7wJl7H5pC53U%3D&key_expires=1768482925&key=O76_ooRRi3J7sbCOBixoAA",
+    "url": "https://pdf.ravelrycache.com/hellomakermaker/1890960/Maker_Maker_See_My_Vest_Worsted_-_V1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770439905&Signature=EJ99CP2GVpw%2FqZfehvolocl6fIk%3D&key_expires=1770439905&key=PSPSX85_04_mxJHX6ZTetQ",
     "size_bytes": 3291818
   }
 }

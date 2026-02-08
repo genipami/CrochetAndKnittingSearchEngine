@@ -1,29 +1,33 @@
 {
   "id": 7294407,
-  "name": "Classic Santa Hat",
+  "name": "classic santa hat",
   "permalink": "classic-santa-hat-4",
   "url": "https://www.ravelry.com/patterns/library/classic-santa-hat-4",
   "external_url": "https://richtexturescrochet.com/classic-santa-hat-crochet-pattern/",
-  "designer_name": "Rich Textures Crochet",
-  "project_type": "Child",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "rich textures crochet",
+  "project_type": "child",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Wool Ease Solids, Heathers, Twists",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Single crochet (sc)",
-    "Slip stitch (sl st)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "single crochet (sc)",
+    "slip stitch (sl st)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     5.0
@@ -34,8 +38,9 @@
   "rating_average": 5.0,
   "rating_count": 3,
   "difficulty_average": 2.3333333333333335,
-  "favorites_count": 303,
-  "projects_count": 15,
+  "favorites_count": 315,
+  "projects_count": 17,
   "free_ravelry_download": false,
-  "download_url": "http://www.ravelry.com/purchase/rich-textures-crochet-designs/893431"
+  "download_url": "http://www.ravelry.com/purchase/rich-textures-crochet-designs/893431",
+  "notes": "the classic santa hat crochet pattern emits an old christmas feel with it's easy and relaxed stitches and classic knit looking brim! my classic santa hat one that features my favourite brim up technique and slip stitch crochet brim.  i have also worked the brim so that it can be folded up to give a more cozy look.  it is a wonderful hat to wear.  i have sized it for an adult head (gender neutral!) but as it has quite a bit of stretch in the brim, my children are enjoying wearing it as well!\r\n\r\na free written copy of this crochet pattern can be found on my ad supported website: https://richtexturescrochet.com/classic-santa-hat-crochet-pattern/\r\n\r\na free video tutorial for this pattern can be found on my youtube channel: https://www.youtube.com/c/richtexturescrochet/\r\n\r\nskill level: intermediate\r\n\r\ngauge: 16 sts x 8 rows of dc in blo = 4 inches\r\n\r\nfinished size:\t 9 x 13 inches laid flat, excluding pompom  \r\n\r\nyarn: wool-ease® by lion brand® yarn (80% acrylic; 20% wool; 197 yds/180 m; 3oz/85 g; (4) medium/worsted weight): 1 ball of tawny port (colour b), 1 ball of fisherman (colour a).\r\n\r\nhook: size h/8 (5 mm) hook. adjust hook size if necessary to obtain correct gauge\r\n\r\noptional: pompom to attach to the top\r\n"
 }

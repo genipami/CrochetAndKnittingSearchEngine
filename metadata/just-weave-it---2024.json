@@ -1,33 +1,45 @@
 {
   "id": 7357412,
-  "name": "Just Weave It - 2024",
+  "name": "just weave it - 2024",
   "permalink": "just-weave-it---2024",
   "url": "https://www.ravelry.com/patterns/library/just-weave-it---2024",
   "external_url": "",
-  "designer_name": "Susan Ashcroft",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "susan ashcroft",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "DROPS Soft Tweed",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 30.0
     },
     {
-      "fiber": "Silk Garden Lite",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 22.5
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 22.5
+    },
+    {
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 12.5
+    },
+    {
+      "fiber": "Rayon / Viscose (Rayon)",
+      "pct": 12.5
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Kitchener stitch",
-    "Seamed",
-    "Seamless",
-    "Written"
+    "in the round",
+    "kitchener stitch",
+    "seamed",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -38,14 +50,15 @@
   "rating_average": 4.793103448275862,
   "rating_count": 29,
   "difficulty_average": 2.8214285714285716,
-  "favorites_count": 2888,
-  "projects_count": 91,
+  "favorites_count": 2935,
+  "projects_count": 94,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/16192/942591",
+  "notes": "designed for the 2024 games, this pattern is based on \"**french weave**\", a fun easy-to-work stitch, perfect for working while watching the action. \r\n\r\nevery time the games are on i make some patterns especially for the games - you can find more info about other patterns - [here][1]\r\n\r\nwritten for dk weight yarn, but you can adjust to use other weights if you like\r\n\r\nallow approx. 100m/110yds each of 2 yarns for a single loop\r\nallow approx. 200m/220yds each of 2 yarns for a double loop \r\n\r\nfor the contrast colour you can use variegated or striping yarn for interesting effects. \r\nfor the main colour you can use light or dark yarn; solid, or even another variegated or striping yarn, just make sure you have good contrast between all the colours in the yarns. \r\n\r\nthe cowl is worked as a strip, starting with a provisional cast-on and then kitchenered/grafted together for a seamless finish. \r\n\r\n\r\n  [1]: https://www.ravelry.com/discuss/stitchnerds/4321577/1-25#1",
   "pdf": {
     "filename": "7357412.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7357412.pdf",
-    "url": "https://pdf.ravelrycache.com/stitchnerd/1866583/just_weave_it_-_july_28th.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481147&Signature=Q5r6Yant2oxlvmmrTBsuhYGA%2FNU%3D&key_expires=1768481147&key=f0ZAErM04NHoEiZ5-h5Mqg",
+    "url": "https://pdf.ravelrycache.com/stitchnerd/1866583/just_weave_it_-_july_28th.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770430515&Signature=PY1Q%2Ba4PZY5Has5a9DSEuLfKr5c%3D&key_expires=1770430515&key=RrSz8ocZot4IBI1s3_AoQw",
     "size_bytes": 368829
   }
 }

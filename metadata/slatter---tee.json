@@ -1,24 +1,24 @@
 {
   "id": 1220975,
-  "name": "Slåtter - tee",
+  "name": "slåtter - tee",
   "permalink": "slatter---tee",
   "url": "https://www.ravelry.com/patterns/library/slatter---tee",
   "external_url": "https://www.jarbo.se/slatter-t-shirt-92753",
-  "designer_name": "Stine HoelgaardJohansen",
-  "project_type": "Tee",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Sport",
+  "designer_name": "stine hoelgaardjohansen",
+  "project_type": "tee",
+  "fiber_art": "knitting",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Nova Eko",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Top-down"
+    "top-down"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -26,12 +26,13 @@
     3.0
   ],
   "published": "2022/02/01",
-  "sizes_available": "XS (S) M (L) XL (2XL) 3XL (4XL)",
-  "rating_average": 4.488888888888889,
-  "rating_count": 45,
-  "difficulty_average": 3.4545454545454546,
-  "favorites_count": 8015,
-  "projects_count": 257,
+  "sizes_available": "xs (s) m (l) xl (2xl) 3xl (4xl)",
+  "rating_average": 4.468085106382978,
+  "rating_count": 47,
+  "difficulty_average": 3.4782608695652173,
+  "favorites_count": 8246,
+  "projects_count": 266,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/82366/761575"
+  "download_url": "http://www.ravelry.com/dls/82366/761575",
+  "notes": "***we are happy to be able to share our patterns with you for free! unfortunately, we are not able to answer dm’s here on ravelry.\r\nhowever, we hope you will like the pattern and will enjoy seeing your project come to life!***\r\n\r\n**inspiration and free patterns**\r\nfollow järbo on [instagram][1]\r\n\r\n**reseller map**\r\n[jarbo.se][2] - brand website, in swedish\r\n[find a reseller][3] - nordic region, in swedish\r\n\r\n**our official online stores**\r\n[eddna.se][4], [eddna.no][5], [eddna.de][6], [eddna.at][7], [eddna.nl][8], [eddna.be][9]\r\n\r\njärbo is a swedish brand established in 1896. we offer nordic design, selected yarns and accessories in stores and online.\r\n\r\n  [1]: https://www.instagram.com/jarbogarn/\r\n  [2]: https://www.jarbo.se/\r\n  [3]: https://www.jarbo.se/hitta-butik\r\n  [4]: https://www.eddna.se/\r\n  [5]: https://www.eddna.no/\r\n  [6]: https://www.eddna.de/\r\n  [7]: https://www.eddna.at/\r\n  [8]: https://www.eddna.nl/\r\n  [9]: https://www.eddna.be/\r\n"
 }

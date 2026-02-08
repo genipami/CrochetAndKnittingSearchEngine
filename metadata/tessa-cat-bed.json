@@ -1,28 +1,28 @@
 {
   "id": 7465267,
-  "name": "Tessa Cat Bed",
+  "name": "tessa cat bed",
   "permalink": "tessa-cat-bed",
   "url": "https://www.ravelry.com/patterns/library/tessa-cat-bed",
   "external_url": "",
-  "designer_name": "Melanie Bloss",
-  "project_type": "Pet",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "melanie bloss",
+  "project_type": "pet",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Super Saver Ombre",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Half double crochet (hdc)",
-    "Single crochet (sc)",
-    "Slip stitch (sl st)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "half double crochet (hdc)",
+    "single crochet (sc)",
+    "slip stitch (sl st)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     6.0
@@ -33,14 +33,15 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 132,
-  "projects_count": 4,
+  "favorites_count": 146,
+  "projects_count": 5,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/113174/1026904",
+  "notes": "***materials and information***\r\n\r\n6 mm | j hook\r\n\r\nsize 4 | worsted weight acrylic yarn\r\n\r\nblunt or bent end needle\r\n\r\nscissors\r\n\r\ngauge is not as important as keeping a tight tension.  \r\n\r\n12\" base x 4\" walls\r\n\r\n***stitches and abbreviations (us terms)***\r\n\r\nbb back bump\r\nbl back loop\r\nch chain\r\ncrab crab stitch\r\nfl front loop\r\nfo finish off\r\nhdc half double crochet\r\nhdc dec half double crochet decrease\r\nhdc inc half double crochet increase\r\nmr magic ring\r\nsc single crochet\r\nsl st slip stitch",
   "pdf": {
     "filename": "7465267.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7465267.pdf",
-    "url": "https://pdf.ravelrycache.com/MelanieBloss/2063662/MelanieBlossCrochetTessaPetBedPattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483543&Signature=L2qja6HWU99OiOMEqPteB0zQZGw%3D&key_expires=1768483543&key=CgFh01ObfvjnzNhME0rm9A",
+    "url": "https://pdf.ravelrycache.com/MelanieBloss/2063662/MelanieBlossCrochetTessaPetBedPattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770443814&Signature=ZURuEd3cZziC6istK2rRLhoOgjk%3D&key_expires=1770443814&key=N3MTDWFqaxhQ9mw3CiPNCA",
     "size_bytes": 10203671
   }
 }

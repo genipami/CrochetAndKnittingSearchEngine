@@ -1,27 +1,27 @@
 {
   "id": 7367811,
-  "name": "Blyn",
+  "name": "blyn",
   "permalink": "blyn",
   "url": "https://www.ravelry.com/patterns/library/blyn",
   "external_url": "https://fleecelovehappiness.home.blog/2024/09/07/blyn/",
-  "designer_name": "Traci Scott",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "traci scott",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Palette",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Colorwork",
-    "In the round",
-    "Stranded colorwork"
+    "charted",
+    "colorwork",
+    "in the round",
+    "stranded colorwork"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -29,12 +29,13 @@
     3.25
   ],
   "published": "2024/09/01",
-  "sizes_available": "One size: Adult",
-  "rating_average": 4.9375,
-  "rating_count": 16,
-  "difficulty_average": 4.133333333333334,
-  "favorites_count": 4424,
-  "projects_count": 78,
+  "sizes_available": "one size: adult",
+  "rating_average": 4.888888888888889,
+  "rating_count": 18,
+  "difficulty_average": 4.1875,
+  "favorites_count": 4544,
+  "projects_count": 85,
   "free_ravelry_download": false,
-  "download_url": "https://fleecelovehappiness.home.blog/2024/09/07/blyn/"
+  "download_url": "https://fleecelovehappiness.home.blog/2024/09/07/blyn/",
+  "notes": "blyn is a charted pattern for a stranded colorwork hat. the main color (background color) stays the same throughout and the contrasting colors change. \r\n\r\none size: fits a 22-24 inch head.\r\n\r\nyarn needed:\r\nknit picks palette (fingering weight 100% wool yarn)\r\ncoriander heather (mc) 120 yds\r\nmerlot heather 15 yds\r\nbittersweet heather 51 yds\r\nrainforest heather 25 yds\r\nautumn heather 15 yds\r\n\r\n"
 }

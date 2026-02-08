@@ -1,58 +1,51 @@
 {
   "id": 835227,
-  "name": "Vivian's Shell Hat",
+  "name": "vivian's shell hat",
   "permalink": "vivians-shell-hat",
   "url": "https://www.ravelry.com/patterns/library/vivians-shell-hat",
   "external_url": "",
-  "designer_name": "Kat Mcab",
-  "project_type": "Child",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "kat mcab",
+  "project_type": "child",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Anti-Pilling Everyday Baby",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 90.0
     },
     {
-      "fiber": "Baby Soft",
-      "pct": null
-    },
-    {
-      "fiber": "Jamie (Prints)",
-      "pct": null
-    },
-    {
-      "fiber": "Softee Baby, Variegates & Ombres",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Shell",
-    "Single crochet (sc)"
+    "shell",
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless",
-    "Top-down",
-    "Written"
+    "in the round",
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [
     5.5
   ],
   "needle_sizes_mm": [],
   "published": "2018/05/01",
-  "sizes_available": "Newborn",
+  "sizes_available": "newborn",
   "rating_average": 4.714285714285714,
   "rating_count": 7,
   "difficulty_average": 1.8333333333333333,
-  "favorites_count": 540,
+  "favorites_count": 545,
   "projects_count": 199,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/10944/462188",
+  "notes": "a simple hat using the popular crochet shell stitch.  this pattern can easily be adjusted for many different sizes. ",
   "pdf": {
     "filename": "835227.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\835227.pdf",
-    "url": "https://pdf.ravelrycache.com/Katmcab/833145/Vivians_Shell_Hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484041&Signature=8yc5cT8nLMGAQ9uv6rhSlIll3wk%3D&key_expires=1768484041&key=sPCZbgjhDSPepu5grGBsPQ",
+    "url": "https://pdf.ravelrycache.com/Katmcab/833145/Vivians_Shell_Hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770446354&Signature=qqyKqFod49MSfGGZOpNFX7AVme4%3D&key_expires=1770446354&key=NcLeTNMiHwcfFVyb1SHmxQ",
     "size_bytes": 165726
   }
 }

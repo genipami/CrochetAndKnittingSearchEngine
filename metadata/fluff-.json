@@ -1,31 +1,31 @@
 {
   "id": 421285,
-  "name": "Fluff !",
+  "name": "fluff !",
   "permalink": "fluff-",
   "url": "https://www.ravelry.com/patterns/library/fluff-",
   "external_url": "",
-  "designer_name": "Susan Ashcroft",
-  "project_type": "Scarf",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Lace",
+  "designer_name": "susan ashcroft",
+  "project_type": "scarf",
+  "fiber_art": "knitting",
+  "yarn_weight": "lace",
   "materials": [
     {
-      "fiber": "Kidsilk Haze Stripe",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 73.5
     },
     {
-      "fiber": "Mohair Luxe Dégradé",
-      "pct": null
+      "fiber": "Silk (Silk)",
+      "pct": 26.5
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "lace",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Lace",
-    "Written"
+    "lace",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -36,14 +36,15 @@
   "rating_average": 4.740963855421687,
   "rating_count": 166,
   "difficulty_average": 1.694915254237288,
-  "favorites_count": 6752,
-  "projects_count": 717,
+  "favorites_count": 6834,
+  "projects_count": 722,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/16192/165271",
+  "notes": "boomerang shape (a name my husband coined to describe [linen weave boomerang](/patterns/library/linen-weave-boomerang) and which i've stuck with for this shape). \r\n\r\nbig needles for an ultra fluffy texture (and to make the yarn go further ?).\r\ndesigned specifically with lace-weight mohair in mind. \r\n\r\nmake a small kerchief size (about 125cm - 4' long) with just 25g (half a skein of the rowan yarn or a single skein of  the lang mohair) - great little luxury gift. \r\n\r\nor use up to double that amount for a huge fluffy cloud of a scarf. \r\n\r\nthe size you see in photo #4 was made with 35g (300m/330yds) and is about 170cm/68\" long. i stopped because that was big enough for me, but you can keep going for an even longer one. \r\n\r\nphoto #2 shows the kerchief size (it was taken at 23g). \r\n\r\n**you can actually make this with any yarn, but mohair was used for the original ones**",
   "pdf": {
     "filename": "421285.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\421285.pdf",
-    "url": "https://pdf.ravelrycache.com/stitchnerd/270819/fluff_-_July_28th.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480457&Signature=PilNp5rNUMyufuXDGv1NuTXLc%2F4%3D&key_expires=1768480457&key=DpuCfL580E7ZgzS2ogY7Wg",
+    "url": "https://pdf.ravelrycache.com/stitchnerd/270819/fluff_-_July_28th.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770426513&Signature=00zNlTy0MLcwCbwTShEIcacbXbk%3D&key_expires=1770426513&key=73cssiZVZAuKSg8ehuqB2g",
     "size_bytes": 448870
   }
 }

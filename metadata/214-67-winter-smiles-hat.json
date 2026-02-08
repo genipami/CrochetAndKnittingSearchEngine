@@ -1,45 +1,50 @@
 {
   "id": 1085491,
-  "name": "214-67 Winter Smiles Hat",
+  "name": "214-67 winter smiles hat",
   "permalink": "214-67-winter-smiles-hat",
   "url": "https://www.ravelry.com/patterns/library/214-67-winter-smiles-hat",
   "external_url": "https://www.garnstudio.com/pattern.php?id=10010&cid=19",
-  "designer_name": "DROPS design",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "drops design",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "DROPS Air",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 53.5
     },
     {
-      "fiber": "DROPS Daisy",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 32.5
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 14.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Charted",
-    "In the round",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "charted",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.5
   ],
   "published": "2020/11/01",
-  "sizes_available": " S/M – L/XL",
-  "rating_average": 4.627551020408164,
-  "rating_count": 196,
-  "difficulty_average": 1.839779005524862,
-  "favorites_count": 8501,
-  "projects_count": 1065,
+  "sizes_available": " s/m – l/xl",
+  "rating_average": 4.634146341463414,
+  "rating_count": 205,
+  "difficulty_average": 1.8421052631578947,
+  "favorites_count": 8752,
+  "projects_count": 1108,
   "free_ravelry_download": false,
-  "download_url": "https://www.garnstudio.com/pattern.php?id=10010&cid=19"
+  "download_url": "https://www.garnstudio.com/pattern.php?id=10010&cid=19",
+  "notes": "**knitted hipster-hat with rib in drops air or drops daisy.**\r\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~\r\n\r\ndrops design: pattern no ai-335\r\nyarn group c or a + a\r\n\r\n-------------------------------------------------------\r\n\r\n**sizes**:\r\ns/m – l/xl\r\nfits head size approx.: 54/56 – 56/58 cm.\r\nheight with a 10 cm fold-up approx. 24 - 26 cm.\r\n\r\n**materials**:\r\ndrops air from garnstudio (belongs to yarn group c)\r\n100-100 g colour 05, brown\r\n\r\nor use:\r\n100-100 g colour 26, beige\r\n100-100 g colour 12, moss green\r\n100-100 g colour 30, sage green\r\n\r\nor use:\r\ndrops daisy from garnstudio (belongs to yarn group b)\r\n150-150 g colour 14, brown\r\n\r\n**knitting tension**:\r\n20 stitches in width and 27 rows in height with stocking stitch = 10 x 10 cm.\r\n\r\nneedles:\r\ndrops double pointed needles size 3.5 mm.\r\ndrops circular needle size 3.5 mm: length 40.\r\nneedle size is only a guide. if you get too many stitches on 10 cm, change to a larger needle size. if you get too few stitches on 10 cm, change to a smaller needle size."
 }

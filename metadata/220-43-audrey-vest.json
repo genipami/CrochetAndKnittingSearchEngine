@@ -1,27 +1,35 @@
 {
   "id": 1126317,
-  "name": "220-43 Audrey Vest",
+  "name": "220-43 audrey vest",
   "permalink": "220-43-audrey-vest",
   "url": "https://www.ravelry.com/patterns/library/220-43-audrey-vest",
   "external_url": "https://www.garnstudio.com/pattern.php?id=10190&cid=19",
-  "designer_name": "DROPS design",
-  "project_type": "Vest",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "drops design",
+  "project_type": "vest",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "DROPS Sky",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 74.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 18.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 8.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Seamed",
-    "Written"
+    "bottom-up",
+    "seamed",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -29,12 +37,13 @@
     4.5
   ],
   "published": "2021/03/01",
-  "sizes_available": "S – M – L – XL – XXL – XXXL",
-  "rating_average": 4.357142857142857,
-  "rating_count": 56,
-  "difficulty_average": 2.896551724137931,
-  "favorites_count": 7148,
-  "projects_count": 277,
+  "sizes_available": "s – m – l – xl – xxl – xxxl",
+  "rating_average": 4.333333333333333,
+  "rating_count": 57,
+  "difficulty_average": 2.8983050847457625,
+  "favorites_count": 7255,
+  "projects_count": 280,
   "free_ravelry_download": false,
-  "download_url": "https://www.garnstudio.com/pattern.php?id=10190&cid=19"
+  "download_url": "https://www.garnstudio.com/pattern.php?id=10190&cid=19",
+  "notes": "knitted vest in drops sky. the piece is worked in stocking stitch with ribbed edges, v-neck and split in the sides. sizes s - xxxl. drops design: pattern no sk-136; yarn group b\r\n\r\n**sizes**: s - m - l - xl - xxl - xxxl\r\n\r\n**materials**: drops sky from garnstudio 150-200-200-200-250-250 g colour 15, aquamarine\r\n\r\n**knitting tension**: 20 stitches in width and 26 rows in height with stocking stitch = 10 x 10 cm.\r\n\r\nneedles:\r\ndrops circular needle size 4.5 mm: length 60 cm or 80 cm for stocking stitch.\r\ndrops circular needle size 3.5 mm: length 40 cm and 60 or 80 cm for rib."
 }

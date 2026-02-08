@@ -1,54 +1,63 @@
 {
   "id": 1353861,
-  "name": "Chal Soria",
+  "name": "chal soria",
   "permalink": "chal-soria",
   "url": "https://www.ravelry.com/patterns/library/chal-soria",
   "external_url": "",
-  "designer_name": "Patricia Junquera",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "patricia junquera",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "DROPS Fabel",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 39.3
     },
     {
-      "fiber": "Ishtar",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 26.8
     },
     {
-      "fiber": "Merino/baby alpaca/nylon",
-      "pct": null
+      "fiber": "Silk (Silk)",
+      "pct": 17.9
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 8.9
+    },
+    {
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 7.1
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Treble crochet (tr)"
+    "cable",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Cables",
-    "Short rows",
-    "Top-down",
-    "Written"
+    "cables",
+    "short rows",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.5
   ],
   "published": "2023/08/01",
-  "sizes_available": "Talla única ",
-  "rating_average": 4.771428571428571,
-  "rating_count": 35,
-  "difficulty_average": 3.0294117647058822,
-  "favorites_count": 1058,
+  "sizes_available": "talla única ",
+  "rating_average": 4.777777777777778,
+  "rating_count": 36,
+  "difficulty_average": 3.085714285714286,
+  "favorites_count": 1067,
   "projects_count": 128,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/98338/870349",
+  "notes": "este chal ha sido diseñado para la feria de lanas que se celebra en l acuidad de soria en septiembre de 2023.\r\n\r\nse teje desde el centro del chal con forma de media luna. presenta varias secciones en las que se alterna unas en las que se tejen todos los puntos del chal y otras con vueltas cortas, para terminar con un calado en forma de espiga (paisaje típico castellano).\r\n\r\nsólo es necesario una madeja de grosor fingering y el patrón tiene dos opciones de cierre según la cantidad de lana que tengas cuando llegas a ese punto del patrón.\r\ntambién es importante tener marcadores cerca cuando se llega a la parte del calado.\r\n\r\nmuestra:\r\n18 puntos x 32 vueltas\r\n\r\nagujas:\r\nagujas circulares de 3,5 mm y cable de 80 cm.\r\n\r\nmedidas:\r\nel chal mide aproximadamente 170cm x 30 cm\r\n\r\nespero que disfrutéis tejiéndolo y usándolo tanto como yo.",
   "pdf": {
     "filename": "1353861.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1353861.pdf",
-    "url": "https://pdf.ravelrycache.com/terminovueltayvoy/1705640/CHAL__VF2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479397&Signature=Jl%2BbP6fm%2BLdyBULTwpMRP07RxVw%3D&key_expires=1768479397&key=BGPoxwLOlNpVvG8pleBRhg",
+    "url": "https://pdf.ravelrycache.com/terminovueltayvoy/1705640/CHAL__VF2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770420786&Signature=Le6oV399mYnHiZ3kBEP9%2BwQRlxE%3D&key_expires=1770420786&key=Ny_R_wXnLc8kKZm6PJvpCg",
     "size_bytes": 2068350
   }
 }

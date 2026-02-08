@@ -1,29 +1,33 @@
 {
   "id": 1265691,
-  "name": "House Socks",
+  "name": "house socks",
   "permalink": "house-socks-9",
   "url": "https://www.ravelry.com/patterns/library/house-socks-9",
   "external_url": "https://www.purlsoho.com/create/2022/08/25/house-socks/",
-  "designer_name": "Fiona Alice",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "fiona alice",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Morning",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Yak (Yak)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "cable",
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Cables",
-    "In the round",
-    "Kitchener stitch"
+    "cables",
+    "in the round",
+    "kitchener stitch"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -31,12 +35,13 @@
     3.0
   ],
   "published": "2022/08/01",
-  "sizes_available": "Adult Small (Medium, Large)",
-  "rating_average": 4.08955223880597,
-  "rating_count": 67,
-  "difficulty_average": 4.035714285714286,
-  "favorites_count": 15585,
-  "projects_count": 367,
+  "sizes_available": "adult small (medium, large)",
+  "rating_average": 4.088235294117647,
+  "rating_count": 68,
+  "difficulty_average": 4.087719298245614,
+  "favorites_count": 15762,
+  "projects_count": 376,
   "free_ravelry_download": false,
-  "download_url": "https://www.purlsoho.com/create/2022/08/25/house-socks/"
+  "download_url": "https://www.purlsoho.com/create/2022/08/25/house-socks/",
+  "notes": "materials\r\n\r\n- 2 skeins of purl soho’s [morning][1], 75% organically grown cotton and 25% yak. each skein is 191 yards/ 100 grams; approximately 250 (270, 300) total yards required. we used grassland gray and yellow apple.\r\n- us 1.5 (2.75 mm), 32-inch [circular needles][2] for magic loop or a set of us 1.5 [double pointed needles][3]\r\n- us 2 (3 mm), 32-inch circular needles for magic loop or a set of us 2 double pointed needles\r\n- a [stitch marker][4]\r\n- a small [crochet hook][5] and scrap yarn (for provisional cast on)\r\n- a [cable stitch holder][6]\r\n- optional: a spare circular or double pointed needle for long-tail tubular bind off\r\n\r\ngauge\r\n34 stitches and 36 rounds = 4 inches in twisted rib on smaller needles\r\n\r\n26 stitches and 36 rounds = 4 inches in stockinette stitch on smaller needles\r\n\r\nsizes\r\nadult small (medium, large)\r\n\r\n- finished foot circumference: 7¼ (8½, 9½) inches, comfortably stretching up to 2 inches\r\n- finished foot length: adjustable\r\n\r\nsamples: the grassland gray pair is an adult small, and the yellow apple pair is an adult medium.\r\n\r\n\r\ndesigned for purl soho by [fiona alice][7]. fiona is a knitwear designer, originally from nova scotia, canada, who now calls finland home. in between exploring helsinki by bike and gardening at her local park, fiona collaborates on her beautiful patterns with publishers, yarn companies, and independent dyers. more of her work can be found at [www.fionaalice.com][8].\r\n\r\nall images ©️ copyright purl soho\r\n\r\n\r\n  [1]: https://www.purlsoho.com/morning.html\r\n  [2]: https://www.purlsoho.com/tools-and-notions/knitting-and-crochet.html?collection_filter=23796\r\n  [3]: https://www.purlsoho.com/tools-and-notions/knitting-and-crochet.html?collection_filter=23799\r\n  [4]: https://www.purlsoho.com/tools-and-notions/knitting-and-crochet.html?collection_filter=964\r\n  [5]: https://www.purlsoho.com/tools-and-notions/knitting-and-crochet.html?collection_filter=23805\r\n  [6]: https://www.purlsoho.com/tools-and-notions/knitting-and-crochet.html?collection_filter=23859\r\n  [7]: https://www.instagram.com/fiona_alice_/\r\n  [8]: http://www.fionaalice.com/"
 }

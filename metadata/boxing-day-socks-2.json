@@ -1,34 +1,34 @@
 {
   "id": 7436414,
-  "name": "Boxing Day Socks",
+  "name": "boxing day socks",
   "permalink": "boxing-day-socks-2",
   "url": "https://www.ravelry.com/patterns/library/boxing-day-socks-2",
   "external_url": "https://kierstenj.com/boxing-day-sock-pattern",
-  "designer_name": "Kiersten Harrod",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "kiersten harrod",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Fox Sock",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 75.0
     },
     {
-      "fiber": "Stroll Fingering",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
     "2x2 rib",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Kitchener stitch",
-    "Top-down",
-    "Written"
+    "in the round",
+    "kitchener stitch",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -36,17 +36,18 @@
   ],
   "published": "2025/06/01",
   "sizes_available": "one size, length adjustable",
-  "rating_average": 4.75,
-  "rating_count": 4,
-  "difficulty_average": 1.75,
-  "favorites_count": 1167,
-  "projects_count": 27,
+  "rating_average": 4.5,
+  "rating_count": 6,
+  "difficulty_average": 2.1666666666666665,
+  "favorites_count": 1206,
+  "projects_count": 32,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/2247/1004620",
+  "notes": "this is an extremely simple ribbed sock pattern intentionally written as a guide for those who are intimidated by the idea of knitting socks. it's designed for those who can cast on and are comfortable with knitting and purling but maybe not much else. thorough descriptions of what's happening while the sock is being constructed, and links to free, ad-free videos are included along with way too much instruction for the experienced knitter. \r\n\r\n**it's my vanilla sock recipe, boiled down to baby steps in the hopes it will help other knitters fall in love with knitting socks.**\r\n\r\nthe 2x2 ribbed fabric makes these easy to fit to most any adult, and with a little practice, most knitters can learn to increase or decrease the number of cast on stitches if they need to make large adjustments in fit.",
   "pdf": {
     "filename": "7436414.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7436414.pdf",
-    "url": "https://pdf.ravelrycache.com/Kirky/2013172/Boxing_Day_Socks.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479199&Signature=6ccAQx3%2BQTJFdvlaNg8K0UrTyYY%3D&key_expires=1768479199&key=7ia8TEDvpIIZb1JDqnLZ7A",
+    "url": "https://pdf.ravelrycache.com/Kirky/2013172/Boxing_Day_Socks.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770419594&Signature=0Njv6QxxtZvWYw%2BQioqUVL1K2iY%3D&key_expires=1770419594&key=XhqDWmzk1KWkocPHjmbVdQ",
     "size_bytes": 931304
   }
 }

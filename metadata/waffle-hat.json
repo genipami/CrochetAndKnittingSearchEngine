@@ -1,40 +1,41 @@
 {
   "id": 4726,
-  "name": "Waffle Hat",
+  "name": "waffle hat",
   "permalink": "waffle-hat",
   "url": "https://www.ravelry.com/patterns/library/waffle-hat",
   "external_url": "http://knithats.tripod.com/id3.html",
-  "designer_name": "Gail Bable",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "gail bable",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)",
-    "Waffle"
+    "single crochet (sc)",
+    "treble crochet (tr)",
+    "waffle"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless"
+    "in the round",
+    "seamless"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     5.0
   ],
   "published": "2002/08/01",
-  "sizes_available": "Child, Adult",
+  "sizes_available": "child, adult",
   "rating_average": 4.5910224438902745,
   "rating_count": 802,
-  "difficulty_average": 1.7149587750294464,
-  "favorites_count": 9805,
-  "projects_count": 2996,
+  "difficulty_average": 1.7152941176470589,
+  "favorites_count": 9830,
+  "projects_count": 3008,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/33893/133278",
+  "notes": "**the description from the website:**\r\n*i'm an avid sock knitter and one of my favorite patterns is the \"waffle sock\". i loved it so much i decided to come up with a \"waffle hat\" to send to ship support.  this a charity providing hand knit items to our men and women serving in our armed forces.*",
   "pdf": {
     "filename": "4726.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\4726.pdf",
-    "url": "https://pdf.ravelrycache.com/alpacaandewe/213885/Waffle_Hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484046&Signature=FeEpAlLo7tfAb6Yjg7ZVOChmWuk%3D&key_expires=1768484046&key=SrGKwP-paGb3LI-sFPe45w",
+    "url": "https://pdf.ravelrycache.com/alpacaandewe/213885/Waffle_Hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770446390&Signature=%2BW8tTFbTAEO4cUkKfzf%2FsEM%2FCa0%3D&key_expires=1770446390&key=8bQLgT-STSnmz3tJ-I9pew",
     "size_bytes": 299225
   }
 }

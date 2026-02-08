@@ -1,46 +1,47 @@
 {
   "id": 7494890,
-  "name": "To a T Hat & Mitts Set",
+  "name": "to a t hat & mitts set",
   "permalink": "to-a-t-hat--mitts-set",
   "url": "https://www.ravelry.com/patterns/library/to-a-t-hat--mitts-set",
   "external_url": "https://www.cascadeyarns.com/pattern/to-a-t-hat-mitts-set",
-  "designer_name": "Cheryl Murray",
-  "project_type": "Mittens/Gloves",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Sport",
+  "designer_name": "cheryl murray",
+  "project_type": "mittens/gloves",
+  "fiber_art": "knitting",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "220 Superwash® Sport",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 50.0
     },
     {
-      "fiber": "220 Superwash® Sport Wave",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 50.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Mosaic",
-    "Stranded colorwork",
-    "Written"
+    "charted",
+    "in the round",
+    "mosaic",
+    "stranded colorwork",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.75
   ],
   "published": "2026/01/01",
-  "sizes_available": "Mitts: Woman Medium — To Fit: 7-7.5” hand  circumference. Length: 7.25” with folded cuff Hat: Adult Medium — To Fit 20 – 21” head circumference. Length: 8” with folded brim",
+  "sizes_available": "mitts: woman medium — to fit: 7-7.5” hand  circumference. length: 7.25” with folded cuff hat: adult medium — to fit 20 – 21” head circumference. length: 8” with folded brim",
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 99,
-  "projects_count": 0,
+  "favorites_count": 130,
+  "projects_count": 2,
   "free_ravelry_download": false,
-  "download_url": "https://www.cascadeyarns.com/pattern/to-a-t-hat-mitts-set"
+  "download_url": "https://www.cascadeyarns.com/pattern/to-a-t-hat-mitts-set",
+  "notes": "[direct pattern link][1]\r\n\r\n\r\n  [1]: https://www.cascadeyarns.com/wp-content/uploads/2026/01/s110_220superwashsportwave220superwashsport_toateehatandmittsset.pdf"
 }

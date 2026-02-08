@@ -1,36 +1,37 @@
 {
   "id": 1307496,
-  "name": "The Fuck-It Bucket",
+  "name": "the fuck-it bucket",
   "permalink": "the-fuck-it-bucket",
   "url": "https://www.ravelry.com/patterns/library/the-fuck-it-bucket",
   "external_url": "",
-  "designer_name": "TashaLouiza MC",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Any gauge - designed for any gauge",
+  "designer_name": "tashalouiza mc",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "any gauge - designed for any gauge",
   "materials": [],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [],
   "published": "2023/01/01",
-  "sizes_available": "Flexible",
+  "sizes_available": "flexible",
   "rating_average": 4.857142857142857,
   "rating_count": 7,
   "difficulty_average": 1.5,
-  "favorites_count": 1641,
-  "projects_count": 59,
+  "favorites_count": 1685,
+  "projects_count": 63,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/76389/833984",
+  "notes": "**the massively marled, yarn eating, ultimate stash-buster!**\r\n\r\nthis recipe uses lots of strands of yarn held together to build a sturdy bucket. use it to corral your wips, hold your cleaning supplies, as a book stash, or (in the floppy version) as a tote bag. ",
   "pdf": {
     "filename": "1307496.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1307496.pdf",
-    "url": "https://pdf.ravelrycache.com/tashalouizamc/1615483/The_FuckItBucket.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483620&Signature=DQGowtN5FoAs%2F7RsP%2F1hGY2uXTE%3D&key_expires=1768483620&key=TZ9DGF022lDVW4_1hMF7YA",
+    "url": "https://pdf.ravelrycache.com/tashalouizamc/1615483/The_FuckItBucket.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770444099&Signature=83yDrqYY8Zv25ECTbxcrovrLheI%3D&key_expires=1770444099&key=EETmshQuER0YL3YgSUNdSg",
     "size_bytes": 271746
   }
 }

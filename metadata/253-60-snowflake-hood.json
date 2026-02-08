@@ -1,44 +1,53 @@
 {
   "id": 7399298,
-  "name": "253-60 Snowflake Hood",
+  "name": "253-60 snowflake hood",
   "permalink": "253-60-snowflake-hood",
   "url": "https://www.ravelry.com/patterns/library/253-60-snowflake-hood",
   "external_url": "https://www.garnstudio.com/pattern.php?id=12087&cid=19",
-  "designer_name": "DROPS design",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "drops design",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "DROPS Air",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 71.0
     },
     {
-      "fiber": "DROPS Brushed Alpaca Silk",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 14.0
+    },
+    {
+      "fiber": "Bombyx / Cultivated / Mulberry (Silk)",
+      "pct": 11.5
+    },
+    {
+      "fiber": "Merino (Merino)",
+      "pct": 3.5
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamed",
-    "Written"
+    "seamed",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     8.0
   ],
   "published": "2025/01/01",
-  "sizes_available": " S/M – L/XL",
-  "rating_average": 4.0,
-  "rating_count": 11,
-  "difficulty_average": 2.4166666666666665,
-  "favorites_count": 1796,
-  "projects_count": 64,
+  "sizes_available": " s/m – l/xl",
+  "rating_average": 4.142857142857143,
+  "rating_count": 14,
+  "difficulty_average": 2.4,
+  "favorites_count": 1920,
+  "projects_count": 69,
   "free_ravelry_download": false,
-  "download_url": "https://www.garnstudio.com/pattern.php?id=12087&cid=19"
+  "download_url": "https://www.garnstudio.com/pattern.php?id=12087&cid=19",
+  "notes": "**knitted hooded scarf in drops air and drops brushed alpaca silk. the piece is worked with stocking stitch, garter stitch and i-cord. sizes s - xl.**\r\n~~~~~~~~~~~~~~~~~~~~~~~~\r\n\r\n#snowflakehood\r\ndrops design: pattern ai-523\r\nyarn group c + c or e\r\n\r\n-------------------------------------------------------\r\n\r\n\r\n**sizes**:\r\ns/m - l/xl\r\nfits head-size: 54/56 - 58/60 cm\r\nlength approx. 45-46 cm\r\nwidth approx. 178-180 cm\r\n\r\n**yarn**:\r\ndrops air from garnstudio (belongs to yarn group c)\r\n100-150 g colour 01, off white\r\nand use:\r\ndrops brushed alpaca silk from garnstudio (belongs to yarn group c)\r\n75-75 g colour 35, pearl grey\r\n\r\n**needles**:\r\ndrops circular needle size 8 mm: length 80 cm.\r\n\r\n**knitting tension**:\r\n11 stitches in width and 15 rows in height, with stocking stitch and 1 strand of each quality on needle size 8 mm = 10 x 10 cm.\r\n11 stitches in width and 22 rows in height, with garter stitch and 1 strand of each quality on needle size 8 mm = 10 x 10 cm.\r\nnote: needle size is only a guide. if you get too many stitches on 10 cm, change to a larger needle size. if you get too few stitches on 10 cm, change to a smaller needle size.\r\n\r\n-------------------------------------------------------"
 }

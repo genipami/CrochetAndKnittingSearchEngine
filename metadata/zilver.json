@@ -1,40 +1,49 @@
 {
   "id": 321216,
-  "name": "Zilver",
+  "name": "zilver",
   "permalink": "zilver",
   "url": "https://www.ravelry.com/patterns/library/zilver",
   "external_url": "",
-  "designer_name": "Lisa Mutch",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "lisa mutch",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "MCN Fingering",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Cashmere goat (Cashmere)",
+      "pct": 10.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "lace",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Lace",
-    "Top-down",
-    "Written"
+    "lace",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     5.0
   ],
   "published": null,
-  "sizes_available": "One Size",
+  "sizes_available": "one size",
   "rating_average": 4.565848214285714,
   "rating_count": 896,
   "difficulty_average": 2.074561403508772,
-  "favorites_count": 27193,
-  "projects_count": 2886,
+  "favorites_count": 27240,
+  "projects_count": 2888,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/11032/104007"
+  "download_url": "http://www.ravelry.com/dls/11032/104007",
+  "notes": "a simple, stockinette, triangle with the addition of ridges for textural contrast. a classic design, perfect for showcasing hand dyed yarn.\r\n\r\n**an updated version with correct stitch counts was added on september 5/2017.**\r\n\r\n**note: the abbreviation sm means slip marker.**\r\n\r\naussi disponible en français.\r\n\r\n\r\n**materials:**\r\napproximately 435 yards of northbound knitting mcn fingering\r\nsize us 8 (5 mm) circular needle (or size needed to obtain gauge)\r\nstitch markers\r\ntapestry needle\r\n\r\n**gauge:**\r\n5 sts=1” in stockinette stitch\r\n\r\n**finished measurements:**\r\nwidth=64”\r\nlength=26”\r\n\r\n**abbreviations used:**\r\nk=knit\r\np=purl\r\nrs=right side\r\nws=wrong side\r\npm=place marker\r\nst(s)=stitch(es)\r\nm1l=with left needle tip, lift strand between sts from front to back, knit into back of loop\r\nm1r=with left needle tip, lift strand between sts from back to front, knit into front of loop\r\nkf&b=knit into the front and back of same stitch\r\nk2tog=knit two stitches together as one stitch"
 }

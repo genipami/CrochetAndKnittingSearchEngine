@@ -1,47 +1,52 @@
 {
   "id": 287992,
-  "name": "Business Casual",
+  "name": "business casual",
   "permalink": "business-casual",
   "url": "https://www.ravelry.com/patterns/library/business-casual",
   "external_url": "http://www.tanisfiberarts.com/blog/2011/12/business-casual-sock-pattern-free.html",
-  "designer_name": "Tanis Lavallee",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "tanis lavallee",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Blue Label Fingering Weight",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 75.0
     },
     {
-      "fiber": "Purple Label Cashmere Sock",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 15.0
+    },
+    {
+      "fiber": "Cashmere goat (Cashmere)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Stockinette stitch"
+    "cable",
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "Cables"
+    "cables"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.5
   ],
   "published": "2011/12/01",
-  "sizes_available": "S (L)",
+  "sizes_available": "s (l)",
   "rating_average": 4.572946859903381,
   "rating_count": 1035,
   "difficulty_average": 3.2527472527472527,
-  "favorites_count": 23211,
-  "projects_count": 3880,
+  "favorites_count": 23281,
+  "projects_count": 3886,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/5968/86709",
+  "notes": "with an all-over cable pattern these preppy, faux-argyle socks will take you from the office to the weekend. \r\n\r\nthese socks were designed for my dad. :)",
   "pdf": {
     "filename": "287992.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\287992.pdf",
-    "url": "https://pdf.ravelrycache.com/tanisfiberarts/134336/BusinessCasual.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479273&Signature=0hlvZU%2Fn6MXQGheAd4iT%2B%2BYfc9k%3D&key_expires=1768479273&key=f0agjip0Xfmptm8qxuL5rg",
+    "url": "https://pdf.ravelrycache.com/tanisfiberarts/134336/BusinessCasual.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770420025&Signature=rO1N9gQnKHA9XUsRV3fhg06Y3xY%3D&key_expires=1770420025&key=XuEeD7Gm-iPj9nHfxC4Ycw",
     "size_bytes": 2467269
   }
 }

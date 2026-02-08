@@ -1,27 +1,31 @@
 {
   "id": 1113875,
-  "name": "Super Easy Baby Blanket in Morning",
+  "name": "super easy baby blanket in morning",
   "permalink": "super-easy-baby-blanket-in-morning",
   "url": "https://www.ravelry.com/patterns/library/super-easy-baby-blanket-in-morning",
   "external_url": "https://www.purlsoho.com/create/2021/02/12/super-easy-baby-blanket-in-morning/",
-  "designer_name": "Purl Soho",
-  "project_type": "Blanket",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "purl soho",
+  "project_type": "blanket",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Morning",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Yak (Yak)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Garter stitch"
+    "garter stitch"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Modular",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "modular",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -29,11 +33,12 @@
   ],
   "published": "2021/02/01",
   "sizes_available": "30 x 37 inches",
-  "rating_average": 4.816,
-  "rating_count": 125,
-  "difficulty_average": 1.5564516129032258,
-  "favorites_count": 9105,
-  "projects_count": 539,
+  "rating_average": 4.818897637795276,
+  "rating_count": 127,
+  "difficulty_average": 1.5793650793650793,
+  "favorites_count": 9228,
+  "projects_count": 546,
   "free_ravelry_download": false,
-  "download_url": "https://www.purlsoho.com/create/2021/02/12/super-easy-baby-blanket-in-morning/"
+  "download_url": "https://www.purlsoho.com/create/2021/02/12/super-easy-baby-blanket-in-morning/",
+  "notes": "materials\r\nour [super easy baby blanket in morning bundle][1] includes…\r\n\r\n- 7 skeins of purl soho’s [morning][2],75% organically grown cotton and 25% yak. each skein is 191 yards; approximately 1,337 total yards required.\r\n- a purl soho tote bag with the pattern printed on the back\r\n- a postcard of the finished blanket\r\n\r\n\r\nyou’ll also need…\r\n\r\n- us 5 (3.75 mm), 24- or 32-inch [circular needles][3]\r\n\r\nchoose from three pretty color palettes…\r\n\r\nbeach plum\r\n- color a: heirloom white\r\n- color b: sweet apricot\r\n- color c: pink lemonade\r\n- color d: pink radish\r\n- color e: purple allium\r\n- color f:  mountain purple\r\n- color g: dungarees blue\r\n\r\npeninsula\r\n- color a: araucana blue\r\n- color b: fresh sky\r\n- color c: tender green\r\n- color d: cucumber ice\r\n- color e: heirloom white\r\n- color f: grassland gray\r\n- color g: stone cottage\r\n\r\npiazza\r\n- color a: tender green\r\n- color b: cucumber ice\r\n- color c: sweet apricot\r\n- color d: yellow apple\r\n- color e: heirloom white\r\n- color f: grassland gray\r\n- color g: stone cottage\r\n\r\ngauge\r\n20 stitches and 48 rows = 4 inches in garter stitch\r\n\r\nsize\r\nfinished dimensions: approximately 30 inches wide x 37 inches long\r\n\r\n\r\n  [1]: https://www.purlsoho.com/super-easy-baby-blanket-in-morning.html\r\n  [2]: https://www.purlsoho.com/morning.html\r\n  [3]: https://www.purlsoho.com/tools-and-notions/knitting-and-crochet.html?collection_filter=23796"
 }

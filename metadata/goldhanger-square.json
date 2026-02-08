@@ -1,42 +1,43 @@
 {
   "id": 7483198,
-  "name": "Goldhanger Square",
+  "name": "goldhanger square",
   "permalink": "goldhanger-square",
   "url": "https://www.ravelry.com/patterns/library/goldhanger-square",
   "external_url": "",
-  "designer_name": "Jacqui Goulbourn",
-  "project_type": "Other",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "jacqui goulbourn",
+  "project_type": "other",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Create DK",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)"
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     4.5
   ],
   "needle_sizes_mm": [],
   "published": "2025/12/01",
-  "sizes_available": "12 inch in worsted weight, 8.5 inch in DK",
+  "sizes_available": "12 inch in worsted weight, 8.5 inch in dk",
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 118,
+  "favorites_count": 144,
   "projects_count": 13,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/10525/1039572",
+  "notes": "this square is compatible with the ravelry block a month cal selected squares in that it should measure 12 inches if worked in worsted weight yarn, and has a stitch count of 39 sts per side.\r\n\r\ni have used yarnsmiths create dk in a) lime green, b) off white, c) duck egg and d) light turquoise, e) dark turquoise. the photo tutorial uses stylecraft special dk in colours: a) mustard, b) lapis, c) aspen, d) lobelia and e) shrimp.\r\n\r\ngoldhanger is a village on the north bank of the blackwater estuary, near maldon. it is also home to a community owned farm which gives opportunities for the learning disabled to work alongside other volunteers growing vegetables and raising animals. this includes one of the few flocks of north ronaldsay sheep outside of scotland - their undyed wool is available for purchase.\r\n\r\nthis pdf download is safe to use and free from viruses. it has no embedded links.",
   "pdf": {
     "filename": "7483198.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7483198.pdf",
-    "url": "https://pdf.ravelrycache.com/tiggerbee/2093935/Goldhanger_square_Dec25_v1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480640&Signature=ilVTZaPjZSa0t0joDNgY4dFg%2BMs%3D&key_expires=1768480640&key=UP6ErSPG0DUYCBYMkfJDRg",
+    "url": "https://pdf.ravelrycache.com/tiggerbee/2093935/Goldhanger_square_Dec25_v1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770427687&Signature=4OAKKhbvUd5iHlaaMDJDATzwRaA%3D&key_expires=1770427687&key=SQjqTR3zlNFxwR921fcOxg",
     "size_bytes": 2963990
   }
 }

@@ -1,42 +1,51 @@
 {
   "id": 7284050,
-  "name": "242-48 Silver Day Hat",
+  "name": "242-48 silver day hat",
   "permalink": "242-48-silver-day-hat",
   "url": "https://www.ravelry.com/patterns/library/242-48-silver-day-hat",
   "external_url": "https://www.garnstudio.com/pattern.php?id=11598&cid=19",
-  "designer_name": "DROPS design",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "drops design",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "DROPS Kid-Silk",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 37.5
     },
     {
-      "fiber": "DROPS Lima",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 32.5
+    },
+    {
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 17.5
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 12.5
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [],
   "published": "2023/10/01",
-  "sizes_available": "S/M - M/L - L/XL",
+  "sizes_available": "s/m - m/l - l/xl",
   "rating_average": 4.923076923076923,
   "rating_count": 13,
   "difficulty_average": 2.9,
-  "favorites_count": 396,
-  "projects_count": 43,
+  "favorites_count": 410,
+  "projects_count": 45,
   "free_ravelry_download": false,
-  "download_url": "https://www.garnstudio.com/pattern.php?id=11598&cid=19"
+  "download_url": "https://www.garnstudio.com/pattern.php?id=11598&cid=19",
+  "notes": "**knitted hat in drops lima and drops kid-silk. the piece is worked bottom up.**\r\n~~~~~~~~~~~~~~~~~~~~\r\n\r\ndrops design: pattern li-161\r\nyarn group b + a or c\r\n\r\n-------------------------------------------------------\r\n\r\n\r\n**sizes**:\r\ns/m - m/l - l/xl\r\nfits head-size approx.: 54/56 - 56/58 - 58/60 cm\r\nheight: 23-24-25 cm (without folded edge)\r\n\r\n**yarn**:\r\ndrops lima from garnstudio (belongs to yarn group b)\r\n100-100-100 g colour 9020, pearl grey\r\nand use:\r\ndrops kid-silk from garnstudio (belongs to yarn group a)\r\n25-25-25 g colour 44, moonlight\r\n\r\n**needles**:\r\ndrops circular needle size 4 mm: length 40 cm.\r\ndrops circular needle size 3 mm: length 40 cm.\r\ndrops double pointed needles size 4 mm.\r\nthe technique magic loop can be used – you then only need 80 cm circular needle in each size.\r\n\r\n**knitting tension**:\r\n19 stitches in width and 25 rows in height with stocking stitch and 1 strand of each quality = 10 x 10 cm.\r\nnote: needle size is only a guide. if you get too many stitches on 10 cm, change to a larger needle size. if you get too few stitches on 10 cm, change to a smaller needle size."
 }

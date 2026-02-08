@@ -1,26 +1,34 @@
 {
   "id": 7411093,
-  "name": "Fjäder - socks",
+  "name": "fjäder - socks",
   "permalink": "fjader---socks",
   "url": "https://www.ravelry.com/patterns/library/fjader---socks",
   "external_url": "https://www.jarbo.se/fjader-socka-med-resarmudd-93007",
-  "designer_name": "Maja Karlsson",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Sport",
+  "designer_name": "maja karlsson",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Fin Mohair Silke",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 37.5
     },
     {
-      "fiber": "Mellanraggi",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 36.0
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 14.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 12.5
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [],
@@ -29,11 +37,12 @@
   ],
   "published": "2025/02/01",
   "sizes_available": "36/37 (38/39) 40/41 (42/43)",
-  "rating_average": 0,
-  "rating_count": null,
-  "difficulty_average": 4.333333333333333,
-  "favorites_count": 628,
-  "projects_count": 34,
+  "rating_average": 4.666666666666667,
+  "rating_count": 3,
+  "difficulty_average": 4.25,
+  "favorites_count": 690,
+  "projects_count": 38,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/82366/985602"
+  "download_url": "http://www.ravelry.com/dls/82366/985602",
+  "notes": "***we are happy to be able to share our patterns with you for free! unfortunately, we are not able to answer dm’s here on ravelry.\r\nhowever, we hope you will like the pattern and will enjoy seeing your project come to life!***\r\n\r\n**inspiration and free patterns**\r\nfollow järbo on [instagram][1]\r\n\r\n**reseller map**\r\n[jarbo.se][2] - brand website, in swedish\r\n[find a reseller][3] - nordic region, in swedish\r\n\r\n**our official online stores**\r\n[eddna.se][4], [eddna.no][5], [eddna.de][6], [eddna.at][7], [eddna.nl][8], [eddna.be][9]\r\n\r\njärbo is a swedish brand established in 1896. we offer nordic design, selected yarns and accessories in stores and online.\r\n\r\n  [1]: https://www.instagram.com/jarbogarn/\r\n  [2]: https://www.jarbo.se/\r\n  [3]: https://www.jarbo.se/hitta-butik\r\n  [4]: https://www.eddna.se/\r\n  [5]: https://www.eddna.no/\r\n  [6]: https://www.eddna.de/\r\n  [7]: https://www.eddna.at/\r\n  [8]: https://www.eddna.nl/\r\n  [9]: https://www.eddna.be/\r\n"
 }

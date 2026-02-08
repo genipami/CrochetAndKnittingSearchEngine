@@ -1,39 +1,44 @@
 {
   "id": 7447855,
-  "name": "Delicate Light Hat",
+  "name": "delicate light hat",
   "permalink": "delicate-light-hat",
   "url": "https://www.ravelry.com/patterns/library/delicate-light-hat",
   "external_url": "https://mirellamoments.com/delicate-light-hat-knitting-pattern/",
-  "designer_name": "Mirella Moments",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "mirella moments",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "DROPS Nepal",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 65.0
+    },
+    {
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 35.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch"
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "Blocking",
-    "Bottom-up",
-    "In the round",
-    "Seamless"
+    "blocking",
+    "bottom-up",
+    "in the round",
+    "seamless"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     4.0
   ],
   "published": "2025/07/01",
-  "sizes_available": "Adult",
-  "rating_average": 4.6,
-  "rating_count": 5,
-  "difficulty_average": 1.8,
-  "favorites_count": 353,
+  "sizes_available": "adult",
+  "rating_average": 4.666666666666667,
+  "rating_count": 6,
+  "difficulty_average": 1.8333333333333333,
+  "favorites_count": 368,
   "projects_count": 13,
   "free_ravelry_download": false,
-  "download_url": "https://mirellamoments.com/delicate-light-hat-knitting-pattern/"
+  "download_url": "https://mirellamoments.com/delicate-light-hat-knitting-pattern/",
+  "notes": "the delicate light hat is a ribbed beanie, knit in 1×1 rib. it is worked from the bottom up in the round without seams. the hat is knit with medium-weight yarn.\r\n\r\nsize:\r\n\r\n* to fit actual head circumference: adult medium (54-56cm/ 21.25- 22″).\r\n* finished height: 21cm/ 8.25″ with the brim folded up 7cm (2.75″)."
 }

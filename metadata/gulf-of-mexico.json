@@ -1,26 +1,26 @@
 {
   "id": 7403561,
-  "name": "Gulf of Mexico",
+  "name": "gulf of mexico",
   "permalink": "gulf-of-mexico",
   "url": "https://www.ravelry.com/patterns/library/gulf-of-mexico",
   "external_url": "https://www.kieranfoley.com/knit_lab_gulf_of_mexico.html",
-  "designer_name": "Kieran Foley",
-  "project_type": "Scarf",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "kieran foley",
+  "project_type": "scarf",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Shetland Spindrift",
-      "pct": null
+      "fiber": "Shetland (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -28,17 +28,18 @@
   ],
   "published": "2025/01/01",
   "sizes_available": "",
-  "rating_average": 4.811111111111111,
-  "rating_count": 90,
-  "difficulty_average": 2.134831460674157,
-  "favorites_count": 4451,
-  "projects_count": 395,
+  "rating_average": 4.813186813186813,
+  "rating_count": 91,
+  "difficulty_average": 2.1222222222222222,
+  "favorites_count": 4635,
+  "projects_count": 403,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/2602/979878",
+  "notes": "“the nets were overflowing\r\nin the gulf of mexico”\r\nfrom “refuge of the roads” by joni mitchell\r\n\r\na long skinny scarf with a rustic garter stitch chevron, inspired by a favorite song.\r\nthe scarf is worked with two strands held together. i worked with relatively short lengths of yarn, splicing in a new color when necessary, generally holding a dark and light shade together, sometimes holding two darker colors together.\r\nthe pattern can also be worked in a more varied palette to use up more varied scraps.\r\nknit on 5mm/us8 needles with approximately 60g/280yds/260m of leftover yarns including jamieson’s of shetland spindrift and some merino silk mixes. **if you are working with one strand of a heavier yarn, allow approximately 140yds/130m.**\r\ndimensions:\r\napproximately 4.75ins/12cm wide by 46ins/117cm\r\ngauge: approximately 19sts (measured on the diagonal) and 22 rows (measured along the spine) = 4ins/10cm in pattern",
   "pdf": {
     "filename": "7403561.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7403561.pdf",
-    "url": "https://pdf.ravelrycache.com/knitlab/1952643/Gulf_of_Mexico.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480725&Signature=gZZ2AJeoxmQkzJEDQ6zX7b9GwC8%3D&key_expires=1768480725&key=CR7w-53hd5cWSzHjgWc0kg",
+    "url": "https://pdf.ravelrycache.com/knitlab/1952643/Gulf_of_Mexico.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770428271&Signature=KMQmdeJl5BY%2FXh5oQs8NNlgoVkM%3D&key_expires=1770428271&key=5-DC1oREoGKQwIHcPT9RVw",
     "size_bytes": 8084739
   }
 }

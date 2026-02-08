@@ -1,26 +1,34 @@
 {
   "id": 7292626,
-  "name": "Mosaic Christmas Tree Coaster",
+  "name": "mosaic christmas tree coaster",
   "permalink": "mosaic-christmas-tree-coaster",
   "url": "https://www.ravelry.com/patterns/library/mosaic-christmas-tree-coaster",
   "external_url": "",
-  "designer_name": "Created by Carolien",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "created by carolien",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Portobello",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 60.0
+    },
+    {
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 28.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 12.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Mosaic"
+    "charted",
+    "mosaic"
   ],
   "hook_sizes_mm": [
     4.5
@@ -31,8 +39,9 @@
   "rating_average": 4.923076923076923,
   "rating_count": 13,
   "difficulty_average": 2.5454545454545454,
-  "favorites_count": 1442,
+  "favorites_count": 1475,
   "projects_count": 50,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/77145/891985"
+  "download_url": "http://www.ravelry.com/dls/77145/891985",
+  "notes": "do you want to learn the overlay mosaic technique? then start with the pattern of this christmas tree mug rug coaster.\r\n\r\nthe pattern contains a step-by-step explanation of the first rows, after which you can continue yourself with the table and crochet this cute christmas tree mug rug coaster.\r\n\r\nare you hooked? take a look at my other mosaic patterns!"
 }

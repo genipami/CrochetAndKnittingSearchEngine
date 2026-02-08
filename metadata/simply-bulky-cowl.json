@@ -1,27 +1,27 @@
 {
   "id": 1200437,
-  "name": "Simply Bulky Cowl",
+  "name": "simply bulky cowl",
   "permalink": "simply-bulky-cowl",
   "url": "https://www.ravelry.com/patterns/library/simply-bulky-cowl",
   "external_url": "",
-  "designer_name": "Shannon Larson",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "shannon larson",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Big Sky Bulky",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch"
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -32,14 +32,15 @@
   "rating_average": 4.954545454545454,
   "rating_count": 22,
   "difficulty_average": 1.5416666666666667,
-  "favorites_count": 752,
-  "projects_count": 106,
+  "favorites_count": 771,
+  "projects_count": 105,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/47301/745070",
+  "notes": "this cowl is knit in the round, beginning and ending with rib. it is meant to be a quick and easy gift knit, and my gift to you is to make it a free pattern. this is a great pattern for men, women and kids.\r\n\r\nyarn: 100g/106 yds bulky weight yarn *(sample uses 1 skein polka dot sheep big sky bulky in ‘tally lake’).\r\n\r\none size\r\n\r\nfinished measurements:\r\n22” circumference and 10” tall",
   "pdf": {
     "filename": "1200437.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1200437.pdf",
-    "url": "https://pdf.ravelrycache.com/justlivin/1422087/Simply_Bulky_Cowl.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483020&Signature=8xZFXYr5rO3tdfatW7uxXsFNzXA%3D&key_expires=1768483020&key=6ux1lvQlMPcbFpN7zt7bbQ",
+    "url": "https://pdf.ravelrycache.com/justlivin/1422087/Simply_Bulky_Cowl.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770440752&Signature=ZxlFr8E2u8VvCPyy8ZJGptx%2BkoE%3D&key_expires=1770440752&key=q-KcJbE_MkmJokdtVtecxQ",
     "size_bytes": 5994115
   }
 }

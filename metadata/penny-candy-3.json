@@ -1,30 +1,26 @@
 {
   "id": 7449906,
-  "name": "Penny Candy",
+  "name": "penny candy",
   "permalink": "penny-candy-3",
   "url": "https://www.ravelry.com/patterns/library/penny-candy-3",
   "external_url": "",
-  "designer_name": "Woolliam Sheep",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "woolliam sheep",
+  "project_type": "shawl/wrap",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Cirrus",
-      "pct": null
-    },
-    {
-      "fiber": "Cirrus Rainbow",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamless",
-    "Written"
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [
     3.75
@@ -35,14 +31,15 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 308,
+  "favorites_count": 312,
   "projects_count": 6,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/38064/1015304",
+  "notes": "this simple side-to-side crochet pattern creates an easy triangle shawl that gives you a variety of options for playing with color. the sample combined a solid color with a colorshifting yarn to offer a gradual movement of color across the entire work. you could combine two solid colors for a tonal look, use up scraps paired with a single skein of a solid color, or just play with bits and pieces to create something brand new. \r\n\r\nto change size, use bigger or small yarn and a matching hook. alternatively, do more increase rows, which will be matched with more decrease rows. ",
   "pdf": {
     "filename": "7449906.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7449906.pdf",
-    "url": "https://pdf.ravelrycache.com/MindsEyeYarns2/2036994/Penny_Candy_-_Crochet_Crawl_Shawl_2025.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482324&Signature=PkQIj1oi202iOV%2F1VIkuVH3JfA4%3D&key_expires=1768482324&key=dydLmE2zALMnK2KZY89FEA",
+    "url": "https://pdf.ravelrycache.com/MindsEyeYarns2/2036994/Penny_Candy_-_Crochet_Crawl_Shawl_2025.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770436713&Signature=G6NjajJPPos29Cc7K7%2BpNnAJ5tI%3D&key_expires=1770436713&key=c2nGchj6DhGTQDhdm7Igzg",
     "size_bytes": 220605
   }
 }

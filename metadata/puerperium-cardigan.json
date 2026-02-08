@@ -1,27 +1,27 @@
 {
   "id": 243083,
-  "name": "Puerperium Cardigan",
+  "name": "puerperium cardigan",
   "permalink": "puerperium-cardigan",
   "url": "https://www.ravelry.com/patterns/library/puerperium-cardigan",
   "external_url": "",
-  "designer_name": "Kelly van Niekerk",
-  "project_type": "Cardigan",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "kelly van niekerk",
+  "project_type": "cardigan",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Tosh DK",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamless",
-    "Top-down",
-    "Written"
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -29,11 +29,12 @@
   ],
   "published": "2011/05/01",
   "sizes_available": "3-4kg birthweight (7-9lb)",
-  "rating_average": 4.706570657065707,
-  "rating_count": 3333,
-  "difficulty_average": 2.233150130170668,
-  "favorites_count": 37939,
-  "projects_count": 12439,
+  "rating_average": 4.706746626686657,
+  "rating_count": 3335,
+  "difficulty_average": 2.233371891266628,
+  "favorites_count": 37975,
+  "projects_count": 12453,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/2543/65092"
+  "download_url": "http://www.ravelry.com/dls/2543/65092",
+  "notes": "puerperium is a very simply styled cardy, designed to be easy for new parents to dress their babe in the puerperium period (6 weeks post birth).\r\n\r\nthe pattern is top-down seamless in construction, and offers a wonderful blank canvas should one decide to embellish.\r\n\r\nthis free version is written for 8ply/dk weight yarn, and to fit a newborn babe, approx 3-4kg (7-9lb) in weight, with an approx chest circumference of 37.5cm.\r\n\r\npattern has instructions for straight knit sleeves, and tailored tapered sleeves.\r\n\r\n**news** the lovely marjanne has created a dutch version of the puerperium cardigan, nerea has created a spanish version, carla an italian version, and elisabeth has done a french version - please make sure you download the correct version.*\r\n[you can get caroline's german version here!][1]\r\n[you can get marianne's danish version here!][2]\r\n\r\n\r\nlead photograph was taken by leah williams, and is of the designer's new baby. baby noah was 6 days old, and weighed 3.0kg at this time.\r\n\r\n**['beyond puerperium'][3], the extended version of the puerperium cardigan has now been released! \r\nthis extended version of the pattern covers from birth to 2years of age, and is written for multiple yarn weights!'**\r\n\r\n\r\n  [1]: http://carosfummeley.blogspot.de/2013/06/kostenlose-anleitung-babyjackchen-fur.html\r\n  [2]: http://strikkeglad.dk/2650/cardigan-til-nyfoedt/\r\n  [3]: http://www.ravelry.com/patterns/library/beyond-puerperium"
 }

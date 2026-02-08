@@ -1,22 +1,30 @@
 {
   "id": 7338556,
-  "name": "Pull Marin",
+  "name": "pull marin",
   "permalink": "pull-marin-2",
   "url": "https://www.ravelry.com/patterns/library/pull-marin-2",
   "external_url": "https://www.youtube.com/watch?v=rDluB6xL2f8&t=1031s",
-  "designer_name": "Stéphanie L",
-  "project_type": "Pullover",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "stéphanie l",
+  "project_type": "pullover",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "DROPS Belle",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 53.0
+    },
+    {
+      "fiber": "Rayon / Viscose (Rayon)",
+      "pct": 33.0
+    },
+    {
+      "fiber": "Flax (Linen)",
+      "pct": 14.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "Top-down"
+    "top-down"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -24,12 +32,13 @@
     4.5
   ],
   "published": "2024/05/01",
-  "sizes_available": "S à XXL",
+  "sizes_available": "s à xxl",
   "rating_average": 4.869565217391305,
   "rating_count": 23,
   "difficulty_average": 2.375,
-  "favorites_count": 2790,
+  "favorites_count": 2875,
   "projects_count": 110,
   "free_ravelry_download": false,
-  "download_url": "https://www.youtube.com/watch?v=rDluB6xL2f8&t=1031s"
+  "download_url": "https://www.youtube.com/watch?v=rDluB6xL2f8&t=1031s",
+  "notes": "tutoriel gratuit en pas à pas : \r\nhttps://www.youtube.com/watch?v=rdlub6xl2f8&t=1031s"
 }

@@ -1,25 +1,25 @@
 {
   "id": 24364,
-  "name": "Grandmother's Favorite The Original",
+  "name": "grandmother's favorite the original",
   "permalink": "grandmothers-favorite-the-original",
   "url": "https://www.ravelry.com/patterns/library/grandmothers-favorite-the-original",
   "external_url": "https://web.archive.org/web/20070708111017/http://anewtwistondishcloths.blogspot.com/2005/07/grandmothers-favorite-original.html",
-  "designer_name": "Vintage",
-  "project_type": "Dishcloth",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "vintage",
+  "project_type": "dishcloth",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Sugar'n Cream The Original (Solids)",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamless",
-    "Written"
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -27,11 +27,12 @@
   ],
   "published": "2005/07/01",
   "sizes_available": "",
-  "rating_average": 4.5866374589266155,
-  "rating_count": 4565,
-  "difficulty_average": 1.2714087025630836,
-  "favorites_count": 38283,
-  "projects_count": 21475,
+  "rating_average": 4.58681848040289,
+  "rating_count": 4567,
+  "difficulty_average": 1.2714995034756702,
+  "favorites_count": 38394,
+  "projects_count": 21505,
   "free_ravelry_download": false,
-  "download_url": "https://web.archive.org/web/20070708111017/http://anewtwistondishcloths.blogspot.com/2005/07/grandmothers-favorite-original.html"
+  "download_url": "https://web.archive.org/web/20070708111017/http://anewtwistondishcloths.blogspot.com/2005/07/grandmothers-favorite-original.html",
+  "notes": "this is a traditional pattern with many variations.\r\n\r\nthere was a german translation to this pattern in the blog comments for this pattern.  "
 }

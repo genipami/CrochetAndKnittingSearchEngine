@@ -1,34 +1,38 @@
 {
   "id": 7442705,
-  "name": "A Break in the Fog",
+  "name": "a break in the fog",
   "permalink": "a-break-in-the-fog",
   "url": "https://www.ravelry.com/patterns/library/a-break-in-the-fog",
   "external_url": "",
-  "designer_name": "Margaret Rafferty",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Fingering",
+  "designer_name": "margaret rafferty",
+  "project_type": "shawl/wrap",
+  "fiber_art": "crochet",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Fabulous Sock",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 51.7
     },
     {
-      "fiber": "Twist Light",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 20.0
     },
     {
-      "fiber": "Whirl",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 15.0
+    },
+    {
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 13.3
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Lace",
-    "Written"
+    "lace",
+    "written"
   ],
   "hook_sizes_mm": [
     3.5
@@ -39,8 +43,9 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 208,
+  "favorites_count": 226,
   "projects_count": 12,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/40350/1009758"
+  "download_url": "http://www.ravelry.com/dls/40350/1009758",
+  "notes": "a break in the fog is a soft triangle shawl with gentle crescent shaping along the top edge to help it drape across the shoulders without sliding off. \r\n\r\nthe shawl is worked in 4ply (fingering weight) yarn and two versions are given: version 1 uses a colour changing gradient yarn and version 2 is worked in two contrasting colours. in the second version 2 skeins of the main colour and 1 skein of the contrast are needed. \r\n\r\napproximately 900-1100m of yarn is required. \r\n\r\nthe shawl is worked with a 3.5mm (us4) hook. gauge isn't vital for this project, though if your tension is tighter or looser than mine you may find you use less or more yarn. in my version, 10cm = 20 treble stitches and 6 of the 2 row pattern repeats for the main body of the shawl. finished size is 140cm wide and 60cm deep\r\n\r\nthis shawl is available in both uk and us terms. \r\n\r\n**note: members of the nsw knitters guild can get the pattern for free until the 2025 fibrefest. guild members can find the pattern on the guild website in the member's area.** \r\n"
 }

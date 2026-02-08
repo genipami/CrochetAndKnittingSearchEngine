@@ -1,46 +1,51 @@
 {
   "id": 1229185,
-  "name": "The Til",
+  "name": "the til",
   "permalink": "the-til",
   "url": "https://www.ravelry.com/patterns/library/the-til",
   "external_url": "",
-  "designer_name": "Sonder Yarn Co.",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "sonder yarn co.",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Sunday Morning 4 Ply (Fingering)",
-      "pct": null
+      "fiber": "Bluefaced Leicester (BFL) (Wool)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Masham / Massam (Wool)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Modular",
-    "Short rows",
-    "Written"
+    "modular",
+    "short rows",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     4.0
   ],
   "published": "2022/03/01",
-  "sizes_available": "One size",
+  "sizes_available": "one size",
   "rating_average": 4.861111111111111,
   "rating_count": 36,
   "difficulty_average": 2.0303030303030303,
-  "favorites_count": 4651,
-  "projects_count": 127,
+  "favorites_count": 4679,
+  "projects_count": 132,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/92316/768653",
+  "notes": "the til is a beautiful and versatile accessory created by knitting two elongated triangles in modular fashion. after knitting the first one, the second one is attached to the first as you go. there are no short rows in this pattern, just simple increases and decreases and a clever joining technique. when finished, fold the shawl along the center seam and decide which colour you're in the mood to wear forward that day!\r\n\r\n*pattern requires 2 skeins each of 2 colours (4 skeins total) - shown in 'under the duvet' and 'fresh sheets'*\r\n\r\nsee schematic photo for final shape.\r\n\r\n*the til - n. the reservoir of all possible opportunities still available to you at this point in your life. from the dictionary of obscure sorrows by john koenig.*\r\n\r\n**pattern designed by lisa di fruscia for sonder yarn co.❤️**",
   "pdf": {
     "filename": "1229185.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1229185.pdf",
-    "url": "https://pdf.ravelrycache.com/SonderYarnCo/1472616/The_TIL_-_FINAL.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483691&Signature=AIgJpj%2F4ynlYVlNng4dNuHCPOy0%3D&key_expires=1768483691&key=BicDNy_7bXWdBK7UOXTZIA",
+    "url": "https://pdf.ravelrycache.com/SonderYarnCo/1472616/The_TIL_-_FINAL.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770444524&Signature=bAlczgpNz%2F6s44uQo80skMasFkI%3D&key_expires=1770444524&key=GNHfo4EitVuLySxcg0bWBw",
     "size_bytes": 1586574
   }
 }

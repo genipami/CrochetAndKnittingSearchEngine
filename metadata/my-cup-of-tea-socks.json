@@ -1,28 +1,36 @@
 {
   "id": 367142,
-  "name": "My Cup of Tea Socks",
+  "name": "my cup of tea socks",
   "permalink": "my-cup-of-tea-socks",
   "url": "https://www.ravelry.com/patterns/library/my-cup-of-tea-socks",
   "external_url": "",
-  "designer_name": "Robin Lynn",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "robin lynn",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Panda Sock",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 60.0
+    },
+    {
+      "fiber": "Rayon from Bamboo (Bamboo)",
+      "pct": 30.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch"
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Kitchener stitch",
-    "Top-down",
-    "Written"
+    "charted",
+    "in the round",
+    "kitchener stitch",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -30,17 +38,18 @@
   ],
   "published": "2012/12/01",
   "sizes_available": "women's medium",
-  "rating_average": 4.609081934846989,
-  "rating_count": 1013,
-  "difficulty_average": 3.0778688524590163,
-  "favorites_count": 25543,
-  "projects_count": 3622,
+  "rating_average": 4.609467455621302,
+  "rating_count": 1014,
+  "difficulty_average": 3.0767656090071647,
+  "favorites_count": 25608,
+  "projects_count": 3628,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/5376/130149",
+  "notes": "*my cup of tea* socks are worked top down on dpn’s.    inspiration for these socks came from the “crocuses” pattern (p. 60) the *stitch collection book 5/specialty stitches* by debbie o’neill.\r\n\r\nthe design is pretty but practical, following a basic sock pattern but with a 24-stitch (12 row repeat) motif added down the front.\r\n\r\nit is written with a 64-stitch cast-on, but can be easily modified for fit using your favorite basic sock pattern formula.  the motif ends before the toe to make the socks comfortably worn inside shoes.\r\n\r\nthe sample socks were knit up with undyed panda sock yarn from wc mercantile that i crockpot dyed using an assortment of tea bags, resulting in both lovely and fragrant yarn ~ aromatherapy knitting ~ *just my cup of tea*!",
   "pdf": {
     "filename": "367142.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\367142.pdf",
-    "url": "https://pdf.ravelrycache.com/RobinLynn/208653/My_Cup_of_Tea.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482002&Signature=%2FrQNlKPhWT5QTEKDaeUj93qvw4g%3D&key_expires=1768482002&key=Visw8D6LycGnuCu-crU12A",
+    "url": "https://pdf.ravelrycache.com/RobinLynn/208653/My_Cup_of_Tea.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770434999&Signature=ZX2og%2B7OLFbSnXeWNTL1%2FS6qgL0%3D&key_expires=1770434999&key=fPyMJECCn7gs13hmtM9Org",
     "size_bytes": 528678
   }
 }

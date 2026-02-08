@@ -1,24 +1,24 @@
 {
   "id": 1237919,
-  "name": "Crochet Baby Octopus",
+  "name": "crochet baby octopus",
   "permalink": "crochet-baby-octopus-2",
   "url": "https://www.ravelry.com/patterns/library/crochet-baby-octopus-2",
   "external_url": "",
-  "designer_name": "Dede Starnes",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "dede starnes",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [],
   "stitches_used": [
-    "Lace",
-    "Treble crochet (tr)"
+    "lace",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Lace",
-    "Modular",
-    "Top-down",
-    "Written"
+    "in the round",
+    "lace",
+    "modular",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [
     3.5
@@ -29,14 +29,15 @@
   "rating_average": 4.769230769230769,
   "rating_count": 13,
   "difficulty_average": 2.4545454545454546,
-  "favorites_count": 829,
-  "projects_count": 43,
+  "favorites_count": 836,
+  "projects_count": 44,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/94561/778866",
+  "notes": "this crochet baby octopus was originally designed for neonatal care units to comfort preemie and hospitalized newborns. the little legs are perfect to keep hands busy and can be used as a stress reliever for any age. \r\n\r\nthe octopus is worked in two sections, the head and then the tentacles. each round is worked continuously around without turning. stitch marker can be placed at beginning of round and moved up as rounds are worked. \r\n\r\ngauge is not critical to this project. this pattern creates a octopus that is approximately 3 inches wide with tentacles design to be no longer than 8 inches long outstretched. to increase or decrease the dimensions you can adjust your hook size.",
   "pdf": {
     "filename": "1237919.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1237919.pdf",
-    "url": "https://pdf.ravelrycache.com/d2starnes/1668273/Baby_Octopus_v.5_2023.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479760&Signature=nRKrksvqGtXFREVwoC8fYPzYRq0%3D&key_expires=1768479760&key=3x6m89jnPBV13_kQuIi-5A",
+    "url": "https://pdf.ravelrycache.com/d2starnes/1668273/Baby_Octopus_v.5_2023.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770422602&Signature=7I565YjwdK6VEBx9JU2IR6SMUsc%3D&key_expires=1770422602&key=M7Gt7Pn2EEVMt0agCm_sVw",
     "size_bytes": 453932
   }
 }

@@ -1,51 +1,56 @@
 {
   "id": 7330569,
-  "name": "Three Worlds",
+  "name": "three worlds",
   "permalink": "three-worlds",
   "url": "https://www.ravelry.com/patterns/library/three-worlds",
   "external_url": "",
-  "designer_name": "Lena Trost",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "lena trost",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Fine Sock",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 37.5
     },
     {
-      "fiber": "Jawoll Superwash 75/25",
-      "pct": null
+      "fiber": "Corriedale (Wool)",
+      "pct": 37.5
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Ribbing",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "ribbing",
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Colorwork",
-    "Stranded colorwork"
+    "charted",
+    "colorwork",
+    "stranded colorwork"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.0
   ],
   "published": "2024/04/01",
-  "sizes_available": "S (M, L)",
-  "rating_average": 4.75,
-  "rating_count": 12,
-  "difficulty_average": 6.642857142857143,
-  "favorites_count": 1886,
-  "projects_count": 87,
+  "sizes_available": "s (m, l)",
+  "rating_average": 4.769230769230769,
+  "rating_count": 13,
+  "difficulty_average": 6.733333333333333,
+  "favorites_count": 1928,
+  "projects_count": 89,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/96761/949124",
+  "notes": "**thank you everyone for all those lovely comments. this was the bonus pattern of round 3 for sock madness 18. ***\r\n\r\nthese socks are inspired by the picture „three worlds“ from the artist m.c. escher. when you look at the picture you can see three worlds: the fish in the pond, the surface with leaves on it and the reflection of the trees. the three worlds of the sock are the stranded colorwork pattern, the ladderback jacquard in the background and the roosimine leaves on the surface.\r\n\r\nthe socks are worked cuff-down. after some rounds of ribbing, you start with a stranded colorwork pattern. when you are used to it you incorporate the roosimine inlay technic from estonia. there are special charts for the right and the left sock. the heel is worked with ribbing and slipped stitches, and the gusset is on the sole. the toe is worked with two strands of the same color to make it extra strong. most parts of the socks are charted, with special charts for left handed knitters.\r\n\r\n**supplie**\r\n\r\nthree colors of sock yarn (for size s light fingering weight, for size m and l fingering weight). \r\n70 g (306 yards / 280 m) main color  \r\n40 g (174 yards / 160 m) contrast color 1\r\n40 g (174 yards / 160 m) contrast color 2\r\n\r\nus 0 (2.00 mm) needles\r\nstitch markers\r\nyarn needle\r\n\r\n**gauge and sizing**\r\nfor size s (7.5” / 19 cm circumference): 38 stitches and 42 rows = 4 x 4” / 10 x 10 cm in stranded colorwork pattern.\r\n\r\nfor size m (8.5” / 21.5 cm circumference): 34 stitches and 40 rows = 4 x 4” / 10 x 10 cm in stranded colorwork pattern.\r\n\r\nfor larger feet:  (9.5” / 24 cm circumference): 30 stitches and 38 rows = 4 x 4” / 10 x 10 cm in stranded colorwork pattern.\r\n\r\nthe different gauges will achieve the different sizes. always take care to produce a dense fabric. for bigger sizes use a thicker yarn & larger needles.\r\n\r\n",
   "pdf": {
     "filename": "7330569.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7330569.pdf",
-    "url": "https://pdf.ravelrycache.com/FraeuleinWollig/1881495/Three_Worlds_1.4__Stand_13.3._after_TE_.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483720&Signature=vVATVxVPZtbsujzBquCMOESwGgo%3D&key_expires=1768483720&key=tmqqtDcRDJXUXK2FdBrFRw",
+    "url": "https://pdf.ravelrycache.com/FraeuleinWollig/1881495/Three_Worlds_1.4__Stand_13.3._after_TE_.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770444682&Signature=3ClKdnYHOvWOZb5v15sFWUuLvAs%3D&key_expires=1770444682&key=u8y_ZVqdm0Jcl0Gu2C4hRg",
     "size_bytes": 20185291
   }
 }

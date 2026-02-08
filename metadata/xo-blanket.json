@@ -1,32 +1,36 @@
 {
   "id": 7350444,
-  "name": "XO Blanket",
+  "name": "xo blanket",
   "permalink": "xo-blanket",
   "url": "https://www.ravelry.com/patterns/library/xo-blanket",
   "external_url": "https://tlycblog.com/xo-blanket-a-free-granny-square-baby-blanket-pattern/",
-  "designer_name": "Toni Lipsey",
-  "project_type": "Blanket",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "toni lipsey",
+  "project_type": "blanket",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Happy Place Melange",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 50.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 50.0
     }
   ],
   "stitches_used": [
-    "Granny",
-    "Lace",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "granny",
+    "lace",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Charted",
-    "In the round",
-    "Lace",
-    "Seamed",
-    "Written"
+    "blocking",
+    "charted",
+    "in the round",
+    "lace",
+    "seamed",
+    "written"
   ],
   "hook_sizes_mm": [
     5.0
@@ -37,8 +41,9 @@
   "rating_average": 4.333333333333333,
   "rating_count": 6,
   "difficulty_average": 2.75,
-  "favorites_count": 610,
+  "favorites_count": 632,
   "projects_count": 15,
   "free_ravelry_download": false,
-  "download_url": "http://www.ravelry.com/purchase/tl-yarn-crafts-designs/937258"
+  "download_url": "http://www.ravelry.com/purchase/tl-yarn-crafts-designs/937258",
+  "notes": "*add bold sophistication to your baby's room with this adorable baby blanket!* the xo blanket is a feast for the eyes, combining classic granny squares with an eye-catching color palette. use all-natural happy place yarn (50% wool, 50% cotton) for a blanket they can love for a lifetime.\r\n\r\n*pattern includes a helpful video tutorial to practice granny squares. pattern also includes a chart for the granny square and border rounds.*\r\n\r\n**materials**\r\n-dk weight yarn in one main color and 4 coordinating colors\r\n-5mm crochet hook\r\n-scissors\r\n-tapestry needle\r\n-steam blocking supplies\r\n\r\n**techniques**\r\n-classic granny sqauares\r\n-crochet color changes\r\n-crochet motif assembly\r\n-adding a border to crochet blankets\r\n\r\n**measurements**\r\none size - 41\" square\r\n\r\n**find the free version of the xo blanket ** [here][1]**.**\r\n\r\n// buy more, save more //\r\nuse these codes to save when you buy multiple patterns:\r\n-’saveon3’ to save 10% off 3 patterns\r\n-’saveon5’ to save 15% off 5 patterns\r\n-’saveon8’ to save 20% off 8 patterns\r\nadd all patterns to cart for discount. limit one use per purchase.\r\n\r\n\r\n  [1]: http://tlycblog.com/xo-blanket-a-free-granny-square-baby-blanket-pattern"
 }

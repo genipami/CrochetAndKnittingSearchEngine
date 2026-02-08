@@ -1,26 +1,26 @@
 {
   "id": 7487238,
-  "name": "Corded Shells Hat",
+  "name": "corded shells hat",
   "permalink": "corded-shells-hat",
   "url": "https://www.ravelry.com/patterns/library/corded-shells-hat",
   "external_url": "https://youtu.be/LzuDEIOSaLo?si=O4JmiACtoS9eo1HR",
-  "designer_name": "Fiber Spider",
-  "project_type": "Hat",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "fiber spider",
+  "project_type": "hat",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Ice Cream Big Scoop",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Shell",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "shell",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     4.5,
@@ -32,8 +32,9 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 20,
+  "favorites_count": 24,
   "projects_count": 2,
   "free_ravelry_download": false,
-  "download_url": "https://youtu.be/LzuDEIOSaLo?si=O4JmiACtoS9eo1HR"
+  "download_url": "https://youtu.be/LzuDEIOSaLo?si=O4JmiACtoS9eo1HR",
+  "notes": "\r\nyou may use any fiber just match hook size to yarn label and adjust to your individual tension.\r\n\r\nfiber spider has not written pattern yet but you may look below video to transcript, copy, paste and edit a bit to get a pattern.\r\n"
 }

@@ -9,13 +9,14 @@ url = 'https://api.ravelry.com/patterns/search.json'
 
 params = {
     'availability': 'free',
-    'craft': 'knitting',
+    'craft': 'crochet',
     'sort': 'best',
-    'page_size': 100
+    'page_size': 100,
+    'lang': 'en',
 }
 
-with open('patterns_with_ids_knitting.txt', 'a', encoding='utf-8') as file:
-    for page in range(1, 21):
+with open('patterns_with_ids_crochet_new.txt', 'a', encoding='utf-8') as file:
+    for page in range(1, 1001):
         params['page'] = page
         response = requests.get(url, params=params, auth=HTTPBasicAuth(USERNAME, PASSWORD))
 

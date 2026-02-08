@@ -1,28 +1,28 @@
 {
   "id": 7470376,
-  "name": "Triskaidekaphilia Beanie",
+  "name": "triskaidekaphilia beanie",
   "permalink": "triskaidekaphilia-beanie",
   "url": "https://www.ravelry.com/patterns/library/triskaidekaphilia-beanie",
   "external_url": "https://dyemadyarns.com/blogs/patterns/triskaidekaphilia-beanie-by-donita-westman",
-  "designer_name": "Donita Westman",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "donita westman",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Minnie DK",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Ribbing",
-    "Treble crochet (tr)"
+    "cable",
+    "ribbing",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Cables",
-    "In the round",
-    "Written"
+    "cables",
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -34,8 +34,9 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 155,
-  "projects_count": 12,
+  "favorites_count": 161,
+  "projects_count": 13,
   "free_ravelry_download": false,
-  "download_url": "https://dyemadyarns.com/blogs/patterns/triskaidekaphilia-beanie-by-donita-westman"
+  "download_url": "https://dyemadyarns.com/blogs/patterns/triskaidekaphilia-beanie-by-donita-westman",
+  "notes": "triskaidekaphilia is a word of greek origin, meaning “love of the number 13”. i think 13 gets a bad rap, dear reader; there are more fearsome and wretched things in this world than the number that follows 12 and precedes 14. this hat features alternating cable & ribbing that has cable braids in a pattern at rounds #5 & #13. this cable pattern flows so intuitively, you’ll remember it all too well in no time!\r\n\r\nthis hat may be the closest thing i’ve ever found to “one size fits all”. i’ve tried it on heads that range from 20.5-23.5” and it fits them all perfectly fine! outside of that range, it’s easy to increase or decrease your stitch count by one or more cable repeats (pattern repeat is 10 stitches). adjust the length of your hat to fit your taste, with decrease options every 4 rounds. because of the elasticity of this ribbed fabric, this hat works best as a beanie style, fitting best close to your head.\r\n\r\nsample is knit with dye mad yarns minnie dk in the color \"cheez it\".  minnie dk is a plied, round superwash merino wool.  other yarns with good stitch definition and similar grist will work well also. tweeds look lovely, as do semi-solid or tonal yarns.\r\n\r\nembrace orange as the color of the season and show your triskaidekaphilia! ... and if your wi$h li$t includes an easter egg hunt this fall, there are at least 13 in this pattern... &#129505; &#x1faf6; \r\n\r\nerrata: \r\n\r\n* there is a typo in the gauge on the published pattern.  row gauge should be 14 rows/2\".\r\n* round 13 of the cable pattern omits the last stitch of the repeat.  it should read \"round 13: [p1, k2, p2, c4f, **p1**], repeat this sequence to the end of round\".  thanks to [bunmomamy](/people/bunmomamy) for the catch!"
 }

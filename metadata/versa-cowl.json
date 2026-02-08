@@ -1,50 +1,47 @@
 {
   "id": 1042327,
-  "name": "Versa Cowl",
+  "name": "versa cowl",
   "permalink": "versa-cowl",
   "url": "https://www.ravelry.com/patterns/library/versa-cowl",
   "external_url": "",
-  "designer_name": "Aimee Pelletier",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "aimee pelletier",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Opal",
-      "pct": null
-    },
-    {
-      "fiber": "Rios",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamed",
-    "Seamless",
-    "Stranded colorwork"
+    "in the round",
+    "seamed",
+    "seamless",
+    "stranded colorwork"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     5.0
   ],
   "published": "2020/06/01",
-  "sizes_available": "One Size",
-  "rating_average": 4.809885931558935,
-  "rating_count": 263,
-  "difficulty_average": 2.252032520325203,
-  "favorites_count": 10675,
-  "projects_count": 992,
+  "sizes_available": "one size",
+  "rating_average": 4.81203007518797,
+  "rating_count": 266,
+  "difficulty_average": 2.2369477911646585,
+  "favorites_count": 10750,
+  "projects_count": 1001,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/21377/619007",
+  "notes": "\r\nour june project is a fun easy hybrid of a few of our favorite patterns. just knits and purls, no tricky cast on, no fancy finishing.\r\n\r\njust knits and purls in the round. simple and soothing. \r\n\r\nyou can wear it open or fold it in half and wear your favorite side out. \r\n\r\n\r\n\r\n ",
   "pdf": {
     "filename": "1042327.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1042327.pdf",
-    "url": "https://pdf.ravelrycache.com/darnknitanyway/1148756/DKA_Pattern_June_Maker_Versa_Cowl_Final.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484011&Signature=fZUGCbGz4q6Wc7oAL8cZ6UfCC0Q%3D&key_expires=1768484011&key=pSv4ixXCSwLONWrgIeoW6A",
+    "url": "https://pdf.ravelrycache.com/darnknitanyway/1148756/DKA_Pattern_June_Maker_Versa_Cowl_Final.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770446135&Signature=x%2FtJcBlqTCxvjsd8FAo1bPQL2eU%3D&key_expires=1770446135&key=T6z8F6rRa5hhBsY_i-i2LA",
     "size_bytes": 190411
   }
 }

@@ -1,29 +1,37 @@
 {
   "id": 7395309,
-  "name": "Easy Peasy Sweater",
+  "name": "easy peasy sweater",
   "permalink": "easy-peasy-sweater-2",
   "url": "https://www.ravelry.com/patterns/library/easy-peasy-sweater-2",
   "external_url": "",
-  "designer_name": "Madeleine’s knits",
-  "project_type": "Pullover",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "madeleine’s knits",
+  "project_type": "pullover",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Tweed Delight",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 85.0
+    },
+    {
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 10.0
+    },
+    {
+      "fiber": "Rayon / Viscose (Rayon)",
+      "pct": 5.0
     }
   ],
   "stitches_used": [
     "2x2 rib"
   ],
   "techniques_used": [
-    "Blocking",
-    "In the round",
-    "Raglan",
-    "Seamless",
-    "Top-down",
-    "Written"
+    "blocking",
+    "in the round",
+    "raglan",
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -31,18 +39,19 @@
     4.5
   ],
   "published": "2024/12/01",
-  "sizes_available": "A (B, C, D) E (F, G, H) I",
-  "rating_average": 4.9,
-  "rating_count": 10,
-  "difficulty_average": 2.272727272727273,
-  "favorites_count": 3398,
-  "projects_count": 81,
+  "sizes_available": "a (b, c, d) e (f, g, h) i",
+  "rating_average": 4.909090909090909,
+  "rating_count": 11,
+  "difficulty_average": 2.3333333333333335,
+  "favorites_count": 3531,
+  "projects_count": 82,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/108295/973452",
+  "notes": "the easy peasy sweater is a super simple pattern... just like the name says: it’s easy peasy! it’s worked top down with a raglan yoke and 2x2 rib cuffs in a different colour. it has an oversized fit and wide sleeves that make it super comfortable and cozy.\r\n\r\ncircumference after blocking approximately 90 (100, 110, 120) 130 (142, 154, 166) 178 cm\r\nor\r\n35 (39, 43, 47) 51 (56, 60, 65) 70 inches.\r\nconsider about 25/30 cm or 10 inches of positive ease.\r\n\r\nhappy knitting :)\r\n\r\nthank you,\r\n\r\nmadeleine\r\n",
   "pdf": {
     "filename": "7395309.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7395309.pdf",
-    "url": "https://pdf.ravelrycache.com/Madeleinesknits/1936851/Easy_Peasy_Sweater.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480023&Signature=g8mXWPAHntrtpgBI8J1GOmYQbww%3D&key_expires=1768480023&key=208CVQX8B6o4mTLh-lcAIw",
+    "url": "https://pdf.ravelrycache.com/Madeleinesknits/1936851/Easy_Peasy_Sweater.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770424563&Signature=MHv1NeBaEzeT8SEk6SduPNbRlIU%3D&key_expires=1770424563&key=Ol_ruKadZVeMQ94sr_iQqA",
     "size_bytes": 747159
   }
 }

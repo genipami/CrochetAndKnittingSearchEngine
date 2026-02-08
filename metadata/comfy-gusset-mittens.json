@@ -1,32 +1,28 @@
 {
   "id": 888250,
-  "name": "Comfy Gusset Mittens",
+  "name": "comfy gusset mittens",
   "permalink": "comfy-gusset-mittens",
   "url": "https://www.ravelry.com/patterns/library/comfy-gusset-mittens",
   "external_url": "",
-  "designer_name": "Karen Hoyle",
-  "project_type": "Mittens/Gloves",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "karen hoyle",
+  "project_type": "mittens/gloves",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Cascade 220®",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 75.0
     },
     {
-      "fiber": "Classic Wool Worsted",
-      "pct": null
-    },
-    {
-      "fiber": "Encore Worsted Solids & Heathers",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round"
+    "in the round"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -34,17 +30,18 @@
   ],
   "published": "2018/12/01",
   "sizes_available": "child thru adult",
-  "rating_average": 4.808333333333334,
-  "rating_count": 240,
-  "difficulty_average": 2.1869565217391305,
-  "favorites_count": 6364,
-  "projects_count": 1214,
+  "rating_average": 4.809917355371901,
+  "rating_count": 242,
+  "difficulty_average": 2.1810344827586206,
+  "favorites_count": 6458,
+  "projects_count": 1235,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/72893/502358",
+  "notes": "a classic mitten with a wide and comfortable gusset that is easy to knit, and wonderful to wear. this mitten has a gusset that doesn't pull or strain when worn, and is easy to get on, especially for children. it's a nice plain vanilla mitten intended for warmth. suitable for everyone in your family!",
   "pdf": {
     "filename": "888250.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\888250.pdf",
-    "url": "https://pdf.ravelrycache.com/KnitterKaren/916032/Comfy_Gusset_Mittens.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479651&Signature=7mIvqP6AcQZATxwsrgXVGjvwUi8%3D&key_expires=1768479651&key=cb5Wk5ocGQOYZPR7rXJFaA",
+    "url": "https://pdf.ravelrycache.com/KnitterKaren/916032/Comfy_Gusset_Mittens.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770422106&Signature=6U2X4mv5MnwtcA%2B6C2BHvrDLIM4%3D&key_expires=1770422106&key=yhgwP1QFDKBZKB901LuEsQ",
     "size_bytes": 361536
   }
 }

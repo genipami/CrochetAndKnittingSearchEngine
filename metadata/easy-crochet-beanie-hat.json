@@ -1,23 +1,23 @@
 {
   "id": 950856,
-  "name": "Easy Crochet Beanie Hat",
+  "name": "easy crochet beanie hat",
   "permalink": "easy-crochet-beanie-hat",
   "url": "https://www.ravelry.com/patterns/library/easy-crochet-beanie-hat",
   "external_url": "",
-  "designer_name": "Kat Mcab",
-  "project_type": "Hat",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Any gauge - designed for any gauge",
+  "designer_name": "kat mcab",
+  "project_type": "hat",
+  "fiber_art": "crochet",
+  "yarn_weight": "any gauge - designed for any gauge",
   "materials": [],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless",
-    "Top-down",
-    "Written"
+    "in the round",
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [],
@@ -26,14 +26,15 @@
   "rating_average": 4.777777777777778,
   "rating_count": 9,
   "difficulty_average": 1.875,
-  "favorites_count": 617,
-  "projects_count": 244,
+  "favorites_count": 628,
+  "projects_count": 245,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/10944/548102",
+  "notes": "this very simple crochet pattern can be used to make a hat using any weight yarn and hook appropriate to your yarn.  instructions include information of how to adjust the size of the hat as you are crocheting it.\r\n\r\nadditional information is included for optional edges; a fold over brim, a scalloped edge, or a flared edge.",
   "pdf": {
     "filename": "950856.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\950856.pdf",
-    "url": "https://pdf.ravelrycache.com/Katmcab/1005830/Easy_Crochet_Beanie_Hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479987&Signature=jiJjvbQp20oqKgR6kCzip4pVfoE%3D&key_expires=1768479987&key=IpmYVvcuOWfuyi5lrRR4gQ",
+    "url": "https://pdf.ravelrycache.com/Katmcab/1005830/Easy_Crochet_Beanie_Hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770424457&Signature=kd5q51G%2FOLFXhFU0b%2FmYJQOLLaA%3D&key_expires=1770424457&key=S9tIKKhoql1FecSqWWnJ1Q",
     "size_bytes": 191703
   }
 }

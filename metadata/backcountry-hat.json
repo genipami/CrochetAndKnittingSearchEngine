@@ -1,29 +1,29 @@
 {
   "id": 630535,
-  "name": "Backcountry Hat",
+  "name": "backcountry hat",
   "permalink": "backcountry-hat",
   "url": "https://www.ravelry.com/patterns/library/backcountry-hat",
   "external_url": "http://www.lunagreyfiberarts.com/collections/patterns/products/backcountry-hat-pattern",
-  "designer_name": "Jackie Vlcek",
-  "project_type": "Child",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "jackie vlcek",
+  "project_type": "child",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Apollo",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Ribbing",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "ribbing",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -31,18 +31,19 @@
     5.5
   ],
   "published": "2015/12/01",
-  "sizes_available": "Baby, Toddler, Child, Adult Small, Adult Medium, Adult Large",
+  "sizes_available": "baby, toddler, child, adult small, adult medium, adult large",
   "rating_average": 4.7560975609756095,
   "rating_count": 123,
   "difficulty_average": 1.6638655462184875,
-  "favorites_count": 3676,
-  "projects_count": 673,
+  "favorites_count": 3684,
+  "projects_count": 674,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/38743/308915",
+  "notes": "**please note: a correction was made to the pattern on 12/17/15.  the number of cast-on stitches for the size adult large pattern should be 72 stitches.  the decreases will start at round 1.  a revised pattern is available for download.** \r\n\r\n**some knitters are reporting that this hat runs small. i am a loose knitter. so, please compare your gauge to that in the pattern. if your gauge differs, adjust hat size accordingly.** \r\n\r\nthe backcountry hat is knit in the round using circular and double pointed needles. the pattern is very simple, perfect for beginning knitters.  it knits up lightning fast and makes a great last minute gift project.  add stripes, a pom pom or a tassel to jazz it up!\r\n\r\n**yarn:** \r\none skein of [luna grey fiber arts apollo][1] yarn (100% superwash merino wool, 106 yards/100g). or other bulky/chunky weight wool yarn.  samples knit in the charcoal, emerald and araucana colorways.  pom poms may be added, but will require additional yarn.    \r\n\t\r\n**needles:** \r\none us # 7 (4.5 mm) 16” circular needle or two sizes smaller than needle used for body of hat based on gauge.\r\none us # 9 (5.5 mm) 16” circular needle or size needed to obtain gauge.\r\none set us # 9 (5.5 mm) double pointed needles or size needed to obtain gauge.\r\n\t\r\nfor baby size: as the circumference is quite small, the entire hat can be knit on double pointed needles sizes us # 7 (4.5 mm) for ribbing and us # 9 (5.5 mm) for hat body.\r\n\t\r\n**notions:** \r\ntapestry needle for weaving in ends, one stitch marker for marking start of round\r\n\r\n**gauge:** \r\n14 stitches/4 inches (10cm) in stockinette stitch on larger needles\r\n\t\t\t\t\t\t\t\t\t\r\n**sizes :** \t\t\t\t\t\t\t\t\t\t\t\t\t\r\nbaby (toddler, child, adult small, adult medium, adult large). finished size 12” (14”, 16”, 18”, 20”, 22”); 30.5cm (35.5cm, 40.6cm, 45.7cm, 50.8cm, 55.8cm) in circumference. when in doubt, size down as this hat is very stretchy and will accommodate a wide range of sizes.  \r\n\r\n**skills needed:**\r\nlong tail cast-on, knitting and purling in the round, using double pointed needles, knit two together, binding off, weaving in ends \r\n\r\n\r\n\r\n\r\n  [1]: http://www.lunagreyfiberarts.com/search?type=product&q=apollo",
   "pdf": {
     "filename": "630535.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\630535.pdf",
-    "url": "https://pdf.ravelrycache.com/Jeex64/537491/Backcountry_Hat_Pattern_Revised.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478924&Signature=NVqnMeR0TVsnQn9q36332TWBhJQ%3D&key_expires=1768478924&key=EMXYLreRrbImVWzb6NcCyA",
+    "url": "https://pdf.ravelrycache.com/Jeex64/537491/Backcountry_Hat_Pattern_Revised.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770418099&Signature=TxHNkm%2FfBxAsJ2g5z7TwgyyOzBg%3D&key_expires=1770418099&key=pkO8OfUoLSU0bhm-7A3ZSQ",
     "size_bytes": 1286789
   }
 }

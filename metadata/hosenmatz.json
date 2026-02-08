@@ -1,51 +1,39 @@
 {
   "id": 653935,
-  "name": "Hosenmatz",
+  "name": "hosenmatz",
   "permalink": "hosenmatz",
   "url": "https://www.ravelry.com/patterns/library/hosenmatz",
   "external_url": "https://www.lanade.de/blog/hosenmatz/",
-  "designer_name": "Mayumi Kaliciak und Antje Litzmann",
-  "project_type": "Baby",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "mayumi kaliciak und antje litzmann",
+  "project_type": "baby",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Alba GOTS",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 67.9
     },
     {
-      "fiber": "Babyull Lanett",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 14.3
     },
     {
-      "fiber": "Mechita",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 11.4
     },
     {
-      "fiber": "Sisu",
-      "pct": null
-    },
-    {
-      "fiber": "Sunday",
-      "pct": null
-    },
-    {
-      "fiber": "Tosh Merino Light",
-      "pct": null
-    },
-    {
-      "fiber": "Twist Light",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 6.4
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Top-down"
+    "in the round",
+    "top-down"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -53,11 +41,12 @@
   ],
   "published": "2016/03/01",
   "sizes_available": "newborn / 1-3 month / 4-7 month / 8-12 month",
-  "rating_average": 4.825227963525836,
-  "rating_count": 658,
-  "difficulty_average": 2.6359300476947536,
-  "favorites_count": 15044,
-  "projects_count": 3234,
+  "rating_average": 4.8245083207261725,
+  "rating_count": 661,
+  "difficulty_average": 2.6333333333333333,
+  "favorites_count": 15202,
+  "projects_count": 3265,
   "free_ravelry_download": false,
-  "download_url": "https://www.lanade.de/blog/hosenmatz/"
+  "download_url": "https://www.lanade.de/blog/hosenmatz/",
+  "notes": "„hosenmatz“ ist eine lässige baby-pumphose in fingering-garnstärke mit viel bewegungsfreiheit zum ausgiebigen strampeln.\r\nwer sein baby in stoffwindeln wickeln möchte, hat hier endlich genug platz für das „gesamtpaket“. die hose wird in runden von oben nach unten gestrickt und bietet praktische mitwachs-bündchen, die anfangs noch umgeschlagen und später als verlängerung genutzt werden können.\r\n\r\ngrößen: 0-3 und 4-7 monate\r\nverbrauch: ungefähr 260 bzw. 340m \r\nmaschenprobe: 26 maschen × 36 reihen = 10×10 cm. \r\n_______________________________________\r\n\r\nhosenmatz is a pattern for casual baggy baby pants in fingering-weight yarns. they offer a lot of room to move and kick and even parents using cloth diapers for their little ones will find these suiting the large “package”. the pants are knitted from the top down in rounds and the long cuffs can be folded down first and later be used as an elongation so hosenmatz will grow with your child.\r\n\r\nsizes: 0-3 and 4-7 month\r\nmeterage: approx. 260 / 340m \r\ngauge: 26 sts×36 rows = 10×10 cm. \r\n\r\n*for english pattern scroll down and click on anleitung „hosenmatz“ auf englisch.*"
 }

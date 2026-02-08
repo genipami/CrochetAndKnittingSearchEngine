@@ -1,52 +1,57 @@
 {
   "id": 7383091,
-  "name": "Stomping Dinosaurs Socks",
+  "name": "stomping dinosaurs socks",
   "permalink": "stomping-dinosaurs-socks",
   "url": "https://www.ravelry.com/patterns/library/stomping-dinosaurs-socks",
   "external_url": "",
-  "designer_name": "Crocheted by Bogusia",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "crocheted by bogusia",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "DROPS Fabel",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 50.0
     },
     {
-      "fiber": "DROPS Nord",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 27.5
+    },
+    {
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 22.5
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Colorwork",
-    "Lace",
-    "Stranded colorwork",
-    "Top-down",
-    "Written"
+    "charted",
+    "colorwork",
+    "lace",
+    "stranded colorwork",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.25
   ],
   "published": "2024/11/01",
-  "sizes_available": "One size",
+  "sizes_available": "one size",
   "rating_average": 4.285714285714286,
   "rating_count": 7,
   "difficulty_average": 3.3333333333333335,
-  "favorites_count": 2457,
-  "projects_count": 46,
+  "favorites_count": 2547,
+  "projects_count": 47,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/105934/963341",
+  "notes": "i wanted to create some fun socks which combined stranded colorwork and texture - meet stomping dinosaurs socks.\r\n\r\ncalf section has a dinosaur motif (there's two to choose from because socks are more fun as siblings and not twins) and the rest of the sock features texture that look a bit like scales. the pattern is very easy easy to remember so it knits up fast.\r\n\r\nthere are two colorwork charts (right and left sock) and one texture chart in the pattern. they are one size only but can be adapted (notes in the pattern) for a bigger or smaller size. there's also written pattern for the texture portion.\r\n\r\nthis pattern is more like a general guideline on making socks but don’t hesitate to ask if you have some problems. i’ll be happy to help. you can also tag me on instagram if you decide to share your finished socks, i’d love to see them! i’m @crochetedbybogusia (and yes, my main thing is crocheting, don’t be alarmed!).\r\n\r\nplease note that this pattern has not been tested. if you notice any errors, please let me know and i’ll fix them immediately.",
   "pdf": {
     "filename": "7383091.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7383091.pdf",
-    "url": "https://pdf.ravelrycache.com/CrochetingBogusia/1913334/stomping_dinosaurs_socks_knitting_pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483392&Signature=Xl%2FbKADPoFC27Q0kHJlU8LihjEY%3D&key_expires=1768483392&key=2seQaTSyJHtam-1LKP9KCA",
+    "url": "https://pdf.ravelrycache.com/CrochetingBogusia/1913334/stomping_dinosaurs_socks_knitting_pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770442579&Signature=bZo%2Fv6yQEfCVm1QN6o8uznp6z6o%3D&key_expires=1770442579&key=3CrZa2b5EHoARFc6-aLGmA",
     "size_bytes": 601179
   }
 }

@@ -1,21 +1,21 @@
 {
   "id": 1165967,
-  "name": "Calgary - hat",
+  "name": "calgary - hat",
   "permalink": "calgary---hat",
   "url": "https://www.ravelry.com/patterns/library/calgary---hat",
   "external_url": "https://www.svartafaret.se/calgary-mossa-392916",
-  "designer_name": "Svarta Fåret",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "svarta fåret",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Soft Lama",
-      "pct": null
+      "fiber": "Llama (Llama)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [],
@@ -27,14 +27,15 @@
   "rating_average": 5.0,
   "rating_count": 8,
   "difficulty_average": 1.8571428571428572,
-  "favorites_count": 230,
+  "favorites_count": 245,
   "projects_count": 57,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/87501/717733",
+  "notes": "***we are happy to be able to share our patterns with you for free! unfortunately, we are not able to answer dm’s here on ravelry.\r\nhowever, we hope you will like the pattern and will enjoy seeing your project come to life!***\r\n\r\n**inspiration and free patterns**\r\nfollow svarta fåret on [instagram][1]\r\n\r\n**reseller map**\r\n[svartafaret.se][2] - brand website, in swedish\r\n[find a reseller][3] - nordic region, in swedish\r\n\r\n**our official online stores**\r\n[eddna.se][4], [eddna.no][5], [eddna.de][6], [eddna.at][7], [eddna.nl][8], [eddna.be][9]\r\n\r\n  [1]: https://www.instagram.com/svartafaretgarn/\r\n  [2]: https://www.svartafaret.se/\r\n  [3]: https://www.svartafaret.se/hitta-butik\r\n  [4]: https://www.eddna.se/\r\n  [5]: https://www.eddna.no/\r\n  [6]: https://www.eddna.de/\r\n  [7]: https://www.eddna.at/\r\n  [8]: https://www.eddna.nl/\r\n  [9]: https://www.eddna.be/\r\n",
   "pdf": {
     "filename": "1165967.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1165967.pdf",
-    "url": "https://pdf.ravelrycache.com/SvartaFaret/1362826/392916.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479312&Signature=uwKsyVkToU2ht1v8zloXFbs7k0U%3D&key_expires=1768479312&key=-7vse_Dd8tdG64e-t9OP0Q",
+    "url": "https://pdf.ravelrycache.com/SvartaFaret/1362826/392916.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770420231&Signature=JDMsN1jzF1XW90x5Ow2JW7SES0s%3D&key_expires=1770420231&key=6oRfEtrRxAGTbKp2B-7r8g",
     "size_bytes": 3103691
   }
 }

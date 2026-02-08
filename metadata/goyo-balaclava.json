@@ -1,32 +1,32 @@
 {
   "id": 7398109,
-  "name": "Goyo balaclava",
+  "name": "goyo balaclava",
   "permalink": "goyo-balaclava",
   "url": "https://www.ravelry.com/patterns/library/goyo-balaclava",
   "external_url": "",
-  "designer_name": "Sijin Lee",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "sijin lee",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Merino DK",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Lace",
-    "Ribbing",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "cable",
+    "lace",
+    "ribbing",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Cables",
-    "Charted",
-    "Lace",
-    "Written"
+    "blocking",
+    "cables",
+    "charted",
+    "lace",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -35,11 +35,12 @@
   ],
   "published": "2025/01/01",
   "sizes_available": "one size",
-  "rating_average": 4.7,
-  "rating_count": 30,
-  "difficulty_average": 3.4482758620689653,
-  "favorites_count": 7745,
-  "projects_count": 169,
+  "rating_average": 4.65625,
+  "rating_count": 32,
+  "difficulty_average": 3.3666666666666667,
+  "favorites_count": 8096,
+  "projects_count": 179,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/109435/975625"
+  "download_url": "http://www.ravelry.com/dls/109435/975625",
+  "notes": "**size**\t\r\none size\r\n\r\n**needles**\t\r\ncircular needle 4 mm [us 6] / 60cm [24”] for stitch pattern and to obtain gauge.\r\ncircular needle 3 mm [us2.5] / 60cm [24”] for ribbing\r\n\r\nyarn\t\r\ndk weight yarn or fingering weight and lace weight yarn held together.\r\n\r\n**gauge**\t\r\n20 stitches / 30 rows = 10 x 10 cm (4” x 4”) in stockinette stitch (after blocking)\r\n\r\n**materiales**\t\r\nstitch marker, tapestry needle, cable needle(optional)\r\n\r\n\r\n> den gratis goyo balaclava-opskrift kan\r\n> fås på dansk her:\r\n> https://strikkeglad.dk/55123/goyo-balaclava"
 }

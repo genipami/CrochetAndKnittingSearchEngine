@@ -1,26 +1,30 @@
 {
   "id": 1080093,
-  "name": "Chunky Monkey Beanie",
+  "name": "chunky monkey beanie",
   "permalink": "chunky-monkey-beanie-2",
   "url": "https://www.ravelry.com/patterns/library/chunky-monkey-beanie-2",
   "external_url": "",
-  "designer_name": "Suzee Knits",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "suzee knits",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Soft and Chunky",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 70.0
+    },
+    {
+      "fiber": "Merino (Merino)",
+      "pct": 30.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Seamless"
+    "bottom-up",
+    "in the round",
+    "seamless"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -28,18 +32,19 @@
     9.0
   ],
   "published": "2020/10/01",
-  "sizes_available": "One size - Adult - circumference around headband is approx 19\" un-stretched.  Length is 8.5\"",
-  "rating_average": 4.867256637168142,
-  "rating_count": 113,
-  "difficulty_average": 1.7927927927927927,
-  "favorites_count": 4054,
-  "projects_count": 505,
+  "sizes_available": "one size - adult - circumference around headband is approx 19\" un-stretched.  length is 8.5\"",
+  "rating_average": 4.87719298245614,
+  "rating_count": 114,
+  "difficulty_average": 1.8035714285714286,
+  "favorites_count": 4119,
+  "projects_count": 518,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/85057/649536",
+  "notes": "this beanie has a deliberate chunky, oversized look.  it has plenty of stretch and will be suitable for most adults.",
   "pdf": {
     "filename": "1080093.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1080093.pdf",
-    "url": "https://pdf.ravelrycache.com/Suzeeknits/1213761/chunkymonkeybeanierevised.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479523&Signature=OWHl8B1sVkz%2FQqlRgpWkzPN%2FVlI%3D&key_expires=1768479523&key=kLaF3vWQRqargGysEkTYOg",
+    "url": "https://pdf.ravelrycache.com/Suzeeknits/1213761/chunkymonkeybeanierevised.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770421513&Signature=K0eAAAqiGILAcPdy7GGiGnAi%2F%2B4%3D&key_expires=1770421513&key=WQEjt76QEqUU1Hdj8BXm8Q",
     "size_bytes": 345612
   }
 }

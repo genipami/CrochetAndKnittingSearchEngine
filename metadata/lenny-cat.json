@@ -1,41 +1,42 @@
 {
   "id": 7390239,
-  "name": "Lenny Cat",
+  "name": "lenny cat",
   "permalink": "lenny-cat",
   "url": "https://www.ravelry.com/patterns/library/lenny-cat",
   "external_url": "https://hobbii.com/lenny-cat",
-  "designer_name": "Pica Pau",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Sport",
+  "designer_name": "pica pau",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Friends Cotton 8/6",
-      "pct": null
+      "fiber": "Polyester (Polyester)",
+      "pct": 50.0
     },
     {
-      "fiber": "Glitter Deluxe",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 50.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     2.75
   ],
   "needle_sizes_mm": [],
   "published": "2023/11/01",
-  "sizes_available": "Height: Approx. 25 cm / 9.8”",
+  "sizes_available": "height: approx. 25 cm / 9.8”",
   "rating_average": 5.0,
   "rating_count": 4,
   "difficulty_average": 5.0,
-  "favorites_count": 541,
+  "favorites_count": 575,
   "projects_count": 30,
   "free_ravelry_download": false,
-  "download_url": "https://hobbii.com/lenny-cat"
+  "download_url": "https://hobbii.com/lenny-cat",
+  "notes": "**materials**\r\n2 safety eyes 8 mm\r\nstuffing\r\ntapestry needle\r\nstitch marker\r\n\r\nfriends cotton 8/6:\r\n- turkish blue (88) - 1 skein\r\n- dark yellow (26) - 1 skein\r\n- oatmilk (03) - 1 skein\r\n- denim (80) - 1 skein\r\n- baby pink (51) - 1 skein\r\n- sage (114) - 1 skein\r\n- black (124) - 1 skein\r\n\r\nglitter deluxe - pure gold (18135) - 1 skein"
 }

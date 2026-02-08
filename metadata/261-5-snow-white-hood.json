@@ -1,32 +1,44 @@
 {
   "id": 7463485,
-  "name": "261-5  Snow White Hood",
+  "name": "261-5  snow white hood",
   "permalink": "261-5-snow-white-hood",
   "url": "https://www.ravelry.com/patterns/library/261-5-snow-white-hood",
   "external_url": "https://www.garnstudio.com/pattern.php?id=12335&cid=19",
-  "designer_name": "DROPS design",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "drops design",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "DROPS Alpaca Bouclé",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 40.0
     },
     {
-      "fiber": "DROPS Kid-Silk",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 37.5
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 12.5
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 7.5
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 2.5
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless",
-    "Top-down",
-    "Written"
+    "in the round",
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -37,8 +49,9 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 289,
-  "projects_count": 11,
+  "favorites_count": 326,
+  "projects_count": 19,
   "free_ravelry_download": false,
-  "download_url": "https://www.garnstudio.com/pattern.php?id=12335&cid=19"
+  "download_url": "https://www.garnstudio.com/pattern.php?id=12335&cid=19",
+  "notes": "**knitted balaclava in drops alpaca bouclé and drops kid-silk. the piece is worked in stocking stitch with i-cord. sizes s - xl.**\r\n~~~~~~~~~~~~~~~~~~~~~~\r\n\r\n#snowwhitehood\r\ndrops design: pattern ab-176\r\nyarn group c + a or d\r\n\r\n-------------------------------------------------------\r\n\r\n\r\n**sizes**:\r\ns/m - l/xl\r\nfits head-size: 54/56 - 58/60 cm\r\n\r\n**yarn**:\r\ndrops alpaca bouclé from garnstudio (belongs to yarn group c)\r\n150-150 g colour 0100, off white\r\nand use:\r\ndrops kid-silk from garnstudio (belongs to yarn group a)\r\n50-50 g colour 01, off white\r\n\r\n**needles**:\r\ndrops circular needle size 5.5 mm: length 80 cm.\r\ndrops double pointed needles size 5.5 mm.\r\n\r\n**knitting tension**:\r\n15 stitches in width and 19 rows in height, with stocking stitch and 1 strand of each quality on needle size 5.5 mm = 10 x 10 cm.\r\nnote: needle size is only a guide. if you get too many stitches within 10 cm, change to a larger needle size. if you get too few stitches within 10 cm, change to a smaller needle size.\r\n"
 }

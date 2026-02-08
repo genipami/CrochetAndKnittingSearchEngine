@@ -1,31 +1,31 @@
 {
   "id": 26131,
-  "name": "Maine Morning Mitts",
+  "name": "maine morning mitts",
   "permalink": "maine-morning-mitts",
   "url": "https://www.ravelry.com/patterns/library/maine-morning-mitts",
   "external_url": "http://www.knittersreview.com/maine-morning-mitts",
-  "designer_name": "Clara Parkes",
-  "project_type": "Mittens/Gloves",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "clara parkes",
+  "project_type": "mittens/gloves",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Forever Random Worsted--Obverse",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 80.0
     },
     {
-      "fiber": "Kureyon（くれよん）",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch"
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -36,8 +36,9 @@
   "rating_average": 4.5447019867549665,
   "rating_count": 1812,
   "difficulty_average": 1.885523613963039,
-  "favorites_count": 10598,
-  "projects_count": 6218,
+  "favorites_count": 10628,
+  "projects_count": 6230,
   "free_ravelry_download": false,
-  "download_url": "http://www.knittersreview.com/wp-content/uploads/2016/09/MaineMorningMitts.pdf"
+  "download_url": "http://www.knittersreview.com/wp-content/uploads/2016/09/MaineMorningMitts.pdf",
+  "notes": "[direct pdf download][1]\r\n\r\n\r\n  [1]: http://www.knittersreview.com/wp-content/uploads/2016/09/mainemorningmitts.pdf"
 }

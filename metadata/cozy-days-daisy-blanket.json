@@ -1,26 +1,30 @@
 {
   "id": 1314037,
-  "name": "Cozy Days Daisy Blanket",
+  "name": "cozy days daisy blanket",
   "permalink": "cozy-days-daisy-blanket",
   "url": "https://www.ravelry.com/patterns/library/cozy-days-daisy-blanket",
   "external_url": "https://www.allaboutami.com/cozy-days-daisy-blanket/",
-  "designer_name": "Stephanie Jessica Lau",
-  "project_type": "Blanket",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Bulky",
+  "designer_name": "stephanie jessica lau",
+  "project_type": "blanket",
+  "fiber_art": "crochet",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Hue + Me",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Granny",
-    "Treble crochet (tr)"
+    "granny",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamed",
-    "Written"
+    "seamed",
+    "written"
   ],
   "hook_sizes_mm": [
     8.0,
@@ -28,12 +32,13 @@
   ],
   "needle_sizes_mm": [],
   "published": "2023/02/01",
-  "sizes_available": "Width: 45”/114 cm, Height: 52”/132 cm",
-  "rating_average": 4.733333333333333,
-  "rating_count": 90,
-  "difficulty_average": 2.8372093023255816,
-  "favorites_count": 12525,
-  "projects_count": 517,
+  "sizes_available": "width: 45”/114 cm, height: 52”/132 cm",
+  "rating_average": 4.736263736263736,
+  "rating_count": 91,
+  "difficulty_average": 2.839080459770115,
+  "favorites_count": 12777,
+  "projects_count": 528,
   "free_ravelry_download": false,
-  "download_url": "http://www.ravelry.com/purchase/all-about-ami-crochet--knit-designs/839485"
+  "download_url": "http://www.ravelry.com/purchase/all-about-ami-crochet--knit-designs/839485",
+  "notes": "crochet this beautiful chunky daisy blanket to brighten up your home! this granny square blanket works up quickly using bulky level 5 yarn. choose your favorite color combinations to customize your blanket!  \r\n\r\nthe cozy days daisy blanket uses 11 skeins of hue + me yarn by lion brand yarn: 7 skeins of the main color (agave), 3 skeins of the petal color (salt) and 1 skein of the center daisy color (mustard).  there is a kit available for purchase through the lion brand yarn website. \r\n\r\nthe **free** crochet pattern can be found on my blog **[here][1]**.  note that the printable pdf for purchase is a total of 7 pages including the cover page, step-by-step pictures and full pattern.  \r\n\r\nthere is also a full video tutorial available showing how to crochet the daisy granny square.  you can find this video embedded in my blog post or on my youtube channel [**here**][2]!\r\n\r\nif you love this chunky blanket, be sure to check out the **baby version** using worsted weight yarn [**here**][3]!\r\n\r\n\r\n  [1]: https://www.allaboutami.com/cozy-days-daisy-blanket/\r\n  [2]: https://www.youtube.com/watch?v=htxf4ilp9xs&t=9s\r\n  [3]: https://www.ravelry.com/patterns/library/baby-cozy-days-daisy-blanket"
 }

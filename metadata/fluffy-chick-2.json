@@ -1,23 +1,23 @@
 {
   "id": 7303965,
-  "name": "Fluffy Chick",
+  "name": "fluffy chick",
   "permalink": "fluffy-chick-2",
   "url": "https://www.ravelry.com/patterns/library/fluffy-chick-2",
   "external_url": "",
-  "designer_name": "Nour Creates",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Bulky",
+  "designer_name": "nour creates",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Dolce",
-      "pct": null
+      "fiber": "Polyester (Polyester)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "Seamless",
-    "Written"
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [
     4.5
@@ -28,14 +28,15 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 290,
+  "favorites_count": 296,
   "projects_count": 13,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/99688/901056",
+  "notes": "hello everyone! this is a free no-sew pattern that is also available on my instagram.\r\n\r\nthe pattern is suitable for beginners, works up real fast, and takes less than 20 minutes!\r\n\r\nenjoy and do remember to tag me on instagram so i can see the finished product <3",
   "pdf": {
     "filename": "7303965.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7303965.pdf",
-    "url": "https://pdf.ravelrycache.com/NourCreates/1769240/Crochet_Chick_.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480462&Signature=yyjLvTYZ6c8GxqflSDQjTgMrkYM%3D&key_expires=1768480462&key=T3DSz9WAWYbbSvYgIpfk-A",
+    "url": "https://pdf.ravelrycache.com/NourCreates/1769240/Crochet_Chick_.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770426522&Signature=BsoJjW0tKLIKtMjYOSyIvQhjbrE%3D&key_expires=1770426522&key=wDqUsGIYgd9rxZkzLJKQDA",
     "size_bytes": 1800996
   }
 }

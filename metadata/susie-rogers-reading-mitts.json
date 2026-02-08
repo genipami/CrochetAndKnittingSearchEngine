@@ -1,42 +1,51 @@
 {
   "id": 293353,
-  "name": "Susie Rogers' Reading Mitts",
+  "name": "susie rogers' reading mitts",
   "permalink": "susie-rogers-reading-mitts",
   "url": "https://www.ravelry.com/patterns/library/susie-rogers-reading-mitts",
   "external_url": "",
-  "designer_name": "Susie Rogers",
-  "project_type": "Mittens/Gloves",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "susie rogers",
+  "project_type": "mittens/gloves",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Cloud 9",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 25.0
     },
     {
-      "fiber": "Ultra Alpaca Light",
-      "pct": null
+      "fiber": "Angora (Angora)",
+      "pct": 25.0
+    },
+    {
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 25.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Treble crochet (tr)"
+    "lace",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Lace",
-    "Seamless"
+    "lace",
+    "seamless"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.75
   ],
   "published": "2012/01/01",
-  "sizes_available": "Small, Medium, Large",
-  "rating_average": 4.639726578206675,
-  "rating_count": 2487,
-  "difficulty_average": 2.3905325443786984,
-  "favorites_count": 36017,
-  "projects_count": 8141,
+  "sizes_available": "small, medium, large",
+  "rating_average": 4.640016070711129,
+  "rating_count": 2489,
+  "difficulty_average": 2.389830508474576,
+  "favorites_count": 36198,
+  "projects_count": 8161,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/17229/89454"
+  "download_url": "http://www.ravelry.com/dls/17229/89454",
+  "notes": "this is the old susie's reading mitts from dancing ewe yarns (now closed) updated and added by the original designer, susie rogers, for people to enjoy.\r\n\r\nthis pattern is also available in french translation [here][1].\r\n\r\n\r\n  [1]: http://nini-naphtaline.blogspot.com/2009/12/les-tutos-les-tutos-les-tutos.html\r\nfor people having trouble with the lace pattern on the small and large sizes the following changes can be made to make the stitch count come out even.\r\nround 6:  on the last three stitches, slip 1, k2tog, pass slip st over.\r\nround 7:  increase one stitch.\r\n\r\nthe pattern is now available in polish http://yellowmleczyk.blogspot.com/2015/10/prezencik-wzor-na-mitsy.html.\r\npattern is now available in korean\r\nhttp://marialeigh.net/2016/02/14/susie-rogers-reading-mitts-korean-ver/"
 }

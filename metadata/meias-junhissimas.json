@@ -1,44 +1,53 @@
 {
   "id": 7435979,
-  "name": "Meias Junhíssimas",
+  "name": "meias junhíssimas",
   "permalink": "meias-junhissimas",
   "url": "https://www.ravelry.com/patterns/library/meias-junhissimas",
   "external_url": "",
-  "designer_name": "Tânia Neves",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "tânia neves",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Cotton Color Springtime Mood",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 72.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 18.0
+    },
+    {
+      "fiber": "Polyester (Polyester)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Written"
+    "charted",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.75
   ],
   "published": "2025/06/01",
-  "sizes_available": "Adulto: S (M) L",
+  "sizes_available": "adulto: s (m) l",
   "rating_average": 5.0,
   "rating_count": 5,
   "difficulty_average": 3.2,
-  "favorites_count": 432,
+  "favorites_count": 444,
   "projects_count": 27,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/61710/1004332",
+  "notes": "> **meiíssima: a colecção de meias mais superlativa absoluta de sempre!**\r\n\r\nvenha tricotar comigo um par de meias por mês, em 2025\r\n\r\n12 meses | 12 pares de meias\r\n\r\n**pdf gratuito** das instruções aqui no ravelry\r\n\r\n**vídeo tutorial** com passo a passo detalhado [no youtube][1]\r\n\r\n**grupo oficial da iniciativa** - [junte-se agora mesmo!][2]\r\n\r\nacompanhe todas as minhas novidades:\r\n[instagram][3] | [youtube][4]\r\n\r\nqualquer dúvida ou sugestão, contacte-me através do email: boladepelocriacoes@gmail.com\r\n\r\n\r\n  [1]: https://youtu.be/9trdmbzquca\r\n  [2]: https://chat.whatsapp.com/l33eqixtahn0oru3d2ekhu\r\n  [3]: https://www.instagram.com/boladepelocriacoes/\r\n  [4]: https://www.youtube.com/channel/uclhnwicz65golub_ezt1hzq",
   "pdf": {
     "filename": "7435979.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7435979.pdf",
-    "url": "https://pdf.ravelrycache.com/tanianeves/2012480/Meias_Junhissimas_PT.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481697&Signature=RV%2FGjlEnlT6zAfL0vRvgKBBPuMc%3D&key_expires=1768481697&key=pTZKTIHx0tmRfBzJ6-FjsQ",
+    "url": "https://pdf.ravelrycache.com/tanianeves/2012480/Meias_Junhissimas_PT.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770433496&Signature=PnuKadlPsOEu5E7p%2FAIRJVIl%2FjM%3D&key_expires=1770433496&key=U5aBIYxczFMvU1fpYMCR6w",
     "size_bytes": 4602103
   }
 }

@@ -1,32 +1,32 @@
 {
   "id": 1242600,
-  "name": "Dice or Trinket Bags",
+  "name": "dice or trinket bags",
   "permalink": "dice-or-trinket-bags",
   "url": "https://www.ravelry.com/patterns/library/dice-or-trinket-bags",
   "external_url": "https://www.5littlemonsters.com/2022/05/crocheted-dice-or-trinket-bags-3-ways.html",
-  "designer_name": "Erica Dietz",
-  "project_type": "Bag",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Sport",
+  "designer_name": "erica dietz",
+  "project_type": "bag",
+  "fiber_art": "crochet",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Feliz",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 85.0
     },
     {
-      "fiber": "Swirl Sport",
-      "pct": null
+      "fiber": "Rayon / Viscose (Rayon)",
+      "pct": 15.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Eyelet lace",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "eyelet lace",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     4.0
@@ -37,8 +37,9 @@
   "rating_average": 4.75,
   "rating_count": 8,
   "difficulty_average": 2.5,
-  "favorites_count": 497,
-  "projects_count": 40,
+  "favorites_count": 511,
+  "projects_count": 41,
   "free_ravelry_download": false,
-  "download_url": "https://www.5littlemonsters.com/2022/05/crocheted-dice-or-trinket-bags-3-ways.html"
+  "download_url": "https://www.5littlemonsters.com/2022/05/crocheted-dice-or-trinket-bags-3-ways.html",
+  "notes": "these small drawstring bags are about 5\" tall and 4\" across when laid flat. they are the perfect size to use as a dice bag, or to hold any trinkets or small items. \r\n\r\nthe pattern includes 3 different styles, each following the same pattern but using a different stitch in alternating rows. one uses rows of double crochet, another uses crossed double crochet, and the last uses the bead stitch.\r\n\r\nthe top has a row of chain spaces to create eyelets to thread the drawstring through. \r\n\r\n"
 }

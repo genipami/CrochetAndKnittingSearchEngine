@@ -1,28 +1,32 @@
 {
   "id": 7378158,
-  "name": "Blooming Breeze Tee",
+  "name": "blooming breeze tee",
   "permalink": "blooming-breeze-tee",
   "url": "https://www.ravelry.com/patterns/library/blooming-breeze-tee",
   "external_url": "https://shop.hedgehogfibres.com/collections/patterns/products/blooming-breeze",
-  "designer_name": "Beata Jezek",
-  "project_type": "Tee",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Lace",
+  "designer_name": "beata jezek",
+  "project_type": "tee",
+  "fiber_art": "knitting",
+  "yarn_weight": "lace",
   "materials": [
     {
-      "fiber": "Oh So Fine Cashmere",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 70.0
+    },
+    {
+      "fiber": "Cashmere goat (Cashmere)",
+      "pct": 30.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless",
-    "Top-down",
-    "Written"
+    "in the round",
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -30,12 +34,13 @@
     5.0
   ],
   "published": "2024/10/01",
-  "sizes_available": "XS [S, M, L, XL] [2XL, 3XL, 4XL, 5XL]",
-  "rating_average": 4.222222222222222,
-  "rating_count": 9,
+  "sizes_available": "xs [s, m, l, xl] [2xl, 3xl, 4xl, 5xl]",
+  "rating_average": 4.3,
+  "rating_count": 10,
   "difficulty_average": 2.3333333333333335,
-  "favorites_count": 2660,
-  "projects_count": 77,
+  "favorites_count": 2718,
+  "projects_count": 80,
   "free_ravelry_download": false,
-  "download_url": "https://shop.hedgehogfibres.com/collections/patterns/products/blooming-breeze"
+  "download_url": "https://shop.hedgehogfibres.com/collections/patterns/products/blooming-breeze",
+  "notes": "lightweight and delicate short sleeve pattern with a sporty feel. one piece, top down construction, designed to fit loosely for an easy to wear layering top.\r\n\r\n\r\nyarn:  hedgehog fibres [oh so fine cashmere][1] (30% cashmere, 70% merino, 600m/100g).\r\n\r\n1 skein of the recommended yarn is required for sizes xs and s; 2 skeins are required for all other sizes m-5xl.\r\n\r\nthe yardage calculations are approximate. final amounts in g: 82 (94, 104, 120, 133, 145, 159, 171, 180).\r\n\r\nlin is 5'2'' and she's wearing size s.\r\n\r\nthe second version is pictured in my own handspun using a [lucky dip fibre][2] pack by hedgehog fibres. i spun a light fingering 2ply. i'm 5'4'' and i'm wearing size m.\r\n\r\n\r\n  [1]: https://shop.hedgehogfibres.com/collections/oh-so-fine-cashmere\r\n  [2]: https://shop.hedgehogfibres.com/collections/fibre"
 }

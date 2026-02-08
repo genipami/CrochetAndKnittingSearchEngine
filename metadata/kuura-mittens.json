@@ -1,55 +1,56 @@
 {
   "id": 1317349,
-  "name": "Kuura mittens",
+  "name": "kuura mittens",
   "permalink": "kuura-mittens",
   "url": "https://www.ravelry.com/patterns/library/kuura-mittens",
   "external_url": "",
-  "designer_name": "Helena Joronen",
-  "project_type": "Mittens/Gloves",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "helena joronen",
+  "project_type": "mittens/gloves",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "7 Veljestä",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 43.8
     },
     {
-      "fiber": "Cascade 220®",
-      "pct": null
+      "fiber": "Icelandic (Wool)",
+      "pct": 25.0
     },
     {
-      "fiber": "Léttlopi",
-      "pct": null
+      "fiber": "Finnish Landrace (Finn) (Wool)",
+      "pct": 21.2
     },
     {
-      "fiber": "Pässi",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Charted",
-    "Colorwork",
-    "In the round",
-    "Stranded colorwork",
-    "Written"
+    "blocking",
+    "charted",
+    "colorwork",
+    "in the round",
+    "stranded colorwork",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     4.0
   ],
   "published": "2023/03/01",
-  "sizes_available": "M (L)",
-  "rating_average": 4.726027397260274,
-  "rating_count": 73,
-  "difficulty_average": 2.681159420289855,
-  "favorites_count": 4279,
-  "projects_count": 299,
+  "sizes_available": "m (l)",
+  "rating_average": 4.725,
+  "rating_count": 80,
+  "difficulty_average": 2.763157894736842,
+  "favorites_count": 4479,
+  "projects_count": 318,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/68082/842167"
+  "download_url": "http://www.ravelry.com/dls/68082/842167",
+  "notes": "kuura (finnish word for frost) mittens are a fun and quick project that is worked with worsted weight yarn. the colorwork section of the mittens is easily memorized and suitable for both beginners and more experienced knitters. the mittens have a simple ribbed cuff and an arched thumb.\r\n\r\nthe simple small colorwork sections on the top of the mitten are the perfect way to use up those precious leftover yarns. choose two colors with a rather large contrast to best show the colorwork design on the mitten - or use two colors close to each other to create a fading effect. \r\n\r\n**yarn**\r\nmain color (mc): cascade 220, 100% peruvian wool (approx. 200m/220yds = 100g)\r\n\r\ncontrast color (cc): jalovilla pässi or other worsted weight (approx. 200m/220yds = 100g yarn)\r\n\r\n**needle**\r\n4,0 mm / us size 6 double pointed needles (or long circular if you prefer to magic loop) or size needed to obtain gauge\r\n\r\n**gauge**\r\n21 sts and 28 rows = 10 cm / 4” in stockinette st, in the round after blocking\r\n\r\n**sizes**\r\nm (l) to fit a hand circumference of \r\napprox. 20 (23) cm / 7.75 (9)” \r\n\r\n**yardage**\r\nmc: 55 (60) g = 110 (120) m / 110 (130) yds\r\ncc: 20 (20) g = 40 (40) m / 44 (44) yds\r\n\r\n**other**\r\ntwo stitch markers (one for bor), some scrap yarn, a darning needle.\r\n\r\n\r\nkuura lapaset on nopea, paksusta langasta valmistuva projekti, joka sopii myös aloitteleville kirjoneulojille. lapaset neulotaan worsted- vahvuisesta langasta, eli esimerkiksi novitan 7 veljestä, dropsin lima, cascade 220 tai istexin lettlopi sopivat lapasiin oikein hyvin. tarkista neuletiheytesi ennen aloittamista.\r\n\r\nlapasiin neulotaan intialainen peukalokiila, ja sen viimeistelee kirjoneulekuvion kautta kärkeen vaihtuva väri. lapasen ja peukalon pituus on säädettävissä sopivaksi, ja puikkokokoa vaihtamalla lapaset voi neuloa myös pienempään käteen.\r\n\r\n**lanka**\r\npääväri: cascade 220 (n. 200m = 100g) tai vastaava worsted- vahvuinen lanka\r\n\r\nkuvioväri: jalovilla pässi (n. 230m/100g) tai vastaava worsted-vahvuinen lanka\r\n\r\n**puikot**\r\n4,0 mm sukkapuikot (tai pitkät pyöröpuikot, mikäli neulot magic loop- tekniikalla) tai käsialan mukaan\r\n\r\n**tiheys**\r\n21 s ja 28 krs = 10 cm sileää neuletta, viimeistelyn jälkeen\r\n\r\n**koot**\r\nm (l), kämmenen ympärys noin 20 (23) cm. kämmenen ja peukalon pituus muokattavissa. \r\n\r\n**langan menekki**\r\npv: 55 (60) g = 110 (120) m\r\nkv: 20 (20) g = 40 (40) m\r\n\r\n**muuta**\r\n2 silmukkamerkkiä, pätkä ylijäämälankaa, päättelyneula"
 }

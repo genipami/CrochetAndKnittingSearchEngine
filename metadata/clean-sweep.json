@@ -1,29 +1,25 @@
 {
   "id": 573949,
-  "name": "Clean sweep",
+  "name": "clean sweep",
   "permalink": "clean-sweep",
   "url": "https://www.ravelry.com/patterns/library/clean-sweep",
   "external_url": "",
-  "designer_name": "Erika Loftin",
-  "project_type": "Dishcloth",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "erika loftin",
+  "project_type": "dishcloth",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Handicrafter Cotton Country Colors",
-      "pct": null
-    },
-    {
-      "fiber": "Sugar'n Cream The Original (Solids)",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)"
+    "double crochet (dc)"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     5.0
@@ -34,14 +30,15 @@
   "rating_average": 4.84375,
   "rating_count": 64,
   "difficulty_average": 1.53125,
-  "favorites_count": 1808,
-  "projects_count": 371,
+  "favorites_count": 1815,
+  "projects_count": 374,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/50177/269678",
+  "notes": "this quick and easy cloth is hand-sized - perfect for cleaning and a great stash buster as well!  worked in the round, it can be completed in one or more colors and is suitable for a beginner level project. an optional loop can be added to allow it to hang within easy reach.",
   "pdf": {
     "filename": "573949.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\573949.pdf",
-    "url": "https://pdf.ravelrycache.com/Mamaloftin/464158/Clean_Sweep.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479579&Signature=XDhzBi3RuT%2F%2FcW2xohDh4WRJ6pc%3D&key_expires=1768479579&key=u_CI_COVWCXTba9fcmrh_A",
+    "url": "https://pdf.ravelrycache.com/Mamaloftin/464158/Clean_Sweep.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770421732&Signature=705zhPmCxwanrtvp%2Bh%2FkFt42S5A%3D&key_expires=1770421732&key=gq-eVMWsc3IcnYGbpGwVFQ",
     "size_bytes": 237493
   }
 }

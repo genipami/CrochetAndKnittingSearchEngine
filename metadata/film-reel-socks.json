@@ -1,35 +1,35 @@
 {
   "id": 1243387,
-  "name": "Film Reel Socks",
+  "name": "film reel socks",
   "permalink": "film-reel-socks",
   "url": "https://www.ravelry.com/patterns/library/film-reel-socks",
   "external_url": "",
-  "designer_name": "Alex Parker Mooney",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "alex parker mooney",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Platinum Sock",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 87.5
     },
     {
-      "fiber": "Stunning Superwash",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 12.5
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Charted",
-    "Colorwork",
-    "In the round",
-    "Kitchener stitch",
-    "Stranded colorwork"
+    "blocking",
+    "charted",
+    "colorwork",
+    "in the round",
+    "kitchener stitch",
+    "stranded colorwork"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -37,18 +37,19 @@
     2.75
   ],
   "published": "2022/05/01",
-  "sizes_available": "A (B, C, D, E, F)",
+  "sizes_available": "a (b, c, d, e, f)",
   "rating_average": 4.829787234042553,
   "rating_count": 47,
-  "difficulty_average": 3.877551020408163,
-  "favorites_count": 5930,
-  "projects_count": 347,
+  "difficulty_average": 3.857142857142857,
+  "favorites_count": 6016,
+  "projects_count": 352,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/90001/780622",
+  "notes": "**this knitting pattern has been rated pg-13 for stranded colorwork, thematic elements, and mild crude humor**\r\n\r\nnow showing: the film reel socks\r\n\r\nare you a movie buff? because i sure am. black-and-white or color, slapstick comedy or high fantasy, i love pretty much everything about movies. and there's nothing i love more than a good reference to something i've seen.\r\n\r\nthese socks are built to showcase your favorite movie- or show-themed yarn, no matter how variegated (and, in fact, the more variegated, the better!) so bust out those single skeins that you bought just for the name and give them a chance to shine. \r\n\r\nthis pattern is knit from the cuff down using stranded colorwork. there are 4 different heel \"genres\" for you to choose from:\r\n\r\n* thriller (cut-in afterthought)\r\n* sci-fi/fantasy (forethought)\r\n* action/adventure (german short row)\r\n* romcom (wrap-and-turn short row)\r\n\r\nchoose your own knitting adventure and knit the best fit for your fun single skeins. the possibilities are endless!\r\n\r\nlights, camera, action!\r\n\r\n~~~\r\n\r\nsizes\r\na (b, c, d, e, f)\r\napprox. finished circumferences of 7 (7.75, 8.5, 9.25, 10, 10.75)\" / 18 (19.5, 21.5, 23.5, 25.5, 27.5)cm\r\n*since these are colorwork socks, choose a size that gives you as close to 0\" of ease as possible, but not bigger than your feet (rather than the standard 10% negative ease for a stockinette sock)*\r\n\r\nyarn\r\nmc: retold yarns silver screen sock (463 yd/115g, 75% merino, 25% nylon) - 30-60g\r\nccw: any white or undyed sock yarn - 10-20g (i used the black squirrel yarns \"ecru brute\" on the wesley sock base)\r\nccb: any saturated black sock yarn - 20-40g (i used stunning string studio's \"little black dress\" on the stunning superwash base)\r\n\r\nneedles\r\nus1 (2.25mm) for non-colorwork sections\r\nus2 (2.75mm) for colorwork\r\n*i used 32\" circulars for magic loop on non-colorwork sections and 10\" circulars for colorwork, but use whatever sock knitting method you prefer.*\r\n\r\ngauge\r\nnote: the gauge for these socks is very important to ensure that the colorwork can fit over your heel.\r\n31sts x 40 rows **in colorwork pattern** over 4\"x4\"/10cm x 10cm, after blocking\r\n32sts x 48 rounds **in stockinette stitch** over 4\"x4\"/10cm x 10cm, after blocking\r\n\r\nnotions\r\n5 stitch markers\r\n2 locking stitch markers\r\nwaste yarn (for afterthought and forethought heels)\r\ntapestry needle",
   "pdf": {
     "filename": "1243387.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1243387.pdf",
-    "url": "https://pdf.ravelrycache.com/leftsockbestsock/1498698/Film_Reel_Socks_-_pattern_PDF_v2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480350&Signature=IfBOZwzgMM25iPiBxA3D8ePlvP0%3D&key_expires=1768480350&key=SEKnslGb2R7F8Vq7N55G0A",
+    "url": "https://pdf.ravelrycache.com/leftsockbestsock/1498698/Film_Reel_Socks_-_pattern_PDF_v2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770425991&Signature=aa7wgXh%2B1dnhCeHyiX5vzt%2F%2Fx6U%3D&key_expires=1770425991&key=3cPrfTucjjTOqncuVB0tVA",
     "size_bytes": 2018675
   }
 }

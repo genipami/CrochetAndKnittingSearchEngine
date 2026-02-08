@@ -1,26 +1,26 @@
 {
   "id": 7354041,
-  "name": "Cruel Summer Bandana",
+  "name": "cruel summer bandana",
   "permalink": "cruel-summer-bandana",
   "url": "https://www.ravelry.com/patterns/library/cruel-summer-bandana",
   "external_url": "https://tobeadorned.square.site/product/cruel-summer-bandana-crochet-pattern-pdf/89",
-  "designer_name": "Becca Parker",
-  "project_type": "Hat",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Fingering",
+  "designer_name": "becca parker",
+  "project_type": "hat",
+  "fiber_art": "crochet",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "100% Cotton 4 Ply",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Granny",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "granny",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     3.0
@@ -31,14 +31,15 @@
   "rating_average": 5.0,
   "rating_count": 3,
   "difficulty_average": 2.0,
-  "favorites_count": 378,
+  "favorites_count": 383,
   "projects_count": 19,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/28104/940223",
+  "notes": "the cruel summer bandana is a quick and easy stash busting accessory inspired by that taylor swift crochet dress. this cute headscarf is made up of one granny half square, with colour change stripes to match the original dress, and simple ties added at the end. you can use any four shades of 4ply cotton yarn for this pattern.\r\n\r\nfour shades of cotton 4ply yarn\r\nsuggested yarn: patons 100% cotton 4ply (100% cotton, 100g/330m), \r\n1 ball of each: lilac (yarn a), raffia (yarn b), vanilla (yarn c) and nectarine (yarn d)\r\n",
   "pdf": {
     "filename": "7354041.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7354041.pdf",
-    "url": "https://pdf.ravelrycache.com/beccamathilde/1861076/To_Be_Adorned_Cruel_Summer_Bandana_crochet_pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479793&Signature=BIs7ZjafbzjlfpvGN2%2BiSPkYuFA%3D&key_expires=1768479793&key=55R3c8DneVhPCy5V2goLWw",
+    "url": "https://pdf.ravelrycache.com/beccamathilde/1861076/To_Be_Adorned_Cruel_Summer_Bandana_crochet_pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770422976&Signature=tb6o8xGAQ5rQvYwelJBTJ1GyxhY%3D&key_expires=1770422976&key=6AjVF2YLMRhwGje30N2QSQ",
     "size_bytes": 1346726
   }
 }

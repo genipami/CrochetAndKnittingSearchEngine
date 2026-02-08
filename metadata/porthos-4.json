@@ -1,26 +1,30 @@
 {
   "id": 321017,
-  "name": "Porthos",
+  "name": "porthos",
   "permalink": "porthos-4",
   "url": "https://www.ravelry.com/patterns/library/porthos-4",
   "external_url": "",
-  "designer_name": "Caoua Coffee",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "caoua coffee",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "4-fädig 4-ply",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round"
+    "charted",
+    "in the round"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -28,17 +32,18 @@
   ],
   "published": "2012/05/01",
   "sizes_available": "men's",
-  "rating_average": 4.68374558303887,
-  "rating_count": 566,
-  "difficulty_average": 2.5527272727272727,
-  "favorites_count": 8118,
-  "projects_count": 1807,
+  "rating_average": 4.684303350970017,
+  "rating_count": 567,
+  "difficulty_average": 2.5499092558983665,
+  "favorites_count": 8165,
+  "projects_count": 1813,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/2834/103906",
+  "notes": "> **porthos**, baron du vallon de bracieux de pierrefonds is a fictional character in the novels “the three musketeers” by alexandre dumas père. he and the other two musketeers athos and aramis are friends of the novel's protagonist, d'artagnan, and the four of them have many adventures. porthos is the extrovert of the group, enjoying wine, women and song. though he is often seen as the comic relief, he is also extremely dedicated, honest and loyal toward his friends and fellow musketeers. as the story advances, he looks more and more of a giant and his death is that of a titan. the robust yet simple pattern of these socks fits his character perfectly.\r\n\r\nthe patterns of my musketeer socks are just low-key enough to be wearable for all the men in your life, and just interesting enough to save the knitter from being bored to tears while making them. you can find the other 3 musketeer socks here: [athos][1], [aramis][2], [d'artagnan][3]\r\n\r\n\r\n  [1]: http://www.ravelry.com/patterns/library/athos-2\r\n  [2]: http://www.ravelry.com/patterns/library/aramis-2\r\n  [3]: http://www.ravelry.com/patterns/library/dartagnan",
   "pdf": {
     "filename": "321017.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\321017.pdf",
-    "url": "https://pdf.ravelrycache.com/CaouaCoffee/162585/Porthos_musketeer_socks_v1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482530&Signature=JGKtzFLHfL23r1BQ%2FbVC0vZ0%2BhE%3D&key_expires=1768482530&key=NAKYUWFOBg_VQixZ8s_y7Q",
+    "url": "https://pdf.ravelrycache.com/CaouaCoffee/162585/Porthos_musketeer_socks_v1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770437720&Signature=wTiF2RnOoC7S%2BKrWvJRmrNSH1gA%3D&key_expires=1770437720&key=lmLp5wo3zfNPaOaM-kIS3w",
     "size_bytes": 2904897
   }
 }

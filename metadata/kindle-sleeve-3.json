@@ -1,48 +1,49 @@
 {
   "id": 7340541,
-  "name": "Kindle Sleeve",
+  "name": "kindle sleeve",
   "permalink": "kindle-sleeve-3",
   "url": "https://www.ravelry.com/patterns/library/kindle-sleeve-3",
   "external_url": "",
-  "designer_name": "Devan Sessions",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "devan sessions",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Super Saver Stripes",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Alpine stitch",
-    "Double crochet (dc)",
-    "Front post stitch",
-    "Single crochet (sc)",
-    "Slip stitch (sl st)",
-    "Treble crochet (tr)"
+    "alpine stitch",
+    "double crochet (dc)",
+    "front post stitch",
+    "single crochet (sc)",
+    "slip stitch (sl st)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Written"
+    "bottom-up",
+    "written"
   ],
   "hook_sizes_mm": [
     5.0
   ],
   "needle_sizes_mm": [],
   "published": "2024/03/01",
-  "sizes_available": "Fits an 11th Gen paperwhite kindle (7.25 x 5.25)",
+  "sizes_available": "fits an 11th gen paperwhite kindle (7.25 x 5.25)",
   "rating_average": 5.0,
   "rating_count": 5,
   "difficulty_average": 2.8,
-  "favorites_count": 247,
+  "favorites_count": 260,
   "projects_count": 17,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/106004/929516",
+  "notes": "* final dimensions: ~7.25in x 5.25in\r\n* this project is written in us terminology\r\n* you will be using the alpine stitch. this stitch is\r\nmade by alternating dc and fpdc.\r\n* you will be joining at the end of each round\r\n*ch 2 at the beginning of each round does not\r\ncount as a dc\r\n* this sleeve will fit a kindle paperwhite (the\r\none pictured is a 11th gen)\r\n\r\nskills required: basic knowledge of crochet, basic sewing skills\r\n\r\nproject materials\r\nyarn: worsted weight (55g) i used red heart\r\nsuper saver\r\n5.00 mm hook\r\nstitch markers\r\n20mm button\r\ntapestry needle\r\nscissors\r\n\r\nstitch abbreviations\r\nch- chain\r\nslst- slip stitch\r\nsc- single crochet\r\ndc- double crochet\r\nfpdc- front post double crochet\r\nst- stitch\r\nfo- finish off",
   "pdf": {
     "filename": "7340541.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7340541.pdf",
-    "url": "https://pdf.ravelrycache.com/WarmYourBuns/2070134/Kindle_Sleeve.pdf.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481193&Signature=ESCK53fe%2FqD2xpgLNR6%2B3rcVLt4%3D&key_expires=1768481193&key=dYYXBfE7wd6o-sgUhHymDg",
+    "url": "https://pdf.ravelrycache.com/WarmYourBuns/2070134/Kindle_Sleeve.pdf.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770430770&Signature=1IB0xrggwEaQSEIwtCNqjmWR%2B1Q%3D&key_expires=1770430770&key=qsTqjuKT03MwdvSl_XgO0w",
     "size_bytes": 3993977
   }
 }

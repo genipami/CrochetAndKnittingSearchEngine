@@ -1,30 +1,34 @@
 {
   "id": 7486449,
-  "name": "0-1672 Frosty Town Potholders",
+  "name": "0-1672 frosty town potholders",
   "permalink": "0-1672-frosty-town-potholders",
   "url": "https://www.ravelry.com/patterns/library/0-1672-frosty-town-potholders",
   "external_url": "https://www.garnstudio.com/pattern.php?id=12519&cid=19",
-  "designer_name": "DROPS design",
-  "project_type": "Home",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "drops design",
+  "project_type": "home",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "DROPS Cotton Light",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 50.0
+    },
+    {
+      "fiber": "Polyester (Polyester)",
+      "pct": 50.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Charted",
-    "In the round",
-    "Seamed",
-    "Stranded colorwork",
-    "Written"
+    "bottom-up",
+    "charted",
+    "in the round",
+    "seamed",
+    "stranded colorwork",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -35,8 +39,9 @@
   "rating_average": 4.6,
   "rating_count": 5,
   "difficulty_average": 3.0,
-  "favorites_count": 487,
-  "projects_count": 15,
+  "favorites_count": 537,
+  "projects_count": 16,
   "free_ravelry_download": false,
-  "download_url": "https://www.garnstudio.com/pattern.php?id=12519&cid=19"
+  "download_url": "https://www.garnstudio.com/pattern.php?id=12519&cid=19",
+  "notes": "**knitted pot-holders with nordic pattern and houses in drops cotton light. theme: christmas.**\r\n~~~~~~~~~~~~~~~~~~~~~~~~~~\r\n\r\n#frostytownpotholders\r\ndrops design: pattern cl-155\r\nyarn group b\r\n\r\n-------------------------------------------------------\r\n\r\n\r\n**size**:\r\n1 pot-holder: 17 x 17 cm.\r\n\r\n**yarn**:\r\ndrops cotton light from garnstudio (belongs to yarn group b)\r\n100 g colour 50, dark ivy\r\n50 g colour 01, off white\r\n\r\n1 pot-holder weighs approx. 50 g.\r\n\r\n**needles**:\r\ndrops circular needle size 3 mm: length 40 cm.\r\n\r\n**knitting tension**:\r\n23 stitches in width and 32 rows in height with stocking stitch on needle size 3 mm = 10 x 10 cm.\r\nnote: remember, the needle size is only a guide. if you get too many stitches on 10 cm, change to a larger needle size. if you get to few stitches on 10 cm, change to a smaller needle size."
 }

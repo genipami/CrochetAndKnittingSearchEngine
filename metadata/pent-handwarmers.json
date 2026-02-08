@@ -1,37 +1,33 @@
 {
   "id": 215944,
-  "name": "Pent Handwarmers",
+  "name": "pent handwarmers",
   "permalink": "pent-handwarmers",
   "url": "https://www.ravelry.com/patterns/library/pent-handwarmers",
   "external_url": "https://crochetoffthehookcom.wordpress.com/2021/09/01/pent-handwarmers/",
-  "designer_name": "Jessica Lombard",
-  "project_type": "Mittens/Gloves",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "jessica lombard",
+  "project_type": "mittens/gloves",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Baby Alpaca Worsted Paint",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 50.0
     },
     {
-      "fiber": "Baby Alpaca Worsted Solids",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 36.0
     },
     {
-      "fiber": "Simply Soft",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 10.0
     },
     {
-      "fiber": "Simply Soft Eco",
-      "pct": null
-    },
-    {
-      "fiber": "Ultra Alpaca",
-      "pct": null
+      "fiber": "Polyester (Polyester)",
+      "pct": 4.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [
@@ -43,8 +39,9 @@
   "rating_average": 4.714285714285714,
   "rating_count": 7,
   "difficulty_average": 2.5,
-  "favorites_count": 629,
-  "projects_count": 90,
+  "favorites_count": 653,
+  "projects_count": 91,
   "free_ravelry_download": false,
-  "download_url": null
+  "download_url": null,
+  "notes": "these hand warmers have been my all time most popular item at craft fairs, and requested for gifts from my family and friends. i own 6 or 7 pair myself, and i love to wear them with magic stretch gloves in the winter  there are several pictures in the pattern to help you along the way. i have added a whole bunch of the ones i have made, have for sale etc to spark creativity!"
 }

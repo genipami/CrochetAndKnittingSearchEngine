@@ -1,17 +1,17 @@
 {
   "id": 374603,
-  "name": "Puppy Hat",
+  "name": "puppy hat",
   "permalink": "puppy-hat-14",
   "url": "https://www.ravelry.com/patterns/library/puppy-hat-14",
   "external_url": "http://www.repeatcrafterme.com/2013/01/crochet-puppy-hat-pattern.html",
-  "designer_name": "Sarah Zimmerman",
-  "project_type": "Hat",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "sarah zimmerman",
+  "project_type": "hat",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Vanna's Choice",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
@@ -21,12 +21,13 @@
   ],
   "needle_sizes_mm": [],
   "published": "2013/01/01",
-  "sizes_available": "Newborn-adult",
-  "rating_average": 4.755813953488372,
-  "rating_count": 344,
-  "difficulty_average": 2.3554913294797686,
-  "favorites_count": 9706,
-  "projects_count": 1183,
+  "sizes_available": "newborn-adult",
+  "rating_average": 4.755102040816326,
+  "rating_count": 343,
+  "difficulty_average": 2.353623188405797,
+  "favorites_count": 9719,
+  "projects_count": 1184,
   "free_ravelry_download": false,
-  "download_url": "http://www.repeatcrafterme.com/2013/01/crochet-puppy-hat-pattern.html"
+  "download_url": "http://www.repeatcrafterme.com/2013/01/crochet-puppy-hat-pattern.html",
+  "notes": ""
 }

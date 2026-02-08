@@ -1,22 +1,22 @@
 {
   "id": 7460516,
-  "name": "Lace Headscarf",
+  "name": "lace headscarf",
   "permalink": "lace-headscarf-3",
   "url": "https://www.ravelry.com/patterns/library/lace-headscarf-3",
   "external_url": "",
   "designer_name": "knitb6y",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [],
   "stitches_used": [
-    "Lace",
-    "Single crochet (sc)"
+    "lace",
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Lace",
-    "Written"
+    "bottom-up",
+    "lace",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -24,17 +24,18 @@
   ],
   "published": "2025/09/01",
   "sizes_available": "",
-  "rating_average": 4.714285714285714,
-  "rating_count": 7,
-  "difficulty_average": 2.4285714285714284,
-  "favorites_count": 1690,
-  "projects_count": 43,
+  "rating_average": 4.777777777777778,
+  "rating_count": 9,
+  "difficulty_average": 2.2222222222222223,
+  "favorites_count": 1853,
+  "projects_count": 50,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/113355/1023275",
+  "notes": "the lace headscarf pattern uses a leaf-shaped motif nestled in a staggered diamond pattern. the scarf is knitted from the bottom-up, with an increase of 2 stitches on every odd-numbered row. in general, odd-numbered rows are knitted, while even-numbered rows are purled.\r\n\r\nno gauge will be provided, as the tension is entirely customisable based on your preference. sizing is entirely dependent on your preference as well, and can be personalised by adding/ reducing the number of rows. ",
   "pdf": {
     "filename": "7460516.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7460516.pdf",
-    "url": "https://pdf.ravelrycache.com/knitb6y/2054975/knitb6y_lace_headscarf_pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481303&Signature=XxQ0aIciKQnvwX42eut4qMospo4%3D&key_expires=1768481303&key=mM1ODjq8LwVTYutsMjcZ8w",
+    "url": "https://pdf.ravelrycache.com/knitb6y/2054975/knitb6y_lace_headscarf_pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770431263&Signature=FQI56r90EDTbLRVLABcFYGMMJ2k%3D&key_expires=1770431263&key=BsSNjoZgwBQhFP8_lWz_AQ",
     "size_bytes": 4221833
   }
 }

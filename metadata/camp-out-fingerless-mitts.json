@@ -1,40 +1,52 @@
 {
   "id": 178872,
-  "name": "Camp Out Fingerless Mitts",
+  "name": "camp out fingerless mitts",
   "permalink": "camp-out-fingerless-mitts",
   "url": "https://www.ravelry.com/patterns/library/camp-out-fingerless-mitts",
   "external_url": "",
   "designer_name": "tante ehm",
-  "project_type": "Mittens/Gloves",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "project_type": "mittens/gloves",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Primo DK",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 25.0
     },
     {
-      "fiber": "Silk Garden",
-      "pct": null
+      "fiber": "Silk (Silk)",
+      "pct": 23.3
     },
     {
-      "fiber": "Silk Garden Sock",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 18.3
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 16.7
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 10.0
+    },
+    {
+      "fiber": "Cashmere goat (Cashmere)",
+      "pct": 6.7
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Kitchener stitch",
-    "Seamless",
-    "Top-down",
-    "Worked flat",
-    "Written"
+    "in the round",
+    "kitchener stitch",
+    "seamless",
+    "top-down",
+    "worked flat",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -45,8 +57,9 @@
   "rating_average": 4.511063526052819,
   "rating_count": 1401,
   "difficulty_average": 2.048176187198899,
-  "favorites_count": 28220,
-  "projects_count": 4941,
+  "favorites_count": 28256,
+  "projects_count": 4947,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/12543/35960"
+  "download_url": "http://www.ravelry.com/dls/12543/35960",
+  "notes": "these fingerless mitts are worked in two directions.  the hand portion is worked flat in garter stitch.  stitches are picked up and worked in rounds for the thumb and wrist portion.\r\n\r\nskills:\r\nprovisional cast on, grafting, knitting in rounds.\r\n\r\n**october 2016 english version** has been revised to include directions for aran, worsted and sport weight yarn. this was my dad's suggestion! happy knitting!\r\n\r\n**design featured in [olann and online magazine][1]!**\r\n(december 2016 issue) thank you lora & deirdre!\r\n\r\n**deutsche** (december 2016)\r\ndanke [vanilla1992][2] für die deutsche übersetzung!\r\n\r\ntraduction **français** disponible. (novembre 2010)\r\ntraduction en français proposée par [tica][3].  merci tica!\r\nupdated october 2017.\r\n\r\n**norsk** oversatt av maritzm.  [maniskkreativ.blogspot.com][4]\r\ntakk [marit][5]! (december 2011)\r\nnorwegian translation now available.\r\n\r\n**日本語訳あり**（2012年2月）japanese translation available. (february 2012) \r\n翻訳：[nami44][6]。 \r\nnami44さん、ありがとうございました。thank you nami44!\r\n[http://tricotinmag.canalblog.com/][7]\r\n\r\n**magyar** fordítás is elérhető. (2012 december) fordította npiro. köszönöm, [npiro][8]!  [knitcrochet.hu][9]\r\nhungarian translation available.  (december 2012)\r\n\r\ntraducción al **español** por [maría][10].  (july 2013)\r\ngracias maría!\r\n\r\ntraduzione **italiana** di [luisa][11]. grazie luisa!  (october 2013)\r\n\r\nį **lietuvių** kalbą vertė [ievuxe][12].\r\načiū ieva! [www.narplioju.lt][13] (november 2015)\r\n\r\ndisponível em **português**. (dezembro 2015)\r\ntradução de [positivity-4ever][14]. obrigado!\r\n \r\nnyní ke stažení v **ceštině** (říjen 2017) překlad [kateřina][15] (vlněné sestry). děkuji!\r\n\r\n\r\n  [1]: http://www.archive.olannand.ie/article/ravelry-design-spotlight-7/\r\n  [2]: http://www.ravelry.com/people/vanilla1992\r\n  [3]: http:///www.ravelry.com/people/tica\r\n  [4]: http://maniskkreativ.blogspot.com\r\n  [5]: http://www.ravelry.com/people/maritzm\r\n  [6]: http://www.ravelry.com/people/nami44\r\n  [7]: http://tricotinmag.canalblog.com/\r\n  [8]: http://www.ravelry.com/people/npiro\r\n  [9]: http://knitcrochet.hu/\r\n  [10]: http://www.ravelry.com/people/amisugoi\r\n  [11]: http://www.ravelry.com/people/elelu\r\n  [12]: http://www.ravelry.com/people/ievuxe\r\n  [13]: http://www.narplioju.lt\r\n  [14]: http://www.ravelry.com/people/positivity-4ever\r\n  [15]: http://www.ravelry.com/people/vevka"
 }

@@ -1,25 +1,25 @@
 {
   "id": 950599,
-  "name": "Simple fingerless mittens with arch gusset",
+  "name": "simple fingerless mittens with arch gusset",
   "permalink": "simple-fingerless-mittens-with-arch-gusset",
   "url": "https://www.ravelry.com/patterns/library/simple-fingerless-mittens-with-arch-gusset",
   "external_url": "",
-  "designer_name": "Tania Barley",
-  "project_type": "Mittens/Gloves",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "tania barley",
+  "project_type": "mittens/gloves",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Léttlopi",
-      "pct": null
+      "fiber": "Icelandic (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch"
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "Colorwork",
-    "In the round"
+    "colorwork",
+    "in the round"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -27,18 +27,19 @@
     3.0
   ],
   "published": "2019/08/01",
-  "sizes_available": "S/M, L",
-  "rating_average": 4.817073170731708,
-  "rating_count": 82,
-  "difficulty_average": 2.5256410256410255,
-  "favorites_count": 5377,
-  "projects_count": 358,
+  "sizes_available": "s/m, l",
+  "rating_average": 4.807228915662651,
+  "rating_count": 83,
+  "difficulty_average": 2.5063291139240507,
+  "favorites_count": 5467,
+  "projects_count": 366,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/76740/547866",
+  "notes": "these fingerless mittens are knitted in the round from the cuff up to the top and have an arched gusset that allows for a very comfortable fit. they are cute, warm and very practical for cold weather months. i use them when taking my dogs for a walk, going out early in the morning to feed the chickens or to bring some firewood in.\r\nthese mittens have a very simple colorwork design, so if you have never knitted with 2 colours before, this could be a perfect first project for you.\r\nmittens are knitted on circular needles however you can also use double-pointed needles if you are more comfortable with them. \r\n",
   "pdf": {
     "filename": "950599.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\950599.pdf",
-    "url": "https://pdf.ravelrycache.com/Taniatc/1014861/Fingerless_mitts_V_1.2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482983&Signature=U1B3D5RkinbHlrBN8vQ3JXinpRE%3D&key_expires=1768482983&key=rNK825LVkHKCQogYud-gzw",
+    "url": "https://pdf.ravelrycache.com/Taniatc/1014861/Fingerless_mitts_V_1.2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770440572&Signature=yErsZU5WlNK5KBJoK%2B4NpzdX01g%3D&key_expires=1770440572&key=jUQ4qCtEeAE8iO4OQEwvUw",
     "size_bytes": 3116659
   }
 }

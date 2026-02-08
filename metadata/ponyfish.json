@@ -1,46 +1,51 @@
 {
   "id": 968706,
-  "name": "Ponyfish",
+  "name": "ponyfish",
   "permalink": "ponyfish",
   "url": "https://www.ravelry.com/patterns/library/ponyfish",
   "external_url": "https://www.echoviewnc.com/shop/ponyfish-beanie",
-  "designer_name": "Christina Danaee",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "christina danaee",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Ranger Merino Bulky",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 90.0
+    },
+    {
+      "fiber": "Rambouillet (Wool)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
     "1x1 rib",
-    "Ribbing",
-    "Treble crochet (tr)"
+    "ribbing",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     6.0
   ],
   "published": "2019/10/01",
-  "sizes_available": "One Size. ",
+  "sizes_available": "one size. ",
   "rating_average": 4.827160493827161,
   "rating_count": 81,
   "difficulty_average": 1.763157894736842,
-  "favorites_count": 2062,
+  "favorites_count": 2071,
   "projects_count": 365,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/52271/560923",
+  "notes": "*the ponyfish beanie is a relaxed fit ribbed beanie. knit with one skein of our soft ranger bulky yarn it's perfect for anyone. a great project for beginners, this hat is knit in the round in a 1x1 rib with simple crown shaping. inspired by the classic explorer hats worn by the crew of the belafonte in wes anderson's movie the life aquatic with steve zissou, this winter accessory can be your companion on any adventure.* \r\n\r\n**size:** \r\none size\r\n10.5”-26.5cm tall \r\n17”-43cm around, unstretched (stretches up to 25”-63.5cm)\r\n\r\n**yarn:**\r\nechoview fiber mill – ranger merino bulky\r\n90% merino, 10% rambouillet\r\n140yds/100g \r\n1 skein “tanager red”\r\n\r\n**materials:**\r\nus 10 circular needle 16”\r\nus 10 dpns (optional, for decreases)\r\nstitch marker \r\ntapestry needle\r\n\r\n\r\n**gauge:** \r\n18 sts x 20 rows = 4\"-10cm, over 1x1 rib pattern, worked in the round, unstretched .\r\n\r\n**techniques used:**\r\nknitting in the round\r\n",
   "pdf": {
     "filename": "968706.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\968706.pdf",
-    "url": "https://pdf.ravelrycache.com/xtinawithwolves/1031124/Ponyfish_-_Christina_Danaee_2019.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482504&Signature=76pbhfnEKAoDVhtMgsBF87jADKA%3D&key_expires=1768482504&key=66cfgTkNOTMsvv3B0IcNiQ",
+    "url": "https://pdf.ravelrycache.com/xtinawithwolves/1031124/Ponyfish_-_Christina_Danaee_2019.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770437609&Signature=IuvShUUkp9eJzs8Lx47Zy4tbXuk%3D&key_expires=1770437609&key=9qEz1wqB1D2PI2L4D-ux5Q",
     "size_bytes": 3681914
   }
 }

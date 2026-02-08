@@ -1,46 +1,47 @@
 {
   "id": 291966,
-  "name": "Luuk",
+  "name": "luuk",
   "permalink": "luuk",
   "url": "https://www.ravelry.com/patterns/library/luuk",
   "external_url": "",
-  "designer_name": "Annis Jones",
-  "project_type": "Child",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "annis jones",
+  "project_type": "child",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Lamb's Pride Superwash Worsted",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Ribbing",
-    "Treble crochet (tr)"
+    "ribbing",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     5.0
   ],
   "published": "2012/01/01",
-  "sizes_available": "Preemie, Newborn, 0-3m, 3-6m, 6-12m, Toddler (1-3), Child (4-10), Teen, Adult, Large Adult",
-  "rating_average": 4.394957983193278,
-  "rating_count": 833,
-  "difficulty_average": 2.088339222614841,
-  "favorites_count": 14244,
-  "projects_count": 3331,
+  "sizes_available": "preemie, newborn, 0-3m, 3-6m, 6-12m, toddler (1-3), child (4-10), teen, adult, large adult",
+  "rating_average": 4.39568345323741,
+  "rating_count": 834,
+  "difficulty_average": 2.0894117647058823,
+  "favorites_count": 14269,
+  "projects_count": 3344,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/26015/88707",
+  "notes": "this is the ultimate gift hat, the simple pattern is perfectly unisex while the combination of vertical and horizontal stripes make it very forgiving in terms of fit. \r\n\r\nquick, comfortable, snuggly and stylish!",
   "pdf": {
     "filename": "291966.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\291966.pdf",
-    "url": "https://pdf.ravelrycache.com/WoolenHorse/137534/Luuk_Hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481590&Signature=Mxog%2BCG%2F0eXiXYyYHgeHuHM7e%2Fc%3D&key_expires=1768481590&key=MBt8thtXPYKrzlx27Mrmeg",
+    "url": "https://pdf.ravelrycache.com/WoolenHorse/137534/Luuk_Hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770432848&Signature=xHbHT5xSZFgYDU1f4VRz1LDrf6I%3D&key_expires=1770432848&key=JGObX_1sTWWSPDHTZGAYlg",
     "size_bytes": 58740
   }
 }

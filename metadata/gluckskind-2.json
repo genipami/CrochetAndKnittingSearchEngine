@@ -1,33 +1,29 @@
 {
   "id": 1078019,
-  "name": "Glückskind",
+  "name": "glückskind",
   "permalink": "gluckskind-2",
   "url": "https://www.ravelry.com/patterns/library/gluckskind-2",
   "external_url": "",
-  "designer_name": "knitcats Design",
-  "project_type": "Blanket",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "knitcats design",
+  "project_type": "blanket",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "High Twist",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 80.0
     },
     {
-      "fiber": "High Twist Molly",
-      "pct": null
-    },
-    {
-      "fiber": "Wolkenspiel",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round"
+    "in the round"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -40,8 +36,9 @@
   "rating_average": 4.803921568627451,
   "rating_count": 51,
   "difficulty_average": 2.75,
-  "favorites_count": 1987,
-  "projects_count": 162,
+  "favorites_count": 2031,
+  "projects_count": 165,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/29055/720633"
+  "download_url": "http://www.ravelry.com/dls/29055/720633",
+  "notes": "glückskind ist eine babydecke aus merino hightwist. dieses garn ist weich, in der maschine im wollwaschgang waschbar und somit super für unser baby geeignet. \r\n\r\ndie decke wird in der mitte begonnen und durch zunahmen und verschiedene muster nach außen gestrickt. so wird die decke quadratisch und an allen seiten gleich lang. \r\n\r\nnach dem waschen (in der maschine) hat meine decke eine größe von 80 cm im quadrat. genau richtig für das kleine glückskind. \r\n"
 }

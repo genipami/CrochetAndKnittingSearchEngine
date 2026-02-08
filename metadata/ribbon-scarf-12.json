@@ -1,40 +1,45 @@
 {
   "id": 1361690,
-  "name": "Ribbon Scarf",
+  "name": "ribbon scarf",
   "permalink": "ribbon-scarf-12",
   "url": "https://www.ravelry.com/patterns/library/ribbon-scarf-12",
   "external_url": "https://www.purlsoho.com/create/2023/09/06/ribbon-scarf/",
-  "designer_name": "Purl Soho",
-  "project_type": "Scarf",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "purl soho",
+  "project_type": "scarf",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Quartz",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 65.0
+    },
+    {
+      "fiber": "Alpaca - Suri (Alpaca)",
+      "pct": 35.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch"
+    "single crochet (sc)",
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "In the round",
-    "Modular",
-    "Seamless",
-    "Written"
+    "in the round",
+    "modular",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.75
   ],
   "published": "2023/09/01",
-  "sizes_available": "One Size",
+  "sizes_available": "one size",
   "rating_average": 5.0,
-  "rating_count": 14,
-  "difficulty_average": 2.2,
-  "favorites_count": 4404,
-  "projects_count": 98,
+  "rating_count": 15,
+  "difficulty_average": 2.125,
+  "favorites_count": 4514,
+  "projects_count": 100,
   "free_ravelry_download": false,
-  "download_url": "https://www.purlsoho.com/create/2023/09/06/ribbon-scarf/"
+  "download_url": "https://www.purlsoho.com/create/2023/09/06/ribbon-scarf/",
+  "notes": "materials\r\n\r\n- 1 skein of purl soho’s [quartz][1], 65% merino wool and 35% suri alpaca. each skein is 420 yards/ 100 grams; approximately 420 total yards required. we used the colors icicle blue, aquamarine blue, peony pink, and golden green.\r\n- us 1½ (2.75 mm), [double pointed needles][2] or 32-inch [circular needles][3] for magic loop\r\n- [stitch markers][4], including one unique\r\n- a small [crochet hook][5] and scrap yarn (for [provisional cast on][6])\r\n\r\ngauge\r\n34 stitches and 40 rounds = 4 inches in stockinette stitch\r\n\r\nnote: we used almost the entire skein of quartz for this scarf! to avoid running out of yarn, check your gauge.\r\n\r\nsize\r\nfinished dimensions: approximately 2½ inches wide x 68 inches long\r\n\r\ndesigned by purl soho designer, [hiromi glover][7]. click [here][8] to see even more of hiromi’s work!\r\n\r\n\r\n  [1]: http://www.purlsoho.com/quartz.html\r\n  [2]: https://www.purlsoho.com/tools-and-notions/knitting-and-crochet.html?collection_filter=23799\r\n  [3]: https://www.purlsoho.com/tools-and-notions/knitting-and-crochet.html?collection_filter=23796\r\n  [4]: https://www.purlsoho.com/tools-and-notions/knitting-and-crochet.html?collection_filter=964\r\n  [5]: https://www.purlsoho.com/tools-and-notions/knitting-and-crochet.html?collection_filter=23805\r\n  [6]: https://www.purlsoho.com/create/provisional-cast-on-video/\r\n  [7]: https://www.purlsoho.com/create/tag/hiromi-glover-for-purl-soho/\r\n  [8]: https://www.instagram.com/mignonnegrise/"
 }

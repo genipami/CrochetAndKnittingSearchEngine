@@ -1,42 +1,47 @@
 {
   "id": 1004287,
-  "name": "Winter Cuddler Throw Blanket",
+  "name": "winter cuddler throw blanket",
   "permalink": "winter-cuddler-throw-blanket",
   "url": "https://www.ravelry.com/patterns/library/winter-cuddler-throw-blanket",
   "external_url": "https://www.mamainastitch.com/winter-cuddler-throw-blanket-knitting-pattern/",
-  "designer_name": "Jessica Reeves Potasz",
-  "project_type": "Blanket",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "jessica reeves potasz",
+  "project_type": "blanket",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Wool Ease Thick & Quick",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Eyelet lace",
-    "Garter stitch",
-    "Seed stitch",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "eyelet lace",
+    "garter stitch",
+    "seed stitch",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     10.0
   ],
   "published": "2019/12/01",
-  "sizes_available": "32” x 38” OR 57” x 38”",
-  "rating_average": 4.87012987012987,
-  "rating_count": 154,
-  "difficulty_average": 2.2733333333333334,
-  "favorites_count": 10743,
-  "projects_count": 623,
+  "sizes_available": "32” x 38” or 57” x 38”",
+  "rating_average": 4.872611464968153,
+  "rating_count": 157,
+  "difficulty_average": 2.261437908496732,
+  "favorites_count": 10823,
+  "projects_count": 631,
   "free_ravelry_download": false,
-  "download_url": "https://www.mamainastitch.com/winter-cuddler-throw-blanket-knitting-pattern/"
+  "download_url": "https://www.mamainastitch.com/winter-cuddler-throw-blanket-knitting-pattern/",
+  "notes": "cuddle up with this squishy throw all winter long! featuring luxurious texture and a variety of stitches, this cozy blanket will hold your interest as you knit and watch the pattern emerge.  the wool blend yarn makes for a perfect winter accessory for your favorite chair or sofa.  you’ll find that it works up quickly with large needles and chunky yarn. enjoy!\r\n\r\ninstructions are provided for a full afghan size, or a smaller lapghan or baby blanket size.\r\n\r\ngauge: approximately 9 sts & 18 rows in 4” of garter stitch\r\n\r\npattern notes: \r\n\r\nthis blanket is made with several stitches including garter stitch, stockinette, broken seed stitch, seed stitch, and ridged eyelets. tutorials for many of these stitch patterns can be found by conducting a basic online search.  if you would like to adjust the width of the blanket, keep in mind that the center pattern must be a multiple of 2 + 2 extra stitches (excluding the garter stitch edges for the border on each side).  to adjust the length, simply knit for more or fewer rows while following the stitch pattern. finish with the final garter edge."
 }

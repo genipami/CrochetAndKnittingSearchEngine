@@ -1,29 +1,29 @@
 {
   "id": 7418425,
-  "name": "Ciao Bella",
+  "name": "ciao bella",
   "permalink": "ciao-bella-2",
   "url": "https://www.ravelry.com/patterns/library/ciao-bella-2",
   "external_url": "",
-  "designer_name": "Lisa Overby",
-  "project_type": "Scarf",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "lisa overby",
+  "project_type": "scarf",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Finn",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "lace",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Lace",
-    "Seamless",
-    "Written"
+    "blocking",
+    "lace",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -34,14 +34,15 @@
   "rating_average": 4.166666666666667,
   "rating_count": 6,
   "difficulty_average": 3.8333333333333335,
-  "favorites_count": 1379,
+  "favorites_count": 1398,
   "projects_count": 34,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/69721/991196",
+  "notes": "hello, beautiful; good-bye, beautiful!\r\n\r\nto celebrate a new chapter in the yarn twisters journey we created this jaunty little scarf pattern as a gift to our wonderful customers we have meet and served over the last 7 years!\r\n\r\nyarn: 1 skein yarn twisters finn; 420 yards/115g; 100% 17 micron count sw merino, or any fingering weight yarn\r\n\r\nsample knit with colourway laike; approx 50g used\r\n\r\ngauge: 24 sts by 24 rows equal 4” by 4” in lace pattern after blocking\r\n\r\nneedles: 4 mm (us 6) needle; or size needed to obtain gauge\r\n\r\nnotions: darning needle, stitch markers optional to mark the pattern repeats\r\n\r\nfinished size: centre depth: 5.5” (14cm); wingspan: 52.5” (133cm)\r\n\r\nto make this scarf shorter/longer, you can eliminate/add repeats in the middle section\r\n\r\nerrata march 25, 2025: \r\nincrease section, row 103: added a yo to the repeat section\r\nmiddle section, row 7: added a yo to the repeat section\r\n\r\nerrate april 7, 2025:\r\nincrease section:\r\nrow 3: added a k1 after the kfb\r\nrow 25: k4, sl3 wyif\r\nrow 43: added a yo to the repeat section\r\nrow 79: removed the k1 after the first kfb\r\nrow 93: repeat x 5\r\nrow 95: changed to k1 after the first kfb and removed the k1 before the second kfb\r\nrow 101: repeat x 5\r\ndecrease section:\r\nremoved row 70",
   "pdf": {
     "filename": "7418425.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7418425.pdf",
-    "url": "https://pdf.ravelrycache.com/YarnTwistersYYC/1988135/Ciao_Bella.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479533&Signature=c46rpvVmCOqnBSpqA746lfKvZm0%3D&key_expires=1768479533&key=XD4lD0OrW1KlanyyhkB6zQ",
+    "url": "https://pdf.ravelrycache.com/YarnTwistersYYC/1988135/Ciao_Bella.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770421541&Signature=9DWsgwg%2FWyDgPjpTus96tsL9aZc%3D&key_expires=1770421541&key=19G8ez1zgndOYWlXLHfiGQ",
     "size_bytes": 8148221
   }
 }

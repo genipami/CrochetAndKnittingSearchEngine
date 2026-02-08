@@ -1,38 +1,39 @@
 {
   "id": 211943,
-  "name": "Surface Braid Hat",
+  "name": "surface braid hat",
   "permalink": "surface-braid-hat",
   "url": "https://www.ravelry.com/patterns/library/surface-braid-hat",
   "external_url": "http://thelaughingwillow.blogspot.com/2010/11/surface-braid-hat-free-pattern.html",
-  "designer_name": "Amy Depew",
-  "project_type": "Hat",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "amy depew",
+  "project_type": "hat",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Soft (Heathers & Solids)",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless"
+    "in the round",
+    "seamless"
   ],
   "hook_sizes_mm": [
     6.0
   ],
   "needle_sizes_mm": [],
   "published": "2010/11/01",
-  "sizes_available": "OSFA",
+  "sizes_available": "osfa",
   "rating_average": 4.5606060606060606,
   "rating_count": 132,
   "difficulty_average": 2.119718309859155,
-  "favorites_count": 4962,
-  "projects_count": 806,
+  "favorites_count": 4965,
+  "projects_count": 808,
   "free_ravelry_download": false,
-  "download_url": "http://thelaughingwillow.blogspot.com/2010/11/surface-braid-hat-free-pattern.html"
+  "download_url": "http://thelaughingwillow.blogspot.com/2010/11/surface-braid-hat-free-pattern.html",
+  "notes": "per some feedback from others, please note that you will probably need to down-hook to an h or an i for best fit. happy hooking! !\r\n\r\nthis is a fun take on a traditional half-double crochet.  the result is a super stretchy, reversible hat.  enjoy!"
 }

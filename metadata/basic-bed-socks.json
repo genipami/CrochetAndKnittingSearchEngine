@@ -1,36 +1,32 @@
 {
   "id": 916206,
-  "name": "Basic Bed Socks",
+  "name": "basic bed socks",
   "permalink": "basic-bed-socks",
   "url": "https://www.ravelry.com/patterns/library/basic-bed-socks",
   "external_url": "",
-  "designer_name": "Emily Bolduan",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "emily bolduan",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "8 ply Superfine Merino",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 66.7
     },
     {
-      "fiber": "Organic Merino 8 ply DK",
-      "pct": null
-    },
-    {
-      "fiber": "Superfine Merino 8 Ply / DK",
-      "pct": null
+      "fiber": "Saxon Merino (Wool)",
+      "pct": 33.3
     }
   ],
   "stitches_used": [
-    "Ribbing",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "ribbing",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless",
-    "Written"
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -38,18 +34,19 @@
     3.5
   ],
   "published": null,
-  "sizes_available": "European size 36 (38, 40) or custom",
+  "sizes_available": "european size 36 (38, 40) or custom",
   "rating_average": 4.595238095238095,
   "rating_count": 84,
   "difficulty_average": 2.4125,
-  "favorites_count": 5420,
-  "projects_count": 514,
+  "favorites_count": 5692,
+  "projects_count": 512,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/63586/523964",
+  "notes": "these simple socks are an easy introduction for new sock knitters, or a quick and chunky bed sock for those that know what they are doing.\r\n\r\nthe socks are worked from the toe up using circular needles and magic loop, and have a german short row heel. there may be some new techniques that you will need to look up, but they will be a great addition to your knitting toolkit!\r\n\r\n**sizes**\r\neur size 36 (38, 40) or 22.5 (24, 25) cm. or whatever length you like!\r\n\r\n**yarn**\r\napproximately 60g-100g of 8ply yarn. (our sample fits a size 41 and weighs 80g per pair)\r\nwe used a mix of millpost merino, woolganics, and white gum wool yarns, but any 8ply yarn would be fine.\r\n\r\n**needles**\r\n3.25-3.50mm 80cm circular needles, depending on your gauge.\r\noptional, 80cm circular needle 1 or 2 sizes smaller for tighter ribbing.",
   "pdf": {
     "filename": "916206.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\916206.pdf",
-    "url": "https://pdf.ravelrycache.com/hellomakermaker/958044/Basic_Bed_Socks.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478990&Signature=oZa9cx1MXH95iEe0MlxSeVuuK8E%3D&key_expires=1768478990&key=2K1d-SUSYfP4CeBZxlPrDA",
+    "url": "https://pdf.ravelrycache.com/hellomakermaker/958044/Basic_Bed_Socks.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770418313&Signature=UBv4K%2FP4k12qDigM4P7evY5lRY8%3D&key_expires=1770418313&key=603krwnlJDffddF5dhlKmw",
     "size_bytes": 1116468
   }
 }

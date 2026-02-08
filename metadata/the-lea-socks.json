@@ -1,44 +1,49 @@
 {
   "id": 7332273,
-  "name": "The Lea Socks",
+  "name": "the lea socks",
   "permalink": "the-lea-socks",
   "url": "https://www.ravelry.com/patterns/library/the-lea-socks",
   "external_url": "",
-  "designer_name": "Knit On Designs Ravelry Store",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "knit on designs ravelry store",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Soft Sock",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.25
   ],
   "published": "2024/04/01",
-  "sizes_available": "Pattern is written for an adult size medium width, average size foot.  I have included a chart below for knitting your perfect length. Approx. shoe size: U.S. 6-9.5 (39-42 Euro)",
+  "sizes_available": "pattern is written for an adult size medium width, average size foot.  i have included a chart below for knitting your perfect length. approx. shoe size: u.s. 6-9.5 (39-42 euro)",
   "rating_average": 4.8,
   "rating_count": 5,
   "difficulty_average": 2.0,
-  "favorites_count": 1194,
-  "projects_count": 42,
+  "favorites_count": 1199,
+  "projects_count": 44,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/13025/923086",
+  "notes": "this is a top/cuff down sock.\r\n\r\nthe lea socks\r\n\r\nclassic. simple. that’s how i describe the lea socks. it’s the kind of sock that leaves you wanting more. it’s easy to memorize, easy project to take on-the-go, and any tonal, solid, or variegated yarn would look lovely on her. she’s super fun to make. \r\n\r\nthis sock pattern is perfect for your 30 minutes of knitting every morning. it works up fast.\r\n\r\nskill level: beginner sock knitter or anyone comfortable with knitting in the round.\r\n\r\nchart: never. all of my patterns are written for ease of reading.\r\n\r\nlanguage: standard american knit terms written in english.\r\n\r\nyarn: fingering weight/sock yarn; a homespun house soft sock - sock set was used for this sample. (category 1)\r\n\r\nneedles: us size 1/2.25mm. i use dpns.\r\n\r\nsize: adult women size medium width; approx. shoe size: u.s. 6-10 (39-42 euro)\r\n\r\na craft yarn council chart has been provided to help you determine the length of your sock based on your foot size. most of my socks have one cast on for an average width foot (keep in mind socks stretch, so this is rarely a problem), some have more sizes depending on the sock. ",
   "pdf": {
     "filename": "7332273.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7332273.pdf",
-    "url": "https://pdf.ravelrycache.com/DebBuckingham/1820739/TheLeaSocks.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483647&Signature=8OWIQYPz%2B8TWRAwzhOW0No%2BknRc%3D&key_expires=1768483647&key=0RFTg2ld1agOik79SFVVCw",
+    "url": "https://pdf.ravelrycache.com/DebBuckingham/1820739/TheLeaSocks.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770444219&Signature=TQ3YeckLYfeANrkG%2FXi12pgNf0w%3D&key_expires=1770444219&key=I_h5fyXMoFq5Lkbs7N-XiQ",
     "size_bytes": 713463
   }
 }

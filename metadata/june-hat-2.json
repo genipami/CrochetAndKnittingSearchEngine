@@ -1,29 +1,29 @@
 {
   "id": 937550,
-  "name": "June Hat",
+  "name": "june hat",
   "permalink": "june-hat-2",
   "url": "https://www.ravelry.com/patterns/library/june-hat-2",
   "external_url": "",
-  "designer_name": "Meghan Kelly",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "meghan kelly",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Germantown",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Reverse stockinette",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "reverse stockinette",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Bottom-up",
-    "In the round",
-    "Written"
+    "blocking",
+    "bottom-up",
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -32,17 +32,18 @@
   ],
   "published": "2019/06/01",
   "sizes_available": "16” (40 cm) circumference, unstretched, 8.25” (21 cm) height",
-  "rating_average": 4.823943661971831,
-  "rating_count": 284,
-  "difficulty_average": 2.090909090909091,
-  "favorites_count": 12088,
-  "projects_count": 1357,
+  "rating_average": 4.821052631578947,
+  "rating_count": 285,
+  "difficulty_average": 2.097826086956522,
+  "favorites_count": 12120,
+  "projects_count": 1358,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/13463/539318",
+  "notes": "what’s better than a free hat pattern? 12 free hat patterns, of course! this year we’re releasing a new, free hat design on the 3rd tuesday of each month made in germantown.\r\n\r\nin conjunction with the release of the designs, we’re also offering limited kits that include a custom leather tag, yarn for sewing the tag on (in both contrast and matching colors), and germantown in the recommended colors. find the kit on our site [here][1] or ask for it at your favorite lys!\r\n\r\n**worthy of note**\r\nthe june hat is worked in the round from the bottom up. columns of slipped knit stitches repeat at regular intervals around the hat, breaking up the horizontally striped purl rows. \r\n\r\nthere is enough yarn in two skeins of germantown to make a second hat in the opposite colorway. use leftovers from the previous months' hats to make the multi-colored pompoms for a pop of color. \r\n\r\n**yarn**\r\nkelbourne woolens germantown (100% n. american wool; 220 yds/100 gm skein):\r\n*version 1:* \r\nnatural 105 (mc), 1 skein; black 005 (cc), 1 skein.\r\n*version 2:* \r\nblack 005 (mc), 1 skein; natural 105 (cc), 1 skein.\r\n**gauge**\r\n20 sts + 24 rnds = 4” (10 cm) in reverse st st on larger needles, after blocking.\r\n**needles**\r\n1 – 16” (40 cm) us 5 (3.5 mm) circular.\r\n1 – 16” (40 cm) us 7 (4.5 mm) circular.\r\n1 – set us 7 (4.5 mm) dpns.\r\n*check your gauge and adjust needle size(s) accordingly if necessary.*\r\n**notions**\r\ndarning needle, stitch marker(s).\r\n**size**\r\n17.5” (44.5 cm) circumference, unstretched, 9” (23 cm) height.\r\n**skills**\r\nknitting, purling, slipped stitches.\r\n\r\nimages: linette kielinski\r\n\r\n\r\n  [1]: https://kelbournewoolens.com/onlineshop/years-of-hats-kit-june",
   "pdf": {
     "filename": "937550.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\937550.pdf",
-    "url": "https://pdf.ravelrycache.com/KelbourneWoolens/989063/Year_of_Hats_June_Hat_V2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481129&Signature=9Bb7GK%2BpUZUur9Pxsqy6Cu3w%2F0Q%3D&key_expires=1768481129&key=a-EDCV5_eO82cEY30Z3r2Q",
+    "url": "https://pdf.ravelrycache.com/KelbourneWoolens/989063/Year_of_Hats_June_Hat_V2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770430425&Signature=gfH3I%2BT3lOXUJ1uxhZbQQQUObM0%3D&key_expires=1770430425&key=8DMoMn2JDgzZu3oHBAOdMQ",
     "size_bytes": 2575207
   }
 }

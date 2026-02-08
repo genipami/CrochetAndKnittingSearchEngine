@@ -1,48 +1,49 @@
 {
   "id": 1085213,
-  "name": "Color Palette Socks",
+  "name": "color palette socks",
   "permalink": "color-palette-socks-2",
   "url": "https://www.ravelry.com/patterns/library/color-palette-socks-2",
   "external_url": "",
-  "designer_name": "Laura Moorats",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "laura moorats",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Arwetta",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 90.0
     },
     {
-      "fiber": "Sock",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch"
+    "single crochet (sc)",
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "Charted",
-    "Written"
+    "charted",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.5
   ],
   "published": "2020/11/01",
-  "sizes_available": "Women's Medium",
-  "rating_average": 4.858880778588808,
-  "rating_count": 411,
-  "difficulty_average": 2.411764705882353,
-  "favorites_count": 30823,
-  "projects_count": 2443,
+  "sizes_available": "women's medium",
+  "rating_average": 4.858173076923077,
+  "rating_count": 416,
+  "difficulty_average": 2.425925925925926,
+  "favorites_count": 31125,
+  "projects_count": 2471,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/85345/653575",
+  "notes": "color palette socks are a wonderful and easy way to use your minis or scrap yarn to create beautiful colorways.\r\n\r\nsize\r\nthe pattern features one size - approx. 38-39 eu, circumference 20cm, length adjustable. \r\n\r\nyarn\r\nyou'll need approx. 250-280 meters of (light) fingering weight sock yarn. the sample is knit in arwetta classic by filcolana (colorways 101, 977, 971, 334, 354, 973)\r\n\r\nneedles\r\n2.5 mm/us 1.5 dpns\r\n\r\nthis pattern has not been tech edited. feel free to contact me if you have any problems or questions about the pattern.",
   "pdf": {
     "filename": "1085213.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1085213.pdf",
-    "url": "https://pdf.ravelrycache.com/laurelknitss/1222143/Color_Palette_Socks.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479638&Signature=%2BbHLmRu3cRbXph%2BdzMd3X3GaQTY%3D&key_expires=1768479638&key=LzKM2tOgKnqcf_iBliJ5iA",
+    "url": "https://pdf.ravelrycache.com/laurelknitss/1222143/Color_Palette_Socks.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770422021&Signature=yxE4i4HwjlkpSnfYtbJFW69Gc%2Fo%3D&key_expires=1770422021&key=xaagWVfjDDhkixkgHMRr1w",
     "size_bytes": 626143
   }
 }

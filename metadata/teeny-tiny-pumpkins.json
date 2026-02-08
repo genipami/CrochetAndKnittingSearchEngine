@@ -1,22 +1,22 @@
 {
   "id": 7470709,
-  "name": "Teeny Tiny Pumpkins",
+  "name": "teeny tiny pumpkins",
   "permalink": "teeny-tiny-pumpkins",
   "url": "https://www.ravelry.com/patterns/library/teeny-tiny-pumpkins",
   "external_url": "",
-  "designer_name": "Anna Tracy",
-  "project_type": "Toys",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "anna tracy",
+  "project_type": "toys",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "2ply Jumper Weight",
-      "pct": null
+      "fiber": "Shetland (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "In the round"
+    "in the round"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -27,14 +27,15 @@
   "rating_average": 5.0,
   "rating_count": 8,
   "difficulty_average": 2.5,
-  "favorites_count": 1978,
-  "projects_count": 42,
+  "favorites_count": 2016,
+  "projects_count": 43,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/114001/1031089",
+  "notes": "make a pile of tiny pumpkins!\r\n\r\nthese pumpkins are between 5/8\" and 1\" tall depending on how much stuffing you use and how tight you pull the tail end through the middle. just like real pumpkins they easily adjust to squashed, round, or oblong.\r\n\r\noptions include a knitted stem or using found items such as twigs and coiled wire.\r\n\r\ngreat for using up your yarn stash. can be easily upsize using heavier yarns. just be sure to go down a needle size from what you would normally knit with in order to keep the stuffing from showing.",
   "pdf": {
     "filename": "7470709.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7470709.pdf",
-    "url": "https://pdf.ravelrycache.com/bug/2074173/Teeny_Tiny_Pumpkins_Pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483528&Signature=CgDCxPnJl3xKcnseBGKsm%2B4%2FpK8%3D&key_expires=1768483528&key=-S1cxPcq6dk_St4_tSA38A",
+    "url": "https://pdf.ravelrycache.com/bug/2074173/Teeny_Tiny_Pumpkins_Pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770443697&Signature=UYCvBk7HKFejqN2yDrbIrixU1BQ%3D&key_expires=1770443697&key=G5dhypK_eFiHkRMMursq8A",
     "size_bytes": 430519
   }
 }

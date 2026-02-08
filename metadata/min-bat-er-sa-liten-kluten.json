@@ -1,36 +1,28 @@
 {
   "id": 7353774,
-  "name": "Min båt er så liten kluten",
+  "name": "min båt er så liten kluten",
   "permalink": "min-bat-er-sa-liten-kluten",
   "url": "https://www.ravelry.com/patterns/library/min-bat-er-sa-liten-kluten",
   "external_url": "",
-  "designer_name": "Brit Vie",
-  "project_type": "Dishcloth",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "brit vie",
+  "project_type": "dishcloth",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "100% Cotton 8/4",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 75.0
     },
     {
-      "fiber": "Mandarin Petit",
-      "pct": null
-    },
-    {
-      "fiber": "Petunia",
-      "pct": null
-    },
-    {
-      "fiber": "Vårsøg",
-      "pct": null
+      "fiber": "Pima (Cotton)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [],
@@ -39,14 +31,15 @@
   "rating_average": 4.666666666666667,
   "rating_count": 3,
   "difficulty_average": 2.3333333333333335,
-  "favorites_count": 69,
+  "favorites_count": 70,
   "projects_count": 42,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/104015/940013",
+  "notes": "i denne kluten kan du selv velge hvilket bommulsgarn du vil bruke.\r\ntil tynnere garn til mindre klut og til tykker garn , større klut.\r\ndenne kluten er en del av min sommerklut samstrikk sommer 2024. klut nr2.\r\nden første heter skurekluten, glattskurt berg",
   "pdf": {
     "filename": "7353774.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7353774.pdf",
-    "url": "https://pdf.ravelrycache.com/BritStrikkenerd/1860693/Min_bat_er_sa_liten_mnster_1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481761&Signature=cp4XbkhYFND8CMY9Fpli6qIm4VM%3D&key_expires=1768481761&key=K512rGJC0tUrYFqX7sdTWg",
+    "url": "https://pdf.ravelrycache.com/BritStrikkenerd/1860693/Min_bat_er_sa_liten_mnster_1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770433814&Signature=KnKP8VxMuPU%2BqG7KV6zH8ETQyOE%3D&key_expires=1770433814&key=5ABFfy-TI95WGTaEfNYwyQ",
     "size_bytes": 4207285
   }
 }

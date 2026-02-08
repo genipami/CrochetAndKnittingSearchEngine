@@ -1,25 +1,33 @@
 {
   "id": 7342197,
-  "name": "Autumn Pumpkin",
+  "name": "autumn pumpkin",
   "permalink": "autumn-pumpkin-7",
   "url": "https://www.ravelry.com/patterns/library/autumn-pumpkin-7",
   "external_url": "https://blog.bellacococrochet.com/learn-how-to-crochet-an-autumn-pumpkin-free-pattern/",
-  "designer_name": "Bella Coco Crochet",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "bella coco crochet",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Cashmerino Aran",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 55.0
+    },
+    {
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 33.0
+    },
+    {
+      "fiber": "Cashmere goat (Cashmere)",
+      "pct": 12.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Single crochet (sc)"
+    "double crochet (dc)",
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     5.0
@@ -30,8 +38,9 @@
   "rating_average": 5.0,
   "rating_count": 5,
   "difficulty_average": 1.5,
-  "favorites_count": 208,
+  "favorites_count": 213,
   "projects_count": 25,
   "free_ravelry_download": false,
-  "download_url": "https://blog.bellacococrochet.com/learn-how-to-crochet-an-autumn-pumpkin-free-pattern/"
+  "download_url": "https://blog.bellacococrochet.com/learn-how-to-crochet-an-autumn-pumpkin-free-pattern/",
+  "notes": "learn how to crochet an autumn pumpkin with my free step by step pattern and video tutorial. this beginner friendly pattern can be easily adapted so you can make them in multiple sizes, simply change your yarn weight and hook size to make these autumn pumpkins bigger or smaller.\r\n\r\nthese lovely crochet pumpkins look great scattered around your home to embrace the start of autumn, you can also use these pumpkins to make a wreath or why not attach them to a long chain or some twine and create some pumpkin bunting. \r\n\r\nfull free pattern and video tutorials for left and right handed can be found at https://blog.bellacococrochet.com/learn-how-to-crochet-an-autumn-pumpkin-free-pattern/\r\n\r\nwritten in uk terms\r\nthis pattern gives you the basic principles to make a pumpkin, designed to help you create your own projects.\r\n\r\ncrochet skills needed:\r\n\r\nchain(s): ch(s): yarn over, pull through loop on the hook.\r\n\r\ndouble crochet(s): dc(s): insert hook into stitch, yarn over, pull up a loop, you will have two loops on the hook. yarn over, pull through remaining two loops."
 }

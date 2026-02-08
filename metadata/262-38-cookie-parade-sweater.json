@@ -1,30 +1,34 @@
 {
   "id": 7477864,
-  "name": "262-38 Cookie Parade Sweater",
+  "name": "262-38 cookie parade sweater",
   "permalink": "262-38-cookie-parade-sweater",
   "url": "https://www.ravelry.com/patterns/library/262-38-cookie-parade-sweater",
   "external_url": "https://www.garnstudio.com/pattern.php?id=12486&cid=19",
-  "designer_name": "DROPS design",
-  "project_type": "Pullover",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "drops design",
+  "project_type": "pullover",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "DROPS Lima",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 65.0
+    },
+    {
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 35.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Seamless",
-    "Stranded colorwork",
-    "Top-down",
-    "Written"
+    "charted",
+    "in the round",
+    "seamless",
+    "stranded colorwork",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -32,12 +36,13 @@
     4.0
   ],
   "published": "2025/11/01",
-  "sizes_available": " S - M - L - XL - XXL - XXXL",
+  "sizes_available": " s - m - l - xl - xxl - xxxl",
   "rating_average": 4.375,
   "rating_count": 8,
   "difficulty_average": 5.333333333333333,
-  "favorites_count": 1582,
-  "projects_count": 22,
+  "favorites_count": 1741,
+  "projects_count": 25,
   "free_ravelry_download": false,
-  "download_url": "https://www.garnstudio.com/pattern.php?id=12486&cid=19"
+  "download_url": "https://www.garnstudio.com/pattern.php?id=12486&cid=19",
+  "notes": "knitted jumper in drops lima. the piece is worked top down with round yoke and multi-coloured gingerbread and heart pattern. sizes s - xxxl. pattern li-219; yarn group b\r\ntheme: christmas\r\n#cookieparadesweater\r\n\r\n[50-2 cookie parade sweater in children's sizes][1]\r\n\r\n**sizes**: s - m - l - xl - xxl - xxxl\r\n\r\n**yarn**:\r\ndrops lima from garnstudio\r\n400-450-500-550-600-650 g colour 9026, chestnut\r\n100-100-150-150-150-150 g colour 0100, off white\r\n50-50-50-50-50-50 g colour 3609, red\r\n\r\n**needles**:\r\ndrops circular needle size 4 mm, length 40 cm and 80 cm.\r\ndrops circular needle size 3 mm, length 40 cm and 80 cm.\r\ndrops double pointed needles size 4 mm.\r\ndrops double pointed needles size 3 mm.\r\nthe technique magic loop can be used – you then only need 80 cm circular needle in each size.\r\n\r\n**knitting tension**:\r\n21 stitches in width and 28 rows in height with stocking stitch on needle size 4 mm = 10 x 10 cm.\r\n\r\n\r\n  [1]: https://www.ravelry.com/patterns/library/50-2-cookie-parade-sweater"
 }

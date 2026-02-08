@@ -1,31 +1,27 @@
 {
   "id": 7379308,
-  "name": "Hera",
+  "name": "hera",
   "permalink": "hera-16",
   "url": "https://www.ravelry.com/patterns/library/hera-16",
   "external_url": "",
-  "designer_name": "Gudrun Huskins",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Lace",
+  "designer_name": "gudrun huskins",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "lace",
   "materials": [
     {
-      "fiber": "Lace Garn",
-      "pct": null
-    },
-    {
-      "fiber": "Uneek Fingering",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Treble crochet (tr)"
+    "lace",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Lace",
-    "Short rows"
+    "blocking",
+    "lace",
+    "short rows"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -33,11 +29,12 @@
   ],
   "published": "2024/10/01",
   "sizes_available": "",
-  "rating_average": 4.857142857142857,
-  "rating_count": 14,
-  "difficulty_average": 2.923076923076923,
-  "favorites_count": 3002,
-  "projects_count": 59,
+  "rating_average": 4.866666666666666,
+  "rating_count": 15,
+  "difficulty_average": 3.0,
+  "favorites_count": 3105,
+  "projects_count": 64,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/26363/960055"
+  "download_url": "http://www.ravelry.com/dls/26363/960055",
+  "notes": "i have to admit that i have a weakness for those fantastic skeins of wollmeise lace yarn with their vivid shades and wonderful color combinations. and although collecting yarns is a separate hobby, i was itching to knit something special with them. after some trial and error, i came up with hera. \r\nthe pattern construction consists of short rows which will arrange the colors in a unique way and make them pop. \r\n\r\nyou will need around 1590m (1740 yards) of lace weight. the shawl will grow quite a bit in length after washing and blocking. \r\nfinished size is about 55 by 190 cm.\r\n\r\n**update:**\r\ni have added a second version of the pattern, named 'hera 16.5.2025.pdf'. this pattern is slightly altered to accommodate the colorways of urth yarns uneek fingering. this version requires three skeins of yarn to produce a shawl sized approximately 75\"/ 190 cm x 12.5\"/32 cm. \r\n"
 }

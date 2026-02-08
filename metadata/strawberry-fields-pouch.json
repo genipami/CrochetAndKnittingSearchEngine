@@ -1,36 +1,44 @@
 {
   "id": 7446991,
-  "name": "Strawberry Fields Pouch",
+  "name": "strawberry fields pouch",
   "permalink": "strawberry-fields-pouch",
   "url": "https://www.ravelry.com/patterns/library/strawberry-fields-pouch",
   "external_url": "",
   "designer_name": "asawki_knits",
-  "project_type": "Bag",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "project_type": "bag",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "CoBaSi",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 77.5
     },
     {
-      "fiber": "Friends Cotton 8/4 Solids",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 10.5
+    },
+    {
+      "fiber": "Rayon from Bamboo (Bamboo)",
+      "pct": 8.0
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 4.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Bottom-up",
-    "Charted",
-    "Colorwork",
-    "In the round",
-    "Seamless",
-    "Stranded colorwork",
-    "Written"
+    "blocking",
+    "bottom-up",
+    "charted",
+    "colorwork",
+    "in the round",
+    "seamless",
+    "stranded colorwork",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -38,17 +46,18 @@
   ],
   "published": "2025/07/01",
   "sizes_available": "6\"x8\"",
-  "rating_average": 4.666666666666667,
-  "rating_count": 3,
-  "difficulty_average": 2.6666666666666665,
-  "favorites_count": 2376,
-  "projects_count": 16,
+  "rating_average": 4.8,
+  "rating_count": 5,
+  "difficulty_average": 2.4,
+  "favorites_count": 2490,
+  "projects_count": 19,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/112548/1013295",
+  "notes": "+[youtube tutorial][1]!\r\n\r\nthe strawberry fields pouch is a stranded colorwork pouch knit bottom-up with double folded edges that house the i-cord drawstrings. finished measurements are 6in/15.25cm (w) x 8in/20.3cm (l) but you can modify the number of cast-on stitches and number of repeats of the chart to make any size pouch you’d like!\r\n\r\nyarn: \r\ni used fingering weight scrap yarn from previous projects\r\n•\tmc: 25g friends cotton 8/4 in oatmilk (#003)\r\n      o\tapprox. 80m (87yds)\r\n      o\tyarn is 160m (174yds) per 50g\r\n•\tcc1: 15g hikoo cobasi in vavavavoom red (#054)\r\n      o\tapprox. 60m (66yds)\r\n      o\tyarn is 201m (220yds) per 50g\r\n•\tcc2: 12g friends cotton 8/4 in sage (#114)\r\n      o\tapprox. 39m (42yds)\r\n      o\tyarn is 160m (174yds) per 50g\r\n\r\nsuggested yarn: \r\nany fingering weight yarn in the necessary colors should work great!\r\n\r\nneedles: 3.25mm (us size 3) 100cm circular needles\r\n\r\nnotions: tapestry needle, stitch marker, scissors, safety pin\r\n\r\ngauge: 31 sts x 38 rows = 10cm/4” in colorwork chart on 3.25mm (us size 3) needles after blocking \r\n\r\n\r\n  [1]: https://www.youtube.com/watch?v=pphk21n1yzo",
   "pdf": {
     "filename": "7446991.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7446991.pdf",
-    "url": "https://pdf.ravelrycache.com/asawki/2032200/strawberry_fields_pouch.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483406&Signature=wjk9JfU%2BcF2O83m7v9FlSwFnSe0%3D&key_expires=1768483406&key=SucZWrxcXhan4GsrAEUcmQ",
+    "url": "https://pdf.ravelrycache.com/asawki/2032200/strawberry_fields_pouch.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770442670&Signature=BNkt1vsl7gD77cmttZBihPDOGWE%3D&key_expires=1770442670&key=nstFizUi_Yue16oMDAKgGA",
     "size_bytes": 2630179
   }
 }

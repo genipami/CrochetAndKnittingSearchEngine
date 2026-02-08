@@ -1,34 +1,46 @@
 {
   "id": 1360036,
-  "name": "243-13 Sweet November",
+  "name": "243-13 sweet november",
   "permalink": "243-13-sweet-november",
   "url": "https://www.ravelry.com/patterns/library/243-13-sweet-november",
   "external_url": "https://www.garnstudio.com/pattern.php?id=11435&cid=19",
-  "designer_name": "DROPS design",
-  "project_type": "Pullover",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "drops design",
+  "project_type": "pullover",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "DROPS Air",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 37.5
     },
     {
-      "fiber": "DROPS Kid-Silk",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 32.5
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 14.0
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 12.5
+    },
+    {
+      "fiber": "Merino (Merino)",
+      "pct": 3.5
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Raglan",
-    "Seamless",
-    "Short rows",
-    "Top-down",
-    "Written"
+    "in the round",
+    "raglan",
+    "seamless",
+    "short rows",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -36,12 +48,13 @@
     6.0
   ],
   "published": "2023/09/01",
-  "sizes_available": " XS - S - M - L - XL - XXL",
-  "rating_average": 4.05,
-  "rating_count": 20,
-  "difficulty_average": 2.9130434782608696,
-  "favorites_count": 2271,
-  "projects_count": 69,
+  "sizes_available": " xs - s - m - l - xl - xxl",
+  "rating_average": 4.0,
+  "rating_count": 21,
+  "difficulty_average": 2.875,
+  "favorites_count": 2391,
+  "projects_count": 72,
   "free_ravelry_download": false,
-  "download_url": "https://www.garnstudio.com/pattern.php?id=11435&cid=19"
+  "download_url": "https://www.garnstudio.com/pattern.php?id=11435&cid=19",
+  "notes": "**knitted jumper in drops air and drops kid-silk. the piece is worked top down with raglan. sizes xs - xxl.**\r\n\r\n~~~~~~~~~~~~~~~~~~~~~~~~\r\n\r\ndrops design: pattern ai-456\r\nyarn group c + a\r\n\r\n-------------------------------------------------------\r\n\r\n\r\n**sizes**:\r\nxs - s - m - l - xl - xxl\r\n\r\n**yarn**:\r\ndrops air from garnstudio (belongs to yarn group c)\r\n250-250-300-300-350-350 g colour 01, off white\r\nand use:\r\ndrops kid-silk from garnstudio (belongs to yarn group a)\r\n100-100-100-125-125-125 g colour 01, off white\r\n\r\n**needles**:\r\ndrops circular needle size 6 mm: length 40 cm and 80 cm.\r\ndrops circular needle size 4.5 mm: length 40 cm and 80 cm.\r\ndrops double pointed needles size 6 mm.\r\ndrops double pointed needles size 4.5 mm.\r\nthe technique magic loop can be used – you then only need 80 cm circular needle in each size.\r\n\r\n**knitting tension**:\r\n14 stitches in width and 16 rows in height with stocking stitch and 1 strand of each quality = 10 x 10 cm.\r\nnote: needle size is only a guide. if you get too many stitches on 10 cm, change to a larger needle size. if you get too few stitches on 10 cm, change to a smaller needle size."
 }

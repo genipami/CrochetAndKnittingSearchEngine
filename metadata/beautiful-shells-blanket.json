@@ -1,62 +1,47 @@
 {
   "id": 567901,
-  "name": "Beautiful Shells Blanket",
+  "name": "beautiful shells blanket",
   "permalink": "beautiful-shells-blanket",
   "url": "https://www.ravelry.com/patterns/library/beautiful-shells-blanket",
   "external_url": "",
-  "designer_name": "Lahoma Jayne Nally",
-  "project_type": "Blanket",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Any gauge - designed for any gauge",
+  "designer_name": "lahoma jayne nally",
+  "project_type": "blanket",
+  "fiber_art": "crochet",
+  "yarn_weight": "any gauge - designed for any gauge",
   "materials": [
     {
-      "fiber": "I Love This Yarn! Solids",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 83.3
     },
     {
-      "fiber": "One Pound",
-      "pct": null
-    },
-    {
-      "fiber": "Pound of Love",
-      "pct": null
-    },
-    {
-      "fiber": "Soft (Heathers & Solids)",
-      "pct": null
-    },
-    {
-      "fiber": "Super Saver (solids)",
-      "pct": null
-    },
-    {
-      "fiber": "The Best! Kettle-Dyed Worsted",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 16.7
     }
   ],
   "stitches_used": [
-    "Shell",
-    "Treble crochet (tr)"
+    "shell",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [],
   "published": null,
-  "sizes_available": "One size - adjustable",
-  "rating_average": 4.6923076923076925,
-  "rating_count": 455,
-  "difficulty_average": 2.4272930648769573,
-  "favorites_count": 21146,
-  "projects_count": 2334,
+  "sizes_available": "one size - adjustable",
+  "rating_average": 4.689277899343545,
+  "rating_count": 457,
+  "difficulty_average": 2.4342984409799553,
+  "favorites_count": 21222,
+  "projects_count": 2339,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/15336/265443",
+  "notes": "this is a gorgeous and popular pattern that has been circulating around for years, written and re-written by many people, in this re-write i have used all american english crochet terminology, using \"modules\" of stitches to make it easier to understand the construction of the pattern. this is a really fun and easy pattern once you get the hang of it, and it works up quickly to make a really sweet gift for a baby or just about anyone...who doesn't love a hand made soft snugly blanket? :)\r\n\r\n\r\nany yarn/hook can be used to make this pattern - example shown was in worsted weight with an i hook.\r\n\r\n",
   "pdf": {
     "filename": "567901.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\567901.pdf",
-    "url": "https://pdf.ravelrycache.com/LahomaJayne/461429/Beautiful_shells_blanket.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479050&Signature=8aFABErCtCQ4odOIC5MP%2FMBkUqw%3D&key_expires=1768479050&key=pUwZZLUKrr-hmugKLh3vOw",
+    "url": "https://pdf.ravelrycache.com/LahomaJayne/461429/Beautiful_shells_blanket.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770418647&Signature=ONGbw3pTC%2BR40dXedkkBLa9%2Bx8c%3D&key_expires=1770418647&key=lTZgIy_CPExEJCV_vGfaiQ",
     "size_bytes": 593934
   }
 }

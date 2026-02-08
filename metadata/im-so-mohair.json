@@ -1,32 +1,36 @@
 {
   "id": 7303640,
-  "name": "I'm so mohair",
+  "name": "i'm so mohair",
   "permalink": "im-so-mohair",
   "url": "https://www.ravelry.com/patterns/library/im-so-mohair",
   "external_url": "https://novita.com/patterns/i-m-so-mohair-pipo",
-  "designer_name": "Henna Ketonen",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "henna ketonen",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Natural Collection Merino 4ply",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 33.3
     },
     {
-      "fiber": "Tuuli",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 33.3
     },
     {
-      "fiber": "Wonder Wool DK",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 20.0
+    },
+    {
+      "fiber": "Rayon / Viscose (Rayon)",
+      "pct": 13.3
     }
   ],
   "stitches_used": [
-    "Ribbing"
+    "ribbing"
   ],
   "techniques_used": [
-    "In the round"
+    "in the round"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -37,8 +41,9 @@
   "rating_average": 4.7,
   "rating_count": 10,
   "difficulty_average": 1.9,
-  "favorites_count": 648,
-  "projects_count": 190,
+  "favorites_count": 695,
+  "projects_count": 202,
   "free_ravelry_download": false,
-  "download_url": "https://novita.com/patterns/i-m-so-mohair-pipo"
+  "download_url": "https://novita.com/patterns/i-m-so-mohair-pipo",
+  "notes": "i'm so mohair -pipon voi neuloa kolmella eri lankayhdistelmällä.\r\n\r\nkoko/koot: yksi koko\r\n\r\nlankamenekki eri vaihtoehtoihin\r\n\r\nnovita tuuli: pipo neulotaan viisinkertaisella langalla: 5 x novita tuuli\r\n\r\nnovita tuuli &  merino 4ply: pipo neulotaan nelinkertaisella langalla: 1 x merino 4ply + 3 x tuuli\r\n\r\nnovita tuuli &  wonder wool: pipo neulotaan kolminkertaisella langalla:1 x wonder wool + 2 x tuuli"
 }

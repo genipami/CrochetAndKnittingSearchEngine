@@ -1,21 +1,25 @@
 {
   "id": 845384,
-  "name": "Customizable Toe Up Sock",
+  "name": "customizable toe up sock",
   "permalink": "customizable-toe-up-sock",
   "url": "https://www.ravelry.com/patterns/library/customizable-toe-up-sock",
   "external_url": "https://www.purltogether.com/patterns",
-  "designer_name": "Jana Knitsalot",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "jana knitsalot",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Felici Fingering Weight",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch"
+    "stockinette stitch"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [],
@@ -24,17 +28,18 @@
   ],
   "published": "2018/07/01",
   "sizes_available": "",
-  "rating_average": 4.869565217391305,
-  "rating_count": 92,
-  "difficulty_average": 3.125,
-  "favorites_count": 1562,
-  "projects_count": 523,
+  "rating_average": 4.868131868131868,
+  "rating_count": 91,
+  "difficulty_average": 3.1139240506329116,
+  "favorites_count": 1567,
+  "projects_count": 530,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/13300/470010",
+  "notes": "this is a method, rather than a specific pattern, of creating a custom toe-up sock.  the size will be determined by the number stitches cast on, the number of stitches increases, individual foot length etc... \r\n\r\nvideo tutorial available here:\r\nhttps://www.youtube.com/playlist?list=plnwbwggffxxlmovegqev5u5b9iqha9k5f\r\n",
   "pdf": {
     "filename": "845384.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\845384.pdf",
-    "url": "https://pdf.ravelrycache.com/JanaKnitsalot/1318404/Customizable_Toe_Up_Sock.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479803&Signature=3Kw6ZCZ%2FU2czgnjixOW%2BnBQvFxo%3D&key_expires=1768479803&key=pQFi53E_cpRjlFY5WcVKBQ",
+    "url": "https://pdf.ravelrycache.com/JanaKnitsalot/1318404/Customizable_Toe_Up_Sock.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770423106&Signature=ut1fo2ES71WImv7oCR0IWRFNLek%3D&key_expires=1770423106&key=fD2iGTMM9vjEbEh4d3A8EA",
     "size_bytes": 49910
   }
 }

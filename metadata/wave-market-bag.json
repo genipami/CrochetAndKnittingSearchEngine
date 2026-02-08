@@ -1,40 +1,45 @@
 {
   "id": 1043939,
-  "name": "Wave Market Bag",
+  "name": "wave market bag",
   "permalink": "wave-market-bag",
   "url": "https://www.ravelry.com/patterns/library/wave-market-bag",
   "external_url": "https://hearthookhome.com/wave-market-bag-free-crochet-pattern/",
-  "designer_name": "Ashlea Schumaker",
-  "project_type": "Bag",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "ashlea schumaker",
+  "project_type": "bag",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Hempster",
-      "pct": null
+      "fiber": "Hemp (Hemp)",
+      "pct": 55.0
+    },
+    {
+      "fiber": "Cotton (Cotton)",
+      "pct": 45.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Half double crochet (hdc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "half double crochet (hdc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     4.0
   ],
   "needle_sizes_mm": [],
   "published": "2020/06/01",
-  "sizes_available": "One Size",
+  "sizes_available": "one size",
   "rating_average": 4.666666666666667,
   "rating_count": 33,
   "difficulty_average": 3.65625,
-  "favorites_count": 3040,
-  "projects_count": 134,
+  "favorites_count": 3063,
+  "projects_count": 135,
   "free_ravelry_download": false,
-  "download_url": "http://www.ravelry.com/purchase/ashlea-konecny-designs/620609"
+  "download_url": "http://www.ravelry.com/purchase/ashlea-konecny-designs/620609",
+  "notes": "this new and free wave market bag crochet pattern is perfect for carrying all types of produce.\r\n\r\nfinished dimensions:\r\n\r\napprox. 14” wide (flat) and 15” tall (not including straps)\r\n\r\n"
 }

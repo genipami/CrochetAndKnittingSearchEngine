@@ -1,25 +1,25 @@
 {
   "id": 770048,
-  "name": "30 Minute Basic Beanie",
+  "name": "30 minute basic beanie",
   "permalink": "30-minute-basic-beanie",
   "url": "https://www.ravelry.com/patterns/library/30-minute-basic-beanie",
   "external_url": "",
-  "designer_name": "Diane Serviss",
-  "project_type": "Hat",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Bulky",
+  "designer_name": "diane serviss",
+  "project_type": "hat",
+  "fiber_art": "crochet",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Hometown",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 90.0
     },
     {
-      "fiber": "Wool Ease Thick & Quick",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)"
+    "double crochet (dc)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [
@@ -28,17 +28,18 @@
   "needle_sizes_mm": [],
   "published": "2017/08/01",
   "sizes_available": "average teen and adult hands",
-  "rating_average": 4.707182320441989,
-  "rating_count": 181,
-  "difficulty_average": 1.6590909090909092,
-  "favorites_count": 7602,
-  "projects_count": 910,
+  "rating_average": 4.708791208791209,
+  "rating_count": 182,
+  "difficulty_average": 1.655367231638418,
+  "favorites_count": 7681,
+  "projects_count": 915,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/3817/413093",
+  "notes": "if you have 30 minutes, an n hook and a skein of super bulky #6 yarn, have i got the pattern for you! this hat is the perfect last minute gift.",
   "pdf": {
     "filename": "770048.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\770048.pdf",
-    "url": "https://pdf.ravelrycache.com/pixiebellshop/998561/30minutebasicbeanie.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478566&Signature=%2B0Z3mHnbWYp%2BeC4Nztff7nZMgyg%3D&key_expires=1768478566&key=hrCwLShfPAJdSnU48hr8NQ",
+    "url": "https://pdf.ravelrycache.com/pixiebellshop/998561/30minutebasicbeanie.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770416088&Signature=MF36rWyahCp9C9u0HVco2oSOw8Y%3D&key_expires=1770416088&key=XUxytJHqlhaFHTVdT96yhw",
     "size_bytes": 172682
   }
 }

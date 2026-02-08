@@ -1,35 +1,40 @@
 {
   "id": 1368393,
-  "name": "Pinktober",
+  "name": "pinktober",
   "permalink": "pinktober",
   "url": "https://www.ravelry.com/patterns/library/pinktober",
   "external_url": "",
-  "designer_name": "Kathleen Lyane",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "kathleen lyane",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Extrafeine Sockenwolle 4-fach",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted"
+    "charted"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [],
   "published": "2023/10/01",
-  "sizes_available": "60 Maschen/stitches",
+  "sizes_available": "60 maschen/stitches",
   "rating_average": 4.785714285714286,
   "rating_count": 28,
   "difficulty_average": 2.48,
-  "favorites_count": 1311,
+  "favorites_count": 1318,
   "projects_count": 91,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/90511/881268"
+  "download_url": "http://www.ravelry.com/dls/90511/881268",
+  "notes": "der oktober ist brustkrebsmonat. ich hoffe, es werden viele mehr oder weniger pinke socken mit diesem muster gestrickt, die betroffenen frauen ein bisschen mut und wärme schenken.\r\ndanke an meine teststrickerinnen, die mir bei der erstellung der anleitung behilflich waren.\r\n\r\noctober is breast cancer awareness month. i hope that many more or less pink socks will be knitted with this pattern giving affected women a bit of courage and warmth.\r\nthanks to my test knitters who helped me create the instructions."
 }

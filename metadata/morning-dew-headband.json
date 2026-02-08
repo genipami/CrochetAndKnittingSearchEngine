@@ -1,39 +1,40 @@
 {
   "id": 7372966,
-  "name": "Morning Dew Headband",
+  "name": "morning dew headband",
   "permalink": "morning-dew-headband",
   "url": "https://www.ravelry.com/patterns/library/morning-dew-headband",
   "external_url": "https://celesteknitwear.com/morning-dew-headband-knitting-pattern/",
-  "designer_name": "Celeste Knitwear",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "celeste knitwear",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "DROPS Daisy",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Brioche stitch",
-    "Stockinette stitch"
+    "brioche stitch",
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "Blocking",
-    "Brioche",
-    "Seamed"
+    "blocking",
+    "brioche",
+    "seamed"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     4.0
   ],
   "published": "2024/09/01",
-  "sizes_available": "S, M, L",
+  "sizes_available": "s, m, l",
   "rating_average": 4.875,
   "rating_count": 8,
   "difficulty_average": 2.0,
-  "favorites_count": 546,
-  "projects_count": 35,
+  "favorites_count": 560,
+  "projects_count": 36,
   "free_ravelry_download": false,
-  "download_url": "https://celesteknitwear.com/morning-dew-headband-knitting-pattern/"
+  "download_url": "https://celesteknitwear.com/morning-dew-headband-knitting-pattern/",
+  "notes": "the morning dew headband features a brioche stitch that produces a squishy ribbed fabric. the pattern is a 2-row repeat.\r\n\r\nthe first and last 3 stitches form an i-cord edging, that makes the edges look neat and prevents them from curling.\r\n\r\nthe the cast-on and bind-off edges are seamed together forming a decorative twist in the middle. the seam is hidden by the twist and is not visible."
 }

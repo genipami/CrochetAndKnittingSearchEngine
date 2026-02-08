@@ -1,26 +1,30 @@
 {
   "id": 1222067,
-  "name": "Ripples Make Waves",
+  "name": "ripples make waves",
   "permalink": "ripples-make-waves",
   "url": "https://www.ravelry.com/patterns/library/ripples-make-waves",
   "external_url": "",
-  "designer_name": "Casapinka",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "casapinka",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Simply Spectacular DK",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "In the round"
+    "blocking",
+    "in the round"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -28,17 +32,18 @@
   ],
   "published": "2022/02/01",
   "sizes_available": "18-24\"",
-  "rating_average": 4.792857142857143,
-  "rating_count": 140,
-  "difficulty_average": 2.207692307692308,
-  "favorites_count": 4000,
-  "projects_count": 479,
+  "rating_average": 4.794326241134752,
+  "rating_count": 141,
+  "difficulty_average": 2.198473282442748,
+  "favorites_count": 4010,
+  "projects_count": 481,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/14258/762564",
+  "notes": "let's knit some hats for our fellow humans from ukraine. gift one to a friend and wear yours in soidarity and support. \r\n\r\nthe pattern is free but please consider donating the price of a pattern to a charity if you can; here are the three we have suggested in the pattern. don't forget to ask your employer if they are matching donations; many are! remember that small amounts can really add up and do a lot of good so your $6 donation can really help. ripples make waves in a lot of ways.\r\n\r\n[world central kitchen][1] \r\n[center for disaster philanthropy][2] \r\n[global giving][3] (ukraine crisis relief fund.) \r\n\r\nthe top of the hat is representative of a sunflower, the national flower of ukraine (see left - taken in a hotel because i did this while out of town!) i hope that you enjoy knitting this hat and are able to do it with friends or family as we are all think about our fellow humans in this dire situation. we might feel helpless but any small thing we can do to show some humanity is a good thing.\r\n\r\n**materials** - one skein of dk yarn, 225 yards (24\") with less for the smaller sizes - approx. 175 for smallest size. shown in emma's yarn dk in forget me not (note that they also have a cotton/merino mix.)\r\n\r\nplease see the notes from sharon from security on adding yellow to your hat. this has nothing to do with me and everything to do with the cat and her la rams fixation (ok, you try and control a cat with strong opinions on professional sports.)\r\n\r\ndon't forget to check with your local yarn store to see if they have  blue dk (and many lys' are online.) any shade of blue is great! \r\n\r\n\r\n  [1]: www.wck.org\r\n  [2]: www.disasterphilanthropy.org\r\n  [3]: www.globalgiving.org",
   "pdf": {
     "filename": "1222067.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1222067.pdf",
-    "url": "https://pdf.ravelrycache.com/casapinka/1460250/Ripples_Make_Waves_Hat_V2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482726&Signature=1rjviNYFw3nj1K15NeRmE9hE0vQ%3D&key_expires=1768482726&key=2h_Tnt2JSPL9Uu968_EssQ",
+    "url": "https://pdf.ravelrycache.com/casapinka/1460250/Ripples_Make_Waves_Hat_V2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770438940&Signature=mVaMOIRYfhFKxyH%2BhTcLx7ojBbM%3D&key_expires=1770438940&key=Z-37tRApAiPKREEhjsXHng",
     "size_bytes": 346031
   }
 }

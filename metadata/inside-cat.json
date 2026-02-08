@@ -1,45 +1,46 @@
 {
   "id": 7289373,
-  "name": "Inside Cat",
+  "name": "inside cat",
   "permalink": "inside-cat",
   "url": "https://www.ravelry.com/patterns/library/inside-cat",
   "external_url": "https://knitty.com/ISSUEdf23/PATTinsidecat/PATTinsidecat.php",
-  "designer_name": "Anna Hrachovec",
-  "project_type": "Home",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "anna hrachovec",
+  "project_type": "home",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Cascade 220®",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 43.3
     },
     {
-      "fiber": "Eco Highland Duo",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 33.3
     },
     {
-      "fiber": "Tosh Vintage",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 23.3
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round"
+    "in the round"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.75
   ],
   "published": "2023/11/01",
-  "sizes_available": "Width: 2.5 inches/6.5cm; Height: 8 inches/20.5cm (including tail)",
+  "sizes_available": "width: 2.5 inches/6.5cm; height: 8 inches/20.5cm (including tail)",
   "rating_average": 4.838235294117647,
   "rating_count": 68,
   "difficulty_average": 2.426470588235294,
-  "favorites_count": 3914,
-  "projects_count": 294,
+  "favorites_count": 3971,
+  "projects_count": 298,
   "free_ravelry_download": false,
-  "download_url": "https://knitty.com/ISSUEdf23/PATTinsidecat/PATTinsidecat.php"
+  "download_url": "https://knitty.com/ISSUEdf23/PATTinsidecat/PATTinsidecat.php",
+  "notes": "as any cat knows, getting cozy is more than a comfort — it's a whole lifestyle. for those of us who like to get cozy with a book, inside cat is a comfy companion who will affirm and support our cherished moments of literary bliss. her primary job is to snuggle up between pages, but she also excels at snuggling up with readers.\r\n\r\ninside cat was inspired by my first children's book, *[catside up, catside down][1]*, which was published in september 2023. the book demonstrates prepositions with photos of knitted cats in all different (mostly cozy) positions. at 32 pages, it's hardly a book that requires a bookmark, but inside cat does not discriminate or judge what kind of book you stick her in! plus, with her long, floppy body, she can illustrate quite a few prepositions herself.\r\n\r\ni designed inside cat to knit up with ease and minimal seaming. you'll switch from i-cord to flat knitting to circular knitting to create the body and head, then you'll attach i-cord limbs and triangle ears with just a few finishing stitches. the embroidery for the face is so simple, you could do it while balancing three cats in your lap.\r\n\r\nif you could use a little guidance, check out this [youtube video][2] i made demonstrating all the key techniques used in the pattern. \r\n\r\n\r\n  [1]: https://us.macmillan.com/books/9781250841261/catsideupcatsidedown\r\n  [2]: https://youtu.be/wubjjmxhwr4?feature=shared"
 }

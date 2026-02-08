@@ -1,26 +1,30 @@
 {
   "id": 7341318,
-  "name": "Louvely Socks",
+  "name": "louvely socks",
   "permalink": "louvely-socks",
   "url": "https://www.ravelry.com/patterns/library/louvely-socks",
   "external_url": "",
-  "designer_name": "Anaïs Louve",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "anaïs louve",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Feezy Feet",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Short rows",
-    "Written"
+    "in the round",
+    "short rows",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -31,14 +35,15 @@
   "rating_average": 4.666666666666667,
   "rating_count": 9,
   "difficulty_average": 3.0,
-  "favorites_count": 644,
+  "favorites_count": 656,
   "projects_count": 56,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/71898/930102",
+  "notes": "louvely socks est une recette de chaussette vanille (tout en jersey endroit) qui peut mettre en valeur n'importe quelle laine. pour ma part, j'ai choisi de faire la part belle à un écheveau d'autorayant qui n'attendait que ça.\r\n\r\non démarre par une pointe arrondie, on effectue le talon grâce à des rangs raccourcis et on arrive à la bordure de côtes. le tout très facilement !\r\n\r\nadaptées à toutes les tailles de pied, totalement mixtes, louvely socks est accessible aux débutant(e)s en tricot de chaussettes.\r\n\r\n\r\n**tailles :**\r\n1 / 2 / 3 (4 / 5 / 6) 7 / 8 qui correspondent à :\r\n- 11 / 13 / 15 (17 / 19 / 21) 23 / 25 cm de circonférence de pied ;\r\n- 36 / 42 / 48 (54 / 60 / 66) 72 / 78 mailles pour le pied.\r\n\r\nles tailles 1 / 2 / 3 sont considérées comme des tailles « enfant » et sont gradées comme telles.\r\nil est conseillé de choisir la taille la plus proche possible de la mesure de la circonférence réelle du pied, au point le plus large, en comptant entre 2 et 4 cm d’aisance négative. cependant, le jersey comme les côtes étant extensibles, si il subsiste un doute entre 2 tailles, il est conseillé de choisir la taille la plus petite des deux.\r\n*exemple : pour le prototype, la mesure de la circonférence du pied est de 26 cm. on soustraie 4 cm d’aisance négative, obtenant ainsi une mesure de 22 cm. c’est donc la taille 6 qui a été tricotée.*\r\n\r\n**laine :**\r\nles chaussettes présentées sont tricotées avec un kit chaussette de la base feezy feet (75 % mérinos superwash / 25 % nylon, 425 m pour 100 g) de chez ma petite laine boutique, coloris christmas stroll.\r\nmais toute autre laine fingering, adaptée au tricot de chaussettes et permettant d’obtenir le bon échantillon, pourra être utilisée. \r\non peut utiliser un kit de 2 couleurs, en ce cas pointe / talon / côtes seront en cc.\r\n\r\n**métrage approximatif nécessaire :**\r\n230 / 250 / 270 (290 / 310 / 330) 350 / 370 mètres.\r\nles métrages sont donnés avec 5% de marge par rapport au tricot du prototype.\r\ngardez à l’esprit que les métrages sont donnés à titre indicatif. ils sont totalement dépendant de la tension lors du tricotage et de la composition du fil utilisé.\r\n\r\n**échantillon et taille d’aiguilles :**\r\njersey endroit : 32 mailles par 45 rangs, pour un carré de 10 cm / 10 cm avec des aiguilles de 2.50 mm.\r\nl'échantillon est mesuré sur un carré plus grand (15 cm / 15 cm) lavé, bloqué et relaxé.\r\nil sera plus « juste » s’il est tricotés en rond.\r\n\r\n**techniques utilisées :**\r\n- montage turc ;\r\n- augmentations intercalaires droite et gauche ;\r\n- rabat élastique ;\r\n- rangs raccourcis.\r\n\r\nce modèle a été testé.\r\nniveau estimé par les testeuses : 2/5.\r\n",
   "pdf": {
     "filename": "7341318.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7341318.pdf",
-    "url": "https://pdf.ravelrycache.com/AnaisLouve/1837415/Louvely_Socks_FR.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481544&Signature=p1J6jZQigkiXnycuThaTf3%2FgAXo%3D&key_expires=1768481544&key=dqui1muwc9Isfy7dGnk0AQ",
+    "url": "https://pdf.ravelrycache.com/AnaisLouve/1837415/Louvely_Socks_FR.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770432645&Signature=amsOulVO6PD0G0LVrDtzOpYnWy4%3D&key_expires=1770432645&key=3Kvu4_qFBjnmJawNYlk39g",
     "size_bytes": 2184596
   }
 }

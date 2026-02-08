@@ -1,38 +1,42 @@
 {
   "id": 7451106,
-  "name": "Kullaberg",
+  "name": "kullaberg",
   "permalink": "kullaberg",
   "url": "https://www.ravelry.com/patterns/library/kullaberg",
   "external_url": "https://en.filcolana.dk/kullaberg.html",
-  "designer_name": "Sanne Bjerregaard",
-  "project_type": "Pullover",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "sanne bjerregaard",
+  "project_type": "pullover",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Saga",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 50.0
     },
     {
-      "fiber": "Tilia",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 35.0
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 15.0
     }
   ],
   "stitches_used": [
-    "Eyelet lace",
-    "Lace",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "eyelet lace",
+    "lace",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Lace",
-    "Raglan",
-    "Seamless",
-    "Short rows",
-    "Top-down",
-    "Written"
+    "charted",
+    "in the round",
+    "lace",
+    "raglan",
+    "seamless",
+    "short rows",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -40,12 +44,13 @@
     4.5
   ],
   "published": "2025/08/01",
-  "sizes_available": "(XS) S (M) L (XL) 2XL (3XL)",
-  "rating_average": 5.0,
-  "rating_count": 5,
-  "difficulty_average": 4.0,
-  "favorites_count": 2681,
-  "projects_count": 36,
+  "sizes_available": "(xs) s (m) l (xl) 2xl (3xl)",
+  "rating_average": 4.833333333333333,
+  "rating_count": 6,
+  "difficulty_average": 3.75,
+  "favorites_count": 2923,
+  "projects_count": 43,
   "free_ravelry_download": false,
-  "download_url": "https://en.filcolana.dk/kullaberg.html"
+  "download_url": "https://en.filcolana.dk/kullaberg.html",
+  "notes": "the blouse is knitted from the top down.\r\ninstead of traditional raglan increases, an eyelet pattern\r\nmade solely of yarn overs is worked; these yarn overs\r\ncreate new stitches and form the raglan shaping.\r\nonce all the increases have been completed, the work\r\nis divided into body and sleeves, and each section is\r\nfinished separately.\r\nalong both sides of the body, a small eyelet pattern is\r\nknitted, visually matching the raglan pattern. this lace\r\ndetail flows into the hem, which is worked in twisted rib\r\nwith lace panels at the sides following the chart.\r\nthe sleeves are knitted from the top down as well and\r\nare also finished with the lace pattern that flows into the\r\ntwisted rib."
 }

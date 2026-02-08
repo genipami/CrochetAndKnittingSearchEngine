@@ -1,55 +1,52 @@
 {
   "id": 847334,
-  "name": "Basic Beanie",
+  "name": "basic beanie",
   "permalink": "basic-beanie-46",
   "url": "https://www.ravelry.com/patterns/library/basic-beanie-46",
   "external_url": "",
-  "designer_name": "Emily Bolduan",
-  "project_type": "Child",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "emily bolduan",
+  "project_type": "child",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "8 ply Super Fine Merino DK",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 66.7
     },
     {
-      "fiber": "Organic Merino 8 ply DK",
-      "pct": null
-    },
-    {
-      "fiber": "Woolly 8ply",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 33.3
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Seamed",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "seamed",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     4.0
   ],
   "published": "2018/07/01",
-  "sizes_available": "Prem [0-3, 6-9, 12-18, Child, Adult, XL]",
-  "rating_average": 4.859437751004016,
-  "rating_count": 249,
-  "difficulty_average": 1.7695652173913043,
-  "favorites_count": 8386,
-  "projects_count": 1444,
+  "sizes_available": "prem [0-3, 6-9, 12-18, child, adult, xl]",
+  "rating_average": 4.857142857142857,
+  "rating_count": 252,
+  "difficulty_average": 1.7639484978540771,
+  "favorites_count": 8467,
+  "projects_count": 1463,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/63586/471449",
+  "notes": "are you a newer knitter and want to make your first beanie? do you just want a plain go-to beanie for multiple sizes? or how about a beanie pattern where you can get creative and play with stripes, colourwork or texture? then this is the pattern for you!\r\n\r\nthis beanie features:\r\n* multiple sizes - prem baby to xl adult\r\n* knit flat or in the round\r\n* short cuff or long and folded\r\n* knit the body longer before decreasing for a slouchy beanie\r\n* knit plain, stripes, colourwork, textures - get creative!\r\n\r\n**sizes:** prem, 0-3, 6-9, 12-18, child, adult, xl adult\r\n**to fit head:** 30, 35, 40, 45, 50, 55, 61cm\r\n**yarn:** any 8ply yarn\r\n**quantity:** between 40m - 220m depending on size, pompom, cuff, etc.\r\n**needles:** 4mm straight for flat version, and 4mm circulars or dpn's to work in the round and for crown shaping\r\n**notions:** stitch marker, yarn needle for sewing in ends\r\n\r\nwe love to see what you make! make a ravelry project for your beanie, or tag your project on instagram using #makermakerstore",
   "pdf": {
     "filename": "847334.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\847334.pdf",
-    "url": "https://pdf.ravelrycache.com/hellomakermaker/852914/Maker_Maker_Basic_Beanie_graded.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478984&Signature=LHMWKVdtBVCSzYSIJpqQPRnDLAA%3D&key_expires=1768478984&key=m9Q-p7k_QjWqn9gF9ikgFg",
+    "url": "https://pdf.ravelrycache.com/hellomakermaker/852914/Maker_Maker_Basic_Beanie_graded.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770418302&Signature=L2qWBMdRzoJxKypCdmQla7Awhio%3D&key_expires=1770418302&key=Fk-DtqmAQK7NDON1hbxd-w",
     "size_bytes": 2045112
   }
 }

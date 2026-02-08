@@ -1,27 +1,31 @@
 {
   "id": 7476393,
-  "name": "Skånsk vinter",
+  "name": "skånsk vinter",
   "permalink": "skansk-vinter",
   "url": "https://www.ravelry.com/patterns/library/skansk-vinter",
   "external_url": "",
-  "designer_name": "Rebecka Lindberg",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "rebecka lindberg",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Sisu",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Lace"
+    "lace"
   ],
   "techniques_used": [
-    "Blocking",
-    "In the round",
-    "Kitchener stitch",
-    "Lace"
+    "blocking",
+    "in the round",
+    "kitchener stitch",
+    "lace"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -32,14 +36,15 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 1110,
-  "projects_count": 22,
+  "favorites_count": 1137,
+  "projects_count": 24,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/114395/1035541",
+  "notes": "these socks are perfect for the windy and rainy winters that we get here in the very south of sweden. they are knit on small needles and a slightly thicker sock yarn for a sturdy and wind resistant fabric. \r\n\r\nthe sock is knit cuff down in a simple knit and purl pattern with a heel flap and gusset.\r\n\r\nany method could be used knitting this pattern (double pointed needles (dpns), short circular needle, magic loop). if you are using dpns there is no need for markers. arrange the needles so they meet where your markers would be placed.\r\n\r\nsizes: 1 (2) 3, woman´s s (m) l, with a finished circ of 18 (20) 22 cm.\r\n\r\ngauge (after blocking): 32 st and 46 rows in st st and patt. \r\n\r\nyarn: sandnes sisu, fingering weight, superwash, 80% wool, 20% nylon, 175m/50 g 2 (2) 3 balls \r\n",
   "pdf": {
     "filename": "7476393.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7476393.pdf",
-    "url": "https://pdf.ravelrycache.com/Knit-in-the-city/2084733/Min_kopia_av_Skansk_vinter.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483045&Signature=MaI3DLDdfUgD9MfO8MPjUfiiHRY%3D&key_expires=1768483045&key=Nmn7nJXNgEJTKolczPuqsg",
+    "url": "https://pdf.ravelrycache.com/Knit-in-the-city/2084733/Min_kopia_av_Skansk_vinter.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770440883&Signature=agYmbmKzr3ZEoMH6e%2BVU7359lAQ%3D&key_expires=1770440883&key=l4MdGcLln3y-nmRCNl1JKw",
     "size_bytes": 17274334
   }
 }

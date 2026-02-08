@@ -1,46 +1,51 @@
 {
   "id": 647568,
-  "name": "Sara Basic Fingerless Mitts",
+  "name": "sara basic fingerless mitts",
   "permalink": "sara-basic-fingerless-mitts",
   "url": "https://www.ravelry.com/patterns/library/sara-basic-fingerless-mitts",
   "external_url": "",
-  "designer_name": "Johanna Gistvik",
-  "project_type": "Mittens/Gloves",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "johanna gistvik",
+  "project_type": "mittens/gloves",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Silk Blend",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 70.0
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 30.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.5
   ],
   "published": "2016/02/01",
-  "sizes_available": "Small, medium and large",
-  "rating_average": 4.652439024390244,
-  "rating_count": 164,
-  "difficulty_average": 2.0921052631578947,
-  "favorites_count": 4803,
-  "projects_count": 670,
+  "sizes_available": "small, medium and large",
+  "rating_average": 4.632530120481928,
+  "rating_count": 166,
+  "difficulty_average": 2.084967320261438,
+  "favorites_count": 4838,
+  "projects_count": 675,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/47112/321352",
+  "notes": "this is a basic and simple pattern for a pair of fingerless mitts with a thumb gusset. it can be used as it is when you want to show off a gorgeous yarn, or as a basic shape that you embellish with interesting stitch patterns, colour work or anything else that you like.\r\n\r\nplease don't hesitate to contact me if you have comments, questions or need additional instructions.\r\n\r\nhappy knitting!",
   "pdf": {
     "filename": "647568.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\647568.pdf",
-    "url": "https://pdf.ravelrycache.com/JohannaGistvik/559930/Sara_-_Basic_fingerless_mitts.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482860&Signature=k9yT%2BaTw6SkkYaex17yJ6isl2Ss%3D&key_expires=1768482860&key=PWQhnd00e8xwmwhcSKU9SA",
+    "url": "https://pdf.ravelrycache.com/JohannaGistvik/559930/Sara_-_Basic_fingerless_mitts.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770439502&Signature=7AEBeHQFct%2FSQCKWwCIhYLP6H%2BY%3D&key_expires=1770439502&key=zytqAtvz3ckuxOTzFPzvcQ",
     "size_bytes": 510636
   }
 }

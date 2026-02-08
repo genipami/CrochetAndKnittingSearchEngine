@@ -1,38 +1,43 @@
 {
   "id": 695594,
-  "name": "Mobius Shawl Wrap",
+  "name": "mobius shawl wrap",
   "permalink": "mobius-shawl-wrap",
   "url": "https://www.ravelry.com/patterns/library/mobius-shawl-wrap",
   "external_url": "https://naztazia.com/mobius-shawl-wrap/",
-  "designer_name": "Naztazia",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Bulky",
+  "designer_name": "naztazia",
+  "project_type": "shawl/wrap",
+  "fiber_art": "crochet",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Wool-Ease Tonal",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless",
-    "Written"
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [
     10.0
   ],
   "needle_sizes_mm": [],
   "published": "2016/10/01",
-  "sizes_available": "One size fits most (and if not you can easily customize it)",
+  "sizes_available": "one size fits most (and if not you can easily customize it)",
   "rating_average": 4.659722222222222,
   "rating_count": 144,
   "difficulty_average": 1.929078014184397,
-  "favorites_count": 11517,
-  "projects_count": 575,
+  "favorites_count": 11566,
+  "projects_count": 578,
   "free_ravelry_download": false,
-  "download_url": "https://naztazia.com/mobius-shawl-wrap/"
+  "download_url": "https://naztazia.com/mobius-shawl-wrap/",
+  "notes": "although this pattern looks complex - it's not! this mobius is probably one of the simplest crochet shawls you will ever make. it is worked in one piece, starting at the chain, in the round, along both sides.\r\n\r\nin the video i also show you a neat trick to keeping your chain from twisting when you connect to form a large ring. how ironic that i show you how not to twist a chain in a video about a shawl with a twist in it!\r\n"
 }

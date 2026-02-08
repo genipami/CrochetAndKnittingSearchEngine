@@ -1,31 +1,39 @@
 {
   "id": 1289041,
-  "name": "234-82 Pomegranate Shawl",
+  "name": "234-82 pomegranate shawl",
   "permalink": "234-82-pomegranate-shawl",
   "url": "https://www.ravelry.com/patterns/library/234-82-pomegranate-shawl",
   "external_url": "https://www.garnstudio.com/pattern.php?id=11183&cid=19",
-  "designer_name": "DROPS design",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "drops design",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "DROPS Daisy",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 50.0
     },
     {
-      "fiber": "DROPS Sky",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 37.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 9.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 4.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Seamless",
-    "Written"
+    "charted",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -33,11 +41,12 @@
   ],
   "published": "2022/11/01",
   "sizes_available": "",
-  "rating_average": 4.636363636363637,
-  "rating_count": 55,
-  "difficulty_average": 2.0576923076923075,
-  "favorites_count": 3627,
-  "projects_count": 292,
+  "rating_average": 4.631578947368421,
+  "rating_count": 57,
+  "difficulty_average": 2.1132075471698113,
+  "favorites_count": 3728,
+  "projects_count": 298,
   "free_ravelry_download": false,
-  "download_url": "https://www.garnstudio.com/pattern.php?id=11183&cid=19"
+  "download_url": "https://www.garnstudio.com/pattern.php?id=11183&cid=19",
+  "notes": "knitted shawl in drops sky or drops daisy. the piece is worked sideways, in garter stitch.\r\n\r\ndrops design: pattern sk-182; yarn group b\r\n\r\n**size**:\r\nheight: measured down the middle = approx. 20 cm.\r\nwidth: measured along the top = approx. 116 cm.\r\n\r\n**yarn**:\r\ndrops sky from garnstudio (belongs to yarn group b) 50 g colour 09, cranberry\r\n\r\nor use:\r\ndrops daisy from garnstudio (belongs to yarn group b) 100 g colour 21, crimson red\r\n\r\n**needles**:\r\ndrops circular needle size 4 mm: length 60 cm.\r\n\r\n**knitting tension**:\r\n21 stitches in width and 42 rows in height with garter stitch = 10 x 10 cm."
 }

@@ -1,41 +1,33 @@
 {
   "id": 311416,
-  "name": "Klassiska raggsockor i mellanraggi",
+  "name": "klassiska raggsockor i mellanraggi",
   "permalink": "klassiska-raggsockor-i-mellanraggi",
   "url": "https://www.ravelry.com/patterns/library/klassiska-raggsockor-i-mellanraggi",
   "external_url": "https://www.jarbo.se/8-07",
-  "designer_name": "Lisbeth Öbrink",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Sport",
+  "designer_name": "lisbeth öbrink",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Fuga",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 65.0
     },
     {
-      "fiber": "Gästrike 3 ply",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 30.0
     },
     {
-      "fiber": "Lady",
-      "pct": null
-    },
-    {
-      "fiber": "Mellanraggi",
-      "pct": null
-    },
-    {
-      "fiber": "Saga",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 5.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -43,12 +35,13 @@
     3.0
   ],
   "published": "2011/03/01",
-  "sizes_available": "European sizes 22-45",
-  "rating_average": 4.363636363636363,
-  "rating_count": 33,
-  "difficulty_average": 2.3666666666666667,
-  "favorites_count": 296,
-  "projects_count": 330,
+  "sizes_available": "european sizes 22-45",
+  "rating_average": 4.382352941176471,
+  "rating_count": 34,
+  "difficulty_average": 2.3548387096774195,
+  "favorites_count": 310,
+  "projects_count": 341,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/82366/869364"
+  "download_url": "http://www.ravelry.com/dls/82366/869364",
+  "notes": "***this pattern is from our archive which means that no erratas will be made. unfortunately, we are not able to answer pattern questions here on ravelry.\r\n however! we are happy to be able to share our patterns with you for free and will enjoy seeing your project come to life!***\r\n\r\n**inspiration and free patterns**\r\nfollow järbo on [instagram][1]\r\n\r\n**reseller map**\r\n[jarbo.se][2] - brand website, in swedish\r\n[find a reseller][3] - nordic region, in swedish\r\n\r\n**our official online stores**\r\n[eddna.se][4], [eddna.no][5], [eddna.de][6], [eddna.at][7], [eddna.nl][8], [eddna.be][9]\r\n\r\njärbo is a swedish brand established in 1896. we offer nordic design, selected yarns and accessories in stores and online.\r\n\r\n  [1]: https://www.instagram.com/jarbogarn/\r\n  [2]: https://www.jarbo.se/\r\n  [3]: https://www.jarbo.se/hitta-butik\r\n  [4]: https://www.eddna.se/\r\n  [5]: https://www.eddna.no/\r\n  [6]: https://www.eddna.de/\r\n  [7]: https://www.eddna.at/\r\n  [8]: https://www.eddna.nl/\r\n  [9]: https://www.eddna.be/\r\n"
 }

@@ -1,28 +1,32 @@
 {
   "id": 1359459,
-  "name": "Juntu Light Sweater",
+  "name": "juntu light sweater",
   "permalink": "juntu-light-sweater",
   "url": "https://www.ravelry.com/patterns/library/juntu-light-sweater",
   "external_url": "https://titityy.fi/product/tukuwool-juntu-light-sweater-free-pattern/18322",
-  "designer_name": "Tiina Huhtaniemi",
-  "project_type": "Pullover",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "tiina huhtaniemi",
+  "project_type": "pullover",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Fingering",
+      "fiber": "Finnish Landrace (Finnsheep) (Wool)",
+      "pct": null
+    },
+    {
+      "fiber": "Kainuun Harmas (Wool)",
       "pct": null
     }
   ],
   "stitches_used": [
-    "Stockinette stitch"
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "Blocking",
-    "In the round",
-    "Raglan",
-    "Top-down",
-    "Written"
+    "blocking",
+    "in the round",
+    "raglan",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -31,11 +35,12 @@
   ],
   "published": "2023/08/01",
   "sizes_available": "1 (2) 3 (4) 5 (6) 7 (8) ",
-  "rating_average": 4.833333333333333,
-  "rating_count": 18,
-  "difficulty_average": 2.375,
-  "favorites_count": 3394,
-  "projects_count": 127,
+  "rating_average": 4.842105263157895,
+  "rating_count": 19,
+  "difficulty_average": 2.3529411764705883,
+  "favorites_count": 3543,
+  "projects_count": 138,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/5112/874487"
+  "download_url": "http://www.ravelry.com/dls/5112/874487",
+  "notes": "juntu light is a lighter variation of the juntu raglan sweater. it’s an effortless and laid-back essential sweater that is knitted top-down.\r\n\r\nyarn\r\n3 (3) 3 (3) 4 (4) 4 (4) skeins; 220 (240) 250 (270) 280\r\n(300) 330 (350) g tukuwool fingering 100 % finnish\r\nwool 370 m / 100 g\r\nyardage: 800 (875) 925 (1000) 1025 (1100) 1200 (1300)\r\nm / 875 (950) 1000 (1125) 1200 (1300) 1425 yards\r\nphotographed in color lungo.\r\n\r\nsizes\r\n1 (2) 3 (4) 5 (6) 7 (8)\r\nthis sweater is designed to have some ease when\r\nworn. choose a size with a bust measurement that is\r\n10 cm / 4 in greater than your body measurement.\r\n\r\nfinished measurements\r\nbust circumference\r\n98 (104) 109 (116) 120 (125) 136 (145) cm / 39 (41) 43\r\n(45 ½) 47 ¼ (49 ¼) 53 ½ (57) in\r\nsleeve circumference\r\n34 (36) 39 (41) 43 (45) 49 (53) cm / 13 ½ (14 ¼) 15 ½\r\n(16 ¼) 17 (17 ¾) 19 ¼ (20 ⅞) in\r\nsleeve length\r\n39 cm / 15 ⅜ in\r\nlength from armpit to hem\r\n31 cm / 12 ¼ in\r\nfull length\r\n51 (52,5) 53 (53) 54 (54,5) 55,5 (57) cm\r\n/ 20 (20 ¾) 21 (21) 21 ¼ (21 ½) 22 (22 ½) in\r\n\r\ngauge\r\n22 sts x 32 rows = 10 cm x 10 cm / 4 in x 4 in knitted in\r\nstockinette stitch with 3.75 mm / us 5 needles (after\r\nblocking)\r\n\r\nneedles & notions\r\n3 mm / us 2.5 circular needles, 80 cm / 32 in\r\n3.75 mm / us 5 circular needles, 80 cm / 32 in\r\n\r\n9 stitch markers total, 1 marker should be easily\r\ndistinguishable from the others"
 }

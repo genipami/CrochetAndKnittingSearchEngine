@@ -1,72 +1,53 @@
 {
   "id": 581681,
-  "name": "The Boulevard Blanket",
+  "name": "the boulevard blanket",
   "permalink": "the-boulevard-blanket",
   "url": "https://www.ravelry.com/patterns/library/the-boulevard-blanket",
   "external_url": "",
-  "designer_name": "Fifty Four Ten Studio",
-  "project_type": "Blanket",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "fifty four ten studio",
+  "project_type": "blanket",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Cozy Wool",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 48.1
     },
     {
-      "fiber": "Encore Mega",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 39.4
     },
     {
-      "fiber": "Hometown",
-      "pct": null
-    },
-    {
-      "fiber": "Lana Grande",
-      "pct": null
-    },
-    {
-      "fiber": "Mighty Stitch Super Bulky",
-      "pct": null
-    },
-    {
-      "fiber": "Re-Spun Thick & Quick",
-      "pct": null
-    },
-    {
-      "fiber": "Valley Superwash Super Bulky",
-      "pct": null
-    },
-    {
-      "fiber": "Wool Ease Thick & Quick",
-      "pct": null
+      "fiber": "Polyester (Polyester)",
+      "pct": 12.5
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamless",
-    "Written"
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     9.0
   ],
   "published": "2015/05/01",
-  "sizes_available": "Six Sizes: Baby, Small, Medium, Large, XL & XXL (see dimensions below)",
-  "rating_average": 4.711627906976744,
-  "rating_count": 215,
-  "difficulty_average": 1.669683257918552,
-  "favorites_count": 15535,
-  "projects_count": 951,
+  "sizes_available": "six sizes: baby, small, medium, large, xl & xxl (see dimensions below)",
+  "rating_average": 4.703703703703703,
+  "rating_count": 216,
+  "difficulty_average": 1.6711711711711712,
+  "favorites_count": 15622,
+  "projects_count": 956,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/39843/274817",
+  "notes": "the boulevard blanket....it's quick, easy, chunky, warm and reversible!\r\n\r\nat first glance you might think this pattern is just simple garter stitch.  look again!  \r\n\r\nan easy k3, p3 repeat pattern creates a subtle striping effect.  \r\n\r\nthe name of this pattern is inspired by the beautiful tree lined boulevards of my hometown....kansas city. \r\n\r\nfor more info see [my blog post at fiftyfourtenstudio.com][1].\r\n\r\nonce in a while knitters have trouble getting on track with this pattern.  i have created a [free pdf tutorial for the boulevard blanket][2] to address the most common mistakes.  \r\n\r\nsix sizes:\r\nbaby/infant blanket: 28\" wide x 28\" long\r\nsmall (crib/lap): 35\" wide x 40\" long\r\nmedium throw: 38\" wide x 46\" long\r\nlarge throw: 44\" wide x 50\" long\r\nxl afghan: 47\" wide x 55\" long\r\nxxl afghan: 53\" wide x 60\" long\r\n\r\nsuper bulky yarn: \r\nbaby: 320 - 330 yards\r\nsmall: 590 - 600 yards\r\nmedium: 730 - 740 yards\r\nlarge: 925 - 940 yards\r\nxl: 1100 - 1150 yards\r\nxxl: 1350 - 1400 yards\r\n\r\nthis pattern is knit with super bulky yarn so you'll have this blanket knit up in no time.  \r\n\r\nif you prefer a lighter weight yarn (worsted weight or similar) see [my free meadow lane blanket knitting pattern][3].\r\n\r\nneedles: \r\nthe blanket is knit in one piece, back and forth on 32\" long circular knitting needles us size 13 or 15.\r\n\r\ngauge:\r\nexact gauge is not essential.  however, knitting should be fairly tight for desired appearance.\r\n\r\nskill level: beginner / easy\r\n\r\nyou will need to know how to cast on stitches, knit and purl confidently, bind of stitches and weave in ends.\r\n\r\nthis pattern is written in standard u.s. knitting terms.\r\n\r\n\r\n  [1]: http://bit.ly/theboulevardblanket5410blog\r\n  [2]: https://bit.ly/boulevardblankettutorial2021\r\n  [3]: http://bit.ly/meadowlanerav",
   "pdf": {
     "filename": "581681.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\581681.pdf",
-    "url": "https://pdf.ravelrycache.com/5410Studio/1721785/The_Boulevard_Blanket_by_Fifty_Four_Ten_Studio_SEPT_26_2023.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483577&Signature=T2OUSU8Jt6lSMCXVehCwjFW%2FZLs%3D&key_expires=1768483577&key=cpgusWSgnQnDO14nWjgmiQ",
+    "url": "https://pdf.ravelrycache.com/5410Studio/1721785/The_Boulevard_Blanket_by_Fifty_Four_Ten_Studio_SEPT_26_2023.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770443949&Signature=nCK1K35GLaJ5FDWDxQpOjWInfms%3D&key_expires=1770443949&key=nfPex5sdpWld9w_SFPoIHA",
     "size_bytes": 2122099
   }
 }

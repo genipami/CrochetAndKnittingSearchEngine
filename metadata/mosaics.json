@@ -1,32 +1,32 @@
 {
   "id": 1269697,
-  "name": "Mosaics",
+  "name": "mosaics",
   "permalink": "mosaics",
   "url": "https://www.ravelry.com/patterns/library/mosaics",
   "external_url": "https://bebablanket.com/",
-  "designer_name": "BebaBlanket",
-  "project_type": "Blanket",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "bebablanket",
+  "project_type": "blanket",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Manaya",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 67.5
     },
     {
-      "fiber": "Mega Ball",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 32.5
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Mosaic",
-    "Written"
+    "charted",
+    "in the round",
+    "mosaic",
+    "written"
   ],
   "hook_sizes_mm": [
     4.5
@@ -34,11 +34,12 @@
   "needle_sizes_mm": [],
   "published": "2022/09/01",
   "sizes_available": "any size square ",
-  "rating_average": 4.892857142857143,
-  "rating_count": 56,
-  "difficulty_average": 3.7169811320754715,
-  "favorites_count": 6425,
-  "projects_count": 232,
+  "rating_average": 4.894736842105263,
+  "rating_count": 57,
+  "difficulty_average": 3.7222222222222223,
+  "favorites_count": 6482,
+  "projects_count": 235,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/67946/802330"
+  "download_url": "http://www.ravelry.com/dls/67946/802330",
+  "notes": "experience level: advanced beginner.\r\nlanguage & terminology: english (us), deutsch,  español, français, nederlands, suomeksi, italiano.\r\ntechnique: overlay mosaic crochet in the round from center out. \r\npattern repeat: 14 rs.\r\npattern file size: 9 pages.\r\n\r\nthe pattern includes:\r\n•\tdetailed introductory information about mosaic crochet basics and links to video tutorials (a separate file);\r\n•\tchart with marked xs;\r\n•\twritten blanket pattern;\r\n•\tborder pattern;\r\n•\tpattern layout;\r\n•\t[video tutorial][1] overlay mosaic crochet in the round from center out basics.\r\n\r\nyarn, hook & approximate size: \r\nthe mosaics pattern sample was created using the following yarn:\r\n\r\nyarn weight #3 (light/dk)\r\nhook size clover amour, 4.5 mm\r\nyarn\t\r\ncolor a: hobbii mega ball, white (01) \r\ncolor b: hobbii manaya, color (02) \r\nnote: hobbii manaya is marked as medium/aran weight yarn, but it’s more likely light/dk weight\r\n\r\nsample size, shape & amount of yarn \t\r\nsquare. 79 cm/31.1” from side to side including a border\r\ncolor a: 204 g, 612 m / 670 yds\r\ncolor b: 183 g, 467 m / 511 yds\r\nborder in color b 27 g, 70 m / 77 yds\r\n\r\nyou can use any yarn, colors & appropriate hook size that suits your project. \r\n\r\noriginal design and the technique of how to start/end every round created by daiga talentiene, bebablanket designer\r\njune, 2022 \r\n\r\nthe pattern was tested by: tania leis, judy leacock, carol brunquell sutcliffe, mirjam annaars, rita miller.\r\n\r\ntranslators:\r\ndutch: mirjam annaars\r\ngerman: heidrun liegmann\r\nspanish: elizabeth pintado-díaz, lynda hernández and teresa sánchez\r\nfrench: johanne rousseau, katherine martinet\r\nfinnish: jutta heisalo\r\nitalian: sabrina milani, debora fior\r\n\r\ncorrections and edits: \r\nfebruary 8, 2023. corrected german version.\r\napril 8, 2023 added french translation\r\nmay 2, 2023. added finnish translation\r\naugust 21, 2023. added italian translation\r\n\r\n  [1]: https://youtu.be/lugsjamitxw"
 }

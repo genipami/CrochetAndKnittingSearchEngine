@@ -1,25 +1,25 @@
 {
   "id": 468174,
-  "name": "Troll",
+  "name": "troll",
   "permalink": "troll-2",
   "url": "https://www.ravelry.com/patterns/library/troll-2",
   "external_url": "",
-  "designer_name": "Gabriela Widmer-Hanke",
-  "project_type": "Child",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "gabriela widmer-hanke",
+  "project_type": "child",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Tosh Chunky",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Written"
+    "bottom-up",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -27,12 +27,13 @@
     5.0
   ],
   "published": "2014/02/01",
-  "sizes_available": "Baby (Toddler, Child)",
-  "rating_average": 4.718954248366013,
-  "rating_count": 459,
-  "difficulty_average": 1.696969696969697,
-  "favorites_count": 12711,
-  "projects_count": 1770,
+  "sizes_available": "baby (toddler, child)",
+  "rating_average": 4.720173535791757,
+  "rating_count": 461,
+  "difficulty_average": 1.6960556844547563,
+  "favorites_count": 12759,
+  "projects_count": 1774,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/16244/195994"
+  "download_url": "http://www.ravelry.com/dls/16244/195994",
+  "notes": "troll is a easy and quick knitted hat for your little troll ;-) \r\nit is knitted in rounds from bottom up in stockinet sts. \r\n\r\nsizes: baby (toddler, child)\r\n\r\nyarn: approx 90 (110, 130) m of aran weight yarn. \r\n\r\nerrata:\r\n\r\ndecrease row 4 : k 5 (6, 7) not 5 (5, 6)\r\n"
 }

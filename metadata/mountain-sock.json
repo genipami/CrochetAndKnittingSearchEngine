@@ -1,44 +1,49 @@
 {
   "id": 1086337,
-  "name": "Mountain Sock",
+  "name": "mountain sock",
   "permalink": "mountain-sock",
   "url": "https://www.ravelry.com/patterns/library/mountain-sock",
   "external_url": "",
-  "designer_name": "Rachel Nutting",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "rachel nutting",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Simple Sock",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Kitchener stitch",
-    "Seamless",
-    "Short rows",
-    "Top-down",
-    "Written"
+    "charted",
+    "in the round",
+    "kitchener stitch",
+    "seamless",
+    "short rows",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.25
   ],
   "published": "2020/11/01",
-  "sizes_available": "Adult Small, Medium, Large",
+  "sizes_available": "adult small, medium, large",
   "rating_average": 4.842105263157895,
   "rating_count": 114,
   "difficulty_average": 2.63302752293578,
-  "favorites_count": 7293,
-  "projects_count": 620,
+  "favorites_count": 7342,
+  "projects_count": 628,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/33649/654495"
+  "download_url": "http://www.ravelry.com/dls/33649/654495",
+  "notes": "> receive 20% off when you purchase 3 or\r\n> more patterns! no coupon code needed.\r\n\r\n**description**\r\nmountain sock is a top-down sock which featuring a simple repeating knit & purl stitch which creates a textured pattern. the pattern includes both written and charted instructions. this sock includes standard heel flap directions and a kitchener stitch toe. a warm and thick sock that will be sure to keep anyone toasty! this pattern pairs best with solid yarns.\r\n\r\n**finished sizes**\r\nadult (s, m, l)\r\nleg circumference - (7”, 8”, 9”)\r\n\r\n**yarn**\r\n1 skein fig and posy fiber co simple sock, or any fingering weight yarn of your choice.\r\n\r\n**gauge**\r\n32 stitches = 4”\r\n\r\n**needles**\r\nus 1 (2.25mm) or us 1.5 (2.5mm), whichever needed to obtain gauge.\r\n\r\n**notions**\r\n2 stitch markers\r\ntapestry needle\r\n\r\n#rachelnuttingknits\r\n\r\n@rachelnuttingknits on instagram"
 }

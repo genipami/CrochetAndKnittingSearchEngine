@@ -1,45 +1,50 @@
 {
   "id": 1083252,
-  "name": "214-68 Winter Smiles Headband",
+  "name": "214-68 winter smiles headband",
   "permalink": "214-68-winter-smiles-headband",
   "url": "https://www.ravelry.com/patterns/library/214-68-winter-smiles-headband",
   "external_url": "https://www.garnstudio.com/pattern.php?id=10009&cid=19",
-  "designer_name": "DROPS design",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "drops design",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "DROPS Alpaca",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 50.0
     },
     {
-      "fiber": "DROPS Kid-Silk",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 37.5
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 12.5
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "cable",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Cables",
-    "In the round",
-    "Seamed",
-    "Written"
+    "cables",
+    "in the round",
+    "seamed",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     5.0
   ],
   "published": "2020/11/01",
-  "sizes_available": "S/M – M/L – L/XL",
-  "rating_average": 4.76984126984127,
-  "rating_count": 126,
-  "difficulty_average": 1.8617886178861789,
-  "favorites_count": 4141,
-  "projects_count": 708,
+  "sizes_available": "s/m – m/l – l/xl",
+  "rating_average": 4.775193798449612,
+  "rating_count": 129,
+  "difficulty_average": 1.856,
+  "favorites_count": 4179,
+  "projects_count": 726,
   "free_ravelry_download": false,
-  "download_url": "https://www.garnstudio.com/pattern.php?id=10009&cid=19"
+  "download_url": "https://www.garnstudio.com/pattern.php?id=10009&cid=19",
+  "notes": "**knitted head band with cable in drops alpaca and drops kid-silk. sizes s - xl.**\r\n~~~~~~~~~~~~~~~~~~~~~~~~~~~\r\n\r\ndrops design: pattern no z-928\r\nyarn group a + a or c\r\n\r\n-------------------------------------------------------\r\n\r\n**sizes**:\r\ns/m – m/l – l/xl\r\nfits head size approx.: 54/56 – 56/58 – 58/60 cm.\r\nheight approx.: 10/11 – 11/12 – 12/13 cm.\r\n\r\n**materials**:\r\ndrops alpaca from garnstudio (belongs to yarn group a)\r\n50-50-50 g colour 9025, hazelnut\r\nand use:\r\ndrops kid-silk from garnstudio (belongs to yarn group a)\r\n25-25-25 g colour 33, rust\r\n\r\nor use the following colour-combinations:\r\ndrops alpaca 9026, blush and drops kid-silk 33, rust\r\ndrops alpaca 7323, sea fog and drops kid-silk 34, sage green\r\ndrops alpaca 2923, goldenrod and drops kid-silk 30, curry\r\ndrops alpaca 2020, light nougat and drops kid-silk 20, light beige\r\n\r\n**knitting tension**:\r\n17 stitches in width and 22 rows in height with stocking stitch and 1 strand of each quality (= 2 strands) = 10 x 10 cm.\r\n\r\nneedles:\r\ndrops double pointed needles size 5 mm.\r\nneedle size is only a guide. if you get too many stitches on 10 cm, change to a larger needle size. if you get too few stitches on 10 cm, change to a smaller needle size."
 }

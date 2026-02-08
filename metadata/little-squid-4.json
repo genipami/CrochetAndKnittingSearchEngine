@@ -1,24 +1,24 @@
 {
   "id": 968096,
-  "name": "Little Squid",
+  "name": "little squid",
   "permalink": "little-squid-4",
   "url": "https://www.ravelry.com/patterns/library/little-squid-4",
   "external_url": "",
-  "designer_name": "Rebecca Thrasher",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Fingering",
+  "designer_name": "rebecca thrasher",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Mandarin Petit",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "In the round",
-    "Top-down",
-    "Written"
+    "in the round",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [
     3.25
@@ -29,14 +29,15 @@
   "rating_average": 4.7560975609756095,
   "rating_count": 82,
   "difficulty_average": 2.608108108108108,
-  "favorites_count": 4474,
+  "favorites_count": 4523,
   "projects_count": 224,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/77732/560477",
+  "notes": "a free pattern for the cutest little squid, and my first-ever pattern as well! \r\n\r\nif anything is unclear or there are any questions please let me know, i'm happy to help.\r\n\r\npick a yarn that you like and use a hook size to match. i used fingering weight and ended up with a little squid, but feel free to experiment with bigger options.\r\n\r\nas well, please feel free to sell items that you make from this pattern.",
   "pdf": {
     "filename": "968096.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\968096.pdf",
-    "url": "https://pdf.ravelrycache.com/thrashmasterbex/1030202/Little_Squid_Pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481486&Signature=nreUtYr5a05lkO0sAvng%2F4NEChk%3D&key_expires=1768481486&key=X9J3xA_Zstit1RJtuAczvA",
+    "url": "https://pdf.ravelrycache.com/thrashmasterbex/1030202/Little_Squid_Pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770432448&Signature=XwxaDUw2MBNbKJD8ePpg9QuKTDk%3D&key_expires=1770432448&key=x4wuBYgpuOJE5GCOI9oQHQ",
     "size_bytes": 1589760
   }
 }

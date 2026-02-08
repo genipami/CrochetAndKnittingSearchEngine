@@ -1,45 +1,50 @@
 {
   "id": 864885,
-  "name": "A Little Hocus Pocus Socks",
+  "name": "a little hocus pocus socks",
   "permalink": "a-little-hocus-pocus-socks",
   "url": "https://www.ravelry.com/patterns/library/a-little-hocus-pocus-socks",
   "external_url": "",
-  "designer_name": "This Handmade Life",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "this handmade life",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Twist Sock",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Treble crochet (tr)"
+    "cable",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Cables",
-    "Charted",
-    "In the round"
+    "cables",
+    "charted",
+    "in the round"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.5
   ],
   "published": "2018/09/01",
-  "sizes_available": "Womens Medium (64 stitches)",
-  "rating_average": 4.839024390243902,
-  "rating_count": 205,
-  "difficulty_average": 2.7474747474747474,
-  "favorites_count": 7295,
-  "projects_count": 853,
+  "sizes_available": "womens medium (64 stitches)",
+  "rating_average": 4.839805825242719,
+  "rating_count": 206,
+  "difficulty_average": 2.7336683417085426,
+  "favorites_count": 7315,
+  "projects_count": 860,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/55875/484642",
+  "notes": "knitting socks is a little like making magic with knitting needles. the cable stitch in this pattern is fun and easy, once you get the hang of it! so grab your sparkly, halloween inspired sock yarns and make some hocus pocus! \r\n\r\na few notes about this pattern, the instructions are for knitting the socks using the magic loop method (easily adaptable for dpns) the cable is charted only. \r\n\r\nif you are on instagram, tag me! @thishandmadelife, i love to see & share your projects!\r\n\r\nhere's a great tutorial for cabling without a needle if you want to give that a try:\r\n\r\nhttps://www.youtube.com/watch?v=n2calm3dhcu\r\n\r\nhere's a great tutorial for trying my favorite cast on for cuff down socks:\r\n\r\nhttps://www.youtube.com/watch?v=ucwmcuiylii\r\n\r\nhere's a great tutorial for magic loop instructions:\r\n\r\nhttps://www.youtube.com/watch?v=djwbhiaqojk",
   "pdf": {
     "filename": "864885.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\864885.pdf",
-    "url": "https://pdf.ravelrycache.com/thishandmadelife/879773/A_little_Hocus_Pocus_Socks.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478588&Signature=hpk926qMvORVwxjF8YwRrsxKags%3D&key_expires=1768478588&key=jzf7yGQfYhOmvheauiLaiQ",
+    "url": "https://pdf.ravelrycache.com/thishandmadelife/879773/A_little_Hocus_Pocus_Socks.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770416258&Signature=tmPkc5H2UWVGEzUqtrbG9r6eT%2BY%3D&key_expires=1770416258&key=9e5cAb1DurBS3VnQevWhAg",
     "size_bytes": 27677283
   }
 }

@@ -1,28 +1,28 @@
 {
   "id": 506340,
-  "name": "Nurmilintu",
+  "name": "nurmilintu",
   "permalink": "nurmilintu",
   "url": "https://www.ravelry.com/patterns/library/nurmilintu",
   "external_url": "",
-  "designer_name": "Heidi Alander",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "heidi alander",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Tosh Merino Light",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Lace",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "lace",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Lace",
-    "Seamless"
+    "charted",
+    "lace",
+    "seamless"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -30,12 +30,13 @@
     4.0
   ],
   "published": "2014/07/01",
-  "sizes_available": "One size, easily adjustable",
-  "rating_average": 4.507052709725316,
-  "rating_count": 2694,
-  "difficulty_average": 2.8164414414414414,
-  "favorites_count": 42797,
-  "projects_count": 9665,
+  "sizes_available": "one size, easily adjustable",
+  "rating_average": 4.50760667903525,
+  "rating_count": 2695,
+  "difficulty_average": 2.81695423855964,
+  "favorites_count": 42847,
+  "projects_count": 9673,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/34324/222746"
+  "download_url": "http://www.ravelry.com/dls/34324/222746",
+  "notes": "not a single purl stitch! yay!\r\n\r\nand hey - size is adjustable - you may repeat garter stitch and lace parts as many times as you wish.\r\n\r\n*update july 24th 2018: there are now revised versions of english and finnish files.*\r\n\r\n--\r\n\r\nthanks to [elisabetm][1] now also in swedish!\r\n\r\nthank you [mjinbarcelona][2] for the spanish translation!\r\n\r\nmaintenant aussi en francais! merci bien [lalie-78][3]!\r\n\r\nalso in italian! thank you [ilaria70][4]!\r\n\r\nand now also in german! thank you [theolinchen412][5]!\r\n\r\nthanks to [dashuta][6], now also in russian!\r\n\r\nthank you [knittintin][7] for being my photographer, test knitter and joojoo-man!\r\n\r\n\r\n  [1]: http://www.ravelry.com/people/elisabetm\r\n  [2]: http://www.ravelry.com/people/mjinbarcelona\r\n  [3]: http://www.ravelry.com/people/lalie-78\r\n  [4]: http://www.ravelry.com/people/ilaria70\r\n  [5]: http://www.ravelry.com/people/theolinchen412\r\n  [6]: http://www.ravelry.com/people/dashuta\r\n  [7]: http://www.ravelry.com/people/knittintin"
 }

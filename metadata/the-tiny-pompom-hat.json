@@ -1,32 +1,32 @@
 {
   "id": 1297884,
-  "name": "The Tiny Pompom Hat",
+  "name": "the tiny pompom hat",
   "permalink": "the-tiny-pompom-hat",
   "url": "https://www.ravelry.com/patterns/library/the-tiny-pompom-hat",
   "external_url": "",
-  "designer_name": "Teti Lutsak",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "teti lutsak",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Donegal Wool Spinning Company",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
     "2x2 rib",
-    "Cable",
-    "Ribbing",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "cable",
+    "ribbing",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Bottom-up",
-    "Cables",
-    "In the round",
-    "Written"
+    "blocking",
+    "bottom-up",
+    "cables",
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -34,17 +34,18 @@
   ],
   "published": "2022/12/01",
   "sizes_available": "1 (2, 3, 4, 5) see more details below",
-  "rating_average": 4.96875,
-  "rating_count": 32,
-  "difficulty_average": 1.6451612903225807,
-  "favorites_count": 3068,
-  "projects_count": 229,
+  "rating_average": 4.96969696969697,
+  "rating_count": 33,
+  "difficulty_average": 1.65625,
+  "favorites_count": 3086,
+  "projects_count": 232,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/57492/826208",
+  "notes": "my christmas gift to the knitting community and a favourite go-to hat, that matches my [rebellious scarf](/patterns/library/rebellious-scarf) \r\n\r\n* the pattern is written for five sizes\r\n1 (2, 3, 4, 5) to fit both children and adults \r\nwith a finished circumference of ca. 45 (49, 54, 59, 64) cm // 17.5 (19.5, 21.25, 23.25, 25) in. \r\n\r\nthe sample is shown in size 3 on a model with 54 cm (21.25 in) head circumference. for more of the finished garment measurements, please refer to the schematic. \r\n\r\n**yarn**\r\n\r\n* ca. 40 (55, 66, 76, 86) g or less than 1 skein \r\nof 100% irish wool from donegal spinning company, with ca. 200 m (218 yds) per 100 g skein, shown in colourway grey 3750;\r\n\r\n* or ca. 80 (110, 132, 152, 172) m // 87 (120, 144, 166, 187) yds of any other worsted/light aran weight yarn with a matching gauge. \r\n\r\n***the yardage includes enough for a tiny (2.5 cm (1 in) in diameter) pompom.***\r\n\r\n**needles and notions**\r\n* 4 mm (us 6) circular needles with 40-60 cm (16-24 in) long cable (try a magic loop technique if using a longer cable needle); \r\n* a set of 4.0 mm (us 6) dpns (double pointed needles) for the crown (optional);\r\n* one stitch marker;\r\n* a tapestry needle or a crochet hook to finish and weave in the ends.\r\n\r\n**gauge**\r\n\r\n* 17 sts & 28 rnds in 10 cm (4 in) on 4.0 mm (us 6) needles measured over 2x2 ribbing in the round after blocking;\r\n\r\nadjust the needle sizes if necessary to obtain the correct gauge.\r\n\r\n",
   "pdf": {
     "filename": "1297884.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1297884.pdf",
-    "url": "https://pdf.ravelrycache.com/tetilutsak/1598700/_tiny_pompom_hat_v1_EN.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483694&Signature=659RTfv4n9kc05%2FvVmY%2FfYdYQzg%3D&key_expires=1768483694&key=X0LYRiAtEUMxAtwnqkBoWg",
+    "url": "https://pdf.ravelrycache.com/tetilutsak/1598700/_tiny_pompom_hat_v1_EN.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770444528&Signature=oijY6%2FOk2nPPilpdIgYrw8i84XA%3D&key_expires=1770444528&key=DQjJ_s_ORM2MnRo3HRmPaw",
     "size_bytes": 638822
   }
 }

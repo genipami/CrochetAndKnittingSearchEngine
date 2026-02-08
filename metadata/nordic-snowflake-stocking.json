@@ -1,35 +1,27 @@
 {
   "id": 1197624,
-  "name": "Nordic Snowflake Stocking",
+  "name": "nordic snowflake stocking",
   "permalink": "nordic-snowflake-stocking",
   "url": "https://www.ravelry.com/patterns/library/nordic-snowflake-stocking",
   "external_url": "https://theunraveledmitten.com/2021/12/06/nordic-snowflake-fair-isle-christmas-stocking-pattern/",
-  "designer_name": "Heather J Anderson",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "heather j anderson",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Simply Aran",
-      "pct": null
-    },
-    {
-      "fiber": "Super Saver (solids)",
-      "pct": null
-    },
-    {
-      "fiber": "Vanna's Choice",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "Bottom-up",
-    "Charted",
-    "In the round",
-    "Short rows",
-    "Tapestry crochet",
-    "Written"
+    "bottom-up",
+    "charted",
+    "in the round",
+    "short rows",
+    "tapestry crochet",
+    "written"
   ],
   "hook_sizes_mm": [
     5.5
@@ -40,8 +32,9 @@
   "rating_average": 4.5,
   "rating_count": 14,
   "difficulty_average": 3.75,
-  "favorites_count": 1699,
+  "favorites_count": 1712,
   "projects_count": 53,
   "free_ravelry_download": false,
-  "download_url": "http://www.ravelry.com/purchase/the-unraveled-mitten/743142"
+  "download_url": "http://www.ravelry.com/purchase/the-unraveled-mitten/743142",
+  "notes": "this pattern is available for free on my website. an ad-free printable version is for sale here on ravelry. \r\n\r\n\r\n\r\n\r\n  [1]: https://www.ravelry.com/patterns/library/dancing-diamonds-stocking"
 }

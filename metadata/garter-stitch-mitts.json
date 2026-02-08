@@ -1,33 +1,29 @@
 {
   "id": 35882,
-  "name": "Garter Stitch Mitts",
+  "name": "garter stitch mitts",
   "permalink": "garter-stitch-mitts",
   "url": "https://www.ravelry.com/patterns/library/garter-stitch-mitts",
   "external_url": "",
-  "designer_name": "Ysolda Teague",
-  "project_type": "Mittens/Gloves",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "ysolda teague",
+  "project_type": "mittens/gloves",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "The Croft DK",
-      "pct": null
-    },
-    {
-      "fiber": "stranded dyeworks superwash bfl",
-      "pct": null
+      "fiber": "Shetland (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Kitchener stitch",
-    "Short rows",
-    "Stranded colorwork",
-    "Written"
+    "kitchener stitch",
+    "short rows",
+    "stranded colorwork",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -35,17 +31,18 @@
   ],
   "published": "2022/12/01",
   "sizes_available": "little kid[big kid, adult small, adult medium, adult large]",
-  "rating_average": 4.4559043348281016,
-  "rating_count": 669,
-  "difficulty_average": 2.3090128755364807,
-  "favorites_count": 8605,
-  "projects_count": 2086,
+  "rating_average": 4.459138187221397,
+  "rating_count": 673,
+  "difficulty_average": 2.3062678062678064,
+  "favorites_count": 8675,
+  "projects_count": 2096,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/85/119",
+  "notes": "> love this pattern? subscribe to the [ysolda newsletter][1] for updates on new releases, more meditative knitting designs, helpful tutorials to grow your skills and lots more! \r\n\r\n\r\nperfect for learning short rows, these simple garter stitch, fingerless mitts are knit flat and shaped with short rows. choose to finish them with either a simple seam or by grafting. sizing is included from little kid through to adult large, so the whole family can match! \r\n\r\nif you are looking for ways to use up your leftovers, these mitts are perfect. several sizes use less than 50g of yarn, meaning you can get creative with your stash and knit something satisfying without the expense of new yarn. fingerless mitts make a great gift for any age, ensuring toasty hands that can move with ease. \r\n\r\n**yarn**\r\ndk weight yarn\r\n70\\[95, 120, 165, 220] yds / 60\\[90, 110, 150, 200]m\r\n\r\nshown in\r\nwest yorkshire spinners the croft dk (100% wool, 246 yds / 225m, 100g) in challister\r\nstranded dyeworks superwash bfl dk (100% wool, 120 yds / 109m, 50g) in archive\r\n\r\n**gauge**\r\n24 sts and 48 rows (24 garter ridges) = 4” / 10cm in garter stitch\r\n\r\n**needles**\r\nus 5 / 3.75mm needles, straight or circular needles 24” / 60cm or longer\r\n\r\n**notions**\r\nstitch marker, safety pin or removable marker, scrap yarn (for optional provisional cast-on)\r\n\r\n**sizes**\r\nlittle kid\\[big kid, adult small, adult medium, adult large]\r\nto fit hand length of approx: 4.5\\[5.5, 6.25, 7.5, 9]” / 11.5\\[14, 15.5, 19, 22.5]cm\r\nto fit knuckle circumference of approx: 5.5\\[6.5, 7, 8, 9]” / 14\\[16.5, 17.5, 20, 22.5]cm\r\n\r\nshown in adult small\r\n\r\n> updated december 2022 now includes 5\r\n> sizes- originally published in\r\n> november 2007\r\n\r\n [1]: https://ysolda.com/pages/subscribe\r\n",
   "pdf": {
     "filename": "35882.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\35882.pdf",
-    "url": "https://pdf.ravelrycache.com/ysolda/1597625/garter_stitch_mitts_by_ysolda_v1.1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480571&Signature=Z8NsOzUXTUiZ5KRlRQo%2Bjxugv%2Bg%3D&key_expires=1768480571&key=VedG2fb85VZzFima8VhAcg",
+    "url": "https://pdf.ravelrycache.com/ysolda/1597625/garter_stitch_mitts_by_ysolda_v1.1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770427283&Signature=gX8UfK1GpU5CWiG%2Bxxj5sbqKIe4%3D&key_expires=1770427283&key=jb7N2Q4POhsgDyCIS7SE4A",
     "size_bytes": 908427
   }
 }

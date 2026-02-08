@@ -1,52 +1,57 @@
 {
   "id": 7485511,
-  "name": "Double Hat",
+  "name": "double hat",
   "permalink": "double-hat-4",
   "url": "https://www.ravelry.com/patterns/library/double-hat-4",
   "external_url": "",
-  "designer_name": "SuviKnits",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "suviknits",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Merino",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 50.0
     },
     {
-      "fiber": "Soft Silk Mohair",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 35.0
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 15.0
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "lace",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Lace",
-    "Modular",
-    "Seamless",
-    "Written"
+    "in the round",
+    "lace",
+    "modular",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.5
   ],
   "published": "2025/12/01",
-  "sizes_available": "One size, adjustable (tips in pattern)",
-  "rating_average": 4.913043478260869,
-  "rating_count": 23,
-  "difficulty_average": 1.85,
-  "favorites_count": 9019,
-  "projects_count": 130,
+  "sizes_available": "one size, adjustable (tips in pattern)",
+  "rating_average": 4.875,
+  "rating_count": 32,
+  "difficulty_average": 1.7857142857142858,
+  "favorites_count": 9522,
+  "projects_count": 179,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/1682/1043271",
+  "notes": "> **this hat is my gift to you! thank you for your ongoing support, for knitting my designs and for following my knitting journey in ig!**\r\n\r\na warm and reversible double layer hat. the outer hat is worked first and the stitches for the inner hat are then picked up from the cast-on round of the outer hat. the inner hat is then worked in the opposite direction.\r\n\r\n**pattern information \r\nmeasurements** \r\none size, fits an average adult head of 22” / 56 cm. easy to adjust, see tips in the pattern. \r\nheight: 8 ½” / 21.5 cm\r\n\r\n**yarn**  \r\napproximately 284 yds / 260 m fingering weight yarn and laceweight mohair to be held together or dk-weight yarn if working with a single strand. \r\nif working with two colors as the sample, you need approximately 142 yds / 130 m each color. \r\n\r\nthe outer hat is shown in filcolana arwetta in color 950 and knitting for olive soft silk mohair in color putty.\r\nthe inner hat is show in knitting for olive merino and knitting for olive soft silk mohair, both in color ballerina.\r\n\r\n**needles** \r\nus 4 / 3.5 mm needles (either a short circular needle for the main hat and a set of double pointed needles for the crown decreases or a long circular needle for the entire hat if using magic loop technique) \r\n\r\n**notions** \r\nstitch markers\r\ntapestry needle for weaving in the yarn ends\r\n\r\n**gauge** \r\n24 sts and 32 rows in stockinette stitch with yarns held together = 4” / 10 cm, washed and blocked \r\n",
   "pdf": {
     "filename": "7485511.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7485511.pdf",
-    "url": "https://pdf.ravelrycache.com/SuvisDesigns/2102428/Double_hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479948&Signature=NVpkQg5n6AAkNtQaNUrDKzr6mKk%3D&key_expires=1768479948&key=9pqZw06cQM0eRVb3jNB8vQ",
+    "url": "https://pdf.ravelrycache.com/SuvisDesigns/2102428/Double_hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770423969&Signature=6g3XHc5jSaVpSmzWCGfdVySFd3Q%3D&key_expires=1770423969&key=UlPv5PWJR8wUqeXst0etkw",
     "size_bytes": 288102
   }
 }

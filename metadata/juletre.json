@@ -1,21 +1,29 @@
 {
   "id": 7474383,
-  "name": "Juletre",
+  "name": "juletre",
   "permalink": "juletre",
   "url": "https://www.ravelry.com/patterns/library/juletre",
   "external_url": "",
-  "designer_name": "Siri Veiseth",
-  "project_type": "Home",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "siri veiseth",
+  "project_type": "home",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Kos",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 62.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 29.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 9.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [],
@@ -27,14 +35,15 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 245,
+  "favorites_count": 255,
   "projects_count": 8,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/80170/1033984",
+  "notes": "\r\njuletre er laget av en i-cord snor.\r\n\r\ndette trenger du:\r\n•\trestegarn\r\n•\t2 strikkepinner, 4 mm. (eller en strikkemølle)\r\n•\tnål\r\n•\ttråd\r\n•\t2 perler\r\n\r\nglad strikking!",
   "pdf": {
     "filename": "7474383.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7474383.pdf",
-    "url": "https://pdf.ravelrycache.com/SiriVeiseth/2080758/Juletre.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481110&Signature=Q6N2TIZkYnrOchuGMbWwtXBeeT8%3D&key_expires=1768481110&key=Wihkx7K-m-__cXxW8fLtPg",
+    "url": "https://pdf.ravelrycache.com/SiriVeiseth/2080758/Juletre.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770430372&Signature=a1GcAnC3g1ZMb0pNaukWycKNaV4%3D&key_expires=1770430372&key=3v6XsYLhLPEoT7HX7xPOkA",
     "size_bytes": 129179
   }
 }

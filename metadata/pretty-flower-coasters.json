@@ -1,23 +1,27 @@
 {
   "id": 1036498,
-  "name": "Pretty Flower Coasters",
+  "name": "pretty flower coasters",
   "permalink": "pretty-flower-coasters",
   "url": "https://www.ravelry.com/patterns/library/pretty-flower-coasters",
   "external_url": "",
-  "designer_name": "Mary J Stephens",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "mary j stephens",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Knit & Purl Bamboo",
-      "pct": null
+      "fiber": "Rayon from Bamboo (Bamboo)",
+      "pct": 50.0
+    },
+    {
+      "fiber": "Cotton (Cotton)",
+      "pct": 50.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     3.0
@@ -28,14 +32,15 @@
   "rating_average": 4.794871794871795,
   "rating_count": 39,
   "difficulty_average": 1.8108108108108107,
-  "favorites_count": 3487,
-  "projects_count": 170,
+  "favorites_count": 3509,
+  "projects_count": 171,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/51914/614264",
+  "notes": "pretty coasters, very quick and easy to make, you can probably get 8 out of a 50g ball of dk cotton.\r\npattern is written in uk terms.",
   "pdf": {
     "filename": "1036498.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1036498.pdf",
-    "url": "https://pdf.ravelrycache.com/EmjayCrochet/1138999/PrettyCrochetCoasters.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482554&Signature=S3Yn1LEw2p0h2ZUnL6C72MwGqSc%3D&key_expires=1768482554&key=w3plltY9bjA9k-MD9aGjIA",
+    "url": "https://pdf.ravelrycache.com/EmjayCrochet/1138999/PrettyCrochetCoasters.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770437860&Signature=xUIMgd0AeDTWQv6dvEwa%2BKv%2BLSE%3D&key_expires=1770437860&key=239wcipssoe27GNFkhg9Pw",
     "size_bytes": 374453
   }
 }

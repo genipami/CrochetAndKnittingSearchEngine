@@ -1,29 +1,29 @@
 {
   "id": 7458577,
-  "name": "The Demon Hunter",
+  "name": "the demon hunter",
   "permalink": "the-demon-hunter",
   "url": "https://www.ravelry.com/patterns/library/the-demon-hunter",
   "external_url": "",
-  "designer_name": "Tamara's Hand Made",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "tamara's hand made",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Luxury 4 ply",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Intarsia",
-    "Stranded colorwork"
+    "bottom-up",
+    "in the round",
+    "intarsia",
+    "stranded colorwork"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -38,10 +38,11 @@
   "projects_count": 21,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/80933/1021909",
+  "notes": "the socks are designed for the 2025 scarefest kal.\r\nthe sock are plain stocking stitch with a few intarsia colour knit symbols.\r\nthe socks are knit toe up with a  flap and gusset heel.\r\n\r\nknit using a 2.25mm needle and 4ply yarn, sizing is for a small to medium foot ( shoe size 6) but can be adjusted by casting on extra sts at the beginning.\r\nwill need around 100g of mc, 10g of 3 contrasting colours ",
   "pdf": {
     "filename": "7458577.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7458577.pdf",
-    "url": "https://pdf.ravelrycache.com/TamaraHM/2051559/constantine_socks.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483602&Signature=lsCs1Bh2giUMUmrcLNWs%2Fjy2CMM%3D&key_expires=1768483602&key=_Zy-gQNvgdfF8KSK6aSh-Q",
+    "url": "https://pdf.ravelrycache.com/TamaraHM/2051559/constantine_socks.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770444031&Signature=qhn16aBT39DvR3UYls5IVnwL7kM%3D&key_expires=1770444031&key=Q-SGRn_FQkIxW9CS_-aaVw",
     "size_bytes": 1554260
   }
 }

@@ -1,26 +1,34 @@
 {
   "id": 7396656,
-  "name": "Odds Are Shawl",
+  "name": "odds are shawl",
   "permalink": "odds-are-shawl",
   "url": "https://www.ravelry.com/patterns/library/odds-are-shawl",
   "external_url": "https://www.mooglyblog.com/odds-are-shawl-cal-announcement/",
-  "designer_name": "Tamara Kelly",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Bulky",
+  "designer_name": "tamara kelly",
+  "project_type": "shawl/wrap",
+  "fiber_art": "crochet",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Colorama Halo Perfect Phasing",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 71.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 18.0
+    },
+    {
+      "fiber": "Polyester (Polyester)",
+      "pct": 11.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamless",
-    "Written"
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [
     6.5
@@ -31,8 +39,9 @@
   "rating_average": 4.857142857142857,
   "rating_count": 7,
   "difficulty_average": 3.0,
-  "favorites_count": 254,
+  "favorites_count": 263,
   "projects_count": 19,
   "free_ravelry_download": false,
-  "download_url": "http://www.ravelry.com/purchase/moogly/979538"
+  "download_url": "http://www.ravelry.com/purchase/moogly/979538",
+  "notes": "the odds are shawl is a soft, luxurious, one-skein crochet pattern! worked in rows with a mixture of textured stitches, it's a joy to stitch and the perfect gentle start to the year. this pattern is was shared on moogly as a free crochet along over the month of january 2025, and all the parts are now available.\r\n\r\nthereis a video tutorial for each section, shared in both right and left-handed versions. \r\n\r\nto make this crochet shawl, i used caron colorama halo perfect phasing yarn - just one skein! so this is a wonderful project with which to give it a try. this pattern shows off the beauty of this yarn's truly perfect gradient or ombre. and when you're all finished, there are just 2 ends to weave in!\r\n\r\nthis pattern is free on the blog, or available for purchase here as an ad-free pdf!"
 }

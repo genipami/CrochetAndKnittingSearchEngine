@@ -1,26 +1,26 @@
 {
   "id": 1309179,
-  "name": "Janne Yoga Socks",
+  "name": "janne yoga socks",
   "permalink": "janne-yoga-socks",
   "url": "https://www.ravelry.com/patterns/library/janne-yoga-socks",
   "external_url": "",
-  "designer_name": "Bella Helms",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "bella helms",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Arwetta",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 80.0
     },
     {
-      "fiber": "Merino Twist Sock",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [],
@@ -28,18 +28,19 @@
     3.5
   ],
   "published": "2023/02/01",
-  "sizes_available": "One size - length is customizable",
+  "sizes_available": "one size - length is customizable",
   "rating_average": 4.8125,
   "rating_count": 16,
   "difficulty_average": 2.2,
-  "favorites_count": 1590,
-  "projects_count": 74,
+  "favorites_count": 1643,
+  "projects_count": 77,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/88891/835409",
+  "notes": "janne yoga socks are a dk weight yoga sock pattern. the special thing about yoga socks is the fact that they don’t have a heel or tip. this allows you to have a good grip to your yoga mat while still having warm feet. another benefit is that having no heel or tip makes yoga socks the perfect project for beginner knitters. \r\n\r\n**size**\r\nthe pattern comes in one size, the length, however, is customizable which makes the pattern suitable for many eu sizes (size 37 - size 42). the pattern is also easily adjustable to a higher stitch count.\r\n\r\n**yarn**\r\nthe pattern suggests to use a dk weight sock yarn or two strands of fingering weight sock yarn.\r\n\r\n**needles**\r\n3.5 mm double pointed needles or circular needles to work the magic loop technique\r\n\r\ngeneral note: as a “one-woman-show” i translated this pattern myself. as a native german grammar mistakes in the english pattern can occur.\r\nif you have any questions or problems, please contact me at quasigerade@web.de - thank you so much for your support!\r\n\r\nhappy knitting!\r\nbella",
   "pdf": {
     "filename": "1309179.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1309179.pdf",
-    "url": "https://pdf.ravelrycache.com/quasigerade/1618372/20230204_JanneYogaSocks_English.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481058&Signature=DrWekoti4jMn48g3SHhAD3tRRlY%3D&key_expires=1768481058&key=K7FIskeIBrOAL4IElAqNdA",
+    "url": "https://pdf.ravelrycache.com/quasigerade/1618372/20230204_JanneYogaSocks_English.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770430132&Signature=bh5wJmJXIDRQImorid88aYTIgU8%3D&key_expires=1770430132&key=ZcPBCIfP92mXXXAS4ubqMQ",
     "size_bytes": 1102655
   }
 }

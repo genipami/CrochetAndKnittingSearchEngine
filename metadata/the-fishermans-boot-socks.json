@@ -1,25 +1,25 @@
 {
   "id": 770608,
-  "name": "The Fisherman's Boot Socks",
+  "name": "the fisherman's boot socks",
   "permalink": "the-fishermans-boot-socks",
   "url": "https://www.ravelry.com/patterns/library/the-fishermans-boot-socks",
   "external_url": "https://www.maritimefamilyfiber.com/blogs/posts-without-blog/the-fishermans-boot-socks",
-  "designer_name": "Maritime Family Fiber",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "maritime family fiber",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Heritage 2 Ply",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 90.0
     },
     {
-      "fiber": "Tuffy 2 Ply",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [],
@@ -27,12 +27,13 @@
     4.0
   ],
   "published": "2017/08/01",
-  "sizes_available": "Women's Small, Women's Medium, Men's Medium, Men's Large",
-  "rating_average": 4.714285714285714,
-  "rating_count": 56,
-  "difficulty_average": 2.3620689655172415,
-  "favorites_count": 1629,
-  "projects_count": 337,
+  "sizes_available": "women's small, women's medium, men's medium, men's large",
+  "rating_average": 4.719298245614035,
+  "rating_count": 57,
+  "difficulty_average": 2.440677966101695,
+  "favorites_count": 1643,
+  "projects_count": 341,
   "free_ravelry_download": false,
-  "download_url": "https://www.maritimefamilyfiber.com/blogs/posts-without-blog/the-fishermans-boot-socks"
+  "download_url": "https://www.maritimefamilyfiber.com/blogs/posts-without-blog/the-fishermans-boot-socks",
+  "notes": "a traditional, simple boot sock with a dutch heel flap and made from briggs and little tuffy wool blend yarn. now includes fisherwoman sizes in small and medium!"
 }

@@ -1,27 +1,27 @@
 {
   "id": 1016263,
-  "name": "Spring Thing",
+  "name": "spring thing",
   "permalink": "spring-thing",
   "url": "https://www.ravelry.com/patterns/library/spring-thing",
   "external_url": "",
-  "designer_name": "Espace Tricot",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "espace tricot",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Merino Singles",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Written"
+    "blocking",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -29,12 +29,13 @@
     5.0
   ],
   "published": "2020/03/01",
-  "sizes_available": "One Size: 150 cm x 33 cm (59” x 13”)",
-  "rating_average": 4.728395061728395,
-  "rating_count": 162,
-  "difficulty_average": 1.8466666666666667,
-  "favorites_count": 7175,
-  "projects_count": 638,
+  "sizes_available": "one size: 150 cm x 33 cm (59” x 13”)",
+  "rating_average": 4.730061349693251,
+  "rating_count": 163,
+  "difficulty_average": 1.8543046357615893,
+  "favorites_count": 7267,
+  "projects_count": 639,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/25132/597941"
+  "download_url": "http://www.ravelry.com/dls/25132/597941",
+  "notes": "> espace tricot is a yarn store in\r\n> montreal, canada. discover our yarns\r\n> here!  [www.espacetricot.com][1]\r\n\r\nspring thing is a simple asymmetrical shawlette that will add a pop of colour to your wardrobe and a spring in your step! knit with la bien aimée merino singles in our custom colourway, you had me at tricot, you'll be smiling with every stitch. a contrasting yarn held double creates a lovely border accent and the whimsical mini tassels increase the fun factor.\r\n\r\n\r\ny a r n\r\nla bien aimée merino singles (366m/400y per 100 gr skein)\r\nmc: 1 skein, shown in colour you had me at tricot.\r\nor approximately 366m/400y of a fingering weight yarn.\r\n\r\ncc: 1 mini skein of la bien aimée merino singles (80m/87y per 20 gr skein), shown in colour yellow brick road.\r\nor approximately 80m/87y of a fingering weight yarn.\r\n\r\nn e e d l e s\r\nmain needle: 4 mm (us 6) 24” circular needle or size needed to obtain gauge\r\nborder needle: 5 mm (us 8) 32” circular needle or two sizes larger than main\r\nneedle size.\r\nbind-off needle: 6 mm (us 10) or two sizes larger than border needle\r\n(optional and a suggestion if you generally bo tightly).\r\n\r\nn o t i o n s\r\n1 locking stitch marker\r\nblocking wires, mats and pins\r\ncrochet hook to attach tassels"
 }

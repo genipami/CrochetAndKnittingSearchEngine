@@ -1,24 +1,28 @@
 {
   "id": 1259626,
-  "name": "Roo Water Bottle bag",
+  "name": "roo water bottle bag",
   "permalink": "roo-water-bottle-bag",
   "url": "https://www.ravelry.com/patterns/library/roo-water-bottle-bag",
   "external_url": "https://fosbasdesigns.com/roo-crochet-water-bottle-holder-with-phone-pouch/",
-  "designer_name": "Susanna Biaye",
-  "project_type": "Bag",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Sport",
+  "designer_name": "susanna biaye",
+  "project_type": "bag",
+  "fiber_art": "crochet",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Twister Summer",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 55.0
+    },
+    {
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 45.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     4.0
@@ -29,8 +33,9 @@
   "rating_average": 4.833333333333333,
   "rating_count": 12,
   "difficulty_average": 3.5454545454545454,
-  "favorites_count": 1764,
-  "projects_count": 60,
+  "favorites_count": 1801,
+  "projects_count": 61,
   "free_ravelry_download": false,
-  "download_url": "http://www.ravelry.com/purchase/fosbas-designs/794496"
+  "download_url": "http://www.ravelry.com/purchase/fosbas-designs/794496",
+  "notes": "**easy crochet water bottle with a phone pouch pattern**\r\nmake your own fashion bag for the essentials.\r\nyarn - any dk weight yarn \r\nyardage - about 320 yards"
 }

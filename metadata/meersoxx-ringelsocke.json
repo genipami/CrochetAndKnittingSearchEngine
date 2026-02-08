@@ -1,24 +1,32 @@
 {
   "id": 1052256,
-  "name": "MeerSoxx Ringelsocke",
+  "name": "meersoxx ringelsocke",
   "permalink": "meersoxx-ringelsocke",
   "url": "https://www.ravelry.com/patterns/library/meersoxx-ringelsocke",
   "external_url": "",
-  "designer_name": "Kerstin Balke",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "kerstin balke",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Meilenweit Soja",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 60.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 20.0
+    },
+    {
+      "fiber": "Soy Silk (Soy)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)"
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -29,8 +37,9 @@
   "rating_average": 4.702127659574468,
   "rating_count": 47,
   "difficulty_average": 2.45,
-  "favorites_count": 3236,
-  "projects_count": 243,
+  "favorites_count": 3263,
+  "projects_count": 246,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/56313/626777"
+  "download_url": "http://www.ravelry.com/dls/56313/626777",
+  "notes": "die anleitung für die *ringelsocken* ist als teil von vier meersoxx anleitungen entstanden.\r\n\r\nda das garn schön weich und leicht ist, begleiten dich diese sneakersocken auch im sommer, wenn die abende etwas kühler sind.\r\n\r\nfür die sneakersocken benötigst du ca. 15 g taupe fb 03 und jeans fb 04 und ca. 20 g weiß fb 01.\r\n"
 }

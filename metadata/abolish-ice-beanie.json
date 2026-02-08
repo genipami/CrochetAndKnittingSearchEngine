@@ -1,29 +1,29 @@
 {
   "id": 7471982,
-  "name": "Abolish ICE Beanie",
+  "name": "abolish ice beanie",
   "permalink": "abolish-ice-beanie",
   "url": "https://www.ravelry.com/patterns/library/abolish-ice-beanie",
   "external_url": "https://www.elawarart.org/fiber/projects/beanie_abolish_ice/",
-  "designer_name": "Daniel Drennan ElAwar",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "daniel drennan elawar",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Camper",
+      "fiber": "Wool (Wool)",
       "pct": null
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Colorwork",
-    "In the round",
-    "Stranded colorwork"
+    "charted",
+    "colorwork",
+    "in the round",
+    "stranded colorwork"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -34,18 +34,19 @@
     4.0
   ],
   "published": "2025/10/01",
-  "sizes_available": "Medium, Large",
+  "sizes_available": "medium, large",
   "rating_average": 5.0,
-  "rating_count": 4,
-  "difficulty_average": 3.0,
-  "favorites_count": 658,
-  "projects_count": 15,
+  "rating_count": 14,
+  "difficulty_average": 3.4615384615384617,
+  "favorites_count": 1582,
+  "projects_count": 59,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/93773/1032182",
+  "notes": "this pattern is an offshoot of my other beanie patterns. suggested yarn weight is fingering/light sport. the pattern features a corrugated rib followed by stockinette, both in stranded colorwork. instructions for varying needle size and yarn weight will allow for variety here, as seen in the samples section and as described in the pattern. \r\n\r\nthe pattern includes two charts, one that reads \"abolish ice\" and the other that reads \"fuck ice\". also included are extensive round-by-round notes, as well as recommended tutorial videos. a section of samples shows a variety of yarns used, fiber information, needles used, final weight, and notes on the particular yarn from myself and testers. further notes go over sources of low-cost natural yarns as well as how to substitute yarns. happy knitting!\r\n\r\nabolish ice\r\n\r\nmelt the ice",
   "pdf": {
     "filename": "7471982.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7471982.pdf",
-    "url": "https://pdf.ravelrycache.com/IbnSufi/2077617/DDEA_Abolish_ICE_version_01a_optimized.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478643&Signature=4h7cRqvAmilVzAk0rIWN0JLUUNk%3D&key_expires=1768478643&key=CLphhPRDAo4Qwo6GaifRTw",
-    "size_bytes": 850533
+    "url": "https://pdf.ravelrycache.com/IbnSufi/2131320/DDEA_Abolish_ICE_version_01b_optimized.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770416433&Signature=hHVIG%2BErtVjPHHSYIIckYdrCIeQ%3D&key_expires=1770416433&key=D92_SMQrgjAAHppzBZruNA",
+    "size_bytes": 852890
   }
 }

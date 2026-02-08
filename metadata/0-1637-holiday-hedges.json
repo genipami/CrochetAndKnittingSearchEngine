@@ -1,29 +1,33 @@
 {
   "id": 7393379,
-  "name": "0-1637 Holiday Hedges",
+  "name": "0-1637 holiday hedges",
   "permalink": "0-1637-holiday-hedges",
   "url": "https://www.ravelry.com/patterns/library/0-1637-holiday-hedges",
   "external_url": "https://www.garnstudio.com/pattern.php?id=12082&cid=19",
-  "designer_name": "DROPS design",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "drops design",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "DROPS Lima",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 65.0
+    },
+    {
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 35.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Seamed",
-    "Written"
+    "charted",
+    "in the round",
+    "seamed",
+    "written"
   ],
   "hook_sizes_mm": [
     3.5
@@ -34,8 +38,9 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 527,
+  "favorites_count": 545,
   "projects_count": 9,
   "free_ravelry_download": false,
-  "download_url": "https://www.garnstudio.com/pattern.php?id=12082&cid=19"
+  "download_url": "https://www.garnstudio.com/pattern.php?id=12082&cid=19",
+  "notes": "**crocheted hedgehog/christmas decoration in drops lima. piece is worked in the round from the snout and towards the back with pouf stitches. theme: christmas.**\r\n~~~~~~~~~~~~~~~~~~~~\r\n\r\n#dropsholidayhedges\r\ndrops design: pattern li-193\r\nyarn group b\r\n\r\n----------------------------------------------------------\r\n\r\n\r\n**size**:\r\npiece measures approx. circumference: 17 cm length: 10 cm\r\n\r\n**yarn**:\r\ndrops lima from garnstudio (belongs to yarn group b)\r\n50 g colour for head: 0100 off white / 0206 wheat\r\n50 g colour for body: 0619 beige / 9024 almond / 9026 chestnut / 5610 deep taupe\r\n\r\nand use:\r\nsome left- colour black - for snout and eyes\r\n\r\n**accessories**:\r\nsome cotton wool for filling\r\n\r\n1 hedgehog weighs approx. 16 g without filling.\r\n\r\n**crochet hook**:\r\ndrops crochet hook size 3.5 mm.\r\n\r\n**crochet tension**:\r\n20 double crochets in width and 20 rows vertically on hook size 3.5 mm = 10 x 10 cm.\r\nnote! remember that hook size is only a suggestion. if you have too many stitches on 10 cm switch to larger hook. if you have too few stitches on 10 cm switch to smaller hook."
 }

@@ -1,30 +1,30 @@
 {
   "id": 7334001,
-  "name": "Moon Stone",
+  "name": "moon stone",
   "permalink": "moon-stone",
   "url": "https://www.ravelry.com/patterns/library/moon-stone",
   "external_url": "https://shop.hedgehogfibres.com/collections/patterns/products/moon-stone-shawl",
-  "designer_name": "Beata Jezek",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "beata jezek",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Super Bulky",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Stockinette stitch"
+    "lace",
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "Charted",
-    "Lace",
-    "Seamless",
-    "Top-down",
-    "Worked flat",
-    "Written"
+    "charted",
+    "lace",
+    "seamless",
+    "top-down",
+    "worked flat",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -35,8 +35,9 @@
   "rating_average": 4.6521739130434785,
   "rating_count": 23,
   "difficulty_average": 3.0952380952380953,
-  "favorites_count": 2505,
-  "projects_count": 72,
+  "favorites_count": 2543,
+  "projects_count": 75,
   "free_ravelry_download": false,
-  "download_url": "https://shop.hedgehogfibres.com/collections/patterns/products/moon-stone-shawl"
+  "download_url": "https://shop.hedgehogfibres.com/collections/patterns/products/moon-stone-shawl",
+  "notes": "top down shawl with a stunning lace border. knitted with the softest yarn and a 10mm needle, this shawl is bound to turn heads!\r\n\r\nyarn: 3 skeins of hedgehog fibres super bulky (100% merino, 82m/150g). the colourway pictured is ‘moon stone’.\r\n\r\nneedle: us15 / 10mm needles, shawl is worked flat, but circular needle might be beneficial as there’s a large number of stitches towards the end. adjust needle size to obtain correct gauge.\r\n\r\ngauge: 7 sts and 11 rows = 4” / 10 cm in stockinette, blocked lightly by washing and laying flat to dry"
 }

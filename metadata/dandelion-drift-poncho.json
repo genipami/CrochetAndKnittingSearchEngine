@@ -1,38 +1,47 @@
 {
   "id": 7434992,
-  "name": "Dandelion Drift Poncho",
+  "name": "dandelion drift poncho",
   "permalink": "dandelion-drift-poncho",
   "url": "https://www.ravelry.com/patterns/library/dandelion-drift-poncho",
   "external_url": "",
-  "designer_name": "Jennie Spellman",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "jennie spellman",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "DROPS Belle",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 53.0
+    },
+    {
+      "fiber": "Rayon / Viscose (Rayon)",
+      "pct": 33.0
+    },
+    {
+      "fiber": "Flax (Linen)",
+      "pct": 14.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     8.0
   ],
   "published": "2025/05/01",
-  "sizes_available": "XS, S, M, L, XL",
-  "rating_average": 4.583333333333333,
-  "rating_count": 12,
-  "difficulty_average": 1.4545454545454546,
-  "favorites_count": 2322,
-  "projects_count": 73,
+  "sizes_available": "xs, s, m, l, xl",
+  "rating_average": 4.5,
+  "rating_count": 14,
+  "difficulty_average": 1.4615384615384615,
+  "favorites_count": 2585,
+  "projects_count": 84,
   "free_ravelry_download": false,
-  "download_url": "http://www.ravelry.com/purchase/jennie-spellman-designs/1003593"
+  "download_url": "http://www.ravelry.com/purchase/jennie-spellman-designs/1003593",
+  "notes": "this pattern is free in a one size pattern below. a downloadable version is available for $2 with sizes xs-xl and visuals for the seam!\r\n\r\nname: dandelion drift poncho\r\ndesigner: jennie spellman\r\ncraft: knitting\r\ncategory: neck / torso → poncho\r\ndifficulty: beginner\r\n\r\nyarn weight: dk (11 wpi)\r\nyarn used: drops belle\r\nneedle size: us 11 / 8.0 mm circular needle\r\ngauge: 11 stitches and 18 rows = 4 inches in stockinette stitch\r\nsizes available: one size (about a medium)\r\nlanguage: english\r\n\r\nfinished dimensions (before seaming):\r\nwidth: 22” /  56 cm\r\nlength: 47” / 120 cm\r\n\r\nmaterials needed:\r\n\r\nyarn: drops belle (dk; 131 yds / 120 m per 50g ball)\r\n\r\nneedles: us 11 (8 mm) circular needle, 24\" or longer\r\ntapestry needle\r\nscissors\r\nmeasuring tape\r\n\r\ngauge:\r\n11 sts and 18 rows = 4\" / 10 cm in stockinette stitch (unblocked)\r\nmatching gauge is recommended for accurate sizing.\r\n\r\nthis pattern is designed with love for new knitters who want to make something beautiful and wearable—with nothing more than knit, purl, and a little seaming. \r\n\r\n[pattern link here][1]\r\n\r\n\r\nalso available to buy on etsy, click [here][2]\r\n\r\n\r\n  [1]: https://jenniestitchedthis.wordpress.com/2025/05/30/dandelion-drift-poncho/\r\n  [2]: https://jenniestitchedthis.etsy.com/listing/4339504301/dandelion-drift-poncho-pattern"
 }

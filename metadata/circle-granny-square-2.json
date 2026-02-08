@@ -1,24 +1,24 @@
 {
   "id": 1245091,
-  "name": "Circle Granny Square",
+  "name": "circle granny square",
   "permalink": "circle-granny-square-2",
   "url": "https://www.ravelry.com/patterns/library/circle-granny-square-2",
   "external_url": "https://okiegirlblingnthings.com/2022/05/28/how-to-crochet-circle-granny-squares/",
-  "designer_name": "Kylee Keller",
-  "project_type": "Other",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "kylee keller",
+  "project_type": "other",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "I Love This Yarn! Solids",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Granny"
+    "granny"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     5.5
@@ -29,8 +29,9 @@
   "rating_average": 4.916666666666667,
   "rating_count": 12,
   "difficulty_average": 2.7,
-  "favorites_count": 2838,
+  "favorites_count": 2865,
   "projects_count": 106,
   "free_ravelry_download": false,
-  "download_url": "https://okiegirlblingnthings.com/2022/05/28/how-to-crochet-circle-granny-squares/"
+  "download_url": "https://okiegirlblingnthings.com/2022/05/28/how-to-crochet-circle-granny-squares/",
+  "notes": null
 }

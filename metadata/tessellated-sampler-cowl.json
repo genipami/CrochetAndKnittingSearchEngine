@@ -1,47 +1,52 @@
 {
   "id": 1143221,
-  "name": "Tessellated Sampler Cowl",
+  "name": "tessellated sampler cowl",
   "permalink": "tessellated-sampler-cowl",
   "url": "https://www.ravelry.com/patterns/library/tessellated-sampler-cowl",
   "external_url": "https://payhip.com/b/Xp2N5",
-  "designer_name": "Abbeymade",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "abbeymade",
+  "project_type": "shawl/wrap",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Craggy Tweed",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 85.0
+    },
+    {
+      "fiber": "Manufactured Fibers (Other)",
+      "pct": 15.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Entrelac",
-    "In the round",
-    "Lace",
-    "Modular",
-    "Written"
+    "charted",
+    "entrelac",
+    "in the round",
+    "lace",
+    "modular",
+    "written"
   ],
   "hook_sizes_mm": [
     6.0
   ],
   "needle_sizes_mm": [],
   "published": "2021/05/01",
-  "sizes_available": "Pattern is size adjustable - chose your own cowl width.",
-  "rating_average": 4.896551724137931,
-  "rating_count": 29,
-  "difficulty_average": 3.8846153846153846,
-  "favorites_count": 1421,
-  "projects_count": 85,
+  "sizes_available": "pattern is size adjustable - chose your own cowl width.",
+  "rating_average": 4.9,
+  "rating_count": 30,
+  "difficulty_average": 3.925925925925926,
+  "favorites_count": 1445,
+  "projects_count": 86,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/41112/700121",
+  "notes": "final pattern of the tessellate me pattern series - and this one is free!\r\n\r\nthe tessellated sampler cowl is the perfect introduction to tunisian entrelac crochet. it will introduce a beginner to the basic principles of working entrelac in rows (panels) and in the round. for a bit of fun, every second panel is made using a different stitch combination.\r\n\r\nno specialist tunisian hooks required - a short crochet hook will suit.\r\n\r\nthe pattern has been tested in dk yarn but it will work with any yarn weight and hook size combination. grab some fun yarn and start experimenting!\r\n\r\n#tessellatedsamplercowl #tessellateme #abbeymade\r\n\r\n[youtube tutorial playlist.][1]\r\n\r\n\r\n  [1]: https://youtube.com/playlist?list=pl8gmsgs-tosmmrslnhholbclayzpiede4",
   "pdf": {
     "filename": "1143221.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1143221.pdf",
-    "url": "https://pdf.ravelrycache.com/abbeymade/1541704/Tessellated_Sampler_Cowl.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483550&Signature=9EWuenLHbTaFsmN%2B5yzNjy7%2BcVw%3D&key_expires=1768483550&key=emUHKrAFhy_uGdUalet00Q",
+    "url": "https://pdf.ravelrycache.com/abbeymade/1541704/Tessellated_Sampler_Cowl.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770443820&Signature=BwxY1BBrEFlomg5RabOgy4hHClA%3D&key_expires=1770443820&key=P9ASsQgN_XN6vlJkNYRCug",
     "size_bytes": 3753821
   }
 }

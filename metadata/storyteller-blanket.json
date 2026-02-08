@@ -1,25 +1,21 @@
 {
   "id": 7470497,
-  "name": "Storyteller Blanket",
+  "name": "storyteller blanket",
   "permalink": "storyteller-blanket",
   "url": "https://www.ravelry.com/patterns/library/storyteller-blanket",
   "external_url": "https://attic24.co.uk/posts/2025/10/14/storyteller-blanket/",
-  "designer_name": "Lucy of Attic24",
-  "project_type": "Blanket",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "lucy of attic24",
+  "project_type": "blanket",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Create DK",
-      "pct": null
-    },
-    {
-      "fiber": "Special Double Knit",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [
@@ -27,12 +23,13 @@
   ],
   "needle_sizes_mm": [],
   "published": "2025/10/01",
-  "sizes_available": "Blanket measuring approximately 120cm / 4ft square",
-  "rating_average": 4.875,
-  "rating_count": 16,
-  "difficulty_average": 1.9375,
-  "favorites_count": 461,
-  "projects_count": 67,
+  "sizes_available": "blanket measuring approximately 120cm / 4ft square",
+  "rating_average": 4.9,
+  "rating_count": 20,
+  "difficulty_average": 2.05,
+  "favorites_count": 545,
+  "projects_count": 79,
   "free_ravelry_download": false,
-  "download_url": "https://attic24.co.uk/posts/2025/10/14/storyteller-blanket/"
+  "download_url": "https://attic24.co.uk/posts/2025/10/14/storyteller-blanket/",
+  "notes": "\"the storyteller blanket is a warm and cosy square design inspired by the seasonal stories and detailed illustrations found in a series of children's story books called \"brambly hedge\".\" lucy of attic 24\r\nit can be made in packs of 15 balls of stylecraft special dk or yarnsmiths create dk for the colours shown in the pattern."
 }

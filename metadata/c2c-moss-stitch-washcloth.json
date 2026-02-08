@@ -1,37 +1,38 @@
 {
   "id": 825236,
-  "name": "C2C Moss Stitch Washcloth",
+  "name": "c2c moss stitch washcloth",
   "permalink": "c2c-moss-stitch-washcloth",
   "url": "https://www.ravelry.com/patterns/library/c2c-moss-stitch-washcloth",
   "external_url": "https://www.cookiesnobcrochet.com/home/c2c-moss-stitch-tutorial",
-  "designer_name": "Erin Sharp",
-  "project_type": "Dishcloth",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "erin sharp",
+  "project_type": "dishcloth",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "I Love This Cotton! Print",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Moss/Linen stitch",
-    "Treble crochet (tr)"
+    "moss/linen stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "C2C"
+    "c2c"
   ],
   "hook_sizes_mm": [
     5.0
   ],
   "needle_sizes_mm": [],
   "published": "2018/03/01",
-  "sizes_available": "One size",
-  "rating_average": 4.766666666666667,
-  "rating_count": 90,
-  "difficulty_average": 2.359550561797753,
-  "favorites_count": 5406,
-  "projects_count": 501,
+  "sizes_available": "one size",
+  "rating_average": 4.769230769230769,
+  "rating_count": 91,
+  "difficulty_average": 2.3444444444444446,
+  "favorites_count": 5426,
+  "projects_count": 505,
   "free_ravelry_download": false,
-  "download_url": "https://www.cookiesnobcrochet.com/home/c2c-moss-stitch-tutorial"
+  "download_url": "https://www.cookiesnobcrochet.com/home/c2c-moss-stitch-tutorial",
+  "notes": "the c2c (corner to corner) moss stitch is perfect for a washcloth because it has a nice texture and is fairly solid while still being stretchy (and it has a nice drape).\r\n"
 }

@@ -1,27 +1,27 @@
 {
   "id": 1263093,
-  "name": "Woodside Christmas Blanket",
+  "name": "woodside christmas blanket",
   "permalink": "woodside-christmas-blanket",
   "url": "https://www.ravelry.com/patterns/library/woodside-christmas-blanket",
   "external_url": "",
-  "designer_name": "Jenny Watson",
-  "project_type": "Blanket",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "jenny watson",
+  "project_type": "blanket",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "The Croft Aran",
-      "pct": null
+      "fiber": "Shetland (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch"
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "Charted",
-    "Seamless",
-    "Stranded colorwork",
-    "Written"
+    "charted",
+    "seamless",
+    "stranded colorwork",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -33,14 +33,15 @@
   "rating_average": 4.809523809523809,
   "rating_count": 21,
   "difficulty_average": 4.7272727272727275,
-  "favorites_count": 4992,
+  "favorites_count": 5029,
   "projects_count": 162,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/35486/797255",
+  "notes": "140 x 142cm/55 x 56 inch\r\n\r\nwest yorkshire spinners – the croft aran\r\n182 yards/166m (3.5 oz/100g)\r\na – stanydale (1011) \\[green] 6 balls\r\nb – reawick (1010) \\[red] 4 balls\r\nc – sullom (010) \\[white] 5 balls\r\n\r\none pair of 5mm (uk6/us8) knitting needles\r\none 5mm (uk6/us8) circular knitting needle 100cm long\r\n\r\none pair of 4mm (uk8/us6) knitting needles\r\none 4mm (uk8/us6) circular knitting needle 100cm long\r\n\r\ngauge: 18 sts and 24 rows to 10cm/4in over stocking stitch \r\n",
   "pdf": {
     "filename": "1263093.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1263093.pdf",
-    "url": "https://pdf.ravelrycache.com/WYSPINNERS/1848041/WYS_The_Croft_Aran_Woodside_Fair_Isle_Festive_Blanket_WYS1000155.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484229&Signature=4LA3IX5clZLRSCf9Ke0Zfd4dEc4%3D&key_expires=1768484229&key=LJ2PREu_yE4gAxifgyXOpg",
+    "url": "https://pdf.ravelrycache.com/WYSPINNERS/1848041/WYS_The_Croft_Aran_Woodside_Fair_Isle_Festive_Blanket_WYS1000155.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770447207&Signature=xUQFsDgA9imnX%2F1DUPf38H62hHE%3D&key_expires=1770447207&key=qlpAG6N3ZRGZV7b3JIbnXQ",
     "size_bytes": 3138742
   }
 }

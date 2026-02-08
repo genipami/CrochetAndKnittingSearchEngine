@@ -1,40 +1,45 @@
 {
   "id": 7427260,
-  "name": "Labubu V Neck Cardigan",
+  "name": "labubu v neck cardigan",
   "permalink": "labubu-v-neck-cardigan",
   "url": "https://www.ravelry.com/patterns/library/labubu-v-neck-cardigan",
   "external_url": "",
-  "designer_name": "Sarah E Brown",
-  "project_type": "Toys",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "sarah e brown",
+  "project_type": "toys",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Kroy Socks",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.75
   ],
   "published": "2025/04/01",
-  "sizes_available": "OS",
+  "sizes_available": "os",
   "rating_average": 4.75,
   "rating_count": 8,
   "difficulty_average": 2.5714285714285716,
-  "favorites_count": 447,
-  "projects_count": 33,
+  "favorites_count": 459,
+  "projects_count": 35,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/111363/998016",
+  "notes": "this tiny little cardigan was inspired by taylor swift's folklore cardigan and is the perfect size for pop mart labubu dolls. \r\n\r\ncorrection 8/1/25 :body should have 72 stitches after all increases (pattern says 68)",
   "pdf": {
     "filename": "7427260.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7427260.pdf",
-    "url": "https://pdf.ravelrycache.com/sbrown201/1997197/LabubuCardigan.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481283&Signature=L4e3WSpCPf%2BRPYPYxqd80haDmFU%3D&key_expires=1768481283&key=B4SSROyXn7eKCYMbx4JAlQ",
+    "url": "https://pdf.ravelrycache.com/sbrown201/1997197/LabubuCardigan.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770431216&Signature=%2ByCGauzI%2FryAAVYC32HPmQ6Ura4%3D&key_expires=1770431216&key=McijKv__K7Aj9IaIlMfkug",
     "size_bytes": 40879193
   }
 }

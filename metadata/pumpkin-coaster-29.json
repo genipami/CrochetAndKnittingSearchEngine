@@ -1,25 +1,25 @@
 {
   "id": 7455304,
-  "name": "Pumpkin Coaster",
+  "name": "pumpkin coaster",
   "permalink": "pumpkin-coaster-29",
   "url": "https://www.ravelry.com/patterns/library/pumpkin-coaster-29",
   "external_url": "",
-  "designer_name": "Angeline Ott",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "angeline ott",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Sugar'n Cream The Original (Solids)",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     4.25
@@ -30,14 +30,15 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 446,
+  "favorites_count": 457,
   "projects_count": 15,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/112096/1019454",
+  "notes": "whether you're a beginner or looking for a stash buster, give this pattern a try. you will need worsted cotton yarn, 4mm/g hook, and your trusty scissors and needle for weaving in those ends. if you have any questions feel free to reach out!\r\nthe finished coaster measures about 4 x 3.5 inches.",
   "pdf": {
     "filename": "7455304.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7455304.pdf",
-    "url": "https://pdf.ravelrycache.com/SpoonieHandiworks/2045940/Crochet_Pumpkin_Coaster.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482585&Signature=HDPbxBlfQOLRFHWC3pmcTYYPzgA%3D&key_expires=1768482585&key=czfPQhczi6zSt2_8NgYzIA",
+    "url": "https://pdf.ravelrycache.com/SpoonieHandiworks/2045940/Crochet_Pumpkin_Coaster.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770438117&Signature=u0ahDyCLEVuMIFWJOTBVy8I9TdM%3D&key_expires=1770438117&key=l8hl9c5erjZ32bASjzGjQw",
     "size_bytes": 423184
   }
 }

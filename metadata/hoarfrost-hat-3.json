@@ -1,35 +1,39 @@
 {
   "id": 1103451,
-  "name": "Hoarfrost Hat",
+  "name": "hoarfrost hat",
   "permalink": "hoarfrost-hat-3",
   "url": "https://www.ravelry.com/patterns/library/hoarfrost-hat-3",
   "external_url": "",
-  "designer_name": "Alena Malevitch",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "alena malevitch",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Astro (Mohair Nylon 50/50)",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 50.0
     },
     {
-      "fiber": "Cashwool Fingering",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 25.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "cable",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Bottom-up",
-    "Cables",
-    "Charted",
-    "In the round",
-    "Seamless"
+    "blocking",
+    "bottom-up",
+    "cables",
+    "charted",
+    "in the round",
+    "seamless"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -37,12 +41,13 @@
     3.5
   ],
   "published": "2021/01/01",
-  "sizes_available": "One size 56-58",
-  "rating_average": 4.805825242718447,
-  "rating_count": 103,
-  "difficulty_average": 3.5591397849462365,
-  "favorites_count": 9980,
-  "projects_count": 429,
+  "sizes_available": "one size 56-58",
+  "rating_average": 4.8076923076923075,
+  "rating_count": 104,
+  "difficulty_average": 3.595744680851064,
+  "favorites_count": 10027,
+  "projects_count": 434,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/62311/668070"
+  "download_url": "http://www.ravelry.com/dls/62311/668070",
+  "notes": "the **hoarfrost hat** is worked in the round from the bottom to the top.\r\n**size** 56-58 \r\n**yarn:** zegna baruffa cashwool (1500 m/100 g; merino 100% with 4 strands of yarn held together) 55-65 g and igea astro 50 (1000 m/100 g; mohair 50%, polyamide 50%) 20-25 g.\r\n**needles:** circular needles 3.0 and 3.5 mm. adjust needle size if necessary to obtain the correct gauge.\r\nnotions: marker; cable needle, tapestry needle.\r\n**gauge:** 26 sts and 35 rows over 10 cm in stockinette stitch worked in the round with 3.5 mm needles after wet blocking. \r\n**charts:** charts show all rows/rounds. read charts from bottom to top and work rounds from right to left.\r\n"
 }

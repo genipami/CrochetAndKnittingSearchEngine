@@ -1,29 +1,25 @@
 {
   "id": 956849,
-  "name": "Flower Face Scrubby",
+  "name": "flower face scrubby",
   "permalink": "flower-face-scrubby",
   "url": "https://www.ravelry.com/patterns/library/flower-face-scrubby",
   "external_url": "https://craftsbysarahliz.blogspot.com/2019/08/flower-face-scrubby-free-crochet-pattern.html",
-  "designer_name": "Sarah Gross",
-  "project_type": "Dishcloth",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "sarah gross",
+  "project_type": "dishcloth",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "I Love This Cotton!",
-      "pct": null
-    },
-    {
-      "fiber": "Sugar'n Cream The Original (Solids)",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round"
+    "in the round"
   ],
   "hook_sizes_mm": [
     4.0
@@ -34,14 +30,15 @@
   "rating_average": 4.954545454545454,
   "rating_count": 44,
   "difficulty_average": 1.9333333333333333,
-  "favorites_count": 2749,
-  "projects_count": 156,
+  "favorites_count": 2782,
+  "projects_count": 155,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/51043/552465",
+  "notes": "materials: \r\ng hook (4mm) \r\nworsted weight cotton yarn #4 \r\nscissors \r\nneedle for weaving in ends \r\ngauge: \r\nscrubby measures approximately 3 1/4 inches. \r\ni tend to crochet tightly, so check your gauge and adjust hook size accordingly.\r\npermissions \r\nyou are free to sell what you make from this pattern. i would appreciate links back to my blog, ravelry, or etsy shop to credit me as the designer. \r\nyou may not use my photos. \r\nyou may not sell this pattern, distribute it, or claim it as your own. \r\n© 2019 sarah gross - crafts by sarah liz",
   "pdf": {
     "filename": "956849.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\956849.pdf",
-    "url": "https://pdf.ravelrycache.com/sarahgross/1014278/Flower_Face_Scrubby.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480446&Signature=S9hjp4OXM%2F7NcOE4m%2FMze6XIiuk%3D&key_expires=1768480446&key=aMdvZWYZL8tRZ-w7oCUhjA",
+    "url": "https://pdf.ravelrycache.com/sarahgross/1014278/Flower_Face_Scrubby.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770426403&Signature=MWfnTESxgf5nGkUtgOwymgJ9G4c%3D&key_expires=1770426403&key=uN70apxPh0mTu-K_PMcFEQ",
     "size_bytes": 230939
   }
 }

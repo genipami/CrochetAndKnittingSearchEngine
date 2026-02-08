@@ -1,27 +1,27 @@
 {
   "id": 1360269,
-  "name": "Granny Square Triangle Bandana/Headscarf",
+  "name": "granny square triangle bandana/headscarf",
   "permalink": "granny-square-triangle-bandana-headscarf",
   "url": "https://www.ravelry.com/patterns/library/granny-square-triangle-bandana-headscarf",
   "external_url": "https://vivcrochets.com/crochet-granny-triangle-bandana/",
-  "designer_name": "Viv Crochets",
-  "project_type": "Hat",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "viv crochets",
+  "project_type": "hat",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "24/7 Cotton",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Granny",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "granny",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamless",
-    "Written"
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [
     4.0
@@ -31,9 +31,10 @@
   "sizes_available": "",
   "rating_average": 4.833333333333333,
   "rating_count": 18,
-  "difficulty_average": 2.0,
-  "favorites_count": 735,
-  "projects_count": 74,
+  "difficulty_average": 2.111111111111111,
+  "favorites_count": 763,
+  "projects_count": 76,
   "free_ravelry_download": false,
-  "download_url": "http://www.ravelry.com/purchase/vivcrochets/967644"
+  "download_url": "http://www.ravelry.com/purchase/vivcrochets/967644",
+  "notes": "this is a super quick and simple, summer crochet project. this crochet granny square bandana uses only one skein of yarn and a couple of hours of crocheting. it’s great for beginners as well as more advanced crocheters."
 }

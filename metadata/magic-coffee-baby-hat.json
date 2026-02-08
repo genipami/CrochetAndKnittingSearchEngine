@@ -4,30 +4,26 @@
   "permalink": "magic-coffee-baby-hat",
   "url": "https://www.ravelry.com/patterns/library/magic-coffee-baby-hat",
   "external_url": "",
-  "designer_name": "Tracey Kay",
-  "project_type": "Baby",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "tracey kay",
+  "project_type": "baby",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Aurora 8",
-      "pct": null
-    },
-    {
-      "fiber": "Worsted Merino Superwash Solids",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Ribbing",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "ribbing",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -38,14 +34,15 @@
   "rating_average": 4.701402805611222,
   "rating_count": 499,
   "difficulty_average": 1.625,
-  "favorites_count": 6852,
-  "projects_count": 2322,
+  "favorites_count": 6874,
+  "projects_count": 2326,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/1959/74954",
+  "notes": "when two women in our sunday sock knitting group got pregnant at the same time, we naturally suspected the “magic” coffee at the café where we meet. many knitters immediately switched from coffee to tea. \r\n\r\nhere is the pattern for the stripey hats that i made for the magic coffee babies. this easy pattern comes in four sizes for newborns and babies up to 3 years old. special features include twisted ribbing and an i-cord loop on top. \r\n\r\ni hope you enjoy my pattern. thanks to everyone who posts cute baby photos in their projects. i love seeing them. and thanks for your ratings too. stars make me very happy!",
   "pdf": {
     "filename": "264114.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\264114.pdf",
-    "url": "https://pdf.ravelrycache.com/teekay/114894/magiccoffeebabyhat_august2011.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481626&Signature=QaaBVV6iXDWvhD8muaQGKMGGRcA%3D&key_expires=1768481626&key=PmFwh7y2wpeqIDC45is91A",
+    "url": "https://pdf.ravelrycache.com/teekay/114894/magiccoffeebabyhat_august2011.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770432946&Signature=%2BZw9I3aWqyLHseOytaZAM8JBZMw%3D&key_expires=1770432946&key=f2UjdcJyb1EJ2jVTx0yhXw",
     "size_bytes": 655522
   }
 }

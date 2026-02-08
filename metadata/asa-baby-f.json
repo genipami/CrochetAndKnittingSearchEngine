@@ -1,27 +1,27 @@
 {
   "id": 1231891,
-  "name": "ASA Baby F",
+  "name": "asa baby f",
   "permalink": "asa-baby-f",
   "url": "https://www.ravelry.com/patterns/library/asa-baby-f",
   "external_url": "",
-  "designer_name": "Becky Simmons",
-  "project_type": "Blanket",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "becky simmons",
+  "project_type": "blanket",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Simply Soft",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Granny",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "granny",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Modular",
-    "Written"
+    "modular",
+    "written"
   ],
   "hook_sizes_mm": [
     5.5
@@ -32,8 +32,9 @@
   "rating_average": 4.8,
   "rating_count": 15,
   "difficulty_average": 2.6875,
-  "favorites_count": 1640,
+  "favorites_count": 1650,
   "projects_count": 139,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/12650/770996"
+  "download_url": "http://www.ravelry.com/dls/12650/770996",
+  "notes": "this is a free pattern that is part of my all squared away series of blanket patterns. additional design credit to maria saba.\r\n\r\nthis pattern was tested for colour blind accessibility by https://www.color-blindness.com/coblis-color-blindness-simulator/  it will also still make sense when printed in the black/white setting on your printer.\r\n\r\n\r\nwe highly recommend making a swatch with the yarn and hook you'd like to use. your finished blanket will measure approximately 6.5 times bigger than an 8-round granny square (alas, there are no 8-round squares in the design - don't cut the yarn if you'd like to use this swatch in the blanket; you can add or subtract rounds as desired.)\r\n\r\nthis pattern uses the continuous joining method described in this tutorial: https://www.ravelry.com/discuss/fantasticmio/4069169/1-25\r\nor this video tutorial: https://youtu.be/lo40rxgsxpm\r\n\r\n\r\nthis was an mcal - check out the thread [here][1]\r\n\r\n\r\n  [1]: https://www.ravelry.com/discuss/fantasticmio/4192469/1-25"
 }

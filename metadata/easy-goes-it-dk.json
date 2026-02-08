@@ -1,51 +1,52 @@
 {
   "id": 1004942,
-  "name": "Easy Goes It DK",
+  "name": "easy goes it dk",
   "permalink": "easy-goes-it-dk",
   "url": "https://www.ravelry.com/patterns/library/easy-goes-it-dk",
   "external_url": "https://finickycreations.com/all-products?olsPage=products%2Feasy-goes-it-dk",
-  "designer_name": "Finicky Creations",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "finicky creations",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Mermaid Mischief DK",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 87.5
     },
     {
-      "fiber": "Softy Merino DK",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 12.5
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Lace",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "lace",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Lace",
-    "Seamless",
-    "Written"
+    "blocking",
+    "lace",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     5.0
   ],
   "published": "2020/02/01",
-  "sizes_available": "S and L",
+  "sizes_available": "s and l",
   "rating_average": 4.764705882352941,
   "rating_count": 187,
   "difficulty_average": 1.9887005649717515,
-  "favorites_count": 6227,
-  "projects_count": 605,
+  "favorites_count": 6254,
+  "projects_count": 608,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/64159/588851",
+  "notes": "the original “easy goes it” in fingering weight was my first published pattern in 2017!  i am so grateful that so many people have enjoyed the pattern!  lately, i’ve received a few requests to make the necessary modifications for it to be made in dk for all the dk lovers out there.  well, i do want everyone happy, so here it is!\r\n\r\nthis one is written for 2 different sizes, based on 100 grams and 200 grams.  just wet/wash, lay flat and shape to dry.  keep in mind though that these measurements are just laying them flat to dry with no stretching.  you could stretch them out considerably by pin blocking if you wanted them larger.  so with that, approximate sizes are:\r\nsmall - 56” x 10”\r\nlarge - 86” x 15”\r\n\r\njust like the original, it’s pretty easy to customize.  a fairly simple pattern with a slipped stitch edge.  sections broken up just enough to keep it from being too boring, but still good tv knitting.  i’ve made the small sample with the lace edge and the large sample with a garter edge so you can see the difference.\r\n\r\noriginal pattern in fingering weight can be found here:  https://bit.ly/38ivz6l\r\n\r\nyarn in samples:\r\nag2n dyed yarns\r\na whimsical wood yarn co.\r\n\r\nwritten pattern only.\r\n\r\nstitches needed:\r\nknit\r\nk2 together\r\npurl\r\nslip\r\nyarn over\r\n\r\n\r\nlike my page and follow me on facebook to find out about sales and new patterns at https://www.facebook.com/finickycreations\r\n\r\nif you have any questions, feel free to contact me through ravelry.  if you find any mistakes, or anything that seems unclear, please let me know so i can get them corrected asap.  thank you!\r\n",
   "pdf": {
     "filename": "1004942.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1004942.pdf",
-    "url": "https://pdf.ravelrycache.com/FinickyCreations/1363975/Easy_Goes_It_DK.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479995&Signature=kF3A9aj0H%2FvGE7OowiQWqyURRx0%3D&key_expires=1768479995&key=zu2ctvEYmT542EUd6kseoA",
+    "url": "https://pdf.ravelrycache.com/FinickyCreations/1363975/Easy_Goes_It_DK.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770424489&Signature=rscxQLkFSRmeYmbInXKla2KNYp4%3D&key_expires=1770424489&key=9MZyuHKqe8vjEb610dgtXQ",
     "size_bytes": 3126008
   }
 }

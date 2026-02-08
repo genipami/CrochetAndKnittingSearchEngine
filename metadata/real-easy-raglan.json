@@ -1,33 +1,33 @@
 {
   "id": 1164938,
-  "name": "Real Easy Raglan",
+  "name": "real easy raglan",
   "permalink": "real-easy-raglan",
   "url": "https://www.ravelry.com/patterns/library/real-easy-raglan",
   "external_url": "",
-  "designer_name": "Emily Bolduan",
-  "project_type": "Pullover",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "emily bolduan",
+  "project_type": "pullover",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Woolly 8ply",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "lace",
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Lace",
-    "Raglan",
-    "Seamless",
-    "Short rows",
-    "Top-down",
-    "Written"
+    "in the round",
+    "lace",
+    "raglan",
+    "seamless",
+    "short rows",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -35,18 +35,19 @@
     4.0
   ],
   "published": "2021/08/01",
-  "sizes_available": "XS (S, SM, M, L, 1X, 2X)",
-  "rating_average": 4.839024390243902,
-  "rating_count": 205,
-  "difficulty_average": 2.282051282051282,
-  "favorites_count": 11361,
-  "projects_count": 850,
+  "sizes_available": "xs (s, sm, m, l, 1x, 2x)",
+  "rating_average": 4.8428571428571425,
+  "rating_count": 210,
+  "difficulty_average": 2.291457286432161,
+  "favorites_count": 11644,
+  "projects_count": 869,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/63586/716911",
+  "notes": "> this pattern has been updated as of august 8th, 2025. the update includes: a correction for size xxl raglan stitch counts, updated sleeve measurements for size xxl, and clearer wording for the underarm pickup section at beginning of sleeves. enjoy!\r\n\r\nthis raglan sweater is designed to be really easy, hence the name, and would be a great project for first-time garment knitters. with it’s relaxed and comfortable fit you will find yourself reaching for this sweater often, and it’s simplicity makes it a fantastic wardrobe staple.\r\n\r\nthe pattern includes detailed instructions with some handy extra tips for newbies. starting at the neck, the sweater is knit top-down on circular needles, which is a great method to check the fit as you go, and is very easy to add or subtract length. there are also optional short-rows to shape the neck, but if you want to keep things super simple just leave them on out! \r\n\r\ni hope you enjoy knitting your own real easy raglan!\r\n\r\n\r\n\r\nmaterials & sizing\r\n\r\n**sizes:** xs (s, sm, m, l, xl, xxl)\r\n\r\n**to fit bust:** 74 (80, 86, 94, 103, 110, 118) cm / 29 (31.5, 34, 37, 40, 43, 46) inches\r\n\r\n**finished bust:** 88 (94, 101, 109, 116, 123, 128) cm / 34.5 (37, 40, 43, 46, 48, 50) inches. \r\ndesigned to fit with between 6-15cm / 2-6” of positive ease depending on preferred fit. pictured here in size sm worn with about 8cm positive ease.\r\n\r\n**yarn:** any 8ply / dk weight yarn. \r\nwe used woolly 8ply (104m/50g), but a mix of 4ply yarn held with lace weight mohair would be divine, too! remember to adjust yardage requirements if you use this option. you will need twice as many meters/yards.\r\n\r\n**quantity:** approximately 748 (857, 972, 1103, 1242, 1368, 1501) metres\r\n\r\n**needle:** 3.50mm 40cm and 80-100cm, 4mm 80-100cm circular needles, plus same sizes in preferred needles for small circumference knitting (magic loop, dpn’s, etc). \r\nadjust needle size as necessary to match pattern gauge.\r\n\r\n**gauge:** 20sts x 27rows to 10cm in stocking stitch on larger needles\r\n\r\n**extras:** 5 stitch markers (1 different one for beginning of round, 4 for increasing), scrap yarn for holding stitches, darning needle\r\n",
   "pdf": {
     "filename": "1164938.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1164938.pdf",
-    "url": "https://pdf.ravelrycache.com/hellomakermaker/2040917/Maker_Maker_Real_Easy_Raglan_V1.2_-_2025.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482665&Signature=hqe7X4BDogAjK%2F4NFZlYvX5KdJw%3D&key_expires=1768482665&key=F96BYGkVfqRxfYHovh7_tw",
+    "url": "https://pdf.ravelrycache.com/hellomakermaker/2040917/Maker_Maker_Real_Easy_Raglan_V1.2_-_2025.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770438626&Signature=mZDfl3MTWu4YdNCOnOoTAmFaL5M%3D&key_expires=1770438626&key=V3H77sFD5Tbn24M_4p0dsQ",
     "size_bytes": 1439878
   }
 }

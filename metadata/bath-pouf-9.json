@@ -1,40 +1,41 @@
 {
   "id": 922108,
-  "name": "Bath Pouf",
+  "name": "bath pouf",
   "permalink": "bath-pouf-9",
   "url": "https://www.ravelry.com/patterns/library/bath-pouf-9",
   "external_url": "https://www.yarnspirations.com/lily-sugarn-cream-crochet-bath-pouf/SCC0501-013825M.html?utm_source=ravelry&utm_medium=referral&utm_campaign=2019_04_Refresh_LilySugarNCreamScrubOff&utm_content=LilySugarNCreamCrochetBathPouf",
-  "designer_name": "Yarnspirations Design Studio",
-  "project_type": "Dishcloth",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "yarnspirations design studio",
+  "project_type": "dishcloth",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Sugar'n Cream Scrub Off",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless",
-    "Written"
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [
     5.0
   ],
   "needle_sizes_mm": [],
   "published": "2019/04/01",
-  "sizes_available": "Approx 6\" [15 cm] diameter",
+  "sizes_available": "approx 6\" [15 cm] diameter",
   "rating_average": 4.852941176470588,
   "rating_count": 34,
   "difficulty_average": 1.9705882352941178,
-  "favorites_count": 1635,
-  "projects_count": 151,
+  "favorites_count": 1642,
+  "projects_count": 153,
   "free_ravelry_download": false,
-  "download_url": "https://www.yarnspirations.com/on/demandware.static/-/Sites-master-catalog-spinrite/default/dw3217b2e2/PDF/SCC0501-013825M.pdf"
+  "download_url": "https://www.yarnspirations.com/on/demandware.static/-/Sites-master-catalog-spinrite/default/dw3217b2e2/PDF/SCC0501-013825M.pdf",
+  "notes": "introduce a new bath pouf to your home spa experience by stitching rounds of double crochet that ripple-up on themselves to complete your piece. create this unique accessory in any shade of lily sugar’n cream scrub off with its alternating sections of exfoliating texture. it's a fun project to work on, and a great item for a spa-themed gift basket."
 }

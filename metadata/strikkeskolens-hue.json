@@ -4,26 +4,30 @@
   "permalink": "strikkeskolens-hue",
   "url": "https://www.ravelry.com/patterns/library/strikkeskolens-hue",
   "external_url": "https://fiftyfabulous.dk/strikkeskolens-hue/",
-  "designer_name": "Pia Trans",
-  "project_type": "Child",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Sport",
+  "designer_name": "pia trans",
+  "project_type": "child",
+  "fiber_art": "knitting",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "DROPS Baby Merino",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 50.0
     },
     {
-      "fiber": "DROPS Kid-Silk",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 37.5
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 12.5
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round"
+    "in the round"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -34,8 +38,9 @@
   "rating_average": 4.863636363636363,
   "rating_count": 22,
   "difficulty_average": 2.4545454545454546,
-  "favorites_count": 2292,
-  "projects_count": 133,
+  "favorites_count": 2339,
+  "projects_count": 135,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/71075/678445"
+  "download_url": "http://www.ravelry.com/dls/71075/678445",
+  "notes": "\r\nstrikkeskolens hue is a very simple hat, worked as a long tube in stockinette stitch with decreases for the crown.\r\n\r\nthe hat is folded after knitting to give three layers of fabric covering the ears, and only a single layer on the head. i have made a video tutorial showing how to fold it.\r\n\r\n\r\nen fin, helt enkel hue, som er nem at strikke. jeg har lavet en video, som tydeligt viser monteringen af huen - ombukket sys på en særlig måde, for at opnå den rette tykkelse."
 }

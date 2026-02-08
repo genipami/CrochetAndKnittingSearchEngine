@@ -1,26 +1,30 @@
 {
   "id": 7390317,
-  "name": "Ball-ble",
+  "name": "ball-ble",
   "permalink": "ball-ble",
   "url": "https://www.ravelry.com/patterns/library/ball-ble",
   "external_url": "",
-  "designer_name": "Lily Kate France",
-  "project_type": "Home",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "lily kate france",
+  "project_type": "home",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Sock 4 ply",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Seamless",
-    "Written"
+    "charted",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -31,14 +35,15 @@
   "rating_average": 4.909090909090909,
   "rating_count": 11,
   "difficulty_average": 2.8,
-  "favorites_count": 2746,
-  "projects_count": 69,
+  "favorites_count": 2770,
+  "projects_count": 70,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/6742/969224",
+  "notes": "why not use yarn to knit more yarn? ball-ble is a little bit silly but very cute and fun. twisted rib and travelling stitches create a yarn-like texture on the tiniest ball of yarn you ever did see.\r\n\r\n**yarn:** oddments of fingering / 4ply weight yarn.\r\n\r\n**gauge:** n/a\r\n\r\n**needles & notions:**\r\n2.5mm dpns (note: you could also use a long circular needle for magic loop, but since the pattern is worked in 3 sections, it lends itself to dpns)\r\nstitch markers\r\ntapestry needle\r\ncard for ‘ballband’\r\nstuffing\r\n\r\n\r\n**sizing:** finished bauble measures approx 3.25 “ / 8 cm tall.\r\n\r\n@lilykatemakes | #ball-ble\r\n\r\n",
   "pdf": {
     "filename": "7390317.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7390317.pdf",
-    "url": "https://pdf.ravelrycache.com/lilykate/1927392/Ball-ble_Knitting_Pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478933&Signature=ykj7M0JGIf7iJ2ckv8YJ9D75kPs%3D&key_expires=1768478933&key=VerY6YuTgl1K5mo0Mb8gGQ",
+    "url": "https://pdf.ravelrycache.com/lilykate/1927392/Ball-ble_Knitting_Pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770418143&Signature=l0zHY1Hwfl0edAP4Xx%2F4KBYlpTI%3D&key_expires=1770418143&key=BOBvUTBeAuIz634EIxQxFw",
     "size_bytes": 1483893
   }
 }

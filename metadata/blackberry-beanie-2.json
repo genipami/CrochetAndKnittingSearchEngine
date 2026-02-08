@@ -1,40 +1,49 @@
 {
   "id": 1086290,
-  "name": "Blackberry Beanie",
+  "name": "blackberry beanie",
   "permalink": "blackberry-beanie-2",
   "url": "https://www.ravelry.com/patterns/library/blackberry-beanie-2",
   "external_url": "https://burgundyandblush.co.uk/one-skein-crochet-beanie-pattern/",
-  "designer_name": "Burgundy and Blush",
-  "project_type": "Child",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Bulky",
+  "designer_name": "burgundy and blush",
+  "project_type": "child",
+  "fiber_art": "crochet",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Chunky Tweed",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 72.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 25.0
+    },
+    {
+      "fiber": "Rayon / Viscose (Rayon)",
+      "pct": 3.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     8.0
   ],
   "needle_sizes_mm": [],
   "published": null,
-  "sizes_available": "Newborn - Large Adult",
+  "sizes_available": "newborn - large adult",
   "rating_average": 4.636363636363637,
   "rating_count": 11,
   "difficulty_average": 2.2,
-  "favorites_count": 1611,
-  "projects_count": 77,
+  "favorites_count": 1639,
+  "projects_count": 78,
   "free_ravelry_download": false,
-  "download_url": "http://www.ravelry.com/purchase/burgundy-and-blush-designs/654450"
+  "download_url": "http://www.ravelry.com/purchase/burgundy-and-blush-designs/654450",
+  "notes": "worked bottom up and in the round in sizes newborn to adult l. using simple stitches in different ways to give lots of cozy texture! a one skein, one hour beanie pattern!\r\n\r\nyou'll need:\r\n<160 yards or 100g of chunky weight yarn (1 skein)\r\n8mm hook\r\nscissors and needle for finishing\r\n\r\nconcentration level 1/3:\r\nsimple stitches centered on single and double crochet, quick to work, with decrease stitches throughout. "
 }

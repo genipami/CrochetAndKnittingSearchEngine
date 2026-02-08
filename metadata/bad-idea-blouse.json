@@ -1,55 +1,64 @@
 {
   "id": 1362448,
-  "name": "Bad Idea Blouse",
+  "name": "bad idea blouse",
   "permalink": "bad-idea-blouse",
   "url": "https://www.ravelry.com/patterns/library/bad-idea-blouse",
   "external_url": "",
-  "designer_name": "Lacey Williamson",
-  "project_type": "Pullover",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "lacey williamson",
+  "project_type": "pullover",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "American Targhee Sock",
-      "pct": null
+      "fiber": "Targhee (Wool)",
+      "pct": 30.0
     },
     {
-      "fiber": "Mohair",
-      "pct": null
+      "fiber": "Alpaca - Suri (Alpaca)",
+      "pct": 24.7
     },
     {
-      "fiber": "Suri Alpaca Lace",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 24.0
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 18.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 3.3
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless",
-    "Short rows",
-    "Top-down",
-    "Written"
+    "in the round",
+    "seamless",
+    "short rows",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     6.0
   ],
   "published": "2023/09/01",
-  "sizes_available": "Bust Size (inches) 28 (32, 36, 40) 44 [48, 52, 56] 60 (64, 68)",
+  "sizes_available": "bust size (inches) 28 (32, 36, 40) 44 [48, 52, 56] 60 (64, 68)",
   "rating_average": 4.4375,
   "rating_count": 16,
   "difficulty_average": 2.0,
-  "favorites_count": 4160,
-  "projects_count": 105,
+  "favorites_count": 4342,
+  "projects_count": 110,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/90473/876643",
+  "notes": "**errata**\r\nds is not listed in the abbreviations. ds stands for double stitch for the german short row method.\r\n\r\nyarn\r\nthe gram and yardage estimates are based on the on the single strand of mohair version with short sleeves (pink) and the double strand of suri with long sleeves (white). if you lengthen the body or sleeves you may need more yarn than what is listed. \r\n\r\n**short sleeve version made with one strand of mohair (pink)**\r\n\r\n* estimated yardage required: 309 (349, 385, 421) 457 [495, 534, 573] 613 (652, 691) \r\n* finished garment measurements (inches): 33 (37, 41, 45) 49 [53, 57, 61] 65 (69, 73)\r\n\r\n**long sleeve version made with 2 strands of suri held together (white)**\r\n\r\n* estimated yardage required: 1,040 (1,179, 1,288, 1,392) 1,496 [1,634, 1,767, 1,906] 2,039 (2,207, 2,340)\r\n* finished garment measurements (inches): 37 (42, 47, 51) 55 [60, 64, 69] 73 (78, 82)\r\n\r\ni’ve made this pattern multiple times playing around with the yarn used each time. the first was with a single strand of mohair, then suri held double, and even a single strand a fingering. \r\n",
   "pdf": {
     "filename": "1362448.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1362448.pdf",
-    "url": "https://pdf.ravelrycache.com/laceyw/1719576/bad_idea_blouse_21Sept2023.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478928&Signature=ON5TEsOChfVIAwuysYgrHeL9Pr4%3D&key_expires=1768478928&key=ZiEEuXH9fTOjTy2anU_48g",
+    "url": "https://pdf.ravelrycache.com/laceyw/1719576/bad_idea_blouse_21Sept2023.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770418107&Signature=eZ%2BI1QnwEbC9ejys%2F3Ish2ZsFyw%3D&key_expires=1770418107&key=8R_H-u3F9IeWCxON88Odnw",
     "size_bytes": 1025545
   }
 }

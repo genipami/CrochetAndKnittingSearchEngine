@@ -1,41 +1,42 @@
 {
   "id": 1069602,
-  "name": "No internet Cowl",
+  "name": "no internet cowl",
   "permalink": "no-internet-cowl",
   "url": "https://www.ravelry.com/patterns/library/no-internet-cowl",
   "external_url": "",
-  "designer_name": "Laurence Vagner",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "laurence vagner",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Rios",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Charted",
-    "In the round",
-    "Seamless",
-    "Stranded colorwork",
-    "Written"
+    "bottom-up",
+    "charted",
+    "in the round",
+    "seamless",
+    "stranded colorwork",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     4.0
   ],
   "published": "2020/09/01",
-  "sizes_available": "Adult",
+  "sizes_available": "adult",
   "rating_average": 4.771929824561403,
   "rating_count": 57,
-  "difficulty_average": 2.709090909090909,
-  "favorites_count": 6211,
-  "projects_count": 299,
+  "difficulty_average": 2.690909090909091,
+  "favorites_count": 6256,
+  "projects_count": 305,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/40727/640341"
+  "download_url": "http://www.ravelry.com/dls/40727/640341",
+  "notes": "> **warning, there is an error in the pattern us size for the needles is us 6, not us 7 !**\r\n\r\n> you can share photos of your cowl on social medias with #nointernetcowl (as soon as you get your internet connexion back, of course !)\r\n\r\n\r\n**worsted yarn (ex: malabrigo rios)**\r\n- 100gr / 192 m (210 yds) paris night (background color) \r\n- 50gr / 96 m (105 yds) lettuce (foreground color)\r\n\r\n**6 us** / 4 mm needles with 60cm (24”) circular for knitting in the round\r\n4 stitch markers: 1 for beginning of round and 3 for motif markers\r\n\r\n\r\n\r\nthis pattern is inspired by the little game on chrome browser when there’s no internet :)\r\n"
 }

@@ -1,39 +1,48 @@
 {
   "id": 7476769,
-  "name": "Wannabe Schal",
+  "name": "wannabe schal",
   "permalink": "wannabe-schal",
   "url": "https://www.ravelry.com/patterns/library/wannabe-schal",
   "external_url": "https://www.tanjasteinbach.de/07-11-2025-kaffee-oder-tee-schals-stricken/",
-  "designer_name": "Tanja Steinbach",
-  "project_type": "Other",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "tanja steinbach",
+  "project_type": "other",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Alta Moda Cashmere 16",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 78.0
+    },
+    {
+      "fiber": "Cashmere goat (Cashmere)",
+      "pct": 12.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Top-down",
-    "Written"
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     7.0
   ],
   "published": "2025/11/01",
-  "sizes_available": "One Size, zwei Varianten in der Länge der Schalenden",
+  "sizes_available": "one size, zwei varianten in der länge der schalenden",
   "rating_average": 3.6666666666666665,
   "rating_count": 3,
   "difficulty_average": 2.3333333333333335,
-  "favorites_count": 277,
-  "projects_count": 12,
+  "favorites_count": 284,
+  "projects_count": 11,
   "free_ravelry_download": false,
-  "download_url": "https://www.tanjasteinbach.de/07-11-2025-kaffee-oder-tee-schals-stricken/"
+  "download_url": "https://www.tanjasteinbach.de/07-11-2025-kaffee-oder-tee-schals-stricken/",
+  "notes": "kaffee oder tee sendung vom 07.11.2025\r\n\r\ndas modell wird oben mit einer doppelten schlauchblende begonnen, so kann nach bedarf auch noch ein band eingezogen werden um die weite zu regulieren. \r\n\r\nes wird dann offen in reihen nach unten gestrickt. die kraus rechts gestrickte blende kann wahlweise mit druckknöpfen oder variabel mit einer schmucknadel geschlossen werden.\r\n\r\ndas modell ist in zwei materialvarianten beschrieben. \r\n\r\nmaterial 1\r\n150g  lana grossa alta moda cashmere 16,  #54 pastellblau\r\nmaterial 2\r\n150 g lana grossa lucciola\r\n\r\n80-100 cm lange rundstricknadel in stärke nr. 7 / 5 mm\r\nfür die doppelte blende eine 80-100 cm lange rundstricknadel, eine stärke / ½ stärke kleiner,  = nr. 6 / 4,5 mm\r\n4-5 druckknöpfe zum annähen + passendes nähgarn oder eine schmucknadel\r\nschere, wollsticknadel zum vernähen, maßband. \r\nwahlweise 90 cm band oder kordel für das schlauchbündchen "
 }

@@ -1,33 +1,33 @@
 {
   "id": 223581,
-  "name": "Horai Scarf",
+  "name": "horai scarf",
   "permalink": "horai-scarf",
   "url": "https://www.ravelry.com/patterns/library/horai-scarf",
   "external_url": "",
-  "designer_name": "Hiroko Fukatsu",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Lace",
+  "designer_name": "hiroko fukatsu",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "lace",
   "materials": [
     {
-      "fiber": "Excellent Mohair Count 10 Gradation (エクセレントモヘア カウント10 グラデーション)",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 68.7
     },
     {
-      "fiber": "Kidsilk Haze",
-      "pct": null
+      "fiber": "Silk (Silk)",
+      "pct": 23.3
     },
     {
-      "fiber": "Seika 12",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 8.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)"
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "Lace",
-    "Written"
+    "lace",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -38,14 +38,15 @@
   "rating_average": 4.706030150753769,
   "rating_count": 398,
   "difficulty_average": 2.5892018779342725,
-  "favorites_count": 22029,
-  "projects_count": 1441,
+  "favorites_count": 22208,
+  "projects_count": 1449,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/14918/55710",
+  "notes": "please note: feel free to contact me if you find big mistakes, but i don’t offer any support for this free pattern. thank you.",
   "pdf": {
     "filename": "223581.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\223581.pdf",
-    "url": "https://pdf.ravelrycache.com/roko/202648/Horai_2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480946&Signature=DxnEKrz%2Bu8Yl187u5Y3%2BdZJl1SY%3D&key_expires=1768480946&key=MR3Ug2boNfIdjIyIwOeyLw",
+    "url": "https://pdf.ravelrycache.com/roko/202648/Horai_2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770429464&Signature=XkLQhpJfAfpTaMAKebdsml1ji5M%3D&key_expires=1770429464&key=lLY_5_7uUZ5VVq7thgUM3g",
     "size_bytes": 245655
   }
 }

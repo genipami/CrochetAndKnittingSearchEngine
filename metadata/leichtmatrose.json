@@ -1,31 +1,35 @@
 {
   "id": 7491318,
-  "name": "Leichtmatrose",
+  "name": "leichtmatrose",
   "permalink": "leichtmatrose",
   "url": "https://www.ravelry.com/patterns/library/leichtmatrose",
   "external_url": "",
-  "designer_name": "Anke Telschow",
-  "project_type": "Pullover",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Sport",
+  "designer_name": "anke telschow",
+  "project_type": "pullover",
+  "fiber_art": "knitting",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Poppenbüttel",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Ribbing",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "ribbing",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "In the round",
-    "Raglan",
-    "Seamless",
-    "Short rows",
-    "Top-down"
+    "blocking",
+    "in the round",
+    "raglan",
+    "seamless",
+    "short rows",
+    "top-down"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -33,12 +37,13 @@
     3.5
   ],
   "published": "2026/01/01",
-  "sizes_available": "S, M, L, XL, XXL (bust circumference between 92 and 123 cm)",
+  "sizes_available": "s, m, l, xl, xxl (bust circumference between 92 and 123 cm)",
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 1269,
-  "projects_count": 14,
+  "favorites_count": 1353,
+  "projects_count": 16,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/3250/1047566"
+  "download_url": "http://www.ravelry.com/dls/3250/1047566",
+  "notes": "this is **sweater for beginners** (or advanced knitters who are looking for a relaxing tv knit) and will be **free** forever (or as long as ravelry exists).\r\n\r\n“leichtmatrose“ is an untrained sailor in german.\r\nthe sweater ist worked down, basically with raglan increases, but with a little twist to shape a rounded front neck:\r\non the front side, the raglan increases are worked less often, and every 16 rounds, they are complemented by a set of radial yoke increases.\r\n*(i call this method „sirayo“, which stands for “simple raglan with yoke (increases)“.)* \r\n\r\n**difficulty level:** * out of *****\r\nneeded skills\r\n•\tknit stitches, purl stitches (not too many of them)\r\n•\tincreases in 2 directions: left-leaning (m1l) and right-leaning (m1r).\r\n•\tdecreases in 2 directions: right-leaning (k2tog ) and left-leaning (ssk).\r\nno short rows, no picking up stitches from edges (except a few underarm stitches), and absolutely no sewing!\r\n\r\n**needles & gauge** \r\nmain needle size is **3,5mm** (or needle size to obtain gauge). 3,0mm for ribbings at neck, hem and cuff.\r\n**gauge: 24 sts x 34 rows** in stockinette after blocking. approx. 1000/ 1100/ 1200/ 1300/ 1400 m of a sport weight yarn needed (with approx. 50m more of color c1 than of c2 for the edgings). 4 stitch markers required.\r\n\r\n**yarn**\r\nany sport weight yarn (or fingering weight, if you are a loose knitter) that knits up to the specific gauge.\r\nfor my sample, i have used the beautiful hand-dyed [färbebengel poppenbüttel][1] (75% merino, 25% silk, 266m/ 100g) in colors c1 = “blauer panther” and c2 = “gorgonzola” in 2-row stripes.\r\nbut you could as well use up odd skeins and leftovers and configure your own stripes.\r\n\r\n**errata:\r\nstep 1: upper body \r\nstep 1.1 neck edge (ne)**\r\nwork **5** rounds in ribbing, either \r\n\r\n  [1]: https://shop.faerbebengel.de/produkt-kategorie/dk/poppenbuettel-dk/"
 }

@@ -1,55 +1,52 @@
 {
   "id": 7288402,
-  "name": "Lollygag",
+  "name": "lollygag",
   "permalink": "lollygag",
   "url": "https://www.ravelry.com/patterns/library/lollygag",
   "external_url": "",
-  "designer_name": "Aimee Pelletier",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "aimee pelletier",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Cumulus",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 50.0
     },
     {
-      "fiber": "Cumulus Rainbow",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 47.0
     },
     {
-      "fiber": "Merino+ Color",
-      "pct": null
-    },
-    {
-      "fiber": "Worsted Merino Superwash Solids",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 3.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Kitchener stitch"
+    "in the round",
+    "kitchener stitch"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     4.5
   ],
   "published": "2023/10/01",
-  "sizes_available": "One size",
+  "sizes_available": "one size",
   "rating_average": 4.7368421052631575,
   "rating_count": 19,
   "difficulty_average": 2.789473684210526,
-  "favorites_count": 1689,
+  "favorites_count": 1714,
   "projects_count": 79,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/21377/888624",
+  "notes": "it's time for a lollygag!\r\n\r\nwe've paired a solid and shading yarn for this one.\r\n\r\nit's a cowl knit in the round like a tube and grafted. \r\n\r\nthis texture is created with a fun picked-up stitch. \r\n\r\nmain color and contrasting colors are switched halfway through to use as much of your yarn as possible!\r\n\r\nwould be beautiful with a variegated and solid too!\r\n\r\nif you have a kit from the shop, please check your pattern. there is a mistake. \r\nsection 1, round 12 should be worked with the mc, not the cc. \r\n\r\ngosh, designing patterns is hard:) we have one more mistake. we just updated the pattern 11/14. round 5 should end with 2 stitches, not 1. sorry!",
   "pdf": {
     "filename": "7288402.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7288402.pdf",
-    "url": "https://pdf.ravelrycache.com/darnknitanyway/1746425/DKA_Pattern_Lollygag_Cowl_Final_V3.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481511&Signature=DSJIHz6oWqGBXCkGamMV2KxdYpE%3D&key_expires=1768481511&key=7_14amL9Ae94PM-VzUFlAg",
+    "url": "https://pdf.ravelrycache.com/darnknitanyway/1746425/DKA_Pattern_Lollygag_Cowl_Final_V3.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770432520&Signature=FuBT5cEig4c25jYqRtRhhQCfjtQ%3D&key_expires=1770432520&key=V2Dd2hb_x6cAoeG_w8gC2A",
     "size_bytes": 190528
   }
 }

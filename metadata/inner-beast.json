@@ -1,22 +1,22 @@
 {
   "id": 716043,
-  "name": "Inner Beast",
+  "name": "inner beast",
   "permalink": "inner-beast",
   "url": "https://www.ravelry.com/patterns/library/inner-beast",
   "external_url": "",
   "designer_name": "sharon maher",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Top-down",
-    "Written"
+    "in the round",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [
     3.0,
@@ -28,14 +28,15 @@
   "rating_average": 4.875,
   "rating_count": 40,
   "difficulty_average": 2.6,
-  "favorites_count": 2506,
-  "projects_count": 323,
+  "favorites_count": 2526,
+  "projects_count": 327,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/1522/373611",
+  "notes": "this piece was designed to complement the [magic ball swap][1] held in december 2016 at the [international freeform forum][2].\r\n\r\ncrazy yarn/magic ball consists of all your leftover pieces of yarn, knotted together regardless of colour and type. fine yarns are doubled over, to create a workable yarn thickness - but variety is the key!\r\n\r\nexact gauge is not important, but stuffing in the finished doll should not be visible between your stitches. if necessary, change the hook size to suit your tension.\r\n\r\nthe body is worked in the round from the base up. the head is worked in the round, from the top down. all other pieces are attached to the main body. \r\n\r\nthe knots and loose ends from the crazy yarn will fall to the back of your work. the sample shown has the reverse side of the stitches facing the outside of the toy, for added interest.\r\n \r\nall pieces are worked in spirals, do not join the rounds. use your stitch marker to keep track of the beginning of each round.\r\n\r\nmost pieces are worked with two strands of yarn held together, and worked as one. the only exception to this is the horns.\r\n\r\n\r\n  [1]: http://www.ravelry.com/discuss/international-freeform-forum---ifff/3520606/1-25\r\n  [2]: http://www.ravelry.com/groups/international-freeform-forum---ifff",
   "pdf": {
     "filename": "716043.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\716043.pdf",
-    "url": "https://pdf.ravelrycache.com/laughingpurple/657867/Inner_Beast.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481014&Signature=Fi0%2BWtLlArvjpOtNkAgzppLVA60%3D&key_expires=1768481014&key=5RrF9XUSGvZO7YhP_rIPqg",
+    "url": "https://pdf.ravelrycache.com/laughingpurple/657867/Inner_Beast.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770429896&Signature=VJjJzi%2B62nM%2B%2Fp8UKap6KPvfoII%3D&key_expires=1770429896&key=qUBiFPMHvjKu_CzZJWU9HA",
     "size_bytes": 433203
   }
 }

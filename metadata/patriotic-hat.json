@@ -1,53 +1,50 @@
 {
   "id": 7363110,
-  "name": "Patriotic Hat",
+  "name": "patriotic hat",
   "permalink": "patriotic-hat",
   "url": "https://www.ravelry.com/patterns/library/patriotic-hat",
   "external_url": "",
-  "designer_name": "Joy Macdonell",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "joy macdonell",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Impeccable Solids & Mouline",
-      "pct": null
-    },
-    {
-      "fiber": "Super Saver (solids)",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Charted",
-    "In the round",
-    "Kitchener stitch",
-    "Stranded colorwork",
-    "Written"
+    "bottom-up",
+    "charted",
+    "in the round",
+    "kitchener stitch",
+    "stranded colorwork",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     5.0
   ],
   "published": null,
-  "sizes_available": "Adult",
+  "sizes_available": "adult",
   "rating_average": 4.869565217391305,
   "rating_count": 23,
   "difficulty_average": 1.8695652173913044,
-  "favorites_count": 745,
+  "favorites_count": 749,
   "projects_count": 77,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/62741/946732",
+  "notes": "knit a cozy patriotic hat to show your support for kamala harris and tim walz! perfect for the women's march on november 2, 2024 - this hat is not only stylish but also a wonderful way to express your values.\r\n\r\n**this pattern has an accompanying video on youtube:** https://www.youtube.com/watch?v=jyleo0f3-io\r\n\r\n**youtube channel:** https://www.youtube.com/@joymacdonell?sub_confirmation=1\r\n\r\n**we also have zoom craft-along meetings you can join:**\r\n\r\n[september 19th][3]\r\n[september 23rd][4]\r\n[october 6th][5]\r\n[october 19th][6]\r\n[october 29th][7]\r\n\r\nplease join the hats for harris group here on ravelry: https://www.ravelry.com/groups/hats-for-harris\r\n\r\nif you are looking for recommendations for yarn substitutions for the icewear wool, here are some good choices:\r\n\r\n[cascade 220][8]\r\n[berroco vintage dk][9]\r\n[sandnes garn double sunday][10]\r\n\r\nyou will need about 90 - 100 yards of each color\r\n\r\n  [1]: https://us06web.zoom.us/meeting/register/tzisdeuorzmvetam7-ijn1ur1bygdccjpx4b\r\n  [2]: https://us06web.zoom.us/meeting/register/tzuqducvrjmjhdq_6kmhsy8gusmbwgpqo_ao\r\n  [3]: https://us06web.zoom.us/meeting/register/tzisc-mhqt0ue9k7yjfbp4gag09drrts6mpk\r\n  [4]: https://us06web.zoom.us/meeting/register/tzcrf-qtqdgoe9e5kzw03dkmhbtrc7qfb7hm\r\n  [5]: https://us06web.zoom.us/meeting/register/tzatdo-oqzgphdzy6tlimrio1msux7n32g0m\r\n  [6]: https://us06web.zoom.us/meeting/register/tzmsf-qvrzijhtz8yizwrw2ss5gdxv0qy6ar\r\n  [7]: https://us06web.zoom.us/meeting/register/tz0ufuiopjwvhddqyshbzwwhbogxaastcsgx\r\n  [8]: https://www.yarn.com/products/cascade-yarns-220-superwash\r\n  [9]: https://www.yarn.com/products/berroco-vintage-dk\r\n  [10]: https://www.sandnes-garn.com/find-store?lat=38.716111&lng=-79.311148&zoom=3.47",
   "pdf": {
     "filename": "7363110.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7363110.pdf",
-    "url": "https://pdf.ravelrycache.com/Joymacdonell/1876511/Patriotic_Hat_Pattern_Macdonell.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482296&Signature=up8v8vI%2F7iWK4%2FwNhAGV7z5aXbc%3D&key_expires=1768482296&key=R0_nqa9irBdNdecHA-1-9A",
+    "url": "https://pdf.ravelrycache.com/Joymacdonell/1876511/Patriotic_Hat_Pattern_Macdonell.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770436539&Signature=BvVs0XcUmD7sqquP5QMR6IW%2BScY%3D&key_expires=1770436539&key=w6nLtZFGoqpscv_hnNI8cQ",
     "size_bytes": 358113
   }
 }

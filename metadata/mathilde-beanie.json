@@ -1,39 +1,39 @@
 {
   "id": 7478171,
-  "name": "Mathilde Beanie",
+  "name": "mathilde beanie",
   "permalink": "mathilde-beanie",
   "url": "https://www.ravelry.com/patterns/library/mathilde-beanie",
   "external_url": "",
-  "designer_name": "HommerenKnits",
-  "project_type": "Child",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "hommerenknits",
+  "project_type": "child",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Alpakka Følgetråd",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 51.6
     },
     {
-      "fiber": "Børstet Alpakka",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 24.8
     },
     {
-      "fiber": "Kos",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 11.4
     },
     {
-      "fiber": "Peer Gynt",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 6.6
     },
     {
-      "fiber": "Tynn Silk Mohair",
-      "pct": null
+      "fiber": "Silk (Silk)",
+      "pct": 5.6
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "Bottom-up",
-    "In the round"
+    "bottom-up",
+    "in the round"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -44,8 +44,9 @@
   "rating_average": 5.0,
   "rating_count": 7,
   "difficulty_average": 1.5714285714285714,
-  "favorites_count": 1073,
-  "projects_count": 32,
+  "favorites_count": 1212,
+  "projects_count": 43,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/114511/1037235"
+  "download_url": "http://www.ravelry.com/dls/114511/1037235",
+  "notes": "size: 1 (2) 3 (4)\r\nhead circumference: 46-50 (50-54) 55-58 (59-63) cm\r\nwidth: 21 (23) 26 (28) cm\r\nlength: 21 (22) 24 (26) cm \r\n\r\ngauge\r\n16m x 24p = 10 x 10 cm\r\n\r\nyarn\r\nkos (62% alpaca, 29% nylon og 9% wool, 50 grams = 150 meters)\r\nquantity: ca. 27 (29) 33 (36) grams\r\nyardage: ca. 81 (87) 99 (108) meters\r\n\r\nneedle size \r\n5,5 mm (us 9) 40 cm circular needles,  5,5 mm (us 9)double pointed needles or 80 cm cirucular needle if you knit with the magic loop technique. \r\n\r\nalternative yarns\r\nyou can knit the beanie in several different yarns, as long as the gauge remains the same. the look may vary from yarn to yarn, so you can easily pick the look you want. "
 }

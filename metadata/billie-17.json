@@ -1,28 +1,36 @@
 {
   "id": 1215600,
-  "name": "Billie",
+  "name": "billie",
   "permalink": "billie-17",
   "url": "https://www.ravelry.com/patterns/library/billie-17",
   "external_url": "https://www.berroco.com/patterns/billie",
-  "designer_name": "Åsa Buchta",
-  "project_type": "Baby",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "åsa buchta",
+  "project_type": "baby",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Vintage® Baby",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 52.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 40.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 8.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless",
-    "Short rows",
-    "Top-down",
-    "Written"
+    "in the round",
+    "seamless",
+    "short rows",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -31,11 +39,12 @@
   ],
   "published": "2022/02/01",
   "sizes_available": "(3, 6, 9) [12, 18, 24] mos",
-  "rating_average": 4.760869565217392,
-  "rating_count": 46,
-  "difficulty_average": 2.2444444444444445,
-  "favorites_count": 4000,
-  "projects_count": 284,
+  "rating_average": 4.76595744680851,
+  "rating_count": 47,
+  "difficulty_average": 2.239130434782609,
+  "favorites_count": 4064,
+  "projects_count": 287,
   "free_ravelry_download": false,
-  "download_url": "https://www.berroco.com/patterns/billie"
+  "download_url": "https://www.berroco.com/patterns/billie",
+  "notes": "cute and cozy these are the perfect pants for that little one in your life. keep their baby legs toasty warm with this simple to make pair. \r\n\r\n**sizes**\r\ndirections are for infant sizes (3, 6, 9) [12, 18, 24] mos\r\n \r\n**finished measurements**\r\nwaist circumference (measured unstretched): (13, 13¼, 13½) [13¾, 14¼, 14½]\" / (33, 33.5, 34.5) [35, 36, 37] cm\r\nlength (with cuffs and waistband unfolded): (16½, 17, 18) [19, 20½, 22]\" / (42, 43, 45.5) [48.5, 52, 56] cm\r\nshown in size 3 mos / 33 cm. recommended ease: 5\" / 12.5 cm of negative ease at waist.\r\n \r\n**yarn**\r\n[berroco vintage baby][1] (50 grs): (2, 2, 3) [3, 3, 3] balls #10072 toast\r\n \r\n**needles and notions**\r\n16\" / 40 cm circular needles, sizes 3 / 3.25 mm and 6 / 4 mm or size to obtain gauge\r\n1 set each double-pointed needles, sizes 3 / 3.25 mm and 6 / 4 mm\r\nstitch marker\r\nwaste yarn to hold stitches\r\n \r\n**gauge**\r\n22 sts and 30 rnds = 4\" / 10 cm in st st on larger needle\r\n\r\n\r\n  [1]: https://www.berroco.com/yarns/berroco-vintage-baby"
 }

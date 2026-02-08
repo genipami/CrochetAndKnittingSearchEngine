@@ -1,40 +1,41 @@
 {
   "id": 452878,
-  "name": "Basic Beanie (half double crochet)",
+  "name": "basic beanie (half double crochet)",
   "permalink": "basic-beanie-half-double-crochet",
   "url": "https://www.ravelry.com/patterns/library/basic-beanie-half-double-crochet",
   "external_url": "http://imhooked25.blogspot.mx/2013/12/basic-beanie-half-double-crochet.html",
-  "designer_name": "Belle Tracy",
-  "project_type": "Child",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "belle tracy",
+  "project_type": "child",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Super Saver (solids)",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Half double crochet (hdc)"
+    "double crochet (dc)",
+    "half double crochet (hdc)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless",
-    "Top-down",
-    "Written"
+    "in the round",
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [
     5.0
   ],
   "needle_sizes_mm": [],
   "published": "2013/12/01",
-  "sizes_available": "All sizes",
+  "sizes_available": "all sizes",
   "rating_average": 4.333333333333333,
   "rating_count": 24,
   "difficulty_average": 1.7142857142857142,
-  "favorites_count": 732,
-  "projects_count": 131,
+  "favorites_count": 736,
+  "projects_count": 132,
   "free_ravelry_download": false,
-  "download_url": "http://imhooked25.blogspot.mx/2013/12/basic-beanie-half-double-crochet.html"
+  "download_url": "http://imhooked25.blogspot.mx/2013/12/basic-beanie-half-double-crochet.html",
+  "notes": "basic beanie using half double crochet stitches."
 }

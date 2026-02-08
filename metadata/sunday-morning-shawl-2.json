@@ -1,29 +1,33 @@
 {
   "id": 1149259,
-  "name": "Sunday Morning Shawl",
+  "name": "sunday morning shawl",
   "permalink": "sunday-morning-shawl-2",
   "url": "https://www.ravelry.com/patterns/library/sunday-morning-shawl-2",
   "external_url": "",
-  "designer_name": "Espace Tricot",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "espace tricot",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Sunday Morning DK",
-      "pct": null
+      "fiber": "Bluefaced Leicester (BFL) (Wool)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Masham / Massam (Wool)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Bobble",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "bobble",
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamless",
-    "Top-down",
-    "Written"
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -31,11 +35,12 @@
   ],
   "published": "2021/06/01",
   "sizes_available": "213 cm x 69 cm (80 x 15”) after wet blocking",
-  "rating_average": 4.829787234042553,
-  "rating_count": 188,
-  "difficulty_average": 2.67032967032967,
-  "favorites_count": 19528,
-  "projects_count": 776,
+  "rating_average": 4.827225130890052,
+  "rating_count": 191,
+  "difficulty_average": 2.6810810810810812,
+  "favorites_count": 19763,
+  "projects_count": 792,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/25132/708079"
+  "download_url": "http://www.ravelry.com/dls/25132/708079",
+  "notes": "> espace tricot is a yarn store in montreal, canada. [discover our yarns here.][1]\r\n\r\nour sunday morning dk yarn is a deliciously rustic yet soft blend of bluefaced leicester and masham fibres spun and dyed in england. the unique blend of naturally brown and off-white fibres creates a heathered effect which brings depth and dimension.\r\n\r\nas a nod to the coziness and slower pace of sunday mornings, our sunday morning shawl is a relaxing, lightly textured design worked in alternate sections of stockinette and twisted rib. a row of sweet bobbles before the twisted rib border adds a little drama and whimsy.\r\n\r\na lovely, uncomplicated project for those moments when you simply want to immerse yourself in the meditative peace of the stitches.\r\n\r\nsample shown in the colourway offline\r\n\r\n\r\n  [1]: http://www.espacetricot.com"
 }

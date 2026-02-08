@@ -1,32 +1,36 @@
 {
   "id": 7330272,
-  "name": "Saturna Toque",
+  "name": "saturna toque",
   "permalink": "saturna-toque",
   "url": "https://www.ravelry.com/patterns/library/saturna-toque",
   "external_url": "",
-  "designer_name": "Jennifer Emslie",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "jennifer emslie",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "128 Superwash®",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 50.0
     },
     {
-      "fiber": "Uptown Yarns Hand Dyed Merino Chunky",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 25.0
     },
     {
-      "fiber": "Vintage® Chunky",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 20.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 5.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round"
+    "in the round"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -34,18 +38,19 @@
     6.0
   ],
   "published": "2024/04/01",
-  "sizes_available": "One size fits most!",
-  "rating_average": 4.636363636363637,
-  "rating_count": 11,
-  "difficulty_average": 2.0,
-  "favorites_count": 401,
-  "projects_count": 52,
+  "sizes_available": "one size fits most!",
+  "rating_average": 4.666666666666667,
+  "rating_count": 12,
+  "difficulty_average": 1.9,
+  "favorites_count": 413,
+  "projects_count": 53,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/48638/921359",
+  "notes": "here is my saturna toque! it's super easy and super fast! one size fits most adults, as it's nice and stretchy... happy knitting! \r\n",
   "pdf": {
     "filename": "7330272.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7330272.pdf",
-    "url": "https://pdf.ravelrycache.com/uptownyarns/1816451/Saturna_Toque.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482876&Signature=8fgHt7WaWNVEYY%2BIaUKD032Q5%2FM%3D&key_expires=1768482876&key=_906Hj2dVSmIZhKjx8ZYUA",
+    "url": "https://pdf.ravelrycache.com/uptownyarns/1816451/Saturna_Toque.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770439533&Signature=%2ByNmD1D0DsSygyiKw49im%2FcP3Fc%3D&key_expires=1770439533&key=VhL6L709Dnlr-1cDYKn_vw",
     "size_bytes": 17805
   }
 }

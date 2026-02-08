@@ -1,29 +1,29 @@
 {
   "id": 7452257,
-  "name": "Poop on Fascists",
+  "name": "poop on fascists",
   "permalink": "poop-on-fascists",
   "url": "https://www.ravelry.com/patterns/library/poop-on-fascists",
   "external_url": "https://jaggedlines.substack.com/p/how-i-knitted-the-poop-on-fascists?r=1mtpkb",
-  "designer_name": "Lanja Khon-Engheim",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Sport",
+  "designer_name": "lanja khon-engheim",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Finullgarn",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Charted",
-    "In the round",
-    "Seamless"
+    "bottom-up",
+    "charted",
+    "in the round",
+    "seamless"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -31,17 +31,18 @@
   ],
   "published": "2025/08/01",
   "sizes_available": "adult",
-  "rating_average": 5.0,
-  "rating_count": 8,
-  "difficulty_average": 3.1666666666666665,
-  "favorites_count": 1425,
-  "projects_count": 48,
+  "rating_average": 4.923076923076923,
+  "rating_count": 13,
+  "difficulty_average": 3.5,
+  "favorites_count": 1846,
+  "projects_count": 68,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/28113/1017268",
+  "notes": "\"i am but a little bird, small and insignificant in the face of the hurricane of history. but however much i'm buffeted by the winds of chaos, i will always do my best to poop on fascists!\"\r\n\r\nthis design was inspired by [this bird with the text \"i poop on fascists\"][1] from matt adrian/the mincing mockingbird. \r\n\r\ni am fully aware of the ridiculousness of this hat, but it helped me channel my frustration and i am sharing it in the hopes that it might give others a laugh. \r\n\r\nthe pattern calls for sport weight yarn in the following quantities: \r\nmain colour (natural) 95 m/104 yards\r\ncontrast colour 1 (blue) 65 m/71 yards\r\ncontrast colour 2 (bronze) 27 m/30 yards\r\n\r\nthe sample hat was knitted in rauma finullgarn, 175m/50g. finull is a woollen-spun rustic norwegian yarn that knits up much more robustly and thickly than a worsted-spun merino yarn of the same yardage and weight.\r\n\r\n\r\n\r\n  [1]: https://www.mincingmockingbird.com/collections/troubled-bird/products/poop-on-fascists-magnet",
   "pdf": {
     "filename": "7452257.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7452257.pdf",
-    "url": "https://pdf.ravelrycache.com/lanechka/2042179/Poop_on_Fascists_AUG_2025_v2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482509&Signature=2YXKWrgvHpx7PY4rhy09ghx7SXI%3D&key_expires=1768482509&key=gD-VX43z9BzQzWQ1nDKf5g",
+    "url": "https://pdf.ravelrycache.com/lanechka/2042179/Poop_on_Fascists_AUG_2025_v2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770437620&Signature=QX8EUiSFrR%2Blri1K78tYuKrFLXQ%3D&key_expires=1770437620&key=RFAOpKqkgUHkx7dnK1K2RQ",
     "size_bytes": 5914744
   }
 }

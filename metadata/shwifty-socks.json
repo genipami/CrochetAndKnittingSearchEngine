@@ -1,28 +1,32 @@
 {
   "id": 1348372,
-  "name": "Shwifty Socks",
+  "name": "shwifty socks",
   "permalink": "shwifty-socks",
   "url": "https://www.ravelry.com/patterns/library/shwifty-socks",
   "external_url": "https://katjaknitter-blog.de/strickanleitungen/shwifty-socks/",
-  "designer_name": "Katja Wermuth",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "katja wermuth",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Soul",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 84.5
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 15.5
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Stranded colorwork",
-    "Written"
+    "charted",
+    "in the round",
+    "stranded colorwork",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -35,8 +39,9 @@
   "rating_average": 4.916666666666667,
   "rating_count": 24,
   "difficulty_average": 4.095238095238095,
-  "favorites_count": 2298,
-  "projects_count": 91,
+  "favorites_count": 2331,
+  "projects_count": 92,
   "free_ravelry_download": false,
-  "download_url": "https://katjaknitter-blog.de/strickanleitungen/shwifty-socks/"
+  "download_url": "https://katjaknitter-blog.de/strickanleitungen/shwifty-socks/",
+  "notes": "die socken werden von oben nach unten in der magic loop methode (oder einem 3-nadelsystem), mit zwei verschiedenen nadelstärken, einer shadowwrapferse und einer spitze, die am ende mit dem maschenstich geschlossen wird, gestrickt.\r\n\r\ndadurch das der colourworkteil nur über einen rapport von 4 maschen geht, steht bei der anleitung, die übung der fadenhaltung im vordergrund. als neuling in dem bereich des mehrfädigen strickens, will ich niemanden mit spannfäden verwirren.\r\nwenn du zu dem geübteren sockenstricker*innen gehören solltest, kannst du das muster auch für toe up gestrickte socken nutzen. der chart bleibt gleich.\r\n\r\ndieanleitung enthält 3 verschiedene weiten und wird nach individueller fußlänge gestrickt.\r\n\r\ngr. 1) 36-39 (18-20 fußumfang) ns:2,25 und 2,5\r\ngr. 2) 40-43 (20-23,5 fußumfang) ns: 2,25 und 2,75\r\ngr. 3) 44-48 (24-27 fußumfang) ns: 2,25 und 2,75\r\n\r\ndie anleitung ist für die magie loop methode oder einem 3- nadelsystem beschrieben.\r\n\r\n2 stränge 4-fach sockenwolle im kontrast zueinander."
 }

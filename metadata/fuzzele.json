@@ -4,37 +4,42 @@
   "permalink": "fuzzele",
   "url": "https://www.ravelry.com/patterns/library/fuzzele",
   "external_url": "",
-  "designer_name": "Kathleen Lyane",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "kathleen lyane",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Extrafeine Sockenwolle 4-fach",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)"
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "Charted"
+    "charted"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [],
   "published": "2025/06/01",
   "sizes_available": "",
   "rating_average": 5.0,
-  "rating_count": 7,
-  "difficulty_average": 1.8333333333333333,
-  "favorites_count": 265,
+  "rating_count": 8,
+  "difficulty_average": 2.0,
+  "favorites_count": 270,
   "projects_count": 27,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/90511/1007720",
+  "notes": "in memoriam [claudia](/people/fuzzele) .\r\n\r\nfür jedes verlinkte fertige projekt spende ich 5 € an die [stiftung deutsche krebshilfe][1].\r\n\r\n\r\n  [1]: https://www.krebshilfe.de/",
   "pdf": {
     "filename": "7440316.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7440316.pdf",
-    "url": "https://pdf.ravelrycache.com/Dillerbse/2020601/fuzzele.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480551&Signature=N9%2BR%2BiyE7qzuAWngJsnUJ8w77uU%3D&key_expires=1768480551&key=-54Lb6gxX3eSZ9DWipgf2A",
+    "url": "https://pdf.ravelrycache.com/Dillerbse/2020601/fuzzele.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770427109&Signature=h7wjspccl55CLnmTFU9KegDs9R8%3D&key_expires=1770427109&key=2zLuZO4CY7trJDia2HPtkA",
     "size_bytes": 150223
   }
 }

@@ -1,29 +1,29 @@
 {
   "id": 7404693,
-  "name": "Ladybug Scarf",
+  "name": "ladybug scarf",
   "permalink": "ladybug-scarf-2",
   "url": "https://www.ravelry.com/patterns/library/ladybug-scarf-2",
   "external_url": "",
-  "designer_name": "Eva Komma (stockinettebitch)",
-  "project_type": "Scarf",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "eva komma (stockinettebitch)",
+  "project_type": "scarf",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Cashmere Premium",
-      "pct": null
+      "fiber": "Cashmere goat (Cashmere)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "cable",
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Cables",
-    "Charted",
-    "Written"
+    "cables",
+    "charted",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -31,17 +31,18 @@
   ],
   "published": "2025/02/01",
   "sizes_available": "one size",
-  "rating_average": 4.333333333333333,
-  "rating_count": 18,
+  "rating_average": 4.368421052631579,
+  "rating_count": 19,
   "difficulty_average": 2.625,
-  "favorites_count": 2695,
-  "projects_count": 100,
+  "favorites_count": 2839,
+  "projects_count": 110,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/109750/980803",
+  "notes": "the ladybug scarf is worked in rows back and forth with a faux i-cord edge on each side and a rib pattern with faux 1x1 cables. the scarf is long enough to be wrapped around the neck once and tied in the front. it is ideal for beginners wanting to dip their toes into knitting cables and anyone else who wants a small structured piece to spice up their outfits or add a little bit of cosyness.\r\n\r\n**size**\r\none size\r\nlength of finished scarf: 105 cm\r\nwidth of finished scarf: 5,5 cm\r\n\r\n**materials**\r\nlang yarns cashmere premium 6ply\r\n35g (115 m / 25 g)\r\n\r\n**needles**\r\n3 mm circular needle (80 or 100 cm)\r\n2 stitch markers\r\n\r\n**knitting tension**\r\n22 stitches in width and 34 rows in height in stockinette stitch = 10 x 10 cm\r\n\r\n**about the pattern**\r\nthe pattern has written instructions on how to cast on and how to work the faux i-cord edge. the increases, main part with cable pattern and decreases are charted.\r\n",
   "pdf": {
     "filename": "7404693.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7404693.pdf",
-    "url": "https://pdf.ravelrycache.com/evakomma/1972121/ladybug_scarf_updated_v2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481311&Signature=aOAVz6PtqwD2VodHKFlN47%2BIjtw%3D&key_expires=1768481311&key=wKcRoHQpXkY9kMUbaCkXZA",
+    "url": "https://pdf.ravelrycache.com/evakomma/1972121/ladybug_scarf_updated_v2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770431311&Signature=%2FAHTUVmECljesgVe3e%2BZawnKq%2Fw%3D&key_expires=1770431311&key=IabOPw6SEKW1YfzcPOtCVg",
     "size_bytes": 1883947
   }
 }

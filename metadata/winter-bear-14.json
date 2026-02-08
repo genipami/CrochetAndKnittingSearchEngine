@@ -1,33 +1,25 @@
 {
   "id": 7491442,
-  "name": "Winter Bear",
+  "name": "winter bear",
   "permalink": "winter-bear-14",
   "url": "https://www.ravelry.com/patterns/library/winter-bear-14",
   "external_url": "https://www.5littlemonsters.com/2026/01/january-bear-of-month-winter-bear.html",
-  "designer_name": "Erica Dietz",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "erica dietz",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Impeccable Solids & Mouline",
-      "pct": null
-    },
-    {
-      "fiber": "Soft Classic (Solids / Neon)",
-      "pct": null
-    },
-    {
-      "fiber": "Super Saver (solids)",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)"
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     4.25
@@ -35,11 +27,12 @@
   "needle_sizes_mm": [],
   "published": "2026/01/01",
   "sizes_available": "6\" tall sitting",
-  "rating_average": 0,
-  "rating_count": null,
-  "difficulty_average": 0,
-  "favorites_count": 77,
-  "projects_count": 4,
+  "rating_average": 4.5,
+  "rating_count": 4,
+  "difficulty_average": 3.25,
+  "favorites_count": 107,
+  "projects_count": 6,
   "free_ravelry_download": false,
-  "download_url": "https://www.5littlemonsters.com/2026/01/january-bear-of-month-winter-bear.html"
+  "download_url": "https://www.5littlemonsters.com/2026/01/january-bear-of-month-winter-bear.html",
+  "notes": "winter bear is the first in a year long crochet along series with a new bear pattern released each month. the winter bear with its little hat and scarf is the january bear of the month pattern. more patterns will be added to the collection throughout 2026. the little winter bear sits about 6\" tall. "
 }

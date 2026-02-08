@@ -1,21 +1,21 @@
 {
   "id": 1323116,
-  "name": "Horizon Cardigan",
+  "name": "horizon cardigan",
   "permalink": "horizon-cardigan",
   "url": "https://www.ravelry.com/patterns/library/horizon-cardigan",
   "external_url": "https://hobbii.co.uk/horizon-children-s-cardigan",
-  "designer_name": "Mary Etheridge",
-  "project_type": "Child",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "mary etheridge",
+  "project_type": "child",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Horizon",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [
@@ -24,11 +24,12 @@
   "needle_sizes_mm": [],
   "published": "2022/07/01",
   "sizes_available": "1-2 (2-3, 3-4, 4-5, 5-6, 6-7, 7-8, 8-9, 9-10) years ",
-  "rating_average": 4.705882352941177,
-  "rating_count": 34,
-  "difficulty_average": 2.8518518518518516,
-  "favorites_count": 3254,
-  "projects_count": 151,
+  "rating_average": 4.714285714285714,
+  "rating_count": 35,
+  "difficulty_average": 2.857142857142857,
+  "favorites_count": 3385,
+  "projects_count": 156,
   "free_ravelry_download": false,
-  "download_url": "https://hobbii.co.uk/horizon-children-s-cardigan"
+  "download_url": "https://hobbii.co.uk/horizon-children-s-cardigan",
+  "notes": "this cardi is made from two hexagons that are then crocheted together to form one body piece. the sleeves, extra body length and edging are then crocheted straight from the body piece.\r\n\r\nthe cardi is made to measure – you can go off your own body measurements or use the measurements from the table. simply take your bust measurement and then complete the size that is best matched to you.\r\n\r\nthis pattern is ideal for intermediates and above. there are many photos throughout for guidance."
 }

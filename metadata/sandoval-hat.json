@@ -1,22 +1,26 @@
 {
   "id": 363714,
-  "name": "Sandoval Hat",
+  "name": "sandoval hat",
   "permalink": "sandoval-hat",
   "url": "https://www.ravelry.com/patterns/library/sandoval-hat",
   "external_url": "",
-  "designer_name": "Robyn Devine",
-  "project_type": "Child",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "robyn devine",
+  "project_type": "child",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Wool Ease Solids, Heathers, Twists",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [],
@@ -25,17 +29,18 @@
   ],
   "published": "2012/11/01",
   "sizes_available": "baby, toddler, child, adult",
-  "rating_average": 4.698296836982968,
-  "rating_count": 411,
-  "difficulty_average": 1.5700712589073633,
-  "favorites_count": 6305,
-  "projects_count": 2179,
+  "rating_average": 4.6980676328502415,
+  "rating_count": 414,
+  "difficulty_average": 1.596698113207547,
+  "favorites_count": 6334,
+  "projects_count": 2191,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/3952/131545",
+  "notes": "simple and easy to knit, the sandoval hat can be made with or without a folded brim, using just about any worsted weight yarn you have on-hand, and looks great either solid or striped!",
   "pdf": {
     "filename": "363714.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\363714.pdf",
-    "url": "https://pdf.ravelrycache.com/shemakeshats/527616/Sandoval_Hat_MGR.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482849&Signature=s%2BFFT3cUtoIKqbfXtH1NHXgZmOY%3D&key_expires=1768482849&key=NDQGyK_DkN2EgKjzNFMflg",
+    "url": "https://pdf.ravelrycache.com/shemakeshats/527616/Sandoval_Hat_MGR.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770439454&Signature=D5T9tSG7KcE8YssHmeFvgxFL36Y%3D&key_expires=1770439454&key=it0UxgTGF8dDGnWrDSMsjA",
     "size_bytes": 1118171
   }
 }

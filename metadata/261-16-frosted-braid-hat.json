@@ -1,39 +1,43 @@
 {
   "id": 7466652,
-  "name": "261-16 Frosted Braid Hat",
+  "name": "261-16 frosted braid hat",
   "permalink": "261-16-frosted-braid-hat",
   "url": "https://www.ravelry.com/patterns/library/261-16-frosted-braid-hat",
   "external_url": "https://www.garnstudio.com/pattern.php?id=12388&cid=19",
-  "designer_name": "DROPS design",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "drops design",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "DROPS Kid-Silk",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 33.3
     },
     {
-      "fiber": "DROPS Merino Extra Fine",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 33.3
     },
     {
-      "fiber": "DROPS Puna",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 25.0
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 8.3
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "cable",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Cables",
-    "Charted",
-    "In the round",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "cables",
+    "charted",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -41,12 +45,13 @@
     4.0
   ],
   "published": "2025/09/01",
-  "sizes_available": "S/M - L/XL",
+  "sizes_available": "s/m - l/xl",
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 185,
-  "projects_count": 12,
+  "favorites_count": 205,
+  "projects_count": 16,
   "free_ravelry_download": false,
-  "download_url": "https://www.garnstudio.com/pattern.php?id=12388&cid=19"
+  "download_url": "https://www.garnstudio.com/pattern.php?id=12388&cid=19",
+  "notes": "**knitted neck-warmer and hat in drops puna and drops kid-silk or drops merino extra fine and drops kid-silk. the piece is worked with rib and cables.**\r\n~~~~~~~~~~~~~~~~~~~~~\r\n[see the frosted braid neck-warmer pattern here][1]\r\n~~~~~~~~~~~~~~~~~~~~~\r\n\r\n#frostedbraidset\r\ndrops design: pattern pu-076\r\nyarn group b + a\r\n\r\n-------------------------------------------------------\r\n\r\n* whole set:\r\n\r\n**sizes**:\r\ns/m - l/xl\r\n\r\n**yarn for whole set**:\r\ndrops puna from garnstudio (belongs to yarn group b)\r\n200-200 g colour 02, beige\r\nand use:\r\ndrops kid-silk from garnstudio (belongs to yarn group a)\r\n50-75 g colour 56, marzipan\r\n\r\nor use:\r\ndrops merino extra fine from garnstudio (belongs to yarn group b)\r\n200-250 g colour 50, light beige\r\nand use:\r\ndrops kid-silk from garnstudio (belongs to yarn group a)\r\n50-75 g colour 56, marzipan\r\n\r\n-------------------------------------------------------\r\n\r\n* hat:\r\n\r\n**sizes**:\r\ns/m - l/xl\r\nfits head-size: 54/56 - 58/60 cm\r\n\r\n**yarn for hat**:\r\ndrops puna from garnstudio (belongs to yarn group b)\r\n100-100 g colour 02, beige\r\nand use:\r\ndrops kid-silk from garnstudio (belongs to yarn group a)\r\n25-25 g colour 56, marzipan\r\n\r\nor use:\r\ndrops merino extra fine from garnstudio (belongs to yarn group b)\r\n100-100 g colour 50, light beige\r\nand use:\r\ndrops kid-silk from garnstudio (belongs to yarn group a)\r\n25-25 g colour 56, marzipan\r\n\r\n**needles for hat**:\r\ndrops circular needle size 4 mm: length 40 cm.\r\ndrops circular needle size 3.5 mm: length 40 cm.\r\ndrops double pointed needles size 4 mm.\r\ndrops cable needle.\r\nthe technique magic loop can be used – you then only need 80 cm circular needle in each size.\r\n\r\n**knitting tension for hat**:\r\n19 stitches in width and 25 rows in height with stocking stitch with 1 strand of each quality on needle size 4 mm = 10 x 10 cm.\r\nnote: needle size is only a guide. if you get too many stitches within 10 cm, change to a larger needle size. if you get too few stitches within 10 cm, change to a smaller needle size.\r\n\r\n\r\n  [1]: https://www.ravelry.com/patterns/library/261-16-frosted-braid-neck-warmer"
 }

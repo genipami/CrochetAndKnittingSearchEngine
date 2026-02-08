@@ -1,22 +1,26 @@
 {
   "id": 7332896,
-  "name": "Duke Elephant",
+  "name": "duke elephant",
   "permalink": "duke-elephant",
   "url": "https://www.ravelry.com/patterns/library/duke-elephant",
   "external_url": "",
-  "designer_name": "Amifauna",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Sport",
+  "designer_name": "amifauna",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Amigurumi Soft",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 55.0
+    },
+    {
+      "fiber": "Cotton (Cotton)",
+      "pct": 45.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [
@@ -28,8 +32,9 @@
   "rating_average": 4.571428571428571,
   "rating_count": 7,
   "difficulty_average": 4.571428571428571,
-  "favorites_count": 1214,
-  "projects_count": 34,
+  "favorites_count": 1274,
+  "projects_count": 35,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/105193/923598"
+  "download_url": "http://www.ravelry.com/dls/105193/923598",
+  "notes": "crochet pattern duke elephant\r\n\r\nsize\r\n\r\nheigh aprox. 5,5 inches (14 cm) if using sport weight yarn\r\n\r\nmaterials needed\r\n\r\n* 2,5 mm crochet hook\r\n* sport weight yarn in gray and off-white\r\n* fiberfill\r\n* a pair of safety eyes (6 mm)\r\n* tapestry needle, stitch marker, scissors…"
 }

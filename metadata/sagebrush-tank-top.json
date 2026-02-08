@@ -1,40 +1,45 @@
 {
   "id": 1037993,
-  "name": "Sagebrush Tank top",
+  "name": "sagebrush tank top",
   "permalink": "sagebrush-tank-top",
   "url": "https://www.ravelry.com/patterns/library/sagebrush-tank-top",
   "external_url": "https://forthefrills.com/easy-crochet-summer-tank-top-free-pattern",
-  "designer_name": "Grace Forthefrills",
-  "project_type": "Tank/Camisole",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "grace forthefrills",
+  "project_type": "tank/camisole",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "CotLin",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 70.0
+    },
+    {
+      "fiber": "Flax (Linen)",
+      "pct": 30.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Half double crochet (hdc)",
-    "Slip stitch (sl st)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "half double crochet (hdc)",
+    "slip stitch (sl st)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamed",
-    "Written"
+    "seamed",
+    "written"
   ],
   "hook_sizes_mm": [
     4.5
   ],
   "needle_sizes_mm": [],
   "published": "2020/05/01",
-  "sizes_available": "XS (S, M, L, 1X, 2X, 3X)",
-  "rating_average": 4.607142857142857,
-  "rating_count": 112,
-  "difficulty_average": 2.342857142857143,
-  "favorites_count": 15207,
-  "projects_count": 582,
+  "sizes_available": "xs (s, m, l, 1x, 2x, 3x)",
+  "rating_average": 4.610619469026549,
+  "rating_count": 113,
+  "difficulty_average": 2.349056603773585,
+  "favorites_count": 15384,
+  "projects_count": 585,
   "free_ravelry_download": false,
-  "download_url": "https://forthefrills.com/easy-crochet-summer-tank-top-free-pattern"
+  "download_url": "https://forthefrills.com/easy-crochet-summer-tank-top-free-pattern",
+  "notes": "simple, stylish and modern, the sagebrush tank top is perfect for summer! this easy ribbed tank top features a flattering round neck and comes in cropped and normal length. this summer crochet top will be a staple piece in your handmade wardrobe with its incredible drape and a knit-like look. the sagebrush tank top is so versatile and quick to make, you’ll want one in every colour!\r\n\r\nthe crochet tank top only uses back-loop half double crochets and slip stitches and is made up of 2 identical pieces (the front and back are the same) that are worked lengthways, so the foundation chain runs the length of the top not the width.\r\n\r\nthis pattern is accompanied by a video tutorial :)\r\n\r\nsizes: xs (s, m, l, 1x, 2x, 3x) + cropped or long length\r\n\r\nskill level: easy+\r\n\r\n\r\n\r\n\r\nsign up to my **[newsletter][2]** and never miss a new crochet pattern release!\r\n\r\n\r\n  \r\n  [2]: https://view.flodesk.com/pages/5ebf67c2ab499000265d1ad4\r\n"
 }

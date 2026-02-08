@@ -1,22 +1,22 @@
 {
   "id": 140,
-  "name": "Irish Hiking Scarf",
+  "name": "irish hiking scarf",
   "permalink": "irish-hiking-scarf",
   "url": "https://www.ravelry.com/patterns/library/irish-hiking-scarf",
   "external_url": "",
-  "designer_name": "Adrian Bizilia",
-  "project_type": "Scarf",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "adrian bizilia",
+  "project_type": "scarf",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [],
   "stitches_used": [
-    "Cable",
-    "Single crochet (sc)"
+    "cable",
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "Cables",
-    "Seamless",
-    "Written"
+    "cables",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -24,17 +24,18 @@
   ],
   "published": null,
   "sizes_available": "approx. 5 ½\" x 55\"",
-  "rating_average": 4.5460565924142085,
-  "rating_count": 3322,
-  "difficulty_average": 2.3449401523394995,
-  "favorites_count": 22704,
-  "projects_count": 8416,
+  "rating_average": 4.546738803727082,
+  "rating_count": 3327,
+  "difficulty_average": 2.345108695652174,
+  "favorites_count": 22882,
+  "projects_count": 8438,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/17/5926",
+  "notes": "this is a great beginner cabling pattern.\r\n\r\nsize 8 us needles and a cable needle or one double pointed needle\r\n\r\nadrian says, \"feel free to use chubbier yarn and/or larger needles to make a giant scarf. it will look just as lovely!\"\r\n",
   "pdf": {
     "filename": "140.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\140.pdf",
-    "url": "https://pdf.ravelrycache.com/helloyarn/6682/irishhikingscarf.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481024&Signature=SJGoGbdCrrfJmku%2BBb2A3o2ZXVI%3D&key_expires=1768481024&key=RG6B_2drBNbAaCPlpYc0uw",
+    "url": "https://pdf.ravelrycache.com/helloyarn/6682/irishhikingscarf.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770429965&Signature=5rvFXnv5BtcVlZknrko228IwncE%3D&key_expires=1770429965&key=E478D8XL21p_GoVnbJ-fNQ",
     "size_bytes": 157948
   }
 }

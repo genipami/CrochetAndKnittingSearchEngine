@@ -1,21 +1,21 @@
 {
   "id": 1323117,
-  "name": "Horizon Cardigan",
+  "name": "horizon cardigan",
   "permalink": "horizon-cardigan-2",
   "url": "https://www.ravelry.com/patterns/library/horizon-cardigan-2",
   "external_url": "https://hobbii.co.uk/horizon-cardigan",
-  "designer_name": "Mary Etheridge",
-  "project_type": "Cardigan",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "mary etheridge",
+  "project_type": "cardigan",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Horizon",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [
@@ -23,12 +23,13 @@
   ],
   "needle_sizes_mm": [],
   "published": "2022/05/01",
-  "sizes_available": "XS-5XL",
-  "rating_average": 4.64935064935065,
-  "rating_count": 77,
-  "difficulty_average": 2.7012987012987013,
-  "favorites_count": 6457,
-  "projects_count": 449,
+  "sizes_available": "xs-5xl",
+  "rating_average": 4.641025641025641,
+  "rating_count": 78,
+  "difficulty_average": 2.6794871794871793,
+  "favorites_count": 6677,
+  "projects_count": 455,
   "free_ravelry_download": false,
-  "download_url": "https://hobbii.co.uk/horizon-cardigan"
+  "download_url": "https://hobbii.co.uk/horizon-cardigan",
+  "notes": "this cardi is made from two hexagons that are then crocheted together to form one body piece. the sleeves, extra body length and collar are then crocheted straight from the body piece.\r\n\r\nthe cardi is made to measure.\r\n\r\nthe number of skeins needed is an approximate value as this is a made to measure garment."
 }

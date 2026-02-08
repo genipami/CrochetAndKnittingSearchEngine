@@ -1,35 +1,35 @@
 {
   "id": 7487278,
-  "name": "Solstice Mittens",
+  "name": "solstice mittens",
   "permalink": "solstice-mittens-2",
   "url": "https://www.ravelry.com/patterns/library/solstice-mittens-2",
   "external_url": "",
-  "designer_name": "Knitwitchery Knits",
-  "project_type": "Mittens/Gloves",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "knitwitchery knits",
+  "project_type": "mittens/gloves",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Le Petit Lambswool",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 50.0
     },
     {
-      "fiber": "Shetland Spindrift",
-      "pct": null
+      "fiber": "Shetland (Wool)",
+      "pct": 50.0
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Ribbing",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "lace",
+    "ribbing",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Colorwork",
-    "In the round",
-    "Lace",
-    "Stranded colorwork"
+    "charted",
+    "colorwork",
+    "in the round",
+    "lace",
+    "stranded colorwork"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -37,18 +37,19 @@
     2.75
   ],
   "published": "2025/12/01",
-  "sizes_available": "One Size",
-  "rating_average": 0,
-  "rating_count": null,
-  "difficulty_average": 0,
-  "favorites_count": 600,
-  "projects_count": 8,
+  "sizes_available": "one size",
+  "rating_average": 4.666666666666667,
+  "rating_count": 3,
+  "difficulty_average": 1.6666666666666667,
+  "favorites_count": 629,
+  "projects_count": 9,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/103134/1044747",
+  "notes": "in the depths of winter, around the shortest day of the year, the sun appears to rise and set in the same place for several days in a row - hence the word, solstice, (sun-stands-still).  this gave me the idea for the name, as the colourwork in these mittens reminded me of little suns. \r\n\r\n\r\nthis fingerless mitten features rolled hems, a colorwork band at the wrist, and comes in 1 size. \r\n\r\nthis is a great stash buster for small left-overs, using only 20g of the main color and under a meter of the contrast color.\r\nthey knit up really quickly, and would be a great gift for someone.\r\n \r\n\r\n**important notes**\r\nthe colorwork should be a bouncy tension, enough to fit over your hand, but not too loose.\r\n i used the traditional knitted cast-on and cast-off in the pattern because i like how the edge looks. but if you'd like a stretchier edge, feel free to use another method. \r\n\r\nyou can customize as well by add ribbing, or adding a top to make a complete mitten. \r\n\r\n**finished measurements**\r\ncircumference: to fit average adult hand of 8.65\"\r\n\r\n**yarn**\r\n* 20g (99 meters or 108 yards) of main color biches & bûches le petit lambswool in bonbon.\r\n* 0.14g (0.69 meters or 0.76 yards) of contrasting color, jamieson's of shetland shetland spindrift in color moorit (108).\r\n\r\n**gauge**\r\n14 sts x 19 rnds = 2\" or 4 cm, on 2.5 mm needles.\r\n\r\n**needles**\r\n2.5 mm & 2.75 mm dps (sets of 4 needles)\r\n\r\n**notions**\r\nslim stitch markers\r\nwaste yarn\r\ndarning needle\r\n",
   "pdf": {
     "filename": "7487278.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7487278.pdf",
-    "url": "https://pdf.ravelrycache.com/KnitwitcheryKnits/2110827/solstice-mittens-pattern-updated.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483225&Signature=5xMmJ9QEdTNSJsX4v0PJx%2Fvg0Ps%3D&key_expires=1768483225&key=tdQDh0nDXE03R9zW9sLrrQ",
+    "url": "https://pdf.ravelrycache.com/KnitwitcheryKnits/2110827/solstice-mittens-pattern-updated.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770441679&Signature=%2BkywKOiUYie8vnMGVnoH%2BNajN2c%3D&key_expires=1770441679&key=90_CZbbDoDn8Wnn6BtoJLg",
     "size_bytes": 92003
   }
 }

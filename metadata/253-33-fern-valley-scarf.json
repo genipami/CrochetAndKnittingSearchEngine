@@ -1,28 +1,32 @@
 {
   "id": 7366290,
-  "name": "253-33 Fern Valley Scarf",
+  "name": "253-33 fern valley scarf",
   "permalink": "253-33-fern-valley-scarf",
   "url": "https://www.ravelry.com/patterns/library/253-33-fern-valley-scarf",
   "external_url": "https://www.garnstudio.com/pattern.php?id=11872&cid=19",
-  "designer_name": "DROPS design",
-  "project_type": "Scarf",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "drops design",
+  "project_type": "scarf",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "DROPS Flora",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 65.0
+    },
+    {
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 35.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Seamless",
-    "Written"
+    "charted",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -30,11 +34,12 @@
   ],
   "published": "2024/08/01",
   "sizes_available": "",
-  "rating_average": 4.909090909090909,
-  "rating_count": 11,
-  "difficulty_average": 2.5,
-  "favorites_count": 1023,
-  "projects_count": 69,
+  "rating_average": 4.916666666666667,
+  "rating_count": 12,
+  "difficulty_average": 2.5454545454545454,
+  "favorites_count": 1074,
+  "projects_count": 73,
   "free_ravelry_download": false,
-  "download_url": "https://www.garnstudio.com/pattern.php?id=11872&cid=19"
+  "download_url": "https://www.garnstudio.com/pattern.php?id=11872&cid=19",
+  "notes": "**knitted shawl in drops flora. piece is knitted sideways in garter stitch with picot edge.**\r\n~~~~~~~~~~~~~~~~~~~~~~\r\n\r\ndrops design: pattern fl-089\r\nyarn group a\r\n\r\n----------------------------------------------------------\r\n\r\n\r\n**measurements**\r\nlength: approx. 103 cm\r\nwidth: approx. 13 cm\r\n\r\n**yarn**:\r\ndrops flora from garnstudio (belongs to yarn group a)\r\n50 g colour 23, misty forest\r\n\r\n**needles**:\r\ndrops circular needle size 3.5 mm: length: 40 cm\r\n\r\n**knitting tension**:\r\n24 stitches in width and 48 rows vertically in garter stitch = 10 x 10 cm.\r\nnote! remember that needle size is only a suggestion. if you have too many stitches on 10 cm switch to larger needles. if you have too few stitches on 10 cm switch to smaller needles."
 }

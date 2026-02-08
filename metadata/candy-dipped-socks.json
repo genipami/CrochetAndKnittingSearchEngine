@@ -1,46 +1,51 @@
 {
   "id": 7353467,
-  "name": "Candy Dipped Socks",
+  "name": "candy dipped socks",
   "permalink": "candy-dipped-socks",
   "url": "https://www.ravelry.com/patterns/library/candy-dipped-socks",
   "external_url": "",
-  "designer_name": "Twin Stitches Designs",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "twin stitches designs",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Plump Rose",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 85.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 15.0
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Lace",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "cable",
+    "lace",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Cables",
-    "Lace"
+    "cables",
+    "lace"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.75
   ],
   "published": "2024/07/01",
-  "sizes_available": "Toddler (Child, Adult Small, Adult Medium, Adult Large, Adult X-Large)",
+  "sizes_available": "toddler (child, adult small, adult medium, adult large, adult x-large)",
   "rating_average": 4.75,
   "rating_count": 4,
   "difficulty_average": 2.0,
-  "favorites_count": 1058,
+  "favorites_count": 1073,
   "projects_count": 40,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/72060/939746",
+  "notes": "> who doesn't love a free pattern?!  if\r\n> you love this pattern make sure you\r\n> favorite it and save it in your queue!\r\n\r\n\r\n\r\n[would you love to be notified of all twin stitches patterns? sign up for my newsletter so as not to miss out!][1]\r\n\r\nbuy 3 get one free! place 4 of my self-published patterns in your cart and the 4th (least expensive) will be free, no code needed! please note this can’t be combined with another coupon code\r\n\r\n**sizes**\r\ntoddler (child, adult small, adult medium, adult large, adult x-large)\r\nto fit approximately 5.5 (6.5, 7, 8, 8.5, 9.5)” / 14 (16.5, 18, 20, 21.5, 24) cm\r\n\r\n**yarn**\r\n\r\nthe sample was knit using ruby and roses plump rose sock set 100 grams, 400 yards / 365\r\nmeters, 85% superwash merino, 15% nylon, 2 ply shown in sock mania sock set\r\n\r\n**needles**\r\nus 5 / 3.75 mm or size needed to obtain correct gauge\r\nsample was knit using 32” / 81 cm cable with the magic loop method\r\n\r\n**gauge**\r\n22 stitches x 32 rows per 4” / 10 cm\r\n\r\n**notions**\r\ntapestry needle\r\nstitch marker\r\n\r\n\r\n  [1]: https://twinstitchesdesigns.myflodesk.com/x130ufm3sd",
   "pdf": {
     "filename": "7353467.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7353467.pdf",
-    "url": "https://pdf.ravelrycache.com/JulieAnnKnitter/1860370/Candy_Dipped_Socks_.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479342&Signature=Y06VxZasPHGyc2c7CvFs7PH8OwI%3D&key_expires=1768479342&key=j0zyseWZwHXD-r7dg_sSnQ",
+    "url": "https://pdf.ravelrycache.com/JulieAnnKnitter/1860370/Candy_Dipped_Socks_.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770420404&Signature=wt2X5toiIRyCd%2FHNKSZOF9krIH0%3D&key_expires=1770420404&key=JRgyQVI74cmPDpQvBt4UEQ",
     "size_bytes": 13063215
   }
 }

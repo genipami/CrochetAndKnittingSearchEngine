@@ -1,30 +1,26 @@
 {
   "id": 1365434,
-  "name": "Mosaic Dishcloth",
+  "name": "mosaic dishcloth",
   "permalink": "mosaic-dishcloth-4",
   "url": "https://www.ravelry.com/patterns/library/mosaic-dishcloth-4",
   "external_url": "",
-  "designer_name": "Bart Larsen",
-  "project_type": "Dishcloth",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "bart larsen",
+  "project_type": "dishcloth",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Dishie",
-      "pct": null
-    },
-    {
-      "fiber": "Sugar'n Cream The Original (Solids)",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Mosaic"
+    "mosaic"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -35,14 +31,15 @@
   "rating_average": 4.764705882352941,
   "rating_count": 17,
   "difficulty_average": 2.8,
-  "favorites_count": 1879,
-  "projects_count": 84,
+  "favorites_count": 1910,
+  "projects_count": 86,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/26969/879044",
+  "notes": "the pattern includes instructions for 4 different dishcloths\r\n\r\ndishcloth is knit in two colors - one at a time.  a total of 100 yards is needed which is 50 yards each of two opposing colors.  \r\n\r\n**note**   sep 21, 2023. an error in the pattern was discovered and a new version has been uploaded. \r\n\r\n** note 2 **  oct 4, 2023.  another error on dishcloth #3 was corrected.  \r\n\r\n",
   "pdf": {
     "filename": "1365434.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1365434.pdf",
-    "url": "https://pdf.ravelrycache.com/astropc/1726044/Mosaic_Dishcloth_1-4_Rev_3.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481923&Signature=F3EfsdsfaXQQuDVSrZoaZu%2B5ylg%3D&key_expires=1768481923&key=Fj-h3J3Bx8RmvCSbEQTtPA",
+    "url": "https://pdf.ravelrycache.com/astropc/1726044/Mosaic_Dishcloth_1-4_Rev_3.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770434627&Signature=7cbrloRHsbyBZ9%2F1V%2F06XVKz6jE%3D&key_expires=1770434627&key=dr5Z3PIJCCPoYrO5NKrCWQ",
     "size_bytes": 1714811
   }
 }

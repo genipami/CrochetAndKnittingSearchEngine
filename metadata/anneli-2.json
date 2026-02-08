@@ -1,34 +1,38 @@
 {
   "id": 995179,
-  "name": "Anneli",
+  "name": "anneli",
   "permalink": "anneli-2",
   "url": "https://www.ravelry.com/patterns/library/anneli-2",
   "external_url": "http://filcolana.dk/da/node/1578",
-  "designer_name": "Sanne Bjerregaard",
-  "project_type": "Cardigan",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "sanne bjerregaard",
+  "project_type": "cardigan",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Pernilla",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 50.0
     },
     {
-      "fiber": "Tilia",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 35.0
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 15.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Raglan",
-    "Seamless",
-    "Top-down",
-    "Written"
+    "raglan",
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -36,12 +40,13 @@
     4.5
   ],
   "published": "2020/01/01",
-  "sizes_available": "XS (S) M (L) XL (XXL)",
+  "sizes_available": "xs (s) m (l) xl (xxl)",
   "rating_average": 4.526315789473684,
   "rating_count": 38,
-  "difficulty_average": 3.4722222222222223,
-  "favorites_count": 9676,
-  "projects_count": 174,
+  "difficulty_average": 3.4594594594594597,
+  "favorites_count": 10000,
+  "projects_count": 180,
   "free_ravelry_download": false,
-  "download_url": "http://filcolana.dk/da/node/1578"
+  "download_url": "http://filcolana.dk/da/node/1578",
+  "notes": "the designer tells us this about the sweet and feminine cardigan anneli: ”i love the combination of the pernilla and tilia yarns. this mix of yarns is both lovely to work with and\r\nlovely to wear. for anneli i have played with this mix of yarns and framed the sweater by only using tilia for the soft and plump rib edges. anneli is a slightly oversized, short\r\ncardigan with deep raglan armholes. the design is worked from the top down, so it is easy to adjust the fit by extending or shortening the body and sleeves”. if you would like to\r\nknit a kids version of the cardigan, the design is called ”alina”.\r\n\r\n_______________________\r\n\r\n*die designerin erzählt über die schöne, feminine strickjacke anneli: „ich liebe die kombination aus pernilla und tilia. diese mischung ist nicht nur wunderbar zu tragen, sondern auch mit ihr zu stricken. alle abschlussbündchen der strickjacke sind ausschließlich aus tilia gestrickt, so dass ein schöner rahmen entsteht. anneli ist dezent oversize, eher kurz und mit einem tiefen raglanarmausschnitt. da anneli aber von oben nach unten gestrickt wird, lässt sich die länge beim stricken ausgezeichnet anpassen.“ wenn du die strickjacke in erwachsenengröße nacharbeiten möchtest, heißt das design alina.*\r\n\r\n_______________________\r\n\r\ndesigneren fortæller om den søde, feminine cardigan anneli: ”jeg elsker kombinationen af pernilla og tilia. denne blanding er både skøn at arbejde med og skøn at have på. til anneli har jeg leget med blandingen og rammet trøjen ind ved udelukkende at bruge tilia i de tykke, bløde ribkanter. anneli er en let oversize, kort cardigan, med dybe raglanærmegab. da anneli er strikket oppefra og ned, er det let at forlænge eller forkorte krop og ærmer.” vil du strikke cardiganen i børnestørrelse, hedder designet alina."
 }

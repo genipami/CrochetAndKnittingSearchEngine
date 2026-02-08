@@ -1,34 +1,42 @@
 {
   "id": 7384345,
-  "name": "Red Nick's Fancy Hat",
+  "name": "red nick's fancy hat",
   "permalink": "red-nicks-fancy-hat",
   "url": "https://www.ravelry.com/patterns/library/red-nicks-fancy-hat",
   "external_url": "https://payhip.com/b/dNbCl",
-  "designer_name": "Lee Meredith",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "lee meredith",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Provincial Tweed",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 50.0
     },
     {
-      "fiber": "Swish Worsted",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 40.0
+    },
+    {
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 7.5
+    },
+    {
+      "fiber": "Rayon / Viscose (Rayon)",
+      "pct": 2.5
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Charted",
-    "Colorwork",
-    "In the round",
-    "Stranded colorwork"
+    "bottom-up",
+    "charted",
+    "colorwork",
+    "in the round",
+    "stranded colorwork"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -39,14 +47,15 @@
   "rating_average": 4.947368421052632,
   "rating_count": 19,
   "difficulty_average": 4.533333333333333,
-  "favorites_count": 2180,
+  "favorites_count": 2209,
   "projects_count": 85,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/902/964261",
+  "notes": "knit yourself a fancy hat to wear in december, using stranded colorwork to make snowflakes and hearts. go bold with high-contrast colors or more subtle by using similar colors. add a pom-pom to finish it off, and optional fur trim if you want it to really match a hat you may see on the movie screen!\r\n\r\nthis pattern was designed to be knit for jk simmons to wear as santa (or nick) in the movie red one (2024). the versions used in the movie were made with lower contrast yarns and had fur added to the brim.\r\n\r\nyardage requirements do not include pom-pom, as the pom-pom may be a faux-fur one, or made with other stash yarn.\r\n\r\nthis is the hat in the movie with the fur trim that he's wearing in the beginning scenes; the ribbed hat without the fur that he wears at the end (and in the posters, etc) is the [rustic red one pattern][1] by jessica spiegel.\r\n\r\nif you make a fancy hat it would be awesome if you share it with the hashtag **#rednicksfancyhat** and/or add the project to ravelry so we can all admire it!\r\n\r\n[here's a blog post][2] with details about this whole movie knitting project!!\r\n\r\n\r\n  [1]: https://www.ravelry.com/patterns/library/rustic-red-one\r\n  [2]: https://leedoesstuff.com/2024/11/13/red-nicks-fancy-hat/",
   "pdf": {
     "filename": "7384345.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7384345.pdf",
-    "url": "https://pdf.ravelrycache.com/leedoesstuff/1915772/RedNicksFancyHat2024.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482672&Signature=pcz3Dpx9NcAdO9oPgWOBPudDE1c%3D&key_expires=1768482672&key=fgdUgxQ7O75KvWmyoCsN3g",
+    "url": "https://pdf.ravelrycache.com/leedoesstuff/1915772/RedNicksFancyHat2024.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770438666&Signature=PGI1UjT7SMKJZluLNjvMEpplMQ0%3D&key_expires=1770438666&key=Cp-OD62wmXLxqMADH3f9gg",
     "size_bytes": 1287972
   }
 }

@@ -1,63 +1,76 @@
 {
   "id": 7404470,
-  "name": "Pink Panther",
+  "name": "pink panther",
   "permalink": "pink-panther-8",
   "url": "https://www.ravelry.com/patterns/library/pink-panther-8",
   "external_url": "",
-  "designer_name": "Gretchen Ceule",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "gretchen ceule",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Felix",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 38.0
     },
     {
-      "fiber": "Kumo",
-      "pct": null
+      "fiber": "Falkland (Wool)",
+      "pct": 15.0
     },
     {
-      "fiber": "LUXE Merino Light Sport",
-      "pct": null
+      "fiber": "Alpaca - Suri (Alpaca)",
+      "pct": 14.8
     },
     {
-      "fiber": "Sock",
-      "pct": null
+      "fiber": "Cashmere goat (Cashmere)",
+      "pct": 12.6
     },
     {
-      "fiber": "Spiffy Lace",
-      "pct": null
+      "fiber": "Silk (Silk)",
+      "pct": 7.4
+    },
+    {
+      "fiber": "Bombyx / Cultivated / Mulberry (Silk)",
+      "pct": 5.2
+    },
+    {
+      "fiber": "Corriedale (Wool)",
+      "pct": 5.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 2.0
     }
   ],
   "stitches_used": [
-    "Eyelet lace",
-    "Garter stitch",
-    "Lace",
-    "Treble crochet (tr)"
+    "eyelet lace",
+    "garter stitch",
+    "lace",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Lace",
-    "Written"
+    "blocking",
+    "lace",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     4.5
   ],
   "published": "2025/01/01",
-  "sizes_available": "One size",
-  "rating_average": 4.806451612903226,
-  "rating_count": 31,
-  "difficulty_average": 1.7096774193548387,
-  "favorites_count": 2977,
-  "projects_count": 108,
+  "sizes_available": "one size",
+  "rating_average": 4.8,
+  "rating_count": 35,
+  "difficulty_average": 1.7142857142857142,
+  "favorites_count": 3061,
+  "projects_count": 123,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/86247/980647",
+  "notes": "if you need a little something bright and cheery...\r\n\r\nthe pink panther shawl is designed for a relaxing knitting experience. eyelet rows are interspersed within the garter stitch, adding charming detail. the shawl is worked from one tip to the center, with increases as you knit, and then decreases toward the other tip. the result is a long, narrow shawl that is reversible and easy to style. to create a lightweight and cozy shawl, hold two\r\nstrands of lace-weight yarn, including one with a fluffy texture, such as suri alpaca. alternatively, you can knit the shawl with a single strand of dk weight yarn or other yarn combinations that achieve a similar weight.\r\n\r\n**dimensions**\r\none size, approx. 64” x 13” (163 cm x 33 cm)\r\n\r\n**yarn**\r\n2 strands of lace, suri, or fingering weight held together to achieve a dk weight or single strand of dk weight yarn. approximately 410 yards is needed. if holding 2 strands together, you will need 410 yards of each yarn.\r\n\r\n**samples**\r\ncolors and whole skeins needed (not actual yardage needed).\r\n\r\nbright pink (la bien aimee felix in kool held with la bien aimee kumo in as if; 1 skein felix, 2 skeins kumo).\r\n\r\nspeckled gray (hedge hog fibers sock in crystal and anime held together; 1 skein each).\r\n\r\nlight pink (the plucky knitter luxe merino sport in dreamy held with the plucky knitter spiffy lace in dreamy; 2 skeins luxe merino sport and 1 skein spiffy lace).\r\n\r\n**needles**\r\nus 7/4.5 mm, or size required to obtain gauge.\r\n\r\n**gauge**\r\n22.5 sts and 16 rows = 4” (10 cm) square in garter stitch after blocking.\r\n\r\ngauge is not crucial for this project, but variations will affect yardage and final measurements.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
   "pdf": {
     "filename": "7404470.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7404470.pdf",
-    "url": "https://pdf.ravelrycache.com/gceule/1954484/Pink_Panther_Final_pdf.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482418&Signature=eOW5n7uuTyhja9aJy1QWjEvzNuY%3D&key_expires=1768482418&key=t_L01VRFumX47v4jZNXsMg",
+    "url": "https://pdf.ravelrycache.com/gceule/1954484/Pink_Panther_Final_pdf.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770437161&Signature=%2B3E1d3DOaFlf2b%2F%2FuYWY2KEGT8A%3D&key_expires=1770437161&key=Zlpi1dv5yjIUAFZ_Ynlkgg",
     "size_bytes": 570253
   }
 }

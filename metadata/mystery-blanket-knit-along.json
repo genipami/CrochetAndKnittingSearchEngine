@@ -1,59 +1,67 @@
 {
   "id": 7386093,
-  "name": "Mystery Blanket Knit Along",
+  "name": "mystery blanket knit along",
   "permalink": "mystery-blanket-knit-along",
   "url": "https://www.ravelry.com/patterns/library/mystery-blanket-knit-along",
   "external_url": "https://berroco.com/patterns/mystery-blanket-knit-along/",
-  "designer_name": "Berroco Design Team",
-  "project_type": "Blanket",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "berroco design team",
+  "project_type": "blanket",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Lanas",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 41.4
     },
     {
-      "fiber": "Modern Cotton™",
-      "pct": null
+      "fiber": "Pima (Cotton)",
+      "pct": 14.3
     },
     {
-      "fiber": "Pima 100",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 12.4
     },
     {
-      "fiber": "Remix®",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 10.9
     },
     {
-      "fiber": "Ultra Alpaca",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 7.1
     },
     {
-      "fiber": "Ultra® Wool",
-      "pct": null
+      "fiber": "Rayon / Viscose (Rayon)",
+      "pct": 5.7
     },
     {
-      "fiber": "Vintage®",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 5.4
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 1.4
+    },
+    {
+      "fiber": "Flax (Linen)",
+      "pct": 1.3
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Double crochet (dc)",
-    "Lace",
-    "Treble crochet (tr)"
+    "cable",
+    "double crochet (dc)",
+    "lace",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Cables",
-    "Charted",
-    "Colorwork",
-    "In the round",
-    "Intarsia",
-    "Lace",
-    "Seamed",
-    "Stranded colorwork",
-    "Written"
+    "cables",
+    "charted",
+    "colorwork",
+    "in the round",
+    "intarsia",
+    "lace",
+    "seamed",
+    "stranded colorwork",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -62,11 +70,12 @@
   ],
   "published": "2025/01/01",
   "sizes_available": "52\" x 64\"/132 cm x 162.5 cm ",
-  "rating_average": 4.565891472868217,
-  "rating_count": 129,
-  "difficulty_average": 4.464285714285714,
-  "favorites_count": 2369,
-  "projects_count": 1041,
+  "rating_average": 4.571428571428571,
+  "rating_count": 133,
+  "difficulty_average": 4.491379310344827,
+  "favorites_count": 2403,
+  "projects_count": 1040,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/6808/974516"
+  "download_url": "http://www.ravelry.com/dls/6808/974516",
+  "notes": "build your skills with berroco's year-long mystery blanket knit along! the berroco design team has worked to create a delightful mix of techniques and methods for twenty 12 x 12\" squares that come together to create a stunning finished blanket. practice outside in, center out, and straight up and down knitting as you work though the collection of squares with their engaging mix of constructions. throughout the year, you'll work squares featuring texture patterns, lace, cables, slipped stitches, stranded colorwork, intarsia, and finish with a cable and lace combo. \r\n\r\nsquares are seamed together during finishing with a border added to frame your masterpiece with the perfect finishing touch. \r\n\r\n[**join the mystery blanket knit along—sign up here!**][1]\r\n\r\ncheck out photos of suggested color combinations on the [berroco website here][2] or choose your own from the 101 available shades of [vintage][3]!\r\n\r\nwant a sneak peek of the blanket layouts? **[click here to see diagrams in our 7 suggested colorways][3].**\r\n\r\n**finished measurements**\r\napproximately 52\" / 132 cm x 64\" / 162.5 cm \r\n\r\n**yarn**\r\nberroco vintage (100 g): 6 hanks c1, 4 hanks c2, 3 hanks c3, 3 hanks c4, 2 hanks c5\r\n\r\nsuggested colorways:\r\n\r\n* coastal dream (sample colors): 5101\r\n  mochi (c1), 5172 calico (c2), 51198\r\n  acai (c3), 5105 oats (c4), 51184\r\n  twilight (c5)\r\n* neutral comfort: 5101 mochi (c1), 5160\r\n  smoke (c2), 5103 mocha (c3), 5174 rye\r\n  (c4), 5107 cracked pepper (c5) \r\n* berries & cream: 5102 buttercream\r\n  (c1), 5195   macaron (c2), 5182 black\r\n  currant (c3),   51181 ruby (c4), 51194\r\n  rhubarb (c5)\r\n* eclectic haze: 51133 electric (c1),\r\n  51132 grapes (c2), 5123 blush (c3),\r\n  51131 citrus (c4), 51122 violet (c5)\r\n* sage advice: 51196 jalapeno (c1), 5199\r\n  sage (c2), 5185 tide pool (c3), 5189\r\n  charcoal (c4), 5104 mushroom (c5)\r\n* spring awakening: 5132 sky blue (c1),\r\n  5100 snow day (c2), 5122 banane (c3),\r\n  5126 watermelon (c4), 5116 dove (c5)\r\n* forest path: 5177 douglas fir (c1),\r\n  5107 cracked pepper (c2), 5143 dark\r\n  denim (c3), 5182 black currant (c4),\r\n  5173 red pepper (c5)\r\n\r\n**needles**\r\nstraight or circular needles, sizes 7 (4.5 mm) and 8 (5 mm) for squares, *or sizes to obtain gauges*\r\nlong circular needle, size 7 (4.5 mm)\r\n\r\n\r\n  [1]: https://form.typeform.com/to/uf5ljsjv\r\n  [2]: https://berroco.com/patterns/mystery-blanket-knit-along/\r\n  [3]: https://cdn11.bigcommerce.com/s-x11gxbo1oj/content/berroco/patterns/vintagemkalupdatedcolorways.pdf"
 }

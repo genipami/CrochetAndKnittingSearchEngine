@@ -1,23 +1,23 @@
 {
   "id": 471095,
-  "name": "Diamond Stitch Baby Blanket",
+  "name": "diamond stitch baby blanket",
   "permalink": "diamond-stitch-baby-blanket",
   "url": "https://www.ravelry.com/patterns/library/diamond-stitch-baby-blanket",
   "external_url": "http://lacycrochet.blogspot.com/2014/02/diamond-stitch-baby-blanket-free-pattern.html",
-  "designer_name": "Olga Poltava",
-  "project_type": "Blanket",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "olga poltava",
+  "project_type": "blanket",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Snuggly Wuggly Big!",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "Charted",
-    "Written"
+    "charted",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [],
@@ -26,8 +26,9 @@
   "rating_average": 4.739130434782608,
   "rating_count": 207,
   "difficulty_average": 2.195,
-  "favorites_count": 9397,
-  "projects_count": 784,
+  "favorites_count": 9440,
+  "projects_count": 788,
   "free_ravelry_download": false,
-  "download_url": "http://lacycrochet.blogspot.com/2014/02/diamond-stitch-baby-blanket-free-pattern.html"
+  "download_url": "http://lacycrochet.blogspot.com/2014/02/diamond-stitch-baby-blanket-free-pattern.html",
+  "notes": "this is a written pattern and a symbol chart. "
 }

@@ -1,29 +1,33 @@
 {
   "id": 1046171,
-  "name": "Boho Bag Saver",
+  "name": "boho bag saver",
   "permalink": "boho-bag-saver",
   "url": "https://www.ravelry.com/patterns/library/boho-bag-saver",
   "external_url": "https://daysck.com/crochet-for-days/the-mystery-cal-crochet-along",
-  "designer_name": "Dana Hogan",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "dana hogan",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Comfy Cotton Blend",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 50.0
+    },
+    {
+      "fiber": "Polyester (Polyester)",
+      "pct": 50.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Half double crochet (hdc)",
-    "Single crochet (sc)",
-    "Slip stitch (sl st)",
-    "Treble crochet (tr)",
-    "V-stitch"
+    "double crochet (dc)",
+    "half double crochet (hdc)",
+    "single crochet (sc)",
+    "slip stitch (sl st)",
+    "treble crochet (tr)",
+    "v-stitch"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     5.0
@@ -34,8 +38,9 @@
   "rating_average": 4.822916666666667,
   "rating_count": 96,
   "difficulty_average": 2.5806451612903225,
-  "favorites_count": 9646,
-  "projects_count": 404,
+  "favorites_count": 9746,
+  "projects_count": 411,
   "free_ravelry_download": false,
-  "download_url": "http://www.ravelry.com/purchase/days-crochet-nc/621909"
+  "download_url": "http://www.ravelry.com/purchase/days-crochet-nc/621909",
+  "notes": "i designed this grocery bag holder to be modern, functional and beautiful. the intricate design is surprisingly easy to create and will make you want to put it somewhere on display rather than hiding it away in the pantry. they also make great market items, as they sell extremely well.\r\n\r\nsupplies needed:\r\n-5 mm size h hook\r\n-regular sized hair elastic (preferably a new one), the thicker kind. you don’t want it to be stretched out. \r\n-150-175 yards of dk weight (size 3) or worsted weight (size 4) yarn (i used lion brand comfy cotton blend)\r\n-a 15-20 mm wooden bead (optional)\r\n-scissors, tape measure, yarn needle\r\n\r\nterminology and abbreviations used:\r\npattern is written in us terminology.\r\n \r\nbeginning - beg\r\nchain(s) - ch(s)\r\ndouble crochet - dc\r\nfasten off – fo\r\nhalf double crochet - hdc\r\nsingle crochet – sc\r\nskip - sk\r\nslip stitch - sl st\r\nspace(es) - sp(s)\r\nstitch(es) - st(s)\r\ntreble crochet - tr\r\nv-stitch - vst\r\n\r\ngauge:\r\ngauge is not essential for this project, but i do give my diameter measurement after round 2 to give you a baseline measurement.\r\n\r\nfinished measurements:\r\nbag saver will stretch quite a lot with bags inside, but the approximate measurement 4.5\" wide x 24\" long."
 }

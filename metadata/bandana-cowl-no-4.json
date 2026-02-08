@@ -1,31 +1,35 @@
 {
   "id": 1001240,
-  "name": "Bandana Cowl No. 4",
+  "name": "bandana cowl no. 4",
   "permalink": "bandana-cowl-no-4",
   "url": "https://www.ravelry.com/patterns/library/bandana-cowl-no-4",
   "external_url": "",
-  "designer_name": "Cleo Malone",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "cleo malone",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Nest",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Broken rib",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "broken rib",
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "In the round",
-    "Seamless",
-    "Top-down",
-    "Written"
+    "blocking",
+    "in the round",
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -33,17 +37,18 @@
   ],
   "published": "2020/02/01",
   "sizes_available": "one size",
-  "rating_average": 4.7682926829268295,
-  "rating_count": 82,
-  "difficulty_average": 1.7375,
-  "favorites_count": 3019,
-  "projects_count": 318,
+  "rating_average": 4.771084337349397,
+  "rating_count": 83,
+  "difficulty_average": 1.728395061728395,
+  "favorites_count": 3060,
+  "projects_count": 328,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/30960/594819",
+  "notes": "**yarn**: 130 yards of dk weight yarn\r\nwe used 1 skein of shibui nest in \"abyss.\"\r\n\r\n**needles**: us 7 / 4.5 mm 16\" circulars\r\n**or equivalent type & length in size needed to obtain gauge**\r\n\r\n**notions**: 2 different colored stitch markers, darning needle, scissors, and tape measure\r\n\r\n**gauge**: 5 stitches & 8 rows per inch in broken rib after blocking\r\n\r\n**sizes**: one size, though instructions are given in pattern to adjust length\r\n\r\n**measurements**: 14.5” around neck, 26\" around at base, 7” tall\r\n",
   "pdf": {
     "filename": "1001240.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1001240.pdf",
-    "url": "https://pdf.ravelrycache.com/cleomalone/1607278/Bandana_Cowl_No._4__Shibui_Nest___Stockinette_.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478954&Signature=5Ik6%2FC6%2BckNYqxWtAFr%2FwgiFQW8%3D&key_expires=1768478954&key=8QlBc7k2Jr5ttotITqRXgw",
+    "url": "https://pdf.ravelrycache.com/cleomalone/1607278/Bandana_Cowl_No._4__Shibui_Nest___Stockinette_.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770418221&Signature=LQ32661TKAk3ANLfvVWDJleAyg8%3D&key_expires=1770418221&key=iuo_K1XaULZbAu00KdDzJQ",
     "size_bytes": 714911
   }
 }

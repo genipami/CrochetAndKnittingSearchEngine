@@ -1,22 +1,22 @@
 {
   "id": 7356975,
-  "name": "Ribbed Bucket Hat",
+  "name": "ribbed bucket hat",
   "permalink": "ribbed-bucket-hat-2",
   "url": "https://www.ravelry.com/patterns/library/ribbed-bucket-hat-2",
   "external_url": "https://www.hookedonhomemadehappiness.com/ribbed-bucket-hat-crochet-pattern/",
-  "designer_name": "Breann Mauldin",
-  "project_type": "Hat",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "breann mauldin",
+  "project_type": "hat",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Dishie",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     5.0
@@ -27,8 +27,9 @@
   "rating_average": 5.0,
   "rating_count": 4,
   "difficulty_average": 4.25,
-  "favorites_count": 402,
-  "projects_count": 18,
+  "favorites_count": 408,
+  "projects_count": 19,
   "free_ravelry_download": false,
-  "download_url": "https://www.hookedonhomemadehappiness.com/ribbed-bucket-hat-crochet-pattern/"
+  "download_url": "https://www.hookedonhomemadehappiness.com/ribbed-bucket-hat-crochet-pattern/",
+  "notes": "this ribbed bucket hat crochet pattern has a fun, ribbed design. post stitches are gradually added throughout to create this interesting texture. "
 }

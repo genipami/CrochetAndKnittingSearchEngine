@@ -1,47 +1,48 @@
 {
   "id": 7425035,
-  "name": "Britney Bandana",
+  "name": "britney bandana",
   "permalink": "britney-bandana",
   "url": "https://www.ravelry.com/patterns/library/britney-bandana",
   "external_url": "https://youtu.be/LBdUxVVhK5I",
-  "designer_name": "Passive Royal",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "passive royal",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Cotton 8 Ply",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Lace",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "lace",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Lace",
-    "Seamless",
-    "Written"
+    "lace",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     4.5
   ],
   "published": "2025/04/01",
-  "sizes_available": "One size - Adult",
-  "rating_average": 4.714285714285714,
-  "rating_count": 7,
-  "difficulty_average": 2.6666666666666665,
-  "favorites_count": 659,
-  "projects_count": 21,
+  "sizes_available": "one size - adult",
+  "rating_average": 4.777777777777778,
+  "rating_count": 9,
+  "difficulty_average": 2.5714285714285716,
+  "favorites_count": 731,
+  "projects_count": 25,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/111233/996480",
+  "notes": "**description**\r\nthe britney bandana is a simple garter stitch bandana with a lace & picot edging.  the pattern also includes i-cord ties and optional knitted loops to secure the piece in place using a slide comb.  this pattern is for experienced beginners.\r\n\r\n**measurements (one size)**\r\nlength - 21.5cm / 8.5 in.\r\nwidth - 38cm / 15 in.\r\nlength of ties - 28cm / 11 in.\r\n\r\n**yarn & tension**\r\n40g bendigo woollen mills cotton 8ply \r\n24 sts / 10 cm (4 in.) using 4.5mm needles.\r\n\r\n**needles & extras**\r\n4.5mm needles (circular or straight)\r\n2 stitch markers\r\nscissors / thread cutter\r\nmeasuring tape\r\nwool needle for weaving in ends\r\n\r\nvideo tutorial available: https://youtu.be/lbduxvvhk5i\r\n\r\n\r\nthis is a free and untested pattern.  if i've made a mistake or you require support let me know by contacting passiveroyal@gmail.com.\r\n\r\n  [1]: https://youtu.be/lbduxvvhk5i",
   "pdf": {
     "filename": "7425035.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7425035.pdf",
-    "url": "https://pdf.ravelrycache.com/PassiveRoyal/2039008/Britney_Bandana_by_Passive_Royal_v2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479238&Signature=uJqdR4ITtJLGPm2HX6AiR9GGQwg%3D&key_expires=1768479238&key=dLLCOQzRDEK5iCgyq_SLNA",
+    "url": "https://pdf.ravelrycache.com/PassiveRoyal/2039008/Britney_Bandana_by_Passive_Royal_v2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770419819&Signature=QNwsuONm%2FezzyM5aUPzOc0aT6BY%3D&key_expires=1770419819&key=i_lk_aK-tEKTo0_DC9t2Jg",
     "size_bytes": 8555634
   }
 }

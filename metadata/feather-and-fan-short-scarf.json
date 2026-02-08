@@ -1,25 +1,25 @@
 {
   "id": 146287,
-  "name": "Feather and Fan Short Scarf",
+  "name": "feather and fan short scarf",
   "permalink": "feather-and-fan-short-scarf",
   "url": "https://www.ravelry.com/patterns/library/feather-and-fan-short-scarf",
   "external_url": "",
-  "designer_name": "Kelly Faller",
-  "project_type": "Scarf",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Lace",
+  "designer_name": "kelly faller",
+  "project_type": "scarf",
+  "fiber_art": "knitting",
+  "yarn_weight": "lace",
   "materials": [
     {
-      "fiber": "Lace",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)"
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "Lace",
-    "Written"
+    "lace",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -27,17 +27,18 @@
   ],
   "published": "2009/10/01",
   "sizes_available": "15” x 31”",
-  "rating_average": 4.623441396508728,
-  "rating_count": 802,
-  "difficulty_average": 2.249146757679181,
-  "favorites_count": 21956,
-  "projects_count": 2598,
+  "rating_average": 4.624378109452737,
+  "rating_count": 804,
+  "difficulty_average": 2.25,
+  "favorites_count": 22059,
+  "projects_count": 2606,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/6723/24481",
+  "notes": "my aunt asked me to knit her a scarf for christmas and knowing that i was getting a late start on things, i chose a pattern that was quick and easy and that i love: the feather and fan stitch.\r\n\r\ndimensions shown: 15” x 31”\r\n\r\nyou can knit this pattern to your desired length.\r\n\r\n\r\npersonal note 8/25/2015: i'm blown away by how many people have knit this pattern and all the awesome variations and modifications.  you guys are fantastic!\r\n\r\n",
   "pdf": {
     "filename": "146287.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\146287.pdf",
-    "url": "https://pdf.ravelrycache.com/firefly/58594/Feather_and_Fan_Short_Scarf__corrected_.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480314&Signature=9fv6VFtA7%2BNNY4AbNwKI%2Bw2uS34%3D&key_expires=1768480314&key=vHkAdkFlSraE7lCK4vilUA",
+    "url": "https://pdf.ravelrycache.com/firefly/58594/Feather_and_Fan_Short_Scarf__corrected_.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770425813&Signature=Ah0UXj1LjOEwxwlsvPcsK9KG9Q0%3D&key_expires=1770425813&key=G01PP1YyR7eZFSc7zl2Y0A",
     "size_bytes": 726137
   }
 }

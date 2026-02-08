@@ -1,28 +1,28 @@
 {
   "id": 600144,
-  "name": "Lizard",
+  "name": "lizard",
   "permalink": "lizard-6",
   "url": "https://www.ravelry.com/patterns/library/lizard-6",
   "external_url": "https://www.crazypatterns.net/de/items/21848/lizard",
-  "designer_name": "Jasmin Räsänen",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Sport",
+  "designer_name": "jasmin räsänen",
+  "project_type": "shawl/wrap",
+  "fiber_art": "crochet",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Traumgarne Lace",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 50.0
     },
     {
-      "fiber": "Unikatwolle 5-fädig",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 50.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted"
+    "charted"
   ],
   "hook_sizes_mm": [
     5.5
@@ -30,11 +30,12 @@
   "needle_sizes_mm": [],
   "published": "2015/08/01",
   "sizes_available": "",
-  "rating_average": 4.620087336244541,
-  "rating_count": 458,
-  "difficulty_average": 2.449244060475162,
-  "favorites_count": 15290,
-  "projects_count": 1399,
+  "rating_average": 4.618736383442266,
+  "rating_count": 459,
+  "difficulty_average": 2.4482758620689653,
+  "favorites_count": 15316,
+  "projects_count": 1402,
   "free_ravelry_download": false,
-  "download_url": "https://www.crazypatterns.net/de/items/21848/lizard"
+  "download_url": "https://www.crazypatterns.net/de/items/21848/lizard",
+  "notes": "\r\n\r\n\r\n\r\nthank you annie for the dutch translation\r\n\r\n  [1]: https://www.dropbox.com/s/mpz8u8enktyd5p0/lizard.pdf"
 }

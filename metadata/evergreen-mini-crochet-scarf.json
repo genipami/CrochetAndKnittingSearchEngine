@@ -1,28 +1,28 @@
 {
   "id": 7326975,
-  "name": "Evergreen Mini Crochet Scarf",
+  "name": "evergreen mini crochet scarf",
   "permalink": "evergreen-mini-crochet-scarf",
   "url": "https://www.ravelry.com/patterns/library/evergreen-mini-crochet-scarf",
   "external_url": "https://sarahmaker.com/crochet-mini-scarf-pattern/",
-  "designer_name": "Sarah Stearns",
-  "project_type": "Scarf",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "sarah stearns",
+  "project_type": "scarf",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Swish DK",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Half double crochet (hdc)",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "half double crochet (hdc)",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Written"
+    "blocking",
+    "written"
   ],
   "hook_sizes_mm": [
     4.0
@@ -30,11 +30,12 @@
   "needle_sizes_mm": [],
   "published": "2024/03/01",
   "sizes_available": "",
-  "rating_average": 4.647058823529412,
-  "rating_count": 17,
-  "difficulty_average": 2.9375,
-  "favorites_count": 1198,
-  "projects_count": 108,
+  "rating_average": 4.666666666666667,
+  "rating_count": 18,
+  "difficulty_average": 2.9411764705882355,
+  "favorites_count": 1280,
+  "projects_count": 115,
   "free_ravelry_download": false,
-  "download_url": "https://sarahmaker.com/crochet-mini-scarf-pattern/"
+  "download_url": "https://sarahmaker.com/crochet-mini-scarf-pattern/",
+  "notes": "this mini scarf crochet pattern is perfect for beginners! you’ll love its modern knit-like texture and polished i-cord edging.\r\n\r\n**gauge**\r\n18 sts and 11 rows = 4 in/10 cm using us g-6 (4.0mm) hook\r\n\r\nmeasured over hdc-blo stitch pattern, after blocking.\r\n\r\n**finished measurements**\r\noption 1: wraps around the neck once, with extra length to tie.\r\n\r\n3.5” wide, 30 (32, 34, 36, 38, 40”) / 76 (81, 86, 91, 97, 102cm) long\r\n\r\noption 2: wraps around the neck twice, with extra length to tie.\r\n\r\n3.5” wide, 40 (42, 44, 46, 48, 50”) / 102 (107, 112, 117, 122, 127cm) long\r\n\r\n**yarn requirements**\r\nsize 3 dk weight \r\n\r\noption 1: 80 (90, 95, 105, 115, 120) yds / 73 (82, 87, 96, 105, 110) m\r\n\r\noption 2: 120 (130, 135, 145, 155, 160) yds / 110 (119, 123, 133, 142, 146) m"
 }

@@ -1,44 +1,49 @@
 {
   "id": 7487931,
-  "name": "Let's Shawl Together",
+  "name": "let's shawl together",
   "permalink": "lets-shawl-together",
   "url": "https://www.ravelry.com/patterns/library/lets-shawl-together",
-  "external_url": "",
-  "designer_name": "Crystal Hiatt | Factory Girl Design",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "external_url": null,
+  "designer_name": "crystal hiatt | factory girl design",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "House Fingering",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Lace",
-    "Written"
+    "lace",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.75
   ],
   "published": "2025/12/01",
-  "sizes_available": "One Size: TBD in process",
+  "sizes_available": "one size: tbd in process",
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 1014,
+  "favorites_count": 1061,
   "projects_count": 18,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/71656/1045273",
+  "notes": "> **note: this shawl is being designed as we unwrap the house of a la mode\r\n> yarn advent this year together. each\r\n> section is updated every couple of\r\n> days as a mini is opened. this is a\r\n> free pattern still in process. would\r\n> love to have you join along in the\r\n> fun! updates will be made to your library regularly.\r\n> \r\n> **if you'd like to follow along for**\r\n> **vlogmas, please join me [here][1].**\r\n\r\n\r\n**about let’s shawl together**\r\nunwrap a new moment of joy with every mini.\r\n\r\nlet’s shawl together is a joyful, evolving pattern designed to grow alongside your yarn advent...one stitch, one shade, one surprise at a time. this shawl invites you into a rhythm of daily creativity and cozy anticipation.\r\n\r\ndesigned to use 21–24 fingering weight minis (20g each), this project is perfect for advent calendars, scrap yarn stashes, or your favorite curated collections.\r\n\r\nyou’ll flow through playful stitch textures and rows that feel as meditative as they are meaningful. every section is crafted to let your colors shine, while keeping the knitting approachable, engaging, and full of joy. it’s not just a shawl, it’s a shared journey. a celebration of slowing down. a keepsake stitched with memory, movement, and heart. \r\n\r\nlet’s shawl together. because every stitch feels better when we’re making it together.\r\n\r\n\r\n**yarn**\r\ndesigned for fingering weight yarn. \r\nuses 1827 - 2088 yd/1680 - 1920 m.\r\n\r\npattern features house of a la mode fingering minis from advent 2025. \r\neach mini is 20 g (87 yards/80 m).\r\n\r\n\r\n**suggested needles**\r\nus 5/3.75 mm straight or circular needles.\r\n\r\n\r\n**finished measurements**\r\ntbd\r\n\r\n\r\n  [1]: https://www.youtube.com/@factorygirldesign",
   "pdf": {
     "filename": "7487931.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7487931.pdf",
-    "url": "https://pdf.ravelrycache.com/FactoryGirlDesign/2117327/Lets_Shawl_Together_V5.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481398&Signature=m%2BKJZbtHD%2Bg9N03p5ADQv1%2FUUvY%3D&key_expires=1768481398&key=V6AInB9XlBaY2u9P-OhqBQ",
+    "url": "https://pdf.ravelrycache.com/FactoryGirlDesign/2117327/Lets_Shawl_Together_V5.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770431802&Signature=jT5qy1xqxhKtDB99WhkUiNuRpMI%3D&key_expires=1770431802&key=4MqgtvFKW7qz0Bs0KZX5UQ",
     "size_bytes": 854923
   }
 }

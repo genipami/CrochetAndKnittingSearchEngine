@@ -1,40 +1,49 @@
 {
   "id": 7422086,
-  "name": "Bonnet Hood",
+  "name": "bonnet hood",
   "permalink": "bonnet-hood",
   "url": "https://www.ravelry.com/patterns/library/bonnet-hood",
   "external_url": "https://www.yarnspirations.com/products/caron-colorama-halo-knit-bonnet-hood",
-  "designer_name": "Yarnspirations Design Studio",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "yarnspirations design studio",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Colorama Halo Perfect Phasing",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 71.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 18.0
+    },
+    {
+      "fiber": "Polyester (Polyester)",
+      "pct": 11.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamed",
-    "Worked flat",
-    "Written"
+    "seamed",
+    "worked flat",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     5.5
   ],
   "published": "2025/02/01",
-  "sizes_available": "One size to fit Adult.",
+  "sizes_available": "one size to fit adult.",
   "rating_average": 4.2,
   "rating_count": 5,
   "difficulty_average": 2.0,
-  "favorites_count": 1239,
-  "projects_count": 32,
+  "favorites_count": 1377,
+  "projects_count": 39,
   "free_ravelry_download": false,
-  "download_url": "https://cdn.shopify.com/s/files/1/0711/5132/1403/files/CAK0116-38094M.pdf?_gl=1*1avu0fx*_gcl_au*OTgwNzUwMDA3LjE3MzY3ODkxODg.*_ga*ZGRiYzBiYmMtYTYwZC00MDI5LThkMzUtNDZlMGMyNWVmZmNk*_ga_FNZYKNERBS*MTc0NDA1ODQ5NC41MS4xLjE3NDQwNTkzMjUuNTUuMC4xMzgyNDc4NzQz*_ga_B"
+  "download_url": "https://cdn.shopify.com/s/files/1/0711/5132/1403/files/CAK0116-38094M.pdf?_gl=1*1avu0fx*_gcl_au*OTgwNzUwMDA3LjE3MzY3ODkxODg.*_ga*ZGRiYzBiYmMtYTYwZC00MDI5LThkMzUtNDZlMGMyNWVmZmNk*_ga_FNZYKNERBS*MTc0NDA1ODQ5NC41MS4xLjE3NDQwNTkzMjUuNTUuMC4xMzgyNDc4NzQz*_ga_B",
+  "notes": "keep cozy (and trending) with this knit bonnet hood! worked flat from tip-to-tip, the hood is shaped with simple knit 2 together decreases and knit front and back increases in squishy garter stitch. a touch of minimal seaming at the back creates a gently contoured fit, while caron colorama halo adds a dreamy, brushed texture for an irresistibly soft finish. the elongated scarf ties let you wrap, drape, or knot in multiple ways—giving you both customizable style and extra warmth all season long.\r\n\r\nmaterials\r\ncaron® colorama halo™ (8 oz/227 g; 481 yds/440 m)\r\nhot pink (06001) 1 ball \r\n\r\nsize\r\none size to fit adult."
 }

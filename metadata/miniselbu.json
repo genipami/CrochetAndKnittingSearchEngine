@@ -1,45 +1,33 @@
 {
   "id": 716557,
-  "name": "Miniselbu",
+  "name": "miniselbu",
   "permalink": "miniselbu",
   "url": "https://www.ravelry.com/patterns/library/miniselbu",
   "external_url": "http://www.strikkezilla.no/blogg/2016/miniselbu",
-  "designer_name": "Tina Hauglund",
-  "project_type": "Mittens/Gloves",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "tina hauglund",
+  "project_type": "mittens/gloves",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Baby Panda",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 83.3
     },
     {
-      "fiber": "Baby Ull",
-      "pct": null
-    },
-    {
-      "fiber": "Merino",
-      "pct": null
-    },
-    {
-      "fiber": "Saga",
-      "pct": null
-    },
-    {
-      "fiber": "Yaku",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 16.7
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Charted",
-    "In the round",
-    "Seamless",
-    "Stranded colorwork",
-    "Written"
+    "bottom-up",
+    "charted",
+    "in the round",
+    "seamless",
+    "stranded colorwork",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -52,14 +40,15 @@
   "rating_average": 4.773049645390071,
   "rating_count": 141,
   "difficulty_average": 2.5074626865671643,
-  "favorites_count": 4807,
-  "projects_count": 904,
+  "favorites_count": 4893,
+  "projects_count": 911,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/47621/373933",
+  "notes": "miniselbuvotter uten tommel.\r\n\r\ndiagrammet er det samme på hver størrelse, men pinnetykkelsen (og dermed strikkefastheten) bestemmer hvor store de blir - du kan dermed justere strl både opp og ned med tykkere eller tynnere garn og pinner.\r\n\r\n**strikkefastheten bestemmer størrelsen:**\r\n32 m / 10 cm = 3-6 måneder\r\n30 m / 10 cm = 6-9 måneder\r\n27 m / 10 cm = 9-12 måneder\r\n\r\n**garnmengde (165 m/50g):**\r\n7-10 g av både mønsterfarge og bunnfarge.\r\n\r\nta en titt på [strikkezilla.no/2810][1] for flere gode forslag\r\n\r\n\r\n---\r\n\r\nmini selbu mittens without thumb.\r\n\r\nthe pattern is in norwegian, but it's fully charted and should be no problem to understand.\r\n\r\nit's the same pattern for every size, you only adjust your gauge (needlesize) to get the different sizes.\r\n\r\n\r\n  [1]: https://www.strikkezilla.no/2810",
   "pdf": {
     "filename": "716557.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\716557.pdf",
-    "url": "https://pdf.ravelrycache.com/strikkezilla/1294671/Miniselbu.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481826&Signature=jy%2BhOSH3FZ1Yxjmjy691cAbd4c4%3D&key_expires=1768481826&key=iAguCCBTNuM-BoV7l732FQ",
+    "url": "https://pdf.ravelrycache.com/strikkezilla/1294671/Miniselbu.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770434198&Signature=2TH7JFBclmbZ2EXEWuqYl%2Fxp7gc%3D&key_expires=1770434198&key=LZx5PJxqwLeHJ2oCIC5TGQ",
     "size_bytes": 845095
   }
 }

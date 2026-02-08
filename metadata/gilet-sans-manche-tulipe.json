@@ -1,29 +1,37 @@
 {
   "id": 7322470,
-  "name": "Gilet sans manche Tulipe",
+  "name": "gilet sans manche tulipe",
   "permalink": "gilet-sans-manche-tulipe",
   "url": "https://www.ravelry.com/patterns/library/gilet-sans-manche-tulipe",
   "external_url": "https://www.youtube.com/watch?v=yXXn4-WMnxQ&t=166s",
-  "designer_name": "Stéphanie L",
-  "project_type": "Tank/Camisole",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "stéphanie l",
+  "project_type": "tank/camisole",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "DROPS Alpaca",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 48.3
     },
     {
-      "fiber": "DROPS Kid-Silk",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 25.0
     },
     {
-      "fiber": "DROPS Nord",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 10.0
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 8.3
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 8.3
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [],
@@ -32,12 +40,13 @@
     4.5
   ],
   "published": "2024/03/01",
-  "sizes_available": "S, M,L, XL, XXL",
+  "sizes_available": "s, m,l, xl, xxl",
   "rating_average": 5.0,
   "rating_count": 19,
   "difficulty_average": 2.7058823529411766,
-  "favorites_count": 1553,
-  "projects_count": 76,
+  "favorites_count": 1613,
+  "projects_count": 73,
   "free_ravelry_download": false,
-  "download_url": "https://www.youtube.com/watch?v=yXXn4-WMnxQ&t=166s"
+  "download_url": "https://www.youtube.com/watch?v=yXXn4-WMnxQ&t=166s",
+  "notes": "gilet sans manche avec 3 options ! choisissez la version que vous souhaitez tricoter !\r\n\r\ntutoriel complet en pas à pas disponible sur ma chaîne youtube : \r\nhttps://www.youtube.com/watch?v=yxxn4-wmnxq&t=166s"
 }

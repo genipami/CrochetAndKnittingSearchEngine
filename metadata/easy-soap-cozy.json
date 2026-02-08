@@ -1,44 +1,45 @@
 {
   "id": 878811,
-  "name": "Easy Soap Cozy",
+  "name": "easy soap cozy",
   "permalink": "easy-soap-cozy",
   "url": "https://www.ravelry.com/patterns/library/easy-soap-cozy",
   "external_url": "https://kamecrochet.com/2019/07/09/easy-soap-cozy-pattern/",
-  "designer_name": "K.A.M.E. Crochet",
-  "project_type": "Dishcloth",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "k.a.m.e. crochet",
+  "project_type": "dishcloth",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Friends Cotton 8/6",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round"
+    "bottom-up",
+    "in the round"
   ],
   "hook_sizes_mm": [
     4.0
   ],
   "needle_sizes_mm": [],
   "published": "2018/11/01",
-  "sizes_available": "One size to fit a standard sized soap",
-  "rating_average": 4.914285714285715,
-  "rating_count": 35,
-  "difficulty_average": 1.8529411764705883,
-  "favorites_count": 2519,
-  "projects_count": 311,
+  "sizes_available": "one size to fit a standard sized soap",
+  "rating_average": 4.916666666666667,
+  "rating_count": 36,
+  "difficulty_average": 1.8285714285714285,
+  "favorites_count": 2563,
+  "projects_count": 313,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/72226/494910",
+  "notes": "this crochet soap cozy pattern is a quick and satisfying make, perfect for advanced beginners who want to practice texture and shaping. \r\nthe cozy gently exfoliates while helping your soap last longer, and the handy loop makes it easy to hang in the shower. \r\na fun, practical project that’s great for gifts or everyday use.\r\n\r\nit works up super fast and it’s easy enough for an advanced beginner as it has a full step-by-step photo tutorial, exclusively available on my blog [here][1].\r\n\r\nyou can also download a **print friendly version** (completely free) from my ravelry store.\r\n\r\n**difficulty:** \t\tadavanced beginner/intermediate\r\n\r\n**finished size:** \t\tthis pattern has one size, enough to fit a standard sized soap\r\n\r\n**materials needed:** \r\n•\t4 mm (g+) hook *(i used clover amour)*\r\n•\thobbii friends cotton 8/6 in white (01): \t15 grams (35 yards/ 32 metres) \r\n•\tyarn needle for weaving in ends\r\n•\tscissors\r\n•\tstitch markers\r\n\r\n**us terms** used throughout.\r\n\r\n**no chart/diagram available!**\r\n\r\ni hope you’ll love it as much as i loved creating it!\r\n\r\n***happy crocheting!***\r\n\r\n*krisztina*\r\n\r\n  [1]: https://kamecrochet.com/2019/07/09/easy-soap-cozy-pattern/",
   "pdf": {
     "filename": "878811.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\878811.pdf",
-    "url": "https://pdf.ravelrycache.com/Mytia89/2103083/Easy_Soap_Cozy-PRINT_FRIENDLY.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480033&Signature=AiKuzYDjY4gKkPaudsCqNuXAWkI%3D&key_expires=1768480033&key=UP8rNOYGbIwWAmoxSJ1jnw",
+    "url": "https://pdf.ravelrycache.com/Mytia89/2103083/Easy_Soap_Cozy-PRINT_FRIENDLY.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770424628&Signature=pMAkFLc0iONF7mfrzngki73hn38%3D&key_expires=1770424628&key=7N1NKxS3LRfziUbLy8_RjQ",
     "size_bytes": 230465
   }
 }

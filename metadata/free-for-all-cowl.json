@@ -1,48 +1,61 @@
 {
   "id": 921988,
-  "name": "Free For All Cowl",
+  "name": "free for all cowl",
   "permalink": "free-for-all-cowl",
   "url": "https://www.ravelry.com/patterns/library/free-for-all-cowl",
   "external_url": "",
-  "designer_name": "Jen Peck",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "jen peck",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Ecola Worsted",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 42.5
     },
     {
-      "fiber": "Encore Tweed",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 37.5
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 11.0
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 7.5
+    },
+    {
+      "fiber": "Rayon / Viscose (Rayon)",
+      "pct": 1.5
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Kitchener stitch"
+    "blocking",
+    "kitchener stitch"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     5.0
   ],
   "published": "2019/04/01",
-  "sizes_available": "One size - approx. 9\" wide by 24\" circumference - easily customizable ",
-  "rating_average": 4.8493589743589745,
-  "rating_count": 312,
-  "difficulty_average": 2.740863787375415,
-  "favorites_count": 17454,
-  "projects_count": 1231,
+  "sizes_available": "one size - approx. 9\" wide by 24\" circumference - easily customizable ",
+  "rating_average": 4.850318471337579,
+  "rating_count": 314,
+  "difficulty_average": 2.735973597359736,
+  "favorites_count": 17528,
+  "projects_count": 1237,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/57426/528347",
+  "notes": "the free for all cowl is designed to make the most of one skein of worsted weight yarn (200-225 yards) or one skein of fingering weight yarn (400-463 yards, held double). it features an intuitive textured stripe pattern, knit-on i-cord edge for structure and a cozy, throw-on-and-go style. this cowl begins with a provisional cast on and uses kitchener stitch to join for a smooth, invisible finish.  \r\n\r\n\r\nsizes: one size, easily customized\r\n\r\nmeasurements \r\napproximately 9” wide by 24” in circumference\r\n\r\nyarn requirements\r\nworsted weight yarn approximately 200-225 yards.\r\n\r\nalternatively, you can use one skein of fingering weight yarn (400-463 yards) held double.\r\n\r\nyellow sample uses the dye project ecola merino/silk worsted in “kolsch” (85% merino, 15% silk; 215 yards per 100 grams).\r\n\r\nbeige sample uses plymouth yarn co. encore tweed in “oatmeal” (75% acrylic, 22% wool, 3% viscose; 200 yards per 100 grams). \r\n\r\nneedles \r\nsuggested 5.0 mm (us 8) circular needles at least 16” long \r\n\r\nnotions\r\nstitch markers, waste yarn, tapestry needle, blocking materials\r\n\r\ngauge\r\ngauge is not vital for this pattern. choose a yarn and needle combination that creates a fabric that you like, keeping in mind that this may result in different yardage requirements and garment measurements. \r\n\r\nif you would like to support me as a designer you can do so via: https://ko-fi.com/websterstreetknittery \r\nthank you! \r\n\r\n",
   "pdf": {
     "filename": "921988.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\921988.pdf",
-    "url": "https://pdf.ravelrycache.com/websterstknittery/978766/WSK_Free_For_All_Cowl_5.21.19v.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480503&Signature=LY8xR4u2bYDYSLmoj3HIzC14%2B3Y%3D&key_expires=1768480503&key=ALEhk-MbyoZ4CUGfee5t6Q",
+    "url": "https://pdf.ravelrycache.com/websterstknittery/978766/WSK_Free_For_All_Cowl_5.21.19v.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770426761&Signature=%2FCFAbNqWngV8WumuMI3I97JERS4%3D&key_expires=1770426761&key=yKOMRaoc0WDDahJBh1F3IQ",
     "size_bytes": 1846759
   }
 }

@@ -1,29 +1,33 @@
 {
   "id": 7367477,
-  "name": "254-39  Midnight Glow",
+  "name": "254-39  midnight glow",
   "permalink": "254-39-midnight-glow",
   "url": "https://www.ravelry.com/patterns/library/254-39-midnight-glow",
   "external_url": "https://www.garnstudio.com/pattern.php?id=11893&cid=19",
-  "designer_name": "DROPS design",
-  "project_type": "Pullover",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "drops design",
+  "project_type": "pullover",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "DROPS Nepal",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 65.0
+    },
+    {
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 35.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Raglan",
-    "Seamless",
-    "Top-down",
-    "Written"
+    "in the round",
+    "raglan",
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -31,12 +35,13 @@
     5.0
   ],
   "published": "2024/09/01",
-  "sizes_available": "S – M – L – XL – XXL – XXXL",
-  "rating_average": 4.5,
-  "rating_count": 14,
-  "difficulty_average": 2.75,
-  "favorites_count": 1115,
-  "projects_count": 51,
+  "sizes_available": "s – m – l – xl – xxl – xxxl",
+  "rating_average": 4.4375,
+  "rating_count": 16,
+  "difficulty_average": 2.5714285714285716,
+  "favorites_count": 1266,
+  "projects_count": 56,
   "free_ravelry_download": false,
-  "download_url": "https://www.garnstudio.com/pattern.php?id=11893&cid=19"
+  "download_url": "https://www.garnstudio.com/pattern.php?id=11893&cid=19",
+  "notes": "**knitted jumper in drops nepal. the piece is worked top down with raglan and rolled edges. sizes s - xxxl.**\r\n~~~~~~~~~~~~~~~~~~~~~\r\n\r\n\r\ndrops design: pattern ne-388\r\nyarn group c or a + a\r\n-------------------------------------------------------\r\n\r\n\r\n**sizes**:\r\ns - m - l - xl - xxl - xxxl\r\n\r\n**yarn**:\r\ndrops nepal from garnstudio (belongs to yarn group c)\r\n600-650-700-750-800-900 g colour 6790, royal blue\r\n\r\n**needles**:\r\ndrops circular needle size 5 mm: length 40 cm and 80 cm.\r\ndrops circular needle size 4 mm: length 40 cm and 80 cm.\r\ndrops double pointed needles size 5 mm.\r\ndrops double pointed needles size 4 mm.\r\nthe technique magic loop can be used – you then only need 80 cm circular needle in each size.\r\n\r\n**knitting tension**:\r\n17 stitches in width and 22 rows in height, with stocking stitch and needle size 5 mm = 10 x 10 cm.\r\nnote: needle size is only a guide. if you get too many stitches on 10 cm, change to a larger needle size. if you get too few stitches on 10 cm, change to a smaller needle size."
 }

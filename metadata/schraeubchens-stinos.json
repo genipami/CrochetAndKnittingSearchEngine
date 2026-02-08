@@ -1,24 +1,28 @@
 {
   "id": 751179,
-  "name": "Schraeubchens Stinos",
+  "name": "schraeubchens stinos",
   "permalink": "schraeubchens-stinos",
   "url": "https://www.ravelry.com/patterns/library/schraeubchens-stinos",
   "external_url": "",
-  "designer_name": "Rahild Schrey",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "rahild schrey",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Sockenwolle 80/20 Twin",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [],
@@ -30,14 +34,15 @@
   "rating_average": 5.0,
   "rating_count": 4,
   "difficulty_average": 4.0,
-  "favorites_count": 102,
-  "projects_count": 114,
+  "favorites_count": 104,
+  "projects_count": 116,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/63440/399033",
+  "notes": "meine persönliche anleitung für stinknormale socken mit bändchenspitze, bumerangferse und spickel. toe-up gestrickt mit einem nadelspiel und optional spitze, ferse und bündchen in kontrastfarbe.\r\n\r\nin der anleitung werden folgende techniken verwendet:\r\njudys magic cast on\r\nrechts- und linksgeneigte zunahmen\r\nverkürzte reihen mit wickelmaschen\r\nverkürzte reihen mit doppelmaschen\r\n2 maschen zusammenstricken\r\nslip slip knit\r\nkfb (knit front and back of a stitch)\r\n\r\nsoweit es mir sinnvoll erschien, habe ich in der anleitung auf anleitungen zu speziellen techniken verlinkt. ",
   "pdf": {
     "filename": "751179.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\751179.pdf",
-    "url": "https://pdf.ravelrycache.com/schraeubchen/727603/Stinos_Anleitung_2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482887&Signature=Re%2BoucAy%2BznJhVX7tJllZNFocms%3D&key_expires=1768482887&key=rEF5Hot4iwwIwFAPaPUkgQ",
+    "url": "https://pdf.ravelrycache.com/schraeubchen/727603/Stinos_Anleitung_2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770439615&Signature=VLilGUdNV4%2B0xg1vtFeGDl%2FUdhA%3D&key_expires=1770439615&key=3oXPcwrHJ7Nnp44p5jKK7w",
     "size_bytes": 4410445
   }
 }

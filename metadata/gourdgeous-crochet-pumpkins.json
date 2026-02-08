@@ -1,27 +1,31 @@
 {
   "id": 1063840,
-  "name": "Gourdgeous Crochet Pumpkins",
+  "name": "gourdgeous crochet pumpkins",
   "permalink": "gourdgeous-crochet-pumpkins",
   "url": "https://www.ravelry.com/patterns/library/gourdgeous-crochet-pumpkins",
   "external_url": "https://www.instructables.com/id/Easiest-Crochet-Pumpkins/",
-  "designer_name": "Adrienne Sullivan",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Bulky",
+  "designer_name": "adrienne sullivan",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Wool Ease Thick & Quick",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Half double crochet (hdc)",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "half double crochet (hdc)",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     9.0
@@ -32,14 +36,15 @@
   "rating_average": 4.894736842105263,
   "rating_count": 19,
   "difficulty_average": 1.7777777777777777,
-  "favorites_count": 2582,
+  "favorites_count": 2590,
   "projects_count": 123,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/66283/635700",
+  "notes": "fall decor has never been faster with the gourdgeous (gourds, get it?) crochet pumpkins. any beginner can make these in no time, using only a crocheted rectangle sewn into a pumpkin shape. each ball of recommended yarn makes 2 pumpkins. customize the look by switching up colors, yarn thickness and hook size, or stem material.\r\n\r\n**materials**\r\napproximately 50 yds lion brand wool ease thick & quick (1 full ball makes 2 pumpkins), or equivalent super bulky yarn\r\n5 yds contrasting color yarn for stem\r\nsize n13/9mm crochet hook\r\npolyester fiberfill\r\ntapestry needle\r\nscissors\r\n\r\nno gauge; finished pumpkin size depends on amount of stuffing. sample pumpkin is 5in wide and 4in tall.",
   "pdf": {
     "filename": "1063840.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1063840.pdf",
-    "url": "https://pdf.ravelrycache.com/adriennemg/1184127/gourdgeous_crochet_pumpkin_pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480654&Signature=gjwqo4eDTffvfuUr9qIISeGs0OE%3D&key_expires=1768480654&key=k_8VURH8ovQhm3cFcAw_KQ",
+    "url": "https://pdf.ravelrycache.com/adriennemg/1184127/gourdgeous_crochet_pumpkin_pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770427775&Signature=pL%2BeUwfXnr9wRcEK9e2zF72uu5E%3D&key_expires=1770427775&key=hr8DclJbf9Y6KVDMkJ0osw",
     "size_bytes": 3261077
   }
 }

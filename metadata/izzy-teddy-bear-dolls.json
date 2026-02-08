@@ -1,27 +1,27 @@
 {
   "id": 913039,
-  "name": "Izzy Teddy Bear Dolls",
+  "name": "izzy teddy bear dolls",
   "permalink": "izzy-teddy-bear-dolls",
   "url": "https://www.ravelry.com/patterns/library/izzy-teddy-bear-dolls",
   "external_url": "",
-  "designer_name": "Esther Braithwaite",
-  "project_type": "Toys",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Sport",
+  "designer_name": "esther braithwaite",
+  "project_type": "toys",
+  "fiber_art": "knitting",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Brava Sport",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Cables",
-    "Charted",
-    "In the round",
-    "Written"
+    "cables",
+    "charted",
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -29,17 +29,18 @@
   ],
   "published": "2019/03/01",
   "sizes_available": "",
-  "rating_average": 4.755,
-  "rating_count": 200,
-  "difficulty_average": 2.25,
-  "favorites_count": 10080,
-  "projects_count": 982,
+  "rating_average": 4.757425742574258,
+  "rating_count": 202,
+  "difficulty_average": 2.268421052631579,
+  "favorites_count": 10169,
+  "projects_count": 994,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/74486/521711",
+  "notes": "add personality to your charity knitting project with instructions for knitting in the round, four sweater options, and bear ears.\r\n\r\nfor more information about the history and legacy of izzy dolls in canada please visit:  [www.hpicanada.ca][1]\r\n\r\n\r\n  [1]: https://www.hpicanada.ca",
   "pdf": {
     "filename": "913039.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\913039.pdf",
-    "url": "https://pdf.ravelrycache.com/estherjoy/953536/Izzy_Teddy_Bear_Doll_Pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481044&Signature=wnaANfiuKrq%2FDQzUuLPcsz7pYUU%3D&key_expires=1768481044&key=JT4M-W9AmtwjSK5dhV-97A",
+    "url": "https://pdf.ravelrycache.com/estherjoy/953536/Izzy_Teddy_Bear_Doll_Pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770430052&Signature=eKXWiGfTp%2Fd%2FdXTmlAachr80fvc%3D&key_expires=1770430052&key=3IaNFh2i_qeeYX0ZUpZiww",
     "size_bytes": 644055
   }
 }

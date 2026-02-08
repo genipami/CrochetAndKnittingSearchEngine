@@ -1,26 +1,26 @@
 {
   "id": 321018,
-  "name": "Aramis",
+  "name": "aramis",
   "permalink": "aramis-2",
   "url": "https://www.ravelry.com/patterns/library/aramis-2",
   "external_url": "",
-  "designer_name": "Caoua Coffee",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "caoua coffee",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Tosh Sock",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round"
+    "charted",
+    "in the round"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -28,17 +28,18 @@
   ],
   "published": "2012/05/01",
   "sizes_available": "men's",
-  "rating_average": 4.650406504065041,
-  "rating_count": 369,
-  "difficulty_average": 2.3549295774647887,
-  "favorites_count": 6818,
-  "projects_count": 1220,
+  "rating_average": 4.649595687331536,
+  "rating_count": 371,
+  "difficulty_average": 2.3557422969187676,
+  "favorites_count": 6853,
+  "projects_count": 1225,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/2834/103908",
+  "notes": "rené d'**aramis** de vannes (born rené d'herblay) is a fictional character in the novels “the three musketeers” by alexandre dumas père. he and the other two musketeers athos and porthos are friends of the novels' protagonist, d'artagnan and the four of them have many adventures.\r\naramis loves and intrigues women, though he is a jesuit and abbot. he is portrayed as ambitious, audacious and always well dressed. despite his machiavellian attitude, aramis holds very firmly to the sacred concept of friendship. \r\nthe refined pattern of these socks (as well as the gold color of the knitted sample) fits his character perfectly.\r\n\r\nthe pattern of my musketeer socks are just low-key enough to be wearable for all the men in your life, \r\nand just interesting enough to save the knitter from being bored to tears while making them.\r\n\r\nyou can find the other 3 musketeer socks here: [athos][1], [porthos][2], [d'artagnan][3]\r\n\r\n\r\n  [1]: http://www.ravelry.com/patterns/library/athos-2\r\n  [2]: http://www.ravelry.com/patterns/library/porthos-2\r\n  [3]: http://www.ravelry.com/patterns/library/dartagnan",
   "pdf": {
     "filename": "321018.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\321018.pdf",
-    "url": "https://pdf.ravelrycache.com/CaouaCoffee/162586/Aramis_musketeer_socks_v1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478796&Signature=SFQ06WGAkFEvgOsmWq%2BLrtpaEaI%3D&key_expires=1768478796&key=uzZi7NuWvw5W2zMUha3yqg",
+    "url": "https://pdf.ravelrycache.com/CaouaCoffee/162586/Aramis_musketeer_socks_v1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770417348&Signature=T6%2F00ES4%2BTQlTmq5zzLgCeeHYQ8%3D&key_expires=1770417348&key=tUrCylFVTV-fhIhHpY272A",
     "size_bytes": 3593743
   }
 }

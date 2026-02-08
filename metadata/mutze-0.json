@@ -1,41 +1,46 @@
 {
   "id": 1197237,
-  "name": "Mütze #0",
+  "name": "mütze #0",
   "permalink": "mutze-0",
   "url": "https://www.ravelry.com/patterns/library/mutze-0",
   "external_url": "https://nimble-needles.com/tutorials/how-to-knit-a-hat/",
-  "designer_name": "Norman Schwarze",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "norman schwarze",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Tibetan",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 70.0
+    },
+    {
+      "fiber": "Yak (Yak)",
+      "pct": 30.0
     }
   ],
   "stitches_used": [
     "1x1 rib",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.5
   ],
   "published": "2021/11/01",
-  "sizes_available": "S-XXL",
-  "rating_average": 4.666666666666667,
-  "rating_count": 99,
-  "difficulty_average": 2.8020833333333335,
-  "favorites_count": 5045,
-  "projects_count": 369,
+  "sizes_available": "s-xxl",
+  "rating_average": 4.66,
+  "rating_count": 100,
+  "difficulty_average": 2.7938144329896906,
+  "favorites_count": 5103,
+  "projects_count": 381,
   "free_ravelry_download": false,
-  "download_url": "https://nimble-needles.com/tutorials/how-to-knit-a-hat/"
+  "download_url": "https://nimble-needles.com/tutorials/how-to-knit-a-hat/",
+  "notes": "a knitting pattern and a recipe for a modern ribbed hat with 2 alternative ways to shape the crown. there's a video available so you can knit along and follow all steps.\r\n\r\n**included in the pattern:**\r\n\r\n* pdf with altogether 13 pages\r\n* very detailed step-by-step written instructions \r\n* tons of pictures and helpful tips\r\n* video tutorials for all knitting techniques are available (on my blog)\r\n\r\n**difficulty:**\r\nbeginner+\r\n\r\nthis ribbed hat pattern is knit in the round - either using circular needles and the magic loop technique or double-pointed knitting needles. it doesn't feature any complicated stitches and is very straightforward to knit.\r\napart from detailed tutorials for all involved techniques, the pattern lists every single step in great detail and gives you tons of further options.\r\n\r\n**yarn and yardage:**\r\nthe basic pattern is knit with a solid 2-ply yarn that runs for 250m per 100gram (so between dk & worsted). as the instructions tell you exactly how to determine your cast-on requirements in case you are using a different yarn, you can finish it with any other yarn weight from sport to worsted provided you are fine with doing some veeeery simple math.\r\n\r\n**skills required:**\r\nknit, purl, ssk, k2tog, (optional) tubular cast-on\r\n\r\n**additional materials:**\r\n- tapestry needle\r\n- scissors\r\n- 5 stitch marker"
 }

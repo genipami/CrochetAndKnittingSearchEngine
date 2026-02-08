@@ -1,28 +1,32 @@
 {
   "id": 7369782,
-  "name": "Timmer - fingerless mittens",
+  "name": "timmer - fingerless mittens",
   "permalink": "timmer---fingerless-mittens",
   "url": "https://www.ravelry.com/patterns/library/timmer---fingerless-mittens",
   "external_url": "https://www.jarbo.se/timmer-halvvantar-92977",
-  "designer_name": "Agnes Brandels",
-  "project_type": "Mittens/Gloves",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "agnes brandels",
+  "project_type": "mittens/gloves",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Raggi",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 70.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 30.0
     }
   ],
   "stitches_used": [
-    "Broken rib",
-    "Treble crochet (tr)"
+    "broken rib",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -30,12 +34,13 @@
     4.0
   ],
   "published": "2024/09/01",
-  "sizes_available": "Child (Women) Men",
+  "sizes_available": "child (women) men",
   "rating_average": 4.615384615384615,
   "rating_count": 13,
   "difficulty_average": 1.6923076923076923,
-  "favorites_count": 1687,
-  "projects_count": 65,
+  "favorites_count": 1739,
+  "projects_count": 66,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/82366/952105"
+  "download_url": "http://www.ravelry.com/dls/82366/952105",
+  "notes": "***we are happy to be able to share our patterns with you for free! unfortunately, we are not able to answer dm’s here on ravelry.\r\nhowever, we hope you will like the pattern and will enjoy seeing your project come to life!***\r\n\r\n**inspiration and free patterns**\r\nfollow svarta fåret on [instagram][1]\r\n\r\n**reseller map**\r\n[svartafaret.se][2] - brand website, in swedish\r\n[find a reseller][3] - nordic region, in swedish\r\n\r\n**our official online stores**\r\n[eddna.se][4], [eddna.no][5], [eddna.de][6], [eddna.at][7], [eddna.nl][8], [eddna.be][9]\r\n\r\n  [1]: https://www.instagram.com/svartafaretgarn/\r\n  [2]: https://www.svartafaret.se/\r\n  [3]: https://www.svartafaret.se/hitta-butik\r\n  [4]: https://www.eddna.se/\r\n  [5]: https://www.eddna.no/\r\n  [6]: https://www.eddna.de/\r\n  [7]: https://www.eddna.at/\r\n  [8]: https://www.eddna.nl/\r\n  [9]: https://www.eddna.be/\r\n"
 }

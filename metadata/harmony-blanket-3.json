@@ -1,26 +1,26 @@
 {
   "id": 606595,
-  "name": "Harmony Blanket",
+  "name": "harmony blanket",
   "permalink": "harmony-blanket-3",
   "url": "https://www.ravelry.com/patterns/library/harmony-blanket-3",
   "external_url": "https://attic24.co.uk/patterns/blankets/harmony-blanket/",
-  "designer_name": "Lucy of Attic24",
-  "project_type": "Blanket",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "lucy of attic24",
+  "project_type": "blanket",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Special Double Knit",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Granny",
-    "Lace"
+    "granny",
+    "lace"
   ],
   "techniques_used": [
-    "Lace",
-    "Written"
+    "lace",
+    "written"
   ],
   "hook_sizes_mm": [
     4.0
@@ -31,8 +31,9 @@
   "rating_average": 4.89247311827957,
   "rating_count": 186,
   "difficulty_average": 2.769662921348315,
-  "favorites_count": 3528,
-  "projects_count": 529,
+  "favorites_count": 3534,
+  "projects_count": 530,
   "free_ravelry_download": false,
-  "download_url": "https://attic24.co.uk/patterns/blankets/harmony-blanket/"
+  "download_url": "https://attic24.co.uk/patterns/blankets/harmony-blanket/",
+  "notes": "the harmony granny square pattern is used for this blanket.  \r\n\r\nthis pattern is written in uk terms with photo tutorial.  the blog notes include tables for color sequence and motif placement.  \r\n\r\n"
 }

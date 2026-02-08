@@ -1,26 +1,26 @@
 {
   "id": 917966,
-  "name": "Magic Number Blanket",
+  "name": "magic number blanket",
   "permalink": "magic-number-blanket",
   "url": "https://www.ravelry.com/patterns/library/magic-number-blanket",
-  "external_url": "",
-  "designer_name": "Helen Cosgrove-Davies",
-  "project_type": "Blanket",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "external_url": null,
+  "designer_name": "helen cosgrove-davies",
+  "project_type": "blanket",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Yowza Mini",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -31,14 +31,15 @@
   "rating_average": 4.828571428571428,
   "rating_count": 70,
   "difficulty_average": 1.7692307692307692,
-  "favorites_count": 3552,
-  "projects_count": 339,
+  "favorites_count": 3567,
+  "projects_count": 342,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/29017/525205",
+  "notes": "i’ve always loved fairy tales, folk tales, and traditional stories from around the world. in many of these stories the number three plays a big role — the third son goes off to be heroic, it is the third prince who wins the hand of the princess, the third daughter is the one who produces diamonds and roses when she speaks. when my cousin announced she was having her third baby i decided to knit the blanket in a yowza mini trio, and couldn’t resist calling it the magic number blanket.\n  \nthe pattern is written so that you can weigh your skeins, do a tiny bit of math, and use as much of the yarn as possible. if you prefer to avoid math you can use the numbers provided. so long as your gauge matches mine you should be able to knit the blanket out of your own [set of three magical skeins](https://www.missbabs.com/collections/yowza-mini-trios)!\n  \n**yarn**\n[miss babs yowza mini trio](https://www.missbabs.com/collections/yowza-mini-trios)\n100% superwash merino wool; three 200 yd/2.8 oz (182 m/80 g) skeins\n1 set\n  \nshown in fiddlehead, tuscan sun, and nori.\n  \nor approximately 200 yds (182 m) of each of three contrasting colors of dk weight yarn.\n  \n**finished measurements**\n22”/55cm square\n  \n**needles**\nus size 6 \\[4.0 mm\\] circular needle <i>or size to obtain gauge</i>",
   "pdf": {
     "filename": "917966.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\917966.pdf",
-    "url": "https://pdf.ravelrycache.com/kibbin/960614/Magic_Number_Blanket.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481628&Signature=k2ELjLo2sGfVVNKObmQf1L3kFdE%3D&key_expires=1768481628&key=ACg6yfWPzZYKVeFqU1wW6g",
+    "url": "https://pdf.ravelrycache.com/kibbin/960614/Magic_Number_Blanket.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770432957&Signature=laHENhVUwEB7jFia1Uu6f12S5Xc%3D&key_expires=1770432957&key=vRaosv3sH6R89TEBGNseeA",
     "size_bytes": 1545360
   }
 }

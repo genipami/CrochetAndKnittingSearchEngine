@@ -1,26 +1,26 @@
 {
   "id": 662165,
-  "name": "Bearly Bonnet",
+  "name": "bearly bonnet",
   "permalink": "bearly-bonnet",
   "url": "https://www.ravelry.com/patterns/library/bearly-bonnet",
   "external_url": "",
-  "designer_name": "Pure Stitches",
-  "project_type": "Baby",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "pure stitches",
+  "project_type": "baby",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "DROPS Alpaca",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 50.0
     },
     {
-      "fiber": "DROPS Baby Merino",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 50.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [],
@@ -30,11 +30,12 @@
   ],
   "published": "2016/05/01",
   "sizes_available": "3 (6) 9 (12-18) months",
-  "rating_average": 4.550588235294118,
-  "rating_count": 425,
-  "difficulty_average": 2.3554502369668247,
-  "favorites_count": 20356,
-  "projects_count": 2206,
+  "rating_average": 4.552693208430913,
+  "rating_count": 427,
+  "difficulty_average": 2.3537735849056602,
+  "favorites_count": 20460,
+  "projects_count": 2222,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/56069/332767"
+  "download_url": "http://www.ravelry.com/dls/56069/332767",
+  "notes": "danish and english pattern. \r\n\r\nbearly bonnet is a cute and simple, fast knitted bonnet - and comes in four sizes. \r\n\r\nthe pattern has been tested by other knitters, who said it was an easy going pattern with good instructions. there is pictures to help you get an understanding of the ongoing work.\r\n\r\nit is an easy skilled pattern.\r\n\r\nsee instagram @purestitches for more pictures.\r\n\r\nenjoy!"
 }

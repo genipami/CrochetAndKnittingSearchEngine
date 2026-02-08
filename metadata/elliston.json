@@ -1,39 +1,40 @@
 {
   "id": 1246561,
-  "name": "Elliston",
+  "name": "elliston",
   "permalink": "elliston",
   "url": "https://www.ravelry.com/patterns/library/elliston",
   "external_url": "",
-  "designer_name": "Taiga Hilliard",
-  "project_type": "Child",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "taiga hilliard",
+  "project_type": "child",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Hoodoo Worsted",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless",
-    "Top-down",
-    "Written"
+    "in the round",
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     5.5
   ],
   "published": "2022/06/01",
-  "sizes_available": "Newborn(3 months,6 months,9-12 months, 18-24 months,2-3 years,4-6 years)",
-  "rating_average": 4.865384615384615,
-  "rating_count": 52,
+  "sizes_available": "newborn(3 months,6 months,9-12 months, 18-24 months,2-3 years,4-6 years)",
+  "rating_average": 4.867924528301887,
+  "rating_count": 53,
   "difficulty_average": 2.0851063829787235,
-  "favorites_count": 3487,
-  "projects_count": 252,
+  "favorites_count": 3501,
+  "projects_count": 253,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/21945/783364"
+  "download_url": "http://www.ravelry.com/dls/21945/783364",
+  "notes": "elliston is the perfect last minute go-to gift for every boy or girl.\r\n\r\nthis is knit top down, with buttons down the front.\r\n\r\nthe adorable handmade buttons can be found in the etsy shop: [katrinkles][1]\r\n\r\n\r\n  [1]: www.katrinkles.com"
 }

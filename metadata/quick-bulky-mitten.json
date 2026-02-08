@@ -1,46 +1,46 @@
 {
   "id": 250960,
-  "name": "Quick Bulky Mitten",
+  "name": "quick bulky mitten",
   "permalink": "quick-bulky-mitten",
   "url": "https://www.ravelry.com/patterns/library/quick-bulky-mitten",
   "external_url": "",
-  "designer_name": "Aimee Pelletier",
-  "project_type": "Mittens/Gloves",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "aimee pelletier",
+  "project_type": "mittens/gloves",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Bulky",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 50.0
     },
     {
-      "fiber": "Kid Fur",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 19.3
     },
     {
-      "fiber": "Macro",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 16.7
     },
     {
-      "fiber": "Magnum",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 6.7
     },
     {
-      "fiber": "Osprey",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 4.2
     },
     {
-      "fiber": "Rasta",
-      "pct": null
+      "fiber": "Polyester (Polyester)",
+      "pct": 3.2
     }
   ],
   "stitches_used": [
-    "Stockinette stitch"
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "In the round",
-    "Kitchener stitch",
-    "Written"
+    "in the round",
+    "kitchener stitch",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -48,18 +48,19 @@
     8.0
   ],
   "published": null,
-  "sizes_available": "Adult small & Adult large",
-  "rating_average": 4.694352159468439,
-  "rating_count": 301,
-  "difficulty_average": 1.914590747330961,
-  "favorites_count": 6318,
-  "projects_count": 1174,
+  "sizes_available": "adult small & adult large",
+  "rating_average": 4.69281045751634,
+  "rating_count": 306,
+  "difficulty_average": 1.9195804195804196,
+  "favorites_count": 6448,
+  "projects_count": 1187,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/22166/68736",
+  "notes": "this is a super quick, one skein project. we knit ours out of [malabrigo rasta][1] for a colorful, warm mitt.\r\n\r\ni promise you'll love these mittens!\r\n\r\n\r\n\r\n  [1]: https://www.darnknitanyway.com/shop/c/p/malabrigo-rasta-x28150528.htm\r\n ",
   "pdf": {
     "filename": "250960.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\250960.pdf",
-    "url": "https://pdf.ravelrycache.com/darnknitanyway/1214165/DKA_Pattern_2020_Quick_Bulky_Mittens_1_page_FINAL.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482600&Signature=B8BDdaYMJiVn5nYi65LonIyyBeQ%3D&key_expires=1768482600&key=QMXeTx8kVLQoa-w4U_r0bA",
+    "url": "https://pdf.ravelrycache.com/darnknitanyway/1214165/DKA_Pattern_2020_Quick_Bulky_Mittens_1_page_FINAL.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770438261&Signature=Xl4aUDBJoYgVUFoFruN6oR81Ncc%3D&key_expires=1770438261&key=vZ5GZWs2guVjVoVTMttrRg",
     "size_bytes": 160838
   }
 }

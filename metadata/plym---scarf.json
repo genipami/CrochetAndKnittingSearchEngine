@@ -1,39 +1,48 @@
 {
   "id": 7411067,
-  "name": "Plym - scarf",
+  "name": "plym - scarf",
   "permalink": "plym---scarf",
   "url": "https://www.ravelry.com/patterns/library/plym---scarf",
   "external_url": "https://www.jarbo.se/plym-scarf-92993",
-  "designer_name": "Ellen Furderer",
-  "project_type": "Scarf",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Sport",
+  "designer_name": "ellen furderer",
+  "project_type": "scarf",
+  "fiber_art": "knitting",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Alpacka Silke",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 45.0
+    },
+    {
+      "fiber": "Merino (Merino)",
+      "pct": 40.0
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 15.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Seamless",
-    "Written"
+    "charted",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.5
   ],
   "published": "2025/02/01",
-  "sizes_available": "Small (Large)",
-  "rating_average": 4.571428571428571,
-  "rating_count": 7,
-  "difficulty_average": 3.5714285714285716,
-  "favorites_count": 778,
-  "projects_count": 36,
+  "sizes_available": "small (large)",
+  "rating_average": 4.625,
+  "rating_count": 8,
+  "difficulty_average": 4.125,
+  "favorites_count": 816,
+  "projects_count": 37,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/82366/985590"
+  "download_url": "http://www.ravelry.com/dls/82366/985590",
+  "notes": "***we are happy to be able to share our patterns with you for free! unfortunately, we are not able to answer dm’s here on ravelry.\r\nhowever, we hope you will like the pattern and will enjoy seeing your project come to life!***\r\n\r\n**inspiration and free patterns**\r\nfollow järbo on [instagram][1]\r\n\r\n**reseller map**\r\n[jarbo.se][2] - brand website, in swedish\r\n[find a reseller][3] - nordic region, in swedish\r\n\r\n**our official online stores**\r\n[eddna.se][4], [eddna.no][5], [eddna.de][6], [eddna.at][7], [eddna.nl][8], [eddna.be][9]\r\n\r\njärbo is a swedish brand established in 1896. we offer nordic design, selected yarns and accessories in stores and online.\r\n\r\n  [1]: https://www.instagram.com/jarbogarn/\r\n  [2]: https://www.jarbo.se/\r\n  [3]: https://www.jarbo.se/hitta-butik\r\n  [4]: https://www.eddna.se/\r\n  [5]: https://www.eddna.no/\r\n  [6]: https://www.eddna.de/\r\n  [7]: https://www.eddna.at/\r\n  [8]: https://www.eddna.nl/\r\n  [9]: https://www.eddna.be/\r\n"
 }

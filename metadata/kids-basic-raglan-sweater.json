@@ -1,33 +1,33 @@
 {
   "id": 578531,
-  "name": "Kids' Basic Raglan Sweater",
+  "name": "kids' basic raglan sweater",
   "permalink": "kids-basic-raglan-sweater",
   "url": "https://www.ravelry.com/patterns/library/kids-basic-raglan-sweater",
   "external_url": "",
-  "designer_name": "Catherine McMillan",
-  "project_type": "Child",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "catherine mcmillan",
+  "project_type": "child",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "220 Superwash®",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 50.0
     },
     {
-      "fiber": "Rios",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 50.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Raglan",
-    "Seamless",
-    "Top-down",
-    "Written"
+    "in the round",
+    "raglan",
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -36,11 +36,12 @@
   ],
   "published": "2015/05/01",
   "sizes_available": "2 (4, 6, 8, 10)",
-  "rating_average": 4.6,
-  "rating_count": 185,
-  "difficulty_average": 2.436046511627907,
-  "favorites_count": 7170,
-  "projects_count": 811,
+  "rating_average": 4.60427807486631,
+  "rating_count": 187,
+  "difficulty_average": 2.434285714285714,
+  "favorites_count": 7204,
+  "projects_count": 818,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/26787/272656"
+  "download_url": "http://www.ravelry.com/dls/26787/272656",
+  "notes": "there are many patterns for basic raglan sweaters. not all of them are top-down, and since i’m picky, none of them are written quite the way i like. i’ve designed this pattern to be easy to follow and easy to customize.\r\n\r\nthis is a kids’ crew-neck pullover with ribbed collar and ribbed or straight hem and cuffs. the ribbed version of the cuffs is designed to fold so that you can adjust the sleeve length as the child grows. the fit is classic and comfortable.\r\n\r\n---\r\nthe danish language version of the pattern is available here! many thanks to marianne holmen (http://www.marianneholmen.dk) for the translation.\r\n\r\n[https://strikkeglad.dk/44633/grundsweater-med-raglan-til-boern/][1]\r\n\r\n\r\n  [1]: https://strikkeglad.dk/44633/grundsweater-med-raglan-til-boern/"
 }

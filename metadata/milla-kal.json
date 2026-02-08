@@ -1,26 +1,30 @@
 {
   "id": 7440722,
-  "name": "Milla KAL",
+  "name": "milla kal",
   "permalink": "milla-kal",
   "url": "https://www.ravelry.com/patterns/library/milla-kal",
   "external_url": "https://novita.com/en/blogs/inspirational/summer-knit-a-long-milla",
-  "designer_name": "Novita Design Studio",
-  "project_type": "Cardigan",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "novita design studio",
+  "project_type": "cardigan",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Hehku",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 60.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 40.0
     }
   ],
   "stitches_used": [
-    "Ribbing",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "ribbing",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Top-down"
+    "top-down"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -28,12 +32,13 @@
     5.0
   ],
   "published": "2025/06/01",
-  "sizes_available": "XS(S)M(L)XL(2XL)3XL(4XL)5XL",
-  "rating_average": 0,
-  "rating_count": null,
-  "difficulty_average": 0,
-  "favorites_count": 911,
-  "projects_count": 33,
+  "sizes_available": "xs(s)m(l)xl(2xl)3xl(4xl)5xl",
+  "rating_average": 4.0,
+  "rating_count": 3,
+  "difficulty_average": 3.0,
+  "favorites_count": 961,
+  "projects_count": 36,
   "free_ravelry_download": false,
-  "download_url": "https://novita.com/en/blogs/inspirational/summer-knit-a-long-milla"
+  "download_url": "https://novita.com/en/blogs/inspirational/summer-knit-a-long-milla",
+  "notes": "**milla kal cardigan**\r\n\r\njoin the **milla kal**! milla is a cardigan knitted from the light and fluffy [novita hehku][1] yarn, and it can be styled in many different ways.\r\n\r\nchoose your favorite version of the cardigan from **4 different options**: [milla classic][2], [milla cropped][3], [milla long][4] & [milla wrap][5].\r\n\r\nthis versatile cardigan is a true wardrobe staple. the **milla cardigan** pattern is suitable even for beginners, and it includes four different versions, a wide size range from xs to 5xl, and numerous color options. you can also easily adapt the pattern to suit your own style: choose whether you want short, three-quarter, or long sleeves for your milla cardigan, and finish it off with details like pockets, buttons, or ties.\r\n\r\nchoose your favorite version, buy the yarn, and join the knit-along! a new part of the pattern will be released on [novita.com][6] every monday starting june 16th. pattern is divided in 5 sections and the last part of the pattern will be released on monday 14th of july.\r\n\r\nthe milla cardigan is knitted with [novita hehku][7], a striking mohair blend yarn made of 60% mohair and 40% wool. over 20 color options available in novita's online store!\r\n\r\n**sizes**\r\n**xs(s)m(l)xl(2xl)3xl(4xl)5xl**\r\n\r\n**finished dimensions**\r\n\r\nbody circumference 96(104)112(120)128(136)144(152)160 cm / 37.75(41)44(47.25)50.5(53.5)56.75(59.75)63 in\r\n\r\nsleeve and back length varies in different milla versions - check the pattern page for more details.\r\n\r\n[**milla classic**][8]\r\n\r\n[**milla cropped**][9]\r\n\r\n[**milla long**][10]\r\n\r\n[**milla wrap**][11]\r\n\r\n**needles and other supplies**\r\n\r\ncircular needles (80 cm) novita 5 mm and double-pointed needles 5 mm (if you’re not using the magic loop technique for the sleeves), or according to your gauge. for the ribbing, circular needle (80 cm) novita 4.5 mm and double-pointed needles 4.5 mm.\r\n\r\nother supplies: 4 stitch markers and 4 buttons, 20 mm in diameter.\r\n\r\n**pattern designer:** piia maria pekkanen\r\n\r\n\r\n  [1]: https://novita.com/en/products/novita-hehku-100-g-mohairlanka?\r\n  [2]: https://novita.com/en/patterns/milla-kal-classic\r\n  [3]: https://novita.com/en/patterns/milla-kal-cropped\r\n  [4]: https://novita.com/en/patterns/milla-kal-long\r\n  [5]: https://novita.com/en/patterns/milla-kal-wrap\r\n  [6]: https://novita.com/en/blogs/inspirational/summer-knit-a-long-milla\r\n  [7]: https://novita.com/en/products/novita-hehku-100-g-mohairlanka?\r\n  [8]: https://novita.com/en/patterns/milla-kal-classic\r\n  [9]: https://novita.com/en/patterns/milla-kal-cropped\r\n  [10]: https://novita.com/en/patterns/milla-kal-long\r\n  [11]: https://novita.com/en/patterns/milla-kal-wrap"
 }

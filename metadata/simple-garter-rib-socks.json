@@ -1,48 +1,49 @@
 {
   "id": 1344039,
-  "name": "Simple Garter Rib Socks",
+  "name": "simple garter rib socks",
   "permalink": "simple-garter-rib-socks",
   "url": "https://www.ravelry.com/patterns/library/simple-garter-rib-socks",
   "external_url": "",
-  "designer_name": "Belinda Glynn",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "belinda glynn",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Becky",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 80.0
     },
     {
-      "fiber": "Titanium Sock",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Stockinette stitch"
+    "garter stitch",
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "Top-down",
-    "Written"
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.25
   ],
   "published": "2023/06/01",
-  "sizes_available": "S, M, L",
+  "sizes_available": "s, m, l",
   "rating_average": 4.875,
   "rating_count": 24,
   "difficulty_average": 2.625,
-  "favorites_count": 1116,
-  "projects_count": 118,
+  "favorites_count": 1149,
+  "projects_count": 120,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/94956/862731",
+  "notes": "the simple garter rib socks are top-down socks that feature either a 1x7 or a 1x3 garter rib. the rib extends down the heel flap, resulting in a cute and stylish design and a comfortable, well-fitting sock.\r\n\r\nsize: 17.5 (20, 22.5) cm / 7 (7.75, 8.75) inches foot circumference\r\ngauge: 8 stitches x 11.5 rows over 2.5cm (1 inch) in stockinette",
   "pdf": {
     "filename": "1344039.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1344039.pdf",
-    "url": "https://pdf.ravelrycache.com/HereIKnit/1681280/Simple_Garter_Rib_Socks_1.0.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482987&Signature=4NsZnGAUZHMQBULe6kZYRqVn1ws%3D&key_expires=1768482987&key=HBqFKbtnWg27euOylWLXPQ",
+    "url": "https://pdf.ravelrycache.com/HereIKnit/1681280/Simple_Garter_Rib_Socks_1.0.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770440584&Signature=2vE0CVwj0lOCUQil6s3trS6Wop8%3D&key_expires=1770440584&key=kQOZYj5KpLmbJQM4zYU1aA",
     "size_bytes": 3943223
   }
 }

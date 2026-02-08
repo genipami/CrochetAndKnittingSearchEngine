@@ -1,40 +1,49 @@
 {
   "id": 7292471,
-  "name": "Joy of Color Scarf",
+  "name": "joy of color scarf",
   "permalink": "joy-of-color-scarf",
   "url": "https://www.ravelry.com/patterns/library/joy-of-color-scarf",
   "external_url": "https://www.purlsoho.com/create/2023/11/16/joy-of-color-scarf/",
-  "designer_name": "Purl Soho",
-  "project_type": "Scarf",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "purl soho",
+  "project_type": "scarf",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Linen Quill Minis",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 50.0
+    },
+    {
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 35.0
+    },
+    {
+      "fiber": "Flax (Linen)",
+      "pct": 15.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch"
+    "single crochet (sc)",
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     4.5
   ],
   "published": "2023/11/01",
-  "sizes_available": "Small (Large)",
+  "sizes_available": "small (large)",
   "rating_average": 5.0,
   "rating_count": 14,
   "difficulty_average": 1.5384615384615385,
-  "favorites_count": 1751,
-  "projects_count": 77,
+  "favorites_count": 1785,
+  "projects_count": 79,
   "free_ravelry_download": false,
-  "download_url": "https://www.purlsoho.com/create/2023/11/16/joy-of-color-scarf/"
+  "download_url": "https://www.purlsoho.com/create/2023/11/16/joy-of-color-scarf/",
+  "notes": "materials\r\n\r\n- 1 [linen quill minis][1] bundle, 50% highland wool, 35% alpaca, and 15% linen. each bundle is a total of 4,360 yards/ 1000 grams; approximately 1,600 (2,210) total yards required.\r\n- us 7 (4.5 mm), 12- or 16-inch [circular needles][2], or long circulars for magic loop\r\n- a [stitch marker][3]\r\n\r\nnote: you can make 2 small scarves with this bundle, or one large!\r\n\r\ngauge\r\n19 stitches and 24 rounds = 4 inches in stockinette stitch with yarn doubled\r\n\r\nsizes\r\nsmall (large)\r\n\r\n- finished circumference: 14 (20) inches\r\n- finished length (unrolled): 79¼ inches long\r\n- finished length (rolled): 77¼ inches long\r\n\r\nsample: we knit the large size.\r\n\r\ndesigned by purl soho founder and co-owner, [joelle hoverson][4]. \r\n\r\n\r\n  [1]: https://www.purlsoho.com/linen-quill-minis.html\r\n  [2]: https://www.purlsoho.com/tools-and-notions/knitting-and-crochet.html?collection_filter=23796\r\n  [3]: https://www.purlsoho.com/tools-and-notions/knitting-and-crochet.html?collection_filter=964\r\n  [4]: https://www.purlsoho.com/create/tag/joelle-hoverson-for-purl-soho/"
 }

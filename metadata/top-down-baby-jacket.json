@@ -1,49 +1,46 @@
 {
   "id": 771818,
-  "name": "Top down baby Jacket",
+  "name": "top down baby jacket",
   "permalink": "top-down-baby-jacket",
   "url": "https://www.ravelry.com/patterns/library/top-down-baby-jacket",
   "external_url": "",
-  "designer_name": "Donna Wilby",
-  "project_type": "Baby",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "donna wilby",
+  "project_type": "baby",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Bonus DK",
-      "pct": null
-    },
-    {
-      "fiber": "Special Double Knit",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Half double crochet (hdc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "half double crochet (hdc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Top-down",
-    "Written"
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [
     4.0
   ],
   "needle_sizes_mm": [],
   "published": "2017/09/01",
-  "sizes_available": "Newborn",
+  "sizes_available": "newborn",
   "rating_average": 4.857142857142857,
   "rating_count": 119,
   "difficulty_average": 2.413793103448276,
-  "favorites_count": 5148,
-  "projects_count": 410,
+  "favorites_count": 5179,
+  "projects_count": 414,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/45588/414511",
+  "notes": "this pattern is very simple if you follow it step by step and don't deviate even when it doesn't seem to be working.\r\n\r\ni can make this in less than a day making it a great last minute gift.\r\nit takes less than 100g of dk yarn (i usually use acrylic) but equivalent can be used.\r\ni have also used ww and a 5mm hook to make it for 3+ months.\r\n\r\nfeel free to tell me if you find any mistakes.\r\n\r\ni used this free pattern for the beanies\r\n[beanie pattern][1]\r\n\r\n\r\n  [1]: https://www.ravelry.com/patterns/library/basic-half-double-crochet-hat-2\r\n\r\ni am seeing lots making the same 2 errors: first every increase is 3 stitches in the same stitch not the usual 2\r\n\r\nyou must count the front stitches and trust i have counted them and know how many there should be, those that think they know better get a wonky front edge that is too long. those that follow the pattern have a great result.\r\n",
   "pdf": {
     "filename": "771818.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\771818.pdf",
-    "url": "https://pdf.ravelrycache.com/donnaipswich/1109521/Top_down_jacket_updated_20.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483819&Signature=Ozh7ZcM2HAquaj9uIgZYW0sDevw%3D&key_expires=1768483819&key=BBk-KboIKeEsAHaiZ8GUlg",
+    "url": "https://pdf.ravelrycache.com/donnaipswich/1109521/Top_down_jacket_updated_20.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770445034&Signature=XYu07yg8yE0JcvCjRhCfHCf5D7I%3D&key_expires=1770445034&key=Bmpu_vy5ywBJCalKvvsK3A",
     "size_bytes": 928534
   }
 }

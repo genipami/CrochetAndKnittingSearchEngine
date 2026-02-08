@@ -1,33 +1,37 @@
 {
   "id": 7392859,
-  "name": "Grinch",
+  "name": "grinch",
   "permalink": "grinch-15",
   "url": "https://www.ravelry.com/patterns/library/grinch-15",
   "external_url": "https://mailchi.mp/223ff9d614c8/knit_grinch_mariia_ermolova",
-  "designer_name": "Maria Ermolova",
-  "project_type": "Toys",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "maria ermolova",
+  "project_type": "toys",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Cascade 220®",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 66.7
     },
     {
-      "fiber": "DROPS Air",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 21.7
     },
     {
-      "fiber": "DROPS Karisma",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 9.3
+    },
+    {
+      "fiber": "Merino (Merino)",
+      "pct": 2.3
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -35,11 +39,12 @@
   ],
   "published": "2024/12/01",
   "sizes_available": "approx.38cm/15inches",
-  "rating_average": 4.846153846153846,
-  "rating_count": 13,
-  "difficulty_average": 4.0,
-  "favorites_count": 1849,
-  "projects_count": 57,
+  "rating_average": 4.857142857142857,
+  "rating_count": 14,
+  "difficulty_average": 3.8181818181818183,
+  "favorites_count": 1899,
+  "projects_count": 58,
   "free_ravelry_download": false,
-  "download_url": "https://mailchi.mp/223ff9d614c8/knit_grinch_mariia_ermolova"
+  "download_url": "https://mailchi.mp/223ff9d614c8/knit_grinch_mariia_ermolova",
+  "notes": "about pattern\r\n- stitch-by-stitch knitting pattern\r\n+ video tutorials (how to assemble + knitting stitches)\r\n- process photos\r\n- detailed how-to assemble instructions\r\n- all yarn parameters are given so you can choose the yarn from your stash as well\r\n- tools recommendations\r\n\r\nknitted flat on 2 needles + knitted in the round version for most of toy's parts\r\n\r\nwishing you all a holiday season filled with joy, but don’t forget, the grinch is always lurking nearby! "
 }

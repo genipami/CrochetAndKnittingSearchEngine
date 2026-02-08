@@ -1,36 +1,28 @@
 {
   "id": 834023,
-  "name": "Soap SACK (Crocheted)",
+  "name": "soap sack (crocheted)",
   "permalink": "soap-sack-crocheted",
   "url": "https://www.ravelry.com/patterns/library/soap-sack-crocheted",
   "external_url": "",
-  "designer_name": "Stacy Wiener",
-  "project_type": "Dishcloth",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "stacy wiener",
+  "project_type": "dishcloth",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "24/7 Cotton",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 96.2
     },
     {
-      "fiber": "Home Cotton Solids & Marls",
-      "pct": null
-    },
-    {
-      "fiber": "Kitchen Cotton (New)",
-      "pct": null
-    },
-    {
-      "fiber": "Sugar'n Cream The Original (Solids)",
-      "pct": null
+      "fiber": "Polyester (Polyester)",
+      "pct": 3.8
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     5.0,
@@ -42,14 +34,15 @@
   "rating_average": 4.806451612903226,
   "rating_count": 31,
   "difficulty_average": 1.5357142857142858,
-  "favorites_count": 719,
-  "projects_count": 216,
+  "favorites_count": 723,
+  "projects_count": 219,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/69299/461243",
+  "notes": "this soap sack pattern was created for crocheters who are part of s.a.c.k. (**s**upporting **a** **c**ommunity with **k**indness), a grassroots effort where people from all over the united states are crocheting (and knitting) soap sacks and donating them (with a bar of soap in each one) to homeless centers and food pantries.\r\n\r\nfollow us on our facebook page… https://www.facebook.com/soapsack/\r\n\r\nany cotton or cotton blend yarn can be used.\r\n",
   "pdf": {
     "filename": "834023.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\834023.pdf",
-    "url": "https://pdf.ravelrycache.com/Stacy28/831189/CROCHETED_SOAP_SACKS_directions_2__1_.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483178&Signature=u2jz73G1GsFVk6GeMd1TN70TP6U%3D&key_expires=1768483178&key=INjv9TkyY4DEbl8tkYyckg",
+    "url": "https://pdf.ravelrycache.com/Stacy28/831189/CROCHETED_SOAP_SACKS_directions_2__1_.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770441483&Signature=dqqXF7W2WfstcfsQvNws5AuOCqY%3D&key_expires=1770441483&key=1Kg5GGCcCTgkz7C39n5Ztw",
     "size_bytes": 131694
   }
 }

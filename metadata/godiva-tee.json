@@ -1,23 +1,27 @@
 {
   "id": 7343766,
-  "name": "Godiva Tee",
+  "name": "godiva tee",
   "permalink": "godiva-tee",
   "url": "https://www.ravelry.com/patterns/library/godiva-tee",
   "external_url": "https://hearthookhome.com/godiva-tee-crochet-pattern/",
-  "designer_name": "Ashlea Schumaker",
-  "project_type": "Tee",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Sport",
+  "designer_name": "ashlea schumaker",
+  "project_type": "tee",
+  "fiber_art": "crochet",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Shine Sport",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 60.0
+    },
+    {
+      "fiber": "Rayon / Viscose (Rayon)",
+      "pct": 40.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "Bottom-up",
-    "Written"
+    "bottom-up",
+    "written"
   ],
   "hook_sizes_mm": [
     4.0,
@@ -25,12 +29,13 @@
   ],
   "needle_sizes_mm": [],
   "published": "2024/05/01",
-  "sizes_available": "XS - 5XL",
+  "sizes_available": "xs - 5xl",
   "rating_average": 5.0,
   "rating_count": 6,
   "difficulty_average": 3.3333333333333335,
-  "favorites_count": 1300,
+  "favorites_count": 1321,
   "projects_count": 25,
   "free_ravelry_download": false,
-  "download_url": "http://www.ravelry.com/purchase/ashlea-konecny-designs/932044"
+  "download_url": "http://www.ravelry.com/purchase/ashlea-konecny-designs/932044",
+  "notes": "the godiva tee is the perfect top to wear during summer months when the heat is too much to bear. \r\n\r\nwith oversized armholes and little windows for airflow, this free pattern pairs perfectly with your favorite camisole or tank top underneath. cap sleeves are built in!\r\n\r\nsizing: (xs, s, m, l, xl, 2xl, 3xl, 4xl, 5xl)"
 }

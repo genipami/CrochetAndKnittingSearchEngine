@@ -1,48 +1,49 @@
 {
   "id": 7380434,
-  "name": "Two-at-a-Time Fingerless Mitts",
+  "name": "two-at-a-time fingerless mitts",
   "permalink": "two-at-a-time-fingerless-mitts",
   "url": "https://www.ravelry.com/patterns/library/two-at-a-time-fingerless-mitts",
   "external_url": "",
-  "designer_name": "Liz Maloney",
-  "project_type": "Mittens/Gloves",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "liz maloney",
+  "project_type": "mittens/gloves",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Cascade 220®",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 50.0
     },
     {
-      "fiber": "Shepherd's Wool Worsted",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 50.0
     }
   ],
   "stitches_used": [
-    "Ribbing",
-    "Treble crochet (tr)"
+    "ribbing",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless"
+    "in the round",
+    "seamless"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     4.0
   ],
   "published": "2024/10/01",
-  "sizes_available": "Small, Large",
+  "sizes_available": "small, large",
   "rating_average": 5.0,
   "rating_count": 9,
-  "difficulty_average": 3.111111111111111,
-  "favorites_count": 1555,
-  "projects_count": 41,
+  "difficulty_average": 3.0,
+  "favorites_count": 1623,
+  "projects_count": 47,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/108358/961059",
+  "notes": "here is my technique for knitting two-at-a-time fingerless mitts on one needle.\r\n\r\ni designed them to specifically avoid the following:\r\n\r\n* no picking up stitches...\r\n* no seams...\r\n* no second sock (or mitt) syndrome...\r\n* minimal finishing... once you cast off\r\n  you just need to weave in your cast on\r\n  and cast off tails and you're done!\r\n\r\nyou only need about 50 grams of worsted weight yarn to make a pair of fingerless mitts, which makes them a great stashbuster. get creative with your leftover bits and pieces and add in some stripes! \r\n\r\nthey are worked on us 6 needles in 3x1 ribbing. gauge is not important as the ribbing is very forgiving. \r\n\r\nthe small is suitable for teens, women, and people with smaller hands.\r\nthe large is suitable for adults, men, and people with larger hands.\r\n\r\n\r\n\r\ndon't be intimidated by two-at-a-time knitting, once you get the hang of things it is extremely rewarding! i hope you try it!",
   "pdf": {
     "filename": "7380434.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7380434.pdf",
-    "url": "https://pdf.ravelrycache.com/lemonknit/1908068/Two_at_a_time_fingerless_mitts.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483920&Signature=HQvo%2Bs2y1tmmpGWCNOmC6PCJeCI%3D&key_expires=1768483920&key=TsF4G1qACHxLwLXvqQ8jKQ",
+    "url": "https://pdf.ravelrycache.com/lemonknit/1908068/Two_at_a_time_fingerless_mitts.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770445607&Signature=B8xlRxPZL26uAG%2FdS%2BS4mXUbPKY%3D&key_expires=1770445607&key=lCgyP2BwLvMZgwzXBFtwAw",
     "size_bytes": 1633143
   }
 }

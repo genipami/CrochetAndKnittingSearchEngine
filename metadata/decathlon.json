@@ -1,48 +1,49 @@
 {
   "id": 685211,
-  "name": "Decathlon",
+  "name": "decathlon",
   "permalink": "decathlon",
   "url": "https://www.ravelry.com/patterns/library/decathlon",
   "external_url": "",
-  "designer_name": "Sue Grandfield",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "sue grandfield",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Pure 100% Merino Superwash",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 90.0
     },
     {
-      "fiber": "Sockenwolle 80/20 Twin",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.5
   ],
   "published": "2016/08/01",
-  "sizes_available": "S/M/L/XL [7,7.5,8,8.5\"], [17.75,10,20.25,21.5cm]",
-  "rating_average": 4.753694581280788,
-  "rating_count": 203,
-  "difficulty_average": 2.1145833333333335,
-  "favorites_count": 5886,
-  "projects_count": 1003,
+  "sizes_available": "s/m/l/xl [7,7.5,8,8.5\"], [17.75,10,20.25,21.5cm]",
+  "rating_average": 4.75,
+  "rating_count": 204,
+  "difficulty_average": 2.1139896373056994,
+  "favorites_count": 5919,
+  "projects_count": 1006,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/2525/349989",
+  "notes": "**in the spirit of the ravellenic games - and because so many people have asked here is my basic pattern for the decathlon socks :) **\r\n\r\n***each*** sock takes around 50-60g of sock yarn\r\n\r\nthe pattern is written for knitting on dpns, but also can be worked magic loop style, on two circulars or on one short circular (as i did).\r\n\r\ni used ten different colours of wollmeise twin sock yarn:\r\n\r\n**top photo l to r:** ruby thursday, tierra di sienna (discontinued), honigtopfchen (discontinued), olio vergine, schwefel, pinie, nautilus, admiral, amethyst, brombeere\r\n\r\ni have a lot of partial balls of sock yarn leftover from other projects, so worked each sock in a different colour of the rainbow. you can of course work the socks as a pair or in any colour combination that your heart desires and your stash allows. \r\n\r\nhave fun :)\r\n",
   "pdf": {
     "filename": "685211.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\685211.pdf",
-    "url": "https://pdf.ravelrycache.com/RiotousAssembly/613654/Decathlon_Socks.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479856&Signature=94cI4N5K4badLVKAPjON2XjP4ng%3D&key_expires=1768479856&key=--d9EZBpjOIDEfEEO99kSw",
+    "url": "https://pdf.ravelrycache.com/RiotousAssembly/613654/Decathlon_Socks.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770423409&Signature=gFwcgqOnSlxtqpfYb20XDJfkgfI%3D&key_expires=1770423409&key=oNdf2oPe_idONhWnvFbRdA",
     "size_bytes": 222603
   }
 }

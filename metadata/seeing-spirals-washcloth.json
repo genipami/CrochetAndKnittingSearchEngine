@@ -1,23 +1,27 @@
 {
   "id": 859161,
-  "name": "Seeing Spirals Washcloth",
+  "name": "seeing spirals washcloth",
   "permalink": "seeing-spirals-washcloth",
   "url": "https://www.ravelry.com/patterns/library/seeing-spirals-washcloth",
   "external_url": "http://www.windingroadcrochet.com/seeing-spirals-wash-cloth-free-pattern/",
-  "designer_name": "Lindsey Dale",
-  "project_type": "Dishcloth",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "lindsey dale",
+  "project_type": "dishcloth",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Home Cotton Solids & Marls",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 85.0
+    },
+    {
+      "fiber": "Polyester (Polyester)",
+      "pct": 15.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     5.0
@@ -28,8 +32,9 @@
   "rating_average": 4.888888888888889,
   "rating_count": 36,
   "difficulty_average": 1.9090909090909092,
-  "favorites_count": 1292,
-  "projects_count": 153,
+  "favorites_count": 1301,
+  "projects_count": 166,
   "free_ravelry_download": false,
-  "download_url": "http://www.windingroadcrochet.com/seeing-spirals-wash-cloth-free-pattern/"
+  "download_url": "http://www.windingroadcrochet.com/seeing-spirals-wash-cloth-free-pattern/",
+  "notes": "this washcloth is easy to work up and has a beautiful spiral pattern from working in the round an a nice ribbed like texture. it is perfect for washing dishes or to add to a spa basket as a gift!"
 }

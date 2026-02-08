@@ -1,47 +1,52 @@
 {
   "id": 1259892,
-  "name": "Blue Sea Shell Socken",
+  "name": "blue sea shell socken",
   "permalink": "blue-sea-shell-socken",
   "url": "https://www.ravelry.com/patterns/library/blue-sea-shell-socken",
   "external_url": "",
-  "designer_name": "Melanie Olm",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Sport",
+  "designer_name": "melanie olm",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Sockenwolle 6-fach",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Shell",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "shell",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Seamless"
+    "charted",
+    "in the round",
+    "seamless"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.0
   ],
   "published": "2022/08/01",
-  "sizes_available": "Für alle Größen anwendbar",
-  "rating_average": 4.84375,
-  "rating_count": 32,
-  "difficulty_average": 3.0357142857142856,
-  "favorites_count": 883,
-  "projects_count": 111,
+  "sizes_available": "für alle größen anwendbar",
+  "rating_average": 4.818181818181818,
+  "rating_count": 33,
+  "difficulty_average": 3.0344827586206895,
+  "favorites_count": 893,
+  "projects_count": 114,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/95101/794748",
+  "notes": "meine anleitung beinhaltet nur die charts. bündchen, ferse und spitze kannst du stricken, wie du möchtest.\r\n\r\nich wünsche dir viel vergnügen!",
   "pdf": {
     "filename": "1259892.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1259892.pdf",
-    "url": "https://pdf.ravelrycache.com/silbermondauge/1530588/Blue_Sea_Shell_Socken.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479166&Signature=r2Ia8HGDOUZvNI1KFTF7%2BN0s0S4%3D&key_expires=1768479166&key=EBghZB89v_h0a2fd2-IugA",
+    "url": "https://pdf.ravelrycache.com/silbermondauge/1530588/Blue_Sea_Shell_Socken.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770419321&Signature=uPgxkM29fXpMvEyp8rrTUhStI3Y%3D&key_expires=1770419321&key=uztzNd_p4LbQ-VRKNHRQXA",
     "size_bytes": 427210
   }
 }

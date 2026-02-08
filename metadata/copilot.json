@@ -1,35 +1,35 @@
 {
   "id": 564183,
-  "name": "Copilot",
+  "name": "copilot",
   "permalink": "copilot",
   "url": "https://www.ravelry.com/patterns/library/copilot",
   "external_url": "",
-  "designer_name": "Dominique Trad",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "dominique trad",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Lace Merino",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 66.7
     },
     {
-      "fiber": "Ranco Sock",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 25.0
     },
     {
-      "fiber": "Sock",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 8.3
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless",
-    "Written"
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -37,18 +37,19 @@
     5.0
   ],
   "published": "2015/03/01",
-  "sizes_available": "Adjustable",
-  "rating_average": 4.694200351493849,
-  "rating_count": 569,
-  "difficulty_average": 2.0939716312056738,
-  "favorites_count": 15074,
-  "projects_count": 2148,
+  "sizes_available": "adjustable",
+  "rating_average": 4.6947368421052635,
+  "rating_count": 570,
+  "difficulty_average": 2.095575221238938,
+  "favorites_count": 15126,
+  "projects_count": 2157,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/44215/262997",
+  "notes": "i love pretty sock yarn so i buy lots of lovelies and then of course, don’t knit socks with them. so when a shawl is too much, i knit copilot which is the sister pattern to autopilot. \r\n\r\nequally simple, this design features a garter stitch section separating the mesh for a little structure on a fingering weight (4ply) cowl. it may be adjusted in both length and width according to your taste. \r\n\r\nthe sample (pictured) goes around the neck 3 times and requires 100g of yarn (measures 16cm wide x 180 around). 50g may be used to knit a lovely 1/2 size version.\r\n\r\nfind link to video from very pink knits for simple stretchy bind off [here][1] or google one that works for you. \r\n\r\n\r\n\r\n  [1]: https://verypink.com/2015/03/04/simple-stretchy-bind-off/",
   "pdf": {
     "filename": "564183.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\564183.pdf",
-    "url": "https://pdf.ravelrycache.com/Domknit/452224/Copilot.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479667&Signature=V7RUm5wgScVAByhygbraLQXSiug%3D&key_expires=1768479667&key=0cdF2mDJ-yyEZ8d5QHEIyQ",
+    "url": "https://pdf.ravelrycache.com/Domknit/452224/Copilot.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770422195&Signature=EEdkshLEs4tkUAEkZUXt%2FzWeU8c%3D&key_expires=1770422195&key=DPxeIKntdcLtu2_bb_syQA",
     "size_bytes": 1071359
   }
 }

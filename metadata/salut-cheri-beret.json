@@ -1,27 +1,27 @@
 {
   "id": 507253,
-  "name": "Salut Chéri Beret",
+  "name": "salut chéri beret",
   "permalink": "salut-cheri-beret",
   "url": "https://www.ravelry.com/patterns/library/salut-cheri-beret",
   "external_url": "http://lunaknit.blogspot.fi/2014/07/salut-cheri-beret-pattern.html",
-  "designer_name": "Sari Nordlund",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "sari nordlund",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Joki",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch"
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -30,11 +30,12 @@
   ],
   "published": "2014/07/01",
   "sizes_available": "adult woman",
-  "rating_average": 4.795180722891566,
-  "rating_count": 166,
-  "difficulty_average": 2.0060975609756095,
-  "favorites_count": 9080,
-  "projects_count": 710,
+  "rating_average": 4.796407185628743,
+  "rating_count": 167,
+  "difficulty_average": 2.018181818181818,
+  "favorites_count": 9162,
+  "projects_count": 719,
   "free_ravelry_download": false,
-  "download_url": "http://lunaknit.blogspot.fi/2014/07/salut-cheri-beret-pattern.html"
+  "download_url": "http://lunaknit.blogspot.fi/2014/07/salut-cheri-beret-pattern.html",
+  "notes": "an easy and quick project, suitable for beginners. the beret is knitted in the round with stockinette stitch, from the bottom to the top. it has a rolled up edge in the bottom and an i-cord stem on top.\r\n\r\nthe name for the beret is from the t-shirt i was wearing when i took the project photos of the first beret for ravelry. i thought the name suited the beret, since it's quite classical take on the hat that has become the icon of everything french. happy knitting!"
 }

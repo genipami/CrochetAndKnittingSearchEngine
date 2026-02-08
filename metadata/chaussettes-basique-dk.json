@@ -1,42 +1,47 @@
 {
   "id": 1367977,
-  "name": "Chaussettes Basique DK",
+  "name": "chaussettes basique dk",
   "permalink": "chaussettes-basique-dk",
   "url": "https://www.ravelry.com/patterns/library/chaussettes-basique-dk",
   "external_url": "",
-  "designer_name": "Lysandre Hourdin",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "lysandre hourdin",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Twin Soxx 8 Ply",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.75
   ],
   "published": "2023/09/01",
-  "sizes_available": "S, M and L",
-  "rating_average": 4.6923076923076925,
-  "rating_count": 13,
-  "difficulty_average": 2.5,
-  "favorites_count": 887,
-  "projects_count": 120,
+  "sizes_available": "s, m and l",
+  "rating_average": 4.714285714285714,
+  "rating_count": 14,
+  "difficulty_average": 2.4545454545454546,
+  "favorites_count": 911,
+  "projects_count": 126,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/87255/880979",
+  "notes": "patron simple et efficace pour tricoter des chaussettes chaudes en laine dk. ces chaussettes se caractérisent par des **côtés en double** par un **revers** sur la cheville pour plus de chaleur et un suivi en **jersey** pour des chaussettes basiques en dk. \r\n\r\n*laine utilisée* : la twin soxx 8ply de lang yarn\r\nparfait pour mettre en valeur les rayures de la fibre.\r\n\r\n*autre possibilité* : une laine à chaussette fingering avec un mohair et soie ou suri. ",
   "pdf": {
     "filename": "1367977.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1367977.pdf",
-    "url": "https://pdf.ravelrycache.com/Lyshourdin/1723438/LH_Chaussettes_BasiqueDK.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479422&Signature=r8puAEt2wjkNI%2FEN5JEu6f%2FBkWI%3D&key_expires=1768479422&key=sMMl8G7uyNpfzzTSlQj6Jw",
+    "url": "https://pdf.ravelrycache.com/Lyshourdin/1723438/LH_Chaussettes_BasiqueDK.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770420904&Signature=rO%2BLiMiEl73EIoRjRuuzSS703Ok%3D&key_expires=1770420904&key=Ogl6iBGzjaLBY396BatIDQ",
     "size_bytes": 6389257
   }
 }

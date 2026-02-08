@@ -1,48 +1,49 @@
 {
   "id": 881214,
-  "name": "Brenda's Basic Toe Up Sock",
+  "name": "brenda's basic toe up sock",
   "permalink": "brendas-basic-toe-up-sock",
   "url": "https://www.ravelry.com/patterns/library/brendas-basic-toe-up-sock",
   "external_url": "",
-  "designer_name": "Brenda Vanlerberghe",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "brenda vanlerberghe",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "S.P.E.W. Sock Sets",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 53.3
     },
     {
-      "fiber": "TargHeel",
-      "pct": null
+      "fiber": "Targhee (Wool)",
+      "pct": 30.0
     },
     {
-      "fiber": "Tuff Toes",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 16.7
     }
   ],
   "stitches_used": [
-    "Ribbing",
-    "Slip stitch (sl st)",
-    "Treble crochet (tr)"
+    "ribbing",
+    "slip stitch (sl st)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [],
   "published": "2018/11/01",
   "sizes_available": " 52, 56, 60, 64, 68, 72, 76, 80 sts",
-  "rating_average": 4.810344827586207,
-  "rating_count": 58,
-  "difficulty_average": 2.8846153846153846,
-  "favorites_count": 1992,
-  "projects_count": 410,
+  "rating_average": 4.813559322033898,
+  "rating_count": 59,
+  "difficulty_average": 2.8679245283018866,
+  "favorites_count": 2015,
+  "projects_count": 414,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/54238/496839",
+  "notes": "this is a basic toe-up sock pattern with a 3-1 ribbing and a slip stitch heel. the ribbing makes the fit more forgiving. \r\n\r\nthe heel is designed to not interrupt the striping pattern on the top of the sock, which is great if you’re using self striping yarn. \r\n\r\nconsider brenda and heather yarns for your sock knitting needs.  \r\n\r\nvisit our online store: \r\n [https://squareup.com/store/brendaandheatheryarns/][1]\r\n\r\n\r\n  [1]: https://squareup.com/store/brendaandheatheryarns/",
   "pdf": {
     "filename": "881214.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\881214.pdf",
-    "url": "https://pdf.ravelrycache.com/BaHYarns/1587253/Brendas_Basic_Toe_Up_Sock_11.26.22.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479222&Signature=epqbjIYW5v7hbRzdHbCZ0TCurcQ%3D&key_expires=1768479222&key=R04KtaiSYmLlGT4_i2IaRQ",
+    "url": "https://pdf.ravelrycache.com/BaHYarns/1587253/Brendas_Basic_Toe_Up_Sock_11.26.22.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770419723&Signature=vYn7XPj%2FbZizSi2x5AHSu6pbvA4%3D&key_expires=1770419723&key=kldjJSEtZvVsnGfvN0XtKg",
     "size_bytes": 49855
   }
 }

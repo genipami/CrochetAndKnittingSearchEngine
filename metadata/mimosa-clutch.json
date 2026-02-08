@@ -1,32 +1,36 @@
 {
   "id": 7443392,
-  "name": "Mimosa Clutch",
+  "name": "mimosa clutch",
   "permalink": "mimosa-clutch",
   "url": "https://www.ravelry.com/patterns/library/mimosa-clutch",
   "external_url": "",
-  "designer_name": "Heidi Hovi",
-  "project_type": "Bag",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "heidi hovi",
+  "project_type": "bag",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Catona",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 65.0
     },
     {
-      "fiber": "Trio 2",
-      "pct": null
+      "fiber": "Flax (Linen)",
+      "pct": 25.0
+    },
+    {
+      "fiber": "Tencel / Lyocell (Tencel)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Front post stitch",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "front post stitch",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     3.0,
@@ -38,8 +42,9 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 448,
+  "favorites_count": 483,
   "projects_count": 17,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/69477/1010366"
+  "download_url": "http://www.ravelry.com/dls/69477/1010366",
+  "notes": "virkkaa itsellesi tyylikäs pikkulaukku arkeen tai juhlaan! tämä mimosa laukku taipuu molempiin. lankavalinnalla saat aina vähän erilaisen laukun.  laukun ihastuttava pinta saadaan aikaiseksi pylvään ja kohopylvään vuorottelulla. laukkua voi käyttää sekä pikkulaukkuna kuin pienenä projektipussukkanakin. \r\n\r\nlaukun koko on noin 16 cm x 24 cm. \r\npinkki versio on virkattu catonalla ja 3,5 mm koukulla.\r\nmusta versio on virkattu isagerilla ja 3 mm koukulla. \r\n\r\ntämä on sanallinen ja kuvallinen “resepti” laukun virkkaamiseen. otathan huomioon, että tätä reseptiä ei ole testivirkattu. \r\n\r\nlisätietoja laukusta löytyy youtube kanavaltani\r\nmustasta laukusta, jakso nro 140 +[media title][1]\r\npinkistä laukusta, jakso nro 141 +[media title][2]\r\n\r\n\r\n*****\r\ncrochet yourself a stylish little bag for everyday use or special occasions! this mimosa bag adapts to both. your choice of yarn will always result in a slightly different bag. the bag's delightful texture is created by alternating double crochet and front post double crochet stitches. you can use the bag as a small clutch or even as a little project pouch.\r\n\r\nthe bag measures approximately 16 cm x 24 cm.\r\nthe pink version is crocheted with catona yarn and a 3.5 mm hook.\r\nthe black version is crocheted with isager yarn and a 3 mm hook.\r\n\r\nthis is a written pattern with pictures. please note that this pattern has not been test crocheted.\r\n\r\nmore about the bag from my youtube channel:\r\nthe black bag, episode 28 +[media title][3]\r\n\r\n\r\n\r\n  [1]: https://youtu.be/oai6qtts6-m?si=qg0czkhadgwh8bqx\r\n  [2]: https://youtu.be/jztuwu9n2f4?si=gmabvlzggoypben9\r\n  [3]: https://youtu.be/_ut5qvzosbo?si=qeok1rrsuka9j09n"
 }

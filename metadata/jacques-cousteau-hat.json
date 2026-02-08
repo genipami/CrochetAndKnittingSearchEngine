@@ -1,26 +1,26 @@
 {
   "id": 27077,
-  "name": "Jacques Cousteau Hat",
+  "name": "jacques cousteau hat",
   "permalink": "jacques-cousteau-hat",
   "url": "https://www.ravelry.com/patterns/library/jacques-cousteau-hat",
   "external_url": "",
-  "designer_name": "Lalla Pohjanpalo",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "lalla pohjanpalo",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Tennessee",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless",
-    "Written"
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -31,8 +31,9 @@
   "rating_average": 4.28771186440678,
   "rating_count": 2360,
   "difficulty_average": 1.879607843137255,
-  "favorites_count": 26796,
-  "projects_count": 8069,
+  "favorites_count": 26882,
+  "projects_count": 8081,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/11634/514304"
+  "download_url": "http://www.ravelry.com/dls/11634/514304",
+  "notes": "this is a simple ribbed beanie inspired by the great explorer jacques cousteau.\r\n\r\na special thanks to all the translators. you made all these language version possible."
 }

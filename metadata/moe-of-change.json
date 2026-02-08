@@ -1,29 +1,29 @@
 {
   "id": 815606,
-  "name": "Moe of Change",
+  "name": "moe of change",
   "permalink": "moe-of-change",
   "url": "https://www.ravelry.com/patterns/library/moe-of-change",
   "external_url": "",
-  "designer_name": "Frank O'Randle",
-  "project_type": "Blanket",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "frank o'randle",
+  "project_type": "blanket",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Mandala",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Half double crochet (hdc)",
-    "Shell",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "half double crochet (hdc)",
+    "shell",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     6.0
@@ -34,14 +34,15 @@
   "rating_average": 4.686746987951807,
   "rating_count": 166,
   "difficulty_average": 4.057324840764331,
-  "favorites_count": 6090,
+  "favorites_count": 6101,
   "projects_count": 561,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/44807/447922",
+  "notes": "this 43 round baby blanket can be continued into the larger 86 round mo moe of change pattern. this pattern is written for color changing yarn.\r\n\r\n**size:** 41in/104cm\r\n\r\n**hook:** j/6mm\r\n\r\n**yarn:** lion brand mandala “gnome”\r\n\r\n**yarn weight:** 3/dk/light\r\n\r\n**yardage:** 1,180yds/1,080m (two cakes)\r\n\r\n**stitches and abbreviations used:** bp, sl, st, ch, sk, sc, hdc, dc, tr, sc inc, hdc inc, dc inc, v-st, cl, shell, fpdc, bpdc, fptr, bptr, sc3tog\r\n",
   "pdf": {
     "filename": "815606.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\815606.pdf",
-    "url": "https://pdf.ravelrycache.com/FrankORandle/940409/Moe_of_Change_2-14-19.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481888&Signature=hZ0QHEg%2FK4HoFmrnREfObUhnsUk%3D&key_expires=1768481888&key=4ybd15VBNbMlR3tqInyjdA",
+    "url": "https://pdf.ravelrycache.com/FrankORandle/940409/Moe_of_Change_2-14-19.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770434411&Signature=j1CmHEtYpXubfolVBF44hucb8bA%3D&key_expires=1770434411&key=DVQhAZP0AnLYBMJUri89_Q",
     "size_bytes": 922821
   }
 }

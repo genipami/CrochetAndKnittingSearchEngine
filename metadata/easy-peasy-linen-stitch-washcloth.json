@@ -1,50 +1,47 @@
 {
   "id": 7412281,
-  "name": "Easy Peasy Linen Stitch Washcloth",
+  "name": "easy peasy linen stitch washcloth",
   "permalink": "easy-peasy-linen-stitch-washcloth",
   "url": "https://www.ravelry.com/patterns/library/easy-peasy-linen-stitch-washcloth",
   "external_url": "",
-  "designer_name": "June Nemeth",
-  "project_type": "Dishcloth",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "june nemeth",
+  "project_type": "dishcloth",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Clean Cotton",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 95.0
     },
     {
-      "fiber": "Coastal Cotton",
-      "pct": null
-    },
-    {
-      "fiber": "Nifty Cotton Splash",
-      "pct": null
+      "fiber": "Polyester (Polyester)",
+      "pct": 5.0
     }
   ],
   "stitches_used": [
-    "Moss/Linen stitch"
+    "moss/linen stitch"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     4.0
   ],
   "needle_sizes_mm": [],
   "published": "2025/02/01",
-  "sizes_available": "One size, adjustable",
+  "sizes_available": "one size, adjustable",
   "rating_average": 4.666666666666667,
   "rating_count": 3,
   "difficulty_average": 1.0,
-  "favorites_count": 138,
+  "favorites_count": 144,
   "projects_count": 9,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/52948/986500",
+  "notes": "this is a quick, fun crochet washcloth using linen / moss stitch. \r\n\r\nthis stitch looks lovely with variegated yarns.\r\n\r\n",
   "pdf": {
     "filename": "7412281.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7412281.pdf",
-    "url": "https://pdf.ravelrycache.com/junenemeth/1969127/Linen_Stitch_Crochet_Washcloth.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480014&Signature=434Lh9wJlk5pO2xmO8yMkiGWA7U%3D&key_expires=1768480014&key=KwqEcjMnKjOGueypv-TNhw",
+    "url": "https://pdf.ravelrycache.com/junenemeth/1969127/Linen_Stitch_Crochet_Washcloth.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770424550&Signature=MDD5g7HMXG5J2xuVxpeFiSgKJUc%3D&key_expires=1770424550&key=RDaSrUKp4iC6YEJ1v60ByA",
     "size_bytes": 907547
   }
 }

@@ -1,39 +1,31 @@
 {
   "id": 695100,
-  "name": "Lake Reed",
+  "name": "lake reed",
   "permalink": "lake-reed",
   "url": "https://www.ravelry.com/patterns/library/lake-reed",
   "external_url": "",
-  "designer_name": "Asita Krebs",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "asita krebs",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Merino DK Single",
-      "pct": null
-    },
-    {
-      "fiber": "Merino DK Twist",
-      "pct": null
-    },
-    {
-      "fiber": "MerinoCable",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Double crochet (dc)",
-    "Ribbing",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "cable",
+    "double crochet (dc)",
+    "ribbing",
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Cables",
-    "Charted",
-    "Written"
+    "cables",
+    "charted",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -41,12 +33,13 @@
     5.0
   ],
   "published": "2016/10/01",
-  "sizes_available": "One Size 40cm high/ 40cm circumference",
-  "rating_average": 4.749419953596288,
-  "rating_count": 862,
-  "difficulty_average": 3.4598269468479605,
-  "favorites_count": 25262,
-  "projects_count": 3241,
+  "sizes_available": "one size 40cm high/ 40cm circumference",
+  "rating_average": 4.750577367205543,
+  "rating_count": 866,
+  "difficulty_average": 3.458230958230958,
+  "favorites_count": 25462,
+  "projects_count": 3275,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/44201/357397"
+  "download_url": "http://www.ravelry.com/dls/44201/357397",
+  "notes": "[if you like to support me and my work buy me a kofi!][1]\r\n  [1]: https://ko-fi.com/asita38254\r\n\r\nthe lake reed is a warm cosy hat with a folded brim.\r\nthe separation between the cable pattern with purl and ktbl is closed and let less wind through.\r\n\r\n**size** 20cm (8'') high / 40cm (15.74'') circumference \r\n**gauge** with needlesize 4mm in 1x1ribbing: 26sts/34rows\r\n\r\n*if you find an error please write me a pm.*\r\n\r\n----------------------\r\n\r\nder lake reed ist eine warme mütze mit umschlagbündchen. die abtrennung der zopfmuster ist durch linke und rechts verschränkte maschen dicht und lässt nur wenig wind durch.\r\n\r\n**grösse:**20cm hoch und 40cm umfang\r\n**maschenprobe:** mit 4mm im bündchenmuster:\r\n26m/34r\r\n\r\n*wenn du ein fehler in der anleitung findest, bin ich über eine pn froh.*"
 }

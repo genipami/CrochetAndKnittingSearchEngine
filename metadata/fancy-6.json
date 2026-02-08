@@ -1,31 +1,35 @@
 {
   "id": 1296467,
-  "name": "Fancy",
+  "name": "fancy",
   "permalink": "fancy-6",
   "url": "https://www.ravelry.com/patterns/library/fancy-6",
   "external_url": "https://thelambandkid.com/",
-  "designer_name": "The Lamb & Kid Designs",
-  "project_type": "Pullover",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "the lamb & kid designs",
+  "project_type": "pullover",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Big Birdie",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 79.0
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 21.0
     }
   ],
   "stitches_used": [
-    "Ribbing",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "ribbing",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Raglan",
-    "Seamless",
-    "Short rows",
-    "Top-down",
-    "Written"
+    "in the round",
+    "raglan",
+    "seamless",
+    "short rows",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -34,17 +38,18 @@
   ],
   "published": "2022/12/01",
   "sizes_available": "1 (2, 3, 4, 5, 6, 7, 8)",
-  "rating_average": 4.813559322033898,
-  "rating_count": 59,
-  "difficulty_average": 2.6226415094339623,
-  "favorites_count": 4709,
-  "projects_count": 247,
+  "rating_average": 4.816666666666666,
+  "rating_count": 60,
+  "difficulty_average": 2.611111111111111,
+  "favorites_count": 4847,
+  "projects_count": 252,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/90709/825032",
+  "notes": "can you think of anything more fanciful than a sweater knit in big birdie? we can’t either! the fancy sweater is a simple raglan knit top-down and in the round. we fancy a knit that can be dressed up or down, and the fancy sweater is just that! it’s lightweight yet cozy, and simple but dare we say, fancy.\r\n\r\nsample shown\r\nbig birdie in color plaid is my favorite color and bellbottom blues (inside of collar).\r\n\r\nsizes\r\n1 (2, 3, 4, 5, 6, 7, 8)\r\n\r\nfinished measurements\r\naprox. 36 (39, 42, 46, 50, 54, 58, 62)”/ 90 (97.5, 105, 115, 125, 135, 145, 155)cm bust at widest circumference \r\n\r\nyarn requirements\r\n*please note these are yarn estimates. the amount used will depend on yarn, your personal gauge, and any modifications you make.*\r\ndimond laine big birdie (79% baby alpaca, 21% silk; 174 yards/160 meters per 100g); 4 (4, 5, 5, 5, 6, 6, 7) skeins\r\n\r\nor\r\n\r\napprox. 606 (664, 713, 776, 835, 906, 1005, 1112)yds / 551 (604, 648, 705, 759, 824, 914, 1011)m of similar heavy aran weight yarn \r\n\r\n*if choosing to add a pop of color to the inside of the collar you will need an additional approx 26 (27, 27, 29, 29, 30, 30, 30)yds / 24 (25, 25, 26, 26, 27, 27, 27)m of a contrast color*\r\n\r\nsuggested needles\r\n*needles listed are suggested.*\r\ngauge needle: size us 9/ 5.5mm 9”/22.5cm or dpns, 16”/40cm, 24”/60cm, and 32”/80cm circular needles\r\n\r\nribbing needle: size us 7/ 4.5mm 9”/22.5cm or dpns, 32”/80cm circular needles or 2 sizes smaller than gauge needle\r\n\r\ntools\r\n4 stitch markers, tapestry needle\r\n\r\ngauge\r\n16 sts and 20 rnds = 4” / 10cm stockinette st in the round with gauge needle, blocked.\r\n\r\n",
   "pdf": {
     "filename": "1296467.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1296467.pdf",
-    "url": "https://pdf.ravelrycache.com/TheLambAndKid/1780229/LK-Fancy-v3.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480289&Signature=8s%2B32wR9GuYZhRnzrUKZ4VPrAFU%3D&key_expires=1768480289&key=kXhCdNtcwGDPaC63cWfwsA",
+    "url": "https://pdf.ravelrycache.com/TheLambAndKid/1780229/LK-Fancy-v3.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770425673&Signature=IH9SRzgpQnGXyQrMKsairZ5XhE8%3D&key_expires=1770425673&key=v-527mo9xb9xrxfZ30dGBg",
     "size_bytes": 4283185
   }
 }

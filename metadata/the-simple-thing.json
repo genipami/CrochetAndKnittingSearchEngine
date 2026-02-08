@@ -1,28 +1,28 @@
 {
   "id": 1296810,
-  "name": "The Simple Thing",
+  "name": "the simple thing",
   "permalink": "the-simple-thing",
   "url": "https://www.ravelry.com/patterns/library/the-simple-thing",
   "external_url": "",
-  "designer_name": "Melina Brell",
-  "project_type": "Scarf",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "melina brell",
+  "project_type": "scarf",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "BFL DK",
-      "pct": null
+      "fiber": "Bluefaced Leicester (BFL) (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Kitchener stitch",
-    "Seamless"
+    "kitchener stitch",
+    "seamless"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -30,11 +30,12 @@
   ],
   "published": "2022/12/01",
   "sizes_available": "uni",
-  "rating_average": 4.792553191489362,
-  "rating_count": 752,
-  "difficulty_average": 2.221606648199446,
-  "favorites_count": 39117,
-  "projects_count": 4791,
+  "rating_average": 4.78625,
+  "rating_count": 800,
+  "difficulty_average": 2.22987012987013,
+  "favorites_count": 41366,
+  "projects_count": 5077,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/83082/825108"
+  "download_url": "http://www.ravelry.com/dls/83082/825108",
+  "notes": "it is not a scarf, it is not a shawl, it is just a simple little knitted thing in-between that can be easily knitted from one to infinite skeins of yarn.\r\n\r\nthis small scarf-like shawl is worked sideways in rows starting and ending at a narrow tip. the shawl is worked in garter stitch. needed skills are therefore basically knitting a stitch, knitting two stitches together, and slipping stitches. the edges are worked as i-cords. \r\nthe shawl can be made from only one skein of yarn. the pattern allows for easy adaptation to knit it longer, shorter, wider or narrower from any desired amount of yarn\r\n\r\nthe sample size is knitted from one skein of dk weight blue bluefaced leicester yarn and measures 140 x 24 cm but the pattern can be adapted to various sizes, yarn weight, color depending on personal preferences.\r\n\r\n\r\nthis shawl is the simplified version of my **one skein cheshire cat shawl** i published two years ago. if you are looking for a stockinette version with slipped stitch edges, try that one.\r\n\r\n\r\nplease check the **video on youtube** for help with the setup of the shawl: https://youtu.be/b6s-7x6z1wm and grafting together the last stitches: https://youtu.be/cjiumemo9sm\r\n\r\nfeel free to [get me a virtual coffee][1] \r\n\r\n\r\n  [1]: https://www.paypal.com/paypalme/heathlandknits"
 }

@@ -1,26 +1,30 @@
 {
   "id": 1325497,
-  "name": "Ditto",
+  "name": "ditto",
   "permalink": "ditto-5",
   "url": "https://www.ravelry.com/patterns/library/ditto-5",
   "external_url": "https://www.instagram.com/p/CpdO0vMLihY/",
-  "designer_name": "CatKnit",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Bulky",
+  "designer_name": "catknit",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Jellybaby Glitter Chenille",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 50.0
     },
     {
-      "fiber": "Ricorumi DK",
-      "pct": null
+      "fiber": "Polyester (Polyester)",
+      "pct": 46.0
+    },
+    {
+      "fiber": "Metallic (Metallic)",
+      "pct": 4.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     4.0
@@ -31,8 +35,9 @@
   "rating_average": 4.909090909090909,
   "rating_count": 11,
   "difficulty_average": 2.8181818181818183,
-  "favorites_count": 1229,
-  "projects_count": 52,
+  "favorites_count": 1255,
+  "projects_count": 53,
   "free_ravelry_download": false,
-  "download_url": "https://www.instagram.com/p/CpdO0vMLihY/"
+  "download_url": "https://www.instagram.com/p/CpdO0vMLihY/",
+  "notes": "colour a (2 balls): cygnet jellybaby glitter chenille chunky - french violet\r\n\r\ncolour b: rico ricorumi dk - black (small amount to embroider the mouth)\r\n\r\ncrochet hook: 4mm\r\n\r\nsafety eyes: 10mm\r\n\r\ntoy stuffing"
 }

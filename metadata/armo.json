@@ -1,31 +1,31 @@
 {
   "id": 7302355,
-  "name": "Armo",
+  "name": "armo",
   "permalink": "armo",
   "url": "https://www.ravelry.com/patterns/library/armo",
   "external_url": "https://payhip.com/b/WcCIM",
-  "designer_name": "Tiina Kuu",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "tiina kuu",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "4-fädig",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 75.0
     },
     {
-      "fiber": "DROPS Fabel",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Stranded colorwork",
-    "Written"
+    "charted",
+    "stranded colorwork",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -37,14 +37,15 @@
   "rating_average": 4.888888888888889,
   "rating_count": 9,
   "difficulty_average": 4.0,
-  "favorites_count": 2192,
-  "projects_count": 62,
+  "favorites_count": 2213,
+  "projects_count": 65,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/11173/899848",
+  "notes": ">armo is my christmas / holiday season gift for the knitters in 2023. it can also be downloaded on [payhip][1] with pay what you want option.\r\n\r\n\r\n**pattern features:**\r\n\r\n- knitted cuff down\r\n- instructions written in metric and us terminology\r\n- instructions written for magic loop but dpns can be used as well \r\n- three sizes: small (64 sts), medium/large (72 sts) and extra-large (80 sts)\r\n- slipped-stitch heel flap and round heel turn\r\n- charts but no written instructions for stranded colourwork\r\n- pattern proof-read by helena kahan and mari kuparinen\r\n- approximate yardage: 55-65 grams of mc (dark grey), 10-15 grams of cc1 (variegated orange) and 10-15 grams of cc2 (white)\r\n\r\n  [1]: https://payhip.com/b/wccim",
   "pdf": {
     "filename": "7302355.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7302355.pdf",
-    "url": "https://pdf.ravelrycache.com/TiiQ/1766249/Armo_en_ver1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478816&Signature=yecx5YuluQ%2F%2Bv6KOGdt9Gv4t%2FSo%3D&key_expires=1768478816&key=-CP7GTCytPYBGcKnwfPwig",
+    "url": "https://pdf.ravelrycache.com/TiiQ/1766249/Armo_en_ver1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770417441&Signature=OPbjAAN%2Fnys3DY1efZ%2Bg849TXDo%3D&key_expires=1770417441&key=Xs34HTJoQsGtd61coo-vhQ",
     "size_bytes": 508920
   }
 }

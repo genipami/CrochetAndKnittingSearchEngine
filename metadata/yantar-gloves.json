@@ -1,40 +1,45 @@
 {
   "id": 1173044,
-  "name": "Yantar gloves",
+  "name": "yantar gloves",
   "permalink": "yantar-gloves",
   "url": "https://www.ravelry.com/patterns/library/yantar-gloves",
   "external_url": "https://knitty.com/ISSUEdf21/PATTyantar/PATTyantar.php",
-  "designer_name": "Anna Zhuravleva",
-  "project_type": "Mittens/Gloves",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "anna zhuravleva",
+  "project_type": "mittens/gloves",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Sisu",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Charted",
-    "In the round",
-    "Written"
+    "bottom-up",
+    "charted",
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.5
   ],
   "published": "2021/09/01",
-  "sizes_available": "S/M/L/XL",
+  "sizes_available": "s/m/l/xl",
   "rating_average": 4.794871794871795,
   "rating_count": 39,
   "difficulty_average": 4.333333333333333,
-  "favorites_count": 3720,
-  "projects_count": 154,
+  "favorites_count": 3765,
+  "projects_count": 158,
   "free_ravelry_download": false,
-  "download_url": "https://knitty.com/ISSUEdf21/PATTyantar/PATTyantar.php"
+  "download_url": "https://knitty.com/ISSUEdf21/PATTyantar/PATTyantar.php",
+  "notes": "**patter is avaliable for free in knitty fall 2021 on-line edition**\r\n\r\n**gloves with tailored fit and beads pattern**\r\n\r\n"
 }

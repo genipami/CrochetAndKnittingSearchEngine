@@ -1,38 +1,43 @@
 {
   "id": 797399,
-  "name": "Malia Classic Cowl",
+  "name": "malia classic cowl",
   "permalink": "malia-classic-cowl",
   "url": "https://www.ravelry.com/patterns/library/malia-classic-cowl",
   "external_url": "https://yarnandchai.com/malia-classic-cowl/",
-  "designer_name": "Rebecca Langford",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "rebecca langford",
+  "project_type": "shawl/wrap",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "I Love This Yarn! Tweed",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 97.0
+    },
+    {
+      "fiber": "Rayon / Viscose (Rayon)",
+      "pct": 3.0
     }
   ],
   "stitches_used": [
-    "Ribbing",
-    "Treble crochet (tr)"
+    "ribbing",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamed",
-    "Top-down"
+    "seamed",
+    "top-down"
   ],
   "hook_sizes_mm": [
     5.5
   ],
   "needle_sizes_mm": [],
   "published": "2017/12/01",
-  "sizes_available": "Teen / Adult",
+  "sizes_available": "teen / adult",
   "rating_average": 4.827586206896552,
   "rating_count": 87,
   "difficulty_average": 2.2738095238095237,
-  "favorites_count": 4486,
+  "favorites_count": 4510,
   "projects_count": 324,
   "free_ravelry_download": false,
-  "download_url": "https://yarnandchai.com/malia-classic-cowl/"
+  "download_url": "https://yarnandchai.com/malia-classic-cowl/",
+  "notes": "this cowl is just what it says it is - classic! a top ribbing adds a little extra visual appeal to the already beautiful combination of the 3rd loops stitches and the large bean stitches.\r\n\r\none really handy thing about this pattern is that it is very easily adaptable to any yarn weight. so if you're looking for a super quick project, choose a bulky or super bulky yarn (and appropriately-sized hook); or, if you're looking for something a little more delicate, choose a dk yarn or even smaller. there are notes within the pattern that will instruct you on how to adjust; just keep a ruler handy, and you'll be good!"
 }

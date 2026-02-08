@@ -1,36 +1,40 @@
 {
   "id": 1238147,
-  "name": "Tweedy Junior",
+  "name": "tweedy junior",
   "permalink": "tweedy-junior",
   "url": "https://www.ravelry.com/patterns/library/tweedy-junior",
   "external_url": "https://shop.hedgehogfibres.com/collections/patterns/products/tweedy-junior",
-  "designer_name": "Beata Jezek",
-  "project_type": "Child",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "beata jezek",
+  "project_type": "child",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Merino DK",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 33.4
     },
     {
-      "fiber": "Tweedy",
-      "pct": null
+      "fiber": "Falkland (Wool)",
+      "pct": 33.4
     },
     {
-      "fiber": "Tweedy Noir",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 25.1
+    },
+    {
+      "fiber": "Other (Other)",
+      "pct": 8.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Raglan",
-    "Seamless",
-    "Top-down"
+    "in the round",
+    "raglan",
+    "seamless",
+    "top-down"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -39,11 +43,12 @@
   ],
   "published": "2022/04/01",
   "sizes_available": " 3-6 mo, (6-12 mo), 1-2yr, (2-3yr), 3-4 yr",
-  "rating_average": 4.537313432835821,
-  "rating_count": 67,
-  "difficulty_average": 2.5303030303030303,
-  "favorites_count": 4573,
-  "projects_count": 327,
+  "rating_average": 4.53030303030303,
+  "rating_count": 66,
+  "difficulty_average": 2.5538461538461537,
+  "favorites_count": 4674,
+  "projects_count": 333,
   "free_ravelry_download": false,
-  "download_url": "https://shop.hedgehogfibres.com/collections/patterns/products/tweedy-junior"
+  "download_url": "https://shop.hedgehogfibres.com/collections/patterns/products/tweedy-junior",
+  "notes": "cute little jumper with raglan shaping. top down construction. it will look adorable on any baby. ample, stretchy neckline thanks to a tubular cast on. this jumper is particularly good for big headed babies (like my jay!), though any baby will appreciate the ease this neckline slides on with."
 }

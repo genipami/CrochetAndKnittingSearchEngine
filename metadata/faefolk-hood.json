@@ -1,37 +1,38 @@
 {
   "id": 7472558,
-  "name": "Faefolk Hood",
+  "name": "faefolk hood",
   "permalink": "faefolk-hood",
   "url": "https://www.ravelry.com/patterns/library/faefolk-hood",
   "external_url": "https://shop.hedgehogfibres.com/collections/patterns/products/faefolk-hood",
-  "designer_name": "Beata Jezek",
-  "project_type": "Scarf",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "beata jezek",
+  "project_type": "scarf",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Oh So Fine Soufflé",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Single crochet (sc)"
+    "garter stitch",
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "Seamed"
+    "seamed"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     5.0
   ],
   "published": "2025/10/01",
-  "sizes_available": "Sample shown is 140cm folded and 33cm deep. Full wingspan unfolded is 280cm.",
-  "rating_average": 4.875,
-  "rating_count": 8,
-  "difficulty_average": 2.25,
-  "favorites_count": 1588,
-  "projects_count": 42,
+  "sizes_available": "sample shown is 140cm folded and 33cm deep. full wingspan unfolded is 280cm.",
+  "rating_average": 4.9,
+  "rating_count": 10,
+  "difficulty_average": 2.111111111111111,
+  "favorites_count": 2017,
+  "projects_count": 55,
   "free_ravelry_download": false,
-  "download_url": "https://shop.hedgehogfibres.com/collections/patterns/products/faefolk-hood"
+  "download_url": "https://shop.hedgehogfibres.com/collections/patterns/products/faefolk-hood",
+  "notes": "lightweight and generously sized, this hooded scarf is knitted in garter stitch with a fun zig zag edge and a built in i-cord. the soufflé yarn is so soft and fluffy, an absolute delight to knit with and to wear. the scarf is knitted flat and the hood is seamed at the end.\r\n\r\nyarn:\r\n2 skeins hedgehog fibres [oh so fine soufflé][1] (100% merino, 300m/100g), colourway pictured is desert rose.\r\n\r\n\r\n  [1]: https://shop.hedgehogfibres.com/collections/oh-so-fine-souffle/souffle"
 }

@@ -1,27 +1,35 @@
 {
   "id": 7282604,
-  "name": "Avenue",
+  "name": "avenue",
   "permalink": "avenue-3",
   "url": "https://www.ravelry.com/patterns/library/avenue-3",
   "external_url": "",
-  "designer_name": "Galt House of Yarn",
-  "project_type": "Scarf",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "galt house of yarn",
+  "project_type": "scarf",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Superfine Fingering",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 45.0
     },
     {
-      "fiber": "Tilia",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 35.0
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 15.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 5.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [],
@@ -33,14 +41,15 @@
   "rating_average": 4.911764705882353,
   "rating_count": 34,
   "difficulty_average": 1.7272727272727273,
-  "favorites_count": 1897,
-  "projects_count": 126,
+  "favorites_count": 1925,
+  "projects_count": 127,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/63466/884108",
+  "notes": "make the most of that special skein of fingering yarn with the avenue scarf! it's simple garter stitch scarf, with a few polished details, that maximizes the use of yardage and shows of the yarn's own colours. \r\n\r\nchoose from fingering weight on its own (a) or add a strand of mohair for a little extra fuzz (b).\r\n\r\nthis scarf is very adaptable for other weights, yarn combinations, or dimensions. ",
   "pdf": {
     "filename": "7282604.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7282604.pdf",
-    "url": "https://pdf.ravelrycache.com/AnneVasic/1730275/Avenue_Scarf_v1.1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478866&Signature=7Zxj60gjUphT1KL%2BoGx7vH3TE24%3D&key_expires=1768478866&key=qTSHFWNMbGrt3UFwnCa-rA",
+    "url": "https://pdf.ravelrycache.com/AnneVasic/1730275/Avenue_Scarf_v1.1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770417772&Signature=J6eGuEwzQ3TMaiTnV4bSTSM9cSk%3D&key_expires=1770417772&key=u9Kdy0B5MfEVA5-VmCNLug",
     "size_bytes": 902992
   }
 }

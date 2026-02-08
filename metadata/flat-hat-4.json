@@ -1,42 +1,43 @@
 {
   "id": 714001,
-  "name": "Flat Hat",
+  "name": "flat hat",
   "permalink": "flat-hat-4",
   "url": "https://www.ravelry.com/patterns/library/flat-hat-4",
   "external_url": "",
-  "designer_name": "KnitCurio",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "knitcurio",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [],
   "stitches_used": [
-    "Ribbing",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "ribbing",
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Seamed",
-    "Written"
+    "bottom-up",
+    "seamed",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     5.0
   ],
   "published": "2016/12/01",
-  "sizes_available": "Teen (18\") Adult (20\")",
+  "sizes_available": "teen (18\") adult (20\")",
   "rating_average": 4.7368421052631575,
   "rating_count": 19,
   "difficulty_average": 1.75,
-  "favorites_count": 1178,
-  "projects_count": 1114,
+  "favorites_count": 1195,
+  "projects_count": 1115,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/15784/372133",
+  "notes": "originally designed for a 6th grade knitting club, this basic hat is great for those who are more comfortable using straight needles but would like to advance past scarves and rectangular shapes.\r\n\r\nyarn suggested for this pattern is worsted weight yarn.\r\n\r\nnote: because this hat is flat and will then be seamed, one additional stitch on each side is needed. if you would like to alter the size, increase or decrease in increments of 8 to keep the crown decrease even. the pattern already has the 2 additional stitches for seaming added into the count.\r\n\r\ntechniques that are practiced in this project:\r\n* knit/purl ribbing\r\n* increasing\r\n* decreasing\r\n* seaming\r\n\r\nthis is a hat that can be customized! knit the ribbing longer for a folded brim or leave it short for a beanie design.\r\n\r\nfun fact: need needles in a pinch? chopsticks are the equivalent of us8 needles!",
   "pdf": {
     "filename": "714001.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\714001.pdf",
-    "url": "https://pdf.ravelrycache.com/phdaisy1/654732/Flat_Hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480425&Signature=Zu%2FCFsg1K5sPQh8F5tPbKIr0H%2Bg%3D&key_expires=1768480425&key=OUt4dBIbaV-Rp-0AB0XY2Q",
+    "url": "https://pdf.ravelrycache.com/phdaisy1/654732/Flat_Hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770426245&Signature=y0WF6L5nqEfEBYHMuaX206jBfpg%3D&key_expires=1770426245&key=vw-qEQWb5afP2GcS2tHagQ",
     "size_bytes": 430584
   }
 }

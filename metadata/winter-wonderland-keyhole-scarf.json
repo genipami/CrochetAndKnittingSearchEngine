@@ -1,52 +1,49 @@
 {
   "id": 7491128,
-  "name": "Winter Wonderland Keyhole Scarf",
+  "name": "winter wonderland keyhole scarf",
   "permalink": "winter-wonderland-keyhole-scarf",
   "url": "https://www.ravelry.com/patterns/library/winter-wonderland-keyhole-scarf",
   "external_url": "",
-  "designer_name": "KnittyKittyLove",
-  "project_type": "Scarf",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "knittykittylove",
+  "project_type": "scarf",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Impeccable Tweed",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 99.0
     },
     {
-      "fiber": "Simply Soft Paints",
-      "pct": null
-    },
-    {
-      "fiber": "Value (ombre)",
-      "pct": null
+      "fiber": "Rayon / Viscose (Rayon)",
+      "pct": 1.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)"
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "Colorwork",
-    "Seamed",
-    "Written"
+    "colorwork",
+    "seamed",
+    "written"
   ],
   "hook_sizes_mm": [
     4.25
   ],
   "needle_sizes_mm": [],
   "published": "2025/12/01",
-  "sizes_available": "One Size Fits All",
+  "sizes_available": "one size fits all",
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 15,
+  "favorites_count": 16,
   "projects_count": 2,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/5368/1047480",
+  "notes": "this pattern was originally designed for a month-long mcal so it is written out in 5 separate parts. the scarf is crocheted in 3 separate pieces that are seamed together. it is a keyhole scarf so no need to tie a knot when wearing! the colorwork features a snowman on one end and a snowflake on the other with the yarn being held within the work so there is neither a wrong or a right side.\r\n\r\nyou can be as crazy or as reserved as you would like with the color combinations. my example is a bit on the wild side which i prefer. i used 4 different yarns, but you could easily use just 3 different yarns. you could also use scraps and thus any number of yarns.\r\n\r\nas it is a scarf, gauge is not really that important and i did not pay attention to any particular gauge when creating it. note that i do crochet loosely though so you may want to go up a hook size if you crochet on the tighter side (to ensure decent drape for laying around your neck).\r\n\r\nplease reach out here on ravelry if you have any questions about the pattern. :blush: :snowflake: \r\n\r\n",
   "pdf": {
     "filename": "7491128.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7491128.pdf",
-    "url": "https://pdf.ravelrycache.com/KnittyKittyLove/2112768/WinterWonderlandKeyholeScarf.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484155&Signature=OYrzYj%2Fu6efOVfbWuzObymSUSws%3D&key_expires=1768484155&key=sgHDD6q2qRxt7I1WVGHsMg",
+    "url": "https://pdf.ravelrycache.com/KnittyKittyLove/2112768/WinterWonderlandKeyholeScarf.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770447055&Signature=gAn3ZC7VgQ%2Bk5S5N9gLioxX2HGY%3D&key_expires=1770447055&key=lS414i_OwxRKUxMD0XS-ZA",
     "size_bytes": 264097
   }
 }

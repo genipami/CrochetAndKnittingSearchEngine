@@ -1,38 +1,39 @@
 {
   "id": 980510,
-  "name": "Simple Twisted Earwarmer",
+  "name": "simple twisted earwarmer",
   "permalink": "simple-twisted-earwarmer",
   "url": "https://www.ravelry.com/patterns/library/simple-twisted-earwarmer",
   "external_url": "https://yarnandchai.com/simple-twisted-earwarmer/",
-  "designer_name": "Rebecca Langford",
-  "project_type": "Child",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "rebecca langford",
+  "project_type": "child",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Longwood Sport",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Half double crochet (hdc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "half double crochet (hdc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     5.0
   ],
   "needle_sizes_mm": [],
   "published": "2019/11/01",
-  "sizes_available": "Toddler, Child, Teen / Adult Small, Adult Large",
-  "rating_average": 4.884353741496598,
-  "rating_count": 294,
-  "difficulty_average": 1.6395759717314489,
-  "favorites_count": 13366,
-  "projects_count": 1177,
+  "sizes_available": "toddler, child, teen / adult small, adult large",
+  "rating_average": 4.884745762711864,
+  "rating_count": 295,
+  "difficulty_average": 1.6408450704225352,
+  "favorites_count": 13494,
+  "projects_count": 1188,
   "free_ravelry_download": false,
-  "download_url": "https://yarnandchai.com/simple-twisted-earwarmer/"
+  "download_url": "https://yarnandchai.com/simple-twisted-earwarmer/",
+  "notes": "there are so many reasons i love earwarmers. i love wearing them on days when i want my hair up; but beyond that, they're such a quick, easy crochet project! this one is particularly mindless because it's simply rows of half double crochet in back loops only, and finished with a beautiful twist that's much easier than it looks.\r\n\r\nand, if you're trying to build a craft fair inventory, earwarmers can be a great addition! (tip: choose just a handful of styles, and work them up in several modern colors. they're sure to sell!)\r\n\r\nbut whether you're selling, making christmas gifts, or just making yourself something to feel beautiful in, this pattern is for you."
 }

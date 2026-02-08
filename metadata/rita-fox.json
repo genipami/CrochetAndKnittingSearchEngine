@@ -1,41 +1,38 @@
 {
   "id": 7390125,
-  "name": "Rita Fox",
+  "name": "rita fox",
   "permalink": "rita-fox",
   "url": "https://www.ravelry.com/patterns/library/rita-fox",
   "external_url": "https://hobbii.com/rita-fox",
-  "designer_name": "Pica Pau",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Sport",
+  "designer_name": "pica pau",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Friends Cotton 8/6",
-      "pct": null
-    },
-    {
-      "fiber": "Rainbow Cotton 8/6",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     2.75
   ],
   "needle_sizes_mm": [],
   "published": "2024/10/01",
-  "sizes_available": "Height: Approx. 24 cm / 9.5”",
+  "sizes_available": "height: approx. 24 cm / 9.5”",
   "rating_average": 4.933333333333334,
   "rating_count": 15,
   "difficulty_average": 4.785714285714286,
-  "favorites_count": 1557,
-  "projects_count": 46,
+  "favorites_count": 1649,
+  "projects_count": 47,
   "free_ravelry_download": false,
-  "download_url": "https://hobbii.com/rita-fox"
+  "download_url": "https://hobbii.com/rita-fox",
+  "notes": "**materials**\r\n2 safety eyes 8 mm\r\nstuffing\r\ntapestry needle\r\nstitch marker\r\n\r\nfriends cotton 8/6:\r\n- whisky (16) - 2 skeins \r\n- oatmilk (03) - 1 skein\r\n- eucalyptus (98) - 1 skein\r\n- denim (80) - 1 skein\r\n- baby pink (51) - 1 skein\r\n\r\nrainbow cotton 8/6:\r\n- sunny yellow (055) - 1 skein\r\n- dark brown (008) - 1 skein"
 }

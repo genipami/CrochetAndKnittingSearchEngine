@@ -1,31 +1,35 @@
 {
   "id": 1327470,
-  "name": "Picnic Folks Top",
+  "name": "picnic folks top",
   "permalink": "picnic-folks-top",
   "url": "https://www.ravelry.com/patterns/library/picnic-folks-top",
   "external_url": "https://www.knittygrittysg.com/my-patterns/picnic-folks-top",
-  "designer_name": "Wan Cheng Phua",
-  "project_type": "Tee",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "wan cheng phua",
+  "project_type": "tee",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Cloud Cotton",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 60.0
+    },
+    {
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 40.0
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "lace",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Lace",
-    "Seamless",
-    "Top-down",
-    "Written"
+    "charted",
+    "in the round",
+    "lace",
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -33,18 +37,19 @@
     5.0
   ],
   "published": "2023/04/01",
-  "sizes_available": "1, 2, 3 (4, 5, 6) [7, 8, 9] = Garment bust circumferences of 79, 89, 99 (109, 119, 130) [140, 150, 160] cm or 31, 35, 39 (43, 47, 51) [55, 59, 63] inches",
+  "sizes_available": "1, 2, 3 (4, 5, 6) [7, 8, 9] = garment bust circumferences of 79, 89, 99 (109, 119, 130) [140, 150, 160] cm or 31, 35, 39 (43, 47, 51) [55, 59, 63] inches",
   "rating_average": 4.7407407407407405,
   "rating_count": 27,
   "difficulty_average": 2.8181818181818183,
-  "favorites_count": 4162,
-  "projects_count": 128,
+  "favorites_count": 4242,
+  "projects_count": 130,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/99815/956773",
+  "notes": "the picnic folks top is a summer shirt that is knit top down, with a pseudo-saddle shoulder construction. first, neckline shaping is done by knitting flat back-and-forth, with lacework on the shoulders. the neckline is then joined in the round. the yoke is knit in the round, with shoulder and yoke increases, then split for sleeves and body. the body is knit in the round to desired length. the sleeves are picked up and knit to short-sleeve length. all hems are finished with i-cord bind off.\r\n\r\n**skill level:** advanced-beginner to intermediate\r\n\r\n**garment bust circumferences**\r\nsizes: 1, 2, 3 (4, 5, 6) \\[7, 8, 9\\]\r\ncentimetres: 79, 89, 99 (109, 119, 130) \\[140, 150, 160\\]\r\ninches: 31, 35, 39 (43, 47, 51) \\[55, 59, 63\\]\r\nthe top is designed to have about 5 cm (2 inches) of positive ease around the bust.\r\n\r\n**suggested yarn**\r\noh folks co cloud cotton\r\n5-ply worsted weight\r\n60% cotton 40% acrylic blend\r\n200 m per 100 g ball\r\nif you wish to use a yarn substitute, have similar plant/synthetic fibre content to achieve the correct drape and breathability.\r\nyarn quantities: 2, 3, 3 (4, 4, 5) \\[5, 6, 6\\] balls\r\n\r\n**needles and gauge**\r\n4.5 mm for stockinette, 5 mm for bind off\r\nusing 4.5 mm needles, in stockinette, 19 stitches and 24 rows = 10 cm by 10 cm swatch",
   "pdf": {
     "filename": "1327470.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1327470.pdf",
-    "url": "https://pdf.ravelrycache.com/knittygrittysg/1898989/Picnic_Folks_Top__Final_.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482386&Signature=NpstvmQ9bwh0MGmjhLtFt%2Bq5eE8%3D&key_expires=1768482386&key=9bV4AIZxlTghGKfedkVxwA",
+    "url": "https://pdf.ravelrycache.com/knittygrittysg/1898989/Picnic_Folks_Top__Final_.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770437028&Signature=onUtQKLc3VzVWBxeskaDc7qbinM%3D&key_expires=1770437028&key=xZ9PwLt-OJtH_yU_T1YxVA",
     "size_bytes": 405564
   }
 }

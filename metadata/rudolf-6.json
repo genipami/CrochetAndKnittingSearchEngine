@@ -1,27 +1,31 @@
 {
   "id": 7385394,
-  "name": "Rudolf",
+  "name": "rudolf",
   "permalink": "rudolf-6",
   "url": "https://www.ravelry.com/patterns/library/rudolf-6",
   "external_url": "https://novita.com/en/patterns/christmas-knit-along-rudolf-yoke-sweater",
-  "designer_name": "Novita Design Studio",
-  "project_type": "Pullover",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "novita design studio",
+  "project_type": "pullover",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "7 Veljestä",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless",
-    "Stranded colorwork",
-    "Top-down"
+    "in the round",
+    "seamless",
+    "stranded colorwork",
+    "top-down"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -29,12 +33,13 @@
     4.0
   ],
   "published": "2024/11/01",
-  "sizes_available": "XS-S-M-L-XL-2XL-3XL-4XL-5XL",
-  "rating_average": 4.888888888888889,
-  "rating_count": 9,
-  "difficulty_average": 4.625,
-  "favorites_count": 2163,
-  "projects_count": 45,
+  "sizes_available": "xs-s-m-l-xl-2xl-3xl-4xl-5xl",
+  "rating_average": 4.9,
+  "rating_count": 10,
+  "difficulty_average": 4.777777777777778,
+  "favorites_count": 2279,
+  "projects_count": 49,
   "free_ravelry_download": false,
-  "download_url": "https://novita.com/en/patterns/christmas-knit-along-rudolf-yoke-sweater"
+  "download_url": "https://novita.com/en/patterns/christmas-knit-along-rudolf-yoke-sweater",
+  "notes": "**christmas knit-along: rudolf yoke sweater**\r\nget into the holiday spirit by knitting the ultimate christmas sweater! designed by minna metsänen, the rudolf yoke sweater is this season's top knit for every christmas lover, regardless of age or gender. skillfully crafted, this sweater is knit with 7 veljestä yarn, seamlessly from the top down, starting at the yoke. cheerful red-nosed reindeer and other festive motifs bring holiday joy with every stitch.\r\n\r\nthe **knit-along** starts on november 18th. the pattern is published in seven parts, the last part is published on december 9th.\r\n\r\n**sizes**\r\nthe sizes correspond to each other. women's s = men's xs\r\n**women's s(m)l(xl)2xl(3xl)4xl(5xl)\r\nmen's xs(s)m(l)xl(2xl)3xl(4xl)**\r\n\r\nsample size is women's size m\r\n\r\n**finished measurements**\r\n\r\nbust circumference 92(100)108(116)124(132)140(148) cm / 36.25(39.5)42.5(45.75)48.75(52)55(58.25) inches\r\n\r\nsweater length at center back women's 58(60)62(64)66(68)70(72) cm / 22.75(23.5)24.5(25.25)26(26.75)27.5(28.25) inches\r\n\r\nsweater length at center back men's 67(69)71(72)73(74)75(76) cm / 26.5(27.25)28(28.25)28.75(29.25)29.5(30) inches\r\n\r\nsleeve inner length women's 46(47)48(49)50(50)51(52) cm / 18(18.5)18.75(19.25)19.75(19.75)20(20.5) inches\r\n\r\nsleeve inner length men's 50(51)52(53)53(54)55(55) cm / 19.75(20)20.5(20.75)20.75(21.25)21.75(21.75) inches\r\n\r\n**yarn demand**\r\n\r\n**note.** for men's pullover reserve an extra skein (587) cranberry 100 g, since you need more yarn than in women's version. \r\n\r\n**novita 7 veljestä**\r\n(587) cranberry 300(350)350(400)450(500)550(600) g\r\n(011) white 250(300)300(350)400(450)500(550) g\r\n(618) sandbank 50(100)100(100)150(150)150(200) g\r\n(375) bergenia 50(50)50(50)100(100)100(150) g\r\n(064) false morel 20(20)30(30)40(40)50(50) g\r\n\r\nneedles and other supplies\r\n\r\n**circular needles** (40, 60, and 80 cm) novita **3.5 mm** and **4 mm** or according to your gauge, **double-pointed needles** 3.5 mm and 4 mm for the sleeves if you’re not using the magic loop, and stitch markers.\r\n\r\n**design minna metsänen**"
 }

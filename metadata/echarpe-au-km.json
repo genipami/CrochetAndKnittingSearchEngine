@@ -1,40 +1,44 @@
 {
   "id": 7384994,
-  "name": "Echarpe au KM",
+  "name": "echarpe au km",
   "permalink": "echarpe-au-km",
   "url": "https://www.ravelry.com/patterns/library/echarpe-au-km",
   "external_url": "https://ko-fi.com/s/7512c18c62",
-  "designer_name": "Emma Tricolibri",
-  "project_type": "Scarf",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "emma tricolibri",
+  "project_type": "scarf",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "British Wool 4 ply",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 35.8
     },
     {
-      "fiber": "Merino",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 25.0
     },
     {
-      "fiber": "Mohair Luxe Lamé",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 25.0
     },
     {
-      "fiber": "Soft Silk Mohair",
-      "pct": null
+      "fiber": "Silk (Silk)",
+      "pct": 12.0
+    },
+    {
+      "fiber": "Polyester (Polyester)",
+      "pct": 2.2
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "lace",
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Lace"
+    "in the round",
+    "lace"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -45,8 +49,9 @@
   "rating_average": 4.818181818181818,
   "rating_count": 11,
   "difficulty_average": 1.9,
-  "favorites_count": 995,
-  "projects_count": 63,
+  "favorites_count": 1011,
+  "projects_count": 64,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/108629/964826"
+  "download_url": "http://www.ravelry.com/dls/108629/964826",
+  "notes": "pour la beauté du geste, du tricot pour le tricot, voir vos mains créer maille après maille, au kilomètre et sans réfléchir, en laissant passer les pensées au fil du fil... \r\ncette écharpe douce et chaude, au style très classique, ira avec toutes vos tenues, et vous permettra de vous détendre en créant.\r\nprenez deux fils assortis pour un tissu très uni, ou deux fils contrastants pour un effet chiné. \r\nn'hésitez pas à poser un marqueur de progression au début de chaque session de tricot, pour motiver votre avancée.\r\n                                    *           *           *\r\nknitting for the sake of it, watching your hands in the making flow, one stitch after another, creating as you go and dropping thereby your thoughts along the thread...\r\nthis warm and cozy scarf has a classic look to it, and will match all your outfits. you will be able to unwind and let go while knitting.\r\nhold 2 matching yarns for a solid fabric, or 2 contrasting threads for a marled effect.\r\nfeel free to place a progress keeper at the beginning of each knitting session, to behold your wip.\r\n"
 }

@@ -1,28 +1,28 @@
 {
   "id": 1237683,
-  "name": "Farmhouse Dish Cloth",
+  "name": "farmhouse dish cloth",
   "permalink": "farmhouse-dish-cloth",
   "url": "https://www.ravelry.com/patterns/library/farmhouse-dish-cloth",
   "external_url": "https://cloud9knots.com/blogs/news/farmhouse-dish-cloth-crochet-pattern",
-  "designer_name": "Nicole Mansfield",
-  "project_type": "Dishcloth",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "nicole mansfield",
+  "project_type": "dishcloth",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "24/7 Cotton",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Half double crochet (hdc)",
-    "Single crochet (sc)",
-    "Slip stitch (sl st)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "half double crochet (hdc)",
+    "single crochet (sc)",
+    "slip stitch (sl st)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [],
@@ -31,8 +31,9 @@
   "rating_average": 5.0,
   "rating_count": 5,
   "difficulty_average": 2.25,
-  "favorites_count": 835,
-  "projects_count": 68,
+  "favorites_count": 861,
+  "projects_count": 71,
   "free_ravelry_download": false,
-  "download_url": "https://cloud9knots.com/blogs/news/farmhouse-dish-cloth-crochet-pattern"
+  "download_url": "https://cloud9knots.com/blogs/news/farmhouse-dish-cloth-crochet-pattern",
+  "notes": "skill level: easy\r\n\r\nmaterials:\r\n\r\ncotton yarn/4: desired colors. (i use lion brand 24/7 cotton in the example photos)\r\nu.s. size g/4.0mm crochet hook\r\nyarn needle\r\nscissors\r\n \r\n\r\nstitches & abbreviations:\r\n\r\nch  = chain\r\n\r\nhdc = half-double crochet\r\n\r\nhdc sl st = half double crochet slip stitch\r\n\r\nsc= single crochet\r\n\r\nsl st = slip stitch\r\n\r\nst(s) = stitches \r\n\r\n*please remember you are free to use this pattern to make/sell item(s), giving credit back to the designer; do not republish or distribute this pattern or use my photos in any way. feel free to share my shop links! thank you!"
 }

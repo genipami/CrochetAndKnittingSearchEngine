@@ -1,45 +1,46 @@
 {
   "id": 7337743,
-  "name": "Mae's Butterfly Top",
+  "name": "mae's butterfly top",
   "permalink": "maes-butterfly-top",
   "url": "https://www.ravelry.com/patterns/library/maes-butterfly-top",
   "external_url": "",
-  "designer_name": "Hunter Scanlan",
-  "project_type": "Tank/Camisole",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "hunter scanlan",
+  "project_type": "tank/camisole",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Pima Cotton",
-      "pct": null
+      "fiber": "Pima (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamed",
-    "Written"
+    "seamed",
+    "written"
   ],
   "hook_sizes_mm": [
     3.75
   ],
   "needle_sizes_mm": [],
   "published": "2024/05/01",
-  "sizes_available": "XS, S, M, L, XL, 2X, 3X, 4X, 5X, 2, X",
-  "rating_average": 4.777777777777778,
-  "rating_count": 27,
-  "difficulty_average": 3.259259259259259,
-  "favorites_count": 3495,
-  "projects_count": 120,
+  "sizes_available": "xs, s, m, l, xl, 2x, 3x, 4x, 5x, 2, x",
+  "rating_average": 4.785714285714286,
+  "rating_count": 28,
+  "difficulty_average": 3.25,
+  "favorites_count": 3607,
+  "projects_count": 123,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/93264/927705",
+  "notes": "hey there! i'm excited to share that i have taken the opportunity to revamp this pattern after two years of learning and growth. in a commitment to size inclusivity, i've added multiple sizes to the pattern. i’ve also created a beginner-friendly youtube video to guide crocheters in creating this gorgeous butterfly top! the video link can be found in the pattern.\r\n  \r\njust a heads up, while this pattern is not my original design, i aim to enhance and offer a trustworthy resource. with many scam patterns out there, i wanted to bridge the gap by providing a free, written pattern, perfect for beginners looking to create their first garment and small business owners looking to sell their creations.\r\n  \r\nplease be aware that all photos and pattern are the intellectual property of mae crochets, llc. they should not be resold or reposted in any manner.\r\n  \r\nsizes (inches)\r\nsize - upper wing coverage width x height\r\nxs - 5.5\" x 5\"\r\ns - 6.5\" x 5.5\"\r\nm - 7.5\" x 6.25\"\r\nl - 8.5\" x 7\"\r\nxl - 9.5\" x 7.5\"\r\n2x - 10.5\" x 8.25\"\r\n3x - 11.5\" x 9\"\r\n4x - 12.5\" x 9.5\"\r\n5x - 13.5\" x 10.25\"\r\n  \r\nmaterials\r\n  \r\n• size f/3.75mm crochet hook\r\n• weight 4 cotton yarn - 140 (170, 200, 230, 260) (320, 370, 410, 450) yards\r\n• scissors",
   "pdf": {
     "filename": "7337743.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7337743.pdf",
-    "url": "https://pdf.ravelrycache.com/maecrochetss/2074297/Butterfly_Top_Pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481618&Signature=ibpad2MnCxrvU5170JXmeAO936U%3D&key_expires=1768481618&key=Oq7R4UlBXdsbVtqPnwCnIA",
+    "url": "https://pdf.ravelrycache.com/maecrochetss/2074297/Butterfly_Top_Pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770432926&Signature=48fuW04023JIbgVXMHIxZHmXEBM%3D&key_expires=1770432926&key=0YGoTWOMaZdUFUBrkAHukg",
     "size_bytes": 21650270
   }
 }

@@ -1,28 +1,24 @@
 {
   "id": 414946,
-  "name": "That Nice Stitch",
+  "name": "that nice stitch",
   "permalink": "that-nice-stitch",
   "url": "https://www.ravelry.com/patterns/library/that-nice-stitch",
   "external_url": "",
-  "designer_name": "Susan Ashcroft",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "susan ashcroft",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Arroyo",
-      "pct": null
-    },
-    {
-      "fiber": "Sock",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Kitchener stitch"
+    "kitchener stitch"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -30,17 +26,18 @@
   ],
   "published": "2013/06/01",
   "sizes_available": "easy to adjust length",
-  "rating_average": 4.730544747081712,
-  "rating_count": 1028,
-  "difficulty_average": 2.118627450980392,
-  "favorites_count": 28237,
-  "projects_count": 3201,
+  "rating_average": 4.730806608357629,
+  "rating_count": 1029,
+  "difficulty_average": 2.11949069539667,
+  "favorites_count": 28270,
+  "projects_count": 3216,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/16192/161487",
+  "notes": "when my mum was visiting i kept asking what i could knit her and every time she replied: a cowl made with malabrigo sock yarn and \"*that nice stitch*\" - the one i used for [g'day boomerang][1]. \r\n\r\nso i made her a cowl and wrote up the pattern. \r\n\r\ni used sock yarn and made a skinny double loop because she wanted more of an accessory than a *keep-warm* cowl. i used just under 55g (250m) and it's approx. 13cm/5\" x 120cm/48\".\r\n\r\nyou could easily use a different yarn weight or make a different size - double or single loop. the pattern provides gauge and size info for mum's version, but also includes tips on how to adjust for other yarn weights and sizes - but don't forget changes will affect yarn requirements.  \r\n\r\nthe stitch is very easy to knit, but really makes the most of variegated yarns that can often be hard to find patterns for. \r\n\r\nas an added bonus, both sides are \"nice\" - which makes the grafting/kitchenering worth it. **photo #2 shows the other side.** \r\n\r\nand as a tribute to my mother's generosity (*she's one of the kindest most generous people i know*), it'll be a freebie. \r\n\r\n\r\n**many thanks to the testers:**\r\n\r\nriverwaters\r\nopknitter\r\nkaaatija\r\npaulinespinks\r\n\r\n\r\n  [1]: http://www.ravelry.com/patterns/library/gday-boomerang",
   "pdf": {
     "filename": "414946.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\414946.pdf",
-    "url": "https://pdf.ravelrycache.com/stitchnerd/264081/that_nice_stitch_-_june_29th.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483563&Signature=XwZ1fQauBbUXBy19y4ExqxoENN8%3D&key_expires=1768483563&key=Gz39Yed-qPJfYKQUvD5buA",
+    "url": "https://pdf.ravelrycache.com/stitchnerd/264081/that_nice_stitch_-_june_29th.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770443854&Signature=uCcTuOKIgIbnUU%2BNTfv7EO%2BS1WE%3D&key_expires=1770443854&key=HK2JOf-QU1oSXZtpSZU9Vw",
     "size_bytes": 491739
   }
 }

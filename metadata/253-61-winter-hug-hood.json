@@ -1,42 +1,47 @@
 {
   "id": 7399295,
-  "name": "253-61 Winter Hug Hood",
+  "name": "253-61 winter hug hood",
   "permalink": "253-61-winter-hug-hood",
   "url": "https://www.ravelry.com/patterns/library/253-61-winter-hug-hood",
   "external_url": "https://www.garnstudio.com/pattern.php?id=12086&cid=19",
-  "designer_name": "DROPS design",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "drops design",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "DROPS Daisy",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 50.0
     },
     {
-      "fiber": "DROPS Kid-Silk",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 37.5
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 12.5
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamed"
+    "seamed"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     5.0
   ],
   "published": "2025/01/01",
-  "sizes_available": "S/M - L/XL",
-  "rating_average": 4.21875,
-  "rating_count": 32,
-  "difficulty_average": 3.393939393939394,
-  "favorites_count": 5643,
-  "projects_count": 199,
+  "sizes_available": "s/m - l/xl",
+  "rating_average": 4.264705882352941,
+  "rating_count": 34,
+  "difficulty_average": 3.342857142857143,
+  "favorites_count": 5981,
+  "projects_count": 216,
   "free_ravelry_download": false,
-  "download_url": "https://www.garnstudio.com/pattern.php?id=12086&cid=19"
+  "download_url": "https://www.garnstudio.com/pattern.php?id=12086&cid=19",
+  "notes": "knitted hooded scarf in drops daisy and drops kid-silk. the piece is worked with pearl rib and i-cord. sizes s - xl. pattern da-041; yarn group b + a\r\n\r\n**sizes**: s/m - l/xl\r\nfits head-size: 54/56 - 58/60 cm\r\nlength from hood-opening approx. 41-43 cm\r\nwidth approx. 192-194 cm\r\n\r\n**yarn**:\r\ndrops daisy from garnstudio (belongs to yarn group b), 200-200 g colour 09, ice blue\r\n**and** use:\r\ndrops kid-silk from garnstudio (belongs to yarn group a), 75-75 g colour 59, ice crystal\r\n\r\n**needles**: drops circular needle size 5 mm: length 80 cm.\r\n\r\n**knitting tension**:\r\n19 stitches in width and 25 rows in height, with pearl rib and 1 strand of each quality on needle size 5 mm = 10 x 10 cm.\r\n"
 }

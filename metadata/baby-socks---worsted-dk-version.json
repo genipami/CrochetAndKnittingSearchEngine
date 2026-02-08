@@ -1,41 +1,42 @@
 {
   "id": 503596,
-  "name": "Baby Socks - Worsted/DK version",
+  "name": "baby socks - worsted/dk version",
   "permalink": "baby-socks---worsted-dk-version",
   "url": "https://www.ravelry.com/patterns/library/baby-socks---worsted-dk-version",
   "external_url": "",
-  "designer_name": "Kate Atherley",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "kate atherley",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless",
-    "Top-down",
-    "Written"
+    "in the round",
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     4.0
   ],
   "published": "2014/07/01",
-  "sizes_available": "Newborn (6 months, 9-12 months)",
-  "rating_average": 4.8,
-  "rating_count": 175,
-  "difficulty_average": 2.18562874251497,
-  "favorites_count": 5569,
-  "projects_count": 899,
+  "sizes_available": "newborn (6 months, 9-12 months)",
+  "rating_average": 4.795454545454546,
+  "rating_count": 176,
+  "difficulty_average": 2.1904761904761907,
+  "favorites_count": 5606,
+  "projects_count": 902,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/2453/221117",
+  "notes": "top down, plain and simple socks, but sized for quick knitting and extreme cuteness. an excellent emergency baby gift, or just a nice way to use up some leftovers. \r\n\r\nsuitable for knitters with experience working in the round, but the pattern is written to be easy enough for a first pair of socks. written for dpns, magic loop or 2 circulars – use which you prefer.\r\n\r\nthis is the worsted/dk version - the fingering version can be found [here][1].\r\n\r\n\r\n  [1]: http://www.ravelry.com/patterns/library/baby-socks-23",
   "pdf": {
     "filename": "503596.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\503596.pdf",
-    "url": "https://pdf.ravelrycache.com/kateatherley/555156/BabySock_KateAtherley_WorstedDK.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478902&Signature=0W8%2F%2FLVyNw%2FqBplyu3ucyfHUeWk%3D&key_expires=1768478902&key=LPQho8rWwribZA67aLLpHg",
+    "url": "https://pdf.ravelrycache.com/kateatherley/555156/BabySock_KateAtherley_WorstedDK.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770418048&Signature=Ld3ueZxT9eI5m9UanEQ6%2BBzSZio%3D&key_expires=1770418048&key=GFiyzFRbWGLY0noZ9msqVA",
     "size_bytes": 403806
   }
 }

@@ -1,43 +1,44 @@
 {
   "id": 7404779,
-  "name": "Animal Eyeglass Holder",
+  "name": "animal eyeglass holder",
   "permalink": "animal-eyeglass-holder-2",
   "url": "https://www.ravelry.com/patterns/library/animal-eyeglass-holder-2",
   "external_url": "",
-  "designer_name": "Ann Fellerman",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "ann fellerman",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Super Saver (solids)",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)"
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     4.0
   ],
   "needle_sizes_mm": [],
   "published": null,
-  "sizes_available": "One size",
+  "sizes_available": "one size",
   "rating_average": 4.4,
   "rating_count": 5,
   "difficulty_average": 3.2,
-  "favorites_count": 1220,
-  "projects_count": 39,
+  "favorites_count": 1235,
+  "projects_count": 40,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/102243/980850",
+  "notes": "gauge is not important. just make sure the width is wide enough to accommodate your glasses. if you need to make it larger add an increase round by using (5 sc, inc) before round 7.",
   "pdf": {
     "filename": "7404779.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7404779.pdf",
-    "url": "https://pdf.ravelrycache.com/anabanana1959/1954925/Animal_Eyeglass_Holder.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478756&Signature=Uvnkx4xKFRY7f32Ay0%2BrdN%2BoSI4%3D&key_expires=1768478756&key=eG5gxkWzx65plp3CLjXImg",
+    "url": "https://pdf.ravelrycache.com/anabanana1959/1954925/Animal_Eyeglass_Holder.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770417178&Signature=vc%2FcJl1kYKbYm8D869RwHngo1so%3D&key_expires=1770417178&key=wNwfLJvywxxGrSo2CqBKMA",
     "size_bytes": 14757908
   }
 }

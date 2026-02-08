@@ -1,30 +1,34 @@
 {
   "id": 257188,
-  "name": "Star Blanket",
+  "name": "star blanket",
   "permalink": "star-blanket-6",
   "url": "https://www.ravelry.com/patterns/library/star-blanket-6",
   "external_url": "http://www.yarnspirations.com/bernat-star-blanket/BRC0202-004583M.html",
-  "designer_name": "Bernat Design Studio",
-  "project_type": "Blanket",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "bernat design studio",
+  "project_type": "blanket",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Baby Coordinates Ombres",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 73.0
     },
     {
-      "fiber": "Baby Coordinates Solids (Rayon blend)",
-      "pct": null
+      "fiber": "Rayon / Viscose (Rayon)",
+      "pct": 24.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 3.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     4.0
@@ -35,8 +39,9 @@
   "rating_average": 4.5792,
   "rating_count": 625,
   "difficulty_average": 2.0902140672782874,
-  "favorites_count": 14922,
-  "projects_count": 2333,
+  "favorites_count": 15015,
+  "projects_count": 2341,
   "free_ravelry_download": false,
-  "download_url": "http://www.yarnspirations.com/on/demandware.static/-/Sites-master-catalog-spinrite/default/dw92fd4683/PDF/BRC0202-004583M.pdf"
+  "download_url": "http://www.yarnspirations.com/on/demandware.static/-/Sites-master-catalog-spinrite/default/dw92fd4683/PDF/BRC0202-004583M.pdf",
+  "notes": "*beautiful striped star baby blanket radiates outward in bernat baby coordinates. (bernat.com)* also numbered 5389 in different colors.\r\n\r\nbernat® baby coordinates \r\n(solids: 140 g/5 oz; ombres: 120 g/4.25 oz)\r\ncontrast a (48005 white) 1 ball\r\ncontrast b (49415 candy baby) 2 balls\r\n\r\nworked in rounds from the center out in alternating colors.\r\n"
 }

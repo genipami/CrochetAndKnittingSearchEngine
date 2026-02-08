@@ -1,25 +1,29 @@
 {
   "id": 7384431,
-  "name": "Ein bisschen Wärme",
+  "name": "ein bisschen wärme",
   "permalink": "ein-bisschen-warme",
   "url": "https://www.ravelry.com/patterns/library/ein-bisschen-warme",
   "external_url": "",
-  "designer_name": "knitcats Design",
-  "project_type": "Mittens/Gloves",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "knitcats design",
+  "project_type": "mittens/gloves",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Alpaca Print",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 70.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 30.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -27,17 +31,18 @@
   ],
   "published": null,
   "sizes_available": "",
-  "rating_average": 0,
-  "rating_count": null,
+  "rating_average": 5.0,
+  "rating_count": 3,
   "difficulty_average": 0,
-  "favorites_count": 184,
-  "projects_count": 28,
+  "favorites_count": 190,
+  "projects_count": 29,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/29055/964315",
+  "notes": "ein bisschen wärme. im innen und im außen.\r\noft habe ich kalte hände beim stricken.\r\ndiese längeren pulswärmer helfen ganz wunderbar!\r\n.\r\nes ist nicht wirklich eine anleitung.\r\nnur ein kleines rezept für längere pulswärmer nach knitcats art. ",
   "pdf": {
     "filename": "7384431.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7384431.pdf",
-    "url": "https://pdf.ravelrycache.com/Florentine/1915903/Knitcats_Ein_bisschen_Warme.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480068&Signature=ldNjSINIonLOP%2BmPVDKOG0%2Bd2BI%3D&key_expires=1768480068&key=_58lU2NvMX2wYOVae1JzQQ",
+    "url": "https://pdf.ravelrycache.com/Florentine/1915903/Knitcats_Ein_bisschen_Warme.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770424768&Signature=5CCh6Ojz4cV0BWEGWTmXAE3VkIg%3D&key_expires=1770424768&key=Hd9CC65xHA2CJP2StXtUfg",
     "size_bytes": 113459
   }
 }

@@ -1,31 +1,35 @@
 {
   "id": 7318086,
-  "name": "Moose Balaclava",
+  "name": "moose balaclava",
   "permalink": "moose-balaclava",
   "url": "https://www.ravelry.com/patterns/library/moose-balaclava",
   "external_url": "",
   "designer_name": "slow stuff knitwear",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "DROPS Brushed Alpaca Silk",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 50.0
     },
     {
-      "fiber": "DROPS Merino Extra Fine",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 38.5
+    },
+    {
+      "fiber": "Bombyx / Cultivated / Mulberry (Silk)",
+      "pct": 11.5
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "In the round",
-    "Top-down",
-    "Written"
+    "blocking",
+    "in the round",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -33,18 +37,19 @@
     5.0
   ],
   "published": "2024/02/01",
-  "sizes_available": "S/M (L/XL)",
+  "sizes_available": "s/m (l/xl)",
   "rating_average": 4.818181818181818,
   "rating_count": 11,
   "difficulty_average": 2.6,
-  "favorites_count": 1266,
-  "projects_count": 56,
+  "favorites_count": 1315,
+  "projects_count": 57,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/104532/911754",
+  "notes": "the moose balaclava is a cozy and simple balaclava, knitted up quickly. it is for beginner knitters who are comfortable with knit stitches and purl stitches. the balaclava is fitted, but notice that the superwash merino has the tendency to stretch out a bit, so the finished balaclava with get a bit wider with wear. however, if you prefer a more oversized balaclava, you kan knit the bigger size. \r\n\r\nsizing: 54 – 58 (58 – 61) cm\r\nafter washing and blocking the finished balaclava measures 18 (20) cm across when laying flat\r\nrequired techniques: cast on,knit stitch, purl stitch, backward loop cast on, pick up and knit stitches, italian (tubular) bind off, yarn over, knit two stitches together\r\nneedles: circular needles 5 mm [us 8] / 60 cm [24 inches], 5 mm [us 8] / 40 cm [16 inches], 4.5 mm [us 7]/ 40 cm [16 inches]\r\nyarn: 100 (150) g drops merino extra fine mix held together with  50 (50) g drops brushed alpaca silk uni colour \r\n\r\n",
   "pdf": {
     "filename": "7318086.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7318086.pdf",
-    "url": "https://pdf.ravelrycache.com/slowstuffknitwear/1936147/Moose_Balaclava_pattern_vEN1.2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481913&Signature=yn7IsEFE%2FaUSTCfL7P02Kn7P%2BV4%3D&key_expires=1768481913&key=I9yunNIuIG4KAayLAqG8Sg",
+    "url": "https://pdf.ravelrycache.com/slowstuffknitwear/1936147/Moose_Balaclava_pattern_vEN1.2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770434574&Signature=xXGKdzHNMPUiWFYDLMnZwx1yVDU%3D&key_expires=1770434574&key=LPygf2N6R7eyBcaUhrUfqA",
     "size_bytes": 212924
   }
 }

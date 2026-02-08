@@ -1,47 +1,44 @@
 {
   "id": 1152070,
-  "name": "Sparkling Scrubby",
+  "name": "sparkling scrubby",
   "permalink": "sparkling-scrubby",
   "url": "https://www.ravelry.com/patterns/library/sparkling-scrubby",
   "external_url": "",
-  "designer_name": "Unwind Yarn Shop",
-  "project_type": "Dishcloth",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Sport",
+  "designer_name": "unwind yarn shop",
+  "project_type": "dishcloth",
+  "fiber_art": "crochet",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Creative Bubble",
-      "pct": null
-    },
-    {
-      "fiber": "Creative Bubble Print",
-      "pct": null
+      "fiber": "Polyester (Polyester)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)"
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     5.0
   ],
   "needle_sizes_mm": [],
   "published": "2021/06/01",
-  "sizes_available": "Approx. 3\" in diameter",
+  "sizes_available": "approx. 3\" in diameter",
   "rating_average": 4.714285714285714,
   "rating_count": 7,
   "difficulty_average": 2.2857142857142856,
-  "favorites_count": 149,
-  "projects_count": 34,
+  "favorites_count": 156,
+  "projects_count": 39,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/56194/706834",
+  "notes": "why not make your own reusable scrubby? this little scrubby crochets up fast. these are a great bridal, baby shower, or holiday  gift.\r\n\r\nrico designs creative bubble or creative bubble prints\r\n(sport weight) 99 yds.\r\n1 scrubby only needs 26 yds.\r\n\r\nhook\r\nh (5 mm)\r\n\r\ngauge\r\nnot critical\r\n\r\napprox. 3\" in diameter",
   "pdf": {
     "filename": "1152070.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1152070.pdf",
-    "url": "https://pdf.ravelrycache.com/UnwindYarnShop/1340036/Sparkling_Scrubby.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483282&Signature=B8BmnhdKGpq8tPoLg%2BJUvDJ%2Br%2BU%3D&key_expires=1768483282&key=kQU4Pl6j-YhG2hqDrq-mug",
+    "url": "https://pdf.ravelrycache.com/UnwindYarnShop/1340036/Sparkling_Scrubby.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770441834&Signature=AhWI1JMXZCK0O2O5jiKN%2B1eJEgk%3D&key_expires=1770441834&key=nTDcP4PSoZ15R8NgfMOEDA",
     "size_bytes": 282796
   }
 }

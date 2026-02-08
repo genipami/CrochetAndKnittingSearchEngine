@@ -1,42 +1,39 @@
 {
   "id": 1193372,
-  "name": "Passe-partout cowl",
+  "name": "passe-partout cowl",
   "permalink": "passe-partout-cowl-2",
   "url": "https://www.ravelry.com/patterns/library/passe-partout-cowl-2",
   "external_url": "https://biscotte.org/passe-partout",
-  "designer_name": "Louise Robert",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "louise robert",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Kirei",
-      "pct": null
-    },
-    {
-      "fiber": "Kirei Color",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamed",
-    "Written"
+    "seamed",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     5.5
   ],
   "published": "2021/11/01",
-  "sizes_available": "Adult One size",
-  "rating_average": 4.8125,
-  "rating_count": 16,
-  "difficulty_average": 1.75,
-  "favorites_count": 890,
-  "projects_count": 116,
+  "sizes_available": "adult one size",
+  "rating_average": 4.823529411764706,
+  "rating_count": 17,
+  "difficulty_average": 1.7058823529411764,
+  "favorites_count": 911,
+  "projects_count": 118,
   "free_ravelry_download": false,
-  "download_url": "https://biscotte.org/passe-partout"
+  "download_url": "https://biscotte.org/passe-partout",
+  "notes": "here is a model easy to knit in back and forth rows and in “false english ribs”. add to that a soft yarn that offers us a spectacular colors display and un-paralleled warmth, and you have a perfect pattern for beginners that is as pleasant to knit as it is to wear!\r\n========================================\r\n\r\n**in addition to the free knitting pattern, you will need the following material to knit this cowl:**\r\n----------------------------------------\r\n.\r\n**yarn** : [katia kirei color][1] [100% virgin wool, 160 m; 174 yds per ball of 100g] : 1 ball. this yarn is also available in solid color version here : [katia kirei][2]\r\n\r\n**needles** : 5.5 mm needles (straight or circular)\r\n\r\n**notions** : tapestry needle\r\n\r\n**gauge** : *28 sts = 10 cm; 4\" in false english ribs.\r\n\r\nla version française de ce patron se trouve sur [leslainesbiscotte.com][3]\r\n\r\n\r\n  [1]: https://biscotte.org/kirei-color\r\n  [2]: https://biscotte.org/kirei\r\n  [3]: https://biscotte.org/passe-partout"
 }

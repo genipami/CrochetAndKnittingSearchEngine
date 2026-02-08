@@ -1,44 +1,45 @@
 {
   "id": 572035,
-  "name": "Mother of Dragons Dice Bag",
+  "name": "mother of dragons dice bag",
   "permalink": "mother-of-dragons-dice-bag",
   "url": "https://www.ravelry.com/patterns/library/mother-of-dragons-dice-bag",
   "external_url": "",
-  "designer_name": "Rachy Newin",
-  "project_type": "Bag",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "rachy newin",
+  "project_type": "bag",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Worsted Merino",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)"
+    "double crochet (dc)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     5.0
   ],
   "needle_sizes_mm": [],
   "published": "2015/04/01",
-  "sizes_available": "Adjustable, 7” around and 5.5\" high as written",
-  "rating_average": 4.681818181818182,
-  "rating_count": 242,
-  "difficulty_average": 3.1515151515151514,
-  "favorites_count": 11906,
-  "projects_count": 979,
+  "sizes_available": "adjustable, 7” around and 5.5\" high as written",
+  "rating_average": 4.678861788617886,
+  "rating_count": 246,
+  "difficulty_average": 3.1617021276595745,
+  "favorites_count": 12081,
+  "projects_count": 996,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/47447/268236",
+  "notes": "take inspiration from daenerys targaryen! the mother of dragons dice bag is perfect for anyone who loves gaming, game of thrones, or both. pair it with the custom dyed [dragon's eggs mini skein set][3] from [littlebean loves - hand painted yarn](/yarns/brands/littlebean-loves---hand-painted-yarn) for dice bags that are that perfect match to drogon, rhaegal, and viserion.\r\n\r\nthe mother of dragons dice bag is designed to have smaller holes than the typical crocodile stitch, making it better suited to carrying around dice and other items, even when unlined. the dice bag uses a number of more advanced crochet techniques, but includes links to relevant tutorials in case you're not familiar with any of them.\r\n\r\n*because this is a free pattern, i'm not able to provide pattern support. if you have any questions, you're welcome to post them in the [crochet with rachy facebook group][4] to get help from the community.*\r\n\r\n\r\n  [1]: http://eepurl.com/b7-vix\r\n  [2]: https://www.facebook.com/groups/crochetwithrachy/\r\n  [3]: https://www.etsy.com/listing/550592767/dragons-eggs-3-50g-skein-tonal-yarn\r\n  [4]: https://www.facebook.com/groups/crochetwithrachy/",
   "pdf": {
     "filename": "572035.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\572035.pdf",
-    "url": "https://pdf.ravelrycache.com/RachyNewin/731864/Mother_of_Dragons_Dice_Bag.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481936&Signature=pX5Y8%2BxVRwXexxRfCYYWwYLsqYE%3D&key_expires=1768481936&key=qqRXm-AyAGN8U6F5F2Jh0A",
+    "url": "https://pdf.ravelrycache.com/RachyNewin/731864/Mother_of_Dragons_Dice_Bag.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770434691&Signature=TglcQ08CspKIAdRlB7OqkZWAt10%3D&key_expires=1770434691&key=N-H7-HL0FFHRKAhhAXME6A",
     "size_bytes": 798190
   }
 }

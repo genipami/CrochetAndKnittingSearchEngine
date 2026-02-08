@@ -1,23 +1,23 @@
 {
   "id": 984221,
-  "name": "Petite Star",
+  "name": "petite star",
   "permalink": "petite-star",
   "url": "https://www.ravelry.com/patterns/library/petite-star",
   "external_url": "https://mijocrochet.se/2025/12/05/petite-star/",
-  "designer_name": "Johanna Lindahl",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Fingering",
+  "designer_name": "johanna lindahl",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Catona",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "Charted",
-    "In the round"
+    "charted",
+    "in the round"
   ],
   "hook_sizes_mm": [
     3.0
@@ -28,8 +28,9 @@
   "rating_average": 4.870967741935484,
   "rating_count": 31,
   "difficulty_average": 1.8275862068965518,
-  "favorites_count": 3190,
-  "projects_count": 120,
+  "favorites_count": 3201,
+  "projects_count": 121,
   "free_ravelry_download": false,
-  "download_url": "https://mijocrochet.se/2025/12/05/petite-star/"
+  "download_url": "https://mijocrochet.se/2025/12/05/petite-star/",
+  "notes": "this pattern of a small decorative star is called “petite star” which means “little star”. use the star as a hanging decoration or crochet several to make a whole garland with stars.\r\n\r\nvisit my blog for more inspirations and patterns;\r\n\r\nmijocrochet.se\r\n\r\n2019 version https://mijocrochet.se/2019/12/01/petite-star/\r\n2025 version https://mijocrochet.se/2025/12/05/petite-star/"
 }

@@ -1,27 +1,27 @@
 {
   "id": 1337369,
-  "name": "Harmony Hat",
+  "name": "harmony hat",
   "permalink": "harmony-hat-4",
   "url": "https://www.ravelry.com/patterns/library/harmony-hat-4",
   "external_url": "https://www.5littlemonsters.com/2023/05/harmony-hat.html",
-  "designer_name": "Erica Dietz",
-  "project_type": "Child",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "erica dietz",
+  "project_type": "child",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Mandala Ombre",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Puff stitch",
-    "Ribbing"
+    "puff stitch",
+    "ribbing"
   ],
   "techniques_used": [
-    "In the round",
-    "Top-down",
-    "Written"
+    "in the round",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [
     5.5
@@ -32,8 +32,9 @@
   "rating_average": 5.0,
   "rating_count": 14,
   "difficulty_average": 2.5,
-  "favorites_count": 574,
+  "favorites_count": 586,
   "projects_count": 40,
   "free_ravelry_download": false,
-  "download_url": "http://www.ravelry.com/purchase/5-little-monsters-shop/857649"
+  "download_url": "http://www.ravelry.com/purchase/5-little-monsters-shop/857649",
+  "notes": "the harmony hat is the companion to the harmony cowl. it is a crocheted hat pattern available in 5 sizes ranging from baby to adult. it uses a combination of puff stitches and crossed doubles to create the pattern on the body of the hat. it is finished with a post stitch ribbing around the bottom edge. "
 }

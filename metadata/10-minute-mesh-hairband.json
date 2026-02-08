@@ -1,22 +1,22 @@
 {
   "id": 7415196,
-  "name": "10-Minute Mesh Hairband",
+  "name": "10-minute mesh hairband",
   "permalink": "10-minute-mesh-hairband",
   "url": "https://www.ravelry.com/patterns/library/10-minute-mesh-hairband",
   "external_url": "https://vivcrochets.com/mesh-crochet-hairband-free-pattern-video-tutorial/",
-  "designer_name": "Viv Crochets",
-  "project_type": "Hat",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "viv crochets",
+  "project_type": "hat",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Super Saver (solids)",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     5.5
@@ -27,8 +27,9 @@
   "rating_average": 5.0,
   "rating_count": 3,
   "difficulty_average": 1.3333333333333333,
-  "favorites_count": 213,
-  "projects_count": 10,
+  "favorites_count": 232,
+  "projects_count": 11,
   "free_ravelry_download": false,
-  "download_url": "https://vivcrochets.com/mesh-crochet-hairband-free-pattern-video-tutorial/"
+  "download_url": "https://vivcrochets.com/mesh-crochet-hairband-free-pattern-video-tutorial/",
+  "notes": "this crochet hairband pattern is a quick and easy project, perfect for beginners. it can be completed in under 10 minutes and there are no ends to weave in! crochet this cute hair accessory for yourself or as a gift to a friend!\r\n\r\nvideo tutorial: https://youtu.be/yudruesz-io"
 }

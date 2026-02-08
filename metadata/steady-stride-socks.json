@@ -1,33 +1,37 @@
 {
   "id": 7425749,
-  "name": "Steady Stride Socks",
+  "name": "steady stride socks",
   "permalink": "steady-stride-socks",
   "url": "https://www.ravelry.com/patterns/library/steady-stride-socks",
   "external_url": "",
-  "designer_name": "Léa Loiseau",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "léa loiseau",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Arwetta",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Ribbing",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "lace",
+    "ribbing",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Kitchener stitch",
-    "Lace",
-    "Seamless",
-    "Short rows",
-    "Written"
+    "charted",
+    "in the round",
+    "kitchener stitch",
+    "lace",
+    "seamless",
+    "short rows",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -38,16 +42,17 @@
   "published": "2025/04/01",
   "sizes_available": "58(56) / 66(64) / 74(72) sts",
   "rating_average": 5.0,
-  "rating_count": 6,
-  "difficulty_average": 3.4,
-  "favorites_count": 955,
-  "projects_count": 32,
+  "rating_count": 7,
+  "difficulty_average": 3.6666666666666665,
+  "favorites_count": 967,
+  "projects_count": 36,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/111274/996958",
+  "notes": "**the steady stride socks are ready to walk with you through just about anything.**\r\n\r\na satisfying toe-up knit with a clean rib and comfy fit. equally suited for long walks or quiet evenings in.\r\nonce you cast on, don’t be surprised if they become a steady favorite.\r\n\r\nthe socks are worked toe-up with a 3x1 rib that flows from toe to cuff. a ribbed gusset ensures a comfortable fit, followed by a german short row heel turn and a reinforced heel flap. the leg continues in ribbing and finishes with a 1x1 cuff. instructions are included for both a stretchy bind-off and a doubled cuff with a grafted finish.\r\n\r\nthis pattern has been tested and professionally tech-edited.\r\n\r\n---\r\n\r\n## **gauge**  \r\n36 stitches and 44 rows = 10 cm / 4 inches in stockinette stitch. \r\n\r\n## **techniques**\r\n* judy magic cast on\r\n* m1 knit and purl increase\r\n* german short rows\r\n* jeny surprisingly stretchy bind off / kitchener stitch \r\n\r\n## **charts**\r\ncharts (with written instructions) are provided to guide motif placement during increases.  \r\n\r\n## **difficulty level**  \r\nthis pattern is suitable for an advanced beginner or intermediate knitter: \r\n\r\n* while no complex stitches are used,\r\n  the knitter should be comfortable\r\n  maintaining a simple rib motif.  \r\n* familiarity with german short rows is\r\n  recommended. \r\n* links to video tutorials\r\n  are provided for the cast-on,\r\n  bind-off, short rows, and grafting\r\n  techniques.\r\n\r\n## **sizing**\r\nthese socks are designed with wide feet in mind and sport two extra stitches (~0.5 cm / 1/4 inch) in the foot compared to the leg. \r\nchoose the size closest to your widest feature, aiming for 10% of negative ease in width. \r\nthe foot and leg lengths are adjustable. for foot length, ease should range from 10% negative ease to no ease, depending on your fit preference.\r\n\r\n**size 1**\r\n- foot: 58 sts → 16.1 cm (6 1/2\")\r\n- leg: 56 sts → 15.6 cm (6 1/4\")\r\n\r\n**size 2**\r\n- foot: 66 sts → 18.3 cm (7 3/8\")\r\n- leg: 64 sts → 17.8 cm (7 1/8\")\r\n\r\n**size 3**\r\n- foot: 74 sts → 20.6 cm (8 1/4\")\r\n- leg: 72 sts → 20 cm (8\")\r\n\r\n&nbsp;\r\n\r\n## **materials**  \r\n100g / 400m of fingering weight sock yarn should be sufficient for all sizes.  \r\n\r\nconsider splitting your yarn into two, or ensure that the first sock uses no more than half.  \r\nfor reference, the green sample (size 72/74, eu 43) with a 15 cm (5 7/8 inch) leg and a folded cuff used approximately 85g.  \r\n\r\n## **needles**  \r\nthe pattern is written to be needle-agnostic. use your preferred method to knit small circumferences. \r\nif you choose to use small circulars, you'll need an alternate method to work the cast-on and early shaping.\r\n* **2.25 mm / us 1** needles for the sock body or the needle size needed to achieve gauge.  \r\n* use needles 1 to 2 sizes smaller for the cuff.  \r\n\r\n## **notions**  \r\n* tapestry needle  \r\n* stitch markers  \r\n* if knitting the folded cuff, an additional set of needles (any size up to the gauge needle size)\r\n",
   "pdf": {
     "filename": "7425749.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7425749.pdf",
-    "url": "https://pdf.ravelrycache.com/inorbknit/1994678/Steady_Stride_Socks_rav_v1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483368&Signature=G1iEVvogNelNVLTULLMiMgjaDaU%3D&key_expires=1768483368&key=lKWYpA5x_kTg_WKw4EeOZA",
+    "url": "https://pdf.ravelrycache.com/inorbknit/1994678/Steady_Stride_Socks_rav_v1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770442478&Signature=owxHUZtFMsUHNVGdyniZQ4H3h4w%3D&key_expires=1770442478&key=roZBf2D2xmA-Eg7jvwJ9jw",
     "size_bytes": 2292143
   }
 }

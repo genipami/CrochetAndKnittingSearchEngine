@@ -1,25 +1,29 @@
 {
   "id": 1330125,
-  "name": "Chicky lace socks",
+  "name": "chicky lace socks",
   "permalink": "chicky-lace-socks",
   "url": "https://www.ravelry.com/patterns/library/chicky-lace-socks",
   "external_url": "",
-  "designer_name": "Pien Roggeveen",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "pien roggeveen",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Unity",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 70.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 30.0
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Treble crochet (tr)"
+    "lace",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Lace"
+    "lace"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -27,17 +31,18 @@
   ],
   "published": "2023/04/01",
   "sizes_available": "size 37-41",
-  "rating_average": 4.848484848484849,
-  "rating_count": 33,
-  "difficulty_average": 2.727272727272727,
-  "favorites_count": 1832,
-  "projects_count": 155,
+  "rating_average": 4.833333333333333,
+  "rating_count": 36,
+  "difficulty_average": 2.7142857142857144,
+  "favorites_count": 1875,
+  "projects_count": 160,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/98263/851900",
+  "notes": "**chicky lace socks: super easy to knit!**\r\ni am very happy to share this free pattern for lace socks with you! the socks are super easy to knit and perfect for beginning and advanced knitters of lace patterns. within a few rounds you know the pattern by heart and you can easily watch your favorite series while knitting. \r\n\r\n**sizes**\r\neu sizes: 37-41\r\nus sizes: 6.5-9.5 (female)\r\nuk sizes: 4-7\r\n\r\n**materials**\r\nyou can choose any fingering sock yarn you like, with a gauge of 28 stitches x 40 rows.  you can also choose a sock yarn with a different gauge, for instance 30 stitches x 42 rows. in that case the socks will be a little smaller, so please check along the way if the size is right.\r\n\r\n**i wish you lots of knitting fun!**",
   "pdf": {
     "filename": "1330125.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1330125.pdf",
-    "url": "https://pdf.ravelrycache.com/sokkenvanpien/1655882/ENG_Chicky_lace_socks.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479456&Signature=EuqicrZfuPr53jIZK2oJs5%2FrI3M%3D&key_expires=1768479456&key=0u4wUwmXTxvaFYzQm-tbPw",
+    "url": "https://pdf.ravelrycache.com/sokkenvanpien/1655882/ENG_Chicky_lace_socks.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770421172&Signature=1qaC7eOnaIF0X8CIw%2FnkR%2BWZqhs%3D&key_expires=1770421172&key=9sACirRuOVkwUcRAR4CTXw",
     "size_bytes": 2755105
   }
 }

@@ -1,35 +1,47 @@
 {
   "id": 7479010,
-  "name": "Pocket Edition",
+  "name": "pocket edition",
   "permalink": "pocket-edition-2",
   "url": "https://www.ravelry.com/patterns/library/pocket-edition-2",
   "external_url": "",
-  "designer_name": "Sonder Yarn Co.",
-  "project_type": "Pullover",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Sport",
+  "designer_name": "sonder yarn co.",
+  "project_type": "pullover",
+  "fiber_art": "knitting",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Halo",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 37.7
     },
     {
-      "fiber": "Haven",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 36.2
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 14.1
+    },
+    {
+      "fiber": "Bluefaced Leicester (BFL) (Wool)",
+      "pct": 6.0
+    },
+    {
+      "fiber": "Masham / Massam (Wool)",
+      "pct": 6.0
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Ribbing",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "lace",
+    "ribbing",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "In the round",
-    "Lace",
-    "Raglan",
-    "Top-down"
+    "blocking",
+    "in the round",
+    "lace",
+    "raglan",
+    "top-down"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -39,16 +51,17 @@
   "published": "2025/11/01",
   "sizes_available": "43.5 (47.25, 50.25, 54) (56.25, 59.5, 61.75, 64.75)” ",
   "rating_average": 5.0,
-  "rating_count": 3,
-  "difficulty_average": 1.6666666666666667,
-  "favorites_count": 3792,
-  "projects_count": 35,
+  "rating_count": 4,
+  "difficulty_average": 2.0,
+  "favorites_count": 4069,
+  "projects_count": 46,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/92316/1037901",
+  "notes": "a modern nod to timeless comfort, pocket edition combines simplicity and charm in equal measure. knit from the top down with a classic round neckline, straight sleeves, and a small, whimsical front pocket, it’s the kind of sweater that feels both playful and enduring. textured ribbing at the neck, cuffs, and hem lends gentle structure, while softly rolled edges bring a relaxed, lived-in finish. \r\n\r\nkits available [here][1].\r\n\r\nsizes\r\n\r\n\r\n1 (2, 3, 4) (5, 6, 7, 8)\r\nfinished chest:\r\n43.5 (47.25, 50.25, 54) (56.25, 59.5, 61.75, 64.75)” \r\n110.5 (120, 128, 137.5) (143, 151, 156.5, 164.5) cm \r\n\r\nrecommended ease: this sweater is designed to be worn with approximately 10” / 25.5 cm of positive ease (measured at the end of the raglan increases at underarms); however, this is just a guide. some people prefer a closer fit; do not be afraid to select an option that provides somewhat less than the suggested ease according to your own preferences. \r\n\r\nyarn\r\n\r\n2 (2, 2, 3) (3, 3, 3, 3) skeins of haven by sonder yarn co. (75% falkland merino, 12.5% bluefaced leicester, 12.5% masham); 650 m (711 y) – 100 g). shown in ‘french press’\r\nor approx. 1123 (1250, 1354, 1476) (1566, 1681, 1782, 1896) yds / 1027 (1143, 1238, 1350) (1432, 1537, 1630, 1734) m of heavy laceweight yarn. \r\n\r\n3 (3, 3, 4) (4, 4, 4, 5) skeins of halo by sonder yarn co. (72% mohair, 28% silk, 459 yds / 420 m – 50 g). shown in ‘horsetail’. \r\nor approx. 1106 (1231, 1333, 1454) (1543, 1656, 1756, 1868) yds / 1011 (1125, 1219, 1330) (1411, 1514, 1605, 1708) m of fluffy laceweight yarn. \r\n\r\n*note! one strand each of haven and halo are held together throughout (i.e., you are knitting with 2 strands).*\r\n\r\n\r\n  [1]: https://sonderyarnco.com/collections/sweaters/products/pocket-edition-by-sonder-yarn-co?variant=47294166630645",
   "pdf": {
     "filename": "7479010.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7479010.pdf",
-    "url": "https://pdf.ravelrycache.com/SonderYarnCo/2090148/Pocket_Edition_-_FINAL_V1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482473&Signature=sZEZaduvdZcX%2BCMYsGzSWzuuZDM%3D&key_expires=1768482473&key=ALl9t1m7af0fKUHsDt_y1g",
+    "url": "https://pdf.ravelrycache.com/SonderYarnCo/2090148/Pocket_Edition_-_FINAL_V1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770437401&Signature=SXMlOIUOtB%2FayVlf4R9lWHmOQng%3D&key_expires=1770437401&key=LwhX8M1VWq5eAU9ty6c4Hw",
     "size_bytes": 2073039
   }
 }

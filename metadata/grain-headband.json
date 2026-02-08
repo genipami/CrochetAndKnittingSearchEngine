@@ -1,34 +1,39 @@
 {
   "id": 1079160,
-  "name": "Grain Headband",
+  "name": "grain headband",
   "permalink": "grain-headband",
   "url": "https://www.ravelry.com/patterns/library/grain-headband",
   "external_url": "https://mirellamoments.com/the-grain-headband-knitting-pattern/",
-  "designer_name": "Mirella Moments",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "mirella moments",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Mille II",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 50.0
+    },
+    {
+      "fiber": "Merino (Merino)",
+      "pct": 50.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "Seamed"
+    "seamed"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     6.0
   ],
   "published": "2020/10/01",
-  "sizes_available": "Women's medium",
-  "rating_average": 4.784313725490196,
-  "rating_count": 102,
-  "difficulty_average": 1.8555555555555556,
-  "favorites_count": 3629,
-  "projects_count": 463,
+  "sizes_available": "women's medium",
+  "rating_average": 4.786407766990291,
+  "rating_count": 103,
+  "difficulty_average": 1.8571428571428572,
+  "favorites_count": 3680,
+  "projects_count": 470,
   "free_ravelry_download": false,
-  "download_url": "https://mirellamoments.com/the-grain-headband-knitting-pattern/"
+  "download_url": "https://mirellamoments.com/the-grain-headband-knitting-pattern/",
+  "notes": "the grain headband features a textured slip-stitch pattern, that is really easy to work.\r\n\r\nthe headband is knitted flat with chunky yarn, making it a quick-to-knit project. you can knit this headband in a couple of hours.\r\n\r\nthe edges of the finished headband are seamed together forming a twist.\r\n\r\nit's a one-skein knitting project. the gauge is not really important for this project, and the pattern width/length are easily adjustable.\r\n\r\nenjoy!\r\n\r\n"
 }

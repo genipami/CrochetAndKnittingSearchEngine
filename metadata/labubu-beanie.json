@@ -1,38 +1,39 @@
 {
   "id": 7421483,
-  "name": "Labubu Beanie",
+  "name": "labubu beanie",
   "permalink": "labubu-beanie",
   "url": "https://www.ravelry.com/patterns/library/labubu-beanie",
   "external_url": "http://www.allaboutami.com/labubu-beanie/",
-  "designer_name": "Stephanie Jessica Lau",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "stephanie jessica lau",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "LB Collection Superwash Merino",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Short rows",
-    "Written"
+    "in the round",
+    "short rows",
+    "written"
   ],
   "hook_sizes_mm": [
     2.75
   ],
   "needle_sizes_mm": [],
   "published": "2025/04/01",
-  "sizes_available": "One size",
-  "rating_average": 5.0,
-  "rating_count": 5,
-  "difficulty_average": 1.8,
-  "favorites_count": 802,
-  "projects_count": 37,
+  "sizes_available": "one size",
+  "rating_average": 4.857142857142857,
+  "rating_count": 7,
+  "difficulty_average": 1.5714285714285714,
+  "favorites_count": 850,
+  "projects_count": 40,
   "free_ravelry_download": false,
-  "download_url": "http://www.allaboutami.com/labubu-beanie/"
+  "download_url": "http://www.allaboutami.com/labubu-beanie/",
+  "notes": "crochet your own adorable little beanies for your labubus! this ribbed, no-sew design has an opening for the ears and works up quickly!\r\n\r\nfind the **free pattern** **[here][1]**!\r\n\r\nwatch the **video tutorial [here][2]**!\r\n\r\nthe written pattern uses lightweight level 3 yarn, but modifications are written out for worsted and fingering yarn too!\r\n\r\nuse the hashtag **#labububeanie** when you post your projects on social media!\r\n\r\n\r\n  [1]: http://www.allaboutami.com/labubu-beanie/\r\n  [2]: https://www.youtube.com/watch?v=dtktnrzanxw&t=6s"
 }

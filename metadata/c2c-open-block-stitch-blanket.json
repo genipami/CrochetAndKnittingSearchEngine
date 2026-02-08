@@ -1,23 +1,27 @@
 {
   "id": 7358026,
-  "name": "C2C Open Block Stitch Blanket",
+  "name": "c2c open block stitch blanket",
   "permalink": "c2c-open-block-stitch-blanket",
   "url": "https://www.ravelry.com/patterns/library/c2c-open-block-stitch-blanket",
   "external_url": "https://www.hookedbyrobin.com/blog/crochet-c2c-open-block-stitch",
-  "designer_name": "Hooked by Robin",
-  "project_type": "Blanket",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "hooked by robin",
+  "project_type": "blanket",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Aurora",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "C2C",
-    "Written"
+    "c2c",
+    "written"
   ],
   "hook_sizes_mm": [
     4.0
@@ -28,8 +32,9 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 496,
-  "projects_count": 22,
+  "favorites_count": 513,
+  "projects_count": 24,
   "free_ravelry_download": false,
-  "download_url": "http://www.ravelry.com/purchase/hooked-by-robin/943115"
+  "download_url": "http://www.ravelry.com/purchase/hooked-by-robin/943115",
+  "notes": "learn how to crochet a corner to corner open block stitch rectangular blanket complete with its very own foundation border to which you can add any border you fancy! \r\n\r\nfor my blanket and foundation border row i used 3.5 balls of james brett aurora double knitting yarn in the shade \"au11\" for the blanket with a 4mm hook\r\n\r\nfor the border i used  1 ball of hayfield bonus dk in cream for the border with a 4mm hook. \r\n\r\nthis gave me a blanket approximately 36” x 41.5” in size (92cm x160cm) including the border\r\n\r\nyou can use any yarn you so wish for this blanket."
 }

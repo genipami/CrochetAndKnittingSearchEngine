@@ -1,21 +1,21 @@
 {
   "id": 656,
-  "name": "Seaman's Cap",
+  "name": "seaman's cap",
   "permalink": "seamans-cap",
   "url": "https://www.ravelry.com/patterns/library/seamans-cap",
   "external_url": "",
-  "designer_name": "Brenda Zuk",
-  "project_type": "Child",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "brenda zuk",
+  "project_type": "child",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -23,18 +23,19 @@
     4.5
   ],
   "published": "1999/01/01",
-  "sizes_available": "Small(Medium,Large)",
-  "rating_average": 4.497179693795326,
-  "rating_count": 1241,
-  "difficulty_average": 1.718634001484781,
-  "favorites_count": 12024,
-  "projects_count": 4472,
+  "sizes_available": "small(medium,large)",
+  "rating_average": 4.497991967871486,
+  "rating_count": 1245,
+  "difficulty_average": 1.7172464840858623,
+  "favorites_count": 12042,
+  "projects_count": 4484,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/68/994264",
+  "notes": "to fit head sizes: small(medium,large), 19-20(21-22,23-24)”\r\ndirections are for smallest size with larger sizes in brackets. if there is only one figure, it applies to all sizes.\r\n\r\nmaterials: 1 skein any knitting worsted weight yarn (3.5 oz/100 g approx. = 220 yards/200 metres).\r\nfour 4 mm double-pointed needles and four 4.5 mm double-pointed needles or size to obtain gauge.\r\nmarker, darning needle.\r\n\r\nfinished measurements: circumference 18(19.25,20.5)”, length with folded cuff 7.5(8,8.25)”",
   "pdf": {
     "filename": "656.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\656.pdf",
-    "url": "https://pdf.ravelrycache.com/brendazuk/1988039/seamanscap.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482909&Signature=FUz7EnbU01Fr2KcAVJMorrzy%2BTY%3D&key_expires=1768482909&key=o7T_ZvO75qpKI1xiqZ3ngQ",
+    "url": "https://pdf.ravelrycache.com/brendazuk/1988039/seamanscap.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770439801&Signature=44qngmsVNzLTnXR%2BsRGwbsJHYUQ%3D&key_expires=1770439801&key=v328YYVmgLuDkwln7lDD3w",
     "size_bytes": 116516
   }
 }

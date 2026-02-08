@@ -1,28 +1,36 @@
 {
   "id": 1277666,
-  "name": "Kitty Cuffs Socks",
+  "name": "kitty cuffs socks",
   "permalink": "kitty-cuffs-socks",
   "url": "https://www.ravelry.com/patterns/library/kitty-cuffs-socks",
   "external_url": "",
-  "designer_name": "Anna Lange",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "anna lange",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "DROPS Nord",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 45.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 30.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Stranded colorwork",
-    "Written"
+    "charted",
+    "in the round",
+    "stranded colorwork",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -31,17 +39,18 @@
   ],
   "published": "2022/10/01",
   "sizes_available": "3 sizes",
-  "rating_average": 4.7368421052631575,
-  "rating_count": 19,
-  "difficulty_average": 2.473684210526316,
-  "favorites_count": 5063,
-  "projects_count": 169,
+  "rating_average": 4.75,
+  "rating_count": 20,
+  "difficulty_average": 2.5,
+  "favorites_count": 5162,
+  "projects_count": 174,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/58597/809500",
+  "notes": "these socks were originally meant to be vanilla to test a new-to-me yarn. then i thought that would be boring, so i went for contrasting cuffs, heels and toes. and then i couldn’t stop myself and added colourwork. story of my life, really. the cats are heavily inspired by the cat faces marna gilligan of an caitin beag is so well known for, but they differ slightly and, as she said, “the more catsocks the world has, the better”.\r\n\r\nsizes:\r\n\r\nsizes 1 (2, 3) with a stitch count of 60 (72, 84). the foot circumference at the suggested gauge is 16.5cm (20cm, 23cm). length can easily adjusted in the stockinette part.\r\n\r\nmaterials:\r\n\r\napprox. 40g of c1 yarn (green)\r\napprox. 70g of cc yarn (beige)\r\n2.5mm dpns or needles for magic loop or size required to get gauge\r\n2mm dpns or needles for magic loop or size required to get gauge\r\ntapestry needle\r\n\r\nthe pattern is written for knitting on a set of five dpns, but can easily be adjusted to your favourite style of knitting socks\r\n\r\nany regular fingering weight sock yarn in solid or semisolid colours will work well. using variegated or even speckled yarns might also lead to interesting results, but keep the contrast to the between the colours used next to each other high enough.\r\n\r\ncharted colourwork with additional written instructions for the construction.",
   "pdf": {
     "filename": "1277666.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1277666.pdf",
-    "url": "https://pdf.ravelrycache.com/Obsti/1561435/kittycuffs.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481202&Signature=VGODs84xpbRWa375PgEFSjaZlM8%3D&key_expires=1768481202&key=_Jalw3PPCQ9BdZ5_G4dXtA",
+    "url": "https://pdf.ravelrycache.com/Obsti/1561435/kittycuffs.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770430852&Signature=LWXSh%2F7NEtkwJla1E6wG5oYbdjY%3D&key_expires=1770430852&key=5FnBzMo5pAMpnKayTmSU1Q",
     "size_bytes": 1116411
   }
 }

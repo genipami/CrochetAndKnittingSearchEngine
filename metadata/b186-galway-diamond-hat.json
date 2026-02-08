@@ -1,42 +1,47 @@
 {
   "id": 7464686,
-  "name": "B186 Galway Diamond Hat",
+  "name": "b186 galway diamond hat",
   "permalink": "b186-galway-diamond-hat",
   "url": "https://www.ravelry.com/patterns/library/b186-galway-diamond-hat",
   "external_url": "",
-  "designer_name": "Plymouth Yarn",
-  "project_type": "Child",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "plymouth yarn",
+  "project_type": "child",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Galway Diamond",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 97.0
+    },
+    {
+      "fiber": "Metallic (Metallic)",
+      "pct": 3.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch"
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     4.5
   ],
   "published": "2025/09/01",
-  "sizes_available": "Approximate Finished Measurement: Child (Ladies): Circumference: 18.5 (21)” Height: 9 (10)”",
+  "sizes_available": "approximate finished measurement: child (ladies): circumference: 18.5 (21)” height: 9 (10)”",
   "rating_average": 5.0,
   "rating_count": 3,
   "difficulty_average": 1.75,
-  "favorites_count": 229,
-  "projects_count": 11,
+  "favorites_count": 241,
+  "projects_count": 12,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/16589/1026455",
+  "notes": "materials:\r\n\r\ngalway worsted diamond: 1—100g ball shown in color d10 navy\r\n\r\ngauge: 20 sts = 4” in st st on us size 7 needles;\r\n\r\nneedles/notions: us size 7 – 16” and same size dpns",
   "pdf": {
     "filename": "7464686.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7464686.pdf",
-    "url": "https://pdf.ravelrycache.com/PlymouthYarn/2062716/B186_Galway_Diamond_Hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478875&Signature=DcmhEnAZEstwdUk84YLu%2FJtiJig%3D&key_expires=1768478875&key=NrjFIphpXhHUZafrWm-xAA",
+    "url": "https://pdf.ravelrycache.com/PlymouthYarn/2062716/B186_Galway_Diamond_Hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770417825&Signature=OFCB9KapPTYYBTJZiYFuGk9%2F6og%3D&key_expires=1770417825&key=ZwnK34iBpTSR5H1kE0z1jg",
     "size_bytes": 269595
   }
 }

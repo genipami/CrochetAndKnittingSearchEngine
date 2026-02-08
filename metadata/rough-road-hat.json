@@ -1,28 +1,32 @@
 {
   "id": 1267107,
-  "name": "Rough Road Hat",
+  "name": "rough road hat",
   "permalink": "rough-road-hat",
   "url": "https://www.ravelry.com/patterns/library/rough-road-hat",
   "external_url": "",
-  "designer_name": "Shannon Larson",
-  "project_type": "Child",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "shannon larson",
+  "project_type": "child",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "DK",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Charted",
-    "In the round",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "charted",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -30,18 +34,19 @@
     3.75
   ],
   "published": "2022/08/01",
-  "sizes_available": "Child (Adult S, Adult M, Adult L)",
+  "sizes_available": "child (adult s, adult m, adult l)",
   "rating_average": 4.678571428571429,
   "rating_count": 28,
   "difficulty_average": 1.9615384615384615,
-  "favorites_count": 1315,
-  "projects_count": 144,
+  "favorites_count": 1373,
+  "projects_count": 148,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/47301/800227",
+  "notes": "this pattern is a free design for warm the line 2022. we, as knitters, can do our part to make standing in the cold voting line a bit more bearable. we will be sending our handmade, warm accessories around the country to keep voters warm in long voting lines. check out all the information on instagram @warmtheline.\r\n\r\ni chose a simple texture to add interest, and at the same time add stretch, which is a must for charity knits. i love a folded brim to keep your ears extra warm. bonus; it is a great knit when you don’t quite know how long to make the hat, they can just fold over more or less of the brim (the hat will always cover their ears).\r\n\r\nsizes:\r\n\r\nchild (adult s, adult m, adult l)\r\n\r\nactual hat circumference 16.7” (18”, 19.5”, 20.9”)\r\n\r\nto fit 18-19” (19-20”, 21-22”, 22-24”) head circumference",
   "pdf": {
     "filename": "1267107.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1267107.pdf",
-    "url": "https://pdf.ravelrycache.com/justlivin/1542917/Rough_Road_Hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482794&Signature=vqKTG1854AH7mGgveK9E%2FoUaRCk%3D&key_expires=1768482794&key=lFFhk5l5YKc7OywnAvTG4A",
+    "url": "https://pdf.ravelrycache.com/justlivin/1542917/Rough_Road_Hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770439196&Signature=%2FFhOxTH6xk5oaU2dPEbL5Znc4rk%3D&key_expires=1770439196&key=So0IAdkKgEFdJ3XW7C2syQ",
     "size_bytes": 8996123
   }
 }

@@ -1,21 +1,21 @@
 {
   "id": 7475580,
-  "name": "The Bookstore Headband",
+  "name": "the bookstore headband",
   "permalink": "the-bookstore-headband",
   "url": "https://www.ravelry.com/patterns/library/the-bookstore-headband",
   "external_url": "https://www.sprucehillknits.com/blog/pattern-the-bookstore-headband/",
-  "designer_name": "Spruce Hill Knits",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "spruce hill knits",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Germantown",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)"
+    "single crochet (sc)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [],
@@ -24,11 +24,12 @@
   ],
   "published": "2025/11/01",
   "sizes_available": "",
-  "rating_average": 0,
-  "rating_count": null,
+  "rating_average": 5.0,
+  "rating_count": 3,
   "difficulty_average": 0,
-  "favorites_count": 335,
-  "projects_count": 9,
+  "favorites_count": 382,
+  "projects_count": 11,
   "free_ravelry_download": false,
-  "download_url": "https://www.sprucehillknits.com/blog/pattern-the-bookstore-headband/"
+  "download_url": "https://www.sprucehillknits.com/blog/pattern-the-bookstore-headband/",
+  "notes": "ttis pattern is designed to complement the bookstore scarf, also available on my blog. www.sprucehillknits.com"
 }

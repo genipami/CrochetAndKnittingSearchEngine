@@ -1,26 +1,26 @@
 {
   "id": 7392153,
-  "name": "Julbock/Gävlebocken Christmas Goat",
+  "name": "julbock/gävlebocken christmas goat",
   "permalink": "julbock-gavlebocken-christmas-goat",
   "url": "https://www.ravelry.com/patterns/library/julbock-gavlebocken-christmas-goat",
   "external_url": "",
-  "designer_name": "Jay Rose",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "jay rose",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Soft Classic (Solids / Neon)",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamed",
-    "Written"
+    "in the round",
+    "seamed",
+    "written"
   ],
   "hook_sizes_mm": [
     3.5
@@ -31,14 +31,15 @@
   "rating_average": 4.875,
   "rating_count": 8,
   "difficulty_average": 3.2857142857142856,
-  "favorites_count": 1559,
+  "favorites_count": 1582,
   "projects_count": 31,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/109058/970718",
+  "notes": "yearning for the yule goat? eagerly a-watchin' for the gävlebocken's annual arson? here's a bona fide little guy to warm your heart all season long! \r\n\r\nfree pattern for my julbock/gävlebocken design that blew up (pun intended) on tumblr last week. intermediate design at best - basic amigurumi construction understanding necessary and the horns require the creative use of some floral wire. \r\n\r\nany questions can be directed to @[un-pearable][1] on tumblr. new to pattern writing so feedback very welcome :)\r\n\r\nif you're here for something to burn, might i recommend [a more accurate julbock][2]? \r\n\r\n\r\n  [1]: https://un-pearable.tumblr.com/\r\n  [2]: https://www.hallmarkchannel.com/home-and-family/how-to/diy-yule-goats",
   "pdf": {
     "filename": "7392153.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7392153.pdf",
-    "url": "https://pdf.ravelrycache.com/unpearable/1931167/JulbockGavlebockenPattern_121024.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481093&Signature=4ywBRORsewMzNEzoVSoJ%2FUZ2xqw%3D&key_expires=1768481093&key=RNu3g0C4jjO_DEip3wn7kA",
+    "url": "https://pdf.ravelrycache.com/unpearable/1931167/JulbockGavlebockenPattern_121024.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770430347&Signature=5RAvQil7%2BB9CMKbug%2BqbPsmaqxk%3D&key_expires=1770430347&key=HICK4mkdHT3wwVvqrtez0w",
     "size_bytes": 44348410
   }
 }

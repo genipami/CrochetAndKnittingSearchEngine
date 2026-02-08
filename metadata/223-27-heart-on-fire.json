@@ -1,32 +1,32 @@
 {
   "id": 1141880,
-  "name": "223-27 Heart on Fire",
+  "name": "223-27 heart on fire",
   "permalink": "223-27-heart-on-fire",
   "url": "https://www.ravelry.com/patterns/library/223-27-heart-on-fire",
   "external_url": "https://www.garnstudio.com/pattern.php?id=10267&cid=19",
-  "designer_name": "DROPS design",
-  "project_type": "Tank/Camisole",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Sport",
+  "designer_name": "drops design",
+  "project_type": "tank/camisole",
+  "fiber_art": "knitting",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "DROPS Safran",
-      "pct": null
+      "fiber": "Egyptian (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "lace",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Cables",
-    "Charted",
-    "In the round",
-    "Lace",
-    "Seamed",
-    "Written"
+    "bottom-up",
+    "cables",
+    "charted",
+    "in the round",
+    "lace",
+    "seamed",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -34,12 +34,13 @@
     3.0
   ],
   "published": "2021/05/01",
-  "sizes_available": " XS - S - M - L - XL - XXL",
-  "rating_average": 4.545454545454546,
-  "rating_count": 176,
-  "difficulty_average": 3.670886075949367,
-  "favorites_count": 12174,
-  "projects_count": 834,
+  "sizes_available": " xs - s - m - l - xl - xxl",
+  "rating_average": 4.548022598870056,
+  "rating_count": 177,
+  "difficulty_average": 3.6666666666666665,
+  "favorites_count": 12337,
+  "projects_count": 837,
   "free_ravelry_download": false,
-  "download_url": "https://www.garnstudio.com/pattern.php?id=10267&cid=19"
+  "download_url": "https://www.garnstudio.com/pattern.php?id=10267&cid=19",
+  "notes": "knitted top in drops safran. piece is knitted with lace pattern and v-neck. size: xs - xxl.\r\n\r\ndrops design: pattern e-316; yarn group a\r\n\r\n**size**:\r\nxs - s - m - l - xl - xxl\r\n\r\n**materials**:\r\ndrops safran from garnstudio (belongs to yarn group a)\r\n150-150-150-150-200-200 g colour 59, red clay\r\n\r\n**knitting tension**:\r\n24 stitches in width and 32 rows vertically in stocking stitch = 10 x 10 cm.\r\n\r\nneedles:\r\ndrops circular needle size 3 mm: length 60 or 80 cm for stocking stitch and lace pattern.\r\ndouble pointed needles size 2.5 mm: for straps.\r\ndrops circular needle size 2.5 mm: length 60 or 80 cm for rib."
 }

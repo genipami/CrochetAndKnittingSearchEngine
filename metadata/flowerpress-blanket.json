@@ -1,25 +1,33 @@
 {
   "id": 7368756,
-  "name": "Flowerpress Blanket",
+  "name": "flowerpress blanket",
   "permalink": "flowerpress-blanket",
   "url": "https://www.ravelry.com/patterns/library/flowerpress-blanket",
   "external_url": "https://attic24.co.uk/patterns/blankets/flowerpress-blanket",
-  "designer_name": "Lucy of Attic24",
-  "project_type": "Blanket",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "lucy of attic24",
+  "project_type": "blanket",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "ReCreate",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 40.0
+    },
+    {
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 30.0
+    },
+    {
+      "fiber": "Polyester (Polyester)",
+      "pct": 30.0
     }
   ],
   "stitches_used": [
-    "Slip stitch (sl st)"
+    "slip stitch (sl st)"
   ],
   "techniques_used": [
-    "Seamed",
-    "Written"
+    "seamed",
+    "written"
   ],
   "hook_sizes_mm": [
     4.0
@@ -30,8 +38,9 @@
   "rating_average": 4.5,
   "rating_count": 6,
   "difficulty_average": 2.2,
-  "favorites_count": 220,
+  "favorites_count": 226,
   "projects_count": 28,
   "free_ravelry_download": false,
-  "download_url": "https://attic24.co.uk/patterns/blankets/flowerpress-blanket"
+  "download_url": "https://attic24.co.uk/patterns/blankets/flowerpress-blanket",
+  "notes": "\"flowerpress blanket, a design inspired by the sun-faded colours of pressed and dried flowers with a delightfully soft, nostalgic, vintage vibe.\r\neach flowerpress square is completed in 16 rounds, and the finished square should measure approximately 26 cm across.\r\nthe squares are seamed with long rows of slip stitches on the reverse side.\r\nonce the squares have been joined and a wide border added, the finished blanket measures approximately 120 cm x 120 cm.\""
 }

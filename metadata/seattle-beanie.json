@@ -1,26 +1,26 @@
 {
   "id": 7454956,
-  "name": "Seattle Beanie",
+  "name": "seattle beanie",
   "permalink": "seattle-beanie",
   "url": "https://www.ravelry.com/patterns/library/seattle-beanie",
   "external_url": "https://coastalcashmere.com/seattle-beanie",
-  "designer_name": "Heidi Hennessy",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Sport",
+  "designer_name": "heidi hennessy",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Sport",
-      "pct": null
+      "fiber": "Cashmere goat (Cashmere)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Ribbing"
+    "ribbing"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Seamless"
+    "bottom-up",
+    "in the round",
+    "seamless"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -29,17 +29,18 @@
   ],
   "published": "2025/08/01",
   "sizes_available": "osfa",
-  "rating_average": 4.8,
-  "rating_count": 5,
+  "rating_average": 4.666666666666667,
+  "rating_count": 6,
   "difficulty_average": 2.0,
-  "favorites_count": 1629,
-  "projects_count": 48,
+  "favorites_count": 1698,
+  "projects_count": 57,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/96227/1019233",
+  "notes": "a quick and easy knit using just one skein!\r\n\r\nthe seattle beanie is worked in the rnd from the bottom up \r\n\r\nfits an average size adult head \r\n\r\nthe hat is worked with a longer ribbing band so you can wear it folded up for a classic look or down for a fun slouchy fit  \r\n\r\ndecreases  are worked on the top to give the crown a nice rounded shape\r\n\r\nworked in cashmere, this beanie is soft and cozy!\r\n",
   "pdf": {
     "filename": "7454956.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7454956.pdf",
-    "url": "https://pdf.ravelrycache.com/heidihennessy10/2045441/Seattle_Beanie_Pattern_by_Heidi_Hennessy_for_Download.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482916&Signature=9cGjH%2BertWmh5xbJSEazaiGroI4%3D&key_expires=1768482916&key=PZtUyrmDGpPWjQTeKI1RVQ",
+    "url": "https://pdf.ravelrycache.com/heidihennessy10/2045441/Seattle_Beanie_Pattern_by_Heidi_Hennessy_for_Download.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770439867&Signature=LiqhtI9xj8owBg2aiZO5n7wpH5A%3D&key_expires=1770439867&key=vQKUqv_ERWkBSQMBihYrvQ",
     "size_bytes": 7463584
   }
 }

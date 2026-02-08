@@ -1,22 +1,22 @@
 {
   "id": 924442,
-  "name": "Mermaid Market Bag",
+  "name": "mermaid market bag",
   "permalink": "mermaid-market-bag",
   "url": "https://www.ravelry.com/patterns/library/mermaid-market-bag",
   "external_url": "https://mermaidtreasuresfa.home.blog/2019/04/29/mermaid-market-bag/",
-  "designer_name": "Meri Parko",
-  "project_type": "Bag",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "meri parko",
+  "project_type": "bag",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Sugarwheel Cotton",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     4.25
@@ -27,8 +27,9 @@
   "rating_average": 4.7611940298507465,
   "rating_count": 67,
   "difficulty_average": 2.34375,
-  "favorites_count": 5091,
-  "projects_count": 211,
+  "favorites_count": 5121,
+  "projects_count": 212,
   "free_ravelry_download": false,
-  "download_url": "http://www.ravelry.com/purchase/meri-parko-designs/530290"
+  "download_url": "http://www.ravelry.com/purchase/meri-parko-designs/530290",
+  "notes": "while the pattern as written was specifically made for sugarwheel cotton cakes, it is easily adaptable for any cotton of your liking."
 }

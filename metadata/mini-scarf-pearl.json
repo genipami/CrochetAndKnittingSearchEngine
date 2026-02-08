@@ -1,27 +1,35 @@
 {
   "id": 7392118,
-  "name": "mini scarf Pearl",
+  "name": "mini scarf pearl",
   "permalink": "mini-scarf-pearl",
   "url": "https://www.ravelry.com/patterns/library/mini-scarf-pearl",
   "external_url": "",
-  "designer_name": "Veronika Stoncus",
-  "project_type": "Scarf",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "veronika stoncus",
+  "project_type": "scarf",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "DROPS Air",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 65.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 28.0
+    },
+    {
+      "fiber": "Merino (Merino)",
+      "pct": 7.0
     }
   ],
   "stitches_used": [
-    "Moss/Linen stitch",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "moss/linen stitch",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Written"
+    "charted",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -29,17 +37,18 @@
   ],
   "published": "2024/12/01",
   "sizes_available": "one size",
-  "rating_average": 4.888888888888889,
-  "rating_count": 27,
-  "difficulty_average": 2.32,
-  "favorites_count": 3705,
-  "projects_count": 116,
+  "rating_average": 4.892857142857143,
+  "rating_count": 28,
+  "difficulty_average": 2.2962962962962963,
+  "favorites_count": 3884,
+  "projects_count": 121,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/82234/970696",
+  "notes": "gauge\r\n10x10 cm = 20 stitches x 24 rows\r\nthe sample is knitted in double moss stitch, as shown in the chart on the page 3 . use size 4 needles (i recommend circular needles with an 80 cm cord, but double-pointed needles can also be used). \r\n\r\nsize\r\none size / length: 140 cm (before washing: 112 cm, using drops air yarn) / width: 12 cm.\r\np.s. the length after washing may vary when using different yarn.\r\n\r\nyarn\r\ndrops air (65% alpaca, 28% polyamide, 7% wool; 50 g/150 m).\r\nyou will need 50 g for this project.\r\np.s. if you plan to use a different yarn, you may need slightly more. drops air is very light and airy, which is why the required amount is so small.\r\n\r\nadditional materials needed\r\ncircular needles size 4 (i recommend a 60/80 cm cord).\r\nscissors.\r\nmeasuring tape.\r\nrow counter.\r\ntapestry needle with a rounded tip.\r\ntwo markers.\r\n",
   "pdf": {
     "filename": "7392118.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7392118.pdf",
-    "url": "https://pdf.ravelrycache.com/stoncusknit/1931115/mini_scarf_pearl.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481809&Signature=%2Bz0g9amBipTJz7PcwtdDGNxJ2Iw%3D&key_expires=1768481809&key=kVsDpA2lpWOGz34BK8OqKQ",
+    "url": "https://pdf.ravelrycache.com/stoncusknit/1931115/mini_scarf_pearl.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770434107&Signature=QojsoW1rSG7U5e5uYph48IHCMnI%3D&key_expires=1770434107&key=llrO-Lqi3P_Vcf1IH75m0w",
     "size_bytes": 1793959
   }
 }

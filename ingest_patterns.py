@@ -222,10 +222,10 @@ def main():
 
     # 2) Count metadata files
     meta_files = list(Path(args.metadata).glob("*.json"))
-    print(f"📄 Found {len(meta_files)} metadata files for ingestion.")
+    print(f"Found {len(meta_files)} metadata files for ingestion.")
 
     # 3) Bulk indexing
-    print("🚀 Starting bulk ingestion...")
+    print("Starting bulk ingestion...")
     ok, errors = helpers.bulk(
         es,
         iter_actions(args.metadata, args.pdfs),

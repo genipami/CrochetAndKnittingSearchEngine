@@ -1,39 +1,40 @@
 {
   "id": 970484,
-  "name": "With Love Bookmark",
+  "name": "with love bookmark",
   "permalink": "with-love-bookmark",
   "url": "https://www.ravelry.com/patterns/library/with-love-bookmark",
   "external_url": "",
-  "designer_name": "Hayley Quinn",
-  "project_type": "Home",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "hayley quinn",
+  "project_type": "home",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Top-down"
+    "bottom-up",
+    "top-down"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.25
   ],
   "published": "2019/10/01",
-  "sizes_available": "One size",
+  "sizes_available": "one size",
   "rating_average": 4.896551724137931,
   "rating_count": 29,
   "difficulty_average": 1.5555555555555556,
-  "favorites_count": 1331,
+  "favorites_count": 1367,
   "projects_count": 176,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/73103/867626",
+  "notes": "the with love bookmark is a simple, sweet project that’s perfect for a beginner knitter looking to try new techniques. ",
   "pdf": {
     "filename": "970484.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\970484.pdf",
-    "url": "https://pdf.ravelrycache.com/lochknits/1693053/With_Love_Bookmark.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484187&Signature=1ycPNGOp7npLIUiL5D0PJrpsiXQ%3D&key_expires=1768484187&key=LagzxnVYm5p2lQix-2Ya9Q",
+    "url": "https://pdf.ravelrycache.com/lochknits/1693053/With_Love_Bookmark.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770447134&Signature=o6TBEzxK33nzk9SAk%2BKJoVXj5mg%3D&key_expires=1770447134&key=WKEtzPhTLVh-O-j3RD6JWw",
     "size_bytes": 655554
   }
 }

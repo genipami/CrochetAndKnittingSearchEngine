@@ -1,30 +1,34 @@
 {
   "id": 574571,
-  "name": "Ex Boyfriends",
+  "name": "ex boyfriends",
   "permalink": "ex-boyfriends",
   "url": "https://www.ravelry.com/patterns/library/ex-boyfriends",
   "external_url": "http://www.willrun4yarn.com/#/necks",
-  "designer_name": "Jennifer Beever",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "jennifer beever",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "CashLuxe Fine",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 75.0
     },
     {
-      "fiber": "Tough Love Sock",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 15.0
+    },
+    {
+      "fiber": "Cashmere goat (Cashmere)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Treble crochet (tr)"
+    "lace",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Lace",
-    "Written"
+    "lace",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -35,14 +39,15 @@
   "rating_average": 4.663551401869159,
   "rating_count": 214,
   "difficulty_average": 1.6923076923076923,
-  "favorites_count": 7537,
+  "favorites_count": 7545,
   "projects_count": 881,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/37172/270053",
+  "notes": "*or ex-girlfriends. old flames. former lovers. we collect yarn ends like stories of past paramours. this triangular-shaped shawl will let you use up those leftover ends to create one great story.\r\n\r\nalso, it tickles me to think of having random ex-boyfriends laying around the house, aspiring to be useful in a knitting project.*\r\n\r\nsize can easily be modified by adding or subtracting section repeats. \r\n\r\nas shown: 36 cm / 14” deep x 208 cm / 82” wide\r\nat largest points.\r\n\r\nusing needles with fine points will make the kfb’s and k2tog’s much easier - addi turbo lace needles are a great choice.",
   "pdf": {
     "filename": "574571.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\574571.pdf",
-    "url": "https://pdf.ravelrycache.com/willrun4yarn/465995/Ex-Boyfriends_1.1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480223&Signature=Yu2XYznwj%2FjWbKcx4Vlgjol4bG4%3D&key_expires=1768480223&key=55TLJVg_c4LyIQz3b2aEKg",
+    "url": "https://pdf.ravelrycache.com/willrun4yarn/465995/Ex-Boyfriends_1.1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770425393&Signature=lf2yWtW3op0W0XK8rhkXgCCiykI%3D&key_expires=1770425393&key=bamoGNR4nKPTfnZfUqmjmw",
     "size_bytes": 2832344
   }
 }

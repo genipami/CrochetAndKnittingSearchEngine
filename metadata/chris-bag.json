@@ -1,49 +1,54 @@
 {
   "id": 7453566,
-  "name": "Chris Bag",
+  "name": "chris bag",
   "permalink": "chris-bag",
   "url": "https://www.ravelry.com/patterns/library/chris-bag",
   "external_url": "",
-  "designer_name": "Lalanà",
-  "project_type": "Bag",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "lalanà",
+  "project_type": "bag",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Combine & Shine",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 50.0
     },
     {
-      "fiber": "United Cotton",
-      "pct": null
+      "fiber": "Rayon / Viscose (Rayon)",
+      "pct": 40.0
+    },
+    {
+      "fiber": "Polyester (Polyester)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Moss/Linen stitch",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "moss/linen stitch",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless"
+    "in the round",
+    "seamless"
   ],
   "hook_sizes_mm": [
     4.5
   ],
   "needle_sizes_mm": [],
   "published": null,
-  "sizes_available": "Unique",
+  "sizes_available": "unique",
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 374,
+  "favorites_count": 396,
   "projects_count": 6,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/92403/1018124",
+  "notes": "puoi lavorare questa borsetta con qualunque filato, io ti consiglio un cotone di spessore worsted, così da dare una certa struttura al progetto e da ottenere le dimensioni perfette.\r\n\r\nla borsa è costruita in un unico pezzo e in tondo, partendo dalla base.\r\n\r\nil punto muschio consente di creare una bella trama al tessuto e rende identici il davanti e il dietro del lavoro.",
   "pdf": {
     "filename": "7453566.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7453566.pdf",
-    "url": "https://pdf.ravelrycache.com/LalanaErPaSa/2042995/CHRIS_BAG.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479475&Signature=nwabRJpa8pFZC0VvmsmX1TwDLfs%3D&key_expires=1768479475&key=CxZpuNB46FW2e3QW1Nbgag",
+    "url": "https://pdf.ravelrycache.com/LalanaErPaSa/2042995/CHRIS_BAG.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770421299&Signature=EQu3GozAz3JeAw44gGUhnM39l2g%3D&key_expires=1770421299&key=pHro1cn4lmMRn0Mob8PBrw",
     "size_bytes": 400205
   }
 }

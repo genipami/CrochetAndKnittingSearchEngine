@@ -1,34 +1,42 @@
 {
   "id": 7480809,
-  "name": "50-1 Forest Cub Balaclava",
+  "name": "50-1 forest cub balaclava",
   "permalink": "50-1-forest-cub-balaclava",
   "url": "https://www.ravelry.com/patterns/library/50-1-forest-cub-balaclava",
   "external_url": "https://www.garnstudio.com/pattern.php?id=12497&cid=19",
-  "designer_name": "DROPS design",
-  "project_type": "Child",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "drops design",
+  "project_type": "child",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "DROPS Kid-Silk",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 37.5
     },
     {
-      "fiber": "DROPS Lima",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 32.5
+    },
+    {
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 17.5
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 12.5
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "cable",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Cables",
-    "In the round",
-    "Seamless",
-    "Top-down",
-    "Written"
+    "cables",
+    "in the round",
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [],
@@ -37,8 +45,9 @@
   "rating_average": 5.0,
   "rating_count": 3,
   "difficulty_average": 2.3333333333333335,
-  "favorites_count": 246,
+  "favorites_count": 290,
   "projects_count": 7,
   "free_ravelry_download": false,
-  "download_url": "https://www.garnstudio.com/pattern.php?id=12497&cid=19"
+  "download_url": "https://www.garnstudio.com/pattern.php?id=12497&cid=19",
+  "notes": "**knitted balaclava for children in drops lima and drops kid-silk. the piece is worked top down with ears. sizes 2 - 14 years.**\r\n~~~~~~~~~~~~~~~~~~~\r\n\r\n#forestcubbalaclava\r\ndrops design: pattern li-020-bn\r\nyarn group b + a\r\n\r\n-------------------------------------------------------\r\n\r\n\r\n**sizes**:\r\nfits head-size cm:\r\n48/50 - 50/52 - 52/53 - 53/54 - 54/55 - 55/56 - 56/57\r\nchild’s age:\r\n2 - 3/4 - 5/6 - 7/8 - 9/10 - 11/12 - 13/14 years\r\n\r\n**yarn**:\r\ndrops lima from garnstudio (belongs to yarn group b)\r\n100-100-100-150-150-150-200 g colour 9024, almond\r\nand use:\r\ndrops kid-silk from garnstudio (belongs to yarn group a)\r\n25-25-25-50-50-50-50 g colour 42, almond\r\n\r\n**needles**:\r\ndrops circular needle size 5 mm: length 40 cm and 60 cm.\r\ndrops circular needle size 4 mm: length 40 cm.\r\ndrops cable needle.\r\nthe technique magic loop can be used – you then only need 80 cm circular needle in each size.\r\n\r\n**knitting tension**:\r\n17 stitches in width and 22 rows in height with stocking stitch on needle size 5 mm and 1 strand each yarn = 10 x 10 cm.\r\nnote: remember, the needle size is only a guide. if you get too many stitches on 10 cm, change to a larger needle size. if you get to few stitches on 10 cm, change to a smaller needle size.\r\n\r\n-------------------------------------------------------"
 }

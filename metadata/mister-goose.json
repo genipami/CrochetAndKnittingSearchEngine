@@ -1,25 +1,25 @@
 {
   "id": 7421861,
-  "name": "Mister Goose",
+  "name": "mister goose",
   "permalink": "mister-goose",
   "url": "https://www.ravelry.com/patterns/library/mister-goose",
   "external_url": "",
-  "designer_name": "Crochet by Ghosts",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Bulky",
+  "designer_name": "crochet by ghosts",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Blanket",
-      "pct": null
+      "fiber": "Polyester (Polyester)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)"
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "Top-down",
-    "Written"
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [
     6.0
@@ -30,14 +30,15 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 400,
+  "favorites_count": 428,
   "projects_count": 9,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/111044/993939",
+  "notes": "make your own adorable mr. goose! he's an awesome reading buddy.\r\n\r\nsize\r\n* the finished object measures 37 cm from beak to foot and 21 cm from wing to wing.\r\n\r\nmaterials needed:\r\n* super bulky (6) weight yarn \r\n* medium / worsted (4) weight yarn \r\n* 6 mm (size j) crochet hook \r\n* 10 mm safety eyes\r\n* scissors, yarn needle, stuffing, stitch marker\r\n",
   "pdf": {
     "filename": "7421861.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7421861.pdf",
-    "url": "https://pdf.ravelrycache.com/crochetbyghosts/1987440/MrGooseCrochetPattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481852&Signature=J65zl2kFYjacgPHhwHm1Aa1gcvo%3D&key_expires=1768481852&key=XLBksX8xuUs4F2vTuJfkGA",
+    "url": "https://pdf.ravelrycache.com/crochetbyghosts/1987440/MrGooseCrochetPattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770434294&Signature=yk1cSET8ulIovoklKwHU1nShW9o%3D&key_expires=1770434294&key=yZTwX3NRqVbO6-pVMnI-Jg",
     "size_bytes": 1797232
   }
 }

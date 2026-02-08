@@ -1,43 +1,48 @@
 {
   "id": 1225534,
-  "name": "Stretchy Baby Socks",
+  "name": "stretchy baby socks",
   "permalink": "stretchy-baby-socks",
   "url": "https://www.ravelry.com/patterns/library/stretchy-baby-socks",
   "external_url": "",
-  "designer_name": "Fabienne Schulte",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "fabienne schulte",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Lana Mia",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Kitchener stitch",
-    "Seamless",
-    "Short rows",
-    "Top-down",
-    "Written"
+    "in the round",
+    "kitchener stitch",
+    "seamless",
+    "short rows",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.75
   ],
   "published": "2022/03/01",
-  "sizes_available": "Preemie/small NB, 0-3m, 3-6m, 6-9m, 9-12m, 12-18m, 18-24m / EU 11/12, 13/14, 15/16, 17/18, 19/20, 21/22, 23/24",
-  "rating_average": 4.758241758241758,
-  "rating_count": 91,
-  "difficulty_average": 2.5180722891566263,
-  "favorites_count": 5151,
-  "projects_count": 685,
+  "sizes_available": "preemie/small nb, 0-3m, 3-6m, 6-9m, 9-12m, 12-18m, 18-24m / eu 11/12, 13/14, 15/16, 17/18, 19/20, 21/22, 23/24",
+  "rating_average": 4.760869565217392,
+  "rating_count": 92,
+  "difficulty_average": 2.511904761904762,
+  "favorites_count": 5251,
+  "projects_count": 696,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/14714/765528"
+  "download_url": "http://www.ravelry.com/dls/14714/765528",
+  "notes": "when i was looking for a baby sock pattern to knit during my pregnancy, i found that the available patterns were very different in their sizing. so i did my research on sock and shoe sizing and added a short-row heel and two different rib patterns to add more stretch. the result is a top-down sock pattern for average baby feet that is also adaptable to both skinnier and bigger baby legs.\r\nthis is a free pattern intended to knit baby socks for refugees. please consider donating a few bucks to a refugee organisation of your choice.\r\n\r\nthe following techniques are used in this pattern:\r\n\r\n* knitting in the round (the pattern is written for working on one pair of long circular needles and magic loop)\r\n* decreasing\r\n* short rows using wrapped stitches\r\n* grafting\r\n\r\n\r\n\r\nals ich in meiner schwangerschaft nach anleitungen für babysocken suchte, fiel mir auf, dass sich die größen in den erhältlichen strickmustern teilweise arg unterscheiden. also habe ich mich in die größen-thematik eingearbeitet, zwei dehnbare rippenmuster ausgewählt und ein sockenmuster mit meiner lieblingsferse daraus gemacht. das ergebnis sind gut passende socken, die auch für babys mit schmaleren oder kräftigeren beinchen geeignet sind.\r\ndie anleitung ist kostenlos, um damit babysocken für einen guten zweck zu stricken. über eine spende an eine flüchtlingshilfe deiner wahl würde ich mich sehr freuen.\r\n\r\ndie folgenden techniken werden in dieser anleitung verwendet:\r\n* in der runde stricken (die anleitung verwendet eine lange rundstricknadel und magic loop)\r\n* maschen abnehmen\r\n* verkürzte reihen (die anleitung verwendet wickelmaschen)\r\n* zusammennähen im maschenstich\r\n\r\n\r\n\r\n"
 }

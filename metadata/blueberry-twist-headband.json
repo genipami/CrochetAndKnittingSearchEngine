@@ -1,25 +1,33 @@
 {
   "id": 7426163,
-  "name": "Blueberry Twist Headband",
+  "name": "blueberry twist headband",
   "permalink": "blueberry-twist-headband",
   "url": "https://www.ravelry.com/patterns/library/blueberry-twist-headband",
   "external_url": "https://www.mooglyblog.com/blueberry-twist-headband/",
-  "designer_name": "Tamara Kelly",
-  "project_type": "Child",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Bulky",
+  "designer_name": "tamara kelly",
+  "project_type": "child",
+  "fiber_art": "crochet",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Simply Me",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 62.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 20.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 18.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     8.0
@@ -30,8 +38,9 @@
   "rating_average": 5.0,
   "rating_count": 4,
   "difficulty_average": 1.75,
-  "favorites_count": 123,
+  "favorites_count": 134,
   "projects_count": 11,
   "free_ravelry_download": false,
-  "download_url": "http://www.ravelry.com/purchase/moogly/997270"
+  "download_url": "http://www.ravelry.com/purchase/moogly/997270",
+  "notes": "the blueberry twist headband was one of the designs i created for stitch up chicago 2025! this simple crochet headband or ear warmer features front and back loop single crochet stitches for amazing texture that’s beginner-friendly. this pattern is available in sizes for both adults and children, making it a versatile option for all ages. the pattern includes written instructions, a video tutorial, and photo tutorials to guide you through the process.\n  \n**unique features-**\n  \n• includes video tutorial for visual learners\n• available in sizes for adults and children - easy to customize for any size\n• unisex design for versatile wear\n• written pattern and photo tutorials for easy understanding\n  \n  \n**materials needed-**\n  \n• hook: 8mm (us size 11.0)\n• yarn: [**caron simply me**](https://shrsl.com/4vrrm) (bulky weight, 50 yards)"
 }

@@ -1,54 +1,47 @@
 {
   "id": 7420568,
-  "name": "Mitsu8 Socks",
+  "name": "mitsu8 socks",
   "permalink": "mitsu8-socks",
   "url": "https://www.ravelry.com/patterns/library/mitsu8-socks",
   "external_url": "https://greenwitch.jp/",
-  "designer_name": "Mitsuneko Konomi",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "mitsuneko konomi",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "DROPS Fiesta",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 75.0
     },
     {
-      "fiber": "Opal Uni Solid 4-ply / 4-fach",
-      "pct": null
-    },
-    {
-      "fiber": "Original (KFS オリジナルシリーズ )",
-      "pct": null
-    },
-    {
-      "fiber": "Uni 50 g (KFS オリジナル単色 50g)",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch"
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.0
   ],
   "published": "2025/02/01",
-  "sizes_available": "S　M　L",
+  "sizes_available": "s　m　l",
   "rating_average": 5.0,
   "rating_count": 8,
   "difficulty_average": 2.0,
-  "favorites_count": 670,
-  "projects_count": 57,
+  "favorites_count": 748,
+  "projects_count": 64,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/109727/983377",
+  "notes": "　幼いころ、絵の具を混ぜ合わせて夢中になった色遊び――\r\n　まだら模様、グラデーション……色は浮き出たり、影をつくったり。ときに意外な色の組み合わせがうまれて歓喜することも。\r\n　色遊びは楽しくて癒される。この楽しさを味わってほしくて、靴下編みのパターンを書き起こしました。靴下を編んだことがない人でも手軽に簡単に編めるシンプルなつくりです。\r\n　あなたの編み物の時間がカラフルな虹になり、癒しとなりますように\r\n\r\n\r\nこの靴下は、ソックヤーンの中細（fingering）を２本引き揃えて並太（dk）で編みます。もしくは並太（dk）の１本どりで編みます。 \r\nはき口から編むカフダウンの靴下です。ヒールフラップを作り、減らし編みでボックスヒールを作ります。最後につま先でメリヤスはぎをします。 \r\nパターンには毛糸の色を変えるための指示がありますが、自由に配色を楽しんでみてください。 \r\n\r\n\r\n\r\n",
   "pdf": {
     "filename": "7420568.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7420568.pdf",
-    "url": "https://pdf.ravelrycache.com/mituneko/1985433/Mitsu8_Socks_v1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481868&Signature=0i1ujWpti282Y%2BUSpE%2B5P3rqyAk%3D&key_expires=1768481868&key=R70RjDR46tq8-tLtkgj6JQ",
+    "url": "https://pdf.ravelrycache.com/mituneko/1985433/Mitsu8_Socks_v1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770434334&Signature=7n5YCnyyAkuOxZuDozIvli1UxPQ%3D&key_expires=1770434334&key=11MP38R4NXxGu1c6qDdfLQ",
     "size_bytes": 2302070
   }
 }

@@ -1,29 +1,37 @@
 {
   "id": 697627,
-  "name": "I'll Pack A Cowl for Rhinebeck",
+  "name": "i'll pack a cowl for rhinebeck",
   "permalink": "ill-pack-a-cowl-for-rhinebeck",
   "url": "https://www.ravelry.com/patterns/library/ill-pack-a-cowl-for-rhinebeck",
   "external_url": "",
-  "designer_name": "Deb Jacullo",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "deb jacullo",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Vintage®",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 52.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 40.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 8.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Charted",
-    "In the round",
-    "Seamless",
-    "Stranded colorwork",
-    "Written"
+    "bottom-up",
+    "charted",
+    "in the round",
+    "seamless",
+    "stranded colorwork",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -34,14 +42,15 @@
   "rating_average": 4.754777070063694,
   "rating_count": 314,
   "difficulty_average": 3.1699346405228757,
-  "favorites_count": 20131,
-  "projects_count": 964,
+  "favorites_count": 20219,
+  "projects_count": 969,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/59273/359281",
+  "notes": "this cowl was designed for our lys to wear to rhinebeck. last year we all wore the [baa-ble hat][1] so we opted for a cowl to compliment the hat. after many tries and tweaks this variation was born. the chart is simple and big making it a perfect first color work project.\r\n \r\n\r\n\r\napproximate yardage by color:\r\nmain color = 100 yards\r\nsecondary color (cc) = 100 yards\r\nwhite = 50 yards\r\nblack = 25 yards\r\n\r\n\r\n  [1]: http://www.ravelry.com/patterns/library/baa-ble-hat",
   "pdf": {
     "filename": "697627.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\697627.pdf",
-    "url": "https://pdf.ravelrycache.com/debjac/633135/ravpdfV3.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480995&Signature=nNfJsJjPlLCR2lcEgOCrQLXnWvo%3D&key_expires=1768480995&key=4uPojMK0bvBXD7XnKa47gg",
+    "url": "https://pdf.ravelrycache.com/debjac/633135/ravpdfV3.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770429796&Signature=CuWOSd0lx4CBXPvlXhcxC7GnAfQ%3D&key_expires=1770429796&key=Fn75ae5djznBYsT3xobe-Q",
     "size_bytes": 740970
   }
 }

@@ -1,30 +1,30 @@
 {
   "id": 1002504,
-  "name": "Sweetheart Soiree",
+  "name": "sweetheart soiree",
   "permalink": "sweetheart-soiree",
   "url": "https://www.ravelry.com/patterns/library/sweetheart-soiree",
   "external_url": "https://www.draiguna.com/2020/02/sweetheart-soiree.html",
-  "designer_name": "Julia Hart",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Lace",
+  "designer_name": "julia hart",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "lace",
   "materials": [
     {
-      "fiber": "Classic 10 Crochet Thread",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Cluster stitch",
-    "Double crochet (dc)",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "cluster stitch",
+    "double crochet (dc)",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Lace",
-    "Written"
+    "charted",
+    "in the round",
+    "lace",
+    "written"
   ],
   "hook_sizes_mm": [
     1.75
@@ -35,8 +35,9 @@
   "rating_average": 4.862595419847328,
   "rating_count": 131,
   "difficulty_average": 4.786885245901639,
-  "favorites_count": 8803,
-  "projects_count": 385,
+  "favorites_count": 8916,
+  "projects_count": 388,
   "free_ravelry_download": false,
-  "download_url": "http://www.ravelry.com/purchase/julia-hart-designs/590164"
+  "download_url": "http://www.ravelry.com/purchase/julia-hart-designs/590164",
+  "notes": "the free version of this pattern is available on my linked blog.  \r\n\r\nthis textured doily has 23 rounds and measures about 10 1/2\" in diameter. i used the first 9 rounds of the pattern for [frost nova][1], which already had a few hearts, and added more to the outer section for a total of 24 hearts! \r\npattern is written using u.s. terminology.\r\n\r\n**materials needed**\r\n\r\n* size 10 thread in 2 colors-\r\n\r\ncolor 1- 125-150 yards\r\ncolor 2- 5-10 yards\r\n* 1.75 mm hook\r\n* yarn needle\r\n* scissors\r\n\r\n**special stitches**\r\n* beg 4-dc cluster\r\n* 4-dc cluster\r\n* 2-dc decrease\r\n* 3-dc decrease\r\n* 2-fpdc decrease\r\n* beg 3-dc cluster\r\n* 3-dc cluster\r\n* 4-fpdc decrease\r\n* special fpdc decrease\r\n* 3-fpdc decrease\r\n* 2-fpdc cluster\r\n* picot\r\n* large picot\r\n\r\n\r\n  [1]: https://www.ravelry.com/patterns/library/frost-nova\r\n\r\nrussian translation has been provided by ula tomaszewska."
 }

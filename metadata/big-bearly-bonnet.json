@@ -1,25 +1,21 @@
 {
   "id": 1280713,
-  "name": "Big Bearly Bonnet",
+  "name": "big bearly bonnet",
   "permalink": "big-bearly-bonnet",
   "url": "https://www.ravelry.com/patterns/library/big-bearly-bonnet",
   "external_url": "",
-  "designer_name": "Pure Stitches",
-  "project_type": "Baby",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "pure stitches",
+  "project_type": "baby",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Merino",
-      "pct": null
-    },
-    {
-      "fiber": "Sunday",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Garter stitch"
+    "garter stitch"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [],
@@ -31,9 +27,10 @@
   "sizes_available": "﹤0 (0-1) 1-3 (3-6) 6-12 (12-24) months",
   "rating_average": 4.944444444444445,
   "rating_count": 36,
-  "difficulty_average": 2.2058823529411766,
-  "favorites_count": 3253,
-  "projects_count": 263,
+  "difficulty_average": 2.2,
+  "favorites_count": 3360,
+  "projects_count": 267,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/56069/811928"
+  "download_url": "http://www.ravelry.com/dls/56069/811928",
+  "notes": "big bearly bonnet is a fast knitted, simple bonnet with cute bear ears. "
 }

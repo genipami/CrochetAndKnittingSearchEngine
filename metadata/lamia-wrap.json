@@ -1,40 +1,49 @@
 {
   "id": 1221117,
-  "name": "Lamia Wrap",
+  "name": "lamia wrap",
   "permalink": "lamia-wrap",
   "url": "https://www.ravelry.com/patterns/library/lamia-wrap",
   "external_url": "http://tlycblog.com/lamia-wrap-free-tunisian-crochet-shawl-pattern",
-  "designer_name": "Toni Lipsey",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "toni lipsey",
+  "project_type": "shawl/wrap",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Foggy Aran",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 70.0
+    },
+    {
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 20.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Bottom-up",
-    "Seamless",
-    "Written"
+    "blocking",
+    "bottom-up",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [
     6.5
   ],
   "needle_sizes_mm": [],
   "published": "2022/02/01",
-  "sizes_available": "One Size - 60\" wingspan x 27\" depth",
-  "rating_average": 4.954802259887006,
-  "rating_count": 177,
-  "difficulty_average": 2.5789473684210527,
-  "favorites_count": 11876,
-  "projects_count": 698,
+  "sizes_available": "one size - 60\" wingspan x 27\" depth",
+  "rating_average": 4.949720670391062,
+  "rating_count": 179,
+  "difficulty_average": 2.566473988439306,
+  "favorites_count": 12073,
+  "projects_count": 700,
   "free_ravelry_download": false,
-  "download_url": "http://www.ravelry.com/purchase/tl-yarn-crafts-designs/761672"
+  "download_url": "http://www.ravelry.com/purchase/tl-yarn-crafts-designs/761672",
+  "notes": "***looking to learn tunisian crochet? make this shawl!*** the lamia wrap starts with just 3 stitches on your hook and grows into a sea of textured, cozy stitches. the addition of a step-by-step tutorial video makes this project perfect for beginners. dive into your stash for tonal or solid colored yarns to allow the textured stitches to shine. add your finished shawl to your minimalist wardrobe or gift it to your most stylish friend. \r\n\r\n**size**\r\n60\" wingspan x 27\" depth\r\n\r\n**suggested yarn**\r\nkenyan foggy aran or any other worsted / aran weight yarn. check your gauge! \r\n\r\n**hooks used**\r\n6.5mm tunisian crochet hook with 32\" cord\r\n\r\n**notions used**\r\nscissors\r\ntapestry needle\r\ntape measure\r\nwet blocking supplies\r\n\r\n**find the free pattern + tutorial video [here][1]**\r\n\r\n// buy more, save more //\r\nuse these codes to save when you buy multiple patterns:\r\n\r\n’saveon3’ to save 10% off 3 patterns\r\n’saveon5’ to save 15% off 5 patterns\r\n’saveon8’ to save 20% off 8 patterns\r\nadd all patterns to cart for discount. limit one use per purchase.\r\n\r\n\r\n  [1]: http://tlycblog.com/lamia-wrap-free-tunisian-crochet-shawl-pattern"
 }

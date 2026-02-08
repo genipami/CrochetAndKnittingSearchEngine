@@ -1,30 +1,34 @@
 {
   "id": 1220587,
-  "name": "Indulgence Socks",
+  "name": "indulgence socks",
   "permalink": "indulgence-socks-2",
   "url": "https://www.ravelry.com/patterns/library/indulgence-socks-2",
   "external_url": "",
-  "designer_name": "ZwitchZ",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "zwitchz",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "DROPS Kid-Silk",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 50.0
     },
     {
-      "fiber": "Palette",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 37.5
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 12.5
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round"
+    "in the round"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -33,17 +37,18 @@
   ],
   "published": "2022/02/01",
   "sizes_available": "1 (2) 3 (4)",
-  "rating_average": 4.525,
-  "rating_count": 40,
-  "difficulty_average": 2.6470588235294117,
-  "favorites_count": 6686,
-  "projects_count": 283,
+  "rating_average": 4.523809523809524,
+  "rating_count": 42,
+  "difficulty_average": 2.638888888888889,
+  "favorites_count": 6759,
+  "projects_count": 291,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/76835/761257",
+  "notes": "it all started with looking through my stash, picking out the earthy coloured balls of yarn and thinking what to do with only 1 ball of each colours. it was a cold winter morning and my feet just couldn’t warm up. i need some warm cosy socks! and there is nothing better than handmade socks. i paired the natural wool with silk mohair to add strength and extra softness. whilst knitting them i gave each sock a different name. and because they just look so scrumptious i named the collection \"indulgence socks\".\r\n\r\nyarn: \r\npalette 50g (100% peruvian highland wool) held together with drops silk mohair 25g | both fingering weight | palette 231yds drops 210yds = 1 strand of each yarn held together.\r\n\r\nneedles: \r\n3mm (us 2.5)\r\nfor sample used addi 9inch circular needles. tapestry needles to weave the ends in. stitch markers or scrap yarn.\r\n\r\ngauge:\r\n30 sts / 30 rounds = 10 x 10 cm / 4 x 4 inches, knitted in the round in stockinette stitch and blocked\r\n\r\nsizes:\r\n1 (2) 3 (4) finished sock circumference: 18 / 20.5 / 23 / 25.5cm ( 7 / 8 / 9 / 10inch ), to be worn with slight ease. skeins of each yarn = 1 (1) 2 for 1 pair of socks. if you are planning to make the cuffs longer or foot size larger than 6uk (us8) i suggest you get 2 skeins of each yarn.\r\n\r\nplease note: the pattern features a \"yarn over short row heel\" not a german short row heel.\r\n",
   "pdf": {
     "filename": "1220587.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1220587.pdf",
-    "url": "https://pdf.ravelrycache.com/ZwitchZ/1461274/Indulgence_Socks_ZwitchZ_1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481008&Signature=ouqM40MHR1q2CVX4hY8uzyr4BIw%3D&key_expires=1768481008&key=AFo9ZMm9NSYaOjsC7w3Mjw",
+    "url": "https://pdf.ravelrycache.com/ZwitchZ/1461274/Indulgence_Socks_ZwitchZ_1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770429868&Signature=l3HloQ5j1zNp2dyuXIh4hoBh39s%3D&key_expires=1770429868&key=LgPe0AFCJtbODtz5tQMSAQ",
     "size_bytes": 3313387
   }
 }

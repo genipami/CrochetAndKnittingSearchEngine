@@ -1,40 +1,41 @@
 {
   "id": 7461057,
-  "name": "Rombscarf",
+  "name": "rombscarf",
   "permalink": "rombscarf",
   "url": "https://www.ravelry.com/patterns/library/rombscarf",
   "external_url": "",
-  "designer_name": "Ida Hed Myrberg",
-  "project_type": "Scarf",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "ida hed myrberg",
+  "project_type": "scarf",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Pernilla",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Charted",
-    "Seamless",
-    "Written"
+    "blocking",
+    "charted",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.5
   ],
   "published": "2025/09/01",
-  "sizes_available": "Length 115 cm / Width 12.5 cm",
-  "rating_average": 4.777777777777778,
-  "rating_count": 9,
-  "difficulty_average": 3.4444444444444446,
-  "favorites_count": 1940,
-  "projects_count": 53,
+  "sizes_available": "length 115 cm / width 12.5 cm",
+  "rating_average": 4.8,
+  "rating_count": 10,
+  "difficulty_average": 3.4545454545454546,
+  "favorites_count": 2083,
+  "projects_count": 63,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/113398/1023643"
+  "download_url": "http://www.ravelry.com/dls/113398/1023643",
+  "notes": "**update sep 15th, 2025: pattern now available in english! **\r\n\r\n**overview**\r\nthe scarf is knitted from end to end in a rhombus textured pattern involving only knits and purls, and a double-knitted edging. the pattern includes a chart that covers every row of the scarf. \r\n\r\n**measurements of finished object**\r\nafter blocking, the finished scarf has length 115 cm and width 12.5 cm at the widest point. \r\n\r\n**gauge**\r\n28 stitches x 40 rows = 10 x 10 cm\r\n\r\n**needles**\r\n3.5 mm circular needle or straight needles\r\n\r\n**yarn**\r\n1 ball of filcolana pernilla (50 g = 175 m, 3-ply yarn, peruvian highland wool)\r\ncolour 337 bright cobalt\r\n\r\n**included techniques**\r\nthe textured pattern includes only knits and purls.\r\nthe techniques double-knitted edging, left-leaning increase, right-leaning increase, and left-leaning decrease are all explained in the pattern. "
 }

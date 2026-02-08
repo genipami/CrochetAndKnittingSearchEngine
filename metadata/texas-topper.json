@@ -1,40 +1,41 @@
 {
   "id": 7413322,
-  "name": "Texas Topper",
+  "name": "texas topper",
   "permalink": "texas-topper",
   "url": "https://www.ravelry.com/patterns/library/texas-topper",
   "external_url": "",
-  "designer_name": "Ginger Hayes",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "ginger hayes",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Plump",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "In the round"
+    "in the round"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     6.0
   ],
   "published": "2025/03/01",
-  "sizes_available": "One size",
+  "sizes_available": "one size",
   "rating_average": 4.5,
   "rating_count": 6,
   "difficulty_average": 1.5,
-  "favorites_count": 304,
+  "favorites_count": 307,
   "projects_count": 15,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/99450/987292",
+  "notes": "this two by two ribbed hat fits a variety of head sizes. perfect way to show off a special skein of bulky yarn! pictured hat used one skein of spincycle plump in color rhinestone cowboy. knits up quick! ",
   "pdf": {
     "filename": "7413322.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7413322.pdf",
-    "url": "https://pdf.ravelrycache.com/Gindawhay/1972126/Texas_Topper_by_Ginger_at_McKinney_Knittery.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483554&Signature=ygRlf0fxqpYvTJ1EVFdncStH%2FtU%3D&key_expires=1768483554&key=jHIdO8CHhn34p9FcAUZP8A",
+    "url": "https://pdf.ravelrycache.com/Gindawhay/1972126/Texas_Topper_by_Ginger_at_McKinney_Knittery.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770443823&Signature=wxrjYZVvJybgs1%2Fuue9eNnwD8ZY%3D&key_expires=1770443823&key=ENEQviUTI_RvwGT9fgZbrA",
     "size_bytes": 2798326
   }
 }

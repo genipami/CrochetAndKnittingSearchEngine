@@ -1,32 +1,32 @@
 {
   "id": 7459104,
-  "name": "BeanieBalaclava",
+  "name": "beaniebalaclava",
   "permalink": "beaniebalaclava",
   "url": "https://www.ravelry.com/patterns/library/beaniebalaclava",
   "external_url": "",
   "designer_name": "hey september",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Cascade 220® Heathers",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 50.0
     },
     {
-      "fiber": "DROPS Daisy",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 50.0
     }
   ],
   "stitches_used": [
-    "Ribbing",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "ribbing",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -37,8 +37,9 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 616,
-  "projects_count": 21,
+  "favorites_count": 700,
+  "projects_count": 29,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/113274/1022269"
+  "download_url": "http://www.ravelry.com/dls/113274/1022269",
+  "notes": "**disclaimer**\r\nthis is my first ever selfwritten knitting pattern and english is not my mother tongue, so please bare with me if there are some mistakes or i did not use the knitting terms correctly all the time. \r\n\r\n**about the beanie/balaclava**\r\nthe beanie is knit in the round. for the whole in the eye section, you will bind off a few stiches, knit in rows, and then cast them back on. you must switch to double pointed needles for the decreases at the top. there should be youtube tutorials for each step, in case you need help.  \r\n\r\n**materials**\r\n• 100g soft yarn (110m/50g)\r\n• recommended yarn: drops „daisy“ or cascade yarns „220 heathers & solid“\r\n• double pointed needles 4.5mm (eu) / 7 (us/uk)\r\n• circular needles  4.5mm (eu) / 7 (us/uk) on 50cm/20”\r\n• darning needle\r\n• stitch markers\r\n\r\n**gauge**\r\nribbing stitches (1right, 1 left) on 4.5mm (us/uk 7) \r\n28 stiches x 28-30 rows = 10cm x 10cm\r\n\r\n**ribbing stitches** \r\nin rounds 1stich right, 1 stitch left\r\n"
 }

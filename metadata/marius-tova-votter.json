@@ -1,39 +1,40 @@
 {
   "id": 570391,
-  "name": "Marius tova votter",
+  "name": "marius tova votter",
   "permalink": "marius-tova-votter",
   "url": "https://www.ravelry.com/patterns/library/marius-tova-votter",
   "external_url": "https://www.sandnesgarn.no/marius-tova-votter",
-  "designer_name": "Unn Søiland Dale",
-  "project_type": "Mittens/Gloves",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "unn søiland dale",
+  "project_type": "mittens/gloves",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Fritidsgarn",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Stranded colorwork",
-    "Written"
+    "charted",
+    "stranded colorwork",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     6.0
   ],
   "published": null,
-  "sizes_available": "(XS/S) M/L",
-  "rating_average": 4.482758620689655,
-  "rating_count": 116,
-  "difficulty_average": 2.4833333333333334,
-  "favorites_count": 4385,
-  "projects_count": 1061,
+  "sizes_available": "(xs/s) m/l",
+  "rating_average": 4.478632478632479,
+  "rating_count": 117,
+  "difficulty_average": 2.487603305785124,
+  "favorites_count": 4424,
+  "projects_count": 1067,
   "free_ravelry_download": false,
-  "download_url": "http://www.sandnesgarn.no/media/publicfiles/900-kit_93__Marius-tova-votter-voksen.pdf"
+  "download_url": "http://www.sandnesgarn.no/media/publicfiles/900-kit_93__Marius-tova-votter-voksen.pdf",
+  "notes": "**(xs/s) m/l**\r\nmaisgul 2015: 100g, sizes\r\nnatur 1012: 50 g, all sizes\r\noker 2035: 50g, all sizes\r\n\r\n\r\n"
 }

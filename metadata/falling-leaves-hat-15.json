@@ -1,31 +1,35 @@
 {
   "id": 7378331,
-  "name": "Falling Leaves Hat",
+  "name": "falling leaves hat",
   "permalink": "falling-leaves-hat-15",
   "url": "https://www.ravelry.com/patterns/library/falling-leaves-hat-15",
   "external_url": "https://marlybird.com/blog/cozy-up-with-the-falling-leaves-mosaic-knit-hat-free-pattern-mosaic-tips/",
-  "designer_name": "Marly Bird",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "marly bird",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Brava Tweed",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 97.0
+    },
+    {
+      "fiber": "Rayon / Viscose (Rayon)",
+      "pct": 3.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Charted",
-    "Colorwork",
-    "In the round",
-    "Mosaic",
-    "Seamless",
-    "Stranded colorwork",
-    "Written"
+    "bottom-up",
+    "charted",
+    "colorwork",
+    "in the round",
+    "mosaic",
+    "seamless",
+    "stranded colorwork",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -33,12 +37,13 @@
     5.0
   ],
   "published": "2024/10/01",
-  "sizes_available": "Free Version has One Size, Ad-Free PDF has Child - Adult Large",
-  "rating_average": 4.75,
-  "rating_count": 20,
-  "difficulty_average": 3.1578947368421053,
-  "favorites_count": 631,
-  "projects_count": 82,
+  "sizes_available": "free version has one size, ad-free pdf has child - adult large",
+  "rating_average": 4.714285714285714,
+  "rating_count": 21,
+  "difficulty_average": 3.1,
+  "favorites_count": 644,
+  "projects_count": 83,
   "free_ravelry_download": false,
-  "download_url": "http://www.ravelry.com/purchase/marlybird/964892"
+  "download_url": "http://www.ravelry.com/purchase/marlybird/964892",
+  "notes": "**falling leaves mosaic hat (knit)**\r\n\r\nwelcome fall in style with the falling [leaves mosaic hat][1]—a quick-knit project that’s perfect for cozy autumn weekends. \r\n\r\nusing the mosaic stitch, this pattern creates a stunning two-tone design without the complexity of stranded colorwork. \r\n\r\nthis hat is beginner-friendly, with both charts and written instructions to guide you through each stitch. \r\n\r\nwhether you’re keeping it for yourself or gifting it, this hat is the perfect accessory for chilly days! \r\n\r\n\r\n  [1]: https://marlybird.com/blog/cozy-up-with-the-falling-leaves-mosaic-knit-hat-free-pattern-mosaic-tips/"
 }

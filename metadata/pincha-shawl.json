@@ -1,29 +1,29 @@
 {
   "id": 651115,
-  "name": "Pincha shawl",
+  "name": "pincha shawl",
   "permalink": "pincha-shawl",
   "url": "https://www.ravelry.com/patterns/library/pincha-shawl",
   "external_url": "http://www.knitty.com/ISSUEss16/PATTpincha.php",
-  "designer_name": "Pinpilan Wangsai",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "pinpilan wangsai",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Sock",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 95.0
     },
     {
-      "fiber": "Spritzer",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 5.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Short rows"
+    "short rows"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -31,11 +31,12 @@
   ],
   "published": "2016/03/01",
   "sizes_available": "one",
-  "rating_average": 4.639160839160839,
-  "rating_count": 715,
-  "difficulty_average": 3.691218130311615,
-  "favorites_count": 18335,
-  "projects_count": 2481,
+  "rating_average": 4.639664804469274,
+  "rating_count": 716,
+  "difficulty_average": 3.6888260254596887,
+  "favorites_count": 18397,
+  "projects_count": 2494,
   "free_ravelry_download": false,
-  "download_url": "http://www.knitty.com/ISSUEss16/PATTpincha.php"
+  "download_url": "http://www.knitty.com/ISSUEss16/PATTpincha.php",
+  "notes": "this shawl uses only one skein of any sock yarn of your choice but it looks best when the color is variegated. choose bright jewel tones for a tropical bird of paradise look or a more subdued colorway for a dreamy soft look that just hints at the shape of feathers."
 }

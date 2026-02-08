@@ -1,32 +1,32 @@
 {
   "id": 7342216,
-  "name": "Twig Bonnet",
+  "name": "twig bonnet",
   "permalink": "twig-bonnet",
   "url": "https://www.ravelry.com/patterns/library/twig-bonnet",
   "external_url": "",
-  "designer_name": "Boutdechou Knits",
-  "project_type": "Baby",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "boutdechou knits",
+  "project_type": "baby",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Double Sunday",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 50.0
     },
     {
-      "fiber": "Malmedy",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 50.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Lace",
-    "Written"
+    "charted",
+    "in the round",
+    "lace",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -37,8 +37,9 @@
   "rating_average": 4.625,
   "rating_count": 8,
   "difficulty_average": 2.4285714285714284,
-  "favorites_count": 1241,
-  "projects_count": 60,
+  "favorites_count": 1305,
+  "projects_count": 61,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/102075/930914"
+  "download_url": "http://www.ravelry.com/dls/102075/930914",
+  "notes": "**adorable and sweet baby bonnet**\r\n\r\nwith this free pattern you can knit a easy cute and adorable baby bonnet. ideal as a baby gift. \r\npattern contains clear instructions and knitting chart. \r\n\r\n\r\n**sizes:** 0-3 months – (6-12 months) – 1-2 years\r\n\r\n\t\r\n**gauge:** 22 stitches x 26 rows = 10 x 10cm / 4 x4 inches\r\n**needles:** short circular needles or double pointed needles in sizes 3.5 mm.\r\n\r\n\r\n\r\n\t\r\n**suggested yarn:**\r\n-double sunday – scheepjes (50 gr = 108 meter): \r\n\t50 gr (50 gr) 50 gr \r\n\t\r\n- malmédy - annell (50 gr = 125m):\r\n\t50 gr (50 gr) 50 gr \r\n"
 }

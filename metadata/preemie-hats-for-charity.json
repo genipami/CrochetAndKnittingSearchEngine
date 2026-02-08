@@ -1,13 +1,13 @@
 {
   "id": 14598,
-  "name": "Preemie Hats for Charity",
+  "name": "preemie hats for charity",
   "permalink": "preemie-hats-for-charity",
   "url": "https://www.ravelry.com/patterns/library/preemie-hats-for-charity",
   "external_url": "http://carissaknits.blogspot.com/2007/07/preemie-hats-for-charity.html",
-  "designer_name": "Carissa Browning",
-  "project_type": "Baby",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Sport",
+  "designer_name": "carissa browning",
+  "project_type": "baby",
+  "fiber_art": "knitting",
+  "yarn_weight": "sport",
   "materials": [
     {
       "fiber": "Sport-weight, soft, washable yarn",
@@ -15,25 +15,26 @@
     }
   ],
   "stitches_used": [
-    "Eyelet lace",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "eyelet lace",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.25
   ],
   "published": "2007/07/01",
-  "sizes_available": "Preemie",
-  "rating_average": 4.626095423563778,
-  "rating_count": 1027,
-  "difficulty_average": 1.662748643761302,
-  "favorites_count": 17123,
-  "projects_count": 3947,
+  "sizes_available": "preemie",
+  "rating_average": 4.626459143968872,
+  "rating_count": 1028,
+  "difficulty_average": 1.6630532971996386,
+  "favorites_count": 17154,
+  "projects_count": 3956,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/679/119614"
+  "download_url": "http://www.ravelry.com/dls/679/119614",
+  "notes": "there are five different versions included in the pattern: eyelets, hearts, diamonds, stripes, and ribs.\r\n\r\nfrench translation now available for download, thanks to [isazou25](/people/isazou25)\r\n\r\nrussian translation now available here:\r\n[myredpomegranate][1]\r\n\r\n\r\n  [1]: http://myredpomegranate.blogspot.ru/2016/01/carissa-knits.html\r\n\r\nif you’re having trouble with any of my patterns, or simply want to show off your project, please feel free to visit my ravelry group, [carissa browning designs][2].\r\n\r\n\r\n  [2]: https://www.ravelry.com/groups/carissa-browning-designs"
 }

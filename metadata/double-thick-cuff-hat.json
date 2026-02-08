@@ -1,46 +1,51 @@
 {
   "id": 885106,
-  "name": "Double-Thick Cuff Hat",
+  "name": "double-thick cuff hat",
   "permalink": "double-thick-cuff-hat",
   "url": "https://www.ravelry.com/patterns/library/double-thick-cuff-hat",
   "external_url": "",
-  "designer_name": "Staci Perry",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "staci perry",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Capra DK",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 85.0
+    },
+    {
+      "fiber": "Cashmere goat (Cashmere)",
+      "pct": 15.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     4.0
   ],
   "published": "2018/12/01",
-  "sizes_available": "Small/Medium and Medium/Large (the cuff is very stretchy, S/M will fit most women, and M/L will fit most men)",
-  "rating_average": 4.889952153110048,
-  "rating_count": 209,
-  "difficulty_average": 2.37,
-  "favorites_count": 3689,
-  "projects_count": 960,
+  "sizes_available": "small/medium and medium/large (the cuff is very stretchy, s/m will fit most women, and m/l will fit most men)",
+  "rating_average": 4.890476190476191,
+  "rating_count": 210,
+  "difficulty_average": 2.373134328358209,
+  "favorites_count": 3696,
+  "projects_count": 967,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/71/499865",
+  "notes": "happy holidays from verypink knits!  this free pattern includes a free video tutorial, which can be seen here on my website:\r\nhttps://verypink.com/2018/12/05/double-thick-cuff-hat/\r\n\r\nthe faux fur pompoms are from this etsy shop, i used the 4\" size:\r\nhttps://www.etsy.com/shop/fffabuknits\r\n\r\nthe yarn i used knit picks capra in magnolia and blush. the yarn i used in the worsted-weight hat is knit picks wool of the andes tweed in papaya heather and oyster heather. for the hat with the single-row stripes, i used the technique of helix knitting. (helix knitting is a bit more complicated than a single-color cap, i would recommend using helix knitting in your cap to only more confident knitters.)  here is my video on helix knitting:\r\nhttps://verypink.com/2018/03/07/helix-knitting-jogless-one-round-stripes/",
   "pdf": {
     "filename": "885106.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\885106.pdf",
-    "url": "https://pdf.ravelrycache.com/verypink/910885/Double_Cuff_Hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479950&Signature=wWfob4s6l4zAtasMVWAxDeGZXSk%3D&key_expires=1768479950&key=NAIcgO99xXmBNoCixmQHOw",
+    "url": "https://pdf.ravelrycache.com/verypink/910885/Double_Cuff_Hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770423999&Signature=BR8YVmMa%2BxdQ7tlNuzZB915r6ME%3D&key_expires=1770423999&key=Fg6iE7bZtgT2sN-vDB0OgQ",
     "size_bytes": 160271
   }
 }

@@ -1,26 +1,30 @@
 {
   "id": 1344913,
-  "name": "Piece of Cake",
+  "name": "piece of cake",
   "permalink": "piece-of-cake-10",
   "url": "https://www.ravelry.com/patterns/library/piece-of-cake-10",
   "external_url": "",
-  "designer_name": "Jerry Burch",
-  "project_type": "Toys",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "jerry burch",
+  "project_type": "toys",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Rock n Roll Sock",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round"
+    "bottom-up",
+    "in the round"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -29,16 +33,17 @@
   "published": "2023/07/01",
   "sizes_available": "small & large",
   "rating_average": 5.0,
-  "rating_count": 7,
-  "difficulty_average": 2.2857142857142856,
-  "favorites_count": 554,
-  "projects_count": 65,
+  "rating_count": 8,
+  "difficulty_average": 2.125,
+  "favorites_count": 575,
+  "projects_count": 73,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/70562/863449",
+  "notes": "piece of cake is a simple yarn cake cozy designed for birch tree fiber arts co.’s 2023 christmas in july event. \r\n\r\nthis simple cozy is worked in the round using only 20g’s of sock yarn. \r\n\r\nthis is a fun and versatile project. perfect for mini skeins or using up scraps. \r\n\r\nit’s a piece of cake!",
   "pdf": {
     "filename": "1344913.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1344913.pdf",
-    "url": "https://pdf.ravelrycache.com/BirchTreeFA/1683070/Piece_of_Cake.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482393&Signature=%2F8mONDViHLTaJ15bwq525Zz%2FLQ0%3D&key_expires=1768482393&key=hf3-pYNDklrqa1vR4R8FuA",
+    "url": "https://pdf.ravelrycache.com/BirchTreeFA/1683070/Piece_of_Cake.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770437054&Signature=FaUkN7G%2FRcgXczT3r6Mrr7JWJSM%3D&key_expires=1770437054&key=N3e7nTXH-FO7GEqc4m-HAw",
     "size_bytes": 552651
   }
 }

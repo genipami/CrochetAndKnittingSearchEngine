@@ -1,35 +1,27 @@
 {
   "id": 1294028,
-  "name": "Stripes Please",
+  "name": "stripes please",
   "permalink": "stripes-please",
   "url": "https://www.ravelry.com/patterns/library/stripes-please",
   "external_url": "",
-  "designer_name": "Amy Gunderson",
-  "project_type": "Scarf",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "amy gunderson",
+  "project_type": "scarf",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Merino Singles",
-      "pct": null
-    },
-    {
-      "fiber": "Skinny Singles",
-      "pct": null
-    },
-    {
-      "fiber": "Tosh Merino Light",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless"
+    "in the round",
+    "seamless"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -40,15 +32,16 @@
   "sizes_available": "",
   "rating_average": 4.95,
   "rating_count": 20,
-  "difficulty_average": 1.3333333333333333,
-  "favorites_count": 2176,
-  "projects_count": 90,
+  "difficulty_average": 1.3125,
+  "favorites_count": 2202,
+  "projects_count": 93,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/20407/823016",
+  "notes": "for years, i have wanted a super colorful stripey giant scarf all for myself. the timing was finally right this year. in between design projects and work, i found myself some spare knitting time and dug in. this scarf is the ultimate stashbuster and mindless knitting project all rolled into one. this scarf is knit in the round as a tube, and you can really keep going forever and ever on it if you want.\r\n\r\ni used every color of fingering weight yarn i had sitting around - no exceptions. i’m a firm believer that by adding more and different colors to a ridiculous degree will always result in a beautiful thing. \r\n\r\nwhen deciding which color to use next, i really only determined if it had contrast with the previous stripe - that’s pretty much it. i also tried to spread out obvious colors like oranges, yellows, etc. other than that, the relative randomness of the stripes is what makes the project, in my opinion.\r\n\r\n**size**\r\none, adjustable\r\n\r\n**finished measurements**\r\ncircumference: 26.75”\r\nlength: 76”\r\n\r\n**materials**\r\nfingering weight yarn, many assorted colors; as shown, 160 stripes + two ribbed edges; approx 2.75g of yarn is needed for each stripe and 6.5g of yarn is needed for each ribbed end. total weight of scarf is 450g.\r\nneedles: us size 4 (3.5 mm) 24” circular\r\nus size 1 (2.25 mm) 24” circular\r\nnotions: stitch markers, tapestry needle\r\n\r\n**gauge**\r\n30 sts x 34 rnds = 4” in st st with larger needle",
   "pdf": {
     "filename": "1294028.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1294028.pdf",
-    "url": "https://pdf.ravelrycache.com/AmyGunderson/1591321/Stripes_Please.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483420&Signature=Wz4KV82Fio39FD%2BCKR90GidOTnA%3D&key_expires=1768483420&key=TAlstBRKpBdXKe1aCI4G6A",
+    "url": "https://pdf.ravelrycache.com/AmyGunderson/1591321/Stripes_Please.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770442770&Signature=lTIW28kkcDho7QQeUjPZDsIasBI%3D&key_expires=1770442770&key=_1p4MJVEOqjHuMAtctCDLw",
     "size_bytes": 1702827
   }
 }

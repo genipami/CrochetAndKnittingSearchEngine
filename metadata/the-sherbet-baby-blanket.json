@@ -1,31 +1,27 @@
 {
   "id": 1051275,
-  "name": "The Sherbet Baby Blanket",
+  "name": "the sherbet baby blanket",
   "permalink": "the-sherbet-baby-blanket",
   "url": "https://www.ravelry.com/patterns/library/the-sherbet-baby-blanket",
   "external_url": "https://daisycottagedesigns.net/rainbow-moss-stitch-crochet-blanket/",
-  "designer_name": "Lauren Brown",
-  "project_type": "Blanket",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "lauren brown",
+  "project_type": "blanket",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Basic Stitch Anti-Pilling",
-      "pct": null
-    },
-    {
-      "fiber": "Mandala Ombre",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Bobble",
-    "Moss/Linen stitch",
-    "Treble crochet (tr)"
+    "bobble",
+    "moss/linen stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "C2C",
-    "Written"
+    "c2c",
+    "written"
   ],
   "hook_sizes_mm": [
     5.5,
@@ -33,12 +29,13 @@
   ],
   "needle_sizes_mm": [],
   "published": "2020/07/01",
-  "sizes_available": "30x35 or Any Size",
+  "sizes_available": "30x35 or any size",
   "rating_average": 4.682926829268292,
   "rating_count": 41,
   "difficulty_average": 2.641025641025641,
-  "favorites_count": 4408,
-  "projects_count": 224,
+  "favorites_count": 4449,
+  "projects_count": 226,
   "free_ravelry_download": false,
-  "download_url": "https://daisycottagedesigns.net/rainbow-moss-stitch-crochet-blanket/"
+  "download_url": "https://daisycottagedesigns.net/rainbow-moss-stitch-crochet-blanket/",
+  "notes": "this corner to corner moss stitch blanket features diagonal stripes and a wide border with a tiny bobble edging. \r\n\r\nas written, this blanket is approximately 30x35 inches, but it can be made in any size.\r\n\r\ni’ve used lion brand mandala ombre in the shade tranquil for the body and lion brand basic stitch in snow for the border. \r\n\r\n3 skeins are used for the body and 1 for the border. "
 }

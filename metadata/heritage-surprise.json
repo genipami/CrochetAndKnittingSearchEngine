@@ -1,41 +1,33 @@
 {
   "id": 7457612,
-  "name": "Heritage Surprise",
+  "name": "heritage surprise",
   "permalink": "heritage-surprise",
   "url": "https://www.ravelry.com/patterns/library/heritage-surprise",
   "external_url": "",
-  "designer_name": "Robin E. Johnston",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "robin e. johnston",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "80/20 Sock",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 78.8
     },
     {
-      "fiber": "Merino Nylon Sock",
-      "pct": null
-    },
-    {
-      "fiber": "Sock",
-      "pct": null
-    },
-    {
-      "fiber": "Socknado",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 21.2
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Kitchener stitch",
-    "Short rows",
-    "Written"
+    "charted",
+    "in the round",
+    "kitchener stitch",
+    "short rows",
+    "written"
   ],
   "hook_sizes_mm": [
     2.75
@@ -44,18 +36,19 @@
     2.25
   ],
   "published": "2025/09/01",
-  "sizes_available": "Small, Medium, Large",
+  "sizes_available": "small, medium, large",
   "rating_average": 4.777777777777778,
   "rating_count": 9,
   "difficulty_average": 3.111111111111111,
-  "favorites_count": 286,
+  "favorites_count": 290,
   "projects_count": 48,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/104498/1021153",
+  "notes": "this is a **mystery pattern for the solid socks group for the months of september and october, 2025.**\r\n\r\nthe group for the mystery can be found [here.][1]\r\n\r\nclues will be released on september 1, 8, 15, and 22, 2025.\r\n\r\nyou will need to return here each week to collect the next clue through september, 2025.\r\n\r\nto fit foot circumference, with negative ease, 7 (8, 9)\"/18 (20, 23) cm.\r\n\r\n  [1]: https://www.ravelry.com/groups/solidsocks",
   "pdf": {
     "filename": "7457612.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7457612.pdf",
-    "url": "https://pdf.ravelrycache.com/REJ/2082954/Heritage_Surprise_Full.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480859&Signature=nq9%2Batbagpc4ivED7ElbCz3BGuw%3D&key_expires=1768480859&key=DFlb8-EKT59buaZr5DPYcA",
+    "url": "https://pdf.ravelrycache.com/REJ/2082954/Heritage_Surprise_Full.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770429024&Signature=BysxTRWlA2y4TQuiPcHsY6dpktk%3D&key_expires=1770429024&key=QLBwUKCjT4tydcdV0TPWxg",
     "size_bytes": 6417737
   }
 }

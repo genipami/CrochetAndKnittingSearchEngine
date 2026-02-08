@@ -1,32 +1,28 @@
 {
   "id": 1105347,
-  "name": "Kitty Couch",
+  "name": "kitty couch",
   "permalink": "kitty-couch",
   "url": "https://www.ravelry.com/patterns/library/kitty-couch",
   "external_url": "https://www.yarnspirations.com/red-heart-crochet-cat-couch/RHC0720-034527M.html?utm_medium=referral&utm_source=ravelry",
-  "designer_name": "Red Heart Design Team",
-  "project_type": "Pet",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "red heart design team",
+  "project_type": "pet",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Mini",
-      "pct": null
-    },
-    {
-      "fiber": "Super Saver (solids)",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Granny",
-    "Single crochet (sc)"
+    "granny",
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Seamed",
-    "Written"
+    "charted",
+    "in the round",
+    "seamed",
+    "written"
   ],
   "hook_sizes_mm": [
     4.0,
@@ -35,11 +31,12 @@
   "needle_sizes_mm": [],
   "published": "2020/09/01",
   "sizes_available": "24\" [61 cm] long x 16\" [40.5 cm] deep x 12\" [30.5 cm] tall",
-  "rating_average": 4.360655737704918,
-  "rating_count": 61,
-  "difficulty_average": 4.120689655172414,
-  "favorites_count": 9633,
-  "projects_count": 386,
+  "rating_average": 4.370967741935484,
+  "rating_count": 62,
+  "difficulty_average": 4.135593220338983,
+  "favorites_count": 9744,
+  "projects_count": 394,
   "free_ravelry_download": false,
-  "download_url": "https://www.yarnspirations.com/on/demandware.static/-/Sites-master-catalog-spinrite/default/dw636f7fbf/PDF/RHC0720-034527M.pdf"
+  "download_url": "https://www.yarnspirations.com/on/demandware.static/-/Sites-master-catalog-spinrite/default/dw636f7fbf/PDF/RHC0720-034527M.pdf",
+  "notes": "this divine crochet cat couch is the perfect way to keep kitty off your sofa while pampering her in perfect comfort. stitched in durable red heart super saver, this couch is worked in a textured griddle stitch and features its own granny square afghan. we've gone with a regal purple, but feel free to pamper your puss with any color that reflects her personality! fill with foam and fiberfill, then seam together to complete.\r\n\r\nmaterials: 3\" [7.5 cm] thick piece of foam 16\" x 24\" [40.5 x 61 cm]. 4\" [10 cm] thick piece of foam 16\" x 24\" [40.5 x 61 cm]. hot glue gun and glue sticks."
 }

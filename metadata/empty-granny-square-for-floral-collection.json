@@ -1,28 +1,32 @@
 {
   "id": 1351180,
-  "name": "Empty Granny Square for Floral Collection",
+  "name": "empty granny square for floral collection",
   "permalink": "empty-granny-square-for-floral-collection",
   "url": "https://www.ravelry.com/patterns/library/empty-granny-square-for-floral-collection",
   "external_url": "https://madebylisek.art/patterns/flower-granny-squares/empty-granny-square/?_gl=1*14en1wx*_up*MQ..*_ga*NTQwMDc0Njc2LjE3MTY4OTAwNjg.*_ga_7PZQZK1PEW*MTcxNjg5MDA2NS4xLjEuMTcxNjg5MDA3My4wLjAuMA..",
-  "designer_name": "Anna Lisek",
-  "project_type": "Other",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "anna lisek",
+  "project_type": "other",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Macrame Cotton",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 85.0
+    },
+    {
+      "fiber": "Polyester (Polyester)",
+      "pct": 15.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Front post stitch",
-    "Granny",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "front post stitch",
+    "granny",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Written"
+    "charted",
+    "written"
   ],
   "hook_sizes_mm": [
     3.5
@@ -33,14 +37,15 @@
   "rating_average": 4.923076923076923,
   "rating_count": 13,
   "difficulty_average": 2.769230769230769,
-  "favorites_count": 1141,
+  "favorites_count": 1161,
   "projects_count": 71,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/93494/868183",
+  "notes": "join the free [flower cal event][1]\r\n  [1]: https://www.ravelry.com/events/2024-cal---spring-crochet-challenge-madebylisek \r\n\r\nempty granny square - matching the floral granny squares collection!\r\n\r\nto make this item, you will be able to know some basic crocheting skills, including:\r\n\r\n1.front post treble crochet\r\n2.single/half-double/double crochet\r\n3.magic circle\r\n4.chains\r\n\r\nus terms",
   "pdf": {
     "filename": "1351180.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1351180.pdf",
-    "url": "https://pdf.ravelrycache.com/madebyLisek/1694790/Empty_Granny_Square_madebyLisek_v1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480119&Signature=ISNBrq2mzuHcdQzacTRvaIsT%2FY8%3D&key_expires=1768480119&key=QIYwW0YhLuxm8nfg75J1-w",
+    "url": "https://pdf.ravelrycache.com/madebyLisek/1694790/Empty_Granny_Square_madebyLisek_v1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770425080&Signature=tNfegaXppQohB6YmT6VziPlYhvU%3D&key_expires=1770425080&key=BIhxFyM1g4sDLZVkBfXAog",
     "size_bytes": 2966508
   }
 }

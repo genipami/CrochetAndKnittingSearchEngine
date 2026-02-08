@@ -1,28 +1,28 @@
 {
   "id": 3156,
-  "name": "Basic Ribbed Socks",
+  "name": "basic ribbed socks",
   "permalink": "basic-ribbed-socks",
   "url": "https://www.ravelry.com/patterns/library/basic-ribbed-socks",
   "external_url": "http://kateatherley.blogspot.com.au/search?q=basic+ribbed",
-  "designer_name": "Kate Atherley",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "kate atherley",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Merino 2/6",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Ribbing",
-    "Treble crochet (tr)"
+    "lace",
+    "ribbing",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Lace",
-    "Written"
+    "in the round",
+    "lace",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -30,17 +30,18 @@
   ],
   "published": "2006/04/01",
   "sizes_available": "",
-  "rating_average": 4.500351370344343,
-  "rating_count": 2846,
-  "difficulty_average": 2.4473333333333334,
-  "favorites_count": 26218,
-  "projects_count": 14208,
+  "rating_average": 4.501926444833625,
+  "rating_count": 2855,
+  "difficulty_average": 2.4479893652376203,
+  "favorites_count": 26445,
+  "projects_count": 14269,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/2453/12117",
+  "notes": "*from pattern notes:*\r\n\r\n> \"i love to solve problems... and to knit. this sock design was developed as a solution to two irksome issues: socks with a plain stocking-stitch leg tend to fall down, and i find k1p1 ribbing tedious.\r\n> and so,the basic ribbed sock was born.\" \r\n\r\npattern is available in several places:\r\n* [archived spun magazine][1]\r\n* kate atherley knits blog - [by popular demand: basic ribbed sock][2] with [notes for resizing also available][3].\r\n\r\n\r\n  [1]: http://web.archive.org/web/20070501102919/http://spunmag.com/article/060421socks\r\n  [2]: http://kateatherley.blogspot.com/2007/12/by-popular-demand-basic-ribbed-sock.html\r\n  [3]: http://kateatherley.blogspot.com/2008/02/resizing-basic-ribbed-sock.html",
   "pdf": {
     "filename": "3156.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\3156.pdf",
-    "url": "https://pdf.ravelrycache.com/kateatherley/2056537/Atherley_Basic_Ribbed_Sock_v202203.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478998&Signature=qsuyq5eJSP6pOyCyweBEkNvmwjs%3D&key_expires=1768478998&key=l16fiF0u-lENYJ-XIbzXWQ",
+    "url": "https://pdf.ravelrycache.com/kateatherley/2056537/Atherley_Basic_Ribbed_Sock_v202203.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770418400&Signature=iMcjLSbd0k%2FcHiEyZ4HJNDnHwJE%3D&key_expires=1770418400&key=bNBfpxtfvv8r9DGN3gU-5g",
     "size_bytes": 1760994
   }
 }

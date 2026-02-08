@@ -5,18 +5,22 @@
   "url": "https://www.ravelry.com/patterns/library/mohair-boatneck-top",
   "external_url": "https://www.youtube.com/watch?app=desktop&v=BPxwZlQ-G2Y",
   "designer_name": "nelsknits",
-  "project_type": "Tank/Camisole",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "project_type": "tank/camisole",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "DROPS Brushed Alpaca Silk",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 77.0
+    },
+    {
+      "fiber": "Bombyx / Cultivated / Mulberry (Silk)",
+      "pct": 23.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "Seamless"
+    "seamless"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -24,11 +28,12 @@
   ],
   "published": "2022/11/01",
   "sizes_available": "",
-  "rating_average": 4.266666666666667,
-  "rating_count": 30,
-  "difficulty_average": 2.7241379310344827,
-  "favorites_count": 2461,
-  "projects_count": 110,
+  "rating_average": 4.176470588235294,
+  "rating_count": 34,
+  "difficulty_average": 2.6875,
+  "favorites_count": 2922,
+  "projects_count": 122,
   "free_ravelry_download": false,
-  "download_url": "https://www.youtube.com/watch?app=desktop&v=BPxwZlQ-G2Y"
+  "download_url": "https://www.youtube.com/watch?app=desktop&v=BPxwZlQ-G2Y",
+  "notes": ""
 }

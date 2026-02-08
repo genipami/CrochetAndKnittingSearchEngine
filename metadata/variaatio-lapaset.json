@@ -1,27 +1,31 @@
 {
   "id": 1293954,
-  "name": "Variaatio lapaset",
+  "name": "variaatio lapaset",
   "permalink": "variaatio-lapaset",
   "url": "https://www.ravelry.com/patterns/library/variaatio-lapaset",
   "external_url": "https://novita.com/patterns/variaatio-lapaset",
-  "designer_name": "Ronja Södersved",
-  "project_type": "Mittens/Gloves",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "ronja södersved",
+  "project_type": "mittens/gloves",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "7 Veljestä",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Cables",
-    "Charted",
-    "In the round",
-    "Written"
+    "cables",
+    "charted",
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -32,8 +36,9 @@
   "rating_average": 4.6923076923076925,
   "rating_count": 13,
   "difficulty_average": 3.4545454545454546,
-  "favorites_count": 1313,
-  "projects_count": 119,
+  "favorites_count": 1337,
+  "projects_count": 121,
   "free_ravelry_download": false,
-  "download_url": "https://novita.com/patterns/variaatio-lapaset"
+  "download_url": "https://novita.com/patterns/variaatio-lapaset",
+  "notes": "**fin**\r\nyksi ohje, viisi erilaista lapasparia! neulo samalla ohjeella viidet eri lapaset valitsemalla mieluisa palmikkokuvio viidestä eri vaihtoehdosta. "
 }

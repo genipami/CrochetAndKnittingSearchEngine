@@ -1,21 +1,21 @@
 {
   "id": 7437152,
-  "name": "La brassière - \"Bralette\"",
+  "name": "la brassière - \"bralette\"",
   "permalink": "la-brassiere---bralette",
   "url": "https://www.ravelry.com/patterns/library/la-brassiere---bralette",
   "external_url": "https://youtu.be/H7vwzcPY2hw?si=N_1fofR0zu-QPoyV",
-  "designer_name": "Stéphanie L",
-  "project_type": "Tank/Camisole",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Sport",
+  "designer_name": "stéphanie l",
+  "project_type": "tank/camisole",
+  "fiber_art": "knitting",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "DROPS Baby Merino",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 92.5
     },
     {
-      "fiber": "Douceur Sock",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 7.5
     }
   ],
   "stitches_used": [],
@@ -26,12 +26,13 @@
     3.5
   ],
   "published": "2025/06/01",
-  "sizes_available": "XS - 3XL",
-  "rating_average": 4.8,
-  "rating_count": 15,
+  "sizes_available": "xs - 3xl",
+  "rating_average": 4.8125,
+  "rating_count": 16,
   "difficulty_average": 1.875,
-  "favorites_count": 1047,
-  "projects_count": 91,
+  "favorites_count": 1116,
+  "projects_count": 99,
   "free_ravelry_download": false,
-  "download_url": "https://youtu.be/H7vwzcPY2hw?si=N_1fofR0zu-QPoyV"
+  "download_url": "https://youtu.be/H7vwzcPY2hw?si=N_1fofR0zu-QPoyV",
+  "notes": "free tutorial here : https://youtu.be/h7vwzcpy2hw?si=n_1fofr0zu-qpoyv"
 }

@@ -1,26 +1,26 @@
 {
   "id": 921609,
-  "name": "Dune Blanket",
+  "name": "dune blanket",
   "permalink": "dune-blanket",
   "url": "https://www.ravelry.com/patterns/library/dune-blanket",
   "external_url": "https://attic24.co.uk/posts/seashell-stripe/",
-  "designer_name": "Lucy of Attic24",
-  "project_type": "Blanket",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "lucy of attic24",
+  "project_type": "blanket",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Special Double Knit",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Shell",
-    "Treble crochet (tr)",
-    "V-stitch"
+    "shell",
+    "treble crochet (tr)",
+    "v-stitch"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     4.5
@@ -28,11 +28,12 @@
   "needle_sizes_mm": [],
   "published": "2019/04/01",
   "sizes_available": "120 x 180 cm",
-  "rating_average": 4.971631205673759,
-  "rating_count": 141,
-  "difficulty_average": 2.63768115942029,
-  "favorites_count": 2705,
-  "projects_count": 429,
+  "rating_average": 4.972027972027972,
+  "rating_count": 143,
+  "difficulty_average": 2.633093525179856,
+  "favorites_count": 2720,
+  "projects_count": 433,
   "free_ravelry_download": false,
-  "download_url": "https://attic24.co.uk/posts/seashell-stripe/"
+  "download_url": "https://attic24.co.uk/posts/seashell-stripe/",
+  "notes": "from lucy's blog...\r\n\r\nafter a major amount of creative faffery, i finally settled on fifteen shades of stylecraft special dk  to create my dune palette.\r\n\r\ni love the gentle harmony of them and the way that each and every colour holds a significance for me. there are the pale greens of the marram grass, the warm neutrals which represent driftwood, sand dunes and the rippled wet sandy beach, the blues and pale greys of a cold spring sky and the softest of pinks which come from the sea shells i collected.\r\n\r\n♥ mocha ♥ pale rose ♥ parma violet ♥ storm blue ♥ sage \r\n♥ camel ♥ mushroom ♥ silver ♥ cloud blue ♥ spearmint \r\n♥ stone ♥ powder pink ♥ parchment ♥ duck egg ♥ lincoln ♥\r\n\r\nyou can find the dune yarn pack in my shop at wool warehouse. the yarn pack also contains a 10-page full colour pattern.\r\n\r\ni settled on a delightful variation of a shell pattern where the stripe is worked in two rows - first you create a row of v-stitches, then you infill the v-spaces with shells - it really is a beautiful pattern to crochet. this pattern creates a delicious texture, and best of all the blanket is different on both sides, making it double sided, squishy and visually very lovely indeed.\r\n\r\ni'm certain this pattern would be suitable for beginners to have a go at. it does need a little concentration in the beginning to make sure you are starting and ending each row correctly, but it very quickly becomes memorizable (is this even a word?!).\r\n\r\ni've written a full step-by-step photo tutorial to walk you through the pattern and give you as much guidance as i possibly can. i've named it the [seashell stripe][1].\r\n\r\n\r\n  [1]: https://attic24.typepad.com/weblog/seashell-stripe.html"
 }

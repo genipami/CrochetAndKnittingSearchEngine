@@ -1,34 +1,26 @@
 {
   "id": 1294985,
-  "name": "Boyfriend Hat",
+  "name": "boyfriend hat",
   "permalink": "boyfriend-hat-9",
   "url": "https://www.ravelry.com/patterns/library/boyfriend-hat-9",
   "external_url": "",
-  "designer_name": "Andrea Riddle",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "andrea riddle",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Chunky",
-      "pct": null
-    },
-    {
-      "fiber": "Noventa",
-      "pct": null
-    },
-    {
-      "fiber": "The Chubster",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Ribbing",
-    "Treble crochet (tr)"
+    "lace",
+    "ribbing",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Lace"
+    "lace"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -36,18 +28,19 @@
     8.0
   ],
   "published": "2022/12/01",
-  "sizes_available": "Adult",
-  "rating_average": 4.824324324324325,
-  "rating_count": 74,
-  "difficulty_average": 1.7428571428571429,
-  "favorites_count": 3063,
-  "projects_count": 402,
+  "sizes_available": "adult",
+  "rating_average": 4.833333333333333,
+  "rating_count": 78,
+  "difficulty_average": 1.7534246575342465,
+  "favorites_count": 3159,
+  "projects_count": 416,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/59777/823798",
+  "notes": "when your daughter announces she is bringing her boyfriend to dinner two weeks before the holidays, here is the perfect gift.  this hat took about 2 nights to knit up.  the noventa yarn is incredibly soft and a real treat for everyone.\r\n\r\none size fits most.\r\neasy 3 x 2 ribbing and a fun decrease pattern at the top.\r\n\r\nyou can find all the colors of noventa at the yarn club, www.yarnclubknits.com.\r\n\r\n\r\nerrata: row 9:  *k2tog, k1, p2, * repeat from * to * until the last **5** stitches. k2tog, k1, p1, slip next stitch knitwise, remove marker, slip next stitch knitwise, k1, psso. replace marker after cdd.\r\n\r\nupdate version 3 is correct.  i also added some clarification to the measurements of the body of the hat.",
   "pdf": {
     "filename": "1294985.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1294985.pdf",
-    "url": "https://pdf.ravelrycache.com/TheYarnClub/1599737/Boyfriend_Hat_v3.docx.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479202&Signature=QqRGaxxntU6WEMi4zk3sbhZpKF0%3D&key_expires=1768479202&key=jDOMlrM70p5DNv7D3SmVNg",
+    "url": "https://pdf.ravelrycache.com/TheYarnClub/1599737/Boyfriend_Hat_v3.docx.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770419636&Signature=McIAImVDBlU%2FVOXFsF8Rgga9gb0%3D&key_expires=1770419636&key=2i81isomgqU81DF173_cnQ",
     "size_bytes": 231041
   }
 }

@@ -1,24 +1,24 @@
 {
   "id": 1079352,
-  "name": "Maple Leaf Applique",
+  "name": "maple leaf applique",
   "permalink": "maple-leaf-applique",
   "url": "https://www.ravelry.com/patterns/library/maple-leaf-applique",
   "external_url": "",
-  "designer_name": "Kimiko Ami",
-  "project_type": "Other",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Fingering",
+  "designer_name": "kimiko ami",
+  "project_type": "other",
+  "fiber_art": "crochet",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "M",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     2.5
@@ -29,14 +29,15 @@
   "rating_average": 4.777777777777778,
   "rating_count": 9,
   "difficulty_average": 2.2222222222222223,
-  "favorites_count": 1292,
+  "favorites_count": 1304,
   "projects_count": 44,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/85009/648831",
+  "notes": "this crocheted maple leaf applique can be used on its own or strung up as fall decorations, sewn onto blankets or sweaters... anything that you fancy!",
   "pdf": {
     "filename": "1079352.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1079352.pdf",
-    "url": "https://pdf.ravelrycache.com/kimikoami/1211947/Maple_Leaf_Crochet_Pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481656&Signature=z0kBlDOlZ1ZEVF6sfLNArH5sW7I%3D&key_expires=1768481656&key=cz-fptFgTxkeXdtQkxN4yw",
+    "url": "https://pdf.ravelrycache.com/kimikoami/1211947/Maple_Leaf_Crochet_Pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770433170&Signature=fQgWA9lqY%2BAAjAuymu0FoB9oh3c%3D&key_expires=1770433170&key=SG8qnVpdxaiNA2OgFdWnuA",
     "size_bytes": 660484
   }
 }

@@ -1,26 +1,26 @@
 {
   "id": 1182504,
-  "name": "Ariana",
+  "name": "ariana",
   "permalink": "ariana-11",
   "url": "https://www.ravelry.com/patterns/library/ariana-11",
   "external_url": "https://www.berroco.com/patterns/ariana",
-  "designer_name": "Amy Christoffers",
-  "project_type": "Cardigan",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "amy christoffers",
+  "project_type": "cardigan",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Lanas",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Granny",
-    "Treble crochet (tr)"
+    "granny",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Written"
+    "charted",
+    "written"
   ],
   "hook_sizes_mm": [
     3.75
@@ -29,12 +29,13 @@
     3.75
   ],
   "published": "2021/10/01",
-  "sizes_available": "S/M/L (XL/2X/3X)",
+  "sizes_available": "s/m/l (xl/2x/3x)",
   "rating_average": 4.236024844720497,
   "rating_count": 161,
   "difficulty_average": 4.647058823529412,
-  "favorites_count": 30329,
-  "projects_count": 1131,
+  "favorites_count": 30667,
+  "projects_count": 1141,
   "free_ravelry_download": false,
-  "download_url": "https://www.berroco.com/patterns/ariana"
+  "download_url": "https://www.berroco.com/patterns/ariana",
+  "notes": "ariana turns the typical granny square cardigan on its side. the cardigan's unique construction is finished off with knitted button bands and cuffs.\r\n\r\n**sizes**\r\ns/m/l (xl/2x/3x)\r\nfinished measurements\r\nbust (closed): 40 (65)\" / 101.5 (165) cm\r\nlength: 22\" / 56 cm\r\n \r\n**yarn**\r\nberroco lanas (100 grs): 3 (4) balls #95102 steel cut oats (mc); 2 (3) balls each #95113 lilac (cc1), #95115 lime light (cc2), and #95116 sandalwood (cc3)\r\n \r\n**needles/hooks and notions**\r\ncrochet hook, size f / 3.75 mm or size to obtain gauge\r\n32\" / 80 cm circular needle, size 5 / 3.75 mm\r\nfour 1\" / 2.5 cm buttons\r\n \r\n**gauge**\r\ngranny square (rnds 1–5) measures 5½\" / 14 cm on the diagonal. (does not include mc row made during joining)\r\n\r\nupdated pdf uploaded 5/3/24, please download v2 to ensure you’re working from the most recent version."
 }

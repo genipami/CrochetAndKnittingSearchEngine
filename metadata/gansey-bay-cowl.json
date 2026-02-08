@@ -1,40 +1,45 @@
 {
   "id": 1350018,
-  "name": "Gansey Bay Cowl",
+  "name": "gansey bay cowl",
   "permalink": "gansey-bay-cowl",
   "url": "https://www.ravelry.com/patterns/library/gansey-bay-cowl",
   "external_url": "https://www.yarncitizen.com/products/gansey-bay-cowl-pdf",
-  "designer_name": "Lena Skvagerson",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "lena skvagerson",
+  "project_type": "shawl/wrap",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Harmony Worsted",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 50.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 50.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Half double crochet (hdc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "half double crochet (hdc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamless",
-    "Top-down",
-    "Written"
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [
     6.5
   ],
   "needle_sizes_mm": [],
   "published": "2023/07/01",
-  "sizes_available": "One Size",
-  "rating_average": 4.769230769230769,
-  "rating_count": 13,
-  "difficulty_average": 2.6923076923076925,
-  "favorites_count": 679,
-  "projects_count": 31,
+  "sizes_available": "one size",
+  "rating_average": 4.785714285714286,
+  "rating_count": 14,
+  "difficulty_average": 2.7857142857142856,
+  "favorites_count": 690,
+  "projects_count": 32,
   "free_ravelry_download": false,
-  "download_url": "https://www.yarncitizen.com/products/gansey-bay-cowl-pdf"
+  "download_url": "https://www.yarncitizen.com/products/gansey-bay-cowl-pdf",
+  "notes": "**skill level:**\r\nintermediate\r\n\r\n**size:**\r\none size\r\n\r\n**finished measurements:**\r\ncircumference at top: 20.5\"\r\nlength: approx. 5.5\" in back, 9.5\" in front\r\n\r\n**gauge**\r\n13 hdc = 4\" \r\n\r\n**materials**\r\nyarn citizen harmony worsted (50% wool, 50% alpaca;\r\n100g/211 yds): \r\n1 skein\r\nshown in mushroom \r\nhook: us size k/10.5 (6.5 mm) crochet hook \r\nor size needed to obtain gauge\r\nnotions: tapestry needle"
 }

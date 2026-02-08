@@ -1,35 +1,35 @@
 {
   "id": 882858,
-  "name": "Belle Fille Hat",
+  "name": "belle fille hat",
   "permalink": "belle-fille-hat",
   "url": "https://www.ravelry.com/patterns/library/belle-fille-hat",
   "external_url": "",
-  "designer_name": "Espace Tricot",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Sport",
+  "designer_name": "espace tricot",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Cashsoft Baby",
-      "pct": null
+      "fiber": "Cashmere goat (Cashmere)",
+      "pct": 75.0
     },
     {
-      "fiber": "Eco Cashmere Fingering",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "cable",
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Cables",
-    "In the round",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "cables",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -37,18 +37,19 @@
     3.0
   ],
   "published": "2018/11/01",
-  "sizes_available": "One Size  - 17\" circumference, unstretched",
-  "rating_average": 4.8352941176470585,
-  "rating_count": 85,
-  "difficulty_average": 2.4935064935064934,
-  "favorites_count": 4672,
-  "projects_count": 341,
+  "sizes_available": "one size  - 17\" circumference, unstretched",
+  "rating_average": 4.837209302325581,
+  "rating_count": 86,
+  "difficulty_average": 2.4743589743589745,
+  "favorites_count": 4703,
+  "projects_count": 347,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/25132/498083",
+  "notes": "> espace tricot is a yarn store in\r\n> montreal, canada. discover our yarns\r\n> here!  [www.espacetricot.com][1]\r\n\r\nthis is a classic woman's hat inspired by the holiday displays at fine department stores. is there anything more tempting than butter-soft cashmere in timeless neutrals with elegant cables? this is the hat to knit for the well-dressed woman on your list - or for yourself, of course.\r\n\r\n",
   "pdf": {
     "filename": "882858.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\882858.pdf",
-    "url": "https://pdf.ravelrycache.com/EspaceTricot/1727075/belle-fille-oct62023.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479081&Signature=%2FEyRrlaAsFobXyXqEHRSZeqx6q0%3D&key_expires=1768479081&key=jb_6A29u1Vu5Raz8bJfh1w",
+    "url": "https://pdf.ravelrycache.com/EspaceTricot/1727075/belle-fille-oct62023.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770418828&Signature=%2Bps%2BvGxpy1%2F7Iziti2SOSlwdP%2BQ%3D&key_expires=1770418828&key=o47iTlaZZkZ5wqltpFt7YA",
     "size_bytes": 809205
   }
 }

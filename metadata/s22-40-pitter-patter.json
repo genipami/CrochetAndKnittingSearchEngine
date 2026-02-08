@@ -1,36 +1,41 @@
 {
   "id": 284502,
-  "name": "s22-40 Pitter Patter",
+  "name": "s22-40 pitter patter",
   "permalink": "s22-40-pitter-patter",
   "url": "https://www.ravelry.com/patterns/library/s22-40-pitter-patter",
   "external_url": "http://www.garnstudio.com/lang/us/pattern.php?id=5399&lang=us",
-  "designer_name": "DROPS design",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "drops design",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "DROPS Fabel",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch"
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.25
   ],
   "published": "2011/12/01",
-  "sizes_available": "Child's and Women's sizes - see Notes, below",
+  "sizes_available": "child's and women's sizes - see notes, below",
   "rating_average": 4.444444444444445,
   "rating_count": 9,
   "difficulty_average": 2.0,
-  "favorites_count": 212,
+  "favorites_count": 216,
   "projects_count": 175,
   "free_ravelry_download": false,
-  "download_url": "http://www.garnstudio.com/lang/us/pattern.php?id=5399&lang=us"
+  "download_url": "http://www.garnstudio.com/lang/us/pattern.php?id=5399&lang=us",
+  "notes": "size: (child-child-child) child-child-child (child-child-woman)\r\nus: (1/2-2½/3½-4/5) 5½/6½-7/8-9/10½ (11/13-13½-5/6½)\r\neu: (15/17-18/19-20/21) 22/23-24/25-26/28 (29/31-32/34-35/37)\r\n\r\nfoot length: (10-11-12) 13-15-17 (18-20-22) cm / (4\"-4½\"-4¾\") 5\"-6\"-6¾\" (7''-8''-8¾'').\r\nleg length: (7-8-9) 10-11-12 (13-14-16) cm / (2¾\"-3⅛\"-3½\") 4\"-4⅜\"-4¾\" (5⅛\"-5½\"-6¼\")\r\n\r\nmaterials: drops fabel from garnstudio\r\ncolor no 522p, turquoise/blue:\r\n(50-50-50) 50-50-50 (100-100-100) g \r\n\r\ndrops double pointed needles size 2.5 mm / us 1 or 2 - or size needed to get correct gauge."
 }

@@ -1,44 +1,44 @@
 {
   "id": 1021796,
-  "name": "Southwood",
+  "name": "southwood",
   "permalink": "southwood-2",
   "url": "https://www.ravelry.com/patterns/library/southwood-2",
   "external_url": "",
-  "designer_name": "Galt House of Yarn",
-  "project_type": "Child",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "galt house of yarn",
+  "project_type": "child",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "BFL Worsted",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 58.0
     },
     {
-      "fiber": "Cascade 220®",
-      "pct": null
+      "fiber": "Bluefaced Leicester (BFL) (Wool)",
+      "pct": 20.0
     },
     {
-      "fiber": "Cascade 220® Heathers",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 10.0
     },
     {
-      "fiber": "Estelle Worsted",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 10.0
     },
     {
-      "fiber": "Ultra Alpaca",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 2.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch"
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "In the round",
-    "Raglan",
-    "Seamless",
-    "Short rows",
-    "Top-down"
+    "in the round",
+    "raglan",
+    "seamless",
+    "short rows",
+    "top-down"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -46,18 +46,19 @@
     5.0
   ],
   "published": "2020/04/01",
-  "sizes_available": "0-6 months (6-12 months, 1-2 years, 2-4 years, 4-6 years, 6-8 years, 8-10 years)(Adult XS, S, SM, M, ML, L)(Adult XL, 2XL, 3XL, 4XL, 5XL)",
-  "rating_average": 4.706744868035191,
-  "rating_count": 341,
-  "difficulty_average": 2.526315789473684,
-  "favorites_count": 21309,
-  "projects_count": 1598,
+  "sizes_available": "0-6 months (6-12 months, 1-2 years, 2-4 years, 4-6 years, 6-8 years, 8-10 years)(adult xs, s, sm, m, ml, l)(adult xl, 2xl, 3xl, 4xl, 5xl)",
+  "rating_average": 4.70893371757925,
+  "rating_count": 347,
+  "difficulty_average": 2.527439024390244,
+  "favorites_count": 21637,
+  "projects_count": 1619,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/63466/602745",
+  "notes": "a simple top-down raglan pullover in a full range of sizes.\r\n\r\nsouthwood now includes options for both a plain raglan neckline (great for beginners!) or with added short-row shaping for a more contoured neckline. \r\n\r\nsizes: 0-6 months (6-12 months, 1-2 years, 2-4 years, 4-6 years, 6-8 years, 8-10 years)(adult xs, s, sm, m, ml, l)(adult xl, 2xl, 3xl, 4xl, 5xl)",
   "pdf": {
     "filename": "1021796.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1021796.pdf",
-    "url": "https://pdf.ravelrycache.com/AnneVasic/1732766/Southwood_v2.2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483277&Signature=Pc47Yh7NSkKMVU8wIrre9n1G%2Fco%3D&key_expires=1768483277&key=s92d_5lTymFSgApMMcB4lw",
+    "url": "https://pdf.ravelrycache.com/AnneVasic/1732766/Southwood_v2.2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770441805&Signature=XzbLK3PR3zSqR%2FjqGJaomoLuSos%3D&key_expires=1770441805&key=Yx58FxsrBo5I03lWP5GeuQ",
     "size_bytes": 990069
   }
 }

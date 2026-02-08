@@ -1,27 +1,35 @@
 {
   "id": 7370892,
-  "name": "Hoshi's sweater",
+  "name": "hoshi's sweater",
   "permalink": "hoshis-sweater",
   "url": "https://www.ravelry.com/patterns/library/hoshis-sweater",
   "external_url": "",
-  "designer_name": "Francesca Caricato",
-  "project_type": "Pet",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Sport",
+  "designer_name": "francesca caricato",
+  "project_type": "pet",
+  "fiber_art": "knitting",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Felted Tweed",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 50.0
+    },
+    {
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 25.0
+    },
+    {
+      "fiber": "Rayon / Viscose (Rayon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch"
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless",
-    "Top-down",
-    "Written"
+    "in the round",
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -29,17 +37,18 @@
   ],
   "published": "2024/09/01",
   "sizes_available": "one",
-  "rating_average": 4.933333333333334,
-  "rating_count": 15,
+  "rating_average": 4.9411764705882355,
+  "rating_count": 17,
   "difficulty_average": 2.0,
-  "favorites_count": 820,
-  "projects_count": 53,
+  "favorites_count": 889,
+  "projects_count": 55,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/32206/952963",
+  "notes": "pets usually don't need your knits but... if it's winter and they have no or little fur, why not?\r\nit's a top down elastic pullover for cats and small dogs.\r\ni used approx 30g of felted tweed and circular needles in magic loop.\r\n\r\nenjoy your knitting!",
   "pdf": {
     "filename": "7370892.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7370892.pdf",
-    "url": "https://pdf.ravelrycache.com/fracar/1890578/Hoshi_s_sweater.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480951&Signature=UlewDcOqaTv2UdZ00%2BWL2ZMx9bQ%3D&key_expires=1768480951&key=PIms9OW-ojWuiX_J0hHFTA",
+    "url": "https://pdf.ravelrycache.com/fracar/1890578/Hoshi_s_sweater.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770429511&Signature=K7tzfaqw9BF1L3MwnUnPz5Dc0FU%3D&key_expires=1770429511&key=b912dMSelQk3XZy4OHbwWg",
     "size_bytes": 277247
   }
 }

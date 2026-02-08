@@ -1,40 +1,41 @@
 {
   "id": 771194,
-  "name": "French Macaroon",
+  "name": "french macaroon",
   "permalink": "french-macaroon-2",
   "url": "https://www.ravelry.com/patterns/library/french-macaroon-2",
   "external_url": "",
-  "designer_name": "Caro in the City",
-  "project_type": "Baby",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "caro in the city",
+  "project_type": "baby",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Ultra Pima",
-      "pct": null
+      "fiber": "Pima (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Seamed",
-    "Three-needle bind-off",
-    "Written"
+    "bottom-up",
+    "seamed",
+    "three-needle bind-off",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.75
   ],
   "published": "2017/09/01",
-  "sizes_available": "Newborn, 3 months, 6-9 months, 12-18 months, 2-3 years, 4 years",
-  "rating_average": 4.5195266272189345,
-  "rating_count": 845,
-  "difficulty_average": 2.3822815533980584,
-  "favorites_count": 31154,
-  "projects_count": 3435,
+  "sizes_available": "newborn, 3 months, 6-9 months, 12-18 months, 2-3 years, 4 years",
+  "rating_average": 4.520612485276796,
+  "rating_count": 849,
+  "difficulty_average": 2.388149939540508,
+  "favorites_count": 31321,
+  "projects_count": 3463,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/60984/413975"
+  "download_url": "http://www.ravelry.com/dls/60984/413975",
+  "notes": "these cute little french macaroon sweaters (or macaron in french) were inspired by the delicious and colorful macaroons my friend bee gave me. they are knit in simple garter stitch. the sweater has a boatneck neckline, with a one button closure in the back to allow easy dressing. each side is knit in one piece, and a three needle bind off is used to secure the shoulders to each other. two little seams on each\r\nside finish up the sweaters.they knit up in no time, and like the delicious sweets they are named after, you might not be able to stop at just one!\r\n\r\nnote: secure the free button placket flap on the inside of the sweater with a whip stitch.\r\n\r\nfor the perfect hat to go with your french macaroon try [tiny tot][1] by kristen rettig.\r\n\r\n\r\n  [1]: https://www.ravelry.com/patterns/library/tiny-tot-2"
 }

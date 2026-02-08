@@ -1,25 +1,25 @@
 {
   "id": 7486497,
-  "name": "Block Bag CAL",
+  "name": "block bag cal",
   "permalink": "block-bag-cal",
   "url": "https://www.ravelry.com/patterns/library/block-bag-cal",
   "external_url": "",
-  "designer_name": "Tanya Naser",
-  "project_type": "Bag",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "tanya naser",
+  "project_type": "bag",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Super Saver (solids)",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     5.0,
@@ -28,18 +28,19 @@
   ],
   "needle_sizes_mm": [],
   "published": "2025/12/01",
-  "sizes_available": "One Size",
+  "sizes_available": "one size",
   "rating_average": 5.0,
   "rating_count": 3,
   "difficulty_average": 1.6666666666666667,
-  "favorites_count": 34,
+  "favorites_count": 43,
   "projects_count": 4,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/27430/1044089",
+  "notes": "the square bag is a simple, modern, and practical crochet project designed to be fun for beginners and satisfying for experienced makers. created during our community crochet along, this bag is built from easy textured squares that come together into a stylish, everyday accessory.\r\n\r\nif you enjoy relaxing, no-pressure projects, you’ll love this one. the construction is straightforward, the stitches are beginner-friendly, and the finished bag is sturdy enough for daily use. make it in one color for a classic look or mix colors for something bold and unique — the design works beautifully both ways.\r\n\r\nfeatures:\r\n\r\n beginner-friendly construction\r\n\r\n modern, wearable design\r\n\r\n easy to customize in size and color\r\n\r\n perfect for showcasing your yarn choices\r\n\r\n❤️ a great first bag project\r\n\r\nwhether you followed along in our cal or you’re discovering it on your own, the square bag is a fun, confidence-building make you’ll love using again and again.\r\n\r\ndon’t forget to add your project to ravelry when you’re done — i’d love to see your version!",
   "pdf": {
     "filename": "7486497.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7486497.pdf",
-    "url": "https://pdf.ravelrycache.com/HodgePodgeCrochet/2105564/HodgePodge_Crochet_Zero_to_Crochet_Hero_12_Stitches_of_Christmas.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479154&Signature=a7w5fmkNwrKtyEYkgNOWGnaELXI%3D&key_expires=1768479154&key=X_3tvHkLk8YInW6jBEKX_w",
+    "url": "https://pdf.ravelrycache.com/HodgePodgeCrochet/2105564/HodgePodge_Crochet_Zero_to_Crochet_Hero_12_Stitches_of_Christmas.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770419283&Signature=SoNHaSWEGmfDBJCZXSEfeaRrIB4%3D&key_expires=1770419283&key=EfHJf094gX0Kuucs8qbc8A",
     "size_bytes": 725581
   }
 }

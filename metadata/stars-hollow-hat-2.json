@@ -1,27 +1,27 @@
 {
   "id": 7369560,
-  "name": "Stars Hollow Hat",
+  "name": "stars hollow hat",
   "permalink": "stars-hollow-hat-2",
   "url": "https://www.ravelry.com/patterns/library/stars-hollow-hat-2",
   "external_url": "",
-  "designer_name": "Unwind Yarn Shop",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "unwind yarn shop",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "SW Merino Bulky",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -32,14 +32,15 @@
   "rating_average": 4.9,
   "rating_count": 10,
   "difficulty_average": 1.7,
-  "favorites_count": 516,
+  "favorites_count": 525,
   "projects_count": 49,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/56194/951926",
+  "notes": "stars hollow hat was inspired by the gilmore girls tv show. this basic hat is perfect to showcase hand dyed yarn. twisted rib sts give the hat a polished look. the pattern is great for novice knitters as well seasoned knitters.\r\n\r\nkeenan hand dyed bulky (106 yds)\r\nsize 10 (6.0 mm) 16\" circulars\r\nbor st marker\r\n10 sts markers (optional, for decreases)\r\n\r\nbeanie: 16\" circumference (unstretched) x 8\" tall to fit an adult head\r\nslouch: 16\" circumference (unstretched) x 9\" tall to fit an adult head\r\n",
   "pdf": {
     "filename": "7369560.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7369560.pdf",
-    "url": "https://pdf.ravelrycache.com/UnwindYarnShop/1888061/Stars_Hollow_Hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483352&Signature=I9hJFDqifWAjiQioipYMTsL56Ik%3D&key_expires=1768483352&key=8n9o8aLRoHuQtBt_2d2lNw",
+    "url": "https://pdf.ravelrycache.com/UnwindYarnShop/1888061/Stars_Hollow_Hat.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770442419&Signature=IvO6JWQg4%2BF2bn19AJmQYPC5EU4%3D&key_expires=1770442419&key=xFhiVjpabENzOyVQx8Tyfg",
     "size_bytes": 299651
   }
 }

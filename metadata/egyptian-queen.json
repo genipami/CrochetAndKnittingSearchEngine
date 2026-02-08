@@ -1,21 +1,25 @@
 {
   "id": 7364229,
-  "name": "Egyptian Queen",
+  "name": "egyptian queen",
   "permalink": "egyptian-queen",
   "url": "https://www.ravelry.com/patterns/library/egyptian-queen",
   "external_url": "",
-  "designer_name": "Linda Pomerenke",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "linda pomerenke",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Mallee",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)"
+    "single crochet (sc)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [],
@@ -23,12 +27,13 @@
     2.25
   ],
   "published": "2024/08/01",
-  "sizes_available": "Small/Medium and Large",
+  "sizes_available": "small/medium and large",
   "rating_average": 4.9655172413793105,
   "rating_count": 29,
   "difficulty_average": 4.96,
-  "favorites_count": 765,
+  "favorites_count": 773,
   "projects_count": 93,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/52787/947807"
+  "download_url": "http://www.ravelry.com/dls/52787/947807",
+  "notes": "this pattern is being offered for the solid socks sept/oct 2024 mkal.  for more information, take a look at the group thread discussions.  \r\n\r\npattern will be available in 4 separate clues as follows:-\r\n\r\nseptember 1 - clue 1 \r\nseptember 8 -   clue 2 \r\nseptember 15 - clue 3   \r\nseptember 22 - clue 4"
 }

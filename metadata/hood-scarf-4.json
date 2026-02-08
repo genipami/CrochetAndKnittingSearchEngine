@@ -1,41 +1,42 @@
 {
   "id": 1369257,
-  "name": "Hood Scarf",
+  "name": "hood scarf",
   "permalink": "hood-scarf-4",
   "url": "https://www.ravelry.com/patterns/library/hood-scarf-4",
   "external_url": "https://www.purlsoho.com/create/2023/10/03/hood-scarf/",
-  "designer_name": "Lili Tobias",
-  "project_type": "Scarf",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Sport",
+  "designer_name": "lili tobias",
+  "project_type": "scarf",
+  "fiber_art": "knitting",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Season Alpaca",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
     "2x2 rib",
-    "Ribbing",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "ribbing",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Short rows",
-    "Written"
+    "bottom-up",
+    "short rows",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.5
   ],
   "published": "2023/10/01",
-  "sizes_available": "Adult X-Small/Small (Adult Medium/Large)",
-  "rating_average": 4.75,
-  "rating_count": 64,
-  "difficulty_average": 2.8620689655172415,
-  "favorites_count": 11999,
-  "projects_count": 399,
+  "sizes_available": "adult x-small/small (adult medium/large)",
+  "rating_average": 4.714285714285714,
+  "rating_count": 70,
+  "difficulty_average": 2.875,
+  "favorites_count": 12520,
+  "projects_count": 426,
   "free_ravelry_download": false,
-  "download_url": "https://www.purlsoho.com/create/2023/10/03/hood-scarf/"
+  "download_url": "https://www.purlsoho.com/create/2023/10/03/hood-scarf/",
+  "notes": "materials\r\n\r\n- 4 (5) skeins of purl soho’s [season alpaca][1], 100% super baby alpaca. each skein is 218 yards/ 100 grams; approximately 775 (905) total yards required. we used true turquoise for one version and river pink (no longer available) for the other.\r\n- us 4 (3.5 mm), 24-inch [circular needles][2]\r\n- a [stitch marker][3]\r\n\r\ngauge\r\n42 stitches and 29 rows = 4 inches in 2 x 2 ribbing, unstretched\r\n\r\nsizes\r\nadult x-small/small (adult medium/large)\r\n\r\nto fit head circumference of 18–22 (22–26) inches\r\n\r\n- finished length of scarf at neck edge: 74 (79½) inches\r\n- finished depth from top of hood to neck edge: 11½ (13¼) inches\r\n- finished width of scarf: 5¾ inches\r\n\r\nsamples: we knit the true turquoise sample in the adult x-small/small size and the river pink sample in the adult medium/large size.\r\n\r\ndesigned for purl soho by [lili tobias][4]. lili spends most of her time knitting, listening to music, or doing both at the same time. she also happens to be our wonderful customer service coordinator!\r\n\r\nall images ©️ copyright purl soho\r\n\r\n\r\n\r\n  [1]: https://www.purlsoho.com/season-alpaca.html\r\n  [2]: https://www.purlsoho.com/tools-and-notions/knitting-and-crochet.html?collection_filter=23796\r\n  [3]: https://www.purlsoho.com/tools-and-notions/knitting-and-crochet.html?collection_filter=964\r\n  [4]: https://www.purlsoho.com/create/tag/lili-tobias-for-purl-soho/"
 }

@@ -1,35 +1,43 @@
 {
   "id": 875634,
-  "name": "Wild Swan",
+  "name": "wild swan",
   "permalink": "wild-swan",
   "url": "https://www.ravelry.com/patterns/library/wild-swan",
   "external_url": "",
-  "designer_name": "Anne-Lise Maigaard & Nim Teasdale",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "anne-lise maigaard & nim teasdale",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Lux High Twist Tencel Base",
-      "pct": null
+      "fiber": "Tencel / Lyocell (Tencel)",
+      "pct": 50.0
     },
     {
-      "fiber": "Merino Bamboo Silk 400",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 32.5
+    },
+    {
+      "fiber": "Bast Bamboo (Bamboo)",
+      "pct": 10.0
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 7.5
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Lace",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "cable",
+    "lace",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Cables",
-    "Charted",
-    "Lace",
-    "Top-down",
-    "Written"
+    "cables",
+    "charted",
+    "lace",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -37,11 +45,12 @@
   ],
   "published": "2018/10/01",
   "sizes_available": "132 - 142 rows",
-  "rating_average": 4.831877729257642,
-  "rating_count": 458,
-  "difficulty_average": 5.976798143851508,
-  "favorites_count": 25728,
-  "projects_count": 1459,
+  "rating_average": 4.832244008714597,
+  "rating_count": 459,
+  "difficulty_average": 5.976851851851852,
+  "favorites_count": 25814,
+  "projects_count": 1462,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/15624/492111"
+  "download_url": "http://www.ravelry.com/dls/15624/492111",
+  "notes": "available in english. charts only. \r\n\r\n**faq**\r\nquestion: why does chart a not line up? i have too many sts.\r\nanswer: remember to print in colour, or mark the repeat in another way. the first rows of chart a is one repeat, so you need to repeat the whole row 4 times.\r\n\r\n....\r\n\r\nthe mkal was run in the gorgeous gradients group from 1 january to 15 february 2019, find the thread [here][1].\r\n\r\n**difficulty**: medium to advanced. charted rs rows only, ws rows are purled except for edge sts and double yo'ers. \r\n\r\n**yarn**: you can use practically any blockable light fingering (or heavy lace weight) yarn. 656 - 766 yards (600-700 m). pattern has been test knit in vivid fiber arts lux (high twist), farbmasche merino/bamboo/silk 400, a handspun bfl/alpaca/silk/angora mix, and several others.\r\n\r\n**beads**: there are several possibilities for adding beads if you wish. some suggestions will be offered, one adding 1300 beads, the other 882 (or both, making 2182 for the die hards!) less will also be possible. you could bead the picot edge, too. if you follow the mkal thread [here][3], you will be able to get more advice on both lighter and heavier beading options if you need it. \r\n\r\n**construction**: the shawl is worked from the neck down and bound off using either a knitted picot bind off or a crochet picot bind off, according to taste. \r\n\r\n**size**: approximately 23 inches (58 cm) deep and 52 inches (132 cm) wing span. as written, the pattern can be ended between row 132 and 142, so final size will depend on where you decide to end, your yarn weight and needle size. \r\n\r\n**needles and hooks**:  size us 4 (3.5 mm) circular needle or the size you need to get a fabric you like. cable needle. spare needle for the cast on and i-cord tab may be useful but is not strictly necessary. crochet hook a size larger than your needle for the bind off (or use a knitted bind off if you don't like crochet).\r\n\r\n**other notions**: stitch markers (also a fair amount of removable ones, unless you're very good at reading your knitting). darning needle. \r\n\r\n---\r\n\r\nnotes from the mkal that others might find useful:\r\n\r\nstitch markers will need shifting on rows 29 & 35 in chart a, then at the start of chart b, c, and d, and then again on row 57 & 63 & 65 in chart d. \r\n\r\nlook up for the yo at the beginning and end of row 53 in chart d!\r\n\r\na new cable symbol is introduced in row 63 which is easy to mistake for a normal cable crossing, it is a decrease! \r\n\r\nand there’s some sneaky yo’ers in the center on row 83 chart d, this is where the center has some other stuff happening that’s different from the repeats.\r\n\r\nwhen taping together printed copies of the larger charts, make sure you align the arrows so you don’t get a double center. you can compare to the complete charts on screen to make sure you got it right. if printing in black and white, take care to double check for coloured sts so you don’t mistake them for no-stitches and vice versa.\r\n\r\naccording to rumour, row 111 also has a sneaky yo beginning a new feather.\r\n\r\nthen, after chugging merrily along in chart e with all those decrease cables, a regular 2 stitch cable sneaks in on row 117.\r\n\r\n\r\n  [1]: https://www.ravelry.com/discuss/gorgeous-gradients/topics/3870089\r\n  [2]: https://www.ravelry.com/discuss/gorgeous-gradients/3869050/1-25\r\n  [3]: https://www.ravelry.com/discuss/gorgeous-gradients/topics/3870089"
 }

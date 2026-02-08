@@ -1,44 +1,45 @@
 {
   "id": 296475,
-  "name": "My Knitted Heart Vanilla Socks",
+  "name": "my knitted heart vanilla socks",
   "permalink": "my-knitted-heart-vanilla-socks",
   "url": "https://www.ravelry.com/patterns/library/my-knitted-heart-vanilla-socks",
   "external_url": "",
-  "designer_name": "Elizabeth Suarez",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "elizabeth suarez",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [],
   "stitches_used": [
-    "Ribbing",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "ribbing",
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless",
-    "Short rows",
-    "Top-down",
-    "Written"
+    "in the round",
+    "seamless",
+    "short rows",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.25
   ],
   "published": "2012/01/01",
-  "sizes_available": "Small (Medium, Large, X-Large)",
-  "rating_average": 4.732522796352583,
-  "rating_count": 329,
-  "difficulty_average": 2.2658227848101267,
-  "favorites_count": 3971,
-  "projects_count": 1855,
+  "sizes_available": "small (medium, large, x-large)",
+  "rating_average": 4.733333333333333,
+  "rating_count": 330,
+  "difficulty_average": 2.2681388012618298,
+  "favorites_count": 3986,
+  "projects_count": 1866,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/10847/90854",
+  "notes": "this is a simple straightforward pattern for my favorite top-down with a heel flap vanilla socks.  these socks are knit in stockinette with a little ribbing at the sides.  the ribbing at the sides keeps these socks fitting, and not slouching.\r\n\r\n**yarn:** \r\n100 grams of any fingering weight yarn\r\n(note: x-large may require slightly more yarn than average 100 grams)\r\n\r\n**needles:**\r\nus 1 (2.25 mm) or any size needle that will give you the correct gauge\r\n\r\n**gauge:**\r\n16 sts = 2\" using us 1 (2.25mm) needles\r\n\r\n**materials:**\r\nstitch markers\r\ntapestry needle for weaving in ends\r\nscrap yarn for holding stitches \r\n\r\nthanks for looking!\r\n\r\nxoxo,\r\nliz\r\n\r\n",
   "pdf": {
     "filename": "296475.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\296475.pdf",
-    "url": "https://pdf.ravelrycache.com/myknittedheart/256361/MKH_Vanilla_Socks_2013_2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482006&Signature=by%2BFz7d17%2BdfeLBVtySZwReBS1k%3D&key_expires=1768482006&key=s69lWvZfFNMQePwShKBwrg",
+    "url": "https://pdf.ravelrycache.com/myknittedheart/256361/MKH_Vanilla_Socks_2013_2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770435056&Signature=0UWAs7LDZK5meoKPM2Cum9Jfmyk%3D&key_expires=1770435056&key=udIsrWr5VELkdnoAcU3sBA",
     "size_bytes": 289385
   }
 }

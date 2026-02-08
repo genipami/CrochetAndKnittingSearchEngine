@@ -1,35 +1,35 @@
 {
   "id": 1104546,
-  "name": "Helianthus Annuus",
+  "name": "helianthus annuus",
   "permalink": "helianthus-annuus",
   "url": "https://www.ravelry.com/patterns/library/helianthus-annuus",
   "external_url": "",
-  "designer_name": "Agnieszka Markowska-Jędra",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Fingering",
+  "designer_name": "agnieszka markowska-jędra",
+  "project_type": "shawl/wrap",
+  "fiber_art": "crochet",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Cotton/Acrylic 4ply",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 61.7
     },
     {
-      "fiber": "Merino/Acrylic 3ply",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 24.1
     },
     {
-      "fiber": "Shine Cotton/Acrylic 3ply",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 12.5
     },
     {
-      "fiber": "Soft Acrylic 3ply",
-      "pct": null
+      "fiber": "Metallic (Metallic)",
+      "pct": 1.8
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "Charted",
-    "Top-down"
+    "charted",
+    "top-down"
   ],
   "hook_sizes_mm": [
     2.5,
@@ -43,14 +43,15 @@
   "rating_average": 4.909090909090909,
   "rating_count": 33,
   "difficulty_average": 3.303030303030303,
-  "favorites_count": 3004,
-  "projects_count": 103,
+  "favorites_count": 3039,
+  "projects_count": 104,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/80888/668972",
+  "notes": "technikalia odnośnie chusty ze zdjęć:\r\n\r\n* włóczka: kokonek 50% bawełna, 50% akryl\r\n* 1650 m\r\n* 3 nitki\r\n* szydełko 2,5 mm\r\n* wymiary: 145x65 cm\r\n\r\nta chusta może na początku układać się w pełne koło. ale później będzie mieć kształt jak na zdjęciach.\r\n\r\n------------\r\n\r\nabout the shawl in the pictures:\r\n\r\n* yarn: kokonek 50% cotton, 50% acrylic\r\n* 1650 m\r\n* 3 ply\r\n* hook size: 2,5 mm\r\n* shawl size: 145x65 cm\r\n\r\nin the beginning this shawl may look like a full circle. but later it will take shape as in the pictures. ",
   "pdf": {
     "filename": "1104546.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1104546.pdf",
-    "url": "https://pdf.ravelrycache.com/loginubrak/1324915/Helianthus_annuus.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480828&Signature=itc6OyvANNWRBhHtC8L7mtkNKgw%3D&key_expires=1768480828&key=BNahP8K4Wt2EhpyDS4VQhQ",
+    "url": "https://pdf.ravelrycache.com/loginubrak/1324915/Helianthus_annuus.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770428935&Signature=Q68rFRSjp45HYGCTpv%2BhoDXtixw%3D&key_expires=1770428935&key=s3628qhtzDx-B6Kekn7Itg",
     "size_bytes": 1949784
   }
 }

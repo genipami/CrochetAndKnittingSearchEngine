@@ -1,43 +1,44 @@
 {
   "id": 1369067,
-  "name": "Holiday Frost Snowflakes",
+  "name": "holiday frost snowflakes",
   "permalink": "holiday-frost-snowflakes",
   "url": "https://www.ravelry.com/patterns/library/holiday-frost-snowflakes",
   "external_url": "https://blueskyfibers.com/",
-  "designer_name": "Bobbi IntVeld",
-  "project_type": "Home",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "bobbi intveld",
+  "project_type": "home",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Woolstok Bundle",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     4.0
   ],
   "published": "2023/10/01",
-  "sizes_available": "One",
+  "sizes_available": "one",
   "rating_average": 4.826086956521739,
   "rating_count": 23,
   "difficulty_average": 3.5,
-  "favorites_count": 5388,
-  "projects_count": 115,
+  "favorites_count": 5423,
+  "projects_count": 118,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/8201/881811",
+  "notes": "add joy to your holidays with these beautiful knit snowflakes. three festive designs to pick from and each one takes only one mini.\r\n\r\nexperience level\r\n\r\n* advanced beginner\r\n\r\nmaterials\r\n\r\n* woolstok (worsted) bundle (100% fine highland wool, 21 mini hanks; 5g/12yds): 1 bundle (holiday frost)\r\n* tapestry needle\r\n\r\nfinished dimensions\r\n\r\n* snowflake 1: 4½”\r\n* snowflake 2: 5¼”\r\n* snowflake 3: 5”\r\n\r\ncolor shown\r\n\r\n* storm cloud no. 1301\r\n* thermal spring no. 1318\r\n* october sky no. 1305\r\n* spring ice no. 1320\r\n* drift wood no. 1312\r\n* highland fleece no. 1303\r\n* grey harbor no. 1304",
   "pdf": {
     "filename": "1369067.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1369067.pdf",
-    "url": "https://pdf.ravelrycache.com/BlueSkyFibers/1725225/BSF_Comp_HolidayFrostSnowflakes_WEB.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480929&Signature=ohMR0Dnzzv38iGYrlNhBpeIik4k%3D&key_expires=1768480929&key=O8Qa4lubAbq-VIJMSfcIng",
+    "url": "https://pdf.ravelrycache.com/BlueSkyFibers/1725225/BSF_Comp_HolidayFrostSnowflakes_WEB.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770429310&Signature=2pBsuTaMW%2Bq3iwHyVw9vf6D3Dlg%3D&key_expires=1770429310&key=mumdts6k6qET5s6PLYDD9Q",
     "size_bytes": 2314972
   }
 }

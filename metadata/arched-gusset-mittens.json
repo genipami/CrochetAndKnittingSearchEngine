@@ -1,45 +1,50 @@
 {
   "id": 564555,
-  "name": "Arched Gusset Mittens",
+  "name": "arched gusset mittens",
   "permalink": "arched-gusset-mittens",
   "url": "https://www.ravelry.com/patterns/library/arched-gusset-mittens",
   "external_url": "https://www.purlsoho.com/create/2022/09/16/arched-gusset-mittens-in-knitting-yarn/",
-  "designer_name": "Purl Soho",
-  "project_type": "Mittens/Gloves",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "purl soho",
+  "project_type": "mittens/gloves",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Flax Down",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 71.0
     },
     {
-      "fiber": "Knitting Yarn DK",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 21.5
+    },
+    {
+      "fiber": "Flax (Linen)",
+      "pct": 7.5
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.75
   ],
   "published": "2015/03/01",
-  "sizes_available": "Kid (Adult Small, Adult Medium, Adult Large, Adult X-Large)",
-  "rating_average": 4.675496688741722,
-  "rating_count": 604,
-  "difficulty_average": 2.5008576329331045,
-  "favorites_count": 24013,
-  "projects_count": 2964,
+  "sizes_available": "kid (adult small, adult medium, adult large, adult x-large)",
+  "rating_average": 4.682258064516129,
+  "rating_count": 620,
+  "difficulty_average": 2.5008347245409017,
+  "favorites_count": 24816,
+  "projects_count": 3060,
   "free_ravelry_download": false,
-  "download_url": "https://www.purlsoho.com/create/2022/09/16/arched-gusset-mittens-in-knitting-yarn/"
+  "download_url": "https://www.purlsoho.com/create/2022/09/16/arched-gusset-mittens-in-knitting-yarn/",
+  "notes": "materials\r\n\r\n- 1 ball of purl soho’s [knitting yarn dk][1], 100% merino wool. each ball is 219 yards/ 100 grams; approximately 100 (125, 140, 180, 205) yards required. we used the colors soft sky, flax flower blue, and blue whale.\r\n- a set of us 5 (3.75 mm) [double pointed needles][2] or us 5, 32-inch [circular knitting needles][3] for magic loop\r\n- [stitch markers][4], including one unique\r\n- [stitch holder][5] or scrap yarn\r\n\r\n(note: this pattern was originally knit using 1 skein of purl soho's [flax down][6] and us 4 (3.5 mm) needles, and featured fewer sizes. click [here][7] for more on this version.)\r\n\r\ngauge\r\n22 stitches and 28 rows = 4 inches in stockinette stitch\r\n\r\nsizes\r\nkid (adult small, adult medium, adult large, adult x-large)\r\n\r\n- finished circumference at palm: 5¾ (6½,7¼, 8, 8¾) inches, comfortably stretching 2 inches\r\n- finished length from cuff to tip: 8½ (9¾, 10¼, 11½, 12¼) inches, with instructions to modify\r\n\r\nsamples: the soft sky mittens are kid size, the flax flower blue mittens are adult small, and the blue whale mittens are adult medium. the original flax down samples are kid size in yellow yellow and an adult medium in heirloom white.\r\n\r\n\r\n  [1]: https://www.purlsoho.com/knitting-yarn-dk.html\r\n  [2]: https://www.purlsoho.com/tools-and-notions/collection_filter--double_pointed_needles.html\r\n  [3]: https://www.purlsoho.com/tools-and-notions/collection_filter--circular_needles.html\r\n  [4]: https://www.purlsoho.com/tools-and-notions/collection_filter--stitch_markers.html\r\n  [5]: https://www.purlsoho.com/tools-and-notions/collection_filter--stitch_holders.html\r\n  [6]: https://www.purlsoho.com/flax-down/\r\n  [7]: https://www.purlsoho.com/create/2015/03/09/arched-gusset-mittens/"
 }

@@ -1,39 +1,47 @@
 {
   "id": 7482206,
-  "name": "Wolfie's Mitts",
+  "name": "wolfie's mitts",
   "permalink": "wolfies-mitts",
   "url": "https://www.ravelry.com/patterns/library/wolfies-mitts",
   "external_url": "",
-  "designer_name": "Grace Anne Knits",
-  "project_type": "Mittens/Gloves",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Any gauge - designed for any gauge",
+  "designer_name": "grace anne knits",
+  "project_type": "mittens/gloves",
+  "fiber_art": "knitting",
+  "yarn_weight": "any gauge - designed for any gauge",
   "materials": [
     {
-      "fiber": "Capra DK",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 51.7
     },
     {
-      "fiber": "Gloss DK",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 16.7
     },
     {
-      "fiber": "Highland Alpaca Fino",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 16.7
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 10.0
+    },
+    {
+      "fiber": "Cashmere goat (Cashmere)",
+      "pct": 5.0
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "lace",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Charted",
-    "In the round",
-    "Lace",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "charted",
+    "in the round",
+    "lace",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -42,18 +50,19 @@
     4.0
   ],
   "published": "2025/11/01",
-  "sizes_available": "Tiny, Smallish, Larger",
+  "sizes_available": "tiny, smallish, larger",
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 366,
+  "favorites_count": 378,
   "projects_count": 8,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/110099/1040469",
+  "notes": " inspired by the movie amadeus, these are ***wolfie’s mitts.***                   \r\n\r\nthat unforgettable, iconic, infectious laugh. \r\nwolfie was ever joyful, elegant, flamboyant, over-the-top, and glamorous as all get out. these mitts are reminiscent of beautiful velvet and brocade coats with ruffled edges of sleeves peeking out from beneath. \r\n\r\nwolfie's mitts are sized for tiny, smallish, and larger hands using heavier yarn and larger needles.\r\nfor each of the three sizes, a lighter weight yarn is recommended for the ruffle.\r\ninstructions are also included for a shorter gauntlet.\r\n\r\nthe lace pattern is rhythmic, intuitive, easy to memorize, and is both written and charted. \r\nthe pattern is written for magic loop but can easily be adapted for dpns. \r\n\r\nwolfie's mitts have been test knit.\r\n\r\nin lieu of paying a fee for this pattern, please consider making a donation to **world central kitchen**. since 2010, world central kitchen has been providing meals to communities affected by conflict, natural disasters, and climate crisis all over the world. **https://wck.org**                                              ",
   "pdf": {
     "filename": "7482206.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7482206.pdf",
-    "url": "https://pdf.ravelrycache.com/gracieanne/2095995/Wolfies_Mitts_-_Pattern_REVISED.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484191&Signature=FyvXxeAVjRk5oCdleVJ6ogvTJEw%3D&key_expires=1768484191&key=Gn9sCdZtO9efEjgxTntL_w",
+    "url": "https://pdf.ravelrycache.com/gracieanne/2095995/Wolfies_Mitts_-_Pattern_REVISED.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770447152&Signature=h4lU6no71P2JEYJpQd42P9NBqXI%3D&key_expires=1770447152&key=joSnzTQQ5pB8Xg3d0gFP1A",
     "size_bytes": 893041
   }
 }

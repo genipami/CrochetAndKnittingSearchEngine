@@ -1,31 +1,35 @@
 {
   "id": 669598,
-  "name": "Lacy Pineapple Shawl",
+  "name": "lacy pineapple shawl",
   "permalink": "lacy-pineapple-shawl",
   "url": "https://www.ravelry.com/patterns/library/lacy-pineapple-shawl",
   "external_url": "https://www.yarnspirations.com/red-heart-lacy-pineapple-shawl/RHC0126-017366M.html",
-  "designer_name": "Marly Bird",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Fingering",
+  "designer_name": "marly bird",
+  "project_type": "shawl/wrap",
+  "fiber_art": "crochet",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Heart & Sole",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 73.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 27.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Lace",
-    "Shell",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "lace",
+    "shell",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Lace",
-    "Seamless",
-    "Written"
+    "charted",
+    "lace",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [
     3.75
@@ -36,8 +40,9 @@
   "rating_average": 4.658823529411765,
   "rating_count": 85,
   "difficulty_average": 3.130952380952381,
-  "favorites_count": 5616,
-  "projects_count": 341,
+  "favorites_count": 5648,
+  "projects_count": 343,
   "free_ravelry_download": false,
-  "download_url": "https://www.yarnspirations.com/on/demandware.static/-/Sites-master-catalog-spinrite/default/dw38f88499/PDF/RHC0126-017366M.pdf"
+  "download_url": "https://www.yarnspirations.com/on/demandware.static/-/Sites-master-catalog-spinrite/default/dw38f88499/PDF/RHC0126-017366M.pdf",
+  "notes": "lightweight and lacy, this beautiful pineapple pattern is perfect any time of the day. wear it as a shawl or wrap it around your neck for scarf-like warmth.\r\n\r\ntwo other versions also available. \r\n\r\nlacy pineapple shawl is purple and is the main link \r\n[lacy blues pineapple shawl][1] is blue\r\n[pineapple lace shawl][2] is grey\r\n\r\n**free video tutorial** by marly bird: https://youtu.be/y0plaem5thi**\r\n\r\nlacy pineapple shawl and pineapple lace shawl are both 68” (173 cm) across and 34” (86 cm) in length at center. lacy blues pineapple shawl is 58” (147 cm) across and 26” (66 cm) in length at center.\r\n\r\nall three shawls are the same pattern. the size of the shawl is changed based on the number of pattern repeats.\r\n\r\nthe chart includes the first repeat of rows 7-9 (10-12) so the chart reader can see the repeat begin on the same side of the pattern. if following the chart, after row 12 (which would be two full row repeats) begin row 7  again. \r\n\r\n**gauge:** rows 1-10 = 13 x 8½” (33 x 21.5 cm) check your gauge. use any size hook to obtain your gauge.\r\n\r\n**errata: row 4 should have (dc, ch 3) instead of sc.**\r\n*row 4: slip st in each of first 2 dc and in first ch-2 space, beg shell, * ch 3, skip next ch-3 space, (**dc** , ch 3) 5 times in next ch-3 space, skip next ch-3 space, shell in next ch-3 space; repeat from * once more, turn.*\r\n\r\n  [1]: http://www.redheart.com/free-patterns/lacy-blues-pineapple-shawl\r\n  [2]: http://www.redheart.com/free-patterns/pineapple-lace-shawl"
 }

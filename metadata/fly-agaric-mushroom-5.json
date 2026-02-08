@@ -1,34 +1,26 @@
 {
   "id": 7311488,
-  "name": "Fly Agaric Mushroom",
+  "name": "fly agaric mushroom",
   "permalink": "fly-agaric-mushroom-5",
   "url": "https://www.ravelry.com/patterns/library/fly-agaric-mushroom-5",
   "external_url": "",
-  "designer_name": "Alex Evan",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Fingering",
+  "designer_name": "alex evan",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Catania Solids",
-      "pct": null
-    },
-    {
-      "fiber": "Catona",
-      "pct": null
-    },
-    {
-      "fiber": "Must Have",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     2.25
@@ -39,14 +31,15 @@
   "rating_average": 5.0,
   "rating_count": 9,
   "difficulty_average": 2.375,
-  "favorites_count": 1742,
-  "projects_count": 27,
+  "favorites_count": 1769,
+  "projects_count": 28,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/104137/906737",
+  "notes": "written pattern for a small fly agaric mushroom. perfect size for a christmas tree decoration or a key ring.\r\n\r\nintermediate level.\r\n\r\nmaterials needed:\r\n•\t4ply cotton yarn in beige, red and white (or substitute)\r\n•\t2.25 mm hook (or size to match substitute yarn)\r\n•\tyarn needle \r\n•\tstuffing \r\n\r\nstitches used:\r\n•\tsingle crochet \r\n•\tincrease \r\n•\tinvisible decrease  \r\n•\twhip stitch \r\n•\tfrench knots\r\n\r\nhow to use this pattern: \r\nthis pattern uses us terms and is worked in the round. ",
   "pdf": {
     "filename": "7311488.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7311488.pdf",
-    "url": "https://pdf.ravelrycache.com/AlexCrochets96/2016698/Mini_Fly_Agaric_Mushroom_Pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480465&Signature=UTzbuHo5f51tFo2m39pd1ZGF9Gs%3D&key_expires=1768480465&key=x5a1UhS91k2A2BeHtF1tsQ",
+    "url": "https://pdf.ravelrycache.com/AlexCrochets96/2016698/Mini_Fly_Agaric_Mushroom_Pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770426533&Signature=xotQmLnvUAxpZ1vqKoSh6oTcAEg%3D&key_expires=1770426533&key=14scwkMnD6AC1Orl0QCeqw",
     "size_bytes": 211620
   }
 }

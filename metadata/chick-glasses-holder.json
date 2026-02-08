@@ -1,27 +1,23 @@
 {
   "id": 7411895,
-  "name": "Chick Glasses Holder",
+  "name": "chick glasses holder",
   "permalink": "chick-glasses-holder",
   "url": "https://www.ravelry.com/patterns/library/chick-glasses-holder",
   "external_url": "https://www.stitchbyfay.com/crochet-glasses-holder-pattern/",
-  "designer_name": "Fay Lyth",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "fay lyth",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Simply Aran",
-      "pct": null
-    },
-    {
-      "fiber": "Spot Saver USA Style",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     3.5,
@@ -33,8 +29,9 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 427,
+  "favorites_count": 444,
   "projects_count": 13,
   "free_ravelry_download": false,
-  "download_url": "https://www.stitchbyfay.com/crochet-glasses-holder-pattern/"
+  "download_url": "https://www.stitchbyfay.com/crochet-glasses-holder-pattern/",
+  "notes": ""
 }

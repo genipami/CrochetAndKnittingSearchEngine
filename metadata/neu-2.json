@@ -1,29 +1,33 @@
 {
   "id": 7487635,
-  "name": "Nèu",
+  "name": "nèu",
   "permalink": "neu-2",
   "url": "https://www.ravelry.com/patterns/library/neu-2",
   "external_url": "",
-  "designer_name": "L'Atelier des Glénettes",
-  "project_type": "Home",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "l'atelier des glénettes",
+  "project_type": "home",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "DROPS Nepal",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 65.0
+    },
+    {
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 35.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -35,8 +39,9 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 42,
+  "favorites_count": 44,
   "projects_count": 3,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/12228/1045038"
+  "download_url": "http://www.ravelry.com/dls/12228/1045038",
+  "notes": "**nèu** is my new pattern for christmas decoration. and like the previous ones, it's free – it's my early christmas present to you!\r\n\r\nnèu is a plump yet elegant snowman (‘nèu’ means snow in occitan),  with scarf and hat.\r\n\r\nthe snowman is worked in felting aran yarn (i used [drops nepal](/yarns/library/garnstudio-drops-nepal) with 6 mm / us# 10 needles.\r\nafter felting, it is stuffed.\r\nthen we work him a scarf and hat in fingering yarn.\r\n\r\nyou will need:\r\n\r\n* 50/90/120 meters / 55/100/130 yards of aran felting yarn (pattern sample in drops nepal).\r\n* 30/40/50 meters / 35/45/55 yards of fingering yarn (for the scarf and the hat), and a bit of black thread (for the eyes). \r\n* stuffing.\r\n\r\n**********************************************\r\n\r\n**nèu** est mon nouveau modèle de décoration de noël. et comme les précédents, il est gratuit - c'est mon cadeau pour vous un peu en avance !\r\n\r\nnèu est un bonhomme de neige (\"nèu\" veut dire neige en occitan) dodu et néanmoins élégant, avec son écharpe et son bonnet.\r\n\r\nle bonhomme de neige est tricoté en fil aran feutrable (j'ai utilisé le fil [drops nepal](/yarns/library/garnstudio-drops-nepal) avec des aiguilles 6 mm.\r\naprès feutrage, il est rembourré.\r\npuis on lui tricote une écharpe et un bonnet en fil fingering.\r\n\r\nnèu est proposé en trois tailles: petit, moyen et grand.\r\nil mesure environ 13/18/26 cm de haut.\r\n\r\nil vous faudra :\r\n\r\n* 50/90/120 mètres de fil aran feutrable (ici népal de drops). \r\n* 30/40/50 mètres de fil fingering (pour l’écharpe et le bonnet), et un peu de fil noir (pour les yeux).\r\n* du rembourrage.\r\n\r\n"
 }

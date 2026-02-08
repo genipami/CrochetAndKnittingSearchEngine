@@ -1,29 +1,33 @@
 {
   "id": 7320182,
-  "name": "Kazul",
+  "name": "kazul",
   "permalink": "kazul",
   "url": "https://www.ravelry.com/patterns/library/kazul",
   "external_url": "",
-  "designer_name": "Becky Greene",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "becky greene",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Achilles",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "lace",
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Lace",
-    "Written"
+    "charted",
+    "lace",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -34,8 +38,9 @@
   "rating_average": 4.793103448275862,
   "rating_count": 29,
   "difficulty_average": 3.689655172413793,
-  "favorites_count": 702,
+  "favorites_count": 708,
   "projects_count": 104,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/15372/913326"
+  "download_url": "http://www.ravelry.com/dls/15372/913326",
+  "notes": "the very first mystery sock i ever designed was for the solid socks group on ravelry. it was inspired by cimorene, the tough and no-nonsense princess in the enchanted forest series of books by patricia wrede.  her faithful companion through these books was a dragon named kazul. i dearly love dragon stories and have always wanted to design a pattern inspired by kazul, and now was the right time for it.\r\n\r\nthis mystery kal will take place during march 2024 in the  [solid socks group ][1] here on ravelry.\r\n\r\nparts will be released on: march 1, march 8, march 15, and march 22\r\n\r\n\r\n**yarn:** fingering weight sock yarn, 440 yds/100 gms\r\n\r\n**needles:** 2.75 mm (us size 2), or size to give gauge\r\n\r\n**gauge:** 8 sts = 1”, 11 rows = 1”\r\n\r\n**sizes:** 7. (8, 9, 10) inch circumference\r\n\r\n\r\nnote: this pattern uses an average amount of sock yarn; if you are an addicted sock knitter, you know what works for you! for everyone else, unless you are knitting socks with a very long foot, one skein (100 gms) of sock yarn will be sufficient.\r\n\r\n\r\n  [1]: https://www.ravelry.com/discuss/solidsocks/4301963/1-25#4"
 }

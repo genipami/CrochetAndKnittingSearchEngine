@@ -1,42 +1,43 @@
 {
   "id": 7373855,
-  "name": "Bee Kind Washcloth",
+  "name": "bee kind washcloth",
   "permalink": "bee-kind-washcloth",
   "url": "https://www.ravelry.com/patterns/library/bee-kind-washcloth",
   "external_url": "",
-  "designer_name": "ADK- Deb",
-  "project_type": "Dishcloth",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "adk- deb",
+  "project_type": "dishcloth",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "I Love This Cotton!",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch"
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     4.5
   ],
   "published": "2024/10/01",
-  "sizes_available": "One size",
+  "sizes_available": "one size",
   "rating_average": 4.777777777777778,
   "rating_count": 9,
   "difficulty_average": 2.111111111111111,
-  "favorites_count": 365,
+  "favorites_count": 383,
   "projects_count": 30,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/79333/955561",
+  "notes": "the world needs more kindness. with that goal in mind, i am making this a free pattern. i would appreciate your linking your project to the pattern if you use it so that i can watch the  kindness spread.\r\n\r\nthis was originally designed for the september  2024 mkal for the [mystery 220 (more or less)](/groups/mystery-220-more-or-less) group. the final version is slightly different from the version used for the mystery knit. \r\n\r\nthe pattern can be used to knit  a washcloth, table topper or blanket square. size and the amount of yarn will vary, depending on yarn used. ",
   "pdf": {
     "filename": "7373855.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7373855.pdf",
-    "url": "https://pdf.ravelrycache.com/ADK-Deb/1896514/Bee_Kind_Washcloth.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479055&Signature=7Lr9wcRfMPIUdch8F9U7clKC29M%3D&key_expires=1768479055&key=5FMp6sKJVQx7bCqJilLOMg",
+    "url": "https://pdf.ravelrycache.com/ADK-Deb/1896514/Bee_Kind_Washcloth.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770418690&Signature=hlRKZhqpJqaSZ8ASfCAgzA7KMtY%3D&key_expires=1770418690&key=1KtAnPbkznyFpDwKqEXEgg",
     "size_bytes": 19950454
   }
 }

@@ -1,47 +1,48 @@
 {
   "id": 7407088,
-  "name": "Cotton Placemats",
+  "name": "cotton placemats",
   "permalink": "cotton-placemats",
   "url": "https://www.ravelry.com/patterns/library/cotton-placemats",
   "external_url": "",
-  "designer_name": "Zoey Friend",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "zoey friend",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Cotton Aran",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Lace",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "lace",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Lace",
-    "Written"
+    "in the round",
+    "lace",
+    "written"
   ],
   "hook_sizes_mm": [
     5.5
   ],
   "needle_sizes_mm": [],
   "published": "2025/02/01",
-  "sizes_available": "One size",
+  "sizes_available": "one size",
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 323,
+  "favorites_count": 348,
   "projects_count": 19,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/53960/982559",
+  "notes": "this pattern is for a cotton placemat for a cute table setting. each placemat uses just under one ball of paintbox aran cotton.\r\n\r\nif your tension is tight, you might like to use a 6mm hook. \r\n\r\nthe pattern is crocheted in the round, in a spiral fashion so you do not need to join each round.\r\n\r\nthe pattern requires use of a magic ring to begin, double crochets and single crochets. a stitch marker is useful to keep track of the beginning of your round.",
   "pdf": {
     "filename": "7407088.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7407088.pdf",
-    "url": "https://pdf.ravelrycache.com/Zoeyjoyful/1959025/Cotton_Placemats.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479698&Signature=fODy2dTTnIFk8v1y1wkMlt6o6lU%3D&key_expires=1768479698&key=vRhrkcqp_pvhx9L-f550aQ",
+    "url": "https://pdf.ravelrycache.com/Zoeyjoyful/1959025/Cotton_Placemats.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770422301&Signature=x%2BmP0vtX2Tdl3RsdfxiT8AsdtCM%3D&key_expires=1770422301&key=mY0kuSyUZyDOZOGok6Ca7A",
     "size_bytes": 3367842
   }
 }

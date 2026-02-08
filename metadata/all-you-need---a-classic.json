@@ -1,85 +1,49 @@
 {
   "id": 250344,
-  "name": "All You Need - A Classic",
+  "name": "all you need - a classic",
   "permalink": "all-you-need---a-classic",
   "url": "https://www.ravelry.com/patterns/library/all-you-need---a-classic",
   "external_url": "",
-  "designer_name": "LondonLeo",
-  "project_type": "Home",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "londonleo",
+  "project_type": "home",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "220 Superwash®",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 56.7
     },
     {
-      "fiber": "220 Superwash® Aran",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 37.1
     },
     {
-      "fiber": "Cascade 220®",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 2.3
     },
     {
-      "fiber": "Cascade 220® Heathers",
-      "pct": null
+      "fiber": "Microfiber (Microfiber)",
+      "pct": 2.2
     },
     {
-      "fiber": "Classic Wool Worsted",
-      "pct": null
+      "fiber": "Angora (Angora)",
+      "pct": 1.0
     },
     {
-      "fiber": "DROPS Karisma",
-      "pct": null
-    },
-    {
-      "fiber": "DROPS Merino Extra Fine",
-      "pct": null
-    },
-    {
-      "fiber": "DROPS Nepal",
-      "pct": null
-    },
-    {
-      "fiber": "Donegal Luxury Tweed Aran w/Angora",
-      "pct": null
-    },
-    {
-      "fiber": "Extra Soft Merino Fino",
-      "pct": null
-    },
-    {
-      "fiber": "Full o' Sheep",
-      "pct": null
-    },
-    {
-      "fiber": "Merino DK",
-      "pct": null
-    },
-    {
-      "fiber": "RYC Cashsoft Aran",
-      "pct": null
-    },
-    {
-      "fiber": "Swish DK",
-      "pct": null
-    },
-    {
-      "fiber": "Wool of the Andes Worsted",
-      "pct": null
+      "fiber": "Cashmere goat (Cashmere)",
+      "pct": 0.7
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Seamless",
-    "Top-down",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -87,12 +51,13 @@
     5.0
   ],
   "published": "2011/06/01",
-  "sizes_available": "Standard Fashy ~ 20cm (8in) / 33cm (13in)",
-  "rating_average": 4.8049382716049385,
-  "rating_count": 405,
+  "sizes_available": "standard fashy ~ 20cm (8in) / 33cm (13in)",
+  "rating_average": 4.805418719211823,
+  "rating_count": 406,
   "difficulty_average": 2.0381679389312977,
-  "favorites_count": 9535,
-  "projects_count": 1634,
+  "favorites_count": 9624,
+  "projects_count": 1647,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/12792/68406"
+  "download_url": "http://www.ravelry.com/dls/12792/68406",
+  "notes": "this pattern is for a classic hot water bottle cosy, knit in stocking stitch and finished with an elastic collar in rib. \r\n\r\n- seamless \r\n- bottom up \r\n- in the round\r\n \r\nthe pattern easily can be adjusted to any gauge, as well as being knit top down or flat if needed.\r\n\r\nslide the cover over the bottle at anytime to check and adjust the fit if necessary.  \r\n____________________________\r\n\r\n**pdfs**\r\nthe pattern comes with directions for dk and aran weight. \r\n\r\n**recipe** \r\nif the design requires accurate preparation, please check out the recipe. the recipe includes directions for any dimension and gauge. \r\n____________________________\r\n\r\n**needles**\r\nlong ciruclar needle (magic loop), lenght 80 cm/ 32\" or matching set of double pointed needles\r\n\r\n**gauge**\r\nsquare of 10cm / 4\", stocking stitch\r\n\r\n**dk** \r\nneedle size - 4 mm/ 6 us\r\ngauge - 22 sts/ 32 rows \r\nyardage - ~180 m/190 yds\r\n\r\n**aran**\r\nneedle size - 5 mm/ 8 us\r\ngauge - 18 sts/ 26 rows \r\nyardage ~180 m/190 yds\r\n"
 }

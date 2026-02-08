@@ -1,19 +1,19 @@
 {
   "id": 7485118,
-  "name": "Gwiazdor",
+  "name": "gwiazdor",
   "permalink": "gwiazdor",
   "url": "https://www.ravelry.com/patterns/library/gwiazdor",
   "external_url": "",
-  "designer_name": "Agnieszka Łopata",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
+  "designer_name": "agnieszka łopata",
+  "project_type": "home",
+  "fiber_art": "crochet",
   "yarn_weight": null,
   "materials": [],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted"
+    "charted"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [],
@@ -26,10 +26,11 @@
   "projects_count": 3,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/89191/1042979",
+  "notes": "the instructions include a diagram for making a santa claus and a simple christmas tree. both items can be made with cord or yarn.",
   "pdf": {
     "filename": "7485118.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7485118.pdf",
-    "url": "https://pdf.ravelrycache.com/agalopata/2101791/Gwiazdor.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480736&Signature=tvjb5aJfI6I08L%2Bv%2BTcQNKN9dWI%3D&key_expires=1768480736&key=fvKfO5pHj-YXHkwJFZfGww",
+    "url": "https://pdf.ravelrycache.com/agalopata/2101791/Gwiazdor.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770428308&Signature=h8UQl24jkD9wyCzxFZuCri8LhMc%3D&key_expires=1770428308&key=vXWeI0rcyzCM73dvgpe2UQ",
     "size_bytes": 2487422
   }
 }

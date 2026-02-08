@@ -1,46 +1,47 @@
 {
   "id": 7463946,
-  "name": "Blood Spatter Choker",
+  "name": "blood spatter choker",
   "permalink": "blood-spatter-choker",
   "url": "https://www.ravelry.com/patterns/library/blood-spatter-choker",
   "external_url": "",
-  "designer_name": "Dani West",
-  "project_type": "Other",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "dani west",
+  "project_type": "other",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Premium",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Half double crochet (hdc)",
-    "Single crochet (sc)",
-    "Slip stitch (sl st)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "half double crochet (hdc)",
+    "single crochet (sc)",
+    "slip stitch (sl st)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     5.0
   ],
   "needle_sizes_mm": [],
   "published": "2025/09/01",
-  "sizes_available": "Length of 36 cm and height of 6 cm",
-  "rating_average": 0,
-  "rating_count": null,
-  "difficulty_average": 0,
-  "favorites_count": 274,
-  "projects_count": 4,
+  "sizes_available": "length of 36 cm and height of 6 cm",
+  "rating_average": 4.666666666666667,
+  "rating_count": 3,
+  "difficulty_average": 2.6666666666666665,
+  "favorites_count": 306,
+  "projects_count": 5,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/94024/1025895",
+  "notes": "try out this crochet blood spatter choker pattern.\r\n\r\nlink to youtube video\r\nhttps://youtu.be/lmnaxplypve\r\n\r\nskill level – intermediate\r\nformat – pdf and video\r\n\r\nstitches and abbreviations\r\nthis pattern is written in us terminology\r\nst/sts – stitch/stitches\r\nch – chain\r\nsl st – slip stitch\r\nsc – single crochet\r\nhdc – half double crochet\r\n\r\ntools and materials\r\n-5 mm crochet hook\r\n-bernat premium #4 worsted (medium)\r\n-red\r\n-yarn needle\r\n-scissors\r\n\r\nfinal size\r\n- length of 36 cm and height of 6 cm",
   "pdf": {
     "filename": "7463946.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7463946.pdf",
-    "url": "https://pdf.ravelrycache.com/CrochetCrafters1/2061255/Blood_Spatter_Choker.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479157&Signature=eqI1wbOu9uQplzCvnevb2IM49Rk%3D&key_expires=1768479157&key=vIn2u58mNyQlm76f7JnxJg",
+    "url": "https://pdf.ravelrycache.com/CrochetCrafters1/2061255/Blood_Spatter_Choker.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770419291&Signature=aCOheArCNiaY7bC%2BCnry3F377KQ%3D&key_expires=1770419291&key=Oy8Ug-uRLeEqRlJxwi13gA",
     "size_bytes": 200613
   }
 }

@@ -1,43 +1,39 @@
 {
   "id": 7481796,
-  "name": "Christmas Bell",
+  "name": "christmas bell",
   "permalink": "christmas-bell-31",
   "url": "https://www.ravelry.com/patterns/library/christmas-bell-31",
   "external_url": "https://www.petiteknit.com/en/products/christmas-bell",
-  "designer_name": "PetiteKnit",
-  "project_type": "Home",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Sport",
+  "designer_name": "petiteknit",
+  "project_type": "home",
+  "fiber_art": "knitting",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "Merino",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 60.0
     },
     {
-      "fiber": "PetiteKnit Sunday",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 25.4
     },
     {
-      "fiber": "Soft Silk Mohair",
-      "pct": null
+      "fiber": "Silk (Silk)",
+      "pct": 11.6
     },
     {
-      "fiber": "Sunday",
-      "pct": null
-    },
-    {
-      "fiber": "Tynn Silk Mohair",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 3.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -48,8 +44,9 @@
   "rating_average": 5.0,
   "rating_count": 9,
   "difficulty_average": 1.75,
-  "favorites_count": 1210,
+  "favorites_count": 1243,
   "projects_count": 69,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/59482/1040094"
+  "download_url": "http://www.ravelry.com/dls/59482/1040094",
+  "notes": "the christmas bell is worked in the round from the bottom up using the magic loop technique. the bell is stuffed with scraps of yarn and grafted together along the bottom and the top. at the end, a jingle bell is attached at the bottom, and a bow and a leather strap are attached at the top.\r\n\r\n**measurements:** \r\n**width:** approx. 10 cm \\[4 inches\\]\r\n\r\n**height:** approx. 9 cm \\[3½ inches\\]\r\n\r\n**needles:** 3 mm \\[us2½\\] circular needle / 80 cm \\[32 inches\\]\r\n\r\n**materials:** *\r\n6 g sunday by sandnes garn (50 g = 235 m \\[257 yds\\]) \r\n**or** merino by knitting for olive (50 g = 250 m \\[273 yds\\]) \r\n**held together with** \r\n3 g soft silk mohair by knitting for olive (25 g = 225 m \\[246 yds\\]) \r\n**or** silk mohair by isager yarn (25 g = 212 m \\[232 yds\\])\r\n\r\nyarn scraps for stuffing, jingle bell (ø = 18 mm), \r\napprox. 40 cm ribbon for bow (width 20-25 mm \\[¾-1 inch\\]), \r\nleather handle 24 x 0.5 cm \\[9½ inches x ¼ inch\\]\r\n\r\ndifficulty: ★ ★ (2 out of 5)\r\n\r\nsee the classification of difficulty [here.][1] \r\n\r\nthe white christmas bell is knitted in sunday by sandnes garn in the color almond \\[2511\\] held together with soft silk mohair by knitting for olive in the color hyldeblomst.\r\n\r\nthe blue christmas bell is knitted in sunday by sandnes garn in the color baby blue eyes \\[6043\\] held together with soft silk mohair by knitting for olive in the color støvet dueblå.\r\n\r\nthe burgundy christmas bell is knitted in sunday by sandnes garn in the color dyp burgunder \\[4372\\] held together with soft silk mohair by knitting for olive in the color bordeaux.\r\n\r\nvideos related to the pattern can be found on the link below:\r\n\r\n\r\n  [1]: https://www.petiteknit.com/en/pages/svaerhedsgrad"
 }

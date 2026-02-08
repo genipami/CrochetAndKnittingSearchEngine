@@ -1,24 +1,24 @@
 {
   "id": 7331150,
-  "name": "Friday the Fish",
+  "name": "friday the fish",
   "permalink": "friday-the-fish",
   "url": "https://www.ravelry.com/patterns/library/friday-the-fish",
   "external_url": "",
-  "designer_name": "Thalia Evans",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "thalia evans",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Half double crochet (hdc)",
-    "Single crochet (sc)",
-    "Slip stitch (sl st)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "half double crochet (hdc)",
+    "single crochet (sc)",
+    "slip stitch (sl st)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     3.5
@@ -29,14 +29,15 @@
   "rating_average": 4.8,
   "rating_count": 5,
   "difficulty_average": 3.2,
-  "favorites_count": 1187,
-  "projects_count": 31,
+  "favorites_count": 1234,
+  "projects_count": 32,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/104268/922235",
+  "notes": "a little fish! based on a goldfish, but can of course be made in any colour you like.\r\nthis pattern can be entirely no-sew and made with one continuous strand of yarn (somewhat fiddly), or alternatively the fins can be made separately and sewn on (easy). the pdf includes instructions for both.\r\n\r\npattern was designed using dk yarn and a 3.5mm hook and will make an approx 4 inch fish. you can make a larger or smaller fish by using a different yarn weight and hook size, but i have only made this in dk so your results may vary.\r\n\r\n**recommended materials:**\r\n- 3.5mm crochet hook\r\n- dk yarn in colour(s) of your choice; this fish is\r\n  based on a carp/goldfish but can be made in any \r\n  colour.\r\n- toy stuffing (a good way to use up scraps\r\n   of yarn!)\r\n- needle, scissors, pins, stitch markers\r\n- for the eyes: black (or contrasting)\r\n  and white embroidery thread, or alternatively \r\n  4-5mm safety eyes or round beads\r\n\r\n**pattern uses us terms:**\r\nslst = slip stitch\r\nsc = single crochet\r\nhdc = half double crochet\r\ndc = double crochet\r\ninc = increase (2 sc in same stitch)\r\ndec = decrease (sc2 together)\r\nflo = work in front loop only\r\nblo = work in back loop only\r\nshift stitch= at the end of the current round, move stitch marker forward (if right handed) or back (if left handed) one stitch. count the stitch after the marker as stitch 1 of the new round.",
   "pdf": {
     "filename": "7331150.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7331150.pdf",
-    "url": "https://pdf.ravelrycache.com/ThaliaEvansArt/1818436/friday_the_fish.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480522&Signature=PWEY40ZkSLHT74VhhNKQ9AY9S1s%3D&key_expires=1768480522&key=MfJeCtjaZd8NfNA-M70qtg",
+    "url": "https://pdf.ravelrycache.com/ThaliaEvansArt/1818436/friday_the_fish.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770426840&Signature=r4h44%2F6JmBkotd%2Bsvur7uhG7NdQ%3D&key_expires=1770426840&key=t8imiyN3t8Dno3vM2iTjiA",
     "size_bytes": 2860256
   }
 }

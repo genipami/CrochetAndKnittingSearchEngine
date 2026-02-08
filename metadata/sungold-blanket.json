@@ -1,25 +1,21 @@
 {
   "id": 7305100,
-  "name": "Sungold Blanket",
+  "name": "sungold blanket",
   "permalink": "sungold-blanket",
   "url": "https://www.ravelry.com/patterns/library/sungold-blanket",
   "external_url": "https://attic24.co.uk/patterns/blankets/sungold-blanket-cal/",
-  "designer_name": "Lucy of Attic24",
-  "project_type": "Blanket",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "lucy of attic24",
+  "project_type": "blanket",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Create DK",
-      "pct": null
-    },
-    {
-      "fiber": "Special Double Knit",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [
@@ -27,12 +23,13 @@
   ],
   "needle_sizes_mm": [],
   "published": "2024/01/01",
-  "sizes_available": "120cm X 175cm",
+  "sizes_available": "120cm x 175cm",
   "rating_average": 5.0,
-  "rating_count": 22,
-  "difficulty_average": 2.142857142857143,
-  "favorites_count": 1216,
-  "projects_count": 117,
+  "rating_count": 23,
+  "difficulty_average": 2.1818181818181817,
+  "favorites_count": 1245,
+  "projects_count": 122,
   "free_ravelry_download": false,
-  "download_url": "https://attic24.co.uk/patterns/blankets/sungold-blanket-cal/"
+  "download_url": "https://attic24.co.uk/patterns/blankets/sungold-blanket-cal/",
+  "notes": "from lucy’s website: \r\n\r\nthe sungold colour palette is inspired by my visits to the beautiful horticultural gardens at harlow carr here in yorkshire. it's a garden which is bursting with colour, most especially in the late summer when the beds are overflowing with flowers in bloom. i'll be sharing more inspiration photos each week as the cal unfolds, because of course i enjoy us making a blanket together, but also l l-o-v-e the idea of taking you on a virtual stroll along these garden paths.\r\n\r\neach week i'll be giving you a list of stripes so that you can work on a portion of the blanket, and we aim to make 15-18 stripes a week. don't worry if this isn't do-able for you, you can absolutely work at your own pace and take a decade to do it if you need to! \r\n\r\n♥ part 1 : stripes 1-15 - (5th jan)\r\n♥ part 2 : stripes 16 - 33 (12th jan)\r\n♥ part 3 : stripes 34 - 51 (19th jan)\r\n♥ part 4 : stripes 52 - 69 (26th jan)\r\n♥ part 5 : stripes 70 - 87 (2nd feb)\r\n♥ part 6 : stripes 88 - 99 (9th feb)\r\n♥ part 7 : catch up (darn in those ends!) (16th feb)\r\n♥ part 8 : the border (25th feb)\r\n\r\nthere are two different yarn packs available for this cal\r\n\r\n**stylecraft special dk**       \r\nlavender                                                     \r\nproper purple                           \r\nplum                                           \r\nboysenberry                              \r\nfuchsia purple                            \r\ngold                                            \r\ntomato                                       \r\ncopper                                       \r\nclaret                                          \r\nmagenta                                      \r\ndandelion                                   \r\nlime                                            \r\nlincoln                                        \r\nsage                                           \r\ncyprus                                        \r\n\r\n**yarnsmiths create dk**\r\nlavender\r\namethyst\r\nplum purple\r\npink berry\r\nvintage pink\r\nantique gold\r\npaprika\r\ncopper\r\nclaret red\r\nsugar plum\r\nmustard yellow\r\nolive green\r\nlight sage\r\nspearmint green\r\ndark sage       \r\n\r\nthe cal has three versions: mixed stripe, colourwash and squares. details on the website. "
 }

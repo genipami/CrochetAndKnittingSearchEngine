@@ -1,33 +1,41 @@
 {
   "id": 7370029,
-  "name": "252-24 Dove Feather",
+  "name": "252-24 dove feather",
   "permalink": "252-24-dove-feather",
   "url": "https://www.ravelry.com/patterns/library/252-24-dove-feather",
   "external_url": "https://www.garnstudio.com/pattern.php?id=11917&cid=19",
-  "designer_name": "DROPS design",
-  "project_type": "Pullover",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "drops design",
+  "project_type": "pullover",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "DROPS Brushed Alpaca Silk",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 74.0
     },
     {
-      "fiber": "DROPS Melody",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 12.5
+    },
+    {
+      "fiber": "Bombyx / Cultivated / Mulberry (Silk)",
+      "pct": 11.5
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 2.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Raglan",
-    "Seamless",
-    "Top-down",
-    "Written"
+    "in the round",
+    "raglan",
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -35,12 +43,13 @@
     7.0
   ],
   "published": "2024/09/01",
-  "sizes_available": "S – M – L – XL – XXL – XXXL",
+  "sizes_available": "s – m – l – xl – xxl – xxxl",
   "rating_average": 4.5,
   "rating_count": 10,
   "difficulty_average": 2.4,
-  "favorites_count": 834,
-  "projects_count": 46,
+  "favorites_count": 937,
+  "projects_count": 48,
   "free_ravelry_download": false,
-  "download_url": "https://www.garnstudio.com/pattern.php?id=11917&cid=19"
+  "download_url": "https://www.garnstudio.com/pattern.php?id=11917&cid=19",
+  "notes": "**knitted jumper in 1 strand drops melody or 2 strands drops brushed alpaca silk. piece is knitted top down with raglan. size: s - xxxl**\r\n~~~~~~~~~~~~~~~~~\r\n\r\ndrops design: pattern ml-112\r\nyarn group d\r\n\r\n----------------------------------------------------------\r\n\r\n\r\n**size**:\r\ns - m - l - xl - xxl - xxxl\r\n\r\n**yarn**:\r\ndrops melody from garnstudio (belongs to yarn group d)\r\n250-250-300-300-350-350 g colour 01, off white\r\n\r\nor use:\r\ndrops brushed alpaca silk from garnstudio (belongs to yarn group c)\r\n225-250-275-275-325-350 g colour 01, off white\r\n\r\n**needles**:\r\ndrops circular needle size 7 mm: length 40 and 80 cm.\r\ndrops circular needle size 4.5 mm: length 40 and 80 cm.\r\ndrops double pointed needles size 7 mm\r\ndrops double pointed needles size 4.5 mm\r\nthe technique magic loop can be used – you then only need circular needle of 80 cm in each size.\r\n\r\n**knitting tension**:\r\n13 stitches in width and 16 rows vertically in stocking stitch on needle size 7 mm = 10 x 10 cm.\r\nnote! remember that needle size is only a suggestion. if you have too many stitches on 10 cm switch to larger needles. if you have too few stitches on 10 cm switch to smaller needles."
 }

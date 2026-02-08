@@ -1,51 +1,64 @@
 {
   "id": 1347024,
-  "name": "Easy Band Heel socks",
+  "name": "easy band heel socks",
   "permalink": "easy-band-heel-socks",
   "url": "https://www.ravelry.com/patterns/library/easy-band-heel-socks",
   "external_url": "",
-  "designer_name": "Anna Zhuravleva",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "anna zhuravleva",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "4-fädig 4-ply",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 33.3
     },
     {
-      "fiber": "Heritage®",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 25.0
     },
     {
-      "fiber": "Meilenweit 100 Cotton Bamboo",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 19.3
+    },
+    {
+      "fiber": "Cotton (Cotton)",
+      "pct": 13.3
+    },
+    {
+      "fiber": "Rayon from Bamboo (Bamboo)",
+      "pct": 6.7
+    },
+    {
+      "fiber": "Polyester (Polyester)",
+      "pct": 2.3
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Top-down",
-    "Written"
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.0
   ],
   "published": null,
-  "sizes_available": "S/M/L",
-  "rating_average": 4.68,
-  "rating_count": 25,
-  "difficulty_average": 2.227272727272727,
-  "favorites_count": 2468,
-  "projects_count": 136,
+  "sizes_available": "s/m/l",
+  "rating_average": 4.6923076923076925,
+  "rating_count": 26,
+  "difficulty_average": 2.1739130434782608,
+  "favorites_count": 2495,
+  "projects_count": 138,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/83604/864965",
+  "notes": "**easy ankle socks** \r\n\r\nsocks are knitted top down with band heel and toe shaping.\r\n\r\neasy beginners friendly instruction!\r\n\r\n",
   "pdf": {
     "filename": "1347024.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1347024.pdf",
-    "url": "https://pdf.ravelrycache.com/annikecraft/1687036/Band_heel_socks_EN.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479985&Signature=RmzmpteDLGXEVXaXhECx7qycqis%3D&key_expires=1768479985&key=MH71xjHE7KuodG6pH7Eqhg",
+    "url": "https://pdf.ravelrycache.com/annikecraft/1687036/Band_heel_socks_EN.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770424413&Signature=sT8yZpftxsfE8%2Ftne0pJV9fT5RQ%3D&key_expires=1770424413&key=wSW6Ab-VZ6XaeqnlT_uWjw",
     "size_bytes": 893764
   }
 }

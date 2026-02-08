@@ -1,41 +1,46 @@
 {
   "id": 1122841,
-  "name": "Woodcut Blanket",
+  "name": "woodcut blanket",
   "permalink": "woodcut-blanket",
   "url": "https://www.ravelry.com/patterns/library/woodcut-blanket",
   "external_url": "https://www.purlsoho.com/create/2021/03/12/woodcut-blanket/",
-  "designer_name": "Purl Soho",
-  "project_type": "Blanket",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "purl soho",
+  "project_type": "blanket",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Campo",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 50.0
+    },
+    {
+      "fiber": "Cotton (Cotton)",
+      "pct": 50.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Modular",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "modular",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     5.0
   ],
   "published": "2021/03/01",
-  "sizes_available": "Crib (Throw)",
+  "sizes_available": "crib (throw)",
   "rating_average": 4.765625,
   "rating_count": 64,
   "difficulty_average": 2.540983606557377,
-  "favorites_count": 6310,
-  "projects_count": 278,
+  "favorites_count": 6368,
+  "projects_count": 279,
   "free_ravelry_download": false,
-  "download_url": "https://www.purlsoho.com/create/2021/03/12/woodcut-blanket/"
+  "download_url": "https://www.purlsoho.com/create/2021/03/12/woodcut-blanket/",
+  "notes": "materials\r\n\r\n- 9 (11) skeins of purl soho’s [campo][1], 50% wool and 50% organically grown cotton. each skein is 120 yards; approximately 1,080 (1,320) yards required. we used the color rosa rose for the crib size and corsica yellow for the throw size.\r\n- us 8 (5 mm), 32- or 40-inch [circular needles][2]\r\n\r\ngauge\r\n15 stitches and 24 rows = 4 inches in stockinette stitch\r\n\r\nnote: for the throw size, we used just about all 11 skeins, so if you want to be sure you have enough, consider ordering an extra skein. if you don’t end up needing it, you can return unwound yarn for a refund within 30 days of purchase, or within 6 months, for store credit. our [return policy][4] has all the details!\r\n\r\nsizes\r\ncrib (throw)\r\n\r\nfinished dimensions: 37 inches wide x 45 inches long (43 inches wide x 51 inches long)\r\n\r\nsamples: rosa rose blanket is crib size and corsica yellow is throw size.\r\n\r\ndesigned by purl soho designer, [jake canton][5]. click [here][6] to see even more of jake’s designs!\r\n\r\n\r\n  [1]: https://www.purlsoho.com/campo.html\r\n  [2]: https://www.purlsoho.com/tools-and-notions/knitting-and-crochet.html?collection_filter=23796\r\n  [4]: https://www.purlsoho.com/return-policy/\r\n  [5]: https://www.purlsoho.com/create/tag/jake-canton-for-purl-soho/\r\n  [6]: http://www.jakecanton.com/"
 }

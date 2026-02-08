@@ -1,40 +1,28 @@
 {
   "id": 1364061,
-  "name": "Tiny Magic Frog",
+  "name": "tiny magic frog",
   "permalink": "tiny-magic-frog",
   "url": "https://www.ravelry.com/patterns/library/tiny-magic-frog",
   "external_url": "https://www.amigurumiadventures.com/schoolofmagic-term5",
-  "designer_name": "Ilaria Caliri (aka airali), Irene Strange",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "ilaria caliri (aka airali), irene strange",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Catania Solids",
-      "pct": null
-    },
-    {
-      "fiber": "Catona",
-      "pct": null
-    },
-    {
-      "fiber": "Cotton DK",
-      "pct": null
-    },
-    {
-      "fiber": "Ricorumi DK",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless",
-    "Top-down",
-    "Written"
+    "in the round",
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [
     2.5,
@@ -46,14 +34,15 @@
   "rating_average": 4.857142857142857,
   "rating_count": 42,
   "difficulty_average": 2.6153846153846154,
-  "favorites_count": 5259,
-  "projects_count": 119,
+  "favorites_count": 5344,
+  "projects_count": 124,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/72444/877923",
+  "notes": "the **tiny magic frog** is a **bonus free pattern** to stretch your fingers and oil your crochet wand before the official start of **amigurumi school of magic 5**!\r\n\r\n> download this tiny free pattern to have taste a little of our school of magic mystery cal. **early-bird sign-ups are opened until the 28th of september!** \r\n\r\nthe is worked in one piece starting from the top of the head, with arms and legs made as you go.\r\n\r\nthe pattern is written in us crochet terms, with step-by-step images to guide you along the way.\r\n\r\nthe project can be made with your preferred yarn, the sample was made in dk-weight cotton with 3.0mm hook.\r\n\r\n",
   "pdf": {
     "filename": "1364061.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1364061.pdf",
-    "url": "https://pdf.ravelrycache.com/amigurumi-advent/1716260/SchoolOfMagic5_2023_Frog_Freebie_V0.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483773&Signature=9ndUmGiytGPHOIEhCUl1j%2BDui7E%3D&key_expires=1768483773&key=JBVlF1Pum0yndI-r9rsyVA",
+    "url": "https://pdf.ravelrycache.com/amigurumi-advent/1716260/SchoolOfMagic5_2023_Frog_Freebie_V0.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770444845&Signature=4nKjOUhTFXHrqlciFv%2FH%2Fe8WEd8%3D&key_expires=1770444845&key=yRJjxQul7qtP7sjJZKngVg",
     "size_bytes": 2384465
   }
 }

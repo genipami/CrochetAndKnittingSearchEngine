@@ -1,30 +1,30 @@
 {
   "id": 7296703,
-  "name": "Pelargonium",
+  "name": "pelargonium",
   "permalink": "pelargonium-3",
   "url": "https://www.ravelry.com/patterns/library/pelargonium-3",
   "external_url": "https://shop.hedgehogfibres.com/collections/patterns/products/pelargonium",
-  "designer_name": "Beata Jezek",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "beata jezek",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Sock",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 90.0
     },
     {
-      "fiber": "Sock Minis 90/10",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Written"
+    "blocking",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -35,8 +35,9 @@
   "rating_average": 4.821428571428571,
   "rating_count": 28,
   "difficulty_average": 3.2857142857142856,
-  "favorites_count": 3391,
-  "projects_count": 140,
+  "favorites_count": 3415,
+  "projects_count": 143,
   "free_ravelry_download": false,
-  "download_url": "https://shop.hedgehogfibres.com/collections/patterns/products/pelargonium"
+  "download_url": "https://shop.hedgehogfibres.com/collections/patterns/products/pelargonium",
+  "notes": "painterly scarf design that lets you get creative with your yarns. designed with hedgehog fibres advent calendar in mind, this scarf utilises 20 different coloured speckled mini skeins. create your own stunning marled gradient and wrap yourself in a cozy scarf this winter. \r\n\r\nthe sample shown is based on the colours of hedgehog fibres 2023 advent calendar.\r\n\r\n \r\n\r\nyarn: 400g of hedgehog fibres sock yarn minis (90% merino wool, 10% nylon, 20g/80m) in a variety of colours or scraps. yarn held double throughout the project.\r\n\r\nthe colours pictured are ‘potluck’ colours featured in hedgehog fibres 2023 advent calendar.\r\n\r\nneedle: us6 / 4 mm needles, circular or straight. the scarf is knitted flat. the gauge is not hugely important for this garment.\r\n\r\ngauge: gauge achieved in knitted sample was 14 sts to 6cm/ 2.4 inches after blocking lightly by washing and laying flat to dry. repeat of 14 stitches: (cdd, k5, yo, k1, yo, k5)\r\n\r\ndanish translation here [https://strikkeglad.dk/47175/pelargonium/][1]\r\n\r\n\r\n  [1]: https://strikkeglad.dk/47175/pelargonium/"
 }

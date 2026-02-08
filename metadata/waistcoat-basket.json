@@ -1,25 +1,29 @@
 {
   "id": 824487,
-  "name": "Waistcoat Basket",
+  "name": "waistcoat basket",
   "permalink": "waistcoat-basket",
   "url": "https://www.ravelry.com/patterns/library/waistcoat-basket",
   "external_url": "http://www.allaboutami.com/waistcoat-crochet-basket/",
-  "designer_name": "Stephanie Jessica Lau",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Bulky",
+  "designer_name": "stephanie jessica lau",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Wool Ease Thick & Quick",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     7.0,
@@ -31,8 +35,9 @@
   "rating_average": 4.469879518072289,
   "rating_count": 83,
   "difficulty_average": 2.58974358974359,
-  "favorites_count": 12304,
-  "projects_count": 368,
+  "favorites_count": 12353,
+  "projects_count": 370,
   "free_ravelry_download": false,
-  "download_url": "http://www.ravelry.com/purchase/all-about-ami-crochet--knit-designs/610760"
+  "download_url": "http://www.ravelry.com/purchase/all-about-ami-crochet--knit-designs/610760",
+  "notes": "crochet this sturdy basket using the beautiful waistcoat stitch also known as center single crochet! add leather or crochet handles!  these luxurious and practical baskets are a great way to add a touch of handmade and crochet to your home!\r\n\r\neach waistcoat basket uses 3 skeins of wool-ease thick & quick yarn and is crocheted by holding two strands of yarn together at the same time!"
 }

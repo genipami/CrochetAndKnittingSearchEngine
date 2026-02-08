@@ -1,32 +1,24 @@
 {
   "id": 327473,
-  "name": "Diagonal Dishcloth",
+  "name": "diagonal dishcloth",
   "permalink": "diagonal-dishcloth-3",
   "url": "https://www.ravelry.com/patterns/library/diagonal-dishcloth-3",
   "external_url": "",
-  "designer_name": "Ananda Judkins",
-  "project_type": "Dishcloth",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "ananda judkins",
+  "project_type": "dishcloth",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "I Love This Cotton!",
-      "pct": null
-    },
-    {
-      "fiber": "Original Solids",
-      "pct": null
-    },
-    {
-      "fiber": "Sugar'n Cream The Original (Ombres)",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     5.0
@@ -37,14 +29,15 @@
   "rating_average": 4.535714285714286,
   "rating_count": 224,
   "difficulty_average": 1.6521739130434783,
-  "favorites_count": 6735,
+  "favorites_count": 6745,
   "projects_count": 1005,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/29101/107269",
+  "notes": "this pattern creates the perfect crochet dishcloth. it is worked on the bias so it has just the right stretch and weight to it. and at approx 9.5\" square it is big enough for kitchen clean up, or messy little hands and faces. it also works up fast, start to finish in less than an hour!",
   "pdf": {
     "filename": "327473.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\327473.pdf",
-    "url": "https://pdf.ravelrycache.com/ananda473/168832/Diagonal_Dishcloth.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479895&Signature=D2Jg3xg%2Fu5tRpXsVQy7dp0aj2oY%3D&key_expires=1768479895&key=DsobOC2VgG-j91Sizy2p8g",
+    "url": "https://pdf.ravelrycache.com/ananda473/168832/Diagonal_Dishcloth.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770423584&Signature=fbYok6hHmNVJU%2BRGAo%2BfX7Dhtdo%3D&key_expires=1770423584&key=v_itSLm2YVHIISmaFQXsNA",
     "size_bytes": 346551
   }
 }

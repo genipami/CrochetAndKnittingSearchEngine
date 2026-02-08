@@ -1,13 +1,13 @@
 {
   "id": 7440142,
-  "name": "Light As A Feather Cowl",
+  "name": "light as a feather cowl",
   "permalink": "light-as-a-feather-cowl-2",
   "url": "https://www.ravelry.com/patterns/library/light-as-a-feather-cowl-2",
   "external_url": "",
-  "designer_name": "Katie Herrod",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "katie herrod",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
       "fiber": "Campfiber Yarns Yak DK",
@@ -15,35 +15,36 @@
     }
   ],
   "stitches_used": [
-    "Ribbing",
-    "Treble crochet (tr)",
-    "Waffle",
-    "Waffle (knit)"
+    "ribbing",
+    "treble crochet (tr)",
+    "waffle",
+    "waffle (knit)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Bottom-up",
-    "In the round",
-    "Seamless",
-    "Written"
+    "blocking",
+    "bottom-up",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     4.0
   ],
   "published": "2025/06/01",
-  "sizes_available": "One size: 22” circumference x 10” tall",
+  "sizes_available": "one size: 22” circumference x 10” tall",
   "rating_average": 5.0,
-  "rating_count": 16,
-  "difficulty_average": 1.75,
-  "favorites_count": 1349,
-  "projects_count": 90,
+  "rating_count": 19,
+  "difficulty_average": 1.6842105263157894,
+  "favorites_count": 1449,
+  "projects_count": 102,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/76934/1007554",
+  "notes": "the light as a feather cowl design is a collaboration with campfiber yarns to explore their gorgeous new yak silk dk yarn. the result is a soft, stretchy, lightweight, easy-to-wear cowl, full of beautiful texture. this tube cowl is knit in one solid colour from bottom to top, featuring ribbing on both ends, and deliciously squishy waffle texture in the middle.\r\n\r\n**look for my other patterns in the light as a feather family!**\r\n\r\n**size**\r\n22” circumference x 10” tall\r\n\r\n**yarn**\r\napproximately 215 yards/195 meters of dk weight yarn, recommended in a solid or tonal colour to show the texture\r\n*sample shown in campfiber yarns yak silk dk in night flight (231 yards/211 meters/100 grams)*\r\n\r\n**suggested needles**\r\nus 6/4.0 mm (or size required to obtain gauge) 16”/40 cm circular needle, dpns, or long circular needles for the “magic loop” method\r\n\r\n**gauge**\r\n21 sts and 35 rows per 4”/10 cm, measured over waffle stitch knit in the round, after blocking\r\n\r\n*this pattern has been thoroughly test knit by knitters with a variety of experience.*",
   "pdf": {
     "filename": "7440142.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7440142.pdf",
-    "url": "https://pdf.ravelrycache.com/katieherrod/2020225/Light_As_A_Feather_Cowl_Pattern_v.1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481424&Signature=%2B7zgXV2rtSG%2BIVTC5kNaOLN4DDA%3D&key_expires=1768481424&key=W3_bCnKaCRCnyQONum-EHQ",
+    "url": "https://pdf.ravelrycache.com/katieherrod/2020225/Light_As_A_Feather_Cowl_Pattern_v.1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770431935&Signature=cUv4arPDlpndzVL0mjatBFX9l1E%3D&key_expires=1770431935&key=pqbtmyaoOpLFPnn7EUV5Mg",
     "size_bytes": 551969
   }
 }

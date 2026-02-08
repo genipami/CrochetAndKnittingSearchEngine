@@ -1,29 +1,37 @@
 {
   "id": 1368311,
-  "name": "Fable (fake cable) Socks",
+  "name": "fable (fake cable) socks",
   "permalink": "fable-fake-cable-socks",
   "url": "https://www.ravelry.com/patterns/library/fable-fake-cable-socks",
   "external_url": "",
-  "designer_name": "Cissy Tang",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "cissy tang",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Sock",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 40.0
+    },
+    {
+      "fiber": "Merino (Merino)",
+      "pct": 40.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
     "2x2 rib",
-    "Cable",
-    "Ribbing",
-    "Treble crochet (tr)"
+    "cable",
+    "ribbing",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Cables",
-    "Written"
+    "blocking",
+    "cables",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -31,18 +39,19 @@
     2.25
   ],
   "published": "2023/09/01",
-  "sizes_available": "Woman's Medium (64 stitches)",
+  "sizes_available": "woman's medium (64 stitches)",
   "rating_average": 4.764705882352941,
   "rating_count": 17,
   "difficulty_average": 2.764705882352941,
-  "favorites_count": 2396,
+  "favorites_count": 2418,
   "projects_count": 75,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/102218/881950",
+  "notes": "(note that a new version, v1.1 has been uploaded to correct errors in stitch count for heel flap)\r\n\r\na simple faux-cable sock that uses increases and decreases (k2tog, ssk, m1r, m1l) to achieve a cabled look! faux cables also have the benefit of being flat and comfortable to wear inside shoes. \r\n\r\n\r\nmaterials:\r\n100g fingering weight sock yarn\r\n(sample knit in isager sock yarn #22)\r\n2.00mm needles (your preferred needle type) for cuff\r\n2.25mm needles (your preferred needle type) for main\r\nstitch markers if desired \r\ntapestry needle for weaving in ends \r\n\r\ngauge: \r\n32 stitches per 4 inches, after blocking. \r\n\r\nnote on sizing: \r\nchart and written pattern are created for a 64-stitch sock only. you may size up or down your needles to create a bigger or smaller sock. \r\nalternative, you may add or subtract an extra purl stitch for each purl column in the pattern. this would result in a 18 stitch repeat (72 stitch sock) or 14 stitch repeat (56 stitch sock), respectively. you must adjust cast-on, ribbing, heel flap, gusset, and toes instructions appropriately to match your personal stitch count. please note that the 2x2 ribbing will not flow continuously into the faux cables if you adjust your stitch count. \r\n\r\nfollow my crafting (including news of any future free patterns) on instagram @dotcardigan.\r\n\r\nsend me a tip if you'd like!\r\nhttps://ko-fi.com/dotcardigan\r\n\r\n\r\n",
   "pdf": {
     "filename": "1368311.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1368311.pdf",
-    "url": "https://pdf.ravelrycache.com/Dotcardigan/1725507/Faux_Cable_Socks_v1.1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480252&Signature=i03EUKHPZm6TE23FvoiK5HHLjes%3D&key_expires=1768480252&key=NMt9JBzmzFzqHJZ3maAFuw",
+    "url": "https://pdf.ravelrycache.com/Dotcardigan/1725507/Faux_Cable_Socks_v1.1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770425513&Signature=HXdh24Hz165V87jnkbYQzn%2BtHVA%3D&key_expires=1770425513&key=Uu9SNN7TaUT-lllhQHIRVg",
     "size_bytes": 739015
   }
 }

@@ -1,32 +1,40 @@
 {
   "id": 7485128,
-  "name": "Little Teddy Bear",
+  "name": "little teddy bear",
   "permalink": "little-teddy-bear-19",
   "url": "https://www.ravelry.com/patterns/library/little-teddy-bear-19",
   "external_url": "https://youtu.be/4IbWGtM0nns",
-  "designer_name": "Luba Andrushchenko",
-  "project_type": "Toys",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "luba andrushchenko",
+  "project_type": "toys",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "DROPS Soft Tweed",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 50.0
+    },
+    {
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 25.0
+    },
+    {
+      "fiber": "Rayon / Viscose (Rayon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Treble crochet (tr)"
+    "cable",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Cables",
-    "In the round",
-    "Kitchener stitch",
-    "Mattress stitch",
-    "Seamed",
-    "Top-down",
-    "Written"
+    "bottom-up",
+    "cables",
+    "in the round",
+    "kitchener stitch",
+    "mattress stitch",
+    "seamed",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -35,10 +43,11 @@
   "published": "2025/12/01",
   "sizes_available": "the height of the toy may vary depending on the yarn used and the number of knitting needles",
   "rating_average": 5.0,
-  "rating_count": 7,
-  "difficulty_average": 3.142857142857143,
-  "favorites_count": 4545,
-  "projects_count": 57,
+  "rating_count": 9,
+  "difficulty_average": 3.6666666666666665,
+  "favorites_count": 5002,
+  "projects_count": 69,
   "free_ravelry_download": false,
-  "download_url": "https://youtu.be/4IbWGtM0nns"
+  "download_url": "https://youtu.be/4IbWGtM0nns",
+  "notes": "the little teddy bear is knitted flat in rows from the top down, in one piece from head to legs. the hands, nose and ears are worked separately and sewn on. finishing includes seaming all parts with mattress stitch (or whipstitch where specified).\r\n\r\n⸻\r\n\r\nskill level: confident beginner\r\nyou should be comfortable with:\r\n\t• knitting flat (back and forth in rows)\r\n\t• basic increases and decreases\r\n\t• mattress stitch for seaming\r\n\t• whipstitch for smooth joins\r\n\r\n⸻\r\n\r\nsize: the finished size may vary depending on your yarn and needle choice.\r\nfor example:\r\n\t•\tdrops soft tweed (50g/130m) on 3.5 mm needles → approx. 17 cm tall\r\n\r\nmaterials:\r\n\t•\t30 g of drops soft tweed (or similar yarn) \r\n\t•\tsmall amount of black yarn/thread for eyes and nose\r\n\r\nneedles:\r\n\t•\tstraight needles 3.5 mm (long enough to hold all stitches comfortably) or \r\n\t•\tcircular needles 3.5 mm with a long cable for flat knitting or\r\n\t•\tchoose needles 1–1.5 sizes smaller than recommended for your yarn\r\n\r\nprefer knitting in the round with no seams?\r\ntake a look at the in-the-round version of this pattern here:  https://youtu.be/f-81u75-o9c\r\n\r\nwant the written pattern?\r\nyou can find the full written version here:\r\nflat https://maylilyknitting.com/little-teddy-bear-knitting-pattern/\r\nround https://maylilyknitting.com/little-teddy-bear-toy-knitting-pattern/\r\n"
 }

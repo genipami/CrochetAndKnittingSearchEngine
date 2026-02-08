@@ -1,17 +1,17 @@
 {
   "id": 1127264,
-  "name": "Eden Crop Top",
+  "name": "eden crop top",
   "permalink": "eden-crop-top",
   "url": "https://www.ravelry.com/patterns/library/eden-crop-top",
   "external_url": "https://www.crochetwithcarrie.com/crochet-eden-crop-top",
-  "designer_name": "Carrie M Chambers",
-  "project_type": "Tank/Camisole",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "carrie m chambers",
+  "project_type": "tank/camisole",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Cotton DK",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
@@ -22,12 +22,13 @@
   ],
   "needle_sizes_mm": [],
   "published": "2021/03/01",
-  "sizes_available": "S(M,L,XL)",
+  "sizes_available": "s(m,l,xl)",
   "rating_average": 4.45945945945946,
   "rating_count": 37,
   "difficulty_average": 2.484848484848485,
-  "favorites_count": 7403,
-  "projects_count": 268,
+  "favorites_count": 7477,
+  "projects_count": 269,
   "free_ravelry_download": false,
-  "download_url": "https://www.crochetwithcarrie.com/crochet-eden-crop-top"
+  "download_url": "https://www.crochetwithcarrie.com/crochet-eden-crop-top",
+  "notes": ""
 }

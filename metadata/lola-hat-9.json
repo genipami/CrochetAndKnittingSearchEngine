@@ -1,48 +1,57 @@
 {
   "id": 7408668,
-  "name": "Lola Hat",
+  "name": "lola hat",
   "permalink": "lola-hat-9",
   "url": "https://www.ravelry.com/patterns/library/lola-hat-9",
   "external_url": "https://toksknits.com/products/lola-hat",
-  "designer_name": "ToksKnits",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "toksknits",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "DROPS Lima",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 35.0
     },
     {
-      "fiber": "Soft Silk Mohair",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 32.5
+    },
+    {
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 17.5
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 15.0
     }
   ],
   "stitches_used": [
     "2x2 rib",
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.5
   ],
   "published": "2025/02/01",
-  "sizes_available": "S (M)",
+  "sizes_available": "s (m)",
   "rating_average": 4.857142857142857,
   "rating_count": 7,
   "difficulty_average": 2.0,
-  "favorites_count": 886,
-  "projects_count": 17,
+  "favorites_count": 920,
+  "projects_count": 20,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/92034/983743",
+  "notes": "**this pattern will be free for a limited time!**\r\n\r\nlola hat is a simple, classic beanie done in 2x2 rib with a double folded brim and easy decreases to shape the top of the hat.\r\n\r\nsizes:  s (m)\r\n\r\n**head circumference:**  51-54 (56-59) cm / 20-21 (22-23¼) inches\r\n\r\n**suggested needles:**   3.5mm (us4) 16 inches/40cm circular needle and 3.5mm (us4) double-pointed needles or suitable needle size to get gauge\r\n\r\n**gauge:** 20 stitches x 24 rows in 2x2 rib (k2, p2) on 3.5mm (us4) needles = 10x 10 cm or 4x4 inches\r\n\r\n**yarn:**  100-150 (150) g of drops lima (50g = 100m                                 or 109yds) held together with 25 (25) g of knitting for olive soft silk mohair  (25g = 225m or 246yds)\r\n\r\nthe white lola hat is knit in drops lima in off white and knitting for olive soft silk mohair in cream\r\n",
   "pdf": {
     "filename": "7408668.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7408668.pdf",
-    "url": "https://pdf.ravelrycache.com/ToksKnits/1961993/Lola_Hat_EN_1.0.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481505&Signature=MHRum%2FQ1LmhRRjMnuMShE2CpFGU%3D&key_expires=1768481505&key=OzwFLg7eMgnkxGTF44tijQ",
+    "url": "https://pdf.ravelrycache.com/ToksKnits/1961993/Lola_Hat_EN_1.0.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770432512&Signature=7%2BxlQpusaEmxkbVPFKsGbS878Gw%3D&key_expires=1770432512&key=Ob5EdNlpGTZuMbfC-qoj6Q",
     "size_bytes": 1198783
   }
 }

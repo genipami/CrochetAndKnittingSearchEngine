@@ -1,27 +1,27 @@
 {
   "id": 1150198,
-  "name": "Eyelet Bandana",
+  "name": "eyelet bandana",
   "permalink": "eyelet-bandana",
   "url": "https://www.ravelry.com/patterns/library/eyelet-bandana",
   "external_url": "",
-  "designer_name": "Emily Kessler",
-  "project_type": "Hat",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "emily kessler",
+  "project_type": "hat",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Cotton DK",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Eyelet lace",
-    "Shell",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "eyelet lace",
+    "shell",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     4.0
@@ -32,14 +32,15 @@
   "rating_average": 4.285714285714286,
   "rating_count": 49,
   "difficulty_average": 2.5681818181818183,
-  "favorites_count": 3920,
-  "projects_count": 192,
+  "favorites_count": 3966,
+  "projects_count": 193,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/89589/705377",
+  "notes": "a sweet, straightforward bandana pattern featuring a repeating shell motif. good for a beginner looking to expand their knowledge of stitches, or for a more advanced crocheter looking to get rid of some extra yarn in their stash!\r\n\r\nthis pattern features two different finishes, one with a smooth edge and one with a picot edge so you can customize it to your liking. \r\n\r\nuses ~50 g of cotton dk yarn for both variations of the pattern. \r\ni used paintbox cotton dk yarn for this pattern with a 4mm crochet hook. \r\n\r\nother materials needed:\r\nyarn needle for weaving in ends\r\nscissors\r\n\r\nyou can find me on tiktok @hollecropper\r\nand on instagram @hollecropper\r\n",
   "pdf": {
     "filename": "1150198.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1150198.pdf",
-    "url": "https://pdf.ravelrycache.com/hollecropper/1337078/Eyelet_Bandana_Pattern_by_Emily_Kessler.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480234&Signature=7zgxV7hhDzRu2QfK8jA8lKzwR4A%3D&key_expires=1768480234&key=hvvWqopHEJTrMHZL2wtlJw",
+    "url": "https://pdf.ravelrycache.com/hollecropper/1337078/Eyelet_Bandana_Pattern_by_Emily_Kessler.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770425435&Signature=%2BPFjfdve3r95gaUD11vad0uSz8U%3D&key_expires=1770425435&key=gzET_Pr6ad1BJV2EDtXXjg",
     "size_bytes": 9277973
   }
 }

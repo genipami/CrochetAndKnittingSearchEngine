@@ -1,44 +1,49 @@
 {
   "id": 1341686,
-  "name": "Sherbet Bandana",
+  "name": "sherbet bandana",
   "permalink": "sherbet-bandana",
   "url": "https://www.ravelry.com/patterns/library/sherbet-bandana",
   "external_url": "",
-  "designer_name": "The Lamb & Kid Designs",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "the lamb & kid designs",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Big Birdie",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 79.0
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 21.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamless",
-    "Written"
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     5.0
   ],
   "published": "2023/06/01",
-  "sizes_available": "One Size",
+  "sizes_available": "one size",
   "rating_average": 4.9,
   "rating_count": 70,
-  "difficulty_average": 1.5820895522388059,
-  "favorites_count": 4949,
-  "projects_count": 300,
+  "difficulty_average": 1.537313432835821,
+  "favorites_count": 5065,
+  "projects_count": 302,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/90709/860861",
+  "notes": "the perfect “palate cleanser” project. just one skein of yarn and a free night or two, and you have a perfectly sized, perfectly fluffy accessory. we’re sure you’ll make more than one! \r\n\r\n*errata note*: the gauge stated should be 15 sts over 4\" in stockinette stitch, rather than the 12 sts stated on the pattern. gauge is not critical for this project, but in our big birdie yarn, you are aiming for a squishy and closely knit fabric.\r\n\r\nsample shown\r\nbig birdie in color atomic\r\n\r\nsizes\r\none size\r\n\r\nfinished measurements\r\napprox. 52” wingspan x 14” deep.\r\n\r\nyarn requirements\r\n*please note these are yarn estimates. the amount used will depend on yarn, your personal gauge, and any modifications you make.*\r\ndimond laine big birdie (79% alpaca, 21% silk; 174 yards per 100g); 1 skein\r\n\r\nor\r\n\r\naran weight yarn in the following amounts:\r\n174 yds/ 160 m\r\n\r\nsuggested needles\r\n*needles listed are suggested.*\r\ngauge needle: us 8 (5.0mm), 24” circular needles or longer.\r\n\r\ntools\r\ndarning needle\r\n\r\ngauge\r\n*while gauge is not crucial, it will affect overall yardage used and the overall finished dimensions.*\r\n15 sts and 22 rows=4” in stockinette st using gauge needle, blocked.\r\n\r\n**errata**\r\nthe gauge is incorrectly printed on the pattern. your gauge should be closer to 15 sts = 4” in stockinette stitch as stated above. \r\n",
   "pdf": {
     "filename": "1341686.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1341686.pdf",
-    "url": "https://pdf.ravelrycache.com/TheLambAndKid/1677190/LK-SHERBETBANDANA.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482933&Signature=LOknIzr9fHi2NAhLMLvOqO53Sus%3D&key_expires=1768482933&key=91faamJwGInTft9N4fpZ5w",
+    "url": "https://pdf.ravelrycache.com/TheLambAndKid/1677190/LK-SHERBETBANDANA.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770440191&Signature=TdGUunufsSOEW1stNwTZHAvl1Ds%3D&key_expires=1770440191&key=BYkLd9bPVRdUDm7cURlf1w",
     "size_bytes": 3140402
   }
 }

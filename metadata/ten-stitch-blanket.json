@@ -1,26 +1,26 @@
 {
   "id": 74682,
-  "name": "Ten Stitch Blanket",
+  "name": "ten stitch blanket",
   "permalink": "ten-stitch-blanket",
   "url": "https://www.ravelry.com/patterns/library/ten-stitch-blanket",
   "external_url": "",
-  "designer_name": "Frankie Brown",
-  "project_type": "Blanket",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "frankie brown",
+  "project_type": "blanket",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Kureyon（くれよん）",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Seamless",
-    "Short rows",
-    "Written"
+    "seamless",
+    "short rows",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [],
@@ -28,9 +28,10 @@
   "sizes_available": "",
   "rating_average": 4.556654676258993,
   "rating_count": 2224,
-  "difficulty_average": 2.309734513274336,
-  "favorites_count": 54088,
-  "projects_count": 9091,
+  "difficulty_average": 2.3105773282764432,
+  "favorites_count": 54236,
+  "projects_count": 9106,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/2288/12446"
+  "download_url": "http://www.ravelry.com/dls/2288/12446",
+  "notes": "an elizabeth zimmermann inspired blanket worked in any yarn using only 10 stitches. you start in the centre and work in a sort of square spiral, joining as you go. no sewing up needed!\r\n\r\nall my ravelry patterns are free to download but, if you enjoy them,\r\nplease consider making a donation to the british liver trust where\r\nthe money will go to fund research and support the families of\r\nchildren with a liver disease. you can do this easily by going to my\r\nfundraising page [here][1]\r\n\r\nthis pattern has been translated into 12 other languages (so far), all the translations are available as free downloads by clicking on the 'download' link.\r\n\r\n\r\n  [1]: https://www.justgiving.com/page/frankie-brown"
 }

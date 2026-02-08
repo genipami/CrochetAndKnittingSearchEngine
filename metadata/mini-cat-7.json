@@ -4,21 +4,25 @@
   "permalink": "mini-cat-7",
   "url": "https://www.ravelry.com/patterns/library/mini-cat-7",
   "external_url": "",
-  "designer_name": "A knitter",
-  "project_type": "Toys",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "a knitter",
+  "project_type": "toys",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "High Soft (하이소프트)",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 60.0
+    },
+    {
+      "fiber": "Polyester (Polyester)",
+      "pct": 40.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -29,14 +33,15 @@
   "rating_average": 4.7,
   "rating_count": 20,
   "difficulty_average": 2.6666666666666665,
-  "favorites_count": 2565,
-  "projects_count": 57,
+  "favorites_count": 2602,
+  "projects_count": 58,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/103613/931763",
+  "notes": "* toy stuffing\r\n* tapestry needle \r\n* 2 black doll eyes size 3mm\r\n* pink colored pencil for cheek ",
   "pdf": {
     "filename": "7343465.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7343465.pdf",
-    "url": "https://pdf.ravelrycache.com/bbluestar/1845634/Minicat_Eng_02.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481785&Signature=7NTNzLSwMyFVNy7GqXi1ZpdAh7A%3D&key_expires=1768481785&key=27w8kIWhpup_evT7nr_Msw",
+    "url": "https://pdf.ravelrycache.com/bbluestar/1845634/Minicat_Eng_02.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770433905&Signature=jTuuR1wwLu0qSu5oq042UH2ngl0%3D&key_expires=1770433905&key=7nuq10lZiWSGnBSSADLyBQ",
     "size_bytes": 517853
   }
 }

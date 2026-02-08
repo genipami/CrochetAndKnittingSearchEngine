@@ -1,25 +1,33 @@
 {
   "id": 1742,
-  "name": "Noro Striped Scarf",
+  "name": "noro striped scarf",
   "permalink": "noro-striped-scarf",
   "url": "https://www.ravelry.com/patterns/library/noro-striped-scarf",
   "external_url": "https://brooklyntweed.com/blogs/blog/noro-scarf",
-  "designer_name": "Jared Flood",
-  "project_type": "Scarf",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "jared flood",
+  "project_type": "scarf",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Silk Garden",
-      "pct": null
+      "fiber": "Silk (Silk)",
+      "pct": 45.0
+    },
+    {
+      "fiber": "Mohair (Mohair)",
+      "pct": 45.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -29,9 +37,10 @@
   "sizes_available": "5.5\" wide x 6 feet long",
   "rating_average": 4.639341158652026,
   "rating_count": 5282,
-  "difficulty_average": 1.418552427016756,
-  "favorites_count": 26282,
-  "projects_count": 16194,
+  "difficulty_average": 1.4186247408431236,
+  "favorites_count": 26380,
+  "projects_count": 16204,
   "free_ravelry_download": false,
-  "download_url": "https://brooklyntweed.com/blogs/blog/noro-scarf"
+  "download_url": "https://brooklyntweed.com/blogs/blog/noro-scarf",
+  "notes": "first off, this is not my pattern. it's been done time and time again. i've written up how i did my version on my blog (follow the link below), but i'm not claiming to have designed this. i was urged to list it under my designs for the sake of queuing on ravelry."
 }

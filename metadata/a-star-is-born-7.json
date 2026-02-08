@@ -1,22 +1,22 @@
 {
   "id": 7297521,
-  "name": "...a STAR is born",
+  "name": "...a star is born",
   "permalink": "a-star-is-born-7",
   "url": "https://www.ravelry.com/patterns/library/a-star-is-born-7",
   "external_url": "",
-  "designer_name": "Anna Lisek",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Bulky",
+  "designer_name": "anna lisek",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Jute Twine",
-      "pct": null
+      "fiber": "Cellulose (Plant fiber)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     3.0
@@ -27,14 +27,15 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 443,
+  "favorites_count": 444,
   "projects_count": 31,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/93494/895993",
+  "notes": "....a star is born - day 4\r\n\r\nfourth mystery item of 2023 advent calendar event! join to the event [here][1] to share the christmas joy!\r\n\r\n\r\n  [1]: https://www.ravelry.com/events/2023-advent-calendar",
   "pdf": {
     "filename": "7297521.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7297521.pdf",
-    "url": "https://pdf.ravelrycache.com/madebyLisek/1757620/DAY_4_ADVENT_CALENDAR_madebyLisek.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768478618&Signature=zAlOqMsH5XB0SMzwyVWJPI48Wsw%3D&key_expires=1768478618&key=o0OoAkuaMkbNfV0nAyzqrw",
+    "url": "https://pdf.ravelrycache.com/madebyLisek/1757620/DAY_4_ADVENT_CALENDAR_madebyLisek.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770416357&Signature=VO97X08loeazt8i%2BkXTw1H3kmqA%3D&key_expires=1770416357&key=gQJBMpxFfZHS7ik_KGzOiA",
     "size_bytes": 463641
   }
 }

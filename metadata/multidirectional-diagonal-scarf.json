@@ -1,27 +1,35 @@
 {
   "id": 457,
-  "name": "Multidirectional Diagonal Scarf",
+  "name": "multidirectional diagonal scarf",
   "permalink": "multidirectional-diagonal-scarf",
   "url": "https://www.ravelry.com/patterns/library/multidirectional-diagonal-scarf",
   "external_url": "",
-  "designer_name": "Karen Baumer",
-  "project_type": "Scarf",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "karen baumer",
+  "project_type": "scarf",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Silk Garden",
-      "pct": null
+      "fiber": "Silk (Silk)",
+      "pct": 45.0
+    },
+    {
+      "fiber": "Mohair (Mohair)",
+      "pct": 45.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)"
+    "single crochet (sc)"
   ],
   "techniques_used": [
-    "Modular",
-    "Seamless",
-    "Short rows",
-    "Written"
+    "modular",
+    "seamless",
+    "short rows",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -29,17 +37,18 @@
   ],
   "published": "2003/01/01",
   "sizes_available": "4 foot to 6 foot",
-  "rating_average": 4.447150511446663,
-  "rating_count": 2053,
-  "difficulty_average": 2.0449387199273716,
-  "favorites_count": 15997,
-  "projects_count": 5944,
+  "rating_average": 4.447688564476886,
+  "rating_count": 2055,
+  "difficulty_average": 2.0453514739229024,
+  "favorites_count": 16047,
+  "projects_count": 5955,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/4519/226340",
+  "notes": "sample shown in the recommended yarn, but the pattern can be used for many yarn weights--gorgeous in variegated yarns! for a fairly solid-looking scarf, use the needle size recommended on the ball band of your chosen yarn. go up a couple of needle sizes for a lacier-looking scarf.\r\n\r\n",
   "pdf": {
     "filename": "457.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\457.pdf",
-    "url": "https://pdf.ravelrycache.com/phibetakitten/383584/MultiDirect.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481988&Signature=JsuB68Z%2BD5j72q1tCGUHd0HQJuM%3D&key_expires=1768481988&key=ebswkxLQkKIHHt4cRimghw",
+    "url": "https://pdf.ravelrycache.com/phibetakitten/383584/MultiDirect.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770434866&Signature=20xIu0pLrXrUDXejvx8hmWO3aNk%3D&key_expires=1770434866&key=UF_osgRLWfYm-VUX1uBk4w",
     "size_bytes": 212310
   }
 }

@@ -1,30 +1,30 @@
 {
   "id": 164481,
-  "name": "Skew",
+  "name": "skew",
   "permalink": "skew",
   "url": "https://www.ravelry.com/patterns/library/skew",
   "external_url": "http://www.knitty.com/ISSUEwinter09/PATTskew.php",
-  "designer_name": "Lana Holden",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "lana holden",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Fingering",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Ribbing",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "ribbing",
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Kitchener stitch",
-    "Short rows",
-    "Written"
+    "in the round",
+    "kitchener stitch",
+    "short rows",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -33,11 +33,12 @@
   ],
   "published": "2010/02/01",
   "sizes_available": "one",
-  "rating_average": 4.444832750873689,
-  "rating_count": 2003,
-  "difficulty_average": 4.459128732256485,
-  "favorites_count": 23850,
-  "projects_count": 7304,
+  "rating_average": 4.444389027431422,
+  "rating_count": 2005,
+  "difficulty_average": 4.460635696821516,
+  "favorites_count": 23901,
+  "projects_count": 7311,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/10976/33930"
+  "download_url": "http://www.ravelry.com/dls/10976/33930",
+  "notes": "from the designer: i am no longer able to provide direct support for this free pattern. however, there are many, many projects with excellent notes by people who have knitted this pattern much more recently than i have, and it is extremely likely that if you search project notes and forum comments for this pattern, someone has already answered your question.\r\n\r\n**note:** the english version is only available on the knitty website (scroll to the bottom of this page for the link). it is not available as a ravelry pdf download.\r\n\r\nthe following translations are available via the ravelry download link above:\r\ngerman translation courtesy of [purzelonline][1].\r\nfinnish translation courtesy of [illusioknits][2].\r\nfrench translation courtesy of [elisala][3].\r\ndutch translation courtesy of [hinke][4].\r\ndanish translation courtesy of [anfromdenmark][5].\r\n\r\nnumerous fit mods are [available on the designer's blog][6].\r\n\r\n**from knitty:**\r\n\r\nhandpainted or self-striping yarns are particularly suitable for this design, as they will highlight the unusual stitch direction flow.\r\n\r\nthe use of dpns is not recommended (*designer's note: it's certainly possible to use dpns, but may be inconvenient*): since increases and decreases occur on opposite sides of the foot, frequent redistribution of stitches would be necessary. in addition, there are up to 102 stitches on the needles at one time.\r\n\r\nalthough the main portions of the foot and leg are worked on 72 stitches, because they are turned diagonally, the fit of this sock is comparable to a 60-stitch traditional sock circumference at the same gauge. heel fit is similar to a short-row heel with mini-gussets.\r\n\r\nerrata: \r\n* the first ribbing set-up row should read \"k2, \\[llinc, k2\\] *to 1 stitch before cor, llinc, k1, sl marker, k1, rlinc,* \\[k2, rlinc\\] to last 2 sts, k1, transfer last st to beg of round.\"\r\n* a mistake in the big toe section in the original release has been corrected on knitty.com (pink text).\r\n* a mistake in the leg section in the original release has been corrected on knitty.com (pink text): short row pair 1 now reads \"p31\" instead of \"p32\"; likewise, short row pair 2 now reads \"k31\" instead of \"k32\".\r\n\r\n\r\n  [1]: http://www.ravelry.com/people/search?in=all&query=purzelonline&s=\r\n  [2]: http://www.ravelry.com/people/illusioknits\r\n  [3]: http://www.ravelry.com/people/elisala\r\n  [4]: http://www.ravelry.com/people/hinke\r\n  [5]: http://www.ravelry.com/people/anfromdenmark\r\n  [6]: http://yarndiva.blogspot.com/2010/02/skew-u_24.html"
 }

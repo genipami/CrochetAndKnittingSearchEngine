@@ -1,22 +1,22 @@
 {
   "id": 7472049,
-  "name": "Lace Angels",
+  "name": "lace angels",
   "permalink": "lace-angels",
   "url": "https://www.ravelry.com/patterns/library/lace-angels",
   "external_url": "",
-  "designer_name": "Fay Rowland",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "fay rowland",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [],
   "stitches_used": [
-    "Lace",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "lace",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Lace",
-    "Written"
+    "lace",
+    "written"
   ],
   "hook_sizes_mm": [
     4.0
@@ -27,14 +27,15 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 143,
+  "favorites_count": 148,
   "projects_count": 8,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/113307/1032223",
+  "notes": "use scraps of dk or 4-ply to crochet these darling little angels.\r\nmake one lacy circle for the body and another for the wings.\r\nsuper simple - pretty much all trebles, and minimal sewing (yay!) \r\nget your church to make a bunch to give away in advent or yarn-bomb your town :-d",
   "pdf": {
     "filename": "7472049.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7472049.pdf",
-    "url": "https://pdf.ravelrycache.com/fairyfay/2079005/Lace_Angels.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481302&Signature=qkUjr6JGeos2Gcq6uL48xKRe1%2B4%3D&key_expires=1768481302&key=N22VpDtyQCz9ZtxpO3qljg",
+    "url": "https://pdf.ravelrycache.com/fairyfay/2079005/Lace_Angels.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770431254&Signature=e4fSzDJlj6dkNZY3XDGHNEFdZZQ%3D&key_expires=1770431254&key=aMz7km0Qm1YB2k5aLHUCmA",
     "size_bytes": 190524
   }
 }

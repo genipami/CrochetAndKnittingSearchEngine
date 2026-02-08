@@ -1,22 +1,22 @@
 {
   "id": 337877,
-  "name": "Fisherman's Cap",
+  "name": "fisherman's cap",
   "permalink": "fishermans-cap-4",
   "url": "https://www.ravelry.com/patterns/library/fishermans-cap-4",
   "external_url": "https://infinitetwist.com/products/fisherman-s-cap",
-  "designer_name": "Cate Carter-Evans",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "cate carter-evans",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Halo & Orbit Heather Handspun",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Ribbing",
-    "Treble crochet (tr)"
+    "ribbing",
+    "treble crochet (tr)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [],
@@ -25,17 +25,18 @@
   ],
   "published": null,
   "sizes_available": "fits heads 21\" to 25\"",
-  "rating_average": 4.712643678160919,
-  "rating_count": 87,
-  "difficulty_average": 2.3736263736263736,
-  "favorites_count": 1737,
-  "projects_count": 260,
+  "rating_average": 4.719101123595506,
+  "rating_count": 89,
+  "difficulty_average": 2.3870967741935485,
+  "favorites_count": 1756,
+  "projects_count": 263,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/31037/538231",
+  "notes": "the fisherman's cap features a cool ribbing detail on the crown, and can be knitted with or without a fold-up brim. it's nice and stretchy, and available in two sizes.",
   "pdf": {
     "filename": "337877.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\337877.pdf",
-    "url": "https://pdf.ravelrycache.com/infinitetwist/986601/Fisherman_s_Cap_v_2.2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480405&Signature=9gPTqwn5KTajOQYRt662jsnSJSI%3D&key_expires=1768480405&key=WQVE7JVo_WRJpxnO32eZlA",
+    "url": "https://pdf.ravelrycache.com/infinitetwist/986601/Fisherman_s_Cap_v_2.2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770426171&Signature=%2B30s9G6lHjTuSKXE1VfCjYVSX54%3D&key_expires=1770426171&key=UCEaq-7Ugup4-gqGpN5JmA",
     "size_bytes": 1699377
   }
 }

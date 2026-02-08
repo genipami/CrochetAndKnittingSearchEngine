@@ -1,62 +1,55 @@
 {
   "id": 7334115,
-  "name": "The Gathering Socks",
+  "name": "the gathering socks",
   "permalink": "the-gathering-socks",
   "url": "https://www.ravelry.com/patterns/library/the-gathering-socks",
   "external_url": "",
-  "designer_name": "Mary Pat McGurk",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "mary pat mcgurk",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Sassy Sock",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 78.8
     },
     {
-      "fiber": "Socks Yeah!",
-      "pct": null
-    },
-    {
-      "fiber": "Sprout Sock",
-      "pct": null
-    },
-    {
-      "fiber": "Stroll Fingering",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 21.2
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Slip stitch (sl st)",
-    "Stockinette stitch",
-    "Treble crochet (tr)",
-    "Twisted stitch"
+    "garter stitch",
+    "slip stitch (sl st)",
+    "stockinette stitch",
+    "treble crochet (tr)",
+    "twisted stitch"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Kitchener stitch",
-    "Mosaic",
-    "Written"
+    "charted",
+    "in the round",
+    "kitchener stitch",
+    "mosaic",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.25
   ],
   "published": "2024/04/01",
-  "sizes_available": "Small, Medium, Large",
+  "sizes_available": "small, medium, large",
   "rating_average": 4.1688311688311686,
   "rating_count": 77,
   "difficulty_average": 6.025974025974026,
-  "favorites_count": 766,
+  "favorites_count": 775,
   "projects_count": 534,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/71400/932832",
+  "notes": "> this pattern was created for sock madness 18 and is now available to the general public.\r\n\r\ninspiration for the design has come from the ravelry sock madness group’s moderators, designers and participants...and a very special friend who has been there to encourage and support my knitting journey. \r\n\r\n\"a gathering of fabric creating a ruche, \r\na gathering of novel techniques and construction challenges, gatherings to celebrate, \r\na gathering of like-minded sock lovers \r\nwho seek always to learn…\r\ntogether gathered…\"\r\n\r\ntechniques: provisional cast on, garter drop stitch, decorative welts, ruching, traveling twisted stitches, slip stitched ribbed heel flap, palestrina knots, mirrored chart. the instructions are written for using 2 circular needles. experienced knitters should be able to substitute preferred needles.\r\n\r\nlevel of difficulty: advanced intermediate. challenging and/or novel design elements\r\n\r\nyarns: three light fingering yarns. mc solid/semi-solid with good stitch definition. cc1 solid, semi-solid or multicolor smooth yarn. cc2 solid or semi-solid. the mc, cc1 and cc2 should contrast one another with cc2 holding high\r\ncontrast to the mc.\r\n\r\ngauge: use needle size to obtain gauge. \r\nstockinette – 2 in x 2 in / 5 cm x 5 cm = 17 sts; 24 rows\r\nmeasured on center instep pattern – 2 in x 2 in / 5 cm x 5 cm = 23 sts; 22 rows\r\n\r\nsizes: adult small, medium, large to fit leg circumferences of 8 (9, 10) in; 20 (22.5, 25) cm \r\n\r\n\r\n\r\n",
   "pdf": {
     "filename": "7334115.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7334115.pdf",
-    "url": "https://pdf.ravelrycache.com/bikewi/1843783/The_Gathering_Socks_v1.5____04-03-24.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483621&Signature=0uqxVaK%2Fv0sv%2FA5Cg7nVwIatsF4%3D&key_expires=1768483621&key=NQSe7PJsfjWl6mA8ejeGJA",
+    "url": "https://pdf.ravelrycache.com/bikewi/1843783/The_Gathering_Socks_v1.5____04-03-24.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770444124&Signature=RY1dHMil8UAP3JDVBRs3M7UltLA%3D&key_expires=1770444124&key=CxAhCdQkExp_8N4mlWj3AA",
     "size_bytes": 12850060
   }
 }

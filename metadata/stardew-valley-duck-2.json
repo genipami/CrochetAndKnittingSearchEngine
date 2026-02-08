@@ -1,17 +1,17 @@
 {
   "id": 7489935,
-  "name": "Stardew Valley Duck",
+  "name": "stardew valley duck",
   "permalink": "stardew-valley-duck-2",
   "url": "https://www.ravelry.com/patterns/library/stardew-valley-duck-2",
   "external_url": "",
-  "designer_name": "Shevy05",
-  "project_type": "Toys",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "shevy05",
+  "project_type": "toys",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Simply Soft",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
@@ -25,14 +25,15 @@
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 183,
+  "favorites_count": 219,
   "projects_count": 2,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/115268/1046764",
+  "notes": "inspired by concerned ape’s stardew valley and kit wolf’s stardew valley chicken pattern (yarn wolf creations)",
   "pdf": {
     "filename": "7489935.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7489935.pdf",
-    "url": "https://pdf.ravelrycache.com/Shevy05/2110691/Stardew_Valley_Duck.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483346&Signature=accPQT8N1V3H4ELLoVKfhnQD%2FMg%3D&key_expires=1768483346&key=a4DQ9VH1t6Yv-Bo4jey0dA",
+    "url": "https://pdf.ravelrycache.com/Shevy05/2110691/Stardew_Valley_Duck.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770442357&Signature=YlDAAaSHs4um21W%2BC5ExLEw%2BTVQ%3D&key_expires=1770442357&key=9Yd3zxxx0tEe-_8bh1sENA",
     "size_bytes": 3954147
   }
 }

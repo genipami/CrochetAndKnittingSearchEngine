@@ -1,30 +1,34 @@
 {
   "id": 7318266,
-  "name": "Memento",
+  "name": "memento",
   "permalink": "memento-4",
   "url": "https://www.ravelry.com/patterns/library/memento-4",
   "external_url": "",
-  "designer_name": "Conor of CallingForOrpheus",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "conor of callingfororpheus",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Silly Socks Disco",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Colorwork",
-    "In the round",
-    "Kitchener stitch",
-    "Short rows",
-    "Stranded colorwork",
-    "Written"
+    "charted",
+    "colorwork",
+    "in the round",
+    "kitchener stitch",
+    "short rows",
+    "stranded colorwork",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -35,15 +39,16 @@
   "sizes_available": "1 (2, 3) / 6.5\" (7.5\", 8.5\") [for finished object]",
   "rating_average": 4.739130434782608,
   "rating_count": 23,
-  "difficulty_average": 3.5217391304347827,
-  "favorites_count": 6150,
-  "projects_count": 143,
+  "difficulty_average": 3.5416666666666665,
+  "favorites_count": 6304,
+  "projects_count": 152,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/104543/911879",
+  "notes": "memento mori. unus annus... \r\n\r\n'memento' is a cuff-down colorwork sock pattern inspired by my favorite pair of commercial socks, which were a piece of unus annus merch purchased sometime before the channel's planned deletion in late 2020. now that the project is finished and the channel has been gone for years, those socks are pretty beat up and can no longer be re-purchased. but of course, we're knitters, so we find a way! this pattern is designed to be knit with a small amount of negative ease to ensure a snug fit around the foot, and is worked up on 2mm and 2.25mm needles. three sizes are available, with roughly one inch of difference between each of them. \r\n\r\nif you're still grieving ua, or if you just want a cool pair of contrasting skull socks, memento is the sock pattern for you! grab two skeins of highly contrasting sock yarn and be reminded of the endless forward march of time.\r\n\r\nyarn requirements\r\n\r\nfor two matching socks—\r\n♠ 40-65g of fingering weight sock yarn in mc\r\n♠ 20-25g of fingering weight sock yarn in cc\r\n\r\nfor mismatched socks—\r\n♠ 75-90g of fingering weight sock yarn in mc\r\n♠ 75-90g of fingering weight sock yarn in cc\r\n\r\nskill requirements / recommendations \r\n♠ tubular cast-on\r\n♠ knitting in the round\r\n♠ two-stranded colorwork knitting \r\n♠ kitchener stitch\r\n♠ preferably some understanding of short rows (for heel)\r\n\r\ndifficulty level: adventurous beginner to intermediate \r\n",
   "pdf": {
     "filename": "7318266.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7318266.pdf",
-    "url": "https://pdf.ravelrycache.com/callingfororpheus/1793603/MEMENTO__1_.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481710&Signature=5tyiB2FIZDzWEzuD02B8weiyZT8%3D&key_expires=1768481710&key=cLIciyNAFAZDASd45BZA1A",
+    "url": "https://pdf.ravelrycache.com/callingfororpheus/1793603/MEMENTO__1_.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770433594&Signature=al5NPp4YQp%2BY0hNR%2BlY%2Br7xrq4U%3D&key_expires=1770433594&key=saxTxTTdvFP3UvnnSZrgjQ",
     "size_bytes": 780850
   }
 }

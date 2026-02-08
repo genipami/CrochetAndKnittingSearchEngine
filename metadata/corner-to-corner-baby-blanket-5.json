@@ -1,43 +1,52 @@
 {
   "id": 785534,
-  "name": "Corner-to-Corner Baby Blanket",
+  "name": "corner-to-corner baby blanket",
   "permalink": "corner-to-corner-baby-blanket-5",
   "url": "https://www.ravelry.com/patterns/library/corner-to-corner-baby-blanket-5",
   "external_url": "",
-  "designer_name": "Anna Maria T",
-  "project_type": "Blanket",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "anna maria t",
+  "project_type": "blanket",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Painted Mist",
-      "pct": null
+      "fiber": "Rayon / Viscose (Rayon)",
+      "pct": 58.0
+    },
+    {
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 34.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 8.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     5.0
   ],
   "needle_sizes_mm": [],
   "published": "2017/10/01",
-  "sizes_available": "Finished size approximately 30\" square",
+  "sizes_available": "finished size approximately 30\" square",
   "rating_average": 4.909090909090909,
   "rating_count": 44,
   "difficulty_average": 2.159090909090909,
-  "favorites_count": 2287,
-  "projects_count": 249,
+  "favorites_count": 2310,
+  "projects_count": 251,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/65457/425048",
+  "notes": "description: a simple crochet stitch results in a series of blocks crocheted from corner-to-corner. add interest with a variegated or self-striping yarn. \r\n\r\nfinished size: approximately 30” square\r\n\r\nmaterials\r\nyarn:  painted mist (by knitting fever), 3 balls ( 820 yds)\r\nhook: h/8 (5mm)\r\n",
   "pdf": {
     "filename": "785534.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\785534.pdf",
-    "url": "https://pdf.ravelrycache.com/purlygirlerin/1370021/Corner_to_Corner_Crochet_Baby_Blanket_EY_fpf102717-2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479691&Signature=D8T1cip8He3Fs%2FsxMYTxstpV5uU%3D&key_expires=1768479691&key=lj7ijE6lmKLJpnpKAnapIg",
+    "url": "https://pdf.ravelrycache.com/purlygirlerin/1370021/Corner_to_Corner_Crochet_Baby_Blanket_EY_fpf102717-2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770422242&Signature=7yLthmr6E5Tabdu49poJSnhLIeM%3D&key_expires=1770422242&key=Htp5HXBTlGK-lfLQ891lCA",
     "size_bytes": 1442520
   }
 }

@@ -1,38 +1,43 @@
 {
   "id": 7361999,
-  "name": "The Great British Sock Off",
+  "name": "the great british sock off",
   "permalink": "the-great-british-sock-off",
   "url": "https://www.ravelry.com/patterns/library/the-great-british-sock-off",
   "external_url": "",
-  "designer_name": "Becky Greene",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "becky greene",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Stroll Fingering",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Written"
+    "charted",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.75
   ],
   "published": "2024/08/01",
-  "sizes_available": "S, M, L, XL",
+  "sizes_available": "s, m, l, xl",
   "rating_average": 4.828125,
   "rating_count": 64,
   "difficulty_average": 3.7540983606557377,
-  "favorites_count": 1287,
+  "favorites_count": 1300,
   "projects_count": 241,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/15372/945979"
+  "download_url": "http://www.ravelry.com/dls/15372/945979",
+  "notes": "welcome to a new season of sock knitter’s anonymous mystery knit-alongs! \r\n\r\nduring the month of september, we will be inspired by the great british bake off. each week, you will be presented with a new challenge inspired by delicious baked treats. included with each part of the mystery will be a coordinating recipe! use these to inspire yourself to finish the clues on time, or console yourself if you can’t finish right away. *(all recipes have been given the thumb’s up of approval from the greenethumb family.)*\r\n\r\n**sizes:** there are four size options for this pattern. additionally, there will be options on the foot to adjust for your perfect length.\r\n\r\n**gauge:** these socks should be knit at the correct gauge to assure a good fit. apparently, i'm a tight knitter and need to use 2.75mm needles to get that gauge. please avoid sorrow, gnashing of teeth, and a trip to the frog pond by using the correct size of needles that will give you the right gauge.\r\n\r\n**materials:** unless perhaps you are knitting socks with very long feet, a standard 100 gm/440 yard skein of sock yarn will be sufficient to knit these socks.\r\n\r\n**pattern release dates:**\r\nseptember 1 - part 1\r\nseptember 8 - part 2\r\nseptember 15 - part 3\r\nseptember 22 - part 4\r\n"
 }

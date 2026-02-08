@@ -1,22 +1,22 @@
 {
   "id": 7296435,
-  "name": "Easy Snowflake",
+  "name": "easy snowflake",
   "permalink": "easy-snowflake-9",
   "url": "https://www.ravelry.com/patterns/library/easy-snowflake-9",
   "external_url": "https://www.stitchbyfay.com/easy-snowflake-crochet-pattern/",
-  "designer_name": "Fay Lyth",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "fay lyth",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Cotton DK",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     2.5
@@ -27,8 +27,9 @@
   "rating_average": 4.857142857142857,
   "rating_count": 7,
   "difficulty_average": 1.4285714285714286,
-  "favorites_count": 941,
+  "favorites_count": 950,
   "projects_count": 42,
   "free_ravelry_download": false,
-  "download_url": "https://www.stitchbyfay.com/easy-snowflake-crochet-pattern/"
+  "download_url": "https://www.stitchbyfay.com/easy-snowflake-crochet-pattern/",
+  "notes": ""
 }

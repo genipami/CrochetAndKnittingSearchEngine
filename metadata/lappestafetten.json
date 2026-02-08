@@ -1,30 +1,34 @@
 {
   "id": 7337658,
-  "name": "Lappestafetten",
+  "name": "lappestafetten",
   "permalink": "lappestafetten",
   "url": "https://www.ravelry.com/patterns/library/lappestafetten",
   "external_url": "",
-  "designer_name": "Gunn-Iren Gunvorsdatter Simensen",
-  "project_type": "Other",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "gunn-iren gunvorsdatter simensen",
+  "project_type": "other",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Bomullsgarn",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 33.3
     },
     {
-      "fiber": "Sokkegarn",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 33.3
     },
     {
-      "fiber": "Ullgarn 3 threads",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 25.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 8.3
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [],
   "hook_sizes_mm": [],
@@ -33,12 +37,13 @@
     10.0
   ],
   "published": "2024/05/01",
-  "sizes_available": "Onesize",
+  "sizes_available": "onesize",
   "rating_average": 4.833333333333333,
   "rating_count": 6,
   "difficulty_average": 2.2,
-  "favorites_count": 627,
-  "projects_count": 935,
+  "favorites_count": 654,
+  "projects_count": 966,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/99027/927313"
+  "download_url": "http://www.ravelry.com/dls/99027/927313",
+  "notes": "lappestafetten er en samstrikk for alle. \r\ndet kommer et nytt mønster fra en podcaster hver måned, dette er gratismønster.\r\ndu kan strikke i valgfritt garn og pinnestørrelsen du synes passer til ditt garnvalg.\r\ndette kan til slutt blir et lappeteppe eller du kan strikke lappene i bomulsgarn som blir flotte kluter.\r\ntanken er at vi sammen skal designe og strikke vakre tepper og/eller kluter.\r\n"
 }

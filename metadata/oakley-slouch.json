@@ -1,39 +1,44 @@
 {
   "id": 701288,
-  "name": "Oakley Slouch",
+  "name": "oakley slouch",
   "permalink": "oakley-slouch",
   "url": "https://www.ravelry.com/patterns/library/oakley-slouch",
   "external_url": "https://yarnandchai.com/oakley-slouch-hat/",
-  "designer_name": "Rebecca Langford",
-  "project_type": "Hat",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Fingering",
+  "designer_name": "rebecca langford",
+  "project_type": "hat",
+  "fiber_art": "crochet",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Heritage Paints",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Ribbing",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "ribbing",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless"
+    "in the round",
+    "seamless"
   ],
   "hook_sizes_mm": [
     3.5
   ],
   "needle_sizes_mm": [],
   "published": "2016/10/01",
-  "sizes_available": "Teen / Adult",
+  "sizes_available": "teen / adult",
   "rating_average": 4.702127659574468,
   "rating_count": 47,
   "difficulty_average": 2.8958333333333335,
-  "favorites_count": 3891,
+  "favorites_count": 3903,
   "projects_count": 337,
   "free_ravelry_download": false,
-  "download_url": "https://yarnandchai.com/oakley-slouch-hat/"
+  "download_url": "https://yarnandchai.com/oakley-slouch-hat/",
+  "notes": "one day i started wondering what it would be like to make a hat out of sock yarn. i got so curious that i finally grabbed a ball of heritage paints off my shelf and gave it a try. and it was actually really fun! i stuck with a simple formula of a faux-cinched crown and single crocheted body, because i'm a firm believer in keeping the stitches simple when i'm working with a busy yarn. and i found that working this pattern in single crochet allowed the design of the yarn to show up in nice, neat stripes.\r\n\r\nmy other philosophy of using busy yarn is that it helps to balance it out with a not-so-busy yarn, so i did the ribbing in heritage solids in the color snow, and i also made a pom pom with my clover pom pom maker using the same yarn. the resulting hat has such a nice feel and drape. like wearing a cozy sock on your head! :)"
 }

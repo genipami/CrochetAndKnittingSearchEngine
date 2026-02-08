@@ -1,32 +1,36 @@
 {
   "id": 7319866,
-  "name": "Mauru´uru",
+  "name": "mauru´uru",
   "permalink": "mauru-uru",
   "url": "https://www.ravelry.com/patterns/library/mauru-uru",
   "external_url": "https://feinmotorik.blogspot.com/2024/02/der-tahitikal-geht-in-die-funfte-runde.html",
-  "designer_name": "Julia-Maria Hegenbart",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Lace",
+  "designer_name": "julia-maria hegenbart",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "lace",
   "materials": [
     {
-      "fiber": "Fashion Tahiti",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 50.0
     },
     {
-      "fiber": "Merino Extrafine 285 Lace",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 49.5
+    },
+    {
+      "fiber": "Polyester (Polyester)",
+      "pct": 0.5
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Lace",
-    "Seamless",
-    "Written"
+    "charted",
+    "lace",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -37,8 +41,9 @@
   "rating_average": 4.6875,
   "rating_count": 16,
   "difficulty_average": 3.8,
-  "favorites_count": 804,
-  "projects_count": 87,
+  "favorites_count": 811,
+  "projects_count": 86,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/65540/913086"
+  "download_url": "http://www.ravelry.com/dls/65540/913086",
+  "notes": "[mauru´uru by schachenmayr][1]\r\n\r\n**mauru´uru** – ein mystery-kal in vier etappen\r\nhashtag: **#tahitikal**\r\n\r\ntahiti ist nicht nur eine insel im südpazifik sondern auch ein ganz leichtes sommerliches baumwollgarn von [schachenmayr][2], das hervorragend für luftig, leichte muster geeignet ist.\r\ndas garn kannst du direkt [hier][3] bestellen - oder wie immer bei der wollhändlerin deines vertrauens.\r\n\r\n**\"mauru´uru\"** bedeutet in der tahitianischen sprache **„danke“**. wir möchten euch allen ein herzliches danke aussprechen für eure teilnahme am mittlerweile fünften tahitikal. \r\nsomit laden wir, [schachenmayr][4] und ich, euch herzlich dazu ein, mit uns ein sommerliches, asymmetrisches tuch in vier etappen zu stricken.\r\n\r\n1. abschnitt: veröffentlichung am 22.03.2024\r\n2. abschnitt: veröffentlichung am 05.04.2024\r\n3. abschnitt: veröffentlichung am 19.04.2024\r\n4. abschnitt: veröffentlichung am 03.05.2024\r\n5. finale am 17.05.2024 – hier zeigen wir alle unsere fertigen tücher\r\n\r\nteile dein projekt mit uns! gemeinsam stricken macht spaß!\r\n\r\n• verwende auf instagram den hashtag **#tahitikal** und verlinke\r\n[@schachenmayr][5] und mich [@feinmotorik.blogspot][6] im bild und im text, damit wir euch auch finden.\r\n• poste deine bilder auf facebook in der gruppe [schachenmayr\r\nmaschentreff][7]\r\n• lege auf ravelry dein projekt an und verlinke es mit dem\r\ndesign, um auch alle anderen projekte zu entdecken\r\n\r\n> **errata** \r\n> \r\n> **us:** rows 41-112: repeat rows 17-40 three more times = 233sts\r\n> \r\n> **fr:** rangées 41-112: rép les rangées 17-40 encore 3x = 233m\r\n> \r\n> **nl:** rijen 41-112: herhaal rijen 17-41 nog 3 keer = 233s\r\n> \r\n> **de:** dieser fehler betrifft nur die übersetzungen, in der deutschen anleitung sind die angaben korrekt\r\n\r\n\r\n\r\n\r\n  [1]: https://schachenmayr.com/\r\n  [2]: https://www.instagram.com/schachenmayr/\r\n  [3]: http://bit.ly/schachenmayrtahiti\r\n  [4]: https://www.instagram.com/schachenmayr/\r\n  [5]: https://www.instagram.com/schachenmayr/\r\n  [6]: https://www.instagram.com/feinmotorik.blogspot/\r\n  [7]: https://www.facebook.com/groups/schachenmayr.maschentreff/"
 }

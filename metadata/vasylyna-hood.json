@@ -1,17 +1,25 @@
 {
   "id": 7493411,
-  "name": "Vasylyna hood",
+  "name": "vasylyna hood",
   "permalink": "vasylyna-hood",
   "url": "https://www.ravelry.com/patterns/library/vasylyna-hood",
   "external_url": "",
-  "designer_name": "Sonya Needlehands",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "sonya needlehands",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "DROPS Air",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 65.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 28.0
+    },
+    {
+      "fiber": "Merino (Merino)",
+      "pct": 7.0
     }
   ],
   "stitches_used": [],
@@ -22,11 +30,12 @@
   ],
   "published": "2026/01/01",
   "sizes_available": "one size",
-  "rating_average": 0,
-  "rating_count": null,
-  "difficulty_average": 0,
-  "favorites_count": 1735,
-  "projects_count": 25,
+  "rating_average": 4.25,
+  "rating_count": 4,
+  "difficulty_average": 2.75,
+  "favorites_count": 2381,
+  "projects_count": 60,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/115572/1049068"
+  "download_url": "http://www.ravelry.com/dls/115572/1049068",
+  "notes": "one-size mid-season lightweight hood"
 }

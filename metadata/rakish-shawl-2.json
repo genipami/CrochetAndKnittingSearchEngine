@@ -1,52 +1,61 @@
 {
   "id": 1362349,
-  "name": "Rakish Shawl",
+  "name": "rakish shawl",
   "permalink": "rakish-shawl-2",
   "url": "https://www.ravelry.com/patterns/library/rakish-shawl-2",
   "external_url": "https://thelambandkid.com",
-  "designer_name": "The Lamb & Kid Designs",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "the lamb & kid designs",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Big Birdie",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 39.5
     },
     {
-      "fiber": "Tod Worsted",
-      "pct": null
+      "fiber": "Yak (Yak)",
+      "pct": 32.5
+    },
+    {
+      "fiber": "Cashmere goat (Cashmere)",
+      "pct": 17.5
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 10.5
     }
   ],
   "stitches_used": [
-    "Ribbing",
-    "Treble crochet (tr)"
+    "ribbing",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Charted",
-    "Mosaic",
-    "Seamless",
-    "Top-down",
-    "Written"
+    "blocking",
+    "charted",
+    "mosaic",
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     6.0
   ],
   "published": "2023/09/01",
-  "sizes_available": "One Size/Adjustable",
-  "rating_average": 4.928571428571429,
-  "rating_count": 28,
+  "sizes_available": "one size/adjustable",
+  "rating_average": 4.931034482758621,
+  "rating_count": 29,
   "difficulty_average": 2.7142857142857144,
-  "favorites_count": 3852,
-  "projects_count": 129,
+  "favorites_count": 3882,
+  "projects_count": 133,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/91137/876575",
+  "notes": "release the hounds(tooth)! a classic autumnal pattern in a classic shawl shape for a finished piece that is dashing and a touch unexpected – perfection. this is a shawl for all your fall-inspired fantasies.\r\n\r\nsizes\r\none size/adjustable\r\n\r\nfinished measurements\r\napprox. 72” wingspan by 32” deep.\r\n\r\nsample shown\r\ncolor a: big birdie in pop rocks,\r\ncolor b: tod worsted in island bunny.\r\n\r\n*variation: use big birdie for both color a and color b. to knit the shawl we show here you’ll need 3 skeins of color a, blackbird (approx. 480 yds), and 2 skeins of color b, peanut (approx. 320 yds). we used a us 10.5 (6.5mm) needle for the shawl body and went down to a us 10 (6mm) for the ribbing. your finished size will be approx. 78” wingspan x 36” deep along spine. your gauge will measure approx. 13 sts/15 rows over 4”.*\r\n\r\nyarn requirements\r\n*please note these are yarn estimates. the amount used will depend on yarn, your personal gauge, and any modifications you make.*\r\ncolor a: dimond laine big birdie (79% alpaca, 21% silk, 174 yards per 100g skein); 3 skeins.\r\ncolor b: the lamb & kid tod worsted (65% yak, 35% cashmere, 114 yards per 50g skein); 3 skeins.\r\n\r\nor\r\n\r\ncolor a: 440 yds / 400m of aran weight yarn,\r\ncolor b: 290 yds / 265m of worsted weight yarn,\r\n\r\ntotal yardage: 730 yds / 665m.\r\n\r\nsuggested needles\r\n*needles listed are suggested.*\r\ngauge needle: us 10 (6mm) 32” circular needles.\r\n*optional:* us 10.5 (6.5mm), or needle one size larger than gauge needle for bind-off.\r\n\r\ntools\r\n4 stitch markers, tapestry needle.\r\n\r\ngauge\r\n*while gauge is not crucial, it will affect overall yardage used and the overall finished dimensions.*\r\napprox. 15 sts/20 rows = 4” in mosaic houndstooth stitch, after blocking.\r\n\r\n\r\n\r\n\r\n\r\n  [1]: https://thelambandkid.com/collections/kits",
   "pdf": {
     "filename": "1362349.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1362349.pdf",
-    "url": "https://pdf.ravelrycache.com/TheLambAndKid/1713128/LK-RAKISHSHAWLPATTERN.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482655&Signature=IxzDU54kwaWM%2BK5SSpsTioiFm%2BQ%3D&key_expires=1768482655&key=POPk9caGleu1Hv05X9Etyw",
+    "url": "https://pdf.ravelrycache.com/TheLambAndKid/1713128/LK-RAKISHSHAWLPATTERN.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770438506&Signature=jm7ElTNZ%2FTQgVEcTOTou5K5WKm4%3D&key_expires=1770438506&key=yk71x3auUVX7jybvgrncqw",
     "size_bytes": 3825787
   }
 }

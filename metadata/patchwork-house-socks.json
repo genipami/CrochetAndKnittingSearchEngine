@@ -5,17 +5,17 @@
   "url": "https://www.ravelry.com/patterns/library/patchwork-house-socks",
   "external_url": "",
   "designer_name": "autumngeisha",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [],
   "stitches_used": [
-    "Garter stitch",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Modular",
-    "Written"
+    "modular",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -23,17 +23,18 @@
   ],
   "published": "2025/10/01",
   "sizes_available": "",
-  "rating_average": 4.5,
-  "rating_count": 6,
-  "difficulty_average": 4.428571428571429,
-  "favorites_count": 3886,
-  "projects_count": 45,
+  "rating_average": 4.375,
+  "rating_count": 8,
+  "difficulty_average": 4.666666666666667,
+  "favorites_count": 3966,
+  "projects_count": 50,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/42195/1029324",
+  "notes": "this pattern was inspired by my love of both sock and blanket knitting. by blending the practicality of socks with the cozy warmth of a blanket, these socks are designed to feel like wrapping your feet in comfort. the pattern is available in two sizes and features a fun modular construction and afterthought heels. ",
   "pdf": {
     "filename": "7468399.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7468399.pdf",
-    "url": "https://pdf.ravelrycache.com/autumngeisha/2069785/patchwork_house_socks.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482292&Signature=afocooc8LmuuhvBACJvhs3RnCuo%3D&key_expires=1768482292&key=5cqlZQd-I2HxisJCAaGp1Q",
+    "url": "https://pdf.ravelrycache.com/autumngeisha/2069785/patchwork_house_socks.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770436519&Signature=25TAF26OaZ3hMK1ZDrcyHPRd1NU%3D&key_expires=1770436519&key=w4-N66BbnKgYfFfCEqPUqQ",
     "size_bytes": 3402342
   }
 }

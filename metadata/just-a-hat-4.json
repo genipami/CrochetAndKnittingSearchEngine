@@ -1,27 +1,23 @@
 {
   "id": 949505,
-  "name": "Just a hat",
+  "name": "just a hat",
   "permalink": "just-a-hat-4",
   "url": "https://www.ravelry.com/patterns/library/just-a-hat-4",
   "external_url": "",
-  "designer_name": "Halyna Shemchuk",
-  "project_type": "Child",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Aran",
+  "designer_name": "halyna shemchuk",
+  "project_type": "child",
+  "fiber_art": "knitting",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "Harmony 2/30 WoolMar",
-      "pct": null
-    },
-    {
-      "fiber": "Norfolk Yarna",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "Charted",
-    "Written"
+    "charted",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -33,8 +29,9 @@
   "rating_average": 4.802955665024631,
   "rating_count": 203,
   "difficulty_average": 2.1538461538461537,
-  "favorites_count": 7863,
-  "projects_count": 1048,
+  "favorites_count": 7921,
+  "projects_count": 1059,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/41312/546999"
+  "download_url": "http://www.ravelry.com/dls/41312/546999",
+  "notes": ""
 }

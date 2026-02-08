@@ -1,26 +1,30 @@
 {
   "id": 7483739,
-  "name": "Watch House",
+  "name": "watch house",
   "permalink": "watch-house",
   "url": "https://www.ravelry.com/patterns/library/watch-house",
   "external_url": "",
-  "designer_name": "Susan Ashcroft",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "susan ashcroft",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Alegría Grande",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Charted",
-    "Written"
+    "bottom-up",
+    "charted",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -31,14 +35,15 @@
   "rating_average": 4.769230769230769,
   "rating_count": 13,
   "difficulty_average": 1.6923076923076923,
-  "favorites_count": 1000,
-  "projects_count": 46,
+  "favorites_count": 1048,
+  "projects_count": 52,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/16192/1041835",
+  "notes": "**freebie for now for advent \r\n----------------------------------------\r\n\r\n2 x 2 rib - with a sleek crown (that echoes the shape of the watch house roof) \r\n\r\nuses less than one skein of worsted weight yarn \r\n- or you can use one strand of dk weight held together with a silk mohair yarn to get the same gauge; \r\nsome aran weight yarns will also get gauge. ",
   "pdf": {
     "filename": "7483739.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7483739.pdf",
-    "url": "https://pdf.ravelrycache.com/stitchnerd/2099080/Watch_House_-_dec_2nd.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484080&Signature=K%2F36pgpip1roZQYnymFJHd%2BSBCc%3D&key_expires=1768484080&key=J3uIsypwu0uP53x2jdpJ0A",
+    "url": "https://pdf.ravelrycache.com/stitchnerd/2099080/Watch_House_-_dec_2nd.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770446525&Signature=ztSPKukTXRTe2T7PCKarzzKKh%2FQ%3D&key_expires=1770446525&key=ngTsPzeDm6pwSETC7sPEqQ",
     "size_bytes": 445007
   }
 }

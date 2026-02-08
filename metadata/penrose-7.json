@@ -1,41 +1,41 @@
 {
   "id": 7316168,
-  "name": "Penrose",
+  "name": "penrose",
   "permalink": "penrose-7",
   "url": "https://www.ravelry.com/patterns/library/penrose-7",
   "external_url": "",
-  "designer_name": "Najlaa CHAFIK",
-  "project_type": "Bag",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "najlaa chafik",
+  "project_type": "bag",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "DROPS Karisma",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 53.8
     },
     {
-      "fiber": "DROPS Lima",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 25.0
     },
     {
-      "fiber": "DROPS Soft Tweed",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 15.0
     },
     {
-      "fiber": "Royal",
-      "pct": null
+      "fiber": "Rayon / Viscose (Rayon)",
+      "pct": 6.2
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Kitchener stitch",
-    "Top-down",
-    "Written"
+    "charted",
+    "in the round",
+    "kitchener stitch",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -46,8 +46,9 @@
   "rating_average": 5.0,
   "rating_count": 5,
   "difficulty_average": 2.0,
-  "favorites_count": 1495,
-  "projects_count": 72,
+  "favorites_count": 1514,
+  "projects_count": 74,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/95066/910394"
+  "download_url": "http://www.ravelry.com/dls/95066/910394",
+  "notes": "fr: penrose est une trousse rectangulaire, zippée et doublée.\r\nelle est caractérisée par un motif géométrique: tessellation de losanges. \r\n\r\nen: penrose is a rectangular, zipped and lined clutch with a geometric pattern: diamond tessellation.\r\n\r\n"
 }

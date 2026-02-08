@@ -1,38 +1,39 @@
 {
   "id": 1242928,
-  "name": "The Electric Sun Tee",
+  "name": "the electric sun tee",
   "permalink": "the-electric-sun-tee",
   "url": "https://www.ravelry.com/patterns/library/the-electric-sun-tee",
   "external_url": "https://www.eandpcrochet.com/the-electric-sun-tee-crochet-pattern/",
-  "designer_name": "Rachel Misner",
-  "project_type": "Tee",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "rachel misner",
+  "project_type": "tee",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "24/7 Cotton",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Written"
+    "bottom-up",
+    "written"
   ],
   "hook_sizes_mm": [
     4.0
   ],
   "needle_sizes_mm": [],
   "published": "2022/05/01",
-  "sizes_available": "Adult XS/S/M, L/XL/2X/3X and 4X/5X",
+  "sizes_available": "adult xs/s/m, l/xl/2x/3x and 4x/5x",
   "rating_average": 4.9375,
   "rating_count": 16,
   "difficulty_average": 3.4,
-  "favorites_count": 3522,
+  "favorites_count": 3571,
   "projects_count": 75,
   "free_ravelry_download": false,
-  "download_url": "http://www.ravelry.com/purchase/rachel-misner-designs/780222"
+  "download_url": "http://www.ravelry.com/purchase/rachel-misner-designs/780222",
+  "notes": "description:\r\ntoss on this colorful and oversized retro style tee this summer! the open stitches make this breezy tee perfect to use as a poolside cover up or to just pair with your favorite shorts. the bright colors and stripes make the texture pop!\r\n\r\nthis pattern is [free on my blog!][1]\r\n\r\n[this pattern is a lion brand kit!][2] the kit comes with all the yarn you need to make your top + the pattern! you can even customize your yarn color. \r\n\r\nthis pattern [has a full video tutorial!][3]\r\n\r\n\r\n  [1]: https://www.eandpcrochet.com/the-electric-sun-tee-crochet-pattern/\r\n  [2]: http://shrsl.com/3j2c9\r\n  [3]: https://youtu.be/cldx-ud08du"
 }

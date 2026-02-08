@@ -1,22 +1,22 @@
 {
   "id": 1316376,
-  "name": "Fireside Blanket",
+  "name": "fireside blanket",
   "permalink": "fireside-blanket-8",
   "url": "https://www.ravelry.com/patterns/library/fireside-blanket-8",
   "external_url": "https://attic24.co.uk/patterns/blankets/fireside-blanket",
-  "designer_name": "Lucy of Attic24",
-  "project_type": "Blanket",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "lucy of attic24",
+  "project_type": "blanket",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Highland Heathers",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     4.0,
@@ -25,11 +25,12 @@
   "needle_sizes_mm": [],
   "published": null,
   "sizes_available": "4 feet square",
-  "rating_average": 4.962962962962963,
-  "rating_count": 27,
-  "difficulty_average": 2.6666666666666665,
-  "favorites_count": 1804,
+  "rating_average": 4.964285714285714,
+  "rating_count": 28,
+  "difficulty_average": 2.6,
+  "favorites_count": 1834,
   "projects_count": 127,
   "free_ravelry_download": false,
-  "download_url": "https://attic24.co.uk/patterns/blankets/fireside-blanket"
+  "download_url": "https://attic24.co.uk/patterns/blankets/fireside-blanket",
+  "notes": "the finished blanket measures 120cm x 120cm (4 square feet). \r\n\r\nthere are 73 squares in total; 9 large and 64 small. \r\n\r\nonce all 73 squares have been made and joined, a wide border is worked to complete the blanket.\r\n\r\nit's a good idea to be familiar with your own personal tension and experiment with moving to a larger or smaller hook to achieve a neat result."
 }

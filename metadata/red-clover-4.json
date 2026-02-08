@@ -1,26 +1,30 @@
 {
   "id": 1121416,
-  "name": "Red Clover",
+  "name": "red clover",
   "permalink": "red-clover-4",
   "url": "https://www.ravelry.com/patterns/library/red-clover-4",
   "external_url": "https://www.anniedesigncrochet.com/2021/03/07/easy-one-skein-crochet-shawl-red-clover/",
-  "designer_name": "Carmen Heffernan",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Fingering",
+  "designer_name": "carmen heffernan",
+  "project_type": "shawl/wrap",
+  "fiber_art": "crochet",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Fine Sock",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Charted",
-    "Written"
+    "blocking",
+    "charted",
+    "written"
   ],
   "hook_sizes_mm": [
     4.0
@@ -28,11 +32,12 @@
   "needle_sizes_mm": [],
   "published": "2021/03/01",
   "sizes_available": "",
-  "rating_average": 4.818181818181818,
-  "rating_count": 22,
-  "difficulty_average": 2.5238095238095237,
-  "favorites_count": 1452,
+  "rating_average": 4.782608695652174,
+  "rating_count": 23,
+  "difficulty_average": 2.590909090909091,
+  "favorites_count": 1465,
   "projects_count": 99,
   "free_ravelry_download": false,
-  "download_url": "http://www.ravelry.com/purchase/carmen-heffernan-designs/682834"
+  "download_url": "http://www.ravelry.com/purchase/carmen-heffernan-designs/682834",
+  "notes": "a very pretty shawl design with a lovely drape, using approx. 400m of fingering weight yarn. one beautiful skein of yarn is all that is needed to show off this asymmetrical shawl in an easy 4-row repeat pattern. made using basic crochet stitches that combine to create an interesting pattern, that is relaxing and quick to crochet.\r\n\r\n**materials**\r\nlitlg life in the long grass: 4 ply/fine sock - 75% sw merino /25% nylon - 100g/435m\r\ncolour - saturn\r\n4mm crochet hook\r\nyou can use approx. 400m of any fingering weight yarn or yarn weight of your choice and matching hook.\r\n \r\n**measurements**\r\nshawl pictured measures 68in [173cm] on the longest length and 17in [43cm] depth after blocking\r\n\r\nyou can find a free version on my blog\r\n"
 }

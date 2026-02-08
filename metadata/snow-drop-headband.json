@@ -1,42 +1,47 @@
 {
   "id": 1196723,
-  "name": "Snow Drop Headband",
+  "name": "snow drop headband",
   "permalink": "snow-drop-headband",
   "url": "https://www.ravelry.com/patterns/library/snow-drop-headband",
   "external_url": "",
-  "designer_name": "Along avec Anna",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "along avec anna",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Merino",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 50.0
     },
     {
-      "fiber": "Silk Mohair",
-      "pct": null
+      "fiber": "Mohair (Mohair)",
+      "pct": 36.0
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 14.0
     }
   ],
   "stitches_used": [
-    "Slip stitch (sl st)",
-    "Treble crochet (tr)"
+    "slip stitch (sl st)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Written"
+    "charted",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     4.0
   ],
   "published": "2021/12/01",
-  "sizes_available": "Unique size",
-  "rating_average": 4.786516853932584,
-  "rating_count": 89,
-  "difficulty_average": 3.2,
-  "favorites_count": 7190,
-  "projects_count": 414,
+  "sizes_available": "unique size",
+  "rating_average": 4.791208791208791,
+  "rating_count": 91,
+  "difficulty_average": 3.207317073170732,
+  "favorites_count": 7244,
+  "projects_count": 419,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/64797/742342"
+  "download_url": "http://www.ravelry.com/dls/64797/742342",
+  "notes": "the snow drop headband is a pattern with a pretty motif. this pattern accessible to motivated beginners.\r\n\r\nthe techniques used are: co sts, bo sts, knit stitch, purl stitch, slip stitch, decrease, increase, double stitch, invisible seaming. \r\n\r\ngauge: motif of 23 sts x 25 rows = 10 x 6.5 cm\r\n\r\nyarns: [one ball of merino (200m-50g) and one ball of silk mohair (210m-25g) held together or two balls of merino (200m-50g) for a dk weight gauge][1] . you could as well use just one dk weight yarn if you prefer.\r\n\r\nsample version:\r\nmerino & silk mohair, along avec anna, colorway royal & colombe\r\n\r\nrecommended needles: 4mm/us6 \r\n\r\n\r\n--------\r\n\r\nle headband snow drop est un patron qui possède un joli motif réalisé en demi-côtes anglaises. il s'agit d'un patron accessible aux débutants motivés. \r\n\r\nles techniques utilisées sont : montages des maille, rabattage des mailles, maille endroit, maille envers, maille glissée, deux mailles ensemble à l'envers, maille double, augmentations, couture invisible des deux bords.\r\n\r\nechantillon : motif de 23 m x 25 rgs = 10 x 6.5 cm\r\n\r\nlaines : [une pelote de merino (200m-50g) et une pelote de silk mohair (210m-25g) tricotés ensemble ou deux pelotes de merino fingering (200m-50g) pour obtenir un échantillon dk.][2] vous pourriez également n’utiliser un seul fil dk merino au besoin.\r\n\r\nversion de présentation :\r\nmerino & silk mohair, along avec anna, coloris royal & colombe\r\n\r\naiguilles préconisées (si votre échantillon correspond bien) : 4mm/us6 \r\n\r\n\r\n  [1]: https://www.alongavecanna.com/en/categorie-produit/yarn/\r\n  [2]: https://www.alongavecanna.com/en/categorie-produit/yarn/"
 }

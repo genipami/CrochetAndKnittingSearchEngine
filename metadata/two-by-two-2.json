@@ -1,40 +1,36 @@
 {
   "id": 616533,
-  "name": "Two by Two",
+  "name": "two by two",
   "permalink": "two-by-two-2",
   "url": "https://www.ravelry.com/patterns/library/two-by-two-2",
   "external_url": "",
-  "designer_name": "Anne Gagnon",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "anne gagnon",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Cascade 220®",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 62.5
     },
     {
-      "fiber": "Cascade 220® Heathers",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 25.0
     },
     {
-      "fiber": "Ultra Alpaca",
-      "pct": null
-    },
-    {
-      "fiber": "Worsted",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 12.5
     }
   ],
   "stitches_used": [
-    "Ribbing",
-    "Treble crochet (tr)"
+    "ribbing",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Seamless",
-    "Written"
+    "bottom-up",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -42,11 +38,12 @@
   ],
   "published": "2015/10/01",
   "sizes_available": "",
-  "rating_average": 4.731543624161074,
-  "rating_count": 2086,
-  "difficulty_average": 1.892025755324418,
-  "favorites_count": 44474,
-  "projects_count": 9854,
+  "rating_average": 4.730203888098625,
+  "rating_count": 2109,
+  "difficulty_average": 1.8917727717923605,
+  "favorites_count": 45217,
+  "projects_count": 10040,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/40450/298193"
+  "download_url": "http://www.ravelry.com/dls/40450/298193",
+  "notes": "the pattern is now available in dutch. thank you ingrid for all your hard work!\r\n\r\nbecause of the ribbing, the hat will fit a size 21/22” head and stretch to a 23/24” head with changes to the length before crown."
 }

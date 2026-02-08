@@ -1,30 +1,34 @@
 {
   "id": 7395141,
-  "name": "Love in a Mist Hat",
+  "name": "love in a mist hat",
   "permalink": "love-in-a-mist-hat",
   "url": "https://www.ravelry.com/patterns/library/love-in-a-mist-hat",
   "external_url": "",
-  "designer_name": "Elenor Mortensen",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "elenor mortensen",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Dyed in the Wool",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 50.0
     },
     {
-      "fiber": "Trallafitti Leinen",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 45.0
+    },
+    {
+      "fiber": "Flax (Linen)",
+      "pct": 5.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Fair Isle",
-    "Stranded colorwork"
+    "charted",
+    "fair isle",
+    "stranded colorwork"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -32,12 +36,13 @@
     3.75
   ],
   "published": "2024/12/01",
-  "sizes_available": "One Size",
-  "rating_average": 4.827586206896552,
-  "rating_count": 29,
-  "difficulty_average": 4.035714285714286,
-  "favorites_count": 5504,
-  "projects_count": 128,
+  "sizes_available": "one size",
+  "rating_average": 4.818181818181818,
+  "rating_count": 33,
+  "difficulty_average": 4.225806451612903,
+  "favorites_count": 5733,
+  "projects_count": 141,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/86375/973327"
+  "download_url": "http://www.ravelry.com/dls/86375/973327",
+  "notes": "materials:\r\n\r\nmaincolour (mc, gray in chart): bohei trallafitti merino single leinen (366gr / 100gr) ca. 32gr\r\ncontrasting colour (cc, red in chart):  syincycle yarns, dyed in the wool, fb. rusted rainbow, ca. 17 gr\r\n"
 }

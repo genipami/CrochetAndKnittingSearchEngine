@@ -1,22 +1,22 @@
 {
   "id": 1257213,
-  "name": "The Picket Fence Baby Blanket",
+  "name": "the picket fence baby blanket",
   "permalink": "the-picket-fence-baby-blanket",
   "url": "https://www.ravelry.com/patterns/library/the-picket-fence-baby-blanket",
   "external_url": "https://daisycottagedesigns.net/easy-crochet-blanket-pattern/",
-  "designer_name": "Lauren Brown",
-  "project_type": "Blanket",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Aran",
+  "designer_name": "lauren brown",
+  "project_type": "blanket",
+  "fiber_art": "crochet",
+  "yarn_weight": "aran",
   "materials": [
     {
-      "fiber": "I Love This Yarn! Solids",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     6.0
@@ -27,8 +27,9 @@
   "rating_average": 4.975609756097561,
   "rating_count": 41,
   "difficulty_average": 1.868421052631579,
-  "favorites_count": 3679,
-  "projects_count": 221,
+  "favorites_count": 3786,
+  "projects_count": 227,
   "free_ravelry_download": false,
-  "download_url": "https://daisycottagedesigns.net/easy-crochet-blanket-pattern/"
+  "download_url": "https://daisycottagedesigns.net/easy-crochet-blanket-pattern/",
+  "notes": ""
 }

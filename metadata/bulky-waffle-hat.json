@@ -1,45 +1,46 @@
 {
   "id": 446640,
-  "name": "Bulky Waffle Hat",
+  "name": "bulky waffle hat",
   "permalink": "bulky-waffle-hat",
   "url": "https://www.ravelry.com/patterns/library/bulky-waffle-hat",
   "external_url": "",
-  "designer_name": "Linda Suda",
-  "project_type": "Child",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "linda suda",
+  "project_type": "child",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Cascade 128",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)",
-    "Waffle"
+    "treble crochet (tr)",
+    "waffle"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "In the round",
-    "Seamless"
+    "bottom-up",
+    "in the round",
+    "seamless"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     6.0
   ],
   "published": "2013/11/01",
-  "sizes_available": "child, small adult, medium adult, large adult (XL or slouchy fit)",
-  "rating_average": 4.70126582278481,
-  "rating_count": 790,
-  "difficulty_average": 1.6982097186700766,
-  "favorites_count": 9436,
-  "projects_count": 3358,
+  "sizes_available": "child, small adult, medium adult, large adult (xl or slouchy fit)",
+  "rating_average": 4.701643489254109,
+  "rating_count": 791,
+  "difficulty_average": 1.6973180076628354,
+  "favorites_count": 9458,
+  "projects_count": 3370,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/39732/181962",
+  "notes": "this is a quick and simple, bulky weight hat design for charity use.  the hat is designed to be long enough to cover the ears in harsh weather.  \r\n\r\nthis pattern will work well with any bulky weight yarn, as well as worsted weight yarn doubled.  solid, variegated, color-changing - all yarns work well with this basic design.  use your imagination to combine your yarns to equal a bulky weight and create a one-of-a-kind treasure.",
   "pdf": {
     "filename": "446640.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\446640.pdf",
-    "url": "https://pdf.ravelrycache.com/watcherlks/366574/Bulky_Waffle_Hat_2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479270&Signature=ubXQHfkcRJ8ENNQsRcKAq8rFuUU%3D&key_expires=1768479270&key=w4qN25vnU4mvHxMaZBVqKg",
+    "url": "https://pdf.ravelrycache.com/watcherlks/366574/Bulky_Waffle_Hat_2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770419957&Signature=XcPMdMWhOUaCPgXNBuTu%2BcKa5WM%3D&key_expires=1770419957&key=xZ9CmT3EbCuzD4Jvl2umXw",
     "size_bytes": 112762
   }
 }

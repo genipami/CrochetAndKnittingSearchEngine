@@ -1,31 +1,35 @@
 {
   "id": 1194714,
-  "name": "Frost at Dawn Cowl",
+  "name": "frost at dawn cowl",
   "permalink": "frost-at-dawn-cowl",
   "url": "https://www.ravelry.com/patterns/library/frost-at-dawn-cowl",
   "external_url": "",
-  "designer_name": "Beatrice Perron Dahlen",
-  "project_type": "Shawl/Wrap",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "beatrice perron dahlen",
+  "project_type": "shawl/wrap",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Cashgora Sport",
-      "pct": null
+      "fiber": "Cashgora (Cashmere)",
+      "pct": 50.0
     },
     {
-      "fiber": "Phinela  Worsted",
-      "pct": null
+      "fiber": "Finnish Landrace (Finn) (Wool)",
+      "pct": 30.0
+    },
+    {
+      "fiber": "Mohair (Mohair)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "In the round",
-    "Seamless",
-    "Top-down"
+    "blocking",
+    "in the round",
+    "seamless",
+    "top-down"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -33,18 +37,19 @@
     4.0
   ],
   "published": "2021/11/01",
-  "sizes_available": "Sport (Worsted) 21 (24)” [53.5 (61) cm] circumference by 12 (15)” [30.5 (38) cm] deep at point ",
-  "rating_average": 4.829787234042553,
-  "rating_count": 47,
-  "difficulty_average": 2.0434782608695654,
-  "favorites_count": 4425,
-  "projects_count": 249,
+  "sizes_available": "sport (worsted) 21 (24)” [53.5 (61) cm] circumference by 12 (15)” [30.5 (38) cm] deep at point ",
+  "rating_average": 4.833333333333333,
+  "rating_count": 48,
+  "difficulty_average": 2.021276595744681,
+  "favorites_count": 4461,
+  "projects_count": 251,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/29664/740824",
+  "notes": "farm yarns are my jam. my friend hannah from mindful folk farm lovingly raises her sheep to create small batch, botanically hand dyed yarns. this project was designed as a two-skein project to make the most of her gorgeous yarns. this unisex cowl is deep, featuring a simple stitch pattern to show off subtle color variations. a point at the bottom creates a “kerchief” look, and includes an optional tassel. you can find mindful folk fiber here: [https://www.etsy.com/shop/mindfulfolk][1] \r\n\r\nwhile the larger worsted weight pink version uses mindful folk yarn, the smaller sport weight green version features another very special yarn: cashmere people cashgora sport. it uses only one skein of this incredible soft, hand spun and hand dyed yarn. this yarn has a very special story as it is ethically sourced, spun and dyed by women in tajikistan and afghanistan.  you can find cashmere people yarns here: [https://portfiber.com/collections/tajik-cashgora-yarn][2]\r\n\r\n**please note, this free pattern is my gift to you. pattern support, including but not limited to yarn substitutions, advice on techniques, and pattern modifications, will not be available.**\r\n\r\n**finished measurements**\r\nsport (worsted)\r\n21 (24)” [53.5 (61) cm] circumference by 12 (15)” [30.5 (38) cm] deep at point (adjustable size)\r\n\r\n**yarn**\r\nsport weight (shown in green): cashmere people yarns cashgora sport (100% cashgora; 296 yds [271 meters] / 100 grams); 1 skein in pine.\r\nworsted weight (shown in pink): mindful folk fiber phinela (60% finn wool, 40% mohair; 180 yds / 70 grams); 2 skeins (yarn in photos is dyed with a combination of coreopsis & cochineal).\r\n\r\n**needles**\r\nsport: 16” [40 cm] circular needle in size us 4 [3.5 mm]\r\nworsted: 24” [60 cm] circular needle or smaller in size us 6 [4 mm]\r\nor size needed to obtain gauge\r\n\r\n**gauge**\r\nsport: 22 sts and 32 rnds = 4” [10 cm] in ridge pattern, after blocking\r\nworsted: 18 sts and 30 rnds = 4” [10 cm] in ridge pattern, after blocking\r\n\r\n**notions**\r\n2 stitch markers\r\n\r\n\r\n\r\n  [1]: https://www.etsy.com/shop/mindfulfolk\r\n  [2]: https://portfiber.com/collections/tajik-cashgora-yarn",
   "pdf": {
     "filename": "1194714.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1194714.pdf",
-    "url": "https://pdf.ravelrycache.com/threadandladle/1412708/FrostAtDawnCowl.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480546&Signature=z3J1PFE%2BEdmkBAPPP7tNsJThoT4%3D&key_expires=1768480546&key=vz5oj-A6F_wsxWWfef5y-w",
+    "url": "https://pdf.ravelrycache.com/threadandladle/1412708/FrostAtDawnCowl.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770426976&Signature=oS0EnFCCgRKyZJIyEqEr0pX7Jzk%3D&key_expires=1770426976&key=eQepS1_phduY9Mu72fwH4Q",
     "size_bytes": 1880053
   }
 }

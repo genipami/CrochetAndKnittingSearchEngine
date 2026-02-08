@@ -1,19 +1,19 @@
 {
   "id": 690768,
-  "name": "Waistcoat Stocking",
+  "name": "waistcoat stocking",
   "permalink": "waistcoat-stocking",
   "url": "https://www.ravelry.com/patterns/library/waistcoat-stocking",
   "external_url": "",
-  "designer_name": "Carmen Jacob",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "carmen jacob",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [],
   "stitches_used": [],
   "techniques_used": [
-    "Bottom-up",
-    "Charted",
-    "Written"
+    "bottom-up",
+    "charted",
+    "written"
   ],
   "hook_sizes_mm": [
     6.0
@@ -24,14 +24,15 @@
   "rating_average": 4.892857142857143,
   "rating_count": 28,
   "difficulty_average": 4.576923076923077,
-  "favorites_count": 2720,
+  "favorites_count": 2727,
   "projects_count": 126,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/54905/354734",
+  "notes": "",
   "pdf": {
     "filename": "690768.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\690768.pdf",
-    "url": "https://pdf.ravelrycache.com/Carasmom101/622072/Waistcoat_Stitch_Stocking_fin2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768484055&Signature=oT2kBmhleP97kjQtt66UclTq1MQ%3D&key_expires=1768484055&key=zxFdKjU5E94dRjswPyyZSw",
+    "url": "https://pdf.ravelrycache.com/Carasmom101/622072/Waistcoat_Stitch_Stocking_fin2.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770446421&Signature=zMuj1aGIFRd13ICKyi6ptRlIb8w%3D&key_expires=1770446421&key=lcRNXiC0pv6HQHwkbxs85w",
     "size_bytes": 1881301
   }
 }

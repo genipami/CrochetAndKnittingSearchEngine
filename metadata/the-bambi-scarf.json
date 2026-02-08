@@ -1,39 +1,40 @@
 {
   "id": 7487739,
-  "name": "The Bambi Scarf",
+  "name": "the bambi scarf",
   "permalink": "the-bambi-scarf",
   "url": "https://www.ravelry.com/patterns/library/the-bambi-scarf",
   "external_url": "",
-  "designer_name": "Sonja Otto",
-  "project_type": "Scarf",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "sonja otto",
+  "project_type": "scarf",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Slip stitch (sl st)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "slip stitch (sl st)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [
     6.0
   ],
   "needle_sizes_mm": [],
   "published": null,
-  "sizes_available": "Child-Adult",
+  "sizes_available": "child-adult",
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 432,
+  "favorites_count": 462,
   "projects_count": 3,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/12213/1045119",
+  "notes": "**about this project-** this is part of a series of hats and \r\nscarves dedicated to very special women and girls who \r\nare very dear to me.  \r\n\r\n**crochet level**- intermediate to advanced – uses short \r\nrows and slip stitches.  ",
   "pdf": {
     "filename": "7487739.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7487739.pdf",
-    "url": "https://pdf.ravelrycache.com/froggyhoppy/2106662/The_Bambi_Scarf.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768483574&Signature=50GgZCX8c8nBOX7FBCuvHNz5QN0%3D&key_expires=1768483574&key=XWHRTSVUSNMFZn95dAqnIg",
+    "url": "https://pdf.ravelrycache.com/froggyhoppy/2106662/The_Bambi_Scarf.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770443910&Signature=IF9elz%2BF3c%2FTxKivxfKGJAAgZZQ%3D&key_expires=1770443910&key=zhmDhzrVKlu2C-03FI2UGQ",
     "size_bytes": 1245707
   }
 }

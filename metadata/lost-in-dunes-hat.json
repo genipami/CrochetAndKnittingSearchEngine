@@ -1,40 +1,41 @@
 {
   "id": 7441479,
-  "name": "Lost in Dunes Hat",
+  "name": "lost in dunes hat",
   "permalink": "lost-in-dunes-hat",
   "url": "https://www.ravelry.com/patterns/library/lost-in-dunes-hat",
   "external_url": "https://celesteknitwear.com/lost-in-dunes-hat-knitting-pattern/",
-  "designer_name": "Celeste Knitwear",
-  "project_type": "Hat",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "celeste knitwear",
+  "project_type": "hat",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "DROPS Daisy",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Ribbing",
-    "Stockinette stitch"
+    "ribbing",
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "Blocking",
-    "Bottom-up",
-    "In the round",
-    "Seamless"
+    "blocking",
+    "bottom-up",
+    "in the round",
+    "seamless"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.0
   ],
   "published": "2025/06/01",
-  "sizes_available": "XS, S, M, L, XL",
-  "rating_average": 0,
-  "rating_count": null,
-  "difficulty_average": 0,
-  "favorites_count": 1091,
-  "projects_count": 25,
+  "sizes_available": "xs, s, m, l, xl",
+  "rating_average": 5.0,
+  "rating_count": 3,
+  "difficulty_average": 1.6666666666666667,
+  "favorites_count": 1129,
+  "projects_count": 30,
   "free_ravelry_download": false,
-  "download_url": "https://celesteknitwear.com/lost-in-dunes-hat-knitting-pattern/"
+  "download_url": "https://celesteknitwear.com/lost-in-dunes-hat-knitting-pattern/",
+  "notes": "the lost in dunes hat is a basic beanie, knit in 1×1 rib stitch. the brim is worked in 2×2 ribbing, and the body of the hat is knit in 1×1 ribbing.\r\n\r\nthe hat is knit in the round from the bottom up, so there are no seams. \r\n\r\nthe hat is knit with dk-weight merino wool.\r\n\r\nthe long-tail tubular cast-on is used for this hat."
 }

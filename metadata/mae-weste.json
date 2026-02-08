@@ -1,32 +1,44 @@
 {
   "id": 7461600,
-  "name": "Mae Weste",
+  "name": "mae weste",
   "permalink": "mae-weste",
   "url": "https://www.ravelry.com/patterns/library/mae-weste",
   "external_url": "https://www.tanjasteinbach.de/05-09-2025-kaffee-oder-tee-weste-stricken/",
-  "designer_name": "Tanja Steinbach",
-  "project_type": "Vest",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "tanja steinbach",
+  "project_type": "vest",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Alpaca Air II",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 44.0
     },
     {
-      "fiber": "Per Fortuna",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 25.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 13.5
+    },
+    {
+      "fiber": "Polyester (Polyester)",
+      "pct": 13.0
+    },
+    {
+      "fiber": "Merino (Merino)",
+      "pct": 4.5
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Written"
+    "bottom-up",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -37,8 +49,9 @@
   "rating_average": 4.75,
   "rating_count": 12,
   "difficulty_average": 3.1666666666666665,
-  "favorites_count": 518,
-  "projects_count": 48,
+  "favorites_count": 561,
+  "projects_count": 53,
   "free_ravelry_download": false,
-  "download_url": "https://www.tanjasteinbach.de/05-09-2025-kaffee-oder-tee-weste-stricken/"
+  "download_url": "https://www.tanjasteinbach.de/05-09-2025-kaffee-oder-tee-weste-stricken/",
+  "notes": "die offene kurz-weste wird ohne seitennaht von unten nach oben gestrickt. zuerst werden die maschen für das bündchen auf die dünnere rundstricknadel angeschlagen und einige zentimeter\r\nim rippenmuster gestrickt. dabei werden für die vorderen kantenblenden über jeweils 2 maschen besondere randmaschen gearbeitet. nach dem bündchen wird auf die dickere nadelstärke\r\ngewechselt und bis zu den armausschnitten glatt rechts gestrickt. im bereich der seitennähte wird als betonung jeweils 1 masche glatt links gestrickt.\r\nin höhe der armausschnitte werden die beiden vorderteilhälften und das rückenteil abgeteilt und nacheinander separat beendet, dabei die armausschnittblenden mit kraus rechts gestrickten maschen hervorgehoben. nach abschluss der schulterlinie werden aus dem halsausschnitt maschen auf die dünnere\r\nrundstricknadel aufgefasst und noch wenige runden\r\nim rippenmuster für die doppelte blende angestrickt.\r\ndas modell ist in 4 doppelgrößen beschrieben, um die richtige größe zu finden ist neben dem brustumfang auch der umfang der fertigen weste notiert. das modell kann nach belieben auch in der länge verändert werden. bitte dabei beachten, dass sich der verbrauch dadurch verändert.\r\n"
 }

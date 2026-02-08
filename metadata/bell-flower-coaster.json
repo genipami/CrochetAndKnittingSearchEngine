@@ -1,46 +1,47 @@
 {
   "id": 1340100,
-  "name": "Bell flower coaster",
+  "name": "bell flower coaster",
   "permalink": "bell-flower-coaster",
   "url": "https://www.ravelry.com/patterns/library/bell-flower-coaster",
   "external_url": "",
-  "designer_name": "Nga Hoang",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Fingering",
+  "designer_name": "nga hoang",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "100% Cotton 4 Ply",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Single crochet (sc)",
-    "Slip stitch (sl st)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "single crochet (sc)",
+    "slip stitch (sl st)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [
     3.0
   ],
   "needle_sizes_mm": [],
   "published": "2023/06/01",
-  "sizes_available": "Finished coaster: 5.5 inches in diameter/ Base part: 3 inches in diameter",
-  "rating_average": 4.85,
-  "rating_count": 20,
-  "difficulty_average": 2.35,
-  "favorites_count": 4111,
-  "projects_count": 120,
+  "sizes_available": "finished coaster: 5.5 inches in diameter/ base part: 3 inches in diameter",
+  "rating_average": 4.857142857142857,
+  "rating_count": 21,
+  "difficulty_average": 2.3333333333333335,
+  "favorites_count": 4285,
+  "projects_count": 126,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/96881/859640",
+  "notes": "skill level: beginner\r\n\r\nus terminology\r\n\r\nbasic crochet skill required: magic ring, chain, single crochet, double crochet, slip stitch.\r\n\r\nmaterials:\r\n- yarn\r\n- crochet hook\r\n- scissors\r\n- tapestry needle",
   "pdf": {
     "filename": "1340100.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1340100.pdf",
-    "url": "https://pdf.ravelrycache.com/Moccrochet/1674374/Flower_coaster_Pattern_Ngahtp.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479078&Signature=lSrwZldo%2BJFsggEDHtDq6ot2peM%3D&key_expires=1768479078&key=IDazPF2xksY3s9pfVoBSjQ",
+    "url": "https://pdf.ravelrycache.com/Moccrochet/1674374/Flower_coaster_Pattern_Ngahtp.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770418807&Signature=kK5ZV6Vj7wT0RyWSZuxCiDd1pqY%3D&key_expires=1770418807&key=JrBGR8OMiUgkXb1y_mkXXQ",
     "size_bytes": 2252867
   }
 }

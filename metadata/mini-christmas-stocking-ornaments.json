@@ -1,31 +1,31 @@
 {
   "id": 17533,
-  "name": "Mini Christmas Stocking Ornaments",
+  "name": "mini christmas stocking ornaments",
   "permalink": "mini-christmas-stocking-ornaments",
   "url": "https://www.ravelry.com/patterns/library/mini-christmas-stocking-ornaments",
   "external_url": "",
-  "designer_name": "Julie Williams",
-  "project_type": "Home",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "julie williams",
+  "project_type": "home",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "4 Ply Cotton",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Fair Isle",
-    "In the round",
-    "Intarsia",
-    "Seamed",
-    "Stranded colorwork",
-    "Written"
+    "charted",
+    "fair isle",
+    "in the round",
+    "intarsia",
+    "seamed",
+    "stranded colorwork",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -33,17 +33,18 @@
   ],
   "published": null,
   "sizes_available": "2-3 inches",
-  "rating_average": 4.665057915057915,
-  "rating_count": 1036,
-  "difficulty_average": 2.887523629489603,
-  "favorites_count": 31660,
-  "projects_count": 3280,
+  "rating_average": 4.664416586306654,
+  "rating_count": 1037,
+  "difficulty_average": 2.8876298394711992,
+  "favorites_count": 31780,
+  "projects_count": 3283,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/809/304105",
+  "notes": "**update november 19th 2015: there is now a free pdf file available for this pattern**\r\n\r\ni knit this stocking flat because i don't enjoy knitting in the round and prefer working fair isle and intarsia designs this way.\r\n\r\ni tend to work it on double pointed needles because during heel shaping you need to switch from working one side to the other. you can knit it on regular needles but slide the work across onto a second needle at appropriate time. apart from the stocking top it is worked in stocking stitch (knit on right side and purl on reverse)\r\n\r\n................................................................................\r\n\r\nthere are some great charts for other patterns to use on this stocking shared here:\r\nhttp://www.ravelry.com/projects/cozysunnyday/mini-christmas-stocking-ornaments",
   "pdf": {
     "filename": "17533.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\17533.pdf",
-    "url": "https://pdf.ravelrycache.com/bunnyknitter/2099649/Christmas_stockings.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481787&Signature=bU3mn8R1NZDrNM%2BJl8x04cHkDmU%3D&key_expires=1768481787&key=IwtCpOqjo5QhQRpk2WIHtA",
+    "url": "https://pdf.ravelrycache.com/bunnyknitter/2099649/Christmas_stockings.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770433912&Signature=wtwGyBoyM6Z10R%2B9HJBQfzFjAUI%3D&key_expires=1770433912&key=c6ackbLjtaTDfb0P491Wxg",
     "size_bytes": 2397203
   }
 }

@@ -1,46 +1,47 @@
 {
   "id": 7484442,
-  "name": "Chaussettes Marcel DK",
+  "name": "chaussettes marcel dk",
   "permalink": "chaussettes-marcel-dk",
   "url": "https://www.ravelry.com/patterns/library/chaussettes-marcel-dk",
   "external_url": "",
-  "designer_name": "PopsDanse",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "DK",
+  "designer_name": "popsdanse",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "6-fädig",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 75.0
     },
     {
-      "fiber": "DROPS Fiesta",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Written"
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     3.0
   ],
   "published": "2025/12/01",
-  "sizes_available": "S, M, L",
+  "sizes_available": "s, m, l",
   "rating_average": 0,
   "rating_count": null,
   "difficulty_average": 0,
-  "favorites_count": 92,
-  "projects_count": 10,
+  "favorites_count": 122,
+  "projects_count": 13,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/114900/1043112",
+  "notes": "les chaussettes marcel dk sont des chaussettes tricotées en laine d'épaisseur dk qui partent de la pointe jusqu'à la tige, afin d'optimiser au maximum ses restes. elles comprennent un talon à gousset renforcé.\r\n\r\nce sont des chaussettes très cosy, idéales pour les soirées d'hiver à la maison.\r\n\r\nle patron est adapté aux débutants.\r\n\r\nvous aurez besoin d'environ 100g de laine d'épaisseur dk (selon la longueur de pied et la hauteur de la tige souhaitée) et d'aiguilles entre 3 et 3,5 mm selon votre tension de tricot.\r\n\r\ntrois tailles sont disponibles : s, m ou l permettant de s'adapter à la largueur du pied.\r\n\r\n\r\nmerci d'avoir téléchargé ce modèle et bon tricot !",
   "pdf": {
     "filename": "7484442.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\7484442.pdf",
-    "url": "https://pdf.ravelrycache.com/P0ps/2107655/Chaussettes_Marcel_DK.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768479434&Signature=8p9sPIzI%2FKgq7nBl8YZ1gFQ9wGs%3D&key_expires=1768479434&key=c16UK6WPPhEFpB_xxw1oUQ",
+    "url": "https://pdf.ravelrycache.com/P0ps/2107655/Chaussettes_Marcel_DK.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770420931&Signature=9xA3mizDacnFd8kV%2Fa6E1CHSfQU%3D&key_expires=1770420931&key=NYnsZFHl7qmprk0kiVL5Pw",
     "size_bytes": 4138352
   }
 }

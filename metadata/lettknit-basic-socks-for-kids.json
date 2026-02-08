@@ -1,46 +1,43 @@
 {
   "id": 7341797,
-  "name": "Lettknit Basic Socks for Kids",
+  "name": "lettknit basic socks for kids",
   "permalink": "lettknit-basic-socks-for-kids",
   "url": "https://www.ravelry.com/patterns/library/lettknit-basic-socks-for-kids",
   "external_url": "",
-  "designer_name": "Bente Skeide ‎‏‏‎ ‎",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "bente skeide ‎‏‏‎ ‎",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "DROPS Fabel",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 78.3
     },
     {
-      "fiber": "Silja Sock",
-      "pct": null
-    },
-    {
-      "fiber": "Sisu",
-      "pct": null
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 21.7
     }
   ],
   "stitches_used": [
-    "Stockinette stitch"
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "In the round",
-    "Short rows",
-    "Top-down"
+    "in the round",
+    "short rows",
+    "top-down"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     2.5
   ],
   "published": "2024/05/01",
-  "sizes_available": "EUR 22-23 up to 34-35 / US Child 6,5 up to Adult 4",
+  "sizes_available": "eur 22-23 up to 34-35 / us child 6,5 up to adult 4",
   "rating_average": 5.0,
   "rating_count": 12,
   "difficulty_average": 2.4545454545454546,
-  "favorites_count": 562,
-  "projects_count": 58,
+  "favorites_count": 579,
+  "projects_count": 59,
   "free_ravelry_download": true,
-  "download_url": "http://www.ravelry.com/dls/89730/930544"
+  "download_url": "http://www.ravelry.com/dls/89730/930544",
+  "notes": "good wool socks are a necessity to keep little feet comfortably warm in winter. \r\n\r\nthe basic socks for kids are conceived for the size range from when kids start walking until their feet approach adult sizes.\r\n\r\nbsfk are knit top-down with a k2p2 ribbed leg section, a shaped heel section and a stockinette foot. in solid colour and with the suggested gauge and yarns, they are about as easy to knit as socks go.\r\n\r\ngood luck!"
 }

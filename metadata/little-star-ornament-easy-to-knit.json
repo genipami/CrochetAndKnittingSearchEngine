@@ -1,25 +1,25 @@
 {
   "id": 1333903,
-  "name": "Little Star Ornament easy to knit",
+  "name": "little star ornament easy to knit",
   "permalink": "little-star-ornament-easy-to-knit",
   "url": "https://www.ravelry.com/patterns/library/little-star-ornament-easy-to-knit",
   "external_url": "",
   "designer_name": "dunaksa",
-  "project_type": "Home",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Sport",
+  "project_type": "home",
+  "fiber_art": "knitting",
+  "yarn_weight": "sport",
   "materials": [
     {
-      "fiber": "DROPS Alpaca",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Stockinette stitch"
+    "stockinette stitch"
   ],
   "techniques_used": [
-    "In the round",
-    "Written"
+    "in the round",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -30,14 +30,15 @@
   "rating_average": 4.875,
   "rating_count": 24,
   "difficulty_average": 3.0,
-  "favorites_count": 4461,
-  "projects_count": 89,
+  "favorites_count": 4495,
+  "projects_count": 90,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/100224/854879",
+  "notes": "materials you need:\r\n- wool yarn in color you like,\r\n- 6 knitting needles,\r\n- yarn needle,\r\n- toy filling to stuff the star.\r\n\r\nif you knit using recommended yarn, then the finishing toy will be about 8 sm in diameter. but you can also take your favorite yarn (and knitting needles in a size sutable for the yarn weight) and get a star of a different size.",
   "pdf": {
     "filename": "1333903.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1333903.pdf",
-    "url": "https://pdf.ravelrycache.com/dunaksa/1662756/Star-knitting-pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768481489&Signature=ANFf5UhHPP3Go2gjDIDfyAxXInI%3D&key_expires=1768481489&key=FLdvhDpV2G3ZVbBg1npwwg",
+    "url": "https://pdf.ravelrycache.com/dunaksa/1662756/Star-knitting-pattern.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770432450&Signature=T47EAxzKRXqxAbifE94QTc0cgBU%3D&key_expires=1770432450&key=NwZq3ZizCY5DQAxeEtniSw",
     "size_bytes": 714524
   }
 }

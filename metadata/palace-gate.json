@@ -1,29 +1,33 @@
 {
   "id": 1310908,
-  "name": "Palace Gate",
+  "name": "palace gate",
   "permalink": "palace-gate",
   "url": "https://www.ravelry.com/patterns/library/palace-gate",
   "external_url": "https://payhip.com/b/HRPYy",
-  "designer_name": "Tiina Kuu",
-  "project_type": "Socks",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "tiina kuu",
+  "project_type": "socks",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Merino Sock",
-      "pct": null
+      "fiber": "Merino (Merino)",
+      "pct": 75.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 25.0
     }
   ],
   "stitches_used": [
-    "Lace",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "lace",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Lace",
-    "Stranded colorwork",
-    "Written"
+    "charted",
+    "lace",
+    "stranded colorwork",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -35,14 +39,15 @@
   "rating_average": 4.871794871794871,
   "rating_count": 39,
   "difficulty_average": 3.810810810810811,
-  "favorites_count": 4374,
-  "projects_count": 157,
+  "favorites_count": 4434,
+  "projects_count": 160,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/11173/836825",
+  "notes": ">this pattern can be downloaded also on [payhip][1] with  pay what you want option.\r\n\r\ninspired by the main gate of buckingham palace, this design honours the memory of the late queen elizabeth ii.\r\n\r\n---\r\n\r\n**pattern features:**\r\n\r\n- yardage for each colour: 25-35 grams of c1 (light pink) and 40-55 grams of c2 (grey)\r\n- knitted cuff down\r\n- instructions written in metric and us terminology\r\n- instructions written for magic loop but dpns can be used as well \r\n- four sizes: small (60 sts), medium (66 sts sts), large (72 sts) and extra-large (78 sts)\r\n- strong heel\r\n- charts but no written instructions for stranded colourwork\r\n- pattern tech edited by helena kahan\r\n\r\n\r\n  [1]: https://payhip.com/b/hrpyy",
   "pdf": {
     "filename": "1310908.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\1310908.pdf",
-    "url": "https://pdf.ravelrycache.com/TiiQ/1621514/PalaceGate_ver1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482283&Signature=fVxIt%2BQkNE1qZLh64dbS48OgU7w%3D&key_expires=1768482283&key=UWqlOMSyvW6W2DNfZy8Xbw",
+    "url": "https://pdf.ravelrycache.com/TiiQ/1621514/PalaceGate_ver1.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770436404&Signature=2cziYXDrlLt6L%2BfoVqTmVnB05Ok%3D&key_expires=1770436404&key=7oFuqlixt10wExy5ucSaig",
     "size_bytes": 442888
   }
 }

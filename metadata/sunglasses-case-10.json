@@ -1,35 +1,31 @@
 {
   "id": 903925,
-  "name": "Sunglasses Case",
+  "name": "sunglasses case",
   "permalink": "sunglasses-case-10",
   "url": "https://www.ravelry.com/patterns/library/sunglasses-case-10",
   "external_url": "http://www.kapercrochet.com/free-pattern-crochet-glasses-case/",
-  "designer_name": "Kat Perdue",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Worsted",
+  "designer_name": "kat perdue",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "All Seasons Cotton",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 86.7
     },
     {
-      "fiber": "Dishie",
-      "pct": null
-    },
-    {
-      "fiber": "Sugar'n Cream The Original (Solids)",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 13.3
     }
   ],
   "stitches_used": [
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "In the round",
-    "Seamless",
-    "Written"
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [
     4.5
@@ -40,8 +36,9 @@
   "rating_average": 4.708333333333333,
   "rating_count": 24,
   "difficulty_average": 1.6818181818181819,
-  "favorites_count": 915,
-  "projects_count": 94,
+  "favorites_count": 930,
+  "projects_count": 95,
   "free_ravelry_download": false,
-  "download_url": "http://www.kapercrochet.com/free-pattern-crochet-glasses-case/"
+  "download_url": "http://www.kapercrochet.com/free-pattern-crochet-glasses-case/",
+  "notes": "this glasses case is a quick and cute project that will keep your glasses from getting scratched in your purse or backpack.\r\n\r\nit's worked in one piece in the round and has a drawstring closure. "
 }

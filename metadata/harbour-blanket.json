@@ -1,17 +1,17 @@
 {
   "id": 1206880,
-  "name": "Harbour Blanket",
+  "name": "harbour blanket",
   "permalink": "harbour-blanket",
   "url": "https://www.ravelry.com/patterns/library/harbour-blanket",
   "external_url": "https://attic24.co.uk/patterns/blankets/harbour-blanket-cal/",
-  "designer_name": "Lucy of Attic24",
-  "project_type": "Blanket",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "lucy of attic24",
+  "project_type": "blanket",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Special Double Knit",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [],
@@ -22,11 +22,12 @@
   "needle_sizes_mm": [],
   "published": "2022/01/01",
   "sizes_available": "",
-  "rating_average": 4.972602739726027,
-  "rating_count": 73,
-  "difficulty_average": 2.0704225352112675,
-  "favorites_count": 1670,
-  "projects_count": 241,
+  "rating_average": 4.973333333333334,
+  "rating_count": 75,
+  "difficulty_average": 2.0821917808219177,
+  "favorites_count": 1688,
+  "projects_count": 243,
   "free_ravelry_download": false,
-  "download_url": "https://attic24.co.uk/patterns/blankets/harbour-blanket-cal/"
+  "download_url": "https://attic24.co.uk/patterns/blankets/harbour-blanket-cal/",
+  "notes": "uses 15 shades of stylecraft special dk"
 }

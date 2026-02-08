@@ -1,26 +1,38 @@
 {
   "id": 810150,
-  "name": "Pembroke Scarf",
+  "name": "pembroke scarf",
   "permalink": "pembroke-scarf-2",
   "url": "https://www.ravelry.com/patterns/library/pembroke-scarf-2",
   "external_url": "",
-  "designer_name": "Elizabeth McCarten",
-  "project_type": "Scarf",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Fingering",
+  "designer_name": "elizabeth mccarten",
+  "project_type": "scarf",
+  "fiber_art": "knitting",
+  "yarn_weight": "fingering",
   "materials": [
     {
-      "fiber": "Hand Paint Sock",
-      "pct": null
+      "fiber": "Alpaca (Alpaca)",
+      "pct": 50.0
+    },
+    {
+      "fiber": "Merino (Merino)",
+      "pct": 30.0
+    },
+    {
+      "fiber": "Silk (Silk)",
+      "pct": 10.0
+    },
+    {
+      "fiber": "Nylon / Polyamide (Nylon)",
+      "pct": 10.0
     }
   ],
   "stitches_used": [
-    "Garter stitch",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "garter stitch",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking"
+    "blocking"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -28,17 +40,18 @@
   ],
   "published": "2018/02/01",
   "sizes_available": "",
-  "rating_average": 4.81294964028777,
-  "rating_count": 278,
-  "difficulty_average": 1.7276119402985075,
-  "favorites_count": 10282,
-  "projects_count": 1121,
+  "rating_average": 4.814285714285714,
+  "rating_count": 280,
+  "difficulty_average": 1.7259259259259259,
+  "favorites_count": 10355,
+  "projects_count": 1128,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/14829/444057",
+  "notes": "simple can be beautiful, especially when sumptuous fibres (like merino and alpaca) are involved and a few tricks are thrown into the mix. this two-row scarf takes only 100g of fingering-weight yarn. i used a self-striping alpaca sock yarn, but you could easily use a merino hand-dyed semi-solid or even linen. if you’re looking for something suitable for “social” knitting that uses up stash luxury fibre and at the same time yields a smashing addition to your wardrobe, this is the perfect project.\r\n\r\nfor optional picot bo (my own \"unvention\"):\r\nwith rs facing and a needle one size smaller than you used for the garter stitch, *co 2 sts to the working end of the lh needle (use the knitted co method), then k2, pass 1st st over 2nd, k2tog, pass 1st st over 2nd, k1, pass 1st st over 2nd, sl remaining st on rh needle to lh needle, and repeat from * to last 3 sts. finally, co 2 sts, k2, pass 1st st over 2nd, k3tog, pass 1st st over 2nd, break yarn and pull through last st to fasten off.\r\nthe key element of this approach is the k2tog (and the k3tog at the end), which solves the looseness that bedeviled my picot attempts for so long.\r\n\r\n\r\n",
   "pdf": {
     "filename": "810150.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\810150.pdf",
-    "url": "https://pdf.ravelrycache.com/emccarten/1056675/Pembroke_Scarf.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768482316&Signature=nUIfjAciu3wi7OGV6Sm1bOvcgYs%3D&key_expires=1768482316&key=52ZZ8KskTTW2eoVb_YMK7w",
+    "url": "https://pdf.ravelrycache.com/emccarten/1056675/Pembroke_Scarf.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770436677&Signature=UufSo4jaHwzVP2%2BwpxSurkCHJpQ%3D&key_expires=1770436677&key=S3PcUNnDUir_fN1BSQXE6A",
     "size_bytes": 546572
   }
 }

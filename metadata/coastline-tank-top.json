@@ -1,32 +1,40 @@
 {
   "id": 7446964,
-  "name": "Coastline Tank Top",
+  "name": "coastline tank top",
   "permalink": "coastline-tank-top",
   "url": "https://www.ravelry.com/patterns/library/coastline-tank-top",
   "external_url": "https://sheepandstitch.com/pattern/how-to-knit-a-tank-top-free-knitting-pattern/",
-  "designer_name": "Davina Choy",
-  "project_type": "Tank/Camisole",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Worsted",
+  "designer_name": "davina choy",
+  "project_type": "tank/camisole",
+  "fiber_art": "knitting",
+  "yarn_weight": "worsted",
   "materials": [
     {
-      "fiber": "Line",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 53.0
+    },
+    {
+      "fiber": "Rayon / Viscose (Rayon)",
+      "pct": 33.0
+    },
+    {
+      "fiber": "Flax (Linen)",
+      "pct": 14.0
     }
   ],
   "stitches_used": [
-    "Cable",
-    "Ribbing",
-    "Single crochet (sc)",
-    "Stockinette stitch",
-    "Treble crochet (tr)"
+    "cable",
+    "ribbing",
+    "single crochet (sc)",
+    "stockinette stitch",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Cables",
-    "In the round",
-    "Seamless",
-    "Top-down",
-    "Written"
+    "cables",
+    "in the round",
+    "seamless",
+    "top-down",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
@@ -35,11 +43,12 @@
   ],
   "published": "2025/07/01",
   "sizes_available": "1-9",
-  "rating_average": 3.7142857142857144,
-  "rating_count": 7,
-  "difficulty_average": 2.625,
-  "favorites_count": 2353,
-  "projects_count": 56,
+  "rating_average": 3.625,
+  "rating_count": 8,
+  "difficulty_average": 2.6666666666666665,
+  "favorites_count": 2489,
+  "projects_count": 59,
   "free_ravelry_download": false,
-  "download_url": "https://sheepandstitch.com/pattern/how-to-knit-a-tank-top-free-knitting-pattern/"
+  "download_url": "https://sheepandstitch.com/pattern/how-to-knit-a-tank-top-free-knitting-pattern/",
+  "notes": "the coastline tank top is a light and breezy tank top. it features a universally-flattering scoop neck and a sleek ribbed armhole that seamlessly blends into the side ribbing. an optional split-hem gives it an extra summery look.\r\n\r\nthis pattern includes 9 sizes, ranging from a finished bust measurement of 30-54\".\r\n\r\n**video tutorial**\r\n\r\nif you’re nervous you won’t understand the pattern, the tutorial videos will hold your hand through the whole knitting process!\r\n\r\nat a little over 90 minutes, these comprehensive video tutorials cover the whole knitting process, from beginning to end. watch the free videos here ([part 1][1] and [part 2][2])\r\n\r\n**sizing:**\r\n\r\nthis tank is designed to have 2-3\" of positive ease.\r\n\r\nfinished bust measurements: 76 (80, 86.5, 90, 96) (107.5, 117, 126.5, 138) cm / 30 (31.5, 34, 35.5, 37.75) (42.25, 46, 49.75, 54.25) inches\r\n\r\n**materials:**\r\n\r\nyarn: 420 (430, 460, 480, 510) (580, 630, 680, 750) metres [460 (470, 510, 530, 560) (630, 685, 750, 820) yards] sandnes garn line (50g = 110 m) in color 9564 matcha. (the pink tank top is knit in 4636 shocking pink).\r\n\r\nneedles:\r\n* one us 6 (4 mm) 80 cm [32 inch] circular needle \r\n* one us 4 (3.5 mm) 40 or 60 cm [16 or 24 inch] circular needle (for neckband)\r\n* one us 4 (3.5 mm) 80 cm [32 inch] circular needle (for hem)\r\n\r\nnotions:\r\n* stitch markers, including removable markers\r\n* cable needle\r\n* scrap yarn\r\n* tape measure \r\n* scissors\r\n\r\ngauge: 20 sts and 31 rows = 10 cm / 4 inches in stockinette stitch in the round, using larger needles.\r\n\r\ndifficulty: this pattern is for experienced knitters. \r\n\r\n\r\n  [1]: https://youtu.be/wayndpgntjg\r\n  [2]: https://youtu.be/bi-0b_dx8s8"
 }

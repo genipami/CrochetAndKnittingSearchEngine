@@ -1,27 +1,31 @@
 {
   "id": 1096837,
-  "name": "Done In A Day Cuddler Throw",
+  "name": "done in a day cuddler throw",
   "permalink": "done-in-a-day-cuddler-throw",
   "url": "https://www.ravelry.com/patterns/library/done-in-a-day-cuddler-throw",
   "external_url": "https://www.mamainastitch.com/done-in-a-day-quick-crochet-blanket/",
-  "designer_name": "Jessica Reeves Potasz",
-  "project_type": "Blanket",
-  "fiber_art": "Crochet",
-  "yarn_weight": "Bulky",
+  "designer_name": "jessica reeves potasz",
+  "project_type": "blanket",
+  "fiber_art": "crochet",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Wool Ease Thick & Quick",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 80.0
+    },
+    {
+      "fiber": "Wool (Wool)",
+      "pct": 20.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Half double crochet (hdc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "half double crochet (hdc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Bottom-up",
-    "Written"
+    "bottom-up",
+    "written"
   ],
   "hook_sizes_mm": [
     15.0
@@ -32,8 +36,9 @@
   "rating_average": 4.928571428571429,
   "rating_count": 14,
   "difficulty_average": 2.5384615384615383,
-  "favorites_count": 1281,
+  "favorites_count": 1298,
   "projects_count": 64,
   "free_ravelry_download": false,
-  "download_url": "https://www.mamainastitch.com/done-in-a-day-quick-crochet-blanket/"
+  "download_url": "https://www.mamainastitch.com/done-in-a-day-quick-crochet-blanket/",
+  "notes": "*find the free pattern to view on the blog through the link here on ravelry.*  there is also a printable, ad-free version available in my etsy shop. enjoy!\r\n\r\nwith it’s knit look and braid like stitches, this cuddler blanket is both timeless and right on trend. using a large hook and super bulky yarn, you’ll be cozy both making and using your squishy new blanket. one day is all you’ll need to whip it up, and it’s easy enough for beginners!\r\n\r\nthis blanket is made with basic crochet stitches.  you can easily customize the size by starting with a longer or shorter chain (any stitch count will do), and crocheting for more or fewer rows. keep yarn needs in mind if you adjust the size!\r\n\r\nhope you like it!"
 }

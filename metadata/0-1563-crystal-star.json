@@ -1,28 +1,36 @@
 {
   "id": 1202218,
-  "name": "0-1563 Crystal Star",
+  "name": "0-1563 crystal star",
   "permalink": "0-1563-crystal-star",
   "url": "https://www.ravelry.com/patterns/library/0-1563-crystal-star",
   "external_url": "https://www.garnstudio.com/pattern.php?id=10650&cid=19",
-  "designer_name": "DROPS design",
-  "project_type": "Home",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "drops design",
+  "project_type": "home",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "DROPS Belle",
-      "pct": null
+      "fiber": "Cotton (Cotton)",
+      "pct": 53.0
+    },
+    {
+      "fiber": "Rayon / Viscose (Rayon)",
+      "pct": 33.0
+    },
+    {
+      "fiber": "Flax (Linen)",
+      "pct": 14.0
     }
   ],
   "stitches_used": [
-    "Double crochet (dc)",
-    "Treble crochet (tr)"
+    "double crochet (dc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "In the round",
-    "Seamless",
-    "Written"
+    "charted",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [
     3.25
@@ -33,8 +41,9 @@
   "rating_average": 4.833333333333333,
   "rating_count": 6,
   "difficulty_average": 2.1666666666666665,
-  "favorites_count": 619,
+  "favorites_count": 627,
   "projects_count": 32,
   "free_ravelry_download": false,
-  "download_url": "https://www.garnstudio.com/pattern.php?id=10650&cid=19"
+  "download_url": "https://www.garnstudio.com/pattern.php?id=10650&cid=19",
+  "notes": "**crocheted star christmas decoration in drops belle. theme: christmas.**\r\n~~~~~~~~~~~~~~~~~~~~~~~~~~\r\ndrops design: pattern vs-079\r\nyarn group b\r\n\r\n----------------------------------------------------------\r\n\r\n**size**:\r\npiece measures approx. width = 10 cm length = 14 cm with strap.\r\n\r\n**materials**:\r\ndrops belle from garnstudio (belongs to yarn group b)\r\n50 g colour 03, light beige\r\n\r\n1 star weighs approx. 8 g.\r\n\r\ncrochet hook:\r\ndrops crochet hook size 3.5 mm.\r\n\r\n**crochet tension**:\r\n20 treble crochets in width and 10 rows vertically = 10 x 10 cm.\r\nnote! remember that hook size is only a suggestion. if you have too many stitches on 10 cm switch to larger hook. if you have too few stitches on 10 cm switch to smaller hook. "
 }

@@ -1,49 +1,50 @@
 {
   "id": 794404,
-  "name": "Ginnel",
+  "name": "ginnel",
   "permalink": "ginnel",
   "url": "https://www.ravelry.com/patterns/library/ginnel",
   "external_url": "",
-  "designer_name": "Claire Walls",
-  "project_type": "Mittens/Gloves",
-  "fiber_art": "Knitting",
-  "yarn_weight": "Bulky",
+  "designer_name": "claire walls",
+  "project_type": "mittens/gloves",
+  "fiber_art": "knitting",
+  "yarn_weight": "bulky",
   "materials": [
     {
-      "fiber": "Ecological Wool®",
-      "pct": null
+      "fiber": "Wool (Wool)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Broken rib",
-    "Cable",
-    "Single crochet (sc)",
-    "Treble crochet (tr)"
+    "broken rib",
+    "cable",
+    "single crochet (sc)",
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Blocking",
-    "Cables",
-    "In the round",
-    "Seamless",
-    "Written"
+    "blocking",
+    "cables",
+    "in the round",
+    "seamless",
+    "written"
   ],
   "hook_sizes_mm": [],
   "needle_sizes_mm": [
     5.5
   ],
   "published": "2017/12/01",
-  "sizes_available": "Extra Small (Small, Medium, Large, Extra Large)",
-  "rating_average": 4.592592592592593,
-  "rating_count": 81,
-  "difficulty_average": 2.25974025974026,
-  "favorites_count": 3833,
-  "projects_count": 350,
+  "sizes_available": "extra small (small, medium, large, extra large)",
+  "rating_average": 4.616279069767442,
+  "rating_count": 86,
+  "difficulty_average": 2.2195121951219514,
+  "favorites_count": 3857,
+  "projects_count": 362,
   "free_ravelry_download": true,
   "download_url": "http://www.ravelry.com/dls/59257/431931",
+  "notes": "i’m so excited to introduce ginnel, a super chunky and cosy pair of fingerless mittens! for this pattern i wanted to create the ultimate gift knitting project; simple, fast and free! think of them as your blank canvas to paint however you like, to make the as special and individual as the person receiving them. in the images i have shown just a few ways to get creative, but i can’t wait to see what you come up with! \r\n\r\nhappy knitting! x\r\n\r\np.s. this pattern has been test knit.\r\n\r\n**materials:**\r\n\r\ncascasdes ecological wool, 100% wool, 477 yds 250g\r\n\r\n1 skein in colour vanilla\r\n\r\n**gauge:**\r\n\r\n16 sts x 26 rows in broken rib (see special techniques) = 4 inch (10 cm) after blocking.\r\n\r\n**needles**\r\n\r\n5.5 mm (us 9) circular needle with a 32 inch cable, or size to obtain gauge. \r\n\r\n**finished dimensions:**\r\n\r\nextra small (small, medium, large, extra large)\r\n\r\nhand circ. unstretched: 6 (6.5, 7, 7.5 8) inches/15.25 (16.5, 17.75, 19, 20.25)cm.\r\n\r\nlength: adjustable\r\n\r\n**notions:**\r\n\r\ntapestry needle \r\nstitch markers\r\nscrap yarn\r\n\r\n**skill level:**\r\n\r\n1 of 5\r\n\r\n",
   "pdf": {
     "filename": "794404.pdf",
     "path": "C:\\Users\\PSLAVCHE\\Documents\\University\\AI\\CrochetAndKnittingSearchEngine\\pdfs\\794404.pdf",
-    "url": "https://pdf.ravelrycache.com/FlossiKnits/771340/Ginnel_final.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1768480604&Signature=ThjIuKvuQXSmLP7R9k%2B8PA5htLU%3D&key_expires=1768480604&key=ohm8DFRKTfR_XKJ-kouZ2Q",
+    "url": "https://pdf.ravelrycache.com/FlossiKnits/771340/Ginnel_final.pdf?AWSAccessKeyId=AKIAJNNSUP6J3RN4WZYQ&Expires=1770427500&Signature=RSNaDIHVJzGOVU47LU63bLYWOdg%3D&key_expires=1770427500&key=pkrWSnLBz6hbim4bjrb6dw",
     "size_bytes": 6742167
   }
 }

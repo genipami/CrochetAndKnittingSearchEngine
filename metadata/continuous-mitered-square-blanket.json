@@ -1,38 +1,39 @@
 {
   "id": 826067,
-  "name": "Continuous Mitered Square Blanket",
+  "name": "continuous mitered square blanket",
   "permalink": "continuous-mitered-square-blanket",
   "url": "https://www.ravelry.com/patterns/library/continuous-mitered-square-blanket",
   "external_url": "https://www.petalstopicots.com/continuous-mitered-square-crochet-afghan-pattern/",
-  "designer_name": "Kara Gunza",
-  "project_type": "Blanket",
-  "fiber_art": "Crochet",
-  "yarn_weight": "DK",
+  "designer_name": "kara gunza",
+  "project_type": "blanket",
+  "fiber_art": "crochet",
+  "yarn_weight": "dk",
   "materials": [
     {
-      "fiber": "Mandala",
-      "pct": null
+      "fiber": "Acrylic (Acrylic)",
+      "pct": 100.0
     }
   ],
   "stitches_used": [
-    "Treble crochet (tr)"
+    "treble crochet (tr)"
   ],
   "techniques_used": [
-    "Charted",
-    "Colorwork",
-    "Written"
+    "charted",
+    "colorwork",
+    "written"
   ],
   "hook_sizes_mm": [
     5.0
   ],
   "needle_sizes_mm": [],
   "published": "2018/04/01",
-  "sizes_available": "Finished afghan as written measures approximately 52 in. x 40 in. but can be easily adjusted to any size.",
+  "sizes_available": "finished afghan as written measures approximately 52 in. x 40 in. but can be easily adjusted to any size.",
   "rating_average": 4.654545454545454,
   "rating_count": 55,
   "difficulty_average": 2.9245283018867925,
-  "favorites_count": 5627,
-  "projects_count": 270,
+  "favorites_count": 5649,
+  "projects_count": 273,
   "free_ravelry_download": false,
-  "download_url": "http://www.ravelry.com/purchase/petals-to-picots/520145"
+  "download_url": "http://www.ravelry.com/purchase/petals-to-picots/520145",
+  "notes": "the continuous mitered square crochet afghan pattern has the charm of patchwork squares but is worked continuously so there is no fastening off after each square leaving you with a zillion ends to weave in ... yay! and the self striping yarn does all the colorwork for you so you can just sit back and stitch.\r\n\r\n"
 }
