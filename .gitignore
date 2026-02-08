@@ -27,7 +27,6 @@ ENV/
 pdfs/*
 *.pdf
 metadata/*
-*.json
 txts/*
 *.txt
 
