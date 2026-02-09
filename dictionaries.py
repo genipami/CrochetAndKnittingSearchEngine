@@ -198,3 +198,57 @@ DOMAIN_STOP = {
     "pattern", "finished", "approx", "approximate", "cm", "copyright",
     "instructions", "materials", "notes"
 }
+
+CUSTOM_WORDS = [
+    # Crochet abbreviations
+    "sc", "dc", "hdc", "tr", "slst", "slip", "inc", "dec", "yo", "ch",
+    "fsc", "fpdc", "bpdc", "fpdc", "bptr", "fptr", "blo", "flo",
+
+    # Knitting abbreviations
+    "k", "p", "kfb", "k2tog", "ssk", "psso", "tbl", "m1", "m1l", "m1r",
+    "yo", "wyif", "wyib", "p2tog", "k3tog", "cdd", "stst", "st", "sts",
+    "yo", "pm", "sm", "rm", "sl",
+
+    # Yarn weights
+    "lace", "fingering", "sport", "dk", "worsted", "aran", "bulky", "jumbo", "medium",
+
+    # Materials
+    "wool", "cotton", "acrylic", "merino", "alpaca", "mohair",
+    "cashmere", "nylon", "silk", "bamboo", "linen", "hemp", "chenille",
+    "tweed", "superwash",
+
+    # Tools / notions
+    "hook", "needle", "dpn", "dpns", "circulars", "marker", "markers",
+    "tapestry", "gauge", "swatch", "block", "blocking", "pom", "pompom",
+
+    # Item categories
+    "beanie", "bonnet", "beret", "slouch", 
+    "mittens", "shawl", "wrap", "cowl", "snood",
+    "pullover", "vest",
+    "tee", "tank", "poncho", "shrug",
+    "afghan", "throw", "lapghan",
+    "booties", "slippers", "legwarmers",
+    "earwarmer", "balaclava", "cushion",
+    "amigurumi", "bag", "tote",
+
+    # Stitch terms
+    "rib", "ribbing", "stockinette", "garter", "seed", "moss",
+    "waistcoat", "herringbone", "granny", "bobble", "puff", "cluster",
+    "shell", "vstitch", "wattle", "suzette", "linen", "purl", "knit",
+    "brioche", "fairisle", "intarsia", "cable", "lace", "stitch",
+
+    # Construction / technique words
+    "topdown", "bottomup", "seamless", "raglan", "yoke",
+    "fade", "marling", "colorwork", "stranded",
+
+    # Sizes / descriptors
+    "newborn", "preemie", "toddler", "adult", "onesize",
+
+    # Yarn companies
+    "malabrigo", "drops", "scheepjes", "lionbrand", "caron", "bernat",
+    "paintbox", "hobbi", "hobbii", "cascade", "rowan",
+    "katia", "rico", "novita", "purlsoho", "rios"
+
+    # Other pattern vocabulary
+    "skein", "ball", "hank", "yardage", "notions", "motif",
+]
