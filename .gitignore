@@ -29,6 +29,8 @@ pdfs/*
 metadata/*
 txts/*
 *.txt
+*.npy
+*.index
 
 # Compressed archives (datasets, releases)
 *.zip
