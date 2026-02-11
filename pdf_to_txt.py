@@ -4,8 +4,6 @@ from nltk.tokenize import sent_tokenize
 import nltk
 nltk.download('punkt')
 nltk.download('stopwords')
-from nltk.corpus import stopwords
-from dictionaries import EQUIV_MAP
 
 ROOT_DIR = pathlib.Path(".").resolve()
 PDF_DIR = ROOT_DIR / "pdfs"

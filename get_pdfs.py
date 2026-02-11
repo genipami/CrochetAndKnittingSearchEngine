@@ -20,26 +20,18 @@ import requests
 from requests_oauthlib import OAuth1
 from requests import Response
 
-# -------------------------
-# Auth (env vars or defaults)
-# -------------------------
 CONSUMER_KEY = os.getenv("RAVELRY_CONSUMER_KEY", "15c948c58a84cc81c3cd01df60d40a28")
 CONSUMER_SECRET = os.getenv("RAVELRY_CONSUMER_SECRET", "uqlkk_iRsKsluJHDEyJABKcLsutsxupvWjduE38M")
 ACCESS_TOKEN = os.getenv("RAVELRY_ACCESS_TOKEN", "6qCZndZUP1cHXUPgpWx1nn7ZNpe5cyz48WJQeygZ")
 ACCESS_SECRET = os.getenv("RAVELRY_ACCESS_SECRET", "hkBOYFw9c4fuKoF976XAuFi99Puu5xcAxbCGqXSP")
 AUTH = OAuth1(CONSUMER_KEY, CONSUMER_SECRET, ACCESS_TOKEN, ACCESS_SECRET)
 
-# -------------------------
-# Paths
-# -------------------------
 ROOT_DIR = pathlib.Path(".").resolve()
 METADATA_DIR = ROOT_DIR / "metadata"
 PDF_DIR = ROOT_DIR / "pdfs"
 PDF_DIR.mkdir(parents=True, exist_ok=True)
 
-# -------------------------
-# Helpers
-# -------------------------
+
 PDF_CT_RE = re.compile(r"application/pdf", re.I)
 
 def is_pdf_response(resp: Response) -> bool:
@@ -90,7 +82,6 @@ def resolve_and_download_pdf(download_url: str, meta: dict, retries: int = 2, pa
     attempt = 0
     last_err: Optional[str] = None
 
-    # Determine canonical filename
     canonical_name = f"{meta.get('id') or meta.get('permalink')}.pdf"
     target_path = PDF_DIR / canonical_name
 
@@ -144,9 +135,6 @@ def resolve_and_download_pdf(download_url: str, meta: dict, retries: int = 2, pa
     print(f"[ERROR] Could not download PDF for {canonical_name}: {last_err}")
     return None
 
-# -------------------------
-# Main loop
-# -------------------------
 def process_metadata_files() -> Tuple[int, int, int]:
     files = sorted(METADATA_DIR.glob("*.json"))
     print(f"[INFO] Found {len(files)} metadata files in {METADATA_DIR}.")

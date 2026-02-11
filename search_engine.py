@@ -144,21 +144,21 @@ def run_tests():
 
 
 
-# def main():
-#     while True:
-#         query = input("Search something: ")
-#         query_and_print(query)
-
 def main():
-    with open(RESULTS_FILE, "w", newline="", encoding="utf-8") as f:
-        writer = csv.writer(f)
-        writer.writerow(["Set", "Query", "TopK", "Precision", "MRR", "Likert"])
+    while True:
+        query = input("Search something: ")
+        query_and_print(query)
 
-    results = run_tests()
+# def main():
+#     with open(RESULTS_FILE, "w", newline="", encoding="utf-8") as f:
+#         writer = csv.writer(f)
+#         writer.writerow(["Set", "Query", "TopK", "Precision", "MRR", "Likert"])
 
-    with open("test_results.csv", "w", newline="", encoding="utf-8") as f:
-        writer = csv.writer(f)
-        writer.writerows(results)
+#     results = run_tests()
+
+#     with open("test_results.csv", "w", newline="", encoding="utf-8") as f:
+#         writer = csv.writer(f)
+#         writer.writerows(results)
 
 
 if __name__ == "__main__":

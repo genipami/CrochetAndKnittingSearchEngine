@@ -24,18 +24,10 @@ import html
 from pathlib import Path
 from elasticsearch import Elasticsearch, helpers
 
-# -------------------------------
-# Environment configuration
-# -------------------------------
-
 ES_URL = os.environ.get("ES_URL", "http://localhost:9200")
 INDEX = os.environ.get("INDEX", "patterns_v2")   # NEW VERSIONED INDEX
 PDF_SERVED_PREFIX = os.environ.get("PDF_SERVED_PREFIX")  # optional
 
-
-# -------------------------------
-# Index Mapping (FINAL VERSION)
-# -------------------------------
 
 INDEX_MAPPING = {
     "settings": {
@@ -96,12 +88,6 @@ INDEX_MAPPING = {
         }
     }
 }
-
-
-
-# -------------------------------
-# Helper functions
-# -------------------------------
 
 def served_url_for(pdf_path: Path) -> str:
     """Return HTTP-served URL if PDF_SERVED_PREFIX is set, else local path."""
@@ -195,10 +181,6 @@ def iter_actions(metadata_dir: Path, pdf_dir: Path):
 
 
 
-# -------------------------------
-# Main
-# -------------------------------
-
 def main():
     import argparse
     ap = argparse.ArgumentParser()
@@ -212,7 +194,6 @@ def main():
 
     es = Elasticsearch(ES_URL)
 
-    # 1) Ensure index exists
     if not es.indices.exists(index=INDEX):
         print(f"Index '{INDEX}' does NOT exist. Creating it...")
         es.indices.create(index=INDEX, body=INDEX_MAPPING)
@@ -220,11 +201,9 @@ def main():
     else:
         print("Index already exists, continuing...")
 
-    # 2) Count metadata files
     meta_files = list(Path(args.metadata).glob("*.json"))
     print(f"Found {len(meta_files)} metadata files for ingestion.")
 
-    # 3) Bulk indexing
     print("Starting bulk ingestion...")
     ok, errors = helpers.bulk(
         es,
@@ -234,12 +213,10 @@ def main():
         request_timeout=120
     )
 
-    # 4) Report results
     print("\nIngestion Summary")
     print(f"Indexed docs: {ok}")
     print(f"Errors:{errors}")
 
-    # 5) Verify final count
     try:
         count = es.count(index=INDEX)["count"]
         print(f"Index now contains {count} documents.")
