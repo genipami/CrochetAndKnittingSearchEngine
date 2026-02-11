@@ -25,8 +25,8 @@ from pathlib import Path
 from elasticsearch import Elasticsearch, helpers
 
 ES_URL = os.environ.get("ES_URL", "http://localhost:9200")
-INDEX = os.environ.get("INDEX", "patterns_v2")   # NEW VERSIONED INDEX
-PDF_SERVED_PREFIX = os.environ.get("PDF_SERVED_PREFIX")  # optional
+INDEX = os.environ.get("INDEX", "patterns_v3")
+PDF_SERVED_PREFIX = os.environ.get("PDF_SERVED_PREFIX")
 
 
 INDEX_MAPPING = {
