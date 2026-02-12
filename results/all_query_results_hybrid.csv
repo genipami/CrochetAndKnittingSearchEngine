@@ -1,0 +1,102 @@
+Set,Query,TopK,Precision,MRR,Likert
+1,beanie,5,5,1.0,5
+1,scarf,5,5,1.0,5
+1,shawl,5,5,1.0,5
+1,mittens,5,5,1.0,5
+1,socks,5,5,1.0,5
+1,blanket,5,5,1.0,5
+1,cowl,5,5,1.0,5
+1,cardigan,5,5,1.0,5
+1,vest,5,3,1.0,2
+1,poncho,5,2,0.5,1
+1,headband,5,4,1.0,4
+1,amigurumi,5,4,1.0,4
+1,baby hat,5,5,1.0,5
+1,crochet bag,5,4,1.0,4
+1,knit sweater,5,4,1.0,4
+2,merino,5,0,0,1
+2,cotton yarn,5,5,1.0,5
+2,acrylic bulky yarn,5,0,0,1
+2,superwash wool,5,1,1.0,1
+2,chenille yarn,5,0,0,1
+2,velvet yarn,5,0,0,1
+2,alpaca yarn,5,0,0,1
+2,worsted weight,5,5,1.0,5
+2,dk cotton,5,1,1.0,2
+2,fingering wool,5,0,0,1
+2,super bulky,5,5,1.0,5
+2,lightweight cotton hat,5,0,0,1
+3,malabrigo rios,5,0,0,1
+3,lion brand wool ease,5,0,0,1
+3,caron simply soft,5,0,0,1
+3,paintbox dk,5,5,1.0,5
+3,scheepjes whirl,5,1,1.0,2
+3,katia bambi,5,0,0,1
+3,bernat velvet,5,0,0,1
+3,drops paris,5,0,0,1
+3,drops air,5,0,0,1
+3,purl soho line weight,5,1,1.0,2
+4,ribbed,5,0,0,1
+4,stockinette,5,0,0,1
+4,garter stitch,5,0,0,1
+4,brioche,5,5,1.0,5
+4,waistcoat stitch,5,0,0,1
+4,granny square,5,0,0,1
+4,bobble stitch,5,5,1.0,5
+4,puff stitch,5,0,0,1
+4,cable knit,5,5,1.0,5
+4,lace pattern,5,5,1.0,5
+4,ribbed brim,5,0,0,1
+4,colorwork,5,5,1.0,5
+4,marling,5,0,0,1
+4,fade,5,0,0,1
+5,newborn hat,5,5,1.0,5
+5,adult size beanie,5,5,1.0,5
+5,oversized sweater,5,4,1.0,4
+5,easy crochet pattern,5,5,1.0,5
+5,intermediate knitting project,5,5,1.0,4
+5,top-down raglan,5,5,1.0,5
+5,seamless cardigan,5,4,1.0,4
+5,quick beginner project,5,5,1.0,5
+5,lace shawl intermediate,5,5,1.0,5
+5,crochet in the round,5,5,1.0,5
+6,bulky yarn ribbed beanie,5,0,0,1
+6,cotton baby blanket crochet,5,0,0,1
+6,super bulky winter hat,5,4,1.0,4
+6,worsted weight cable beanie,5,4,0.5,4
+6,dk weight lace shawl,5,5,1.0,5
+6,merino fingering colorwork socks,5,0,0,1
+6,top down raglan sweater knit,5,5,1.0,5
+6,crochet velvet scrunchie,5,0,0,1
+6,half double crochet baby hat,5,0,0,1
+6,cowl with bobble stitch,5,2,0.5,2
+7,simple crochet beanie with pompom for beginner,5,5,1.0,3
+7,knitted socks with heel flap and gusset in sport yarn,5,5,1.0,5
+7,colorwork mitten pattern using worsted wool,5,3,1.0,3
+7,crochet amigurumi animal easy pattern,5,3,0.3333333333333333,2
+7,cable knit sweater with raglan shaping top down,5,3,1.0,3
+7,warm winter scarf knit in bulky weight merino,5,0,0,1
+7,baby cardigan with buttons crochet pattern,5,4,1.0,4
+7,oversized drop shoulder sweater knit,5,0,0,1
+7,crochet hat pattern using velvet yarn,5,0,0,1
+7,knit shawl with fade effect using fingering yarn,5,0,0,1
+8,I'm looking for a quick crochet hat pattern,5,5,1.0,5
+8,show me a knitting pattern for a warm chunky scarf,5,4,1.0,5
+8,what's a good beginner crochet blanket?,5,3,1.0,3
+8,pattern for a cute amigurumi animal,5,4,1.0,4
+8,knit sweater for men using worsted yarn,5,0,0,1
+8,crochet socks pattern for beginners,5,2,1.0,2
+8,pattern for a cozy winter hat,5,5,1.0,4
+8,I need a lightweight summer shawl,5,5,1.0,5
+8,how to crochet a simple beanie,5,5,1.0,5
+8,pattern for colorwork mittens,5,5,1.0,5
+9,crohchet beany,5,5,1.0,5
+9,knitted shalw,5,0,0,1
+9,amigurumy bear,5,3,1.0,3
+9,worstd yarn hat,5,5,1.0,5
+9,cable knit scraf,5,0,0,1
+9,chennile scrunchie,5,0,0,1
+9,bulky yran scarf,5,4,1.0,4
+9,merno wool socks,5,0,0,1
+9,grany sqare,5,0,0,1
+9,crochet baby hat,5,5,1.0,5

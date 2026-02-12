@@ -105,8 +105,7 @@ def normalize_url(u: str):
 
 
 def compute_best_link(pdf_url, external_url, ravelry_url):
-    """PDF > external > ravelry URL"""
-    return pdf_url or external_url or ravelry_url
+    return ravelry_url or external_url or pdf_url 
 
 
 def doc_from_meta(meta: dict, pdf_dir: Path) -> dict:

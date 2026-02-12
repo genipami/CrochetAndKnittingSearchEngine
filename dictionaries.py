@@ -356,3 +356,163 @@ QUERY_SETS:list = [
         "grany sqare",
         "crochet baby hat"]  
     ]
+
+SET_1 = [
+    {"query": "beanie", "filters": {"fiber_art": None}},
+    {"query": "scarf", "filters": {"fiber_art": None}},
+    {"query": "shawl", "filters": {"fiber_art": None}},
+    {"query": "mittens", "filters": {"fiber_art": None}},
+    {"query": "socks", "filters": {"fiber_art": None}},
+    {"query": "blanket", "filters": {"fiber_art": None}},
+    {"query": "cowl", "filters": {"fiber_art": None}},
+    {"query": "cardigan", "filters": {"fiber_art": None}},
+    {"query": "vest", "filters": {"fiber_art": None}},
+    {"query": "poncho", "filters": {"fiber_art": None}},
+    {"query": "headband", "filters": {"fiber_art": None}},
+    {"query": "amigurumi", "filters": {"fiber_art": None}},
+    {"query": "baby hat", "filters": {"fiber_art": None}},
+    {"query": "crochet bag", "filters": {"fiber_art": None}},
+    {"query": "knit sweater", "filters": {"fiber_art": None}},
+]
+
+SET_2 = [
+    {"query": "merino", "filters": {"materials_any": ["merino"]}},
+    {"query": "cotton yarn", "filters": {"materials_any": ["cotton"]}},
+    {"query": "acrylic bulky yarn", "filters": {"materials_any": ["acrylic"], "yarn_weight": "bulky"}},
+    {"query": "superwash wool", "filters": {"materials_any": ["wool"]}},
+    {"query": "chenille yarn", "filters": {"materials_any": ["chenille"]}},
+    {"query": "velvet yarn", "filters": {"materials_any": ["velvet"]}},
+    {"query": "alpaca yarn", "filters": {"materials_any": ["alpaca"]}},
+    {"query": "worsted weight", "filters": {"yarn_weight": "worsted"}},
+    {"query": "dk cotton", "filters": {"yarn_weight": "dk", "materials_any": ["cotton"]}},
+    {"query": "fingering wool", "filters": {"yarn_weight": "fingering", "materials_any": ["wool"]}},
+    {"query": "super bulky", "filters": {"yarn_weight": "super bulky"}},
+    {"query": "lightweight cotton hat", "filters": {"materials_any": ["cotton"], "yarn_weight": "lace"}},
+]
+
+SET_3 = [
+    {"query": "malabrigo rios",        "filters": {"materials_any": ["merino"], "yarn_weight": "worsted"}},
+    {"query": "lion brand wool ease",  "filters": {"materials_any": ["wool", "acrylic"]}},
+    {"query": "caron simply soft",     "filters": {"materials_any": ["acrylic"]}},
+    {"query": "paintbox dk",           "filters": {"yarn_weight": "dk"}},
+    {"query": "scheepjes whirl",       "filters": {"yarn_weight": "fingering"}},
+    {"query": "katia bambi",           "filters": {"materials_any": ["chenille"]}},
+    {"query": "bernat velvet",         "filters": {"materials_any": ["velvet"]}},
+    {"query": "drops paris",           "filters": {"materials_any": ["cotton"]}},
+    {"query": "drops air",             "filters": {"materials_any": ["alpaca", "wool"]}},
+    {"query": "purl soho line weight", "filters": {"yarn_weight": "lace"}},
+]
+
+SET_4 = [
+    {"query": "ribbed",            "filters": {"stitches_any": ["rib"], "fiber_art": None}},
+    {"query": "stockinette",       "filters": {"stitches_any": ["stockinette"], "fiber_art": "knitting"}},
+    {"query": "garter stitch",     "filters": {"stitches_any": ["garter"], "fiber_art": "knitting"}},
+    {"query": "brioche",           "filters": {"techniques_any": ["brioche"], "fiber_art": "knitting"}},
+    {"query": "waistcoat stitch",  "filters": {"stitches_any": ["waistcoat"], "fiber_art": "crochet"}},
+    {"query": "granny square",     "filters": {"techniques_any": ["granny square"], "fiber_art": "crochet"}},
+    {"query": "bobble stitch",     "filters": {"stitches_any": ["bobble"]}},
+    {"query": "puff stitch",       "filters": {"stitches_any": ["puff"]}},
+    {"query": "cable knit",        "filters": {"techniques_any": ["cables"], "fiber_art": "knitting"}},
+    {"query": "lace pattern",      "filters": {"techniques_any": ["lace"]}},
+    {"query": "ribbed brim",       "filters": {"stitches_any": ["rib"]}},
+    {"query": "colorwork",         "filters": {"techniques_any": ["colorwork"]}},
+    {"query": "marling",           "filters": {"techniques_any": ["marling"]}},
+    {"query": "fade",              "filters": {"techniques_any": ["fade"]}},
+]
+
+SET_5 = [
+    {"query": "newborn hat",               "filters": {"fiber_art": None}},
+    {"query": "adult size beanie",         "filters": {"fiber_art": None}},
+    {"query": "oversized sweater",         "filters": {"fiber_art": None}},
+    {"query": "easy crochet pattern",      "filters": {"fiber_art": "crochet"}},
+    {"query": "intermediate knitting project", "filters": {"fiber_art": "knitting"}},
+    {"query": "top-down raglan",           "filters": {"techniques_any": ["raglan", "top-down"], "fiber_art": "knitting"}},
+    {"query": "seamless cardigan",         "filters": {"techniques_any": ["seamless"], "fiber_art": None}},
+    {"query": "quick beginner project",    "filters": {}},
+    {"query": "lace shawl intermediate",   "filters": {"techniques_any": ["lace"]}},
+    {"query": "crochet in the round",      "filters": {"techniques_any": ["in the round"], "fiber_art": "crochet"}},
+]
+
+SET_6 = [
+    {"query": "bulky yarn ribbed beanie",
+     "filters": {"yarn_weight": "bulky", "stitches_any": ["rib"]}},
+    {"query": "cotton baby blanket crochet",
+     "filters": {"fiber_art": "crochet", "materials_any": ["cotton"]}},
+    {"query": "super bulky winter hat",
+     "filters": {"yarn_weight": "super bulky"}},
+    {"query": "worsted weight cable beanie",
+     "filters": {"yarn_weight": "worsted", "techniques_any": ["cables"]}},
+    {"query": "dk weight lace shawl",
+     "filters": {"yarn_weight": "dk", "techniques_any": ["lace"]}},
+    {"query": "merino fingering colorwork socks",
+     "filters": {"materials_any": ["merino"], "yarn_weight": "fingering", "techniques_any": ["colorwork"]}},
+    {"query": "top down raglan sweater knit",
+     "filters": {"fiber_art": "knitting", "techniques_any": ["raglan", "top-down"]}},
+    {"query": "crochet velvet scrunchie",
+     "filters": {"fiber_art": "crochet", "materials_any": ["velvet"]}},
+    {"query": "half double crochet baby hat",
+     "filters": {"fiber_art": "crochet", "stitches_any": ["half double crohet (hdc)"]}},
+    {"query": "cowl with bobble stitch",
+     "filters": {"stitches_any": ["bobble"]}},
+]
+
+SET_7 = [
+    {"query": "simple crochet beanie with pompom for beginner",
+     "filters": {"fiber_art": "crochet"}},
+    {"query": "knitted socks with heel flap and gusset in sport yarn",
+     "filters": {"fiber_art": "knitting", "yarn_weight": "sport"}},
+    {"query": "colorwork mitten pattern using worsted wool",
+     "filters": {"fiber_art": "knitting", "techniques_any": ["colorwork"], "yarn_weight": "worsted"}},
+    {"query": "crochet amigurumi animal easy pattern",
+     "filters": {"fiber_art": "crochet"}},
+    {"query": "cable knit sweater with raglan shaping top down",
+     "filters": {"fiber_art": "knitting", "techniques_any": ["cables", "raglan", "top-down"]}},
+    {"query": "warm winter scarf knit in bulky weight merino",
+     "filters": {"fiber_art": "knitting", "yarn_weight": "bulky", "materials_any": ["merino"]}},
+    {"query": "baby cardigan with buttons crochet pattern",
+     "filters": {"fiber_art": "crochet"}},
+    {"query": "oversized drop shoulder sweater knit",
+     "filters": {"fiber_art": "knitting"}},
+    {"query": "crochet hat pattern using velvet yarn",
+     "filters": {"fiber_art": "crochet", "materials_any": ["velvet"]}},
+    {"query": "knit shawl with fade effect using fingering yarn",
+     "filters": {"fiber_art": "knitting", "yarn_weight": "fingering", "techniques_any": ["fade"]}},
+]
+
+SET_8 = [
+    {"query": "I'm looking for a quick crochet hat pattern",
+     "filters": {"fiber_art": "crochet"}},
+    {"query": "show me a knitting pattern for a warm chunky scarf",
+     "filters": {"fiber_art": "knitting", "yarn_weight": "bulky"}},
+    {"query": "what's a good beginner crochet blanket?",
+     "filters": {"fiber_art": "crochet"}},
+    {"query": "pattern for a cute amigurumi animal",
+     "filters": {"fiber_art": "crochet"}},
+    {"query": "knit sweater for men using worsted yarn",
+     "filters": {"fiber_art": "knitting", "yarn_weight": "worsted"}},
+    {"query": "crochet socks pattern for beginners",
+     "filters": {"fiber_art": "crochet"}},
+    {"query": "pattern for a cozy winter hat",
+     "filters": {}},
+    {"query": "I need a lightweight summer shawl",
+     "filters": {"yarn_weight": "lace"}},
+    {"query": "how to crochet a simple beanie",
+     "filters": {"fiber_art": "crochet"}},
+    {"query": "pattern for colorwork mittens",
+     "filters": {"techniques_any": ["colorwork"]}},
+]
+
+SET_9 = [
+    {"query": "crohchet beany",          "filters": {"fiber_art": "crochet"}},
+    {"query": "knitted shalw",           "filters": {"fiber_art": "knitting"}},
+    {"query": "amigurumy bear",          "filters": {"fiber_art": "crochet"}},
+    {"query": "worstd yarn hat",         "filters": {"yarn_weight": "worsted"}},
+    {"query": "cable knit scraf",        "filters": {"fiber_art": "knitting", "techniques_any": ["cables"]}},
+    {"query": "chennile scrunchie",      "filters": {"materials_any": ["chenille"]}},
+    {"query": "bulky yran scarf",        "filters": {"yarn_weight": "bulky"}},
+    {"query": "merno wool socks",        "filters": {"materials_any": ["merino"], "fiber_art": "knitting"}},
+    {"query": "grany sqare",             "filters": {"fiber_art": "crochet", "techniques_any": ["granny square"]}},
+    {"query": "crochet baby hat",        "filters": {"fiber_art": "crochet"}},
+]
+
+QUERY_SETS_WITH_FILTERS = [SET_1, SET_2, SET_3, SET_4, SET_5, SET_6, SET_7, SET_8, SET_9]
